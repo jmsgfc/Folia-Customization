@@ -1,0 +1,706 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:4e69078e728bd1f934099d6b4eae1035",
+      "lines": [
+        {
+          "key": "361|Clean Bandit、Jess Glynne - Rather Be",
+          "text": "Clean Bandit、Jess Glynne - Rather Be",
+          "segments": [
+            "Clean Bandit、",
+            "Jess Glynne",
+            " - ",
+            "Rather Be"
+          ]
+        },
+        {
+          "key": "1122|Written by：Jack Patterson、James Napier、Nicole Marshall、Grace Chatto",
+          "text": "Written by：Jack Patterson、James Napier、Nicole Marshall、Grace Chatto",
+          "segments": [
+            "Written by：",
+            "Jack Patterson、",
+            "James Napier、",
+            "Nicole Marshall、",
+            "Grace Chatto"
+          ]
+        },
+        {
+          "key": "1274|Composed by：Jack Patterson、James Napier、Nicole Marshall、Grace Chatto",
+          "text": "Composed by：Jack Patterson、James Napier、Nicole Marshall、Grace Chatto",
+          "segments": [
+            "Composed by：",
+            "Jack Patterson、",
+            "James Napier、",
+            "Nicole Marshall、",
+            "Grace Chatto"
+          ]
+        },
+        {
+          "key": "17141|We're a thousand miles from comfort",
+          "text": "We're a thousand miles from comfort",
+          "segments": [
+            "We're ",
+            "a ",
+            "thousand ",
+            "miles ",
+            "from ",
+            "comfort"
+          ]
+        },
+        {
+          "key": "20986|We have traveled land and sea",
+          "text": "We have traveled land and sea",
+          "segments": [
+            "We ",
+            "have ",
+            "traveled ",
+            "land ",
+            "and ",
+            "sea"
+          ]
+        },
+        {
+          "key": "24883|But as long as you are with me ",
+          "text": "But as long as you are with me ",
+          "segments": [
+            "But ",
+            "as ",
+            "long ",
+            "as ",
+            "you ",
+            "are ",
+            "with ",
+            "me "
+          ]
+        },
+        {
+          "key": "29190|There's no place I'd rather be",
+          "text": "There's no place I'd rather be",
+          "segments": [
+            "There's ",
+            "no ",
+            "place ",
+            "I'd ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "33499|I would wait forever exulted in the scene",
+          "text": "I would wait forever exulted in the scene",
+          "segments": [
+            "I ",
+            "would ",
+            "wait ",
+            "forever ",
+            "exulted ",
+            "in ",
+            "the ",
+            "scene"
+          ]
+        },
+        {
+          "key": "41187|As long as I am with you my heart continues to beat",
+          "text": "As long as I am with you my heart continues to beat",
+          "segments": [
+            "As ",
+            "long ",
+            "as ",
+            "I ",
+            "am ",
+            "with ",
+            "you ",
+            "my ",
+            "heart ",
+            "continues ",
+            "to ",
+            "beat"
+          ]
+        },
+        {
+          "key": "49639|With every step we take Kyoto to The Bay",
+          "text": "With every step we take Kyoto to The Bay",
+          "segments": [
+            "With ",
+            "every ",
+            "step ",
+            "we ",
+            "take ",
+            "Kyoto ",
+            "to ",
+            "The ",
+            "Bay"
+          ]
+        },
+        {
+          "key": "53181|Strolling so casually",
+          "text": "Strolling so casually",
+          "segments": [
+            "Strolling ",
+            "so ",
+            "casually"
+          ]
+        },
+        {
+          "key": "57639|We're different and the same gave you another name",
+          "text": "We're different and the same gave you another name",
+          "segments": [
+            "We're ",
+            "different ",
+            "and ",
+            "the ",
+            "same ",
+            "gave ",
+            "you ",
+            "another ",
+            "name"
+          ]
+        },
+        {
+          "key": "61091|Switch up the batteries",
+          "text": "Switch up the batteries",
+          "segments": [
+            "Switch ",
+            "up ",
+            "the ",
+            "batteries"
+          ]
+        },
+        {
+          "key": "65194|If you gave me a chance I would take it",
+          "text": "If you gave me a chance I would take it",
+          "segments": [
+            "If ",
+            "you ",
+            "gave ",
+            "me ",
+            "a ",
+            "chance ",
+            "I ",
+            "would ",
+            "take ",
+            "it"
+          ]
+        },
+        {
+          "key": "69042|It's a shot in the dark but I'll make it",
+          "text": "It's a shot in the dark but I'll make it",
+          "segments": [
+            "It's ",
+            "a ",
+            "shot ",
+            "in ",
+            "the ",
+            "dark ",
+            "but ",
+            "I'll ",
+            "make ",
+            "it"
+          ]
+        },
+        {
+          "key": "73135|Know with all of your heart you can't shame me",
+          "text": "Know with all of your heart you can't shame me",
+          "segments": [
+            "Know ",
+            "with ",
+            "all ",
+            "of ",
+            "your ",
+            "heart ",
+            "you ",
+            "can't ",
+            "shame ",
+            "me"
+          ]
+        },
+        {
+          "key": "77071|When I am with you there's no place I rather be",
+          "text": "When I am with you there's no place I rather be",
+          "segments": [
+            "When ",
+            "I ",
+            "am ",
+            "with ",
+            "you ",
+            "there's ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "80822|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "85130|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "89173|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "96745|We staked out on a mission to find our inner peace",
+          "text": "We staked out on a mission to find our inner peace",
+          "segments": [
+            "We ",
+            "staked ",
+            "out ",
+            "on ",
+            "a ",
+            "mission ",
+            "to ",
+            "find ",
+            "our ",
+            "inner ",
+            "peace"
+          ]
+        },
+        {
+          "key": "104653|Make it everlasting so nothing's incomplete",
+          "text": "Make it everlasting so nothing's incomplete",
+          "segments": [
+            "Make ",
+            "it ",
+            "everlasting ",
+            "so ",
+            "nothing's ",
+            "incomplete"
+          ]
+        },
+        {
+          "key": "112601|It's easy being with you sacred simplicity",
+          "text": "It's easy being with you sacred simplicity",
+          "segments": [
+            "It's ",
+            "easy ",
+            "being ",
+            "with ",
+            "you ",
+            "sacred ",
+            "simplicity"
+          ]
+        },
+        {
+          "key": "120495|As long as we're together there's no place I rather be",
+          "text": "As long as we're together there's no place I rather be",
+          "segments": [
+            "As ",
+            "long ",
+            "as ",
+            "we're ",
+            "together ",
+            "there's ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "128801|With every step we take Kyoto to The Bay",
+          "text": "With every step we take Kyoto to The Bay",
+          "segments": [
+            "With ",
+            "every ",
+            "step ",
+            "we ",
+            "take ",
+            "Kyoto ",
+            "to ",
+            "The ",
+            "Bay"
+          ]
+        },
+        {
+          "key": "132543|Strolling so casually",
+          "text": "Strolling so casually",
+          "segments": [
+            "Strolling ",
+            "so ",
+            "casually"
+          ]
+        },
+        {
+          "key": "136747|We're different and the same gave you another name",
+          "text": "We're different and the same gave you another name",
+          "segments": [
+            "We're ",
+            "different ",
+            "and ",
+            "the ",
+            "same ",
+            "gave ",
+            "you ",
+            "another ",
+            "name"
+          ]
+        },
+        {
+          "key": "140446|Switch up the batteries",
+          "text": "Switch up the batteries",
+          "segments": [
+            "Switch ",
+            "up ",
+            "the ",
+            "batteries"
+          ]
+        },
+        {
+          "key": "144477|If you gave me a chance I would take it",
+          "text": "If you gave me a chance I would take it",
+          "segments": [
+            "If ",
+            "you ",
+            "gave ",
+            "me ",
+            "a ",
+            "chance ",
+            "I ",
+            "would ",
+            "take ",
+            "it"
+          ]
+        },
+        {
+          "key": "148224|It's a shot in the dark but I'll make it",
+          "text": "It's a shot in the dark but I'll make it",
+          "segments": [
+            "It's ",
+            "a ",
+            "shot ",
+            "in ",
+            "the ",
+            "dark ",
+            "but ",
+            "I'll ",
+            "make ",
+            "it"
+          ]
+        },
+        {
+          "key": "152371|Know with all of your heart you can't shame me",
+          "text": "Know with all of your heart you can't shame me",
+          "segments": [
+            "Know ",
+            "with ",
+            "all ",
+            "of ",
+            "your ",
+            "heart ",
+            "you ",
+            "can't ",
+            "shame ",
+            "me"
+          ]
+        },
+        {
+          "key": "156513|When I am with you there's no place I rather be",
+          "text": "When I am with you there's no place I rather be",
+          "segments": [
+            "When ",
+            "I ",
+            "am ",
+            "with ",
+            "you ",
+            "there's ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "160364|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "164465|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "168562|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "172100|When I am with you there's no place I rather be",
+          "text": "When I am with you there's no place I rather be",
+          "segments": [
+            "When ",
+            "I ",
+            "am ",
+            "with ",
+            "you ",
+            "there's ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "192217|If you gave me a chance I would take it",
+          "text": "If you gave me a chance I would take it",
+          "segments": [
+            "If ",
+            "you ",
+            "gave ",
+            "me ",
+            "a ",
+            "chance ",
+            "I ",
+            "would ",
+            "take ",
+            "it"
+          ]
+        },
+        {
+          "key": "195810|It's a shot in the dark but I'll make it",
+          "text": "It's a shot in the dark but I'll make it",
+          "segments": [
+            "It's ",
+            "a ",
+            "shot ",
+            "in ",
+            "the ",
+            "dark ",
+            "but ",
+            "I'll ",
+            "make ",
+            "it"
+          ]
+        },
+        {
+          "key": "199870|Know with all of your heart you can't shame me",
+          "text": "Know with all of your heart you can't shame me",
+          "segments": [
+            "Know ",
+            "with ",
+            "all ",
+            "of ",
+            "your ",
+            "heart ",
+            "you ",
+            "can't ",
+            "shame ",
+            "me"
+          ]
+        },
+        {
+          "key": "203922|When I am with you there's no place I rather be",
+          "text": "When I am with you there's no place I rather be",
+          "segments": [
+            "When ",
+            "I ",
+            "am ",
+            "with ",
+            "you ",
+            "there's ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "208325|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "212158|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "216157|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "219966|When I am with you there's no place I'd rather be",
+          "text": "When I am with you there's no place I'd rather be",
+          "segments": [
+            "When ",
+            "I ",
+            "am ",
+            "with ",
+            "you ",
+            "there's ",
+            "no ",
+            "place ",
+            "I'd ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "223910|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "227958|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "231959|No no no no no place I rather be",
+          "text": "No no no no no place I rather be",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        },
+        {
+          "key": "235698|When I am with you there's no place I rather be",
+          "text": "When I am with you there's no place I rather be",
+          "segments": [
+            "When ",
+            "I ",
+            "am ",
+            "with ",
+            "you ",
+            "there's ",
+            "no ",
+            "place ",
+            "I ",
+            "rather ",
+            "be"
+          ]
+        }
+      ]
+    }
+  ]
+}

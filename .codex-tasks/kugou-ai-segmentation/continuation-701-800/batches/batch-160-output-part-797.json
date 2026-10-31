@@ -1,0 +1,750 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:98a4bff94d1b223a462e1c9ff9c66937",
+      "lines": [
+        {
+          "key": "0|Shawn Mendes、Camila Cabello - Señorita",
+          "text": "Shawn Mendes、Camila Cabello - Señorita",
+          "segments": [
+            "Shawn Mendes",
+            "、",
+            "Camila Cabello ",
+            "- ",
+            "Señorita"
+          ]
+        },
+        {
+          "key": "887|Written by：Cashmere Cat、Jack Patterson、Charli XCX、​benny blanco、​watt、Ali Tamposi、Camila Cabello、Shawn Mendes ",
+          "text": "Written by：Cashmere Cat、Jack Patterson、Charli XCX、​benny blanco、​watt、Ali Tamposi、Camila Cabello、Shawn Mendes ",
+          "segments": [
+            "Written by：",
+            "Cashmere Cat",
+            "、",
+            "Jack Patterson",
+            "、",
+            "Charli XCX",
+            "、",
+            "​benny blanco",
+            "、",
+            "​watt",
+            "、",
+            "Ali Tamposi",
+            "、",
+            "Camila Cabello",
+            "、",
+            "Shawn Mendes "
+          ]
+        },
+        {
+          "key": "1899|Cabello：",
+          "text": "Cabello：",
+          "segments": [
+            "Cabello："
+          ]
+        },
+        {
+          "key": "15698|I love it when you call me señorita",
+          "text": "I love it when you call me señorita",
+          "segments": [
+            "I ",
+            "love ",
+            "it ",
+            "when ",
+            "you ",
+            "call ",
+            "me ",
+            "señorita"
+          ]
+        },
+        {
+          "key": "19497|I wish I could pretend I didn't need ya",
+          "text": "I wish I could pretend I didn't need ya",
+          "segments": [
+            "I ",
+            "wish ",
+            "I ",
+            "could ",
+            "pretend ",
+            "I ",
+            "didn't ",
+            "need ",
+            "ya"
+          ]
+        },
+        {
+          "key": "23639|But every touch is ooh-la-la-la",
+          "text": "But every touch is ooh-la-la-la",
+          "segments": [
+            "But ",
+            "every ",
+            "touch ",
+            "is ",
+            "ooh-la-la-la"
+          ]
+        },
+        {
+          "key": "26376|It's true la-la-la",
+          "text": "It's true la-la-la",
+          "segments": [
+            "It's ",
+            "true ",
+            "la-la-la"
+          ]
+        },
+        {
+          "key": "28964|Ooh I should be runnin'",
+          "text": "Ooh I should be runnin'",
+          "segments": [
+            "Ooh ",
+            "I ",
+            "should ",
+            "be ",
+            "runnin'"
+          ]
+        },
+        {
+          "key": "30970|Ooh you keep me coming for ya",
+          "text": "Ooh you keep me coming for ya",
+          "segments": [
+            "Ooh ",
+            "you ",
+            "keep ",
+            "me ",
+            "coming ",
+            "for ",
+            "ya"
+          ]
+        },
+        {
+          "key": "33093|Shawn Mendes：",
+          "text": "Shawn Mendes：",
+          "segments": [
+            "Shawn Mendes："
+          ]
+        },
+        {
+          "key": "33446|Land in Miami",
+          "text": "Land in Miami",
+          "segments": [
+            "Land ",
+            "in ",
+            "Miami"
+          ]
+        },
+        {
+          "key": "35316|The air was hot from summer rain",
+          "text": "The air was hot from summer rain",
+          "segments": [
+            "The ",
+            "air ",
+            "was ",
+            "hot ",
+            "from ",
+            "summer ",
+            "rain"
+          ]
+        },
+        {
+          "key": "37874|Sweat drippin' off me",
+          "text": "Sweat drippin' off me",
+          "segments": [
+            "Sweat ",
+            "drippin' ",
+            "off ",
+            "me"
+          ]
+        },
+        {
+          "key": "39634|Before I even knew her name la-la-la",
+          "text": "Before I even knew her name la-la-la",
+          "segments": [
+            "Before ",
+            "I ",
+            "even ",
+            "knew ",
+            "her ",
+            "name ",
+            "la-la-la"
+          ]
+        },
+        {
+          "key": "44576|It felt like ooh-la-la-la yeah no",
+          "text": "It felt like ooh-la-la-la yeah no",
+          "segments": [
+            "It ",
+            "felt ",
+            "like ",
+            "ooh-la-la-la ",
+            "yeah ",
+            "no"
+          ]
+        },
+        {
+          "key": "49745|Sapphire moonlight we danced for hours in the sand",
+          "text": "Sapphire moonlight we danced for hours in the sand",
+          "segments": [
+            "Sapphire ",
+            "moonlight ",
+            "we ",
+            "danced ",
+            "for ",
+            "hours ",
+            "in ",
+            "the ",
+            "sand"
+          ]
+        },
+        {
+          "key": "54063|Tequila sunrise ",
+          "text": "Tequila sunrise ",
+          "segments": [
+            "Tequila ",
+            "sunrise "
+          ]
+        },
+        {
+          "key": "55781|Her body fit right in my hands la-la-la",
+          "text": "Her body fit right in my hands la-la-la",
+          "segments": [
+            "Her ",
+            "body ",
+            "fit ",
+            "right ",
+            "in ",
+            "my ",
+            "hands ",
+            "la-la-la"
+          ]
+        },
+        {
+          "key": "60817|It felt like ooh-la-la-la yeah",
+          "text": "It felt like ooh-la-la-la yeah",
+          "segments": [
+            "It ",
+            "felt ",
+            "like ",
+            "ooh-la-la-la ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "63862|Camila Cabello、Shawn Mendes：",
+          "text": "Camila Cabello、Shawn Mendes：",
+          "segments": [
+            "Camila Cabello",
+            "、",
+            "Shawn Mendes",
+            "："
+          ]
+        },
+        {
+          "key": "64966|I love it when you call me señorita",
+          "text": "I love it when you call me señorita",
+          "segments": [
+            "I ",
+            "love ",
+            "it ",
+            "when ",
+            "you ",
+            "call ",
+            "me ",
+            "señorita"
+          ]
+        },
+        {
+          "key": "68870|I wish I could pretend I didn't need ya",
+          "text": "I wish I could pretend I didn't need ya",
+          "segments": [
+            "I ",
+            "wish ",
+            "I ",
+            "could ",
+            "pretend ",
+            "I ",
+            "didn't ",
+            "need ",
+            "ya"
+          ]
+        },
+        {
+          "key": "72872|But every touch is ooh-la-la-la",
+          "text": "But every touch is ooh-la-la-la",
+          "segments": [
+            "But ",
+            "every ",
+            "touch ",
+            "is ",
+            "ooh-la-la-la"
+          ]
+        },
+        {
+          "key": "75654|It's true la-la-la",
+          "text": "It's true la-la-la",
+          "segments": [
+            "It's ",
+            "true ",
+            "la-la-la"
+          ]
+        },
+        {
+          "key": "77935|Ooh I should be runnin'",
+          "text": "Ooh I should be runnin'",
+          "segments": [
+            "Ooh ",
+            "I ",
+            "should ",
+            "be ",
+            "runnin'"
+          ]
+        },
+        {
+          "key": "79895|Ooh you know I love it when you call me señorita",
+          "text": "Ooh you know I love it when you call me señorita",
+          "segments": [
+            "Ooh ",
+            "you ",
+            "know ",
+            "I ",
+            "love ",
+            "it ",
+            "when ",
+            "you ",
+            "call ",
+            "me ",
+            "señorita"
+          ]
+        },
+        {
+          "key": "85189|I wish it wasn't so damn hard to leave ya",
+          "text": "I wish it wasn't so damn hard to leave ya",
+          "segments": [
+            "I ",
+            "wish ",
+            "it ",
+            "wasn't ",
+            "so ",
+            "damn ",
+            "hard ",
+            "to ",
+            "leave ",
+            "ya"
+          ]
+        },
+        {
+          "key": "89336|But every touch is ooh-la-la-la",
+          "text": "But every touch is ooh-la-la-la",
+          "segments": [
+            "But ",
+            "every ",
+            "touch ",
+            "is ",
+            "ooh-la-la-la"
+          ]
+        },
+        {
+          "key": "92226|It's true la-la-la",
+          "text": "It's true la-la-la",
+          "segments": [
+            "It's ",
+            "true ",
+            "la-la-la"
+          ]
+        },
+        {
+          "key": "94303|Ooh I should be runnin'",
+          "text": "Ooh I should be runnin'",
+          "segments": [
+            "Ooh ",
+            "I ",
+            "should ",
+            "be ",
+            "runnin'"
+          ]
+        },
+        {
+          "key": "96371|Ooh you keep me coming for ya",
+          "text": "Ooh you keep me coming for ya",
+          "segments": [
+            "Ooh ",
+            "you ",
+            "keep ",
+            "me ",
+            "coming ",
+            "for ",
+            "ya"
+          ]
+        },
+        {
+          "key": "98786|Locked in the hotel",
+          "text": "Locked in the hotel",
+          "segments": [
+            "Locked ",
+            "in ",
+            "the ",
+            "hotel"
+          ]
+        },
+        {
+          "key": "100949|There's just some things that never change",
+          "text": "There's just some things that never change",
+          "segments": [
+            "There's ",
+            "just ",
+            "some ",
+            "things ",
+            "that ",
+            "never ",
+            "change"
+          ]
+        },
+        {
+          "key": "103462|You say we're just friends",
+          "text": "You say we're just friends",
+          "segments": [
+            "You ",
+            "say ",
+            "we're ",
+            "just ",
+            "friends"
+          ]
+        },
+        {
+          "key": "105032|But friends don't know the way you taste la-la-la",
+          "text": "But friends don't know the way you taste la-la-la",
+          "segments": [
+            "But ",
+            "friends ",
+            "don't ",
+            "know ",
+            "the ",
+            "way ",
+            "you ",
+            "taste ",
+            "la-la-la"
+          ]
+        },
+        {
+          "key": "110952|'Cause you know it's been a long time coming ",
+          "text": "'Cause you know it's been a long time coming ",
+          "segments": [
+            "'Cause ",
+            "you ",
+            "know ",
+            "it's ",
+            "been ",
+            "a ",
+            "long ",
+            "time ",
+            "coming "
+          ]
+        },
+        {
+          "key": "112627|Don't ya let me fall ooh",
+          "text": "Don't ya let me fall ooh",
+          "segments": [
+            "Don't ",
+            "ya ",
+            "let ",
+            "me ",
+            "fall ",
+            "ooh"
+          ]
+        },
+        {
+          "key": "115320|Ooh when your lips undress me",
+          "text": "Ooh when your lips undress me",
+          "segments": [
+            "Ooh ",
+            "when ",
+            "your ",
+            "lips ",
+            "undress ",
+            "me"
+          ]
+        },
+        {
+          "key": "117341|Hooked on your tongue",
+          "text": "Hooked on your tongue",
+          "segments": [
+            "Hooked ",
+            "on ",
+            "your ",
+            "tongue"
+          ]
+        },
+        {
+          "key": "119485|Oh I love your kiss it's deadly don't stop",
+          "text": "Oh I love your kiss it's deadly don't stop",
+          "segments": [
+            "Oh ",
+            "I ",
+            "love ",
+            "your ",
+            "kiss ",
+            "it's ",
+            "deadly ",
+            "don't ",
+            "stop"
+          ]
+        },
+        {
+          "key": "122374|I love it when you call me señorita",
+          "text": "I love it when you call me señorita",
+          "segments": [
+            "I ",
+            "love ",
+            "it ",
+            "when ",
+            "you ",
+            "call ",
+            "me ",
+            "señorita"
+          ]
+        },
+        {
+          "key": "126270|I wish I could pretend I didn't need ya",
+          "text": "I wish I could pretend I didn't need ya",
+          "segments": [
+            "I ",
+            "wish ",
+            "I ",
+            "could ",
+            "pretend ",
+            "I ",
+            "didn't ",
+            "need ",
+            "ya"
+          ]
+        },
+        {
+          "key": "130270|But every touch is ooh-la-la-la",
+          "text": "But every touch is ooh-la-la-la",
+          "segments": [
+            "But ",
+            "every ",
+            "touch ",
+            "is ",
+            "ooh-la-la-la"
+          ]
+        },
+        {
+          "key": "133163|It's true la-la-la",
+          "text": "It's true la-la-la",
+          "segments": [
+            "It's ",
+            "true ",
+            "la-la-la"
+          ]
+        },
+        {
+          "key": "135236|Ooh I should be runnin'",
+          "text": "Ooh I should be runnin'",
+          "segments": [
+            "Ooh ",
+            "I ",
+            "should ",
+            "be ",
+            "runnin'"
+          ]
+        },
+        {
+          "key": "137306|Ooh you know I love it when you call me señorita",
+          "text": "Ooh you know I love it when you call me señorita",
+          "segments": [
+            "Ooh ",
+            "you ",
+            "know ",
+            "I ",
+            "love ",
+            "it ",
+            "when ",
+            "you ",
+            "call ",
+            "me ",
+            "señorita"
+          ]
+        },
+        {
+          "key": "142727|I wish it wasn't so damn hard to leave ya",
+          "text": "I wish it wasn't so damn hard to leave ya",
+          "segments": [
+            "I ",
+            "wish ",
+            "it ",
+            "wasn't ",
+            "so ",
+            "damn ",
+            "hard ",
+            "to ",
+            "leave ",
+            "ya"
+          ]
+        },
+        {
+          "key": "146750|But every touch is ooh-la-la-la",
+          "text": "But every touch is ooh-la-la-la",
+          "segments": [
+            "But ",
+            "every ",
+            "touch ",
+            "is ",
+            "ooh-la-la-la"
+          ]
+        },
+        {
+          "key": "149909|It's true la-la-la",
+          "text": "It's true la-la-la",
+          "segments": [
+            "It's ",
+            "true ",
+            "la-la-la"
+          ]
+        },
+        {
+          "key": "151687|Ooh I should be runnin'",
+          "text": "Ooh I should be runnin'",
+          "segments": [
+            "Ooh ",
+            "I ",
+            "should ",
+            "be ",
+            "runnin'"
+          ]
+        },
+        {
+          "key": "153657|Ooh you keep me coming for ya",
+          "text": "Ooh you keep me coming for ya",
+          "segments": [
+            "Ooh ",
+            "you ",
+            "keep ",
+            "me ",
+            "coming ",
+            "for ",
+            "ya"
+          ]
+        },
+        {
+          "key": "157742|All along I've been coming for ya for you ",
+          "text": "All along I've been coming for ya for you ",
+          "segments": [
+            "All ",
+            "along ",
+            "I've ",
+            "been ",
+            "coming ",
+            "for ",
+            "ya ",
+            "for ",
+            "you "
+          ]
+        },
+        {
+          "key": "161636|And I hope it means something to you",
+          "text": "And I hope it means something to you",
+          "segments": [
+            "And ",
+            "I ",
+            "hope ",
+            "it ",
+            "means ",
+            "something ",
+            "to ",
+            "you"
+          ]
+        },
+        {
+          "key": "166022|Call my name I'll be coming for ya coming for ya",
+          "text": "Call my name I'll be coming for ya coming for ya",
+          "segments": [
+            "Call ",
+            "my ",
+            "name ",
+            "I'll ",
+            "be ",
+            "coming ",
+            "for ",
+            "ya ",
+            "coming ",
+            "for ",
+            "ya"
+          ]
+        },
+        {
+          "key": "169632|Calling for ya calling for ya",
+          "text": "Calling for ya calling for ya",
+          "segments": [
+            "Calling ",
+            "for ",
+            "ya ",
+            "calling ",
+            "for ",
+            "ya"
+          ]
+        },
+        {
+          "key": "171857|For ya",
+          "text": "For ya",
+          "segments": [
+            "For ",
+            "ya"
+          ]
+        },
+        {
+          "key": "175957|For ya",
+          "text": "For ya",
+          "segments": [
+            "For ",
+            "ya"
+          ]
+        },
+        {
+          "key": "178191|Ooh she loves it when I come",
+          "text": "Ooh she loves it when I come",
+          "segments": [
+            "Ooh ",
+            "she ",
+            "loves ",
+            "it ",
+            "when ",
+            "I ",
+            "come"
+          ]
+        },
+        {
+          "key": "180224|For ya",
+          "text": "For ya",
+          "segments": [
+            "For ",
+            "ya"
+          ]
+        },
+        {
+          "key": "184801|Ooh I should be runnin'",
+          "text": "Ooh I should be runnin'",
+          "segments": [
+            "Ooh ",
+            "I ",
+            "should ",
+            "be ",
+            "runnin'"
+          ]
+        },
+        {
+          "key": "186741|Ooh you keep me coming for ya",
+          "text": "Ooh you keep me coming for ya",
+          "segments": [
+            "Ooh ",
+            "you ",
+            "keep ",
+            "me ",
+            "coming ",
+            "for ",
+            "ya"
+          ]
+        }
+      ]
+    }
+  ]
+}

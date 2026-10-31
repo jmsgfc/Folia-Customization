@@ -1,0 +1,1490 @@
+{
+  "batchNumber": 158,
+  "songs": [
+    {
+      "rank": 786,
+      "songKey": "online:kugou:ae4c9e6990e557fa3e332e4dd624ee31",
+      "name": "I want you to know",
+      "artist": "南辰Music",
+      "lines": [
+        {
+          "key": "0|J.Ale - I want you to know（翻自 Zedd）",
+          "startMs": 0,
+          "text": "J.Ale - I want you to know（翻自 Zedd）"
+        },
+        {
+          "key": "999|I want you to know that it's our time",
+          "startMs": 999,
+          "text": "I want you to know that it's our time"
+        },
+        {
+          "key": "5064|You and me bleed the same light",
+          "startMs": 5064,
+          "text": "You and me bleed the same light"
+        },
+        {
+          "key": "8405|I want you to know that I'm all yours",
+          "startMs": 8405,
+          "text": "I want you to know that I'm all yours"
+        },
+        {
+          "key": "12804|You and me run the same course",
+          "startMs": 12804,
+          "text": "You and me run the same course"
+        },
+        {
+          "key": "15786|I'm slipping down a chain reaction",
+          "startMs": 15786,
+          "text": "I'm slipping down a chain reaction"
+        },
+        {
+          "key": "19425|And here I go",
+          "startMs": 19425,
+          "text": "And here I go"
+        },
+        {
+          "key": "20438|Here I go",
+          "startMs": 20438,
+          "text": "Here I go"
+        },
+        {
+          "key": "21552|Here I go",
+          "startMs": 21552,
+          "text": "Here I go"
+        },
+        {
+          "key": "22511|Go",
+          "startMs": 22511,
+          "text": "Go"
+        },
+        {
+          "key": "23322|And once again I'm yours in fractions",
+          "startMs": 23322,
+          "text": "And once again I'm yours in fractions"
+        },
+        {
+          "key": "26964|It takes me down",
+          "startMs": 26964,
+          "text": "It takes me down"
+        },
+        {
+          "key": "27976|Pulls me down",
+          "startMs": 27976,
+          "text": "Pulls me down"
+        },
+        {
+          "key": "28888|Pulls me down",
+          "startMs": 28888,
+          "text": "Pulls me down"
+        },
+        {
+          "key": "29798|Low",
+          "startMs": 29798,
+          "text": "Low"
+        },
+        {
+          "key": "30801|Honey it's raining tonight",
+          "startMs": 30801,
+          "text": "Honey it's raining tonight"
+        },
+        {
+          "key": "33944|But storms always have an eye",
+          "startMs": 33944,
+          "text": "But storms always have an eye"
+        },
+        {
+          "key": "36270|Have an eye",
+          "startMs": 36270,
+          "text": "Have an eye"
+        },
+        {
+          "key": "38238|Tell me you're covered tonight",
+          "startMs": 38238,
+          "text": "Tell me you're covered tonight"
+        },
+        {
+          "key": "41628|Or tell me lies",
+          "startMs": 41628,
+          "text": "Or tell me lies"
+        },
+        {
+          "key": "42791|Tell me lies",
+          "startMs": 42791,
+          "text": "Tell me lies"
+        },
+        {
+          "key": "47131|I want you to know that it's our time",
+          "startMs": 47131,
+          "text": "I want you to know that it's our time"
+        },
+        {
+          "key": "51433|You and me bleed the same light",
+          "startMs": 51433,
+          "text": "You and me bleed the same light"
+        },
+        {
+          "key": "54422|I want you to know that I'm all yours",
+          "startMs": 54422,
+          "text": "I want you to know that I'm all yours"
+        },
+        {
+          "key": "58817|You and me we're the same force",
+          "startMs": 58817,
+          "text": "You and me we're the same force"
+        },
+        {
+          "key": "61948|I want you to know that it's our time",
+          "startMs": 61948,
+          "text": "I want you to know that it's our time"
+        },
+        {
+          "key": "66146|You and me bleed the same light",
+          "startMs": 66146,
+          "text": "You and me bleed the same light"
+        },
+        {
+          "key": "69431|I want you to know that I'm all yours",
+          "startMs": 69431,
+          "text": "I want you to know that I'm all yours"
+        },
+        {
+          "key": "73779|You and me run the same course",
+          "startMs": 73779,
+          "text": "You and me run the same course"
+        },
+        {
+          "key": "91646|I want you to know that it's our time",
+          "startMs": 91646,
+          "text": "I want you to know that it's our time"
+        },
+        {
+          "key": "95794|You and me bleed the same light",
+          "startMs": 95794,
+          "text": "You and me bleed the same light"
+        },
+        {
+          "key": "98912|I'm better under your reflection",
+          "startMs": 98912,
+          "text": "I'm better under your reflection"
+        },
+        {
+          "key": "102550|But did you know",
+          "startMs": 102550,
+          "text": "But did you know"
+        },
+        {
+          "key": "103711|Did you know",
+          "startMs": 103711,
+          "text": "Did you know"
+        },
+        {
+          "key": "104571|Did you know",
+          "startMs": 104571,
+          "text": "Did you know"
+        },
+        {
+          "key": "105533|Know",
+          "startMs": 105533,
+          "text": "Know"
+        },
+        {
+          "key": "106343|That's anybody else that's met ya",
+          "startMs": 106343,
+          "text": "That's anybody else that's met ya"
+        },
+        {
+          "key": "110032|It's all the same",
+          "startMs": 110032,
+          "text": "It's all the same"
+        },
+        {
+          "key": "110992|All the same",
+          "startMs": 110992,
+          "text": "All the same"
+        },
+        {
+          "key": "111904|All the same",
+          "startMs": 111904,
+          "text": "All the same"
+        },
+        {
+          "key": "112862|Glow",
+          "startMs": 112862,
+          "text": "Glow"
+        },
+        {
+          "key": "113924|Honey it's raining tonight",
+          "startMs": 113924,
+          "text": "Honey it's raining tonight"
+        },
+        {
+          "key": "117314|But storms always have an eye",
+          "startMs": 117314,
+          "text": "But storms always have an eye"
+        },
+        {
+          "key": "119382|Have an eye",
+          "startMs": 119382,
+          "text": "Have an eye"
+        },
+        {
+          "key": "121304|Tell me you're covered tonight",
+          "startMs": 121304,
+          "text": "Tell me you're covered tonight"
+        },
+        {
+          "key": "124946|Or tell me lies",
+          "startMs": 124946,
+          "text": "Or tell me lies"
+        },
+        {
+          "key": "125834|Tell me lies",
+          "startMs": 125834,
+          "text": "Tell me lies"
+        },
+        {
+          "key": "128401|I want you to know that it's our time",
+          "startMs": 128401,
+          "text": "I want you to know that it's our time"
+        },
+        {
+          "key": "132699|You and me bleed the same light",
+          "startMs": 132699,
+          "text": "You and me bleed the same light"
+        },
+        {
+          "key": "135734|I want you to know that I'm all yours",
+          "startMs": 135734,
+          "text": "I want you to know that I'm all yours"
+        },
+        {
+          "key": "140232|You and me we're the same force",
+          "startMs": 140232,
+          "text": "You and me we're the same force"
+        },
+        {
+          "key": "143037|I want you to know that it's our time",
+          "startMs": 143037,
+          "text": "I want you to know that it's our time"
+        },
+        {
+          "key": "147282|You and me bleed the same light",
+          "startMs": 147282,
+          "text": "You and me bleed the same light"
+        },
+        {
+          "key": "150617|I want you to know that I'm all yours",
+          "startMs": 150617,
+          "text": "I want you to know that I'm all yours"
+        },
+        {
+          "key": "154868|You and me run the same course",
+          "startMs": 154868,
+          "text": "You and me run the same course"
+        },
+        {
+          "key": "173013|I want you to know that it's our time",
+          "startMs": 173013,
+          "text": "I want you to know that it's our time"
+        },
+        {
+          "key": "177058|You and me bleed the same light",
+          "startMs": 177058,
+          "text": "You and me bleed the same light"
+        },
+        {
+          "key": "179988|I want you to know that I'm all yours",
+          "startMs": 179988,
+          "text": "I want you to know that I'm all yours"
+        },
+        {
+          "key": "184291|You and me we're the same force",
+          "startMs": 184291,
+          "text": "You and me we're the same force"
+        }
+      ]
+    },
+    {
+      "rank": 787,
+      "songKey": "online:kugou:6846cb36a35b173db6def9532653f5a6",
+      "name": "东方之珠",
+      "artist": "周华健 / 李宗盛 / 陈淑桦 / 潘越云 / 娃娃 / 赵传",
+      "lines": [
+        {
+          "key": "600|李宗盛、陈淑桦 - 东方之珠",
+          "startMs": 600,
+          "text": "李宗盛、陈淑桦 - 东方之珠"
+        },
+        {
+          "key": "1600|词：罗大佑",
+          "startMs": 1600,
+          "text": "词：罗大佑"
+        },
+        {
+          "key": "2600|曲：罗大佑",
+          "startMs": 2600,
+          "text": "曲：罗大佑"
+        },
+        {
+          "key": "23719|小河弯弯向南流",
+          "startMs": 23719,
+          "text": "小河弯弯向南流"
+        },
+        {
+          "key": "29584|流到香江去看一看",
+          "startMs": 29584,
+          "text": "流到香江去看一看"
+        },
+        {
+          "key": "35455|东方之珠 我的爱人",
+          "startMs": 35455,
+          "text": "东方之珠 我的爱人"
+        },
+        {
+          "key": "41739|你的风采是否浪漫依然",
+          "startMs": 41739,
+          "text": "你的风采是否浪漫依然"
+        },
+        {
+          "key": "48173|月儿弯弯的海港",
+          "startMs": 48173,
+          "text": "月儿弯弯的海港"
+        },
+        {
+          "key": "54147|夜色深深灯火闪亮",
+          "startMs": 54147,
+          "text": "夜色深深灯火闪亮"
+        },
+        {
+          "key": "59918|东方之珠整夜未眠",
+          "startMs": 59918,
+          "text": "东方之珠整夜未眠"
+        },
+        {
+          "key": "66195|守着沧海桑田变幻的诺言",
+          "startMs": 66195,
+          "text": "守着沧海桑田变幻的诺言"
+        },
+        {
+          "key": "72431|让海风吹拂了五千年",
+          "startMs": 72431,
+          "text": "让海风吹拂了五千年"
+        },
+        {
+          "key": "78606|每一滴泪珠仿佛",
+          "startMs": 78606,
+          "text": "每一滴泪珠仿佛"
+        },
+        {
+          "key": "80816|都说出你的尊严",
+          "startMs": 80816,
+          "text": "都说出你的尊严"
+        },
+        {
+          "key": "84584|让海潮伴我来保佑你",
+          "startMs": 84584,
+          "text": "让海潮伴我来保佑你"
+        },
+        {
+          "key": "91012|请别忘记我永远不",
+          "startMs": 91012,
+          "text": "请别忘记我永远不"
+        },
+        {
+          "key": "93321|变黄色的脸",
+          "startMs": 93321,
+          "text": "变黄色的脸"
+        },
+        {
+          "key": "97192|船儿弯弯入海港",
+          "startMs": 97192,
+          "text": "船儿弯弯入海港"
+        },
+        {
+          "key": "103074|回头望望 沧海茫茫",
+          "startMs": 103074,
+          "text": "回头望望 沧海茫茫"
+        },
+        {
+          "key": "109157|东方之珠 拥抱着我",
+          "startMs": 109157,
+          "text": "东方之珠 拥抱着我"
+        },
+        {
+          "key": "115579|让我温暖你那",
+          "startMs": 115579,
+          "text": "让我温暖你那"
+        },
+        {
+          "key": "117840|苍凉的胸膛",
+          "startMs": 117840,
+          "text": "苍凉的胸膛"
+        },
+        {
+          "key": "122366|让海风吹拂了五千年",
+          "startMs": 122366,
+          "text": "让海风吹拂了五千年"
+        },
+        {
+          "key": "127743|每一滴泪珠仿佛",
+          "startMs": 127743,
+          "text": "每一滴泪珠仿佛"
+        },
+        {
+          "key": "129702|都说出你的尊严",
+          "startMs": 129702,
+          "text": "都说出你的尊严"
+        },
+        {
+          "key": "133870|让海潮伴我来保佑你",
+          "startMs": 133870,
+          "text": "让海潮伴我来保佑你"
+        },
+        {
+          "key": "139841|请别忘记我永远",
+          "startMs": 139841,
+          "text": "请别忘记我永远"
+        },
+        {
+          "key": "141853|不变黄色的脸",
+          "startMs": 141853,
+          "text": "不变黄色的脸"
+        },
+        {
+          "key": "146472|船儿弯弯入海港",
+          "startMs": 146472,
+          "text": "船儿弯弯入海港"
+        },
+        {
+          "key": "152296|回头望望 沧海茫茫",
+          "startMs": 152296,
+          "text": "回头望望 沧海茫茫"
+        },
+        {
+          "key": "158172|东方之珠 拥抱着我",
+          "startMs": 158172,
+          "text": "东方之珠 拥抱着我"
+        },
+        {
+          "key": "164397|让我温暖你那苍凉的胸膛",
+          "startMs": 164397,
+          "text": "让我温暖你那苍凉的胸膛"
+        },
+        {
+          "key": "186994|让海风吹拂了五千年",
+          "startMs": 186994,
+          "text": "让海风吹拂了五千年"
+        },
+        {
+          "key": "192061|每一滴泪珠仿佛",
+          "startMs": 192061,
+          "text": "每一滴泪珠仿佛"
+        },
+        {
+          "key": "194122|都说出你的尊严",
+          "startMs": 194122,
+          "text": "都说出你的尊严"
+        },
+        {
+          "key": "198489|让海潮伴我来保佑你",
+          "startMs": 198489,
+          "text": "让海潮伴我来保佑你"
+        },
+        {
+          "key": "204362|请别忘记我永远",
+          "startMs": 204362,
+          "text": "请别忘记我永远"
+        },
+        {
+          "key": "206519|不变黄色的脸",
+          "startMs": 206519,
+          "text": "不变黄色的脸"
+        },
+        {
+          "key": "210885|让海风吹拂了五千年",
+          "startMs": 210885,
+          "text": "让海风吹拂了五千年"
+        },
+        {
+          "key": "216658|每一滴泪珠仿佛",
+          "startMs": 216658,
+          "text": "每一滴泪珠仿佛"
+        },
+        {
+          "key": "218514|都说出你的尊严",
+          "startMs": 218514,
+          "text": "都说出你的尊严"
+        },
+        {
+          "key": "223383|让海潮伴我来保佑你",
+          "startMs": 223383,
+          "text": "让海潮伴我来保佑你"
+        },
+        {
+          "key": "228803|请别忘记我永远",
+          "startMs": 228803,
+          "text": "请别忘记我永远"
+        },
+        {
+          "key": "230660|不变黄色的脸",
+          "startMs": 230660,
+          "text": "不变黄色的脸"
+        },
+        {
+          "key": "235128|请别忘记我永远",
+          "startMs": 235128,
+          "text": "请别忘记我永远"
+        },
+        {
+          "key": "237137|不变黄色的脸",
+          "startMs": 237137,
+          "text": "不变黄色的脸"
+        }
+      ]
+    },
+    {
+      "rank": 788,
+      "songKey": "online:kugou:1fe0a50f9daae00beee56f559d003d71",
+      "name": "七子之歌 (Live)",
+      "artist": "华语群星",
+      "lines": [
+        {
+          "key": "113|华语群星 - 七子之歌(Live)",
+          "startMs": 113,
+          "text": "华语群星 - 七子之歌(Live)"
+        },
+        {
+          "key": "1677|作词：闻一多",
+          "startMs": 1677,
+          "text": "作词：闻一多"
+        },
+        {
+          "key": "2533|作曲：李海鹰",
+          "startMs": 2533,
+          "text": "作曲：李海鹰"
+        },
+        {
+          "key": "10988|你可知 macau",
+          "startMs": 10988,
+          "text": "你可知 macau"
+        },
+        {
+          "key": "13809|不是我真姓",
+          "startMs": 13809,
+          "text": "不是我真姓"
+        },
+        {
+          "key": "16532|我离开你太久了 ",
+          "startMs": 16532,
+          "text": "我离开你太久了 "
+        },
+        {
+          "key": "20363|母亲",
+          "startMs": 20363,
+          "text": "母亲"
+        },
+        {
+          "key": "22028|但是他们掳去的是",
+          "startMs": 22028,
+          "text": "但是他们掳去的是"
+        },
+        {
+          "key": "25204|我的肉体",
+          "startMs": 25204,
+          "text": "我的肉体"
+        },
+        {
+          "key": "27576|你依然保管我",
+          "startMs": 27576,
+          "text": "你依然保管我"
+        },
+        {
+          "key": "30395|内心的灵魂",
+          "startMs": 30395,
+          "text": "内心的灵魂"
+        },
+        {
+          "key": "38916|你可知 macau",
+          "startMs": 38916,
+          "text": "你可知 macau"
+        },
+        {
+          "key": "41749|不是我真姓",
+          "startMs": 41749,
+          "text": "不是我真姓"
+        },
+        {
+          "key": "44728|我离开你太久了 ",
+          "startMs": 44728,
+          "text": "我离开你太久了 "
+        },
+        {
+          "key": "48308|母亲",
+          "startMs": 48308,
+          "text": "母亲"
+        },
+        {
+          "key": "50020|但是他们掳去的是",
+          "startMs": 50020,
+          "text": "但是他们掳去的是"
+        },
+        {
+          "key": "53065|我的肉体",
+          "startMs": 53065,
+          "text": "我的肉体"
+        },
+        {
+          "key": "55684|你依然保管我",
+          "startMs": 55684,
+          "text": "你依然保管我"
+        },
+        {
+          "key": "58310|内心的灵魂",
+          "startMs": 58310,
+          "text": "内心的灵魂"
+        },
+        {
+          "key": "66479|那三百年来",
+          "startMs": 66479,
+          "text": "那三百年来"
+        },
+        {
+          "key": "69565|梦寐不忘的生母啊",
+          "startMs": 69565,
+          "text": "梦寐不忘的生母啊"
+        },
+        {
+          "key": "74837|请叫儿的乳名",
+          "startMs": 74837,
+          "text": "请叫儿的乳名"
+        },
+        {
+          "key": "77812|叫我一声澳门",
+          "startMs": 77812,
+          "text": "叫我一声澳门"
+        },
+        {
+          "key": "83451|母亲啊母亲",
+          "startMs": 83451,
+          "text": "母亲啊母亲"
+        },
+        {
+          "key": "86274|我要回来",
+          "startMs": 86274,
+          "text": "我要回来"
+        },
+        {
+          "key": "89799|母亲母亲",
+          "startMs": 89799,
+          "text": "母亲母亲"
+        },
+        {
+          "key": "108699|你可知 macau",
+          "startMs": 108699,
+          "text": "你可知 macau"
+        },
+        {
+          "key": "111424|不是我真姓",
+          "startMs": 111424,
+          "text": "不是我真姓"
+        },
+        {
+          "key": "114254|我要回来回来",
+          "startMs": 114254,
+          "text": "我要回来回来"
+        },
+        {
+          "key": "122097|母亲",
+          "startMs": 122097,
+          "text": "母亲"
+        }
+      ]
+    },
+    {
+      "rank": 789,
+      "songKey": "online:kugou:3eb14ad82ea66ee9b7620115ea6daf42",
+      "name": "破茧",
+      "artist": "张韶涵",
+      "lines": [
+        {
+          "key": "100|张韶涵 - 破茧(《斗罗大陆》动画2020年新主题曲)",
+          "startMs": 100,
+          "text": "张韶涵 - 破茧(《斗罗大陆》动画2020年新主题曲)"
+        },
+        {
+          "key": "790|作词：曹德智、郭德紫毅",
+          "startMs": 790,
+          "text": "作词：曹德智、郭德紫毅"
+        },
+        {
+          "key": "1216|作曲：文颖秋",
+          "startMs": 1216,
+          "text": "作曲：文颖秋"
+        },
+        {
+          "key": "1399|制作人：赵瑟",
+          "startMs": 1399,
+          "text": "制作人：赵瑟"
+        },
+        {
+          "key": "1581|编曲：文颖秋、赵瑟",
+          "startMs": 1581,
+          "text": "编曲：文颖秋、赵瑟"
+        },
+        {
+          "key": "1887|配唱制作人：杨钧尧",
+          "startMs": 1887,
+          "text": "配唱制作人：杨钧尧"
+        },
+        {
+          "key": "2193|录音师：潘尧泓",
+          "startMs": 2193,
+          "text": "录音师：潘尧泓"
+        },
+        {
+          "key": "2435|录音室：白金录音室",
+          "startMs": 2435,
+          "text": "录音室：白金录音室"
+        },
+        {
+          "key": "2736|吉他：齐成刚",
+          "startMs": 2736,
+          "text": "吉他：齐成刚"
+        },
+        {
+          "key": "2981|和声编写：文颖秋",
+          "startMs": 2981,
+          "text": "和声编写：文颖秋"
+        },
+        {
+          "key": "3224|和声：杜婧荧",
+          "startMs": 3224,
+          "text": "和声：杜婧荧"
+        },
+        {
+          "key": "3409|弦乐：国际首席爱乐乐团",
+          "startMs": 3409,
+          "text": "弦乐：国际首席爱乐乐团"
+        },
+        {
+          "key": "3836|弦乐监制：李朋",
+          "startMs": 3836,
+          "text": "弦乐监制：李朋"
+        },
+        {
+          "key": "4078|混音 Mixed by：李天野@北京有沐音乐",
+          "startMs": 4078,
+          "text": "混音 Mixed by：李天野@北京有沐音乐"
+        },
+        {
+          "key": "4621|母带 Mastered by：Randy Merrill@Sterling Sound",
+          "startMs": 4621,
+          "text": "母带 Mastered by：Randy Merrill@Sterling Sound"
+        },
+        {
+          "key": "4921|OP、SP：腾讯音乐娱乐集团（制作家）",
+          "startMs": 4921,
+          "text": "OP、SP：腾讯音乐娱乐集团（制作家）"
+        },
+        {
+          "key": "5407|出品：腾讯视频、腾讯音乐娱乐集团（制作家）",
+          "startMs": 5407,
+          "text": "出品：腾讯视频、腾讯音乐娱乐集团（制作家）"
+        },
+        {
+          "key": "11777|如果在噩梦中睁眼",
+          "startMs": 11777,
+          "text": "如果在噩梦中睁眼"
+        },
+        {
+          "key": "14229|直面着残忍的世界",
+          "startMs": 14229,
+          "text": "直面着残忍的世界"
+        },
+        {
+          "key": "17012|风拨动了谁的心弦",
+          "startMs": 17012,
+          "text": "风拨动了谁的心弦"
+        },
+        {
+          "key": "19578|留恋却来不及告别",
+          "startMs": 19578,
+          "text": "留恋却来不及告别"
+        },
+        {
+          "key": "22367|如果结局仅剩惨烈",
+          "startMs": 22367,
+          "text": "如果结局仅剩惨烈"
+        },
+        {
+          "key": "24975|无惧在逆风中破茧",
+          "startMs": 24975,
+          "text": "无惧在逆风中破茧"
+        },
+        {
+          "key": "27697|就算那羽翼被撕裂",
+          "startMs": 27697,
+          "text": "就算那羽翼被撕裂"
+        },
+        {
+          "key": "30306|重回到十九层深渊",
+          "startMs": 30306,
+          "text": "重回到十九层深渊"
+        },
+        {
+          "key": "32243|牵你手 往前走",
+          "startMs": 32243,
+          "text": "牵你手 往前走"
+        },
+        {
+          "key": "37218|黑夜白昼 不停留",
+          "startMs": 37218,
+          "text": "黑夜白昼 不停留"
+        },
+        {
+          "key": "41821|辗转时空",
+          "startMs": 41821,
+          "text": "辗转时空"
+        },
+        {
+          "key": "42909|会挫伤 会心痛",
+          "startMs": 42909,
+          "text": "会挫伤 会心痛"
+        },
+        {
+          "key": "47902|依然奋勇 去战斗",
+          "startMs": 47902,
+          "text": "依然奋勇 去战斗"
+        },
+        {
+          "key": "52714|才叫英雄",
+          "startMs": 52714,
+          "text": "才叫英雄"
+        },
+        {
+          "key": "53921|抬头 乱与战不休",
+          "startMs": 53921,
+          "text": "抬头 乱与战不休"
+        },
+        {
+          "key": "56463|回首 你在我左右",
+          "startMs": 56463,
+          "text": "回首 你在我左右"
+        },
+        {
+          "key": "58827|击溃 命运的诅咒",
+          "startMs": 58827,
+          "text": "击溃 命运的诅咒"
+        },
+        {
+          "key": "62901|让故事不朽",
+          "startMs": 62901,
+          "text": "让故事不朽"
+        },
+        {
+          "key": "64475|武魂 在放肆狂涌",
+          "startMs": 64475,
+          "text": "武魂 在放肆狂涌"
+        },
+        {
+          "key": "67142|守护 你一腔孤勇",
+          "startMs": 67142,
+          "text": "守护 你一腔孤勇"
+        },
+        {
+          "key": "69697|哪怕 未来如洪流",
+          "startMs": 69697,
+          "text": "哪怕 未来如洪流"
+        },
+        {
+          "key": "73514|也不曾退后",
+          "startMs": 73514,
+          "text": "也不曾退后"
+        },
+        {
+          "key": "78300|如果在噩梦中睁眼",
+          "startMs": 78300,
+          "text": "如果在噩梦中睁眼"
+        },
+        {
+          "key": "80967|直面着残忍的世界",
+          "startMs": 80967,
+          "text": "直面着残忍的世界"
+        },
+        {
+          "key": "83692|风拨动了谁的心弦",
+          "startMs": 83692,
+          "text": "风拨动了谁的心弦"
+        },
+        {
+          "key": "86297|留恋却来不及告别",
+          "startMs": 86297,
+          "text": "留恋却来不及告别"
+        },
+        {
+          "key": "89022|如果结局仅剩惨烈",
+          "startMs": 89022,
+          "text": "如果结局仅剩惨烈"
+        },
+        {
+          "key": "91763|无惧在逆风中破茧",
+          "startMs": 91763,
+          "text": "无惧在逆风中破茧"
+        },
+        {
+          "key": "94229|就算那羽翼被撕裂",
+          "startMs": 94229,
+          "text": "就算那羽翼被撕裂"
+        },
+        {
+          "key": "96970|重回到十九层深渊",
+          "startMs": 96970,
+          "text": "重回到十九层深渊"
+        },
+        {
+          "key": "98969|牵你手 往前走",
+          "startMs": 98969,
+          "text": "牵你手 往前走"
+        },
+        {
+          "key": "103875|黑夜白昼 不停留",
+          "startMs": 103875,
+          "text": "黑夜白昼 不停留"
+        },
+        {
+          "key": "108479|辗转时空",
+          "startMs": 108479,
+          "text": "辗转时空"
+        },
+        {
+          "key": "109509|会挫伤 会心痛",
+          "startMs": 109509,
+          "text": "会挫伤 会心痛"
+        },
+        {
+          "key": "114536|依然奋勇 去战斗",
+          "startMs": 114536,
+          "text": "依然奋勇 去战斗"
+        },
+        {
+          "key": "119384|才叫英雄",
+          "startMs": 119384,
+          "text": "才叫英雄"
+        },
+        {
+          "key": "120520|抬头 乱与战不休",
+          "startMs": 120520,
+          "text": "抬头 乱与战不休"
+        },
+        {
+          "key": "123188|回首 你在我左右",
+          "startMs": 123188,
+          "text": "回首 你在我左右"
+        },
+        {
+          "key": "125683|击溃 命运的诅咒",
+          "startMs": 125683,
+          "text": "击溃 命运的诅咒"
+        },
+        {
+          "key": "129623|让故事不朽",
+          "startMs": 129623,
+          "text": "让故事不朽"
+        },
+        {
+          "key": "131199|武魂 在放肆狂涌",
+          "startMs": 131199,
+          "text": "武魂 在放肆狂涌"
+        },
+        {
+          "key": "133938|守护 你一腔孤勇",
+          "startMs": 133938,
+          "text": "守护 你一腔孤勇"
+        },
+        {
+          "key": "136238|哪怕 未来如洪流",
+          "startMs": 136238,
+          "text": "哪怕 未来如洪流"
+        },
+        {
+          "key": "140290|也不曾退后",
+          "startMs": 140290,
+          "text": "也不曾退后"
+        },
+        {
+          "key": "141925|当现实无路可逃",
+          "startMs": 141925,
+          "text": "当现实无路可逃"
+        },
+        {
+          "key": "144468|绝望将希望缠绕",
+          "startMs": 144468,
+          "text": "绝望将希望缠绕"
+        },
+        {
+          "key": "147136|也依旧无所谓地笑",
+          "startMs": 147136,
+          "text": "也依旧无所谓地笑"
+        },
+        {
+          "key": "152586|左锤护右手的草",
+          "startMs": 152586,
+          "text": "左锤护右手的草"
+        },
+        {
+          "key": "155194|双生的烈焰出鞘",
+          "startMs": 155194,
+          "text": "双生的烈焰出鞘"
+        },
+        {
+          "key": "157857|绝处逢生见招拆招",
+          "startMs": 157857,
+          "text": "绝处逢生见招拆招"
+        },
+        {
+          "key": "163190|抬头 乱与战不休",
+          "startMs": 163190,
+          "text": "抬头 乱与战不休"
+        },
+        {
+          "key": "165886|回首 你在我左右",
+          "startMs": 165886,
+          "text": "回首 你在我左右"
+        },
+        {
+          "key": "168236|击溃 命运的诅咒",
+          "startMs": 168236,
+          "text": "击溃 命运的诅咒"
+        },
+        {
+          "key": "172256|让故事不朽",
+          "startMs": 172256,
+          "text": "让故事不朽"
+        },
+        {
+          "key": "173829|武魂 在放肆狂涌",
+          "startMs": 173829,
+          "text": "武魂 在放肆狂涌"
+        },
+        {
+          "key": "176556|守护 你一腔孤勇",
+          "startMs": 176556,
+          "text": "守护 你一腔孤勇"
+        },
+        {
+          "key": "178798|哪怕 未来如洪流",
+          "startMs": 178798,
+          "text": "哪怕 未来如洪流"
+        },
+        {
+          "key": "182858|也不曾退后",
+          "startMs": 182858,
+          "text": "也不曾退后"
+        },
+        {
+          "key": "184613|当现实无路可逃",
+          "startMs": 184613,
+          "text": "当现实无路可逃"
+        },
+        {
+          "key": "187158|绝望将希望缠绕",
+          "startMs": 187158,
+          "text": "绝望将希望缠绕"
+        },
+        {
+          "key": "189817|也依旧无所谓地笑",
+          "startMs": 189817,
+          "text": "也依旧无所谓地笑"
+        },
+        {
+          "key": "195229|左锤护右手的草",
+          "startMs": 195229,
+          "text": "左锤护右手的草"
+        },
+        {
+          "key": "197830|双生的烈焰出鞘",
+          "startMs": 197830,
+          "text": "双生的烈焰出鞘"
+        },
+        {
+          "key": "200497|绝处逢生见招拆招",
+          "startMs": 200497,
+          "text": "绝处逢生见招拆招"
+        },
+        {
+          "key": "204135|也不曾退后",
+          "startMs": 204135,
+          "text": "也不曾退后"
+        }
+      ]
+    },
+    {
+      "rank": 790,
+      "songKey": "online:kugou:94412ea91cbae783d812a0df4085ab23",
+      "name": "Lost Control",
+      "artist": "Alan Walker / Sorana",
+      "lines": [
+        {
+          "key": "353|Alan Walker、Sorana - Lost Control",
+          "startMs": 353,
+          "text": "Alan Walker、Sorana - Lost Control"
+        },
+        {
+          "key": "1111|Written by：Thomas Troelsen、Anders Froen、Froen、Sorana Pacurar",
+          "startMs": 1111,
+          "text": "Written by：Thomas Troelsen、Anders Froen、Froen、Sorana Pacurar"
+        },
+        {
+          "key": "1566|Composed by：Alan Walker、Thomas Troelsen、Anders Froen、Sorana Pacurar、Fredrik Borch Olsen、Magnus Martinsen",
+          "startMs": 1566,
+          "text": "Composed by：Alan Walker、Thomas Troelsen、Anders Froen、Sorana Pacurar、Fredrik Borch Olsen、Magnus Martinsen"
+        },
+        {
+          "key": "2327|Produced by：Alan Walker、Mood Melodies",
+          "startMs": 2327,
+          "text": "Produced by：Alan Walker、Mood Melodies"
+        },
+        {
+          "key": "2629|Executive Producer：Gunnar Greve",
+          "startMs": 2629,
+          "text": "Executive Producer：Gunnar Greve"
+        },
+        {
+          "key": "2781|Published By：MER Publishing、Copyright Control、Sony、ATV Music Publishing、",
+          "startMs": 2781,
+          "text": "Published By：MER Publishing、Copyright Control、Sony、ATV Music Publishing、"
+        },
+        {
+          "key": "3334|EMI Music Publishing Denmark、Stellar Songs Ltd.、Tileyard Music Publishing ",
+          "startMs": 3334,
+          "text": "EMI Music Publishing Denmark、Stellar Songs Ltd.、Tileyard Music Publishing "
+        },
+        {
+          "key": "3738|Programmer：Alan Walker、Mood Melodies、Big Fred",
+          "startMs": 3738,
+          "text": "Programmer：Alan Walker、Mood Melodies、Big Fred"
+        },
+        {
+          "key": "4204|Co-produced by：Big Fred、Magnify ",
+          "startMs": 4204,
+          "text": "Co-produced by：Big Fred、Magnify "
+        },
+        {
+          "key": "11431|Mirrors they never lie ",
+          "startMs": 11431,
+          "text": "Mirrors they never lie "
+        },
+        {
+          "key": "13861|Don't see myself inside ",
+          "startMs": 13861,
+          "text": "Don't see myself inside "
+        },
+        {
+          "key": "16389|Why can't I get it right ",
+          "startMs": 16389,
+          "text": "Why can't I get it right "
+        },
+        {
+          "key": "18766|I don't know ",
+          "startMs": 18766,
+          "text": "I don't know "
+        },
+        {
+          "key": "21501|You're always watching me fall ",
+          "startMs": 21501,
+          "text": "You're always watching me fall "
+        },
+        {
+          "key": "24234|Shadows they like my wall ",
+          "startMs": 24234,
+          "text": "Shadows they like my wall "
+        },
+        {
+          "key": "26807|Why do I feel so small ",
+          "startMs": 26807,
+          "text": "Why do I feel so small "
+        },
+        {
+          "key": "28977|I don't know ",
+          "startMs": 28977,
+          "text": "I don't know "
+        },
+        {
+          "key": "31804|So I walk into the dead of night ",
+          "startMs": 31804,
+          "text": "So I walk into the dead of night "
+        },
+        {
+          "key": "34739|Where my monsters like to hide ",
+          "startMs": 34739,
+          "text": "Where my monsters like to hide "
+        },
+        {
+          "key": "37418|Chaos feels so good inside ",
+          "startMs": 37418,
+          "text": "Chaos feels so good inside "
+        },
+        {
+          "key": "39744|Now I know ",
+          "startMs": 39744,
+          "text": "Now I know "
+        },
+        {
+          "key": "42269|I lost ",
+          "startMs": 42269,
+          "text": "I lost "
+        },
+        {
+          "key": "43481|I lost ",
+          "startMs": 43481,
+          "text": "I lost "
+        },
+        {
+          "key": "44746|I lost control again ",
+          "startMs": 44746,
+          "text": "I lost control again "
+        },
+        {
+          "key": "47373|Always do the same and not to blame ",
+          "startMs": 47373,
+          "text": "Always do the same and not to blame "
+        },
+        {
+          "key": "49897|I lost control again ",
+          "startMs": 49897,
+          "text": "I lost control again "
+        },
+        {
+          "key": "52528|I don't ",
+          "startMs": 52528,
+          "text": "I don't "
+        },
+        {
+          "key": "53744|I don't ",
+          "startMs": 53744,
+          "text": "I don't "
+        },
+        {
+          "key": "55057|I don't know who I am ",
+          "startMs": 55057,
+          "text": "I don't know who I am "
+        },
+        {
+          "key": "57740|Always do the same and not to blame ",
+          "startMs": 57740,
+          "text": "Always do the same and not to blame "
+        },
+        {
+          "key": "60369|I lost control again ",
+          "startMs": 60369,
+          "text": "I lost control again "
+        },
+        {
+          "key": "81063|Oooh",
+          "startMs": 81063,
+          "text": "Oooh"
+        },
+        {
+          "key": "84553|I'm tired of being afraid ",
+          "startMs": 84553,
+          "text": "I'm tired of being afraid "
+        },
+        {
+          "key": "86781|But lately I lost my faith",
+          "startMs": 86781,
+          "text": "But lately I lost my faith"
+        },
+        {
+          "key": "89924|What is love without pain ",
+          "startMs": 89924,
+          "text": "What is love without pain "
+        },
+        {
+          "key": "91791|It ain't home ",
+          "startMs": 91791,
+          "text": "It ain't home "
+        },
+        {
+          "key": "94618|You're watching me but I'm below",
+          "startMs": 94618,
+          "text": "You're watching me but I'm below"
+        },
+        {
+          "key": "97153|When I get caught I hope",
+          "startMs": 97153,
+          "text": "When I get caught I hope"
+        },
+        {
+          "key": "99841|It's that kind of blackout that will",
+          "startMs": 99841,
+          "text": "It's that kind of blackout that will"
+        },
+        {
+          "key": "101966|Take me home",
+          "startMs": 101966,
+          "text": "Take me home"
+        },
+        {
+          "key": "104892|So I walk into the dead of night ",
+          "startMs": 104892,
+          "text": "So I walk into the dead of night "
+        },
+        {
+          "key": "107673|Where my monsters like to hide ",
+          "startMs": 107673,
+          "text": "Where my monsters like to hide "
+        },
+        {
+          "key": "110401|Chaos feels so good inside ",
+          "startMs": 110401,
+          "text": "Chaos feels so good inside "
+        },
+        {
+          "key": "112776|Now I know ",
+          "startMs": 112776,
+          "text": "Now I know "
+        },
+        {
+          "key": "115202|I lost ",
+          "startMs": 115202,
+          "text": "I lost "
+        },
+        {
+          "key": "116467|I lost ",
+          "startMs": 116467,
+          "text": "I lost "
+        },
+        {
+          "key": "117830|I lost control again ",
+          "startMs": 117830,
+          "text": "I lost control again "
+        },
+        {
+          "key": "120411|Always do the same and not to blame ",
+          "startMs": 120411,
+          "text": "Always do the same and not to blame "
+        },
+        {
+          "key": "122938|I lost control again ",
+          "startMs": 122938,
+          "text": "I lost control again "
+        },
+        {
+          "key": "125568|I don't ",
+          "startMs": 125568,
+          "text": "I don't "
+        },
+        {
+          "key": "126840|I don't ",
+          "startMs": 126840,
+          "text": "I don't "
+        },
+        {
+          "key": "128204|I don't know who I am ",
+          "startMs": 128204,
+          "text": "I don't know who I am "
+        },
+        {
+          "key": "130781|Always do the same and not to blame ",
+          "startMs": 130781,
+          "text": "Always do the same and not to blame "
+        },
+        {
+          "key": "133360|I lost control again ",
+          "startMs": 133360,
+          "text": "I lost control again "
+        },
+        {
+          "key": "157038|I know that I'm a mess",
+          "startMs": 157038,
+          "text": "I know that I'm a mess"
+        },
+        {
+          "key": "159060|But I ain't tryna be the best ",
+          "startMs": 159060,
+          "text": "But I ain't tryna be the best "
+        },
+        {
+          "key": "162208|So whatever's coming next ",
+          "startMs": 162208,
+          "text": "So whatever's coming next "
+        },
+        {
+          "key": "164593|I'd better pray",
+          "startMs": 164593,
+          "text": "I'd better pray"
+        },
+        {
+          "key": "167281|Never said I was an angel ",
+          "startMs": 167281,
+          "text": "Never said I was an angel "
+        },
+        {
+          "key": "169867|I am damaged all the way ",
+          "startMs": 169867,
+          "text": "I am damaged all the way "
+        },
+        {
+          "key": "172193|So whatever's coming next ",
+          "startMs": 172193,
+          "text": "So whatever's coming next "
+        },
+        {
+          "key": "174516|I'd better pray ",
+          "startMs": 174516,
+          "text": "I'd better pray "
+        },
+        {
+          "key": "177903|I lost ",
+          "startMs": 177903,
+          "text": "I lost "
+        },
+        {
+          "key": "179114|I lost ",
+          "startMs": 179114,
+          "text": "I lost "
+        },
+        {
+          "key": "180378|I lost control again ",
+          "startMs": 180378,
+          "text": "I lost control again "
+        },
+        {
+          "key": "183004|Always do the same and not to blame ",
+          "startMs": 183004,
+          "text": "Always do the same and not to blame "
+        },
+        {
+          "key": "185580|I lost control again ",
+          "startMs": 185580,
+          "text": "I lost control again "
+        },
+        {
+          "key": "188158|I don't ",
+          "startMs": 188158,
+          "text": "I don't "
+        },
+        {
+          "key": "189470|I don't ",
+          "startMs": 189470,
+          "text": "I don't "
+        },
+        {
+          "key": "190834|I don't know who I am ",
+          "startMs": 190834,
+          "text": "I don't know who I am "
+        },
+        {
+          "key": "193362|Always do the same and not to blame ",
+          "startMs": 193362,
+          "text": "Always do the same and not to blame "
+        },
+        {
+          "key": "195986|I lost control again",
+          "startMs": 195986,
+          "text": "I lost control again"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1150 @@
+{
+  "batchNumber": 160,
+  "songs": [
+    {
+      "rank": 796,
+      "songKey": "online:kugou:644dbaad130665e2bedc0bf284c83805",
+      "name": "贝加尔湖畔 (钢琴)",
+      "artist": "纯音乐",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 797,
+      "songKey": "online:kugou:98a4bff94d1b223a462e1c9ff9c66937",
+      "name": "Señorita",
+      "artist": "Shawn Mendes / Camila Cabello",
+      "lines": [
+        {
+          "key": "0|Shawn Mendes、Camila Cabello - Señorita",
+          "startMs": 0,
+          "text": "Shawn Mendes、Camila Cabello - Señorita"
+        },
+        {
+          "key": "887|Written by：Cashmere Cat、Jack Patterson、Charli XCX、​benny blanco、​watt、Ali Tamposi、Camila Cabello、Shawn Mendes ",
+          "startMs": 887,
+          "text": "Written by：Cashmere Cat、Jack Patterson、Charli XCX、​benny blanco、​watt、Ali Tamposi、Camila Cabello、Shawn Mendes "
+        },
+        {
+          "key": "1899|Cabello：",
+          "startMs": 1899,
+          "text": "Cabello："
+        },
+        {
+          "key": "15698|I love it when you call me señorita",
+          "startMs": 15698,
+          "text": "I love it when you call me señorita"
+        },
+        {
+          "key": "19497|I wish I could pretend I didn't need ya",
+          "startMs": 19497,
+          "text": "I wish I could pretend I didn't need ya"
+        },
+        {
+          "key": "23639|But every touch is ooh-la-la-la",
+          "startMs": 23639,
+          "text": "But every touch is ooh-la-la-la"
+        },
+        {
+          "key": "26376|It's true la-la-la",
+          "startMs": 26376,
+          "text": "It's true la-la-la"
+        },
+        {
+          "key": "28964|Ooh I should be runnin'",
+          "startMs": 28964,
+          "text": "Ooh I should be runnin'"
+        },
+        {
+          "key": "30970|Ooh you keep me coming for ya",
+          "startMs": 30970,
+          "text": "Ooh you keep me coming for ya"
+        },
+        {
+          "key": "33093|Shawn Mendes：",
+          "startMs": 33093,
+          "text": "Shawn Mendes："
+        },
+        {
+          "key": "33446|Land in Miami",
+          "startMs": 33446,
+          "text": "Land in Miami"
+        },
+        {
+          "key": "35316|The air was hot from summer rain",
+          "startMs": 35316,
+          "text": "The air was hot from summer rain"
+        },
+        {
+          "key": "37874|Sweat drippin' off me",
+          "startMs": 37874,
+          "text": "Sweat drippin' off me"
+        },
+        {
+          "key": "39634|Before I even knew her name la-la-la",
+          "startMs": 39634,
+          "text": "Before I even knew her name la-la-la"
+        },
+        {
+          "key": "44576|It felt like ooh-la-la-la yeah no",
+          "startMs": 44576,
+          "text": "It felt like ooh-la-la-la yeah no"
+        },
+        {
+          "key": "49745|Sapphire moonlight we danced for hours in the sand",
+          "startMs": 49745,
+          "text": "Sapphire moonlight we danced for hours in the sand"
+        },
+        {
+          "key": "54063|Tequila sunrise ",
+          "startMs": 54063,
+          "text": "Tequila sunrise "
+        },
+        {
+          "key": "55781|Her body fit right in my hands la-la-la",
+          "startMs": 55781,
+          "text": "Her body fit right in my hands la-la-la"
+        },
+        {
+          "key": "60817|It felt like ooh-la-la-la yeah",
+          "startMs": 60817,
+          "text": "It felt like ooh-la-la-la yeah"
+        },
+        {
+          "key": "63862|Camila Cabello、Shawn Mendes：",
+          "startMs": 63862,
+          "text": "Camila Cabello、Shawn Mendes："
+        },
+        {
+          "key": "64966|I love it when you call me señorita",
+          "startMs": 64966,
+          "text": "I love it when you call me señorita"
+        },
+        {
+          "key": "68870|I wish I could pretend I didn't need ya",
+          "startMs": 68870,
+          "text": "I wish I could pretend I didn't need ya"
+        },
+        {
+          "key": "72872|But every touch is ooh-la-la-la",
+          "startMs": 72872,
+          "text": "But every touch is ooh-la-la-la"
+        },
+        {
+          "key": "75654|It's true la-la-la",
+          "startMs": 75654,
+          "text": "It's true la-la-la"
+        },
+        {
+          "key": "77935|Ooh I should be runnin'",
+          "startMs": 77935,
+          "text": "Ooh I should be runnin'"
+        },
+        {
+          "key": "79895|Ooh you know I love it when you call me señorita",
+          "startMs": 79895,
+          "text": "Ooh you know I love it when you call me señorita"
+        },
+        {
+          "key": "85189|I wish it wasn't so damn hard to leave ya",
+          "startMs": 85189,
+          "text": "I wish it wasn't so damn hard to leave ya"
+        },
+        {
+          "key": "89336|But every touch is ooh-la-la-la",
+          "startMs": 89336,
+          "text": "But every touch is ooh-la-la-la"
+        },
+        {
+          "key": "92226|It's true la-la-la",
+          "startMs": 92226,
+          "text": "It's true la-la-la"
+        },
+        {
+          "key": "94303|Ooh I should be runnin'",
+          "startMs": 94303,
+          "text": "Ooh I should be runnin'"
+        },
+        {
+          "key": "96371|Ooh you keep me coming for ya",
+          "startMs": 96371,
+          "text": "Ooh you keep me coming for ya"
+        },
+        {
+          "key": "98786|Locked in the hotel",
+          "startMs": 98786,
+          "text": "Locked in the hotel"
+        },
+        {
+          "key": "100949|There's just some things that never change",
+          "startMs": 100949,
+          "text": "There's just some things that never change"
+        },
+        {
+          "key": "103462|You say we're just friends",
+          "startMs": 103462,
+          "text": "You say we're just friends"
+        },
+        {
+          "key": "105032|But friends don't know the way you taste la-la-la",
+          "startMs": 105032,
+          "text": "But friends don't know the way you taste la-la-la"
+        },
+        {
+          "key": "110952|'Cause you know it's been a long time coming ",
+          "startMs": 110952,
+          "text": "'Cause you know it's been a long time coming "
+        },
+        {
+          "key": "112627|Don't ya let me fall ooh",
+          "startMs": 112627,
+          "text": "Don't ya let me fall ooh"
+        },
+        {
+          "key": "115320|Ooh when your lips undress me",
+          "startMs": 115320,
+          "text": "Ooh when your lips undress me"
+        },
+        {
+          "key": "117341|Hooked on your tongue",
+          "startMs": 117341,
+          "text": "Hooked on your tongue"
+        },
+        {
+          "key": "119485|Oh I love your kiss it's deadly don't stop",
+          "startMs": 119485,
+          "text": "Oh I love your kiss it's deadly don't stop"
+        },
+        {
+          "key": "122374|I love it when you call me señorita",
+          "startMs": 122374,
+          "text": "I love it when you call me señorita"
+        },
+        {
+          "key": "126270|I wish I could pretend I didn't need ya",
+          "startMs": 126270,
+          "text": "I wish I could pretend I didn't need ya"
+        },
+        {
+          "key": "130270|But every touch is ooh-la-la-la",
+          "startMs": 130270,
+          "text": "But every touch is ooh-la-la-la"
+        },
+        {
+          "key": "133163|It's true la-la-la",
+          "startMs": 133163,
+          "text": "It's true la-la-la"
+        },
+        {
+          "key": "135236|Ooh I should be runnin'",
+          "startMs": 135236,
+          "text": "Ooh I should be runnin'"
+        },
+        {
+          "key": "137306|Ooh you know I love it when you call me señorita",
+          "startMs": 137306,
+          "text": "Ooh you know I love it when you call me señorita"
+        },
+        {
+          "key": "142727|I wish it wasn't so damn hard to leave ya",
+          "startMs": 142727,
+          "text": "I wish it wasn't so damn hard to leave ya"
+        },
+        {
+          "key": "146750|But every touch is ooh-la-la-la",
+          "startMs": 146750,
+          "text": "But every touch is ooh-la-la-la"
+        },
+        {
+          "key": "149909|It's true la-la-la",
+          "startMs": 149909,
+          "text": "It's true la-la-la"
+        },
+        {
+          "key": "151687|Ooh I should be runnin'",
+          "startMs": 151687,
+          "text": "Ooh I should be runnin'"
+        },
+        {
+          "key": "153657|Ooh you keep me coming for ya",
+          "startMs": 153657,
+          "text": "Ooh you keep me coming for ya"
+        },
+        {
+          "key": "157742|All along I've been coming for ya for you ",
+          "startMs": 157742,
+          "text": "All along I've been coming for ya for you "
+        },
+        {
+          "key": "161636|And I hope it means something to you",
+          "startMs": 161636,
+          "text": "And I hope it means something to you"
+        },
+        {
+          "key": "166022|Call my name I'll be coming for ya coming for ya",
+          "startMs": 166022,
+          "text": "Call my name I'll be coming for ya coming for ya"
+        },
+        {
+          "key": "169632|Calling for ya calling for ya",
+          "startMs": 169632,
+          "text": "Calling for ya calling for ya"
+        },
+        {
+          "key": "171857|For ya",
+          "startMs": 171857,
+          "text": "For ya"
+        },
+        {
+          "key": "175957|For ya",
+          "startMs": 175957,
+          "text": "For ya"
+        },
+        {
+          "key": "178191|Ooh she loves it when I come",
+          "startMs": 178191,
+          "text": "Ooh she loves it when I come"
+        },
+        {
+          "key": "180224|For ya",
+          "startMs": 180224,
+          "text": "For ya"
+        },
+        {
+          "key": "184801|Ooh I should be runnin'",
+          "startMs": 184801,
+          "text": "Ooh I should be runnin'"
+        },
+        {
+          "key": "186741|Ooh you keep me coming for ya",
+          "startMs": 186741,
+          "text": "Ooh you keep me coming for ya"
+        }
+      ]
+    },
+    {
+      "rank": 798,
+      "songKey": "online:kugou:d222903e4f1634b730d1d9bbcf4e2875",
+      "name": "听妈妈的话 (DJ彭鹏版)",
+      "artist": "周杰伦",
+      "lines": [
+        {
+          "key": "53|周杰伦 - 听妈妈的话 - DJ彭鹏版",
+          "startMs": 53,
+          "text": "周杰伦 - 听妈妈的话 - DJ彭鹏版"
+        },
+        {
+          "key": "656|作词：周杰伦",
+          "startMs": 656,
+          "text": "作词：周杰伦"
+        },
+        {
+          "key": "806|作曲：周杰伦",
+          "startMs": 806,
+          "text": "作曲：周杰伦"
+        },
+        {
+          "key": "16933|小朋友",
+          "startMs": 16933,
+          "text": "小朋友"
+        },
+        {
+          "key": "17800|你是否有很多问号",
+          "startMs": 17800,
+          "text": "你是否有很多问号"
+        },
+        {
+          "key": "19581|为什么",
+          "startMs": 19581,
+          "text": "为什么"
+        },
+        {
+          "key": "20543|别人在那看漫画",
+          "startMs": 20543,
+          "text": "别人在那看漫画"
+        },
+        {
+          "key": "21956|我却在学画画",
+          "startMs": 21956,
+          "text": "我却在学画画"
+        },
+        {
+          "key": "23267|对着钢琴说话",
+          "startMs": 23267,
+          "text": "对着钢琴说话"
+        },
+        {
+          "key": "24534|别人在玩游戏",
+          "startMs": 24534,
+          "text": "别人在玩游戏"
+        },
+        {
+          "key": "25598|我却靠在墙壁背我的ABC",
+          "startMs": 25598,
+          "text": "我却靠在墙壁背我的ABC"
+        },
+        {
+          "key": "27715|我说我要一台大大的飞机",
+          "startMs": 27715,
+          "text": "我说我要一台大大的飞机"
+        },
+        {
+          "key": "30349|但却得到一台旧旧录音机",
+          "startMs": 30349,
+          "text": "但却得到一台旧旧录音机"
+        },
+        {
+          "key": "32959|为什么要听妈妈的话",
+          "startMs": 32959,
+          "text": "为什么要听妈妈的话"
+        },
+        {
+          "key": "35184|长大后",
+          "startMs": 35184,
+          "text": "长大后"
+        },
+        {
+          "key": "35767|你就会开始懂了这段话",
+          "startMs": 35767,
+          "text": "你就会开始懂了这段话"
+        },
+        {
+          "key": "37588|哼",
+          "startMs": 37588,
+          "text": "哼"
+        },
+        {
+          "key": "38245|长大后我开始明白",
+          "startMs": 38245,
+          "text": "长大后我开始明白"
+        },
+        {
+          "key": "40329|为什么我",
+          "startMs": 40329,
+          "text": "为什么我"
+        },
+        {
+          "key": "41172|跑得比别人快",
+          "startMs": 41172,
+          "text": "跑得比别人快"
+        },
+        {
+          "key": "42039|飞得比别人高",
+          "startMs": 42039,
+          "text": "飞得比别人高"
+        },
+        {
+          "key": "43097|将来大家看的",
+          "startMs": 43097,
+          "text": "将来大家看的"
+        },
+        {
+          "key": "44106|都是我画的漫画",
+          "startMs": 44106,
+          "text": "都是我画的漫画"
+        },
+        {
+          "key": "45598|大家唱的都是我写的歌",
+          "startMs": 45598,
+          "text": "大家唱的都是我写的歌"
+        },
+        {
+          "key": "48572|妈妈的辛苦不让你看见",
+          "startMs": 48572,
+          "text": "妈妈的辛苦不让你看见"
+        },
+        {
+          "key": "51223|温暖的食谱在她心里面",
+          "startMs": 51223,
+          "text": "温暖的食谱在她心里面"
+        },
+        {
+          "key": "53691|有空就得多握握她的手",
+          "startMs": 53691,
+          "text": "有空就得多握握她的手"
+        },
+        {
+          "key": "56283|把手牵着一起梦游",
+          "startMs": 56283,
+          "text": "把手牵着一起梦游"
+        },
+        {
+          "key": "58562|听妈妈的话",
+          "startMs": 58562,
+          "text": "听妈妈的话"
+        },
+        {
+          "key": "63575|别让她受伤",
+          "startMs": 63575,
+          "text": "别让她受伤"
+        },
+        {
+          "key": "68835|想快快长大",
+          "startMs": 68835,
+          "text": "想快快长大"
+        },
+        {
+          "key": "73964|才能保护她",
+          "startMs": 73964,
+          "text": "才能保护她"
+        },
+        {
+          "key": "79162|美丽的白发",
+          "startMs": 79162,
+          "text": "美丽的白发"
+        },
+        {
+          "key": "84276|幸福中发芽",
+          "startMs": 84276,
+          "text": "幸福中发芽"
+        },
+        {
+          "key": "89490|天使的魔法",
+          "startMs": 89490,
+          "text": "天使的魔法"
+        },
+        {
+          "key": "94600|温暖中慈祥",
+          "startMs": 94600,
+          "text": "温暖中慈祥"
+        },
+        {
+          "key": "99303|在你的未来",
+          "startMs": 99303,
+          "text": "在你的未来"
+        },
+        {
+          "key": "100361|音乐是你的王牌",
+          "startMs": 100361,
+          "text": "音乐是你的王牌"
+        },
+        {
+          "key": "101629|拿王牌谈个恋爱",
+          "startMs": 101629,
+          "text": "拿王牌谈个恋爱"
+        },
+        {
+          "key": "102891|唉我不想把你教坏",
+          "startMs": 102891,
+          "text": "唉我不想把你教坏"
+        },
+        {
+          "key": "104658|还是听妈妈的话吧",
+          "startMs": 104658,
+          "text": "还是听妈妈的话吧"
+        },
+        {
+          "key": "106321|晚点再恋爱吧",
+          "startMs": 106321,
+          "text": "晚点再恋爱吧"
+        },
+        {
+          "key": "107588|我知道你未来的路",
+          "startMs": 107588,
+          "text": "我知道你未来的路"
+        },
+        {
+          "key": "108906|但妈比我更清楚",
+          "startMs": 108906,
+          "text": "但妈比我更清楚"
+        },
+        {
+          "key": "110519|你会开始学其他同学",
+          "startMs": 110519,
+          "text": "你会开始学其他同学"
+        },
+        {
+          "key": "111795|在书包写东写西",
+          "startMs": 111795,
+          "text": "在书包写东写西"
+        },
+        {
+          "key": "112948|但我建议最好写妈妈",
+          "startMs": 112948,
+          "text": "但我建议最好写妈妈"
+        },
+        {
+          "key": "114376|我会用功读书",
+          "startMs": 114376,
+          "text": "我会用功读书"
+        },
+        {
+          "key": "115641|用功读书",
+          "startMs": 115641,
+          "text": "用功读书"
+        },
+        {
+          "key": "116249|怎么会从我嘴巴说出",
+          "startMs": 116249,
+          "text": "怎么会从我嘴巴说出"
+        },
+        {
+          "key": "118172|不想你输",
+          "startMs": 118172,
+          "text": "不想你输"
+        },
+        {
+          "key": "118878|所以要叫你用功读书",
+          "startMs": 118878,
+          "text": "所以要叫你用功读书"
+        },
+        {
+          "key": "120198|妈妈织给你的毛衣",
+          "startMs": 120198,
+          "text": "妈妈织给你的毛衣"
+        },
+        {
+          "key": "121463|你要好好的收着",
+          "startMs": 121463,
+          "text": "你要好好的收着"
+        },
+        {
+          "key": "122819|因为母亲节到的时候",
+          "startMs": 122819,
+          "text": "因为母亲节到的时候"
+        },
+        {
+          "key": "124004|我会告诉她我还留着",
+          "startMs": 124004,
+          "text": "我会告诉她我还留着"
+        },
+        {
+          "key": "125381|对了我会遇到周润发",
+          "startMs": 125381,
+          "text": "对了我会遇到周润发"
+        },
+        {
+          "key": "127334|所以你可以跟同学炫耀",
+          "startMs": 127334,
+          "text": "所以你可以跟同学炫耀"
+        },
+        {
+          "key": "128899|赌神未来是你爸爸",
+          "startMs": 128899,
+          "text": "赌神未来是你爸爸"
+        },
+        {
+          "key": "130387|我找不到童年写的情书",
+          "startMs": 130387,
+          "text": "我找不到童年写的情书"
+        },
+        {
+          "key": "132198|你写完不要送人",
+          "startMs": 132198,
+          "text": "你写完不要送人"
+        },
+        {
+          "key": "133510|因为过两天",
+          "startMs": 133510,
+          "text": "因为过两天"
+        },
+        {
+          "key": "134268|你会在操场上捡到",
+          "startMs": 134268,
+          "text": "你会在操场上捡到"
+        },
+        {
+          "key": "135939|你会开始喜欢上流行歌",
+          "startMs": 135939,
+          "text": "你会开始喜欢上流行歌"
+        },
+        {
+          "key": "138173|因为张学友开始准备唱吻别",
+          "startMs": 138173,
+          "text": "因为张学友开始准备唱吻别"
+        },
+        {
+          "key": "141102|听妈妈的话",
+          "startMs": 141102,
+          "text": "听妈妈的话"
+        },
+        {
+          "key": "146207|别让她受伤",
+          "startMs": 146207,
+          "text": "别让她受伤"
+        },
+        {
+          "key": "151318|想快快长大",
+          "startMs": 151318,
+          "text": "想快快长大"
+        },
+        {
+          "key": "156530|才能保护她",
+          "startMs": 156530,
+          "text": "才能保护她"
+        },
+        {
+          "key": "161697|美丽的白发",
+          "startMs": 161697,
+          "text": "美丽的白发"
+        },
+        {
+          "key": "166798|幸福中发芽",
+          "startMs": 166798,
+          "text": "幸福中发芽"
+        },
+        {
+          "key": "171959|天使的魔法",
+          "startMs": 171959,
+          "text": "天使的魔法"
+        },
+        {
+          "key": "177223|温暖中慈祥",
+          "startMs": 177223,
+          "text": "温暖中慈祥"
+        },
+        {
+          "key": "182391|听妈妈的话",
+          "startMs": 182391,
+          "text": "听妈妈的话"
+        },
+        {
+          "key": "187510|别让她受伤",
+          "startMs": 187510,
+          "text": "别让她受伤"
+        },
+        {
+          "key": "192703|想快快长大",
+          "startMs": 192703,
+          "text": "想快快长大"
+        },
+        {
+          "key": "197860|才能保护她",
+          "startMs": 197860,
+          "text": "才能保护她"
+        },
+        {
+          "key": "203404|长大后我开始明白",
+          "startMs": 203404,
+          "text": "长大后我开始明白"
+        },
+        {
+          "key": "205469|为什么我跑得比别人快",
+          "startMs": 205469,
+          "text": "为什么我跑得比别人快"
+        },
+        {
+          "key": "207249|飞得比别人高",
+          "startMs": 207249,
+          "text": "飞得比别人高"
+        },
+        {
+          "key": "208212|将来大家看的",
+          "startMs": 208212,
+          "text": "将来大家看的"
+        },
+        {
+          "key": "209272|都是我画的漫画",
+          "startMs": 209272,
+          "text": "都是我画的漫画"
+        },
+        {
+          "key": "210833|大家唱的都是我写的歌",
+          "startMs": 210833,
+          "text": "大家唱的都是我写的歌"
+        },
+        {
+          "key": "213722|妈妈的辛苦不让你看见",
+          "startMs": 213722,
+          "text": "妈妈的辛苦不让你看见"
+        },
+        {
+          "key": "216293|温暖的食谱在她心里面",
+          "startMs": 216293,
+          "text": "温暖的食谱在她心里面"
+        },
+        {
+          "key": "218816|有空就得多握握她的手",
+          "startMs": 218816,
+          "text": "有空就得多握握她的手"
+        },
+        {
+          "key": "221501|把手牵着一起梦游",
+          "startMs": 221501,
+          "text": "把手牵着一起梦游"
+        },
+        {
+          "key": "223769|听妈妈的话",
+          "startMs": 223769,
+          "text": "听妈妈的话"
+        },
+        {
+          "key": "228786|别让她受伤",
+          "startMs": 228786,
+          "text": "别让她受伤"
+        },
+        {
+          "key": "233997|想快快长大",
+          "startMs": 233997,
+          "text": "想快快长大"
+        },
+        {
+          "key": "239151|才能保护她",
+          "startMs": 239151,
+          "text": "才能保护她"
+        },
+        {
+          "key": "244254|美丽的白发",
+          "startMs": 244254,
+          "text": "美丽的白发"
+        },
+        {
+          "key": "249455|幸福中发芽",
+          "startMs": 249455,
+          "text": "幸福中发芽"
+        },
+        {
+          "key": "254669|天使的魔法",
+          "startMs": 254669,
+          "text": "天使的魔法"
+        },
+        {
+          "key": "259832|温暖中慈祥",
+          "startMs": 259832,
+          "text": "温暖中慈祥"
+        }
+      ]
+    },
+    {
+      "rank": 799,
+      "songKey": "online:kugou:6d3c9ca95c349714cccfe9d42c075134",
+      "name": "Promise (承诺)",
+      "artist": "山岡晃",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 800,
+      "songKey": "online:kugou:1b742d449f9fc81c029b676814147c49",
+      "name": "起风了 (旧版)",
+      "artist": "买辣椒也用券",
+      "lines": [
+        {
+          "key": "0|买辣椒也用券 - 起风了 (旧版)",
+          "startMs": 0,
+          "text": "买辣椒也用券 - 起风了 (旧版)"
+        },
+        {
+          "key": "6910|词：米果",
+          "startMs": 6910,
+          "text": "词：米果"
+        },
+        {
+          "key": "8536|曲：高桥优",
+          "startMs": 8536,
+          "text": "曲：高桥优"
+        },
+        {
+          "key": "10569|编曲：池洼浩一 (Kouichi Ikekubo)",
+          "startMs": 10569,
+          "text": "编曲：池洼浩一 (Kouichi Ikekubo)"
+        },
+        {
+          "key": "20731|（未经著作人许可，不得翻唱、翻录或使用）",
+          "startMs": 20731,
+          "text": "（未经著作人许可，不得翻唱、翻录或使用）"
+        },
+        {
+          "key": "28862|这一路上走走停停",
+          "startMs": 28862,
+          "text": "这一路上走走停停"
+        },
+        {
+          "key": "32022|顺着少年漂流的痕迹",
+          "startMs": 32022,
+          "text": "顺着少年漂流的痕迹"
+        },
+        {
+          "key": "35192|迈出车站的前一刻",
+          "startMs": 35192,
+          "text": "迈出车站的前一刻"
+        },
+        {
+          "key": "38252|竟有些犹豫",
+          "startMs": 38252,
+          "text": "竟有些犹豫"
+        },
+        {
+          "key": "41332|不禁笑这近乡情怯",
+          "startMs": 41332,
+          "text": "不禁笑这近乡情怯"
+        },
+        {
+          "key": "44512|仍无可避免",
+          "startMs": 44512,
+          "text": "仍无可避免"
+        },
+        {
+          "key": "46842|而长野的天",
+          "startMs": 46842,
+          "text": "而长野的天"
+        },
+        {
+          "key": "48392|依旧那么暖",
+          "startMs": 48392,
+          "text": "依旧那么暖"
+        },
+        {
+          "key": "49822|风吹起了从前",
+          "startMs": 49822,
+          "text": "风吹起了从前"
+        },
+        {
+          "key": "52192|从前初识这世间",
+          "startMs": 52192,
+          "text": "从前初识这世间"
+        },
+        {
+          "key": "55232|万般流连",
+          "startMs": 55232,
+          "text": "万般流连"
+        },
+        {
+          "key": "56922|看着天边似在眼前",
+          "startMs": 56922,
+          "text": "看着天边似在眼前"
+        },
+        {
+          "key": "59772|也甘愿赴汤蹈火去走它一遍",
+          "startMs": 59772,
+          "text": "也甘愿赴汤蹈火去走它一遍"
+        },
+        {
+          "key": "64612|如今走过这世间",
+          "startMs": 64612,
+          "text": "如今走过这世间"
+        },
+        {
+          "key": "67672|万般流连",
+          "startMs": 67672,
+          "text": "万般流连"
+        },
+        {
+          "key": "69422|翻过岁月不同侧脸",
+          "startMs": 69422,
+          "text": "翻过岁月不同侧脸"
+        },
+        {
+          "key": "72182|措不及防闯入你的笑颜",
+          "startMs": 72182,
+          "text": "措不及防闯入你的笑颜"
+        },
+        {
+          "key": "78012|我曾难自拔于世界之大",
+          "startMs": 78012,
+          "text": "我曾难自拔于世界之大"
+        },
+        {
+          "key": "81842|也沉溺于其中梦话",
+          "startMs": 81842,
+          "text": "也沉溺于其中梦话"
+        },
+        {
+          "key": "85042|不得真假 不做挣扎 不惧笑话",
+          "startMs": 85042,
+          "text": "不得真假 不做挣扎 不惧笑话"
+        },
+        {
+          "key": "90522|我曾将青春翻涌成她",
+          "startMs": 90522,
+          "text": "我曾将青春翻涌成她"
+        },
+        {
+          "key": "94092|也曾指尖弹出盛夏",
+          "startMs": 94092,
+          "text": "也曾指尖弹出盛夏"
+        },
+        {
+          "key": "96992|心之所动 且就随缘去吧",
+          "startMs": 96992,
+          "text": "心之所动 且就随缘去吧"
+        },
+        {
+          "key": "102832|逆着光行走 任风吹雨打",
+          "startMs": 102832,
+          "text": "逆着光行走 任风吹雨打"
+        },
+        {
+          "key": "119240|短短的路走走停停",
+          "startMs": 119240,
+          "text": "短短的路走走停停"
+        },
+        {
+          "key": "122510|也有了几分的距离",
+          "startMs": 122510,
+          "text": "也有了几分的距离"
+        },
+        {
+          "key": "125510|不知抚摸的是故事 还是段心情",
+          "startMs": 125510,
+          "text": "不知抚摸的是故事 还是段心情"
+        },
+        {
+          "key": "131780|也许期待的不过是 与时间为敌",
+          "startMs": 131780,
+          "text": "也许期待的不过是 与时间为敌"
+        },
+        {
+          "key": "137220|再次看到你",
+          "startMs": 137220,
+          "text": "再次看到你"
+        },
+        {
+          "key": "138770|微凉晨光里",
+          "startMs": 138770,
+          "text": "微凉晨光里"
+        },
+        {
+          "key": "140250|笑得很甜蜜",
+          "startMs": 140250,
+          "text": "笑得很甜蜜"
+        },
+        {
+          "key": "142600|从前初识这世间",
+          "startMs": 142600,
+          "text": "从前初识这世间"
+        },
+        {
+          "key": "145620|万般流连",
+          "startMs": 145620,
+          "text": "万般流连"
+        },
+        {
+          "key": "147330|看着天边似在眼前",
+          "startMs": 147330,
+          "text": "看着天边似在眼前"
+        },
+        {
+          "key": "150150|也甘愿赴汤蹈火去走它一遍",
+          "startMs": 150150,
+          "text": "也甘愿赴汤蹈火去走它一遍"
+        },
+        {
+          "key": "154980|如今走过这世间",
+          "startMs": 154980,
+          "text": "如今走过这世间"
+        },
+        {
+          "key": "158100|万般流连",
+          "startMs": 158100,
+          "text": "万般流连"
+        },
+        {
+          "key": "159810|翻过岁月不同侧脸",
+          "startMs": 159810,
+          "text": "翻过岁月不同侧脸"
+        },
+        {
+          "key": "162560|措不及防闯入你的笑颜",
+          "startMs": 162560,
+          "text": "措不及防闯入你的笑颜"
+        },
+        {
+          "key": "168420|我曾难自拔于世界之大",
+          "startMs": 168420,
+          "text": "我曾难自拔于世界之大"
+        },
+        {
+          "key": "172240|也沉溺于其中梦话",
+          "startMs": 172240,
+          "text": "也沉溺于其中梦话"
+        },
+        {
+          "key": "175460|不得真假 不做挣扎 不惧笑话",
+          "startMs": 175460,
+          "text": "不得真假 不做挣扎 不惧笑话"
+        },
+        {
+          "key": "180910|我曾将青春翻涌成她",
+          "startMs": 180910,
+          "text": "我曾将青春翻涌成她"
+        },
+        {
+          "key": "184480|也曾指尖弹出盛夏",
+          "startMs": 184480,
+          "text": "也曾指尖弹出盛夏"
+        },
+        {
+          "key": "187360|心之所动 且就随缘去吧",
+          "startMs": 187360,
+          "text": "心之所动 且就随缘去吧"
+        },
+        {
+          "key": "218316|晚风吹起你鬓间的白发",
+          "startMs": 218316,
+          "text": "晚风吹起你鬓间的白发"
+        },
+        {
+          "key": "222086|抚平回忆留下的疤",
+          "startMs": 222086,
+          "text": "抚平回忆留下的疤"
+        },
+        {
+          "key": "225336|你的眼中 明暗交杂 一笑生花",
+          "startMs": 225336,
+          "text": "你的眼中 明暗交杂 一笑生花"
+        },
+        {
+          "key": "230796|暮色遮住你蹒跚的步伐",
+          "startMs": 230796,
+          "text": "暮色遮住你蹒跚的步伐"
+        },
+        {
+          "key": "234606|走进床头藏起的画",
+          "startMs": 234606,
+          "text": "走进床头藏起的画"
+        },
+        {
+          "key": "237806|画中的你 低着头说话",
+          "startMs": 237806,
+          "text": "画中的你 低着头说话"
+        },
+        {
+          "key": "243266|我仍感叹于世界之大",
+          "startMs": 243266,
+          "text": "我仍感叹于世界之大"
+        },
+        {
+          "key": "246766|也沉醉于儿时情话",
+          "startMs": 246766,
+          "text": "也沉醉于儿时情话"
+        },
+        {
+          "key": "249776|不剩真假 不做挣扎 无谓笑话",
+          "startMs": 249776,
+          "text": "不剩真假 不做挣扎 无谓笑话"
+        },
+        {
+          "key": "255706|我终将青春还给了她",
+          "startMs": 255706,
+          "text": "我终将青春还给了她"
+        },
+        {
+          "key": "259236|连同指尖弹出的盛夏",
+          "startMs": 259236,
+          "text": "连同指尖弹出的盛夏"
+        },
+        {
+          "key": "262686|心之所动 就随风去了",
+          "startMs": 262686,
+          "text": "心之所动 就随风去了"
+        },
+        {
+          "key": "268026|以爱之名 你还愿意吗",
+          "startMs": 268026,
+          "text": "以爱之名 你还愿意吗"
+        }
+      ]
+    }
+  ]
+}

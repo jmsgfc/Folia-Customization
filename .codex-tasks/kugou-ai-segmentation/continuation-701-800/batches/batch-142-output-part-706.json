@@ -1,0 +1,667 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:4673878eac9b0c2967f6afecf291eb3c",
+      "lines": [
+        {
+          "key": "139|Lulleaux、Kid Princess - Empty Love",
+          "text": "Lulleaux、Kid Princess - Empty Love",
+          "segments": [
+            "Lulleaux、",
+            "Kid Princess",
+            " - ",
+            "Empty Love"
+          ]
+        },
+        {
+          "key": "845|Written by：Hugo Prick、Farid Mammadov、Ali Abasbeyli、Ellee Duke、Tony Esterly",
+          "text": "Written by：Hugo Prick、Farid Mammadov、Ali Abasbeyli、Ellee Duke、Tony Esterly",
+          "segments": [
+            "Written by：",
+            "Hugo Prick、",
+            "Farid Mammadov、",
+            "Ali Abasbeyli、",
+            "Ellee Duke、",
+            "Tony Esterly"
+          ]
+        },
+        {
+          "key": "1301|Composed by：Hugo Prick、Farid Mammadov、Ali Abasbeyli、Ellee Duke、Tony Esterly",
+          "text": "Composed by：Hugo Prick、Farid Mammadov、Ali Abasbeyli、Ellee Duke、Tony Esterly",
+          "segments": [
+            "Composed by：",
+            "Hugo Prick、",
+            "Farid Mammadov、",
+            "Ali Abasbeyli、",
+            "Ellee Duke、",
+            "Tony Esterly"
+          ]
+        },
+        {
+          "key": "10228|All my friends are faded faded",
+          "text": "All my friends are faded faded",
+          "segments": [
+            "All ",
+            "my ",
+            "friends ",
+            "are ",
+            "faded ",
+            "faded"
+          ]
+        },
+        {
+          "key": "12656|One of them's half naked naked",
+          "text": "One of them's half naked naked",
+          "segments": [
+            "One ",
+            "of ",
+            "them's ",
+            "half ",
+            "naked ",
+            "naked"
+          ]
+        },
+        {
+          "key": "14882|That's when I really start to hate it",
+          "text": "That's when I really start to hate it",
+          "segments": [
+            "That's ",
+            "when ",
+            "I ",
+            "really ",
+            "start ",
+            "to ",
+            "hate ",
+            "it"
+          ]
+        },
+        {
+          "key": "16908|Can't make it 'til three",
+          "text": "Can't make it 'til three",
+          "segments": [
+            "Can't ",
+            "make ",
+            "it ",
+            "'til ",
+            "three"
+          ]
+        },
+        {
+          "key": "19827|Then a guy starts asking",
+          "text": "Then a guy starts asking",
+          "segments": [
+            "Then ",
+            "a ",
+            "guy ",
+            "starts ",
+            "asking"
+          ]
+        },
+        {
+          "key": "22007|To get my number on a napkin",
+          "text": "To get my number on a napkin",
+          "segments": [
+            "To ",
+            "get ",
+            "my ",
+            "number ",
+            "on ",
+            "a ",
+            "napkin"
+          ]
+        },
+        {
+          "key": "24650|Thinking something's gonna happen",
+          "text": "Thinking something's gonna happen",
+          "segments": [
+            "Thinking ",
+            "something's ",
+            "gonna ",
+            "happen"
+          ]
+        },
+        {
+          "key": "26676|I'm laughing boy please",
+          "text": "I'm laughing boy please",
+          "segments": [
+            "I'm ",
+            "laughing ",
+            "boy ",
+            "please"
+          ]
+        },
+        {
+          "key": "30408|That's why I-I-I",
+          "text": "That's why I-I-I",
+          "segments": [
+            "That's ",
+            "why ",
+            "I-I-I"
+          ]
+        },
+        {
+          "key": "32136|Yeah I always end up outside",
+          "text": "Yeah I always end up outside",
+          "segments": [
+            "Yeah ",
+            "I ",
+            "always ",
+            "end ",
+            "up ",
+            "outside"
+          ]
+        },
+        {
+          "key": "34567|Feeling like I'm wasting my time my time",
+          "text": "Feeling like I'm wasting my time my time",
+          "segments": [
+            "Feeling ",
+            "like ",
+            "I'm ",
+            "wasting ",
+            "my ",
+            "time ",
+            "my ",
+            "time"
+          ]
+        },
+        {
+          "key": "38430|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "39727|I-I-I-I can't do it anymore yeah I've tried",
+          "text": "I-I-I-I can't do it anymore yeah I've tried",
+          "segments": [
+            "I-I-I-I ",
+            "can't ",
+            "do ",
+            "it ",
+            "anymore ",
+            "yeah ",
+            "I've ",
+            "tried"
+          ]
+        },
+        {
+          "key": "44081|Looking for what I thought I'd find",
+          "text": "Looking for what I thought I'd find",
+          "segments": [
+            "Looking ",
+            "for ",
+            "what ",
+            "I ",
+            "thought ",
+            "I'd ",
+            "find"
+          ]
+        },
+        {
+          "key": "46670|Don't want no empty love",
+          "text": "Don't want no empty love",
+          "segments": [
+            "Don't ",
+            "want ",
+            "no ",
+            "empty ",
+            "love"
+          ]
+        },
+        {
+          "key": "49572|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "54536|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "56768|Like oh",
+          "text": "Like oh",
+          "segments": [
+            "Like ",
+            "oh"
+          ]
+        },
+        {
+          "key": "58993|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "63823|I'm just walking around in a baseball-T ",
+          "text": "I'm just walking around in a baseball-T ",
+          "segments": [
+            "I'm ",
+            "just ",
+            "walking ",
+            "around ",
+            "in ",
+            "a ",
+            "baseball-T "
+          ]
+        },
+        {
+          "key": "65848|Don't want no empty love",
+          "text": "Don't want no empty love",
+          "segments": [
+            "Don't ",
+            "want ",
+            "no ",
+            "empty ",
+            "love"
+          ]
+        },
+        {
+          "key": "70293|Same girls as last night",
+          "text": "Same girls as last night",
+          "segments": [
+            "Same ",
+            "girls ",
+            "as ",
+            "last ",
+            "night"
+          ]
+        },
+        {
+          "key": "72679|Yeah they getting in a girl fight",
+          "text": "Yeah they getting in a girl fight",
+          "segments": [
+            "Yeah ",
+            "they ",
+            "getting ",
+            "in ",
+            "a ",
+            "girl ",
+            "fight"
+          ]
+        },
+        {
+          "key": "75108|Boys think it's so tight yeah right",
+          "text": "Boys think it's so tight yeah right",
+          "segments": [
+            "Boys ",
+            "think ",
+            "it's ",
+            "so ",
+            "tight ",
+            "yeah ",
+            "right"
+          ]
+        },
+        {
+          "key": "77958|Let's leave",
+          "text": "Let's leave",
+          "segments": [
+            "Let's ",
+            "leave"
+          ]
+        },
+        {
+          "key": "79753|I don't know what they're chill with",
+          "text": "I don't know what they're chill with",
+          "segments": [
+            "I ",
+            "don't ",
+            "know ",
+            "what ",
+            "they're ",
+            "chill ",
+            "with"
+          ]
+        },
+        {
+          "key": "82368|All the drinks keep spilling",
+          "text": "All the drinks keep spilling",
+          "segments": [
+            "All ",
+            "the ",
+            "drinks ",
+            "keep ",
+            "spilling"
+          ]
+        },
+        {
+          "key": "84591|And I can still feel them all over me",
+          "text": "And I can still feel them all over me",
+          "segments": [
+            "And ",
+            "I ",
+            "can ",
+            "still ",
+            "feel ",
+            "them ",
+            "all ",
+            "over ",
+            "me"
+          ]
+        },
+        {
+          "key": "90191|That's why I-I-I",
+          "text": "That's why I-I-I",
+          "segments": [
+            "That's ",
+            "why ",
+            "I-I-I"
+          ]
+        },
+        {
+          "key": "92120|Yeah I always end up outside",
+          "text": "Yeah I always end up outside",
+          "segments": [
+            "Yeah ",
+            "I ",
+            "always ",
+            "end ",
+            "up ",
+            "outside"
+          ]
+        },
+        {
+          "key": "94388|Feeling like I'm wasting my time my time oh oh",
+          "text": "Feeling like I'm wasting my time my time oh oh",
+          "segments": [
+            "Feeling ",
+            "like ",
+            "I'm ",
+            "wasting ",
+            "my ",
+            "time ",
+            "my ",
+            "time ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "99647|I-I-I-I can't do it anymore yeah I've tried",
+          "text": "I-I-I-I can't do it anymore yeah I've tried",
+          "segments": [
+            "I-I-I-I ",
+            "can't ",
+            "do ",
+            "it ",
+            "anymore ",
+            "yeah ",
+            "I've ",
+            "tried"
+          ]
+        },
+        {
+          "key": "103998|Looking for what I thought I'd find I'd find",
+          "text": "Looking for what I thought I'd find I'd find",
+          "segments": [
+            "Looking ",
+            "for ",
+            "what ",
+            "I ",
+            "thought ",
+            "I'd ",
+            "find ",
+            "I'd ",
+            "find"
+          ]
+        },
+        {
+          "key": "109150|All the girls in the club like omg",
+          "text": "All the girls in the club like omg",
+          "segments": [
+            "All ",
+            "the ",
+            "girls ",
+            "in ",
+            "the ",
+            "club ",
+            "like ",
+            "omg"
+          ]
+        },
+        {
+          "key": "111684|All the boys in the club like who is she",
+          "text": "All the boys in the club like who is she",
+          "segments": [
+            "All ",
+            "the ",
+            "boys ",
+            "in ",
+            "the ",
+            "club ",
+            "like ",
+            "who ",
+            "is ",
+            "she"
+          ]
+        },
+        {
+          "key": "114012|All we want here is love but it's so empty",
+          "text": "All we want here is love but it's so empty",
+          "segments": [
+            "All ",
+            "we ",
+            "want ",
+            "here ",
+            "is ",
+            "love ",
+            "but ",
+            "it's ",
+            "so ",
+            "empty"
+          ]
+        },
+        {
+          "key": "116341|Like oh",
+          "text": "Like oh",
+          "segments": [
+            "Like ",
+            "oh"
+          ]
+        },
+        {
+          "key": "118782|All the girls in the club like buy me a drink",
+          "text": "All the girls in the club like buy me a drink",
+          "segments": [
+            "All ",
+            "the ",
+            "girls ",
+            "in ",
+            "the ",
+            "club ",
+            "like ",
+            "buy ",
+            "me ",
+            "a ",
+            "drink"
+          ]
+        },
+        {
+          "key": "121215|All the boys in the club they're starting to stink",
+          "text": "All the boys in the club they're starting to stink",
+          "segments": [
+            "All ",
+            "the ",
+            "boys ",
+            "in ",
+            "the ",
+            "club ",
+            "they're ",
+            "starting ",
+            "to ",
+            "stink"
+          ]
+        },
+        {
+          "key": "123549|I'm just walking around in a baseball-T",
+          "text": "I'm just walking around in a baseball-T",
+          "segments": [
+            "I'm ",
+            "just ",
+            "walking ",
+            "around ",
+            "in ",
+            "a ",
+            "baseball-T"
+          ]
+        },
+        {
+          "key": "125985|Don't want no empty love",
+          "text": "Don't want no empty love",
+          "segments": [
+            "Don't ",
+            "want ",
+            "no ",
+            "empty ",
+            "love"
+          ]
+        },
+        {
+          "key": "128637|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "133746|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "135735|Like oh",
+          "text": "Like oh",
+          "segments": [
+            "Like ",
+            "oh"
+          ]
+        },
+        {
+          "key": "138217|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "143035|I'm just walking around in a baseball-T",
+          "text": "I'm just walking around in a baseball-T",
+          "segments": [
+            "I'm ",
+            "just ",
+            "walking ",
+            "around ",
+            "in ",
+            "a ",
+            "baseball-T"
+          ]
+        },
+        {
+          "key": "145369|Don't want no empty love",
+          "text": "Don't want no empty love",
+          "segments": [
+            "Don't ",
+            "want ",
+            "no ",
+            "empty ",
+            "love"
+          ]
+        },
+        {
+          "key": "148087|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "149564|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "152875|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "154785|Don't want no empty love",
+          "text": "Don't want no empty love",
+          "segments": [
+            "Don't ",
+            "want ",
+            "no ",
+            "empty ",
+            "love"
+          ]
+        },
+        {
+          "key": "157399|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "159259|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "162230|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "164336|Don't want no empty love",
+          "text": "Don't want no empty love",
+          "segments": [
+            "Don't ",
+            "want ",
+            "no ",
+            "empty ",
+            "love"
+          ]
+        },
+        {
+          "key": "166920|Love",
+          "text": "Love",
+          "segments": [
+            "Love"
+          ]
+        }
+      ]
+    }
+  ]
+}

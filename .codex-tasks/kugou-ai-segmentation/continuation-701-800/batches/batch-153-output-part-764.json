@@ -1,0 +1,1004 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:4c1db8fbe721e185114c157208015b4e",
+      "lines": [
+        {
+          "key": "466|AnDyWuMUSICLAND - Something Just Like This (Megamix)",
+          "text": "AnDyWuMUSICLAND - Something Just Like This (Megamix)",
+          "segments": [
+            "AnDyWuMUSICLAND",
+            " - ",
+            "Something Just Like This (Megamix)"
+          ]
+        },
+        {
+          "key": "4078|He says what you've heard is true but I",
+          "text": "He says what you've heard is true but I",
+          "segments": [
+            "He ",
+            "says ",
+            "what ",
+            "you've ",
+            "heard ",
+            "is ",
+            "true ",
+            "but ",
+            "I"
+          ]
+        },
+        {
+          "key": "6279|Can't stop thinking about you and I",
+          "text": "Can't stop thinking about you and I",
+          "segments": [
+            "Can't ",
+            "stop ",
+            "thinking ",
+            "about ",
+            "you ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "8591|I said I've been there too a few times",
+          "text": "I said I've been there too a few times",
+          "segments": [
+            "I ",
+            "said ",
+            "I've ",
+            "been ",
+            "there ",
+            "too ",
+            "a ",
+            "few ",
+            "times"
+          ]
+        },
+        {
+          "key": "12467|I had a dream",
+          "text": "I had a dream",
+          "segments": [
+            "I ",
+            "had ",
+            "a ",
+            "dream"
+          ]
+        },
+        {
+          "key": "14127|We were sipping whisky neat",
+          "text": "We were sipping whisky neat",
+          "segments": [
+            "We ",
+            "were ",
+            "sipping ",
+            "whisky ",
+            "neat"
+          ]
+        },
+        {
+          "key": "16383|Highest floor the bowery",
+          "text": "Highest floor the bowery",
+          "segments": [
+            "Highest ",
+            "floor ",
+            "the ",
+            "bowery"
+          ]
+        },
+        {
+          "key": "18595|And I was high enough",
+          "text": "And I was high enough",
+          "segments": [
+            "And ",
+            "I ",
+            "was ",
+            "high ",
+            "enough"
+          ]
+        },
+        {
+          "key": "21171|Somewhere along the lines",
+          "text": "Somewhere along the lines",
+          "segments": [
+            "Somewhere ",
+            "along ",
+            "the ",
+            "lines"
+          ]
+        },
+        {
+          "key": "23160|We stopped seeing eye to eye",
+          "text": "We stopped seeing eye to eye",
+          "segments": [
+            "We ",
+            "stopped ",
+            "seeing ",
+            "eye ",
+            "to ",
+            "eye"
+          ]
+        },
+        {
+          "key": "25449|You were staying out all night",
+          "text": "You were staying out all night",
+          "segments": [
+            "You ",
+            "were ",
+            "staying ",
+            "out ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "27728|And I had enough",
+          "text": "And I had enough",
+          "segments": [
+            "And ",
+            "I ",
+            "had ",
+            "enough"
+          ]
+        },
+        {
+          "key": "29962|She don't see the light that's shining",
+          "text": "She don't see the light that's shining",
+          "segments": [
+            "She ",
+            "don't ",
+            "see ",
+            "the ",
+            "light ",
+            "that's ",
+            "shining"
+          ]
+        },
+        {
+          "key": "33426|Deeper than the eyes can find it",
+          "text": "Deeper than the eyes can find it",
+          "segments": [
+            "Deeper ",
+            "than ",
+            "the ",
+            "eyes ",
+            "can ",
+            "find ",
+            "it"
+          ]
+        },
+        {
+          "key": "35742|Maybe we have made her blind",
+          "text": "Maybe we have made her blind",
+          "segments": [
+            "Maybe ",
+            "we ",
+            "have ",
+            "made ",
+            "her ",
+            "blind"
+          ]
+        },
+        {
+          "key": "37136|So she tries to cover up her pain",
+          "text": "So she tries to cover up her pain",
+          "segments": [
+            "So ",
+            "she ",
+            "tries ",
+            "to ",
+            "cover ",
+            "up ",
+            "her ",
+            "pain"
+          ]
+        },
+        {
+          "key": "40207|My heart's crippled by the vein that I keep on closing",
+          "text": "My heart's crippled by the vein that I keep on closing",
+          "segments": [
+            "My ",
+            "heart's ",
+            "crippled ",
+            "by ",
+            "the ",
+            "vein ",
+            "that ",
+            "I ",
+            "keep ",
+            "on ",
+            "closing"
+          ]
+        },
+        {
+          "key": "43741|Still falling for you",
+          "text": "Still falling for you",
+          "segments": [
+            "Still ",
+            "falling ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "45915|Still falling for you",
+          "text": "Still falling for you",
+          "segments": [
+            "Still ",
+            "falling ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "46994|You cut me open and I",
+          "text": "You cut me open and I",
+          "segments": [
+            "You ",
+            "cut ",
+            "me ",
+            "open ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "48434|There's a hope that's waiting",
+          "text": "There's a hope that's waiting",
+          "segments": [
+            "There's ",
+            "a ",
+            "hope ",
+            "that's ",
+            "waiting"
+          ]
+        },
+        {
+          "key": "50089|For you in the dark",
+          "text": "For you in the dark",
+          "segments": [
+            "For ",
+            "you ",
+            "in ",
+            "the ",
+            "dark"
+          ]
+        },
+        {
+          "key": "52350|You should know you're beautiful",
+          "text": "You should know you're beautiful",
+          "segments": [
+            "You ",
+            "should ",
+            "know ",
+            "you're ",
+            "beautiful"
+          ]
+        },
+        {
+          "key": "54552|Just the way you are",
+          "text": "Just the way you are",
+          "segments": [
+            "Just ",
+            "the ",
+            "way ",
+            "you ",
+            "are"
+          ]
+        },
+        {
+          "key": "56732|And you don't have to change a thing",
+          "text": "And you don't have to change a thing",
+          "segments": [
+            "And ",
+            "you ",
+            "don't ",
+            "have ",
+            "to ",
+            "change ",
+            "a ",
+            "thing"
+          ]
+        },
+        {
+          "key": "59028|The world could change its heart",
+          "text": "The world could change its heart",
+          "segments": [
+            "The ",
+            "world ",
+            "could ",
+            "change ",
+            "its ",
+            "heart"
+          ]
+        },
+        {
+          "key": "61213|No scars to your beautiful",
+          "text": "No scars to your beautiful",
+          "segments": [
+            "No ",
+            "scars ",
+            "to ",
+            "your ",
+            "beautiful"
+          ]
+        },
+        {
+          "key": "63583|We're stars and we're beautiful",
+          "text": "We're stars and we're beautiful",
+          "segments": [
+            "We're ",
+            "stars ",
+            "and ",
+            "we're ",
+            "beautiful"
+          ]
+        },
+        {
+          "key": "67885|Keep bleeding keep keep bleeding love",
+          "text": "Keep bleeding keep keep bleeding love",
+          "segments": [
+            "Keep ",
+            "bleeding ",
+            "keep ",
+            "keep ",
+            "bleeding ",
+            "love"
+          ]
+        },
+        {
+          "key": "72019|I keep bleeding I keep keep bleeding love",
+          "text": "I keep bleeding I keep keep bleeding love",
+          "segments": [
+            "I ",
+            "keep ",
+            "bleeding ",
+            "I ",
+            "keep ",
+            "keep ",
+            "bleeding ",
+            "love"
+          ]
+        },
+        {
+          "key": "76834|Keep bleeding keep keep bleeding love",
+          "text": "Keep bleeding keep keep bleeding love",
+          "segments": [
+            "Keep ",
+            "bleeding ",
+            "keep ",
+            "keep ",
+            "bleeding ",
+            "love"
+          ]
+        },
+        {
+          "key": "85176|These fancy things will never come in between",
+          "text": "These fancy things will never come in between",
+          "segments": [
+            "These ",
+            "fancy ",
+            "things ",
+            "will ",
+            "never ",
+            "come ",
+            "in ",
+            "between"
+          ]
+        },
+        {
+          "key": "89132|You're part of my entity here for infinity",
+          "text": "You're part of my entity here for infinity",
+          "segments": [
+            "You're ",
+            "part ",
+            "of ",
+            "my ",
+            "entity ",
+            "here ",
+            "for ",
+            "infinity"
+          ]
+        },
+        {
+          "key": "93773|When the war has took its part",
+          "text": "When the war has took its part",
+          "segments": [
+            "When ",
+            "the ",
+            "war ",
+            "has ",
+            "took ",
+            "its ",
+            "part"
+          ]
+        },
+        {
+          "key": "96101|When the world has dealt its cards",
+          "text": "When the world has dealt its cards",
+          "segments": [
+            "When ",
+            "the ",
+            "world ",
+            "has ",
+            "dealt ",
+            "its ",
+            "cards"
+          ]
+        },
+        {
+          "key": "98543|Still falling for you",
+          "text": "Still falling for you",
+          "segments": [
+            "Still ",
+            "falling ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "99111|If the hand is hard",
+          "text": "If the hand is hard",
+          "segments": [
+            "If ",
+            "the ",
+            "hand ",
+            "is ",
+            "hard"
+          ]
+        },
+        {
+          "key": "100809|Still falling for you",
+          "text": "Still falling for you",
+          "segments": [
+            "Still ",
+            "falling ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "101352|Together we'll mend your heart",
+          "text": "Together we'll mend your heart",
+          "segments": [
+            "Together ",
+            "we'll ",
+            "mend ",
+            "your ",
+            "heart"
+          ]
+        },
+        {
+          "key": "103003|It took us a while",
+          "text": "It took us a while",
+          "segments": [
+            "It ",
+            "took ",
+            "us ",
+            "a ",
+            "while"
+          ]
+        },
+        {
+          "key": "105274|Because we were young and unsure",
+          "text": "Because we were young and unsure",
+          "segments": [
+            "Because ",
+            "we ",
+            "were ",
+            "young ",
+            "and ",
+            "unsure"
+          ]
+        },
+        {
+          "key": "107730|With love on the line",
+          "text": "With love on the line",
+          "segments": [
+            "With ",
+            "love ",
+            "on ",
+            "the ",
+            "line"
+          ]
+        },
+        {
+          "key": "109950|What if we both would need more",
+          "text": "What if we both would need more",
+          "segments": [
+            "What ",
+            "if ",
+            "we ",
+            "both ",
+            "would ",
+            "need ",
+            "more"
+          ]
+        },
+        {
+          "key": "112841|But all your flaws and scars are mine",
+          "text": "But all your flaws and scars are mine",
+          "segments": [
+            "But ",
+            "all ",
+            "your ",
+            "flaws ",
+            "and ",
+            "scars ",
+            "are ",
+            "mine"
+          ]
+        },
+        {
+          "key": "116802|Still falling for you",
+          "text": "Still falling for you",
+          "segments": [
+            "Still ",
+            "falling ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "117980|You can stand under my umbrella",
+          "text": "You can stand under my umbrella",
+          "segments": [
+            "You ",
+            "can ",
+            "stand ",
+            "under ",
+            "my ",
+            "umbrella"
+          ]
+        },
+        {
+          "key": "120300|You can stand under my umbrella",
+          "text": "You can stand under my umbrella",
+          "segments": [
+            "You ",
+            "can ",
+            "stand ",
+            "under ",
+            "my ",
+            "umbrella"
+          ]
+        },
+        {
+          "key": "122556|Ella ella eh eh eh",
+          "text": "Ella ella eh eh eh",
+          "segments": [
+            "Ella ",
+            "ella ",
+            "eh ",
+            "eh ",
+            "eh"
+          ]
+        },
+        {
+          "key": "125413|Under my umbrella",
+          "text": "Under my umbrella",
+          "segments": [
+            "Under ",
+            "my ",
+            "umbrella"
+          ]
+        },
+        {
+          "key": "127132|Ella ella eh eh eh",
+          "text": "Ella ella eh eh eh",
+          "segments": [
+            "Ella ",
+            "ella ",
+            "eh ",
+            "eh ",
+            "eh"
+          ]
+        },
+        {
+          "key": "129980|Under my umbrella",
+          "text": "Under my umbrella",
+          "segments": [
+            "Under ",
+            "my ",
+            "umbrella"
+          ]
+        },
+        {
+          "key": "130641|You got that James Dean daydream",
+          "text": "You got that James Dean daydream",
+          "segments": [
+            "You ",
+            "got ",
+            "that ",
+            "James Dean ",
+            "daydream"
+          ]
+        },
+        {
+          "key": "134570|Under my umbrella",
+          "text": "Under my umbrella",
+          "segments": [
+            "Under ",
+            "my ",
+            "umbrella"
+          ]
+        },
+        {
+          "key": "136278|Ella ella eh eh eh eh eh eh",
+          "text": "Ella ella eh eh eh eh eh eh",
+          "segments": [
+            "Ella ",
+            "ella ",
+            "eh ",
+            "eh ",
+            "eh ",
+            "eh ",
+            "eh ",
+            "eh"
+          ]
+        },
+        {
+          "key": "139539|Red lip classic thing",
+          "text": "Red lip classic thing",
+          "segments": [
+            "Red ",
+            "lip ",
+            "classic ",
+            "thing"
+          ]
+        },
+        {
+          "key": "140629|If we go down then we go down together",
+          "text": "If we go down then we go down together",
+          "segments": [
+            "If ",
+            "we ",
+            "go ",
+            "down ",
+            "then ",
+            "we ",
+            "go ",
+            "down ",
+            "together"
+          ]
+        },
+        {
+          "key": "144643|They'll say you could do anything",
+          "text": "They'll say you could do anything",
+          "segments": [
+            "They'll ",
+            "say ",
+            "you ",
+            "could ",
+            "do ",
+            "anything"
+          ]
+        },
+        {
+          "key": "146981|They'll say that I was clever",
+          "text": "They'll say that I was clever",
+          "segments": [
+            "They'll ",
+            "say ",
+            "that ",
+            "I ",
+            "was ",
+            "clever"
+          ]
+        },
+        {
+          "key": "149213|If we go down then we go down together",
+          "text": "If we go down then we go down together",
+          "segments": [
+            "If ",
+            "we ",
+            "go ",
+            "down ",
+            "then ",
+            "we ",
+            "go ",
+            "down ",
+            "together"
+          ]
+        },
+        {
+          "key": "153847|We'll get away with everything",
+          "text": "We'll get away with everything",
+          "segments": [
+            "We'll ",
+            "get ",
+            "away ",
+            "with ",
+            "everything"
+          ]
+        },
+        {
+          "key": "156184|Let's show them we are better",
+          "text": "Let's show them we are better",
+          "segments": [
+            "Let's ",
+            "show ",
+            "them ",
+            "we ",
+            "are ",
+            "better"
+          ]
+        },
+        {
+          "key": "157797|She tells him uh love no one's ever gonna hurt you love",
+          "text": "She tells him uh love no one's ever gonna hurt you love",
+          "segments": [
+            "She ",
+            "tells ",
+            "him ",
+            "uh ",
+            "love ",
+            "no ",
+            "one's ",
+            "ever ",
+            "gonna ",
+            "hurt ",
+            "you ",
+            "love"
+          ]
+        },
+        {
+          "key": "161895|I'm gonna give you all of my love",
+          "text": "I'm gonna give you all of my love",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "give ",
+            "you ",
+            "all ",
+            "of ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "164207|Nobody matters like you",
+          "text": "Nobody matters like you",
+          "segments": [
+            "Nobody ",
+            "matters ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "166917|She tells him your life ain't gonna be nothing like my life",
+          "text": "She tells him your life ain't gonna be nothing like my life",
+          "segments": [
+            "She ",
+            "tells ",
+            "him ",
+            "your ",
+            "life ",
+            "ain't ",
+            "gonna ",
+            "be ",
+            "nothing ",
+            "like ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "171079|You're gonna grow and have a good life",
+          "text": "You're gonna grow and have a good life",
+          "segments": [
+            "You're ",
+            "gonna ",
+            "grow ",
+            "and ",
+            "have ",
+            "a ",
+            "good ",
+            "life"
+          ]
+        },
+        {
+          "key": "173224|I'm gonna do what I've got to do",
+          "text": "I'm gonna do what I've got to do",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "do ",
+            "what ",
+            "I've ",
+            "got ",
+            "to ",
+            "do"
+          ]
+        },
+        {
+          "key": "175987|Just take me home",
+          "text": "Just take me home",
+          "segments": [
+            "Just ",
+            "take ",
+            "me ",
+            "home"
+          ]
+        },
+        {
+          "key": "180651|Just take me home",
+          "text": "Just take me home",
+          "segments": [
+            "Just ",
+            "take ",
+            "me ",
+            "home"
+          ]
+        },
+        {
+          "key": "185316|Just take me home",
+          "text": "Just take me home",
+          "segments": [
+            "Just ",
+            "take ",
+            "me ",
+            "home"
+          ]
+        },
+        {
+          "key": "186382|Tell me tell me do you need me",
+          "text": "Tell me tell me do you need me",
+          "segments": [
+            "Tell ",
+            "me ",
+            "tell ",
+            "me ",
+            "do ",
+            "you ",
+            "need ",
+            "me"
+          ]
+        },
+        {
+          "key": "188510|Tell me tell me do you love me",
+          "text": "Tell me tell me do you love me",
+          "segments": [
+            "Tell ",
+            "me ",
+            "tell ",
+            "me ",
+            "do ",
+            "you ",
+            "love ",
+            "me"
+          ]
+        },
+        {
+          "key": "190797|Or is you just tryna play me",
+          "text": "Or is you just tryna play me",
+          "segments": [
+            "Or ",
+            "is ",
+            "you ",
+            "just ",
+            "tryna ",
+            "play ",
+            "me"
+          ]
+        },
+        {
+          "key": "192998|Would you still love me the same",
+          "text": "Would you still love me the same",
+          "segments": [
+            "Would ",
+            "you ",
+            "still ",
+            "love ",
+            "me ",
+            "the ",
+            "same"
+          ]
+        },
+        {
+          "key": "202136|Would you still love me the same",
+          "text": "Would you still love me the same",
+          "segments": [
+            "Would ",
+            "you ",
+            "still ",
+            "love ",
+            "me ",
+            "the ",
+            "same"
+          ]
+        },
+        {
+          "key": "204800|If I showed you my flaws",
+          "text": "If I showed you my flaws",
+          "segments": [
+            "If ",
+            "I ",
+            "showed ",
+            "you ",
+            "my ",
+            "flaws"
+          ]
+        },
+        {
+          "key": "207136|If I couldn't be strong",
+          "text": "If I couldn't be strong",
+          "segments": [
+            "If ",
+            "I ",
+            "couldn't ",
+            "be ",
+            "strong"
+          ]
+        },
+        {
+          "key": "209576|Tell me honestly would you still love me the same",
+          "text": "Tell me honestly would you still love me the same",
+          "segments": [
+            "Tell ",
+            "me ",
+            "honestly ",
+            "would ",
+            "you ",
+            "still ",
+            "love ",
+            "me ",
+            "the ",
+            "same"
+          ]
+        },
+        {
+          "key": "214167|Keep bleeding keep keep bleeding love",
+          "text": "Keep bleeding keep keep bleeding love",
+          "segments": [
+            "Keep ",
+            "bleeding ",
+            "keep ",
+            "keep ",
+            "bleeding ",
+            "love"
+          ]
+        },
+        {
+          "key": "218408|I keep bleeding I keep keep bleeding love",
+          "text": "I keep bleeding I keep keep bleeding love",
+          "segments": [
+            "I ",
+            "keep ",
+            "bleeding ",
+            "I ",
+            "keep ",
+            "keep ",
+            "bleeding ",
+            "love"
+          ]
+        },
+        {
+          "key": "223143|Keep bleeding keep keep bleeding love",
+          "text": "Keep bleeding keep keep bleeding love",
+          "segments": [
+            "Keep ",
+            "bleeding ",
+            "keep ",
+            "keep ",
+            "bleeding ",
+            "love"
+          ]
+        },
+        {
+          "key": "229855|You cut me open and I",
+          "text": "You cut me open and I",
+          "segments": [
+            "You ",
+            "cut ",
+            "me ",
+            "open ",
+            "and ",
+            "I"
+          ]
+        }
+      ]
+    }
+  ]
+}

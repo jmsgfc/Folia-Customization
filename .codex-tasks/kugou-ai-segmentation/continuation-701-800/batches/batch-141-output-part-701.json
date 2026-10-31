@@ -1,0 +1,463 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:751dfa5440d1a185c4547fb237db06f8",
+      "lines": [
+        {
+          "key": "341|Rihanna、TRONICBOX、Bro.Zhou - This Is What You Came For (TRONICBOX remix version rework)",
+          "text": "Rihanna、TRONICBOX、Bro.Zhou - This Is What You Came For (TRONICBOX remix version rework)",
+          "segments": [
+            "Rihanna、",
+            "TRONICBOX、",
+            "Bro.Zhou",
+            " - ",
+            "This Is What You Came For (TRONICBOX remix version rework)"
+          ]
+        },
+        {
+          "key": "1421|Written by：Calvin Harris、Taylor Swift",
+          "text": "Written by：Calvin Harris、Taylor Swift",
+          "segments": [
+            "Written by：",
+            "Calvin Harris、",
+            "Taylor Swift"
+          ]
+        },
+        {
+          "key": "11615|Baby this is what you came for",
+          "text": "Baby this is what you came for",
+          "segments": [
+            "Baby ",
+            "this ",
+            "is ",
+            "what ",
+            "you ",
+            "came ",
+            "for"
+          ]
+        },
+        {
+          "key": "16905|Lightning strikes every time she moves",
+          "text": "Lightning strikes every time she moves",
+          "segments": [
+            "Lightning ",
+            "strikes ",
+            "every ",
+            "time ",
+            "she ",
+            "moves"
+          ]
+        },
+        {
+          "key": "26892|And everybody's watching her",
+          "text": "And everybody's watching her",
+          "segments": [
+            "And ",
+            "everybody's ",
+            "watching ",
+            "her"
+          ]
+        },
+        {
+          "key": "33194|Baby this is what you came for",
+          "text": "Baby this is what you came for",
+          "segments": [
+            "Baby ",
+            "this ",
+            "is ",
+            "what ",
+            "you ",
+            "came ",
+            "for"
+          ]
+        },
+        {
+          "key": "38477|Lightning strikes every time she moves",
+          "text": "Lightning strikes every time she moves",
+          "segments": [
+            "Lightning ",
+            "strikes ",
+            "every ",
+            "time ",
+            "she ",
+            "moves"
+          ]
+        },
+        {
+          "key": "48394|And everybody's watching her",
+          "text": "And everybody's watching her",
+          "segments": [
+            "And ",
+            "everybody's ",
+            "watching ",
+            "her"
+          ]
+        },
+        {
+          "key": "52057|But she's looking at you oh oh",
+          "text": "But she's looking at you oh oh",
+          "segments": [
+            "But ",
+            "she's ",
+            "looking ",
+            "at ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "56752|You oh oh you oh oh",
+          "text": "You oh oh you oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "62100|You oh oh you oh oh",
+          "text": "You oh oh you oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "67499|You oh oh oh oh",
+          "text": "You oh oh oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "75610|You oh oh you oh oh",
+          "text": "You oh oh you oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "80953|You oh oh you oh oh",
+          "text": "You oh oh you oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "86302|You oh oh you oh oh oh",
+          "text": "You oh oh you oh oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "103605|We go fast 'til they can't replay",
+          "text": "We go fast 'til they can't replay",
+          "segments": [
+            "We ",
+            "go ",
+            "fast ",
+            "'til ",
+            "they ",
+            "can't ",
+            "replay"
+          ]
+        },
+        {
+          "key": "114348|Who knows why it's gotta be this way",
+          "text": "Who knows why it's gotta be this way",
+          "segments": [
+            "Who ",
+            "knows ",
+            "why ",
+            "it's ",
+            "gotta ",
+            "be ",
+            "this ",
+            "way"
+          ]
+        },
+        {
+          "key": "124880|We say nothing more than we need",
+          "text": "We say nothing more than we need",
+          "segments": [
+            "We ",
+            "say ",
+            "nothing ",
+            "more ",
+            "than ",
+            "we ",
+            "need"
+          ]
+        },
+        {
+          "key": "135676|I say your place when we leave",
+          "text": "I say your place when we leave",
+          "segments": [
+            "I ",
+            "say ",
+            "your ",
+            "place ",
+            "when ",
+            "we ",
+            "leave"
+          ]
+        },
+        {
+          "key": "144206|But she's looking at you oh oh",
+          "text": "But she's looking at you oh oh",
+          "segments": [
+            "But ",
+            "she's ",
+            "looking ",
+            "at ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "148412|You oh oh you oh oh",
+          "text": "You oh oh you oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "153817|You oh oh you oh oh",
+          "text": "You oh oh you oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "159221|You oh oh oh oh",
+          "text": "You oh oh oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "167986|Baby this is what you came for",
+          "text": "Baby this is what you came for",
+          "segments": [
+            "Baby ",
+            "this ",
+            "is ",
+            "what ",
+            "you ",
+            "came ",
+            "for"
+          ]
+        },
+        {
+          "key": "173335|Lightning strikes every time she moves",
+          "text": "Lightning strikes every time she moves",
+          "segments": [
+            "Lightning ",
+            "strikes ",
+            "every ",
+            "time ",
+            "she ",
+            "moves"
+          ]
+        },
+        {
+          "key": "183183|And everybody's watching her",
+          "text": "And everybody's watching her",
+          "segments": [
+            "And ",
+            "everybody's ",
+            "watching ",
+            "her"
+          ]
+        },
+        {
+          "key": "187206|But she's looking at you oh oh",
+          "text": "But she's looking at you oh oh",
+          "segments": [
+            "But ",
+            "she's ",
+            "looking ",
+            "at ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "191562|You oh oh you oh oh",
+          "text": "You oh oh you oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "196901|You oh oh you oh oh",
+          "text": "You oh oh you oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "202303|You oh oh oh oh",
+          "text": "You oh oh oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "208789|But she's looking at you oh oh",
+          "text": "But she's looking at you oh oh",
+          "segments": [
+            "But ",
+            "she's ",
+            "looking ",
+            "at ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "212453|Baby this is what you came for",
+          "text": "Baby this is what you came for",
+          "segments": [
+            "Baby ",
+            "this ",
+            "is ",
+            "what ",
+            "you ",
+            "came ",
+            "for"
+          ]
+        },
+        {
+          "key": "217987|Lightning strikes every time she moves",
+          "text": "Lightning strikes every time she moves",
+          "segments": [
+            "Lightning ",
+            "strikes ",
+            "every ",
+            "time ",
+            "she ",
+            "moves"
+          ]
+        },
+        {
+          "key": "221595|You oh oh you oh oh",
+          "text": "You oh oh you oh oh",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "226276|And everybody's watching her",
+          "text": "And everybody's watching her",
+          "segments": [
+            "And ",
+            "everybody's ",
+            "watching ",
+            "her"
+          ]
+        },
+        {
+          "key": "230058|But she's looking at you oh oh",
+          "text": "But she's looking at you oh oh",
+          "segments": [
+            "But ",
+            "she's ",
+            "looking ",
+            "at ",
+            "you ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "234808|You oh oh ",
+          "text": "You oh oh ",
+          "segments": [
+            "You ",
+            "oh ",
+            "oh "
+          ]
+        },
+        {
+          "key": "238533|Baby this is what you came for",
+          "text": "Baby this is what you came for",
+          "segments": [
+            "Baby ",
+            "this ",
+            "is ",
+            "what ",
+            "you ",
+            "came ",
+            "for"
+          ]
+        }
+      ]
+    }
+  ]
+}

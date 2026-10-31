@@ -1,0 +1,774 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:94412ea91cbae783d812a0df4085ab23",
+      "lines": [
+        {
+          "key": "353|Alan Walker、Sorana - Lost Control",
+          "text": "Alan Walker、Sorana - Lost Control",
+          "segments": [
+            "Alan Walker、",
+            "Sorana",
+            " - ",
+            "Lost Control"
+          ]
+        },
+        {
+          "key": "1111|Written by：Thomas Troelsen、Anders Froen、Froen、Sorana Pacurar",
+          "text": "Written by：Thomas Troelsen、Anders Froen、Froen、Sorana Pacurar",
+          "segments": [
+            "Written by：",
+            "Thomas Troelsen",
+            "、",
+            "Anders Froen",
+            "、",
+            "Froen",
+            "、",
+            "Sorana Pacurar"
+          ]
+        },
+        {
+          "key": "1566|Composed by：Alan Walker、Thomas Troelsen、Anders Froen、Sorana Pacurar、Fredrik Borch Olsen、Magnus Martinsen",
+          "text": "Composed by：Alan Walker、Thomas Troelsen、Anders Froen、Sorana Pacurar、Fredrik Borch Olsen、Magnus Martinsen",
+          "segments": [
+            "Composed by：",
+            "Alan Walker、",
+            "Thomas Troelsen、",
+            "Anders Froen、",
+            "Sorana Pacurar、",
+            "Fredrik Borch Olsen、",
+            "Magnus Martinsen"
+          ]
+        },
+        {
+          "key": "2327|Produced by：Alan Walker、Mood Melodies",
+          "text": "Produced by：Alan Walker、Mood Melodies",
+          "segments": [
+            "Produced by：",
+            "Alan Walker、",
+            "Mood Melodies"
+          ]
+        },
+        {
+          "key": "2629|Executive Producer：Gunnar Greve",
+          "text": "Executive Producer：Gunnar Greve",
+          "segments": [
+            "Executive Producer：",
+            "Gunnar Greve"
+          ]
+        },
+        {
+          "key": "2781|Published By：MER Publishing、Copyright Control、Sony、ATV Music Publishing、",
+          "text": "Published By：MER Publishing、Copyright Control、Sony、ATV Music Publishing、",
+          "segments": [
+            "Published By：",
+            "MER Publishing",
+            "、",
+            "Copyright Control",
+            "、",
+            "Sony",
+            "、",
+            "ATV Music Publishing",
+            "、"
+          ]
+        },
+        {
+          "key": "3334|EMI Music Publishing Denmark、Stellar Songs Ltd.、Tileyard Music Publishing ",
+          "text": "EMI Music Publishing Denmark、Stellar Songs Ltd.、Tileyard Music Publishing ",
+          "segments": [
+            "EMI Music Publishing Denmark、",
+            "Stellar Songs Ltd.、",
+            "Tileyard Music Publishing "
+          ]
+        },
+        {
+          "key": "3738|Programmer：Alan Walker、Mood Melodies、Big Fred",
+          "text": "Programmer：Alan Walker、Mood Melodies、Big Fred",
+          "segments": [
+            "Programmer：",
+            "Alan Walker",
+            "、",
+            "Mood Melodies",
+            "、",
+            "Big Fred"
+          ]
+        },
+        {
+          "key": "4204|Co-produced by：Big Fred、Magnify ",
+          "text": "Co-produced by：Big Fred、Magnify ",
+          "segments": [
+            "Co-produced by：",
+            "Big Fred",
+            "、",
+            "Magnify "
+          ]
+        },
+        {
+          "key": "11431|Mirrors they never lie ",
+          "text": "Mirrors they never lie ",
+          "segments": [
+            "Mirrors ",
+            "they ",
+            "never ",
+            "lie "
+          ]
+        },
+        {
+          "key": "13861|Don't see myself inside ",
+          "text": "Don't see myself inside ",
+          "segments": [
+            "Don't ",
+            "see ",
+            "myself ",
+            "inside "
+          ]
+        },
+        {
+          "key": "16389|Why can't I get it right ",
+          "text": "Why can't I get it right ",
+          "segments": [
+            "Why ",
+            "can't ",
+            "I ",
+            "get ",
+            "it ",
+            "right "
+          ]
+        },
+        {
+          "key": "18766|I don't know ",
+          "text": "I don't know ",
+          "segments": [
+            "I ",
+            "don't ",
+            "know "
+          ]
+        },
+        {
+          "key": "21501|You're always watching me fall ",
+          "text": "You're always watching me fall ",
+          "segments": [
+            "You're ",
+            "always ",
+            "watching ",
+            "me ",
+            "fall "
+          ]
+        },
+        {
+          "key": "24234|Shadows they like my wall ",
+          "text": "Shadows they like my wall ",
+          "segments": [
+            "Shadows ",
+            "they ",
+            "like ",
+            "my ",
+            "wall "
+          ]
+        },
+        {
+          "key": "26807|Why do I feel so small ",
+          "text": "Why do I feel so small ",
+          "segments": [
+            "Why ",
+            "do ",
+            "I ",
+            "feel ",
+            "so ",
+            "small "
+          ]
+        },
+        {
+          "key": "28977|I don't know ",
+          "text": "I don't know ",
+          "segments": [
+            "I ",
+            "don't ",
+            "know "
+          ]
+        },
+        {
+          "key": "31804|So I walk into the dead of night ",
+          "text": "So I walk into the dead of night ",
+          "segments": [
+            "So ",
+            "I ",
+            "walk ",
+            "into ",
+            "the ",
+            "dead ",
+            "of ",
+            "night "
+          ]
+        },
+        {
+          "key": "34739|Where my monsters like to hide ",
+          "text": "Where my monsters like to hide ",
+          "segments": [
+            "Where ",
+            "my ",
+            "monsters ",
+            "like ",
+            "to ",
+            "hide "
+          ]
+        },
+        {
+          "key": "37418|Chaos feels so good inside ",
+          "text": "Chaos feels so good inside ",
+          "segments": [
+            "Chaos ",
+            "feels ",
+            "so ",
+            "good ",
+            "inside "
+          ]
+        },
+        {
+          "key": "39744|Now I know ",
+          "text": "Now I know ",
+          "segments": [
+            "Now ",
+            "I ",
+            "know "
+          ]
+        },
+        {
+          "key": "42269|I lost ",
+          "text": "I lost ",
+          "segments": [
+            "I ",
+            "lost "
+          ]
+        },
+        {
+          "key": "43481|I lost ",
+          "text": "I lost ",
+          "segments": [
+            "I ",
+            "lost "
+          ]
+        },
+        {
+          "key": "44746|I lost control again ",
+          "text": "I lost control again ",
+          "segments": [
+            "I ",
+            "lost ",
+            "control ",
+            "again "
+          ]
+        },
+        {
+          "key": "47373|Always do the same and not to blame ",
+          "text": "Always do the same and not to blame ",
+          "segments": [
+            "Always ",
+            "do ",
+            "the ",
+            "same ",
+            "and ",
+            "not ",
+            "to ",
+            "blame "
+          ]
+        },
+        {
+          "key": "49897|I lost control again ",
+          "text": "I lost control again ",
+          "segments": [
+            "I ",
+            "lost ",
+            "control ",
+            "again "
+          ]
+        },
+        {
+          "key": "52528|I don't ",
+          "text": "I don't ",
+          "segments": [
+            "I ",
+            "don't "
+          ]
+        },
+        {
+          "key": "53744|I don't ",
+          "text": "I don't ",
+          "segments": [
+            "I ",
+            "don't "
+          ]
+        },
+        {
+          "key": "55057|I don't know who I am ",
+          "text": "I don't know who I am ",
+          "segments": [
+            "I ",
+            "don't ",
+            "know ",
+            "who ",
+            "I ",
+            "am "
+          ]
+        },
+        {
+          "key": "57740|Always do the same and not to blame ",
+          "text": "Always do the same and not to blame ",
+          "segments": [
+            "Always ",
+            "do ",
+            "the ",
+            "same ",
+            "and ",
+            "not ",
+            "to ",
+            "blame "
+          ]
+        },
+        {
+          "key": "60369|I lost control again ",
+          "text": "I lost control again ",
+          "segments": [
+            "I ",
+            "lost ",
+            "control ",
+            "again "
+          ]
+        },
+        {
+          "key": "81063|Oooh",
+          "text": "Oooh",
+          "segments": [
+            "Oooh"
+          ]
+        },
+        {
+          "key": "84553|I'm tired of being afraid ",
+          "text": "I'm tired of being afraid ",
+          "segments": [
+            "I'm ",
+            "tired ",
+            "of ",
+            "being ",
+            "afraid "
+          ]
+        },
+        {
+          "key": "86781|But lately I lost my faith",
+          "text": "But lately I lost my faith",
+          "segments": [
+            "But ",
+            "lately ",
+            "I ",
+            "lost ",
+            "my ",
+            "faith"
+          ]
+        },
+        {
+          "key": "89924|What is love without pain ",
+          "text": "What is love without pain ",
+          "segments": [
+            "What ",
+            "is ",
+            "love ",
+            "without ",
+            "pain "
+          ]
+        },
+        {
+          "key": "91791|It ain't home ",
+          "text": "It ain't home ",
+          "segments": [
+            "It ",
+            "ain't ",
+            "home "
+          ]
+        },
+        {
+          "key": "94618|You're watching me but I'm below",
+          "text": "You're watching me but I'm below",
+          "segments": [
+            "You're ",
+            "watching ",
+            "me ",
+            "but ",
+            "I'm ",
+            "below"
+          ]
+        },
+        {
+          "key": "97153|When I get caught I hope",
+          "text": "When I get caught I hope",
+          "segments": [
+            "When ",
+            "I ",
+            "get ",
+            "caught ",
+            "I ",
+            "hope"
+          ]
+        },
+        {
+          "key": "99841|It's that kind of blackout that will",
+          "text": "It's that kind of blackout that will",
+          "segments": [
+            "It's ",
+            "that ",
+            "kind ",
+            "of ",
+            "blackout ",
+            "that ",
+            "will"
+          ]
+        },
+        {
+          "key": "101966|Take me home",
+          "text": "Take me home",
+          "segments": [
+            "Take ",
+            "me ",
+            "home"
+          ]
+        },
+        {
+          "key": "104892|So I walk into the dead of night ",
+          "text": "So I walk into the dead of night ",
+          "segments": [
+            "So ",
+            "I ",
+            "walk ",
+            "into ",
+            "the ",
+            "dead ",
+            "of ",
+            "night "
+          ]
+        },
+        {
+          "key": "107673|Where my monsters like to hide ",
+          "text": "Where my monsters like to hide ",
+          "segments": [
+            "Where ",
+            "my ",
+            "monsters ",
+            "like ",
+            "to ",
+            "hide "
+          ]
+        },
+        {
+          "key": "110401|Chaos feels so good inside ",
+          "text": "Chaos feels so good inside ",
+          "segments": [
+            "Chaos ",
+            "feels ",
+            "so ",
+            "good ",
+            "inside "
+          ]
+        },
+        {
+          "key": "112776|Now I know ",
+          "text": "Now I know ",
+          "segments": [
+            "Now ",
+            "I ",
+            "know "
+          ]
+        },
+        {
+          "key": "115202|I lost ",
+          "text": "I lost ",
+          "segments": [
+            "I ",
+            "lost "
+          ]
+        },
+        {
+          "key": "116467|I lost ",
+          "text": "I lost ",
+          "segments": [
+            "I ",
+            "lost "
+          ]
+        },
+        {
+          "key": "117830|I lost control again ",
+          "text": "I lost control again ",
+          "segments": [
+            "I ",
+            "lost ",
+            "control ",
+            "again "
+          ]
+        },
+        {
+          "key": "120411|Always do the same and not to blame ",
+          "text": "Always do the same and not to blame ",
+          "segments": [
+            "Always ",
+            "do ",
+            "the ",
+            "same ",
+            "and ",
+            "not ",
+            "to ",
+            "blame "
+          ]
+        },
+        {
+          "key": "122938|I lost control again ",
+          "text": "I lost control again ",
+          "segments": [
+            "I ",
+            "lost ",
+            "control ",
+            "again "
+          ]
+        },
+        {
+          "key": "125568|I don't ",
+          "text": "I don't ",
+          "segments": [
+            "I ",
+            "don't "
+          ]
+        },
+        {
+          "key": "126840|I don't ",
+          "text": "I don't ",
+          "segments": [
+            "I ",
+            "don't "
+          ]
+        },
+        {
+          "key": "128204|I don't know who I am ",
+          "text": "I don't know who I am ",
+          "segments": [
+            "I ",
+            "don't ",
+            "know ",
+            "who ",
+            "I ",
+            "am "
+          ]
+        },
+        {
+          "key": "130781|Always do the same and not to blame ",
+          "text": "Always do the same and not to blame ",
+          "segments": [
+            "Always ",
+            "do ",
+            "the ",
+            "same ",
+            "and ",
+            "not ",
+            "to ",
+            "blame "
+          ]
+        },
+        {
+          "key": "133360|I lost control again ",
+          "text": "I lost control again ",
+          "segments": [
+            "I ",
+            "lost ",
+            "control ",
+            "again "
+          ]
+        },
+        {
+          "key": "157038|I know that I'm a mess",
+          "text": "I know that I'm a mess",
+          "segments": [
+            "I ",
+            "know ",
+            "that ",
+            "I'm ",
+            "a ",
+            "mess"
+          ]
+        },
+        {
+          "key": "159060|But I ain't tryna be the best ",
+          "text": "But I ain't tryna be the best ",
+          "segments": [
+            "But ",
+            "I ",
+            "ain't ",
+            "tryna ",
+            "be ",
+            "the ",
+            "best "
+          ]
+        },
+        {
+          "key": "162208|So whatever's coming next ",
+          "text": "So whatever's coming next ",
+          "segments": [
+            "So ",
+            "whatever's ",
+            "coming ",
+            "next "
+          ]
+        },
+        {
+          "key": "164593|I'd better pray",
+          "text": "I'd better pray",
+          "segments": [
+            "I'd ",
+            "better ",
+            "pray"
+          ]
+        },
+        {
+          "key": "167281|Never said I was an angel ",
+          "text": "Never said I was an angel ",
+          "segments": [
+            "Never ",
+            "said ",
+            "I ",
+            "was ",
+            "an ",
+            "angel "
+          ]
+        },
+        {
+          "key": "169867|I am damaged all the way ",
+          "text": "I am damaged all the way ",
+          "segments": [
+            "I ",
+            "am ",
+            "damaged ",
+            "all ",
+            "the ",
+            "way "
+          ]
+        },
+        {
+          "key": "172193|So whatever's coming next ",
+          "text": "So whatever's coming next ",
+          "segments": [
+            "So ",
+            "whatever's ",
+            "coming ",
+            "next "
+          ]
+        },
+        {
+          "key": "174516|I'd better pray ",
+          "text": "I'd better pray ",
+          "segments": [
+            "I'd ",
+            "better ",
+            "pray "
+          ]
+        },
+        {
+          "key": "177903|I lost ",
+          "text": "I lost ",
+          "segments": [
+            "I ",
+            "lost "
+          ]
+        },
+        {
+          "key": "179114|I lost ",
+          "text": "I lost ",
+          "segments": [
+            "I ",
+            "lost "
+          ]
+        },
+        {
+          "key": "180378|I lost control again ",
+          "text": "I lost control again ",
+          "segments": [
+            "I ",
+            "lost ",
+            "control ",
+            "again "
+          ]
+        },
+        {
+          "key": "183004|Always do the same and not to blame ",
+          "text": "Always do the same and not to blame ",
+          "segments": [
+            "Always ",
+            "do ",
+            "the ",
+            "same ",
+            "and ",
+            "not ",
+            "to ",
+            "blame "
+          ]
+        },
+        {
+          "key": "185580|I lost control again ",
+          "text": "I lost control again ",
+          "segments": [
+            "I ",
+            "lost ",
+            "control ",
+            "again "
+          ]
+        },
+        {
+          "key": "188158|I don't ",
+          "text": "I don't ",
+          "segments": [
+            "I ",
+            "don't "
+          ]
+        },
+        {
+          "key": "189470|I don't ",
+          "text": "I don't ",
+          "segments": [
+            "I ",
+            "don't "
+          ]
+        },
+        {
+          "key": "190834|I don't know who I am ",
+          "text": "I don't know who I am ",
+          "segments": [
+            "I ",
+            "don't ",
+            "know ",
+            "who ",
+            "I ",
+            "am "
+          ]
+        },
+        {
+          "key": "193362|Always do the same and not to blame ",
+          "text": "Always do the same and not to blame ",
+          "segments": [
+            "Always ",
+            "do ",
+            "the ",
+            "same ",
+            "and ",
+            "not ",
+            "to ",
+            "blame "
+          ]
+        },
+        {
+          "key": "195986|I lost control again",
+          "text": "I lost control again",
+          "segments": [
+            "I ",
+            "lost ",
+            "control ",
+            "again"
+          ]
+        }
+      ]
+    }
+  ]
+}

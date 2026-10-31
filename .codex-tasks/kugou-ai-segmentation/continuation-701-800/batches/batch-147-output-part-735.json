@@ -1,0 +1,345 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:c80ae0e34eb071d8e1a5ae9580a09208",
+      "lines": [
+        {
+          "key": "689|Twinbed - Trouble I'm In",
+          "text": "Twinbed - Trouble I'm In",
+          "segments": [
+            "Twinbed",
+            " - ",
+            "Trouble I'm In"
+          ]
+        },
+        {
+          "key": "992|Lyrics by：Nate Campany、Ben Romans",
+          "text": "Lyrics by：Nate Campany、Ben Romans",
+          "segments": [
+            "Lyrics by：",
+            "Nate Campany、",
+            "Ben Romans"
+          ]
+        },
+        {
+          "key": "1901|Composer：Nate Campany、Ben Romans",
+          "text": "Composer：Nate Campany、Ben Romans",
+          "segments": [
+            "Composer：",
+            "Nate Campany、",
+            "Ben Romans"
+          ]
+        },
+        {
+          "key": "25724|I wanna feel your touch",
+          "text": "I wanna feel your touch",
+          "segments": [
+            "I ",
+            "wanna ",
+            "feel ",
+            "your ",
+            "touch"
+          ]
+        },
+        {
+          "key": "33021|It's burning me like an ember",
+          "text": "It's burning me like an ember",
+          "segments": [
+            "It's ",
+            "burning ",
+            "me ",
+            "like ",
+            "an ",
+            "ember"
+          ]
+        },
+        {
+          "key": "40615|Pretending is not enough",
+          "text": "Pretending is not enough",
+          "segments": [
+            "Pretending ",
+            "is ",
+            "not ",
+            "enough"
+          ]
+        },
+        {
+          "key": "48137|I wanna feel us together",
+          "text": "I wanna feel us together",
+          "segments": [
+            "I ",
+            "wanna ",
+            "feel ",
+            "us ",
+            "together"
+          ]
+        },
+        {
+          "key": "51395|So I'm giving in",
+          "text": "So I'm giving in",
+          "segments": [
+            "So ",
+            "I'm ",
+            "giving ",
+            "in"
+          ]
+        },
+        {
+          "key": "62663|So I'm giving in",
+          "text": "So I'm giving in",
+          "segments": [
+            "So ",
+            "I'm ",
+            "giving ",
+            "in"
+          ]
+        },
+        {
+          "key": "69814|To the trouble I'm in",
+          "text": "To the trouble I'm in",
+          "segments": [
+            "To ",
+            "the ",
+            "trouble ",
+            "I'm ",
+            "in"
+          ]
+        },
+        {
+          "key": "77564|So I'm giving in",
+          "text": "So I'm giving in",
+          "segments": [
+            "So ",
+            "I'm ",
+            "giving ",
+            "in"
+          ]
+        },
+        {
+          "key": "84574|To the trouble I'm in",
+          "text": "To the trouble I'm in",
+          "segments": [
+            "To ",
+            "the ",
+            "trouble ",
+            "I'm ",
+            "in"
+          ]
+        },
+        {
+          "key": "92169|To the trouble I'm in",
+          "text": "To the trouble I'm in",
+          "segments": [
+            "To ",
+            "the ",
+            "trouble ",
+            "I'm ",
+            "in"
+          ]
+        },
+        {
+          "key": "102582|You are you are ",
+          "text": "You are you are ",
+          "segments": [
+            "You ",
+            "are ",
+            "you ",
+            "are "
+          ]
+        },
+        {
+          "key": "106840|My favourite medicine",
+          "text": "My favourite medicine",
+          "segments": [
+            "My ",
+            "favourite ",
+            "medicine"
+          ]
+        },
+        {
+          "key": "109882|You are you are ",
+          "text": "You are you are ",
+          "segments": [
+            "You ",
+            "are ",
+            "you ",
+            "are "
+          ]
+        },
+        {
+          "key": "114052|You're where the edge began",
+          "text": "You're where the edge began",
+          "segments": [
+            "You're ",
+            "where ",
+            "the ",
+            "edge ",
+            "began"
+          ]
+        },
+        {
+          "key": "117526|You are you are ",
+          "text": "You are you are ",
+          "segments": [
+            "You ",
+            "are ",
+            "you ",
+            "are "
+          ]
+        },
+        {
+          "key": "121474|Just one last time again",
+          "text": "Just one last time again",
+          "segments": [
+            "Just ",
+            "one ",
+            "last ",
+            "time ",
+            "again"
+          ]
+        },
+        {
+          "key": "124823|You are you are ",
+          "text": "You are you are ",
+          "segments": [
+            "You ",
+            "are ",
+            "you ",
+            "are "
+          ]
+        },
+        {
+          "key": "128997|You are the trouble I'm in",
+          "text": "You are the trouble I'm in",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "trouble ",
+            "I'm ",
+            "in"
+          ]
+        },
+        {
+          "key": "136890|You are the trouble I'm in",
+          "text": "You are the trouble I'm in",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "trouble ",
+            "I'm ",
+            "in"
+          ]
+        },
+        {
+          "key": "144352|You are the trouble I'm in",
+          "text": "You are the trouble I'm in",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "trouble ",
+            "I'm ",
+            "in"
+          ]
+        },
+        {
+          "key": "147466|You are you are ",
+          "text": "You are you are ",
+          "segments": [
+            "You ",
+            "are ",
+            "you ",
+            "are "
+          ]
+        },
+        {
+          "key": "151793|My favourite medicine",
+          "text": "My favourite medicine",
+          "segments": [
+            "My ",
+            "favourite ",
+            "medicine"
+          ]
+        },
+        {
+          "key": "154823|You are you are ",
+          "text": "You are you are ",
+          "segments": [
+            "You ",
+            "are ",
+            "you ",
+            "are "
+          ]
+        },
+        {
+          "key": "159236|You're where the edge began",
+          "text": "You're where the edge began",
+          "segments": [
+            "You're ",
+            "where ",
+            "the ",
+            "edge ",
+            "began"
+          ]
+        },
+        {
+          "key": "162499|You are you are ",
+          "text": "You are you are ",
+          "segments": [
+            "You ",
+            "are ",
+            "you ",
+            "are "
+          ]
+        },
+        {
+          "key": "166528|Just one last time again",
+          "text": "Just one last time again",
+          "segments": [
+            "Just ",
+            "one ",
+            "last ",
+            "time ",
+            "again"
+          ]
+        },
+        {
+          "key": "170094|You are you are ",
+          "text": "You are you are ",
+          "segments": [
+            "You ",
+            "are ",
+            "you ",
+            "are "
+          ]
+        },
+        {
+          "key": "174190|You are the trouble I'm in",
+          "text": "You are the trouble I'm in",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "trouble ",
+            "I'm ",
+            "in"
+          ]
+        },
+        {
+          "key": "181850|You are the trouble I'm in",
+          "text": "You are the trouble I'm in",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "trouble ",
+            "I'm ",
+            "in"
+          ]
+        }
+      ]
+    }
+  ]
+}

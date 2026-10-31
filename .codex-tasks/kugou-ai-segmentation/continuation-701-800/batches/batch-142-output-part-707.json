@@ -1,0 +1,833 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:8a663e035c6f95e2d1366d47daade32b",
+      "lines": [
+        {
+          "key": "117|Mason Lea - Love Me Like You Do",
+          "text": "Mason Lea - Love Me Like You Do",
+          "segments": [
+            "Mason Lea",
+            " - ",
+            "Love Me Like You Do"
+          ]
+        },
+        {
+          "key": "20616|You're the light you're the night",
+          "text": "You're the light you're the night",
+          "segments": [
+            "You're ",
+            "the ",
+            "light ",
+            "you're ",
+            "the ",
+            "night"
+          ]
+        },
+        {
+          "key": "23024|You're the colour of my blood",
+          "text": "You're the colour of my blood",
+          "segments": [
+            "You're ",
+            "the ",
+            "colour ",
+            "of ",
+            "my ",
+            "blood"
+          ]
+        },
+        {
+          "key": "25544|You're the cure you're the pain",
+          "text": "You're the cure you're the pain",
+          "segments": [
+            "You're ",
+            "the ",
+            "cure ",
+            "you're ",
+            "the ",
+            "pain"
+          ]
+        },
+        {
+          "key": "28056|You're the only thing I wanna touch",
+          "text": "You're the only thing I wanna touch",
+          "segments": [
+            "You're ",
+            "the ",
+            "only ",
+            "thing ",
+            "I ",
+            "wanna ",
+            "touch"
+          ]
+        },
+        {
+          "key": "33200|Never knew that it could mean so much so much",
+          "text": "Never knew that it could mean so much so much",
+          "segments": [
+            "Never ",
+            "knew ",
+            "that ",
+            "it ",
+            "could ",
+            "mean ",
+            "so ",
+            "much ",
+            "so ",
+            "much"
+          ]
+        },
+        {
+          "key": "37960|So much so much",
+          "text": "So much so much",
+          "segments": [
+            "So ",
+            "much ",
+            "so ",
+            "much"
+          ]
+        },
+        {
+          "key": "40761|You're the fear I don't care",
+          "text": "You're the fear I don't care",
+          "segments": [
+            "You're ",
+            "the ",
+            "fear ",
+            "I ",
+            "don't ",
+            "care"
+          ]
+        },
+        {
+          "key": "43201|'Cause I've never been so high",
+          "text": "'Cause I've never been so high",
+          "segments": [
+            "'Cause ",
+            "I've ",
+            "never ",
+            "been ",
+            "so ",
+            "high"
+          ]
+        },
+        {
+          "key": "45801|Follow me to the dark",
+          "text": "Follow me to the dark",
+          "segments": [
+            "Follow ",
+            "me ",
+            "to ",
+            "the ",
+            "dark"
+          ]
+        },
+        {
+          "key": "48257|Let me take you past our satellites",
+          "text": "Let me take you past our satellites",
+          "segments": [
+            "Let ",
+            "me ",
+            "take ",
+            "you ",
+            "past ",
+            "our ",
+            "satellites"
+          ]
+        },
+        {
+          "key": "51671|Lites lites",
+          "text": "Lites lites",
+          "segments": [
+            "Lites ",
+            "lites"
+          ]
+        },
+        {
+          "key": "53423|You can see the world you brought to life life life",
+          "text": "You can see the world you brought to life life life",
+          "segments": [
+            "You ",
+            "can ",
+            "see ",
+            "the ",
+            "world ",
+            "you ",
+            "brought ",
+            "to ",
+            "life ",
+            "life ",
+            "life"
+          ]
+        },
+        {
+          "key": "58151|To life to life",
+          "text": "To life to life",
+          "segments": [
+            "To ",
+            "life ",
+            "to ",
+            "life"
+          ]
+        },
+        {
+          "key": "60976|So love me like you do",
+          "text": "So love me like you do",
+          "segments": [
+            "So ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "63103|La la love me like you do",
+          "text": "La la love me like you do",
+          "segments": [
+            "La ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "66223|Love me like you do la la love me like you do",
+          "text": "Love me like you do la la love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "la ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "71303|Touch me like you do ta ta-touch me like you do",
+          "text": "Touch me like you do ta ta-touch me like you do",
+          "segments": [
+            "Touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "ta ",
+            "ta-touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "78359|What are you waiting for",
+          "text": "What are you waiting for",
+          "segments": [
+            "What ",
+            "are ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "81686|Love me like you do la la love me like you do",
+          "text": "Love me like you do la la love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "la ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "86498|Love me like you do la la love me like you do",
+          "text": "Love me like you do la la love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "la ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "91634|Touch me like you do ta ta-touch me like you do",
+          "text": "Touch me like you do ta ta-touch me like you do",
+          "segments": [
+            "Touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "ta ",
+            "ta-touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "98610|What are you waiting for",
+          "text": "What are you waiting for",
+          "segments": [
+            "What ",
+            "are ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "101554|Fading in fading out",
+          "text": "Fading in fading out",
+          "segments": [
+            "Fading ",
+            "in ",
+            "fading ",
+            "out"
+          ]
+        },
+        {
+          "key": "103866|On the edge of paradise",
+          "text": "On the edge of paradise",
+          "segments": [
+            "On ",
+            "the ",
+            "edge ",
+            "of ",
+            "paradise"
+          ]
+        },
+        {
+          "key": "106466|Every inch of your skin is",
+          "text": "Every inch of your skin is",
+          "segments": [
+            "Every ",
+            "inch ",
+            "of ",
+            "your ",
+            "skin ",
+            "is"
+          ]
+        },
+        {
+          "key": "109074|A holy grail I've got to find",
+          "text": "A holy grail I've got to find",
+          "segments": [
+            "A ",
+            "holy ",
+            "grail ",
+            "I've ",
+            "got ",
+            "to ",
+            "find"
+          ]
+        },
+        {
+          "key": "114033|Only you can set my heart on fire fire fire",
+          "text": "Only you can set my heart on fire fire fire",
+          "segments": [
+            "Only ",
+            "you ",
+            "can ",
+            "set ",
+            "my ",
+            "heart ",
+            "on ",
+            "fire ",
+            "fire ",
+            "fire"
+          ]
+        },
+        {
+          "key": "119026|On fire fire fire",
+          "text": "On fire fire fire",
+          "segments": [
+            "On ",
+            "fire ",
+            "fire ",
+            "fire"
+          ]
+        },
+        {
+          "key": "121178|Yeah I'll let you set the pace",
+          "text": "Yeah I'll let you set the pace",
+          "segments": [
+            "Yeah ",
+            "I'll ",
+            "let ",
+            "you ",
+            "set ",
+            "the ",
+            "pace"
+          ]
+        },
+        {
+          "key": "126613|'Cause I'm not thinking straight",
+          "text": "'Cause I'm not thinking straight",
+          "segments": [
+            "'Cause ",
+            "I'm ",
+            "not ",
+            "thinking ",
+            "straight"
+          ]
+        },
+        {
+          "key": "131709|My head's spinning around",
+          "text": "My head's spinning around",
+          "segments": [
+            "My ",
+            "head's ",
+            "spinning ",
+            "around"
+          ]
+        },
+        {
+          "key": "134332|I can't see clear no more",
+          "text": "I can't see clear no more",
+          "segments": [
+            "I ",
+            "can't ",
+            "see ",
+            "clear ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "138996|What are you waiting for",
+          "text": "What are you waiting for",
+          "segments": [
+            "What ",
+            "are ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "142364|Love me like you do",
+          "text": "Love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "144004|La la love me like you do like you do",
+          "text": "La la love me like you do like you do",
+          "segments": [
+            "La ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "147273|Love me like you do",
+          "text": "Love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "149009|La la love me like you do",
+          "text": "La la love me like you do",
+          "segments": [
+            "La ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "152178|Touch me like you do",
+          "text": "Touch me like you do",
+          "segments": [
+            "Touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "154122|Ta ta-touch me like you do",
+          "text": "Ta ta-touch me like you do",
+          "segments": [
+            "Ta ",
+            "ta-touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "159177|What are you waiting for",
+          "text": "What are you waiting for",
+          "segments": [
+            "What ",
+            "are ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "162602|Love me like you do",
+          "text": "Love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "164233|La la love me like you do like you do",
+          "text": "La la love me like you do like you do",
+          "segments": [
+            "La ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "167400|Love me like you do",
+          "text": "Love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "169208|La la love me like you do yeah",
+          "text": "La la love me like you do yeah",
+          "segments": [
+            "La ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "172480|Touch me like you do",
+          "text": "Touch me like you do",
+          "segments": [
+            "Touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "174280|Ta ta-touch me like you do",
+          "text": "Ta ta-touch me like you do",
+          "segments": [
+            "Ta ",
+            "ta-touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "179458|What are you waiting for",
+          "text": "What are you waiting for",
+          "segments": [
+            "What ",
+            "are ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "212728|I'll let you set the pace",
+          "text": "I'll let you set the pace",
+          "segments": [
+            "I'll ",
+            "let ",
+            "you ",
+            "set ",
+            "the ",
+            "pace"
+          ]
+        },
+        {
+          "key": "217544|'Cause I'm not thinking straight",
+          "text": "'Cause I'm not thinking straight",
+          "segments": [
+            "'Cause ",
+            "I'm ",
+            "not ",
+            "thinking ",
+            "straight"
+          ]
+        },
+        {
+          "key": "222659|My head's spinning around",
+          "text": "My head's spinning around",
+          "segments": [
+            "My ",
+            "head's ",
+            "spinning ",
+            "around"
+          ]
+        },
+        {
+          "key": "225530|I can't see clear no more",
+          "text": "I can't see clear no more",
+          "segments": [
+            "I ",
+            "can't ",
+            "see ",
+            "clear ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "231794|What are you waiting for",
+          "text": "What are you waiting for",
+          "segments": [
+            "What ",
+            "are ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "236004|Love me like you do",
+          "text": "Love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "237532|La la love me like you do like you do",
+          "text": "La la love me like you do like you do",
+          "segments": [
+            "La ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "240828|Love me like you do",
+          "text": "Love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "242564|La la love me like you do yeah",
+          "text": "La la love me like you do yeah",
+          "segments": [
+            "La ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "245756|Touch me like you do",
+          "text": "Touch me like you do",
+          "segments": [
+            "Touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "247588|Ta ta-touch me like you do",
+          "text": "Ta ta-touch me like you do",
+          "segments": [
+            "Ta ",
+            "ta-touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "252722|What are you waiting for",
+          "text": "What are you waiting for",
+          "segments": [
+            "What ",
+            "are ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "256130|Love me like you do",
+          "text": "Love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "257730|La la love me like you do like you do",
+          "text": "La la love me like you do like you do",
+          "segments": [
+            "La ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "261034|Love me like you do",
+          "text": "Love me like you do",
+          "segments": [
+            "Love ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "262714|La la love me like you do oh",
+          "text": "La la love me like you do oh",
+          "segments": [
+            "La ",
+            "la ",
+            "love ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "oh"
+          ]
+        },
+        {
+          "key": "266026|Touch me like you do ta ta-touch me like you do",
+          "text": "Touch me like you do ta ta-touch me like you do",
+          "segments": [
+            "Touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do ",
+            "ta ",
+            "ta-touch ",
+            "me ",
+            "like ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "272895|What are you waiting for",
+          "text": "What are you waiting for",
+          "segments": [
+            "What ",
+            "are ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        }
+      ]
+    }
+  ]
+}

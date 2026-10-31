@@ -1,0 +1,439 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:e8cb23c5b0fe63204acf7605e0da7b6b",
+      "lines": [
+        {
+          "key": "19296|Michael Learns to Rock - Fairy Tale",
+          "text": "Michael Learns to Rock - Fairy Tale",
+          "segments": [
+            "Michael Learns to Rock",
+            " - ",
+            "Fairy Tale"
+          ]
+        },
+        {
+          "key": "32624|In that misty morning when I saw your smiling face",
+          "text": "In that misty morning when I saw your smiling face",
+          "segments": [
+            "In ",
+            "that ",
+            "misty ",
+            "morning ",
+            "when ",
+            "I ",
+            "saw ",
+            "your ",
+            "smiling ",
+            "face"
+          ]
+        },
+        {
+          "key": "38914|You only looked at me and I was yours",
+          "text": "You only looked at me and I was yours",
+          "segments": [
+            "You ",
+            "only ",
+            "looked ",
+            "at ",
+            "me ",
+            "and ",
+            "I ",
+            "was ",
+            "yours"
+          ]
+        },
+        {
+          "key": "46874|But when I turned around",
+          "text": "But when I turned around",
+          "segments": [
+            "But ",
+            "when ",
+            "I ",
+            "turned ",
+            "around"
+          ]
+        },
+        {
+          "key": "49894|You were nowhere to be seen",
+          "text": "You were nowhere to be seen",
+          "segments": [
+            "You ",
+            "were ",
+            "nowhere ",
+            "to ",
+            "be ",
+            "seen"
+          ]
+        },
+        {
+          "key": "54114|You had walked away and closed the door",
+          "text": "You had walked away and closed the door",
+          "segments": [
+            "You ",
+            "had ",
+            "walked ",
+            "away ",
+            "and ",
+            "closed ",
+            "the ",
+            "door"
+          ]
+        },
+        {
+          "key": "61684|When will I see you again",
+          "text": "When will I see you again",
+          "segments": [
+            "When ",
+            "will ",
+            "I ",
+            "see ",
+            "you ",
+            "again"
+          ]
+        },
+        {
+          "key": "69164|When will the sky stop to rain",
+          "text": "When will the sky stop to rain",
+          "segments": [
+            "When ",
+            "will ",
+            "the ",
+            "sky ",
+            "stop ",
+            "to ",
+            "rain"
+          ]
+        },
+        {
+          "key": "76684|When will the stars start to shine",
+          "text": "When will the stars start to shine",
+          "segments": [
+            "When ",
+            "will ",
+            "the ",
+            "stars ",
+            "start ",
+            "to ",
+            "shine"
+          ]
+        },
+        {
+          "key": "84174|When will I know that you're mine",
+          "text": "When will I know that you're mine",
+          "segments": [
+            "When ",
+            "will ",
+            "I ",
+            "know ",
+            "that ",
+            "you're ",
+            "mine"
+          ]
+        },
+        {
+          "key": "92134|Did I ever meet you in the sunshine",
+          "text": "Did I ever meet you in the sunshine",
+          "segments": [
+            "Did ",
+            "I ",
+            "ever ",
+            "meet ",
+            "you ",
+            "in ",
+            "the ",
+            "sunshine"
+          ]
+        },
+        {
+          "key": "98484|And when we were about a thousand years away",
+          "text": "And when we were about a thousand years away",
+          "segments": [
+            "And ",
+            "when ",
+            "we ",
+            "were ",
+            "about ",
+            "a ",
+            "thousand ",
+            "years ",
+            "away"
+          ]
+        },
+        {
+          "key": "107134|Did I ever hold you in the moonlight",
+          "text": "Did I ever hold you in the moonlight",
+          "segments": [
+            "Did ",
+            "I ",
+            "ever ",
+            "hold ",
+            "you ",
+            "in ",
+            "the ",
+            "moonlight"
+          ]
+        },
+        {
+          "key": "113796|Did we make every minute last another day",
+          "text": "Did we make every minute last another day",
+          "segments": [
+            "Did ",
+            "we ",
+            "make ",
+            "every ",
+            "minute ",
+            "last ",
+            "another ",
+            "day"
+          ]
+        },
+        {
+          "key": "152164|On a cold December night I gave my heart to you",
+          "text": "On a cold December night I gave my heart to you",
+          "segments": [
+            "On ",
+            "a ",
+            "cold ",
+            "December ",
+            "night ",
+            "I ",
+            "gave ",
+            "my ",
+            "heart ",
+            "to ",
+            "you"
+          ]
+        },
+        {
+          "key": "159556|And by the summer you were gone",
+          "text": "And by the summer you were gone",
+          "segments": [
+            "And ",
+            "by ",
+            "the ",
+            "summer ",
+            "you ",
+            "were ",
+            "gone"
+          ]
+        },
+        {
+          "key": "166826|Now as the days grow older and the stars will start to dim",
+          "text": "Now as the days grow older and the stars will start to dim",
+          "segments": [
+            "Now ",
+            "as ",
+            "the ",
+            "days ",
+            "grow ",
+            "older ",
+            "and ",
+            "the ",
+            "stars ",
+            "will ",
+            "start ",
+            "to ",
+            "dim"
+          ]
+        },
+        {
+          "key": "174656|All I have are memories and this song",
+          "text": "All I have are memories and this song",
+          "segments": [
+            "All ",
+            "I ",
+            "have ",
+            "are ",
+            "memories ",
+            "and ",
+            "this ",
+            "song"
+          ]
+        },
+        {
+          "key": "181706|When will I see you again",
+          "text": "When will I see you again",
+          "segments": [
+            "When ",
+            "will ",
+            "I ",
+            "see ",
+            "you ",
+            "again"
+          ]
+        },
+        {
+          "key": "189166|When will the sky stop to rain",
+          "text": "When will the sky stop to rain",
+          "segments": [
+            "When ",
+            "will ",
+            "the ",
+            "sky ",
+            "stop ",
+            "to ",
+            "rain"
+          ]
+        },
+        {
+          "key": "197145|When will the stars start to shine",
+          "text": "When will the stars start to shine",
+          "segments": [
+            "When ",
+            "will ",
+            "the ",
+            "stars ",
+            "start ",
+            "to ",
+            "shine"
+          ]
+        },
+        {
+          "key": "204176|When will I know that you're mine",
+          "text": "When will I know that you're mine",
+          "segments": [
+            "When ",
+            "will ",
+            "I ",
+            "know ",
+            "that ",
+            "you're ",
+            "mine"
+          ]
+        },
+        {
+          "key": "212126|Did I ever meet you in the sunshine",
+          "text": "Did I ever meet you in the sunshine",
+          "segments": [
+            "Did ",
+            "I ",
+            "ever ",
+            "meet ",
+            "you ",
+            "in ",
+            "the ",
+            "sunshine"
+          ]
+        },
+        {
+          "key": "218506|And when we were about a thousand years away",
+          "text": "And when we were about a thousand years away",
+          "segments": [
+            "And ",
+            "when ",
+            "we ",
+            "were ",
+            "about ",
+            "a ",
+            "thousand ",
+            "years ",
+            "away"
+          ]
+        },
+        {
+          "key": "227126|Did I ever hold you in the moonlight",
+          "text": "Did I ever hold you in the moonlight",
+          "segments": [
+            "Did ",
+            "I ",
+            "ever ",
+            "hold ",
+            "you ",
+            "in ",
+            "the ",
+            "moonlight"
+          ]
+        },
+        {
+          "key": "233476|Did we make every minute last another day",
+          "text": "Did we make every minute last another day",
+          "segments": [
+            "Did ",
+            "we ",
+            "make ",
+            "every ",
+            "minute ",
+            "last ",
+            "another ",
+            "day"
+          ]
+        },
+        {
+          "key": "241706|When will I see you again (again)",
+          "text": "When will I see you again (again)",
+          "segments": [
+            "When ",
+            "will ",
+            "I ",
+            "see ",
+            "you ",
+            "again ",
+            "(again)"
+          ]
+        },
+        {
+          "key": "249166|When will the sky stop to rain(when will the sky stop to rain)",
+          "text": "When will the sky stop to rain(when will the sky stop to rain)",
+          "segments": [
+            "When ",
+            "will ",
+            "the ",
+            "sky ",
+            "stop ",
+            "to ",
+            "rain",
+            "(when ",
+            "will ",
+            "the ",
+            "sky ",
+            "stop ",
+            "to ",
+            "rain)"
+          ]
+        },
+        {
+          "key": "257406|When will the stars start to shine",
+          "text": "When will the stars start to shine",
+          "segments": [
+            "When ",
+            "will ",
+            "the ",
+            "stars ",
+            "start ",
+            "to ",
+            "shine"
+          ]
+        },
+        {
+          "key": "264176|When will I know that you're mine",
+          "text": "When will I know that you're mine",
+          "segments": [
+            "When ",
+            "will ",
+            "I ",
+            "know ",
+            "that ",
+            "you're ",
+            "mine"
+          ]
+        },
+        {
+          "key": "274510|In that misty morning I saw your smiling face",
+          "text": "In that misty morning I saw your smiling face",
+          "segments": [
+            "In ",
+            "that ",
+            "misty ",
+            "morning ",
+            "I ",
+            "saw ",
+            "your ",
+            "smiling ",
+            "face"
+          ]
+        }
+      ]
+    }
+  ]
+}

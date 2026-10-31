@@ -1,0 +1,1330 @@
+{
+  "batchNumber": 153,
+  "songs": [
+    {
+      "rank": 761,
+      "songKey": "online:kugou:54d9db590cfb34eae27dc674a2bbe154",
+      "name": "迷失幻境",
+      "artist": "IN-K、王忻辰",
+      "lines": [
+        {
+          "key": "0|IN-K、王忻辰 - 迷失幻境",
+          "startMs": 0,
+          "text": "IN-K、王忻辰 - 迷失幻境"
+        },
+        {
+          "key": "324|作词：IN-K",
+          "startMs": 324,
+          "text": "作词：IN-K"
+        },
+        {
+          "key": "463|作曲：IN-K",
+          "startMs": 463,
+          "text": "作曲：IN-K"
+        },
+        {
+          "key": "678|编曲：IN-K",
+          "startMs": 678,
+          "text": "编曲：IN-K"
+        },
+        {
+          "key": "891|制作人：安苏羽",
+          "startMs": 891,
+          "text": "制作人：安苏羽"
+        },
+        {
+          "key": "1175|配唱制作人：舒心",
+          "startMs": 1175,
+          "text": "配唱制作人：舒心"
+        },
+        {
+          "key": "1462|策划：王居然",
+          "startMs": 1462,
+          "text": "策划：王居然"
+        },
+        {
+          "key": "1675|监制：伍德华",
+          "startMs": 1675,
+          "text": "监制：伍德华"
+        },
+        {
+          "key": "1959|OP：音炬文化",
+          "startMs": 1959,
+          "text": "OP：音炬文化"
+        },
+        {
+          "key": "2170|『酷狗音乐人 • 星曜计划』",
+          "startMs": 2170,
+          "text": "『酷狗音乐人 • 星曜计划』"
+        },
+        {
+          "key": "2761|全方位推广，见证星力量！",
+          "startMs": 2761,
+          "text": "全方位推广，见证星力量！"
+        },
+        {
+          "key": "3819|加入：musician@kugou.net",
+          "startMs": 3819,
+          "text": "加入：musician@kugou.net"
+        },
+        {
+          "key": "3961|----------------------------------",
+          "startMs": 3961,
+          "text": "----------------------------------"
+        },
+        {
+          "key": "17363|镜子里的宇宙",
+          "startMs": 17363,
+          "text": "镜子里的宇宙"
+        },
+        {
+          "key": "19278|等不来的迁就",
+          "startMs": 19278,
+          "text": "等不来的迁就"
+        },
+        {
+          "key": "21258|还记得那个深秋",
+          "startMs": 21258,
+          "text": "还记得那个深秋"
+        },
+        {
+          "key": "23238|你说你要走",
+          "startMs": 23238,
+          "text": "你说你要走"
+        },
+        {
+          "key": "25348|不知道怎么去挽留",
+          "startMs": 25348,
+          "text": "不知道怎么去挽留"
+        },
+        {
+          "key": "27401|已逐渐流失的温柔",
+          "startMs": 27401,
+          "text": "已逐渐流失的温柔"
+        },
+        {
+          "key": "29581|是我犯下的错",
+          "startMs": 29581,
+          "text": "是我犯下的错"
+        },
+        {
+          "key": "31398|让你被别人带走",
+          "startMs": 31398,
+          "text": "让你被别人带走"
+        },
+        {
+          "key": "33595|还留着你的回忆",
+          "startMs": 33595,
+          "text": "还留着你的回忆"
+        },
+        {
+          "key": "35645|分不清南北东西",
+          "startMs": 35645,
+          "text": "分不清南北东西"
+        },
+        {
+          "key": "37718|我真的不想从此",
+          "startMs": 37718,
+          "text": "我真的不想从此"
+        },
+        {
+          "key": "39588|迷失在这幻境",
+          "startMs": 39588,
+          "text": "迷失在这幻境"
+        },
+        {
+          "key": "41859|关掉了我的手机",
+          "startMs": 41859,
+          "text": "关掉了我的手机"
+        },
+        {
+          "key": "43842|了无音信的短讯",
+          "startMs": 43842,
+          "text": "了无音信的短讯"
+        },
+        {
+          "key": "45967|我真的好想",
+          "startMs": 45967,
+          "text": "我真的好想"
+        },
+        {
+          "key": "47524|能够回到过去",
+          "startMs": 47524,
+          "text": "能够回到过去"
+        },
+        {
+          "key": "49927|没来得及说抱歉",
+          "startMs": 49927,
+          "text": "没来得及说抱歉"
+        },
+        {
+          "key": "52193|你已经不在身边",
+          "startMs": 52193,
+          "text": "你已经不在身边"
+        },
+        {
+          "key": "54457|我却彻夜想念",
+          "startMs": 54457,
+          "text": "我却彻夜想念"
+        },
+        {
+          "key": "58215|走不出自责空间",
+          "startMs": 58215,
+          "text": "走不出自责空间"
+        },
+        {
+          "key": "60483|沉溺于我们昨天",
+          "startMs": 60483,
+          "text": "沉溺于我们昨天"
+        },
+        {
+          "key": "62905|还能不能相见",
+          "startMs": 62905,
+          "text": "还能不能相见"
+        },
+        {
+          "key": "66946|镜子里的宇宙",
+          "startMs": 66946,
+          "text": "镜子里的宇宙"
+        },
+        {
+          "key": "69148|等不来的迁就",
+          "startMs": 69148,
+          "text": "等不来的迁就"
+        },
+        {
+          "key": "70847|还记得那个深秋",
+          "startMs": 70847,
+          "text": "还记得那个深秋"
+        },
+        {
+          "key": "72984|你说你要走",
+          "startMs": 72984,
+          "text": "你说你要走"
+        },
+        {
+          "key": "75034|不知道怎么去挽留",
+          "startMs": 75034,
+          "text": "不知道怎么去挽留"
+        },
+        {
+          "key": "77086|已逐渐流失的温柔",
+          "startMs": 77086,
+          "text": "已逐渐流失的温柔"
+        },
+        {
+          "key": "79259|是我犯下的错",
+          "startMs": 79259,
+          "text": "是我犯下的错"
+        },
+        {
+          "key": "80993|让你被别人带走",
+          "startMs": 80993,
+          "text": "让你被别人带走"
+        },
+        {
+          "key": "83262|还留着你的回忆",
+          "startMs": 83262,
+          "text": "还留着你的回忆"
+        },
+        {
+          "key": "85244|分不清南北东西",
+          "startMs": 85244,
+          "text": "分不清南北东西"
+        },
+        {
+          "key": "87367|我真的不想从此",
+          "startMs": 87367,
+          "text": "我真的不想从此"
+        },
+        {
+          "key": "89276|迷失在这幻境",
+          "startMs": 89276,
+          "text": "迷失在这幻境"
+        },
+        {
+          "key": "91473|关掉了我的手机",
+          "startMs": 91473,
+          "text": "关掉了我的手机"
+        },
+        {
+          "key": "93755|了无音信的短讯",
+          "startMs": 93755,
+          "text": "了无音信的短讯"
+        },
+        {
+          "key": "95731|我真的好想",
+          "startMs": 95731,
+          "text": "我真的好想"
+        },
+        {
+          "key": "97294|能够回到过去",
+          "startMs": 97294,
+          "text": "能够回到过去"
+        },
+        {
+          "key": "99559|没来得及说抱歉",
+          "startMs": 99559,
+          "text": "没来得及说抱歉"
+        },
+        {
+          "key": "101822|你已经不在身边",
+          "startMs": 101822,
+          "text": "你已经不在身边"
+        },
+        {
+          "key": "104154|我却彻夜想念",
+          "startMs": 104154,
+          "text": "我却彻夜想念"
+        },
+        {
+          "key": "107844|走不出自责空间 ",
+          "startMs": 107844,
+          "text": "走不出自责空间 "
+        },
+        {
+          "key": "110183|沉溺于我们昨天",
+          "startMs": 110183,
+          "text": "沉溺于我们昨天"
+        },
+        {
+          "key": "112374|还能不能相见",
+          "startMs": 112374,
+          "text": "还能不能相见"
+        },
+        {
+          "key": "116263|没来得及说抱歉",
+          "startMs": 116263,
+          "text": "没来得及说抱歉"
+        },
+        {
+          "key": "118456|你已经不在身边",
+          "startMs": 118456,
+          "text": "你已经不在身边"
+        },
+        {
+          "key": "120650|我却彻夜想念",
+          "startMs": 120650,
+          "text": "我却彻夜想念"
+        },
+        {
+          "key": "124403|走不出自责空间 ",
+          "startMs": 124403,
+          "text": "走不出自责空间 "
+        },
+        {
+          "key": "126736|沉溺于我们昨天",
+          "startMs": 126736,
+          "text": "沉溺于我们昨天"
+        },
+        {
+          "key": "129228|还能不能相见",
+          "startMs": 129228,
+          "text": "还能不能相见"
+        }
+      ]
+    },
+    {
+      "rank": 762,
+      "songKey": "online:kugou:a7037268d4fbc5d68fd4ca4a07be54e6",
+      "name": "踏山河",
+      "artist": "七叔（叶泽浩）",
+      "lines": [
+        {
+          "key": "238|是七叔呢 - 踏山河",
+          "startMs": 238,
+          "text": "是七叔呢 - 踏山河"
+        },
+        {
+          "key": "949|作词：祝何",
+          "startMs": 949,
+          "text": "作词：祝何"
+        },
+        {
+          "key": "1108|作曲：祝何",
+          "startMs": 1108,
+          "text": "作曲：祝何"
+        },
+        {
+          "key": "1210|编曲：祝何",
+          "startMs": 1210,
+          "text": "编曲：祝何"
+        },
+        {
+          "key": "1364|吉他：潘春宇",
+          "startMs": 1364,
+          "text": "吉他：潘春宇"
+        },
+        {
+          "key": "1517|混音师：唐瑜",
+          "startMs": 1517,
+          "text": "混音师：唐瑜"
+        },
+        {
+          "key": "1669|合声：田跃君",
+          "startMs": 1669,
+          "text": "合声：田跃君"
+        },
+        {
+          "key": "1820|制作人：田跃君",
+          "startMs": 1820,
+          "text": "制作人：田跃君"
+        },
+        {
+          "key": "2031|监制：蒋雪儿 Snow.J、游文雅",
+          "startMs": 2031,
+          "text": "监制：蒋雪儿 Snow.J、游文雅"
+        },
+        {
+          "key": "2336|音乐统筹：林宝川",
+          "startMs": 2336,
+          "text": "音乐统筹：林宝川"
+        },
+        {
+          "key": "2588|出品：青风音乐 X 造音行动",
+          "startMs": 2588,
+          "text": "出品：青风音乐 X 造音行动"
+        },
+        {
+          "key": "2956|OP、SP：青风音乐Cheerful Music",
+          "startMs": 2956,
+          "text": "OP、SP：青风音乐Cheerful Music"
+        },
+        {
+          "key": "3688|(未经授权不得翻唱或使用)",
+          "startMs": 3688,
+          "text": "(未经授权不得翻唱或使用)"
+        },
+        {
+          "key": "3688|秋风落日入长河",
+          "startMs": 3688,
+          "text": "秋风落日入长河"
+        },
+        {
+          "key": "6082|江南烟雨行舟",
+          "startMs": 6082,
+          "text": "江南烟雨行舟"
+        },
+        {
+          "key": "8786|乱石穿空卷起多少的烽火",
+          "startMs": 8786,
+          "text": "乱石穿空卷起多少的烽火"
+        },
+        {
+          "key": "14857|万里山河都踏过",
+          "startMs": 14857,
+          "text": "万里山河都踏过"
+        },
+        {
+          "key": "17186|天下又入谁手",
+          "startMs": 17186,
+          "text": "天下又入谁手"
+        },
+        {
+          "key": "20074|分分合合不过几十载春秋",
+          "startMs": 20074,
+          "text": "分分合合不过几十载春秋"
+        },
+        {
+          "key": "25235|我在十面埋伏",
+          "startMs": 25235,
+          "text": "我在十面埋伏"
+        },
+        {
+          "key": "26599|四面楚歌的时候",
+          "startMs": 26599,
+          "text": "四面楚歌的时候"
+        },
+        {
+          "key": "28267|把酒与苍天对酌",
+          "startMs": 28267,
+          "text": "把酒与苍天对酌"
+        },
+        {
+          "key": "30946|纵然一去不回此战又如何",
+          "startMs": 30946,
+          "text": "纵然一去不回此战又如何"
+        },
+        {
+          "key": "36114|谁见万箭齐发",
+          "startMs": 36114,
+          "text": "谁见万箭齐发"
+        },
+        {
+          "key": "37737|星火漫天夜如昼",
+          "startMs": 37737,
+          "text": "星火漫天夜如昼"
+        },
+        {
+          "key": "39403|刀光剑影交错",
+          "startMs": 39403,
+          "text": "刀光剑影交错"
+        },
+        {
+          "key": "42088|而我枪出如龙",
+          "startMs": 42088,
+          "text": "而我枪出如龙"
+        },
+        {
+          "key": "43958|乾坤撼动一啸破苍穹",
+          "startMs": 43958,
+          "text": "乾坤撼动一啸破苍穹"
+        },
+        {
+          "key": "47424|长枪刺破云霞放下一生牵挂",
+          "startMs": 47424,
+          "text": "长枪刺破云霞放下一生牵挂"
+        },
+        {
+          "key": "53144|望着寒月如牙",
+          "startMs": 53144,
+          "text": "望着寒月如牙"
+        },
+        {
+          "key": "55114|孤身纵马生死无话",
+          "startMs": 55114,
+          "text": "孤身纵马生死无话"
+        },
+        {
+          "key": "58702|风卷残骑裂甲血染万里黄沙",
+          "startMs": 58702,
+          "text": "风卷残骑裂甲血染万里黄沙"
+        },
+        {
+          "key": "64275|成败笑谈之间与青史留下",
+          "startMs": 64275,
+          "text": "成败笑谈之间与青史留下"
+        },
+        {
+          "key": "92411|我在十面埋伏",
+          "startMs": 92411,
+          "text": "我在十面埋伏"
+        },
+        {
+          "key": "93524|四面楚歌的时候",
+          "startMs": 93524,
+          "text": "四面楚歌的时候"
+        },
+        {
+          "key": "95208|把酒与苍天对酌",
+          "startMs": 95208,
+          "text": "把酒与苍天对酌"
+        },
+        {
+          "key": "97986|纵然一去不回此战又如何",
+          "startMs": 97986,
+          "text": "纵然一去不回此战又如何"
+        },
+        {
+          "key": "103013|谁见万箭齐发",
+          "startMs": 103013,
+          "text": "谁见万箭齐发"
+        },
+        {
+          "key": "104628|星火漫天夜如昼",
+          "startMs": 104628,
+          "text": "星火漫天夜如昼"
+        },
+        {
+          "key": "106351|刀光剑影交错",
+          "startMs": 106351,
+          "text": "刀光剑影交错"
+        },
+        {
+          "key": "109182|而我枪出如龙",
+          "startMs": 109182,
+          "text": "而我枪出如龙"
+        },
+        {
+          "key": "110902|乾坤撼动一啸破苍穹",
+          "startMs": 110902,
+          "text": "乾坤撼动一啸破苍穹"
+        },
+        {
+          "key": "114358|长枪刺破云霞放下一生牵挂",
+          "startMs": 114358,
+          "text": "长枪刺破云霞放下一生牵挂"
+        },
+        {
+          "key": "119990|望着寒月如牙",
+          "startMs": 119990,
+          "text": "望着寒月如牙"
+        },
+        {
+          "key": "122164|孤身纵马生死无话",
+          "startMs": 122164,
+          "text": "孤身纵马生死无话"
+        },
+        {
+          "key": "125551|风卷残骑裂甲血染万里黄沙",
+          "startMs": 125551,
+          "text": "风卷残骑裂甲血染万里黄沙"
+        },
+        {
+          "key": "131224|成败笑谈之间与青史留下",
+          "startMs": 131224,
+          "text": "成败笑谈之间与青史留下"
+        },
+        {
+          "key": "136785|长枪刺破云霞放下一生牵挂",
+          "startMs": 136785,
+          "text": "长枪刺破云霞放下一生牵挂"
+        },
+        {
+          "key": "142346|望着寒月如牙",
+          "startMs": 142346,
+          "text": "望着寒月如牙"
+        },
+        {
+          "key": "144371|孤身纵马生死无话",
+          "startMs": 144371,
+          "text": "孤身纵马生死无话"
+        },
+        {
+          "key": "147910|风卷残骑裂甲血染万里黄沙",
+          "startMs": 147910,
+          "text": "风卷残骑裂甲血染万里黄沙"
+        },
+        {
+          "key": "153588|笑谈间谁能留下",
+          "startMs": 153588,
+          "text": "笑谈间谁能留下"
+        }
+      ]
+    },
+    {
+      "rank": 763,
+      "songKey": "online:kugou:9694012993255d512f94cb24e8d760bd",
+      "name": "星茶会",
+      "artist": "灰澈",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 764,
+      "songKey": "online:kugou:4c1db8fbe721e185114c157208015b4e",
+      "name": "Something Just Like This (Megamix)",
+      "artist": "AnDyWuMUSICLAND",
+      "lines": [
+        {
+          "key": "466|AnDyWuMUSICLAND - Something Just Like This (Megamix)",
+          "startMs": 466,
+          "text": "AnDyWuMUSICLAND - Something Just Like This (Megamix)"
+        },
+        {
+          "key": "4078|He says what you've heard is true but I",
+          "startMs": 4078,
+          "text": "He says what you've heard is true but I"
+        },
+        {
+          "key": "6279|Can't stop thinking about you and I",
+          "startMs": 6279,
+          "text": "Can't stop thinking about you and I"
+        },
+        {
+          "key": "8591|I said I've been there too a few times",
+          "startMs": 8591,
+          "text": "I said I've been there too a few times"
+        },
+        {
+          "key": "12467|I had a dream",
+          "startMs": 12467,
+          "text": "I had a dream"
+        },
+        {
+          "key": "14127|We were sipping whisky neat",
+          "startMs": 14127,
+          "text": "We were sipping whisky neat"
+        },
+        {
+          "key": "16383|Highest floor the bowery",
+          "startMs": 16383,
+          "text": "Highest floor the bowery"
+        },
+        {
+          "key": "18595|And I was high enough",
+          "startMs": 18595,
+          "text": "And I was high enough"
+        },
+        {
+          "key": "21171|Somewhere along the lines",
+          "startMs": 21171,
+          "text": "Somewhere along the lines"
+        },
+        {
+          "key": "23160|We stopped seeing eye to eye",
+          "startMs": 23160,
+          "text": "We stopped seeing eye to eye"
+        },
+        {
+          "key": "25449|You were staying out all night",
+          "startMs": 25449,
+          "text": "You were staying out all night"
+        },
+        {
+          "key": "27728|And I had enough",
+          "startMs": 27728,
+          "text": "And I had enough"
+        },
+        {
+          "key": "29962|She don't see the light that's shining",
+          "startMs": 29962,
+          "text": "She don't see the light that's shining"
+        },
+        {
+          "key": "33426|Deeper than the eyes can find it",
+          "startMs": 33426,
+          "text": "Deeper than the eyes can find it"
+        },
+        {
+          "key": "35742|Maybe we have made her blind",
+          "startMs": 35742,
+          "text": "Maybe we have made her blind"
+        },
+        {
+          "key": "37136|So she tries to cover up her pain",
+          "startMs": 37136,
+          "text": "So she tries to cover up her pain"
+        },
+        {
+          "key": "40207|My heart's crippled by the vein that I keep on closing",
+          "startMs": 40207,
+          "text": "My heart's crippled by the vein that I keep on closing"
+        },
+        {
+          "key": "43741|Still falling for you",
+          "startMs": 43741,
+          "text": "Still falling for you"
+        },
+        {
+          "key": "45915|Still falling for you",
+          "startMs": 45915,
+          "text": "Still falling for you"
+        },
+        {
+          "key": "46994|You cut me open and I",
+          "startMs": 46994,
+          "text": "You cut me open and I"
+        },
+        {
+          "key": "48434|There's a hope that's waiting",
+          "startMs": 48434,
+          "text": "There's a hope that's waiting"
+        },
+        {
+          "key": "50089|For you in the dark",
+          "startMs": 50089,
+          "text": "For you in the dark"
+        },
+        {
+          "key": "52350|You should know you're beautiful",
+          "startMs": 52350,
+          "text": "You should know you're beautiful"
+        },
+        {
+          "key": "54552|Just the way you are",
+          "startMs": 54552,
+          "text": "Just the way you are"
+        },
+        {
+          "key": "56732|And you don't have to change a thing",
+          "startMs": 56732,
+          "text": "And you don't have to change a thing"
+        },
+        {
+          "key": "59028|The world could change its heart",
+          "startMs": 59028,
+          "text": "The world could change its heart"
+        },
+        {
+          "key": "61213|No scars to your beautiful",
+          "startMs": 61213,
+          "text": "No scars to your beautiful"
+        },
+        {
+          "key": "63583|We're stars and we're beautiful",
+          "startMs": 63583,
+          "text": "We're stars and we're beautiful"
+        },
+        {
+          "key": "67885|Keep bleeding keep keep bleeding love",
+          "startMs": 67885,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "72019|I keep bleeding I keep keep bleeding love",
+          "startMs": 72019,
+          "text": "I keep bleeding I keep keep bleeding love"
+        },
+        {
+          "key": "76834|Keep bleeding keep keep bleeding love",
+          "startMs": 76834,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "85176|These fancy things will never come in between",
+          "startMs": 85176,
+          "text": "These fancy things will never come in between"
+        },
+        {
+          "key": "89132|You're part of my entity here for infinity",
+          "startMs": 89132,
+          "text": "You're part of my entity here for infinity"
+        },
+        {
+          "key": "93773|When the war has took its part",
+          "startMs": 93773,
+          "text": "When the war has took its part"
+        },
+        {
+          "key": "96101|When the world has dealt its cards",
+          "startMs": 96101,
+          "text": "When the world has dealt its cards"
+        },
+        {
+          "key": "98543|Still falling for you",
+          "startMs": 98543,
+          "text": "Still falling for you"
+        },
+        {
+          "key": "99111|If the hand is hard",
+          "startMs": 99111,
+          "text": "If the hand is hard"
+        },
+        {
+          "key": "100809|Still falling for you",
+          "startMs": 100809,
+          "text": "Still falling for you"
+        },
+        {
+          "key": "101352|Together we'll mend your heart",
+          "startMs": 101352,
+          "text": "Together we'll mend your heart"
+        },
+        {
+          "key": "103003|It took us a while",
+          "startMs": 103003,
+          "text": "It took us a while"
+        },
+        {
+          "key": "105274|Because we were young and unsure",
+          "startMs": 105274,
+          "text": "Because we were young and unsure"
+        },
+        {
+          "key": "107730|With love on the line",
+          "startMs": 107730,
+          "text": "With love on the line"
+        },
+        {
+          "key": "109950|What if we both would need more",
+          "startMs": 109950,
+          "text": "What if we both would need more"
+        },
+        {
+          "key": "112841|But all your flaws and scars are mine",
+          "startMs": 112841,
+          "text": "But all your flaws and scars are mine"
+        },
+        {
+          "key": "116802|Still falling for you",
+          "startMs": 116802,
+          "text": "Still falling for you"
+        },
+        {
+          "key": "117980|You can stand under my umbrella",
+          "startMs": 117980,
+          "text": "You can stand under my umbrella"
+        },
+        {
+          "key": "120300|You can stand under my umbrella",
+          "startMs": 120300,
+          "text": "You can stand under my umbrella"
+        },
+        {
+          "key": "122556|Ella ella eh eh eh",
+          "startMs": 122556,
+          "text": "Ella ella eh eh eh"
+        },
+        {
+          "key": "125413|Under my umbrella",
+          "startMs": 125413,
+          "text": "Under my umbrella"
+        },
+        {
+          "key": "127132|Ella ella eh eh eh",
+          "startMs": 127132,
+          "text": "Ella ella eh eh eh"
+        },
+        {
+          "key": "129980|Under my umbrella",
+          "startMs": 129980,
+          "text": "Under my umbrella"
+        },
+        {
+          "key": "130641|You got that James Dean daydream",
+          "startMs": 130641,
+          "text": "You got that James Dean daydream"
+        },
+        {
+          "key": "134570|Under my umbrella",
+          "startMs": 134570,
+          "text": "Under my umbrella"
+        },
+        {
+          "key": "136278|Ella ella eh eh eh eh eh eh",
+          "startMs": 136278,
+          "text": "Ella ella eh eh eh eh eh eh"
+        },
+        {
+          "key": "139539|Red lip classic thing",
+          "startMs": 139539,
+          "text": "Red lip classic thing"
+        },
+        {
+          "key": "140629|If we go down then we go down together",
+          "startMs": 140629,
+          "text": "If we go down then we go down together"
+        },
+        {
+          "key": "144643|They'll say you could do anything",
+          "startMs": 144643,
+          "text": "They'll say you could do anything"
+        },
+        {
+          "key": "146981|They'll say that I was clever",
+          "startMs": 146981,
+          "text": "They'll say that I was clever"
+        },
+        {
+          "key": "149213|If we go down then we go down together",
+          "startMs": 149213,
+          "text": "If we go down then we go down together"
+        },
+        {
+          "key": "153847|We'll get away with everything",
+          "startMs": 153847,
+          "text": "We'll get away with everything"
+        },
+        {
+          "key": "156184|Let's show them we are better",
+          "startMs": 156184,
+          "text": "Let's show them we are better"
+        },
+        {
+          "key": "157797|She tells him uh love no one's ever gonna hurt you love",
+          "startMs": 157797,
+          "text": "She tells him uh love no one's ever gonna hurt you love"
+        },
+        {
+          "key": "161895|I'm gonna give you all of my love",
+          "startMs": 161895,
+          "text": "I'm gonna give you all of my love"
+        },
+        {
+          "key": "164207|Nobody matters like you",
+          "startMs": 164207,
+          "text": "Nobody matters like you"
+        },
+        {
+          "key": "166917|She tells him your life ain't gonna be nothing like my life",
+          "startMs": 166917,
+          "text": "She tells him your life ain't gonna be nothing like my life"
+        },
+        {
+          "key": "171079|You're gonna grow and have a good life",
+          "startMs": 171079,
+          "text": "You're gonna grow and have a good life"
+        },
+        {
+          "key": "173224|I'm gonna do what I've got to do",
+          "startMs": 173224,
+          "text": "I'm gonna do what I've got to do"
+        },
+        {
+          "key": "175987|Just take me home",
+          "startMs": 175987,
+          "text": "Just take me home"
+        },
+        {
+          "key": "180651|Just take me home",
+          "startMs": 180651,
+          "text": "Just take me home"
+        },
+        {
+          "key": "185316|Just take me home",
+          "startMs": 185316,
+          "text": "Just take me home"
+        },
+        {
+          "key": "186382|Tell me tell me do you need me",
+          "startMs": 186382,
+          "text": "Tell me tell me do you need me"
+        },
+        {
+          "key": "188510|Tell me tell me do you love me",
+          "startMs": 188510,
+          "text": "Tell me tell me do you love me"
+        },
+        {
+          "key": "190797|Or is you just tryna play me",
+          "startMs": 190797,
+          "text": "Or is you just tryna play me"
+        },
+        {
+          "key": "192998|Would you still love me the same",
+          "startMs": 192998,
+          "text": "Would you still love me the same"
+        },
+        {
+          "key": "202136|Would you still love me the same",
+          "startMs": 202136,
+          "text": "Would you still love me the same"
+        },
+        {
+          "key": "204800|If I showed you my flaws",
+          "startMs": 204800,
+          "text": "If I showed you my flaws"
+        },
+        {
+          "key": "207136|If I couldn't be strong",
+          "startMs": 207136,
+          "text": "If I couldn't be strong"
+        },
+        {
+          "key": "209576|Tell me honestly would you still love me the same",
+          "startMs": 209576,
+          "text": "Tell me honestly would you still love me the same"
+        },
+        {
+          "key": "214167|Keep bleeding keep keep bleeding love",
+          "startMs": 214167,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "218408|I keep bleeding I keep keep bleeding love",
+          "startMs": 218408,
+          "text": "I keep bleeding I keep keep bleeding love"
+        },
+        {
+          "key": "223143|Keep bleeding keep keep bleeding love",
+          "startMs": 223143,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "229855|You cut me open and I",
+          "startMs": 229855,
+          "text": "You cut me open and I"
+        }
+      ]
+    },
+    {
+      "rank": 765,
+      "songKey": "online:kugou:da4b8eda42c4d92ee54dc0f95daabcdd",
+      "name": "失眠飞行",
+      "artist": "接个吻，开一枪 / 沈以诚 / 薛明媛",
+      "lines": [
+        {
+          "key": "8|接个吻，开一枪、沈以诚、薛明媛 - 失眠飛行",
+          "startMs": 8,
+          "text": "接个吻，开一枪、沈以诚、薛明媛 - 失眠飛行"
+        },
+        {
+          "key": "934|作词：沈以诚、刘思鉴、接个吻，开一枪",
+          "startMs": 934,
+          "text": "作词：沈以诚、刘思鉴、接个吻，开一枪"
+        },
+        {
+          "key": "1152|作曲：接个吻，开一枪",
+          "startMs": 1152,
+          "text": "作曲：接个吻，开一枪"
+        },
+        {
+          "key": "1152|想要和你低空飞行",
+          "startMs": 1152,
+          "text": "想要和你低空飞行"
+        },
+        {
+          "key": "3836|和你到处收集氧气",
+          "startMs": 3836,
+          "text": "和你到处收集氧气"
+        },
+        {
+          "key": "6213|假如迷雾你看不清",
+          "startMs": 6213,
+          "text": "假如迷雾你看不清"
+        },
+        {
+          "key": "8651|不如坠入我的心里",
+          "startMs": 8651,
+          "text": "不如坠入我的心里"
+        },
+        {
+          "key": "11516|想带你从吵闹到安宁",
+          "startMs": 11516,
+          "text": "想带你从吵闹到安宁"
+        },
+        {
+          "key": "14011|想带你从多云到转晴",
+          "startMs": 14011,
+          "text": "想带你从多云到转晴"
+        },
+        {
+          "key": "16077|想要为你整理衬衣",
+          "startMs": 16077,
+          "text": "想要为你整理衬衣"
+        },
+        {
+          "key": "18524|为你到处收集诗句",
+          "startMs": 18524,
+          "text": "为你到处收集诗句"
+        },
+        {
+          "key": "21878|多想和你共度每一个夜晚",
+          "startMs": 21878,
+          "text": "多想和你共度每一个夜晚"
+        },
+        {
+          "key": "24221|亲口对你说一声喜欢",
+          "startMs": 24221,
+          "text": "亲口对你说一声喜欢"
+        },
+        {
+          "key": "26678|陪你从清晨一直到傍晚",
+          "startMs": 26678,
+          "text": "陪你从清晨一直到傍晚"
+        },
+        {
+          "key": "28997|最后我们只剩下习惯",
+          "startMs": 28997,
+          "text": "最后我们只剩下习惯"
+        },
+        {
+          "key": "31502|Hey girl oh I got you",
+          "startMs": 31502,
+          "text": "Hey girl oh I got you"
+        },
+        {
+          "key": "33482|从来都不需要任何理由",
+          "startMs": 33482,
+          "text": "从来都不需要任何理由"
+        },
+        {
+          "key": "36369|Hey girl oh I got you",
+          "startMs": 36369,
+          "text": "Hey girl oh I got you"
+        },
+        {
+          "key": "38325|你就是我的梦寐以求",
+          "startMs": 38325,
+          "text": "你就是我的梦寐以求"
+        },
+        {
+          "key": "40142|我想和你",
+          "startMs": 40142,
+          "text": "我想和你"
+        },
+        {
+          "key": "41434|一起闯进森林潜入海底",
+          "startMs": 41434,
+          "text": "一起闯进森林潜入海底"
+        },
+        {
+          "key": "44664|我想和你",
+          "startMs": 44664,
+          "text": "我想和你"
+        },
+        {
+          "key": "46185|一起看日出到日落天气",
+          "startMs": 46185,
+          "text": "一起看日出到日落天气"
+        },
+        {
+          "key": "49442|我想和你穿过格林威治",
+          "startMs": 49442,
+          "text": "我想和你穿过格林威治"
+        },
+        {
+          "key": "52407|和时间飞行",
+          "startMs": 52407,
+          "text": "和时间飞行"
+        },
+        {
+          "key": "54229|我想见你",
+          "startMs": 54229,
+          "text": "我想见你"
+        },
+        {
+          "key": "55648|穿过教堂和人海拥抱你",
+          "startMs": 55648,
+          "text": "穿过教堂和人海拥抱你"
+        },
+        {
+          "key": "59050|我想和你",
+          "startMs": 59050,
+          "text": "我想和你"
+        },
+        {
+          "key": "79504|我也曾见过狂风和暴雨",
+          "startMs": 79504,
+          "text": "我也曾见过狂风和暴雨"
+        },
+        {
+          "key": "81902|慢慢也懂得了很多的道理",
+          "startMs": 81902,
+          "text": "慢慢也懂得了很多的道理"
+        },
+        {
+          "key": "84337|你就是我的栖身的岛屿",
+          "startMs": 84337,
+          "text": "你就是我的栖身的岛屿"
+        },
+        {
+          "key": "86366|其他事都不重要",
+          "startMs": 86366,
+          "text": "其他事都不重要"
+        },
+        {
+          "key": "87483|我只是想要你",
+          "startMs": 87483,
+          "text": "我只是想要你"
+        },
+        {
+          "key": "89317|你的出现改变我的一生 yeah",
+          "startMs": 89317,
+          "text": "你的出现改变我的一生 yeah"
+        },
+        {
+          "key": "91717|从今以后路途都和你一程 yeah",
+          "startMs": 91717,
+          "text": "从今以后路途都和你一程 yeah"
+        },
+        {
+          "key": "94320|我想要把时间停在这一刻 yeah",
+          "startMs": 94320,
+          "text": "我想要把时间停在这一刻 yeah"
+        },
+        {
+          "key": "96291|我能拥有你我永远都能快乐",
+          "startMs": 96291,
+          "text": "我能拥有你我永远都能快乐"
+        },
+        {
+          "key": "98737|多想和你共度每一个夜晚",
+          "startMs": 98737,
+          "text": "多想和你共度每一个夜晚"
+        },
+        {
+          "key": "100960|亲口对你说一声喜欢",
+          "startMs": 100960,
+          "text": "亲口对你说一声喜欢"
+        },
+        {
+          "key": "103292|陪你从清晨一直到傍晚",
+          "startMs": 103292,
+          "text": "陪你从清晨一直到傍晚"
+        },
+        {
+          "key": "105725|最后我们只剩下习惯",
+          "startMs": 105725,
+          "text": "最后我们只剩下习惯"
+        },
+        {
+          "key": "108253|Hey girl oh I got you",
+          "startMs": 108253,
+          "text": "Hey girl oh I got you"
+        },
+        {
+          "key": "110172|从来都不需要任何理由",
+          "startMs": 110172,
+          "text": "从来都不需要任何理由"
+        },
+        {
+          "key": "113246|Hey girl oh I got you",
+          "startMs": 113246,
+          "text": "Hey girl oh I got you"
+        },
+        {
+          "key": "115018|你就是我的梦寐以求",
+          "startMs": 115018,
+          "text": "你就是我的梦寐以求"
+        },
+        {
+          "key": "117475|都是你甜甜蜜蜜",
+          "startMs": 117475,
+          "text": "都是你甜甜蜜蜜"
+        },
+        {
+          "key": "120012|You know what I mean",
+          "startMs": 120012,
+          "text": "You know what I mean"
+        },
+        {
+          "key": "121649|给你说我喜欢你",
+          "startMs": 121649,
+          "text": "给你说我喜欢你"
+        },
+        {
+          "key": "124066|我们一起牵手去旅行",
+          "startMs": 124066,
+          "text": "我们一起牵手去旅行"
+        },
+        {
+          "key": "126495|Baby我的眼里都是",
+          "startMs": 126495,
+          "text": "Baby我的眼里都是"
+        },
+        {
+          "key": "128311|心里都是全部都是你",
+          "startMs": 128311,
+          "text": "心里都是全部都是你"
+        },
+        {
+          "key": "131447|Baby我的眼里都是心里都是",
+          "startMs": 131447,
+          "text": "Baby我的眼里都是心里都是"
+        },
+        {
+          "key": "134221|全部都是你",
+          "startMs": 134221,
+          "text": "全部都是你"
+        },
+        {
+          "key": "156219|So why did you let me go",
+          "startMs": 156219,
+          "text": "So why did you let me go"
+        },
+        {
+          "key": "161297|Oh now am on the road",
+          "startMs": 161297,
+          "text": "Oh now am on the road"
+        },
+        {
+          "key": "166179|Baby am feeling all cold",
+          "startMs": 166179,
+          "text": "Baby am feeling all cold"
+        },
+        {
+          "key": "168496|Now am just left all alone",
+          "startMs": 168496,
+          "text": "Now am just left all alone"
+        },
+        {
+          "key": "170981|All I wanted was being with you",
+          "startMs": 170981,
+          "text": "All I wanted was being with you"
+        },
+        {
+          "key": "173055|Now am just left up up with this song",
+          "startMs": 173055,
+          "text": "Now am just left up up with this song"
+        }
+      ]
+    }
+  ]
+}

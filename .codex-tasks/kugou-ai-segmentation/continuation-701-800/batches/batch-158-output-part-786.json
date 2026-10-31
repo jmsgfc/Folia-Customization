@@ -1,0 +1,692 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:ae4c9e6990e557fa3e332e4dd624ee31",
+      "lines": [
+        {
+          "key": "0|J.Ale - I want you to know（翻自 Zedd）",
+          "text": "J.Ale - I want you to know（翻自 Zedd）",
+          "segments": [
+            "J.Ale",
+            " - ",
+            "I want you to know（翻自 Zedd）"
+          ]
+        },
+        {
+          "key": "999|I want you to know that it's our time",
+          "text": "I want you to know that it's our time",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "it's ",
+            "our ",
+            "time"
+          ]
+        },
+        {
+          "key": "5064|You and me bleed the same light",
+          "text": "You and me bleed the same light",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "bleed ",
+            "the ",
+            "same ",
+            "light"
+          ]
+        },
+        {
+          "key": "8405|I want you to know that I'm all yours",
+          "text": "I want you to know that I'm all yours",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "I'm ",
+            "all ",
+            "yours"
+          ]
+        },
+        {
+          "key": "12804|You and me run the same course",
+          "text": "You and me run the same course",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "run ",
+            "the ",
+            "same ",
+            "course"
+          ]
+        },
+        {
+          "key": "15786|I'm slipping down a chain reaction",
+          "text": "I'm slipping down a chain reaction",
+          "segments": [
+            "I'm ",
+            "slipping ",
+            "down ",
+            "a ",
+            "chain ",
+            "reaction"
+          ]
+        },
+        {
+          "key": "19425|And here I go",
+          "text": "And here I go",
+          "segments": [
+            "And ",
+            "here ",
+            "I ",
+            "go"
+          ]
+        },
+        {
+          "key": "20438|Here I go",
+          "text": "Here I go",
+          "segments": [
+            "Here ",
+            "I ",
+            "go"
+          ]
+        },
+        {
+          "key": "21552|Here I go",
+          "text": "Here I go",
+          "segments": [
+            "Here ",
+            "I ",
+            "go"
+          ]
+        },
+        {
+          "key": "22511|Go",
+          "text": "Go",
+          "segments": [
+            "Go"
+          ]
+        },
+        {
+          "key": "23322|And once again I'm yours in fractions",
+          "text": "And once again I'm yours in fractions",
+          "segments": [
+            "And ",
+            "once ",
+            "again ",
+            "I'm ",
+            "yours ",
+            "in ",
+            "fractions"
+          ]
+        },
+        {
+          "key": "26964|It takes me down",
+          "text": "It takes me down",
+          "segments": [
+            "It ",
+            "takes ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "27976|Pulls me down",
+          "text": "Pulls me down",
+          "segments": [
+            "Pulls ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "28888|Pulls me down",
+          "text": "Pulls me down",
+          "segments": [
+            "Pulls ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "29798|Low",
+          "text": "Low",
+          "segments": [
+            "Low"
+          ]
+        },
+        {
+          "key": "30801|Honey it's raining tonight",
+          "text": "Honey it's raining tonight",
+          "segments": [
+            "Honey ",
+            "it's ",
+            "raining ",
+            "tonight"
+          ]
+        },
+        {
+          "key": "33944|But storms always have an eye",
+          "text": "But storms always have an eye",
+          "segments": [
+            "But ",
+            "storms ",
+            "always ",
+            "have ",
+            "an ",
+            "eye"
+          ]
+        },
+        {
+          "key": "36270|Have an eye",
+          "text": "Have an eye",
+          "segments": [
+            "Have ",
+            "an ",
+            "eye"
+          ]
+        },
+        {
+          "key": "38238|Tell me you're covered tonight",
+          "text": "Tell me you're covered tonight",
+          "segments": [
+            "Tell ",
+            "me ",
+            "you're ",
+            "covered ",
+            "tonight"
+          ]
+        },
+        {
+          "key": "41628|Or tell me lies",
+          "text": "Or tell me lies",
+          "segments": [
+            "Or ",
+            "tell ",
+            "me ",
+            "lies"
+          ]
+        },
+        {
+          "key": "42791|Tell me lies",
+          "text": "Tell me lies",
+          "segments": [
+            "Tell ",
+            "me ",
+            "lies"
+          ]
+        },
+        {
+          "key": "47131|I want you to know that it's our time",
+          "text": "I want you to know that it's our time",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "it's ",
+            "our ",
+            "time"
+          ]
+        },
+        {
+          "key": "51433|You and me bleed the same light",
+          "text": "You and me bleed the same light",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "bleed ",
+            "the ",
+            "same ",
+            "light"
+          ]
+        },
+        {
+          "key": "54422|I want you to know that I'm all yours",
+          "text": "I want you to know that I'm all yours",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "I'm ",
+            "all ",
+            "yours"
+          ]
+        },
+        {
+          "key": "58817|You and me we're the same force",
+          "text": "You and me we're the same force",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "we're ",
+            "the ",
+            "same ",
+            "force"
+          ]
+        },
+        {
+          "key": "61948|I want you to know that it's our time",
+          "text": "I want you to know that it's our time",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "it's ",
+            "our ",
+            "time"
+          ]
+        },
+        {
+          "key": "66146|You and me bleed the same light",
+          "text": "You and me bleed the same light",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "bleed ",
+            "the ",
+            "same ",
+            "light"
+          ]
+        },
+        {
+          "key": "69431|I want you to know that I'm all yours",
+          "text": "I want you to know that I'm all yours",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "I'm ",
+            "all ",
+            "yours"
+          ]
+        },
+        {
+          "key": "73779|You and me run the same course",
+          "text": "You and me run the same course",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "run ",
+            "the ",
+            "same ",
+            "course"
+          ]
+        },
+        {
+          "key": "91646|I want you to know that it's our time",
+          "text": "I want you to know that it's our time",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "it's ",
+            "our ",
+            "time"
+          ]
+        },
+        {
+          "key": "95794|You and me bleed the same light",
+          "text": "You and me bleed the same light",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "bleed ",
+            "the ",
+            "same ",
+            "light"
+          ]
+        },
+        {
+          "key": "98912|I'm better under your reflection",
+          "text": "I'm better under your reflection",
+          "segments": [
+            "I'm ",
+            "better ",
+            "under ",
+            "your ",
+            "reflection"
+          ]
+        },
+        {
+          "key": "102550|But did you know",
+          "text": "But did you know",
+          "segments": [
+            "But ",
+            "did ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "103711|Did you know",
+          "text": "Did you know",
+          "segments": [
+            "Did ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "104571|Did you know",
+          "text": "Did you know",
+          "segments": [
+            "Did ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "105533|Know",
+          "text": "Know",
+          "segments": [
+            "Know"
+          ]
+        },
+        {
+          "key": "106343|That's anybody else that's met ya",
+          "text": "That's anybody else that's met ya",
+          "segments": [
+            "That's ",
+            "anybody ",
+            "else ",
+            "that's ",
+            "met ",
+            "ya"
+          ]
+        },
+        {
+          "key": "110032|It's all the same",
+          "text": "It's all the same",
+          "segments": [
+            "It's ",
+            "all ",
+            "the ",
+            "same"
+          ]
+        },
+        {
+          "key": "110992|All the same",
+          "text": "All the same",
+          "segments": [
+            "All ",
+            "the ",
+            "same"
+          ]
+        },
+        {
+          "key": "111904|All the same",
+          "text": "All the same",
+          "segments": [
+            "All ",
+            "the ",
+            "same"
+          ]
+        },
+        {
+          "key": "112862|Glow",
+          "text": "Glow",
+          "segments": [
+            "Glow"
+          ]
+        },
+        {
+          "key": "113924|Honey it's raining tonight",
+          "text": "Honey it's raining tonight",
+          "segments": [
+            "Honey ",
+            "it's ",
+            "raining ",
+            "tonight"
+          ]
+        },
+        {
+          "key": "117314|But storms always have an eye",
+          "text": "But storms always have an eye",
+          "segments": [
+            "But ",
+            "storms ",
+            "always ",
+            "have ",
+            "an ",
+            "eye"
+          ]
+        },
+        {
+          "key": "119382|Have an eye",
+          "text": "Have an eye",
+          "segments": [
+            "Have ",
+            "an ",
+            "eye"
+          ]
+        },
+        {
+          "key": "121304|Tell me you're covered tonight",
+          "text": "Tell me you're covered tonight",
+          "segments": [
+            "Tell ",
+            "me ",
+            "you're ",
+            "covered ",
+            "tonight"
+          ]
+        },
+        {
+          "key": "124946|Or tell me lies",
+          "text": "Or tell me lies",
+          "segments": [
+            "Or ",
+            "tell ",
+            "me ",
+            "lies"
+          ]
+        },
+        {
+          "key": "125834|Tell me lies",
+          "text": "Tell me lies",
+          "segments": [
+            "Tell ",
+            "me ",
+            "lies"
+          ]
+        },
+        {
+          "key": "128401|I want you to know that it's our time",
+          "text": "I want you to know that it's our time",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "it's ",
+            "our ",
+            "time"
+          ]
+        },
+        {
+          "key": "132699|You and me bleed the same light",
+          "text": "You and me bleed the same light",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "bleed ",
+            "the ",
+            "same ",
+            "light"
+          ]
+        },
+        {
+          "key": "135734|I want you to know that I'm all yours",
+          "text": "I want you to know that I'm all yours",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "I'm ",
+            "all ",
+            "yours"
+          ]
+        },
+        {
+          "key": "140232|You and me we're the same force",
+          "text": "You and me we're the same force",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "we're ",
+            "the ",
+            "same ",
+            "force"
+          ]
+        },
+        {
+          "key": "143037|I want you to know that it's our time",
+          "text": "I want you to know that it's our time",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "it's ",
+            "our ",
+            "time"
+          ]
+        },
+        {
+          "key": "147282|You and me bleed the same light",
+          "text": "You and me bleed the same light",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "bleed ",
+            "the ",
+            "same ",
+            "light"
+          ]
+        },
+        {
+          "key": "150617|I want you to know that I'm all yours",
+          "text": "I want you to know that I'm all yours",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "I'm ",
+            "all ",
+            "yours"
+          ]
+        },
+        {
+          "key": "154868|You and me run the same course",
+          "text": "You and me run the same course",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "run ",
+            "the ",
+            "same ",
+            "course"
+          ]
+        },
+        {
+          "key": "173013|I want you to know that it's our time",
+          "text": "I want you to know that it's our time",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "it's ",
+            "our ",
+            "time"
+          ]
+        },
+        {
+          "key": "177058|You and me bleed the same light",
+          "text": "You and me bleed the same light",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "bleed ",
+            "the ",
+            "same ",
+            "light"
+          ]
+        },
+        {
+          "key": "179988|I want you to know that I'm all yours",
+          "text": "I want you to know that I'm all yours",
+          "segments": [
+            "I ",
+            "want ",
+            "you ",
+            "to ",
+            "know ",
+            "that ",
+            "I'm ",
+            "all ",
+            "yours"
+          ]
+        },
+        {
+          "key": "184291|You and me we're the same force",
+          "text": "You and me we're the same force",
+          "segments": [
+            "You ",
+            "and ",
+            "me ",
+            "we're ",
+            "the ",
+            "same ",
+            "force"
+          ]
+        }
+      ]
+    }
+  ]
+}
