@@ -1,0 +1,548 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:2bff0935dea3ded2d53f5002fd764337",
+      "lines": [
+        {
+          "key": "121|Erik Gronwall - Higher",
+          "text": "Erik Gronwall - Higher",
+          "segments": [
+            "Erik ",
+            "Gronwall ",
+            "- ",
+            "Higher"
+          ]
+        },
+        {
+          "key": "0|Written by：Erik Gronwall",
+          "text": "Written by：Erik Gronwall",
+          "segments": [
+            "Written ",
+            "by：",
+            "Erik ",
+            "Gronwall"
+          ]
+        },
+        {
+          "key": "7469|Hey I'm a believer",
+          "text": "Hey I'm a believer",
+          "segments": [
+            "Hey ",
+            "I'm ",
+            "a ",
+            "believer"
+          ]
+        },
+        {
+          "key": "13549|And gravity's letting go of me tonight",
+          "text": "And gravity's letting go of me tonight",
+          "segments": [
+            "And ",
+            "gravity's ",
+            "letting ",
+            "go ",
+            "of ",
+            "me ",
+            "tonight"
+          ]
+        },
+        {
+          "key": "19728|You came out of nowhere",
+          "text": "You came out of nowhere",
+          "segments": [
+            "You ",
+            "came ",
+            "out ",
+            "of ",
+            "nowhere"
+          ]
+        },
+        {
+          "key": "25728|When everything was passing by",
+          "text": "When everything was passing by",
+          "segments": [
+            "When ",
+            "everything ",
+            "was ",
+            "passing ",
+            "by"
+          ]
+        },
+        {
+          "key": "28088|At the speed of light",
+          "text": "At the speed of light",
+          "segments": [
+            "At ",
+            "the ",
+            "speed ",
+            "of ",
+            "light"
+          ]
+        },
+        {
+          "key": "31818|So hold my hand and never let me go",
+          "text": "So hold my hand and never let me go",
+          "segments": [
+            "So ",
+            "hold ",
+            "my ",
+            "hand ",
+            "and ",
+            "never ",
+            "let ",
+            "me ",
+            "go"
+          ]
+        },
+        {
+          "key": "37408|Take a leap of fate into the unknown",
+          "text": "Take a leap of fate into the unknown",
+          "segments": [
+            "Take ",
+            "a ",
+            "leap ",
+            "of ",
+            "fate ",
+            "into ",
+            "the ",
+            "unknown"
+          ]
+        },
+        {
+          "key": "43648|I am flying",
+          "text": "I am flying",
+          "segments": [
+            "I ",
+            "am ",
+            "flying"
+          ]
+        },
+        {
+          "key": "45708|My heart is taking over",
+          "text": "My heart is taking over",
+          "segments": [
+            "My ",
+            "heart ",
+            "is ",
+            "taking ",
+            "over"
+          ]
+        },
+        {
+          "key": "48748|The world is flashing by",
+          "text": "The world is flashing by",
+          "segments": [
+            "The ",
+            "world ",
+            "is ",
+            "flashing ",
+            "by"
+          ]
+        },
+        {
+          "key": "50878|Higher higher higher",
+          "text": "Higher higher higher",
+          "segments": [
+            "Higher ",
+            "higher ",
+            "higher"
+          ]
+        },
+        {
+          "key": "56038|I will follow wherever it might take us",
+          "text": "I will follow wherever it might take us",
+          "segments": [
+            "I ",
+            "will ",
+            "follow ",
+            "wherever ",
+            "it ",
+            "might ",
+            "take ",
+            "us"
+          ]
+        },
+        {
+          "key": "61068|Chasing through the sky",
+          "text": "Chasing through the sky",
+          "segments": [
+            "Chasing ",
+            "through ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "63178|Higher higher higher",
+          "text": "Higher higher higher",
+          "segments": [
+            "Higher ",
+            "higher ",
+            "higher"
+          ]
+        },
+        {
+          "key": "74508|Oh I know",
+          "text": "Oh I know",
+          "segments": [
+            "Oh ",
+            "I ",
+            "know"
+          ]
+        },
+        {
+          "key": "77688|It can be scary",
+          "text": "It can be scary",
+          "segments": [
+            "It ",
+            "can ",
+            "be ",
+            "scary"
+          ]
+        },
+        {
+          "key": "81138|You bet it all when your heart is on the line",
+          "text": "You bet it all when your heart is on the line",
+          "segments": [
+            "You ",
+            "bet ",
+            "it ",
+            "all ",
+            "when ",
+            "your ",
+            "heart ",
+            "is ",
+            "on ",
+            "the ",
+            "line"
+          ]
+        },
+        {
+          "key": "86958|But oh baby don't worry",
+          "text": "But oh baby don't worry",
+          "segments": [
+            "But ",
+            "oh ",
+            "baby ",
+            "don't ",
+            "worry"
+          ]
+        },
+        {
+          "key": "93378|Just hold my hand and never let me go",
+          "text": "Just hold my hand and never let me go",
+          "segments": [
+            "Just ",
+            "hold ",
+            "my ",
+            "hand ",
+            "and ",
+            "never ",
+            "let ",
+            "me ",
+            "go"
+          ]
+        },
+        {
+          "key": "99098|I am flying",
+          "text": "I am flying",
+          "segments": [
+            "I ",
+            "am ",
+            "flying"
+          ]
+        },
+        {
+          "key": "101098|My heart is taking over",
+          "text": "My heart is taking over",
+          "segments": [
+            "My ",
+            "heart ",
+            "is ",
+            "taking ",
+            "over"
+          ]
+        },
+        {
+          "key": "104128|The world is flashing by",
+          "text": "The world is flashing by",
+          "segments": [
+            "The ",
+            "world ",
+            "is ",
+            "flashing ",
+            "by"
+          ]
+        },
+        {
+          "key": "106308|Higher higher higher",
+          "text": "Higher higher higher",
+          "segments": [
+            "Higher ",
+            "higher ",
+            "higher"
+          ]
+        },
+        {
+          "key": "111478|I will follow wherever it might take us",
+          "text": "I will follow wherever it might take us",
+          "segments": [
+            "I ",
+            "will ",
+            "follow ",
+            "wherever ",
+            "it ",
+            "might ",
+            "take ",
+            "us"
+          ]
+        },
+        {
+          "key": "116458|Chasing through the sky",
+          "text": "Chasing through the sky",
+          "segments": [
+            "Chasing ",
+            "through ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "118638|Higher higher higher",
+          "text": "Higher higher higher",
+          "segments": [
+            "Higher ",
+            "higher ",
+            "higher"
+          ]
+        },
+        {
+          "key": "123598|Take me higher",
+          "text": "Take me higher",
+          "segments": [
+            "Take ",
+            "me ",
+            "higher"
+          ]
+        },
+        {
+          "key": "125667|I hold you as we're shooting",
+          "text": "I hold you as we're shooting",
+          "segments": [
+            "I ",
+            "hold ",
+            "you ",
+            "as ",
+            "we're ",
+            "shooting"
+          ]
+        },
+        {
+          "key": "127877|Through the atmosphere",
+          "text": "Through the atmosphere",
+          "segments": [
+            "Through ",
+            "the ",
+            "atmosphere"
+          ]
+        },
+        {
+          "key": "130117|Around us everything disappears",
+          "text": "Around us everything disappears",
+          "segments": [
+            "Around ",
+            "us ",
+            "everything ",
+            "disappears"
+          ]
+        },
+        {
+          "key": "136327|Woah oa oa",
+          "text": "Woah oa oa",
+          "segments": [
+            "Woah ",
+            "oa ",
+            "oa"
+          ]
+        },
+        {
+          "key": "140616|I am flying",
+          "text": "I am flying",
+          "segments": [
+            "I ",
+            "am ",
+            "flying"
+          ]
+        },
+        {
+          "key": "142746|My heart is taking over",
+          "text": "My heart is taking over",
+          "segments": [
+            "My ",
+            "heart ",
+            "is ",
+            "taking ",
+            "over"
+          ]
+        },
+        {
+          "key": "145776|The world is flashing by",
+          "text": "The world is flashing by",
+          "segments": [
+            "The ",
+            "world ",
+            "is ",
+            "flashing ",
+            "by"
+          ]
+        },
+        {
+          "key": "151456|I am flying",
+          "text": "I am flying",
+          "segments": [
+            "I ",
+            "am ",
+            "flying"
+          ]
+        },
+        {
+          "key": "153386|My heart is taking over",
+          "text": "My heart is taking over",
+          "segments": [
+            "My ",
+            "heart ",
+            "is ",
+            "taking ",
+            "over"
+          ]
+        },
+        {
+          "key": "156506|The world is flashing by",
+          "text": "The world is flashing by",
+          "segments": [
+            "The ",
+            "world ",
+            "is ",
+            "flashing ",
+            "by"
+          ]
+        },
+        {
+          "key": "158736|Higher higher higher",
+          "text": "Higher higher higher",
+          "segments": [
+            "Higher ",
+            "higher ",
+            "higher"
+          ]
+        },
+        {
+          "key": "163675|I will follow wherever it might take us",
+          "text": "I will follow wherever it might take us",
+          "segments": [
+            "I ",
+            "will ",
+            "follow ",
+            "wherever ",
+            "it ",
+            "might ",
+            "take ",
+            "us"
+          ]
+        },
+        {
+          "key": "168735|Chasing through the sky",
+          "text": "Chasing through the sky",
+          "segments": [
+            "Chasing ",
+            "through ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "170905|Higher higher higher",
+          "text": "Higher higher higher",
+          "segments": [
+            "Higher ",
+            "higher ",
+            "higher"
+          ]
+        },
+        {
+          "key": "176034|I am flying",
+          "text": "I am flying",
+          "segments": [
+            "I ",
+            "am ",
+            "flying"
+          ]
+        },
+        {
+          "key": "177964|My heart is taking over",
+          "text": "My heart is taking over",
+          "segments": [
+            "My ",
+            "heart ",
+            "is ",
+            "taking ",
+            "over"
+          ]
+        },
+        {
+          "key": "181044|The world is flashing by",
+          "text": "The world is flashing by",
+          "segments": [
+            "The ",
+            "world ",
+            "is ",
+            "flashing ",
+            "by"
+          ]
+        },
+        {
+          "key": "183164|Higher higher higher",
+          "text": "Higher higher higher",
+          "segments": [
+            "Higher ",
+            "higher ",
+            "higher"
+          ]
+        },
+        {
+          "key": "188314|I will follow wherever it might take us",
+          "text": "I will follow wherever it might take us",
+          "segments": [
+            "I ",
+            "will ",
+            "follow ",
+            "wherever ",
+            "it ",
+            "might ",
+            "take ",
+            "us"
+          ]
+        },
+        {
+          "key": "193374|Chasing through the sky",
+          "text": "Chasing through the sky",
+          "segments": [
+            "Chasing ",
+            "through ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "195544|Higher higher higher",
+          "text": "Higher higher higher",
+          "segments": [
+            "Higher ",
+            "higher ",
+            "higher"
+          ]
+        }
+      ]
+    }
+  ]
+}

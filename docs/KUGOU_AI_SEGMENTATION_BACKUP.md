@@ -1,6 +1,6 @@
 # 酷狗“我喜欢”AI 分词备份
 
-此目录记录 2026-10-31 对酷狗“我喜欢”中第 1–900 首唯一歌曲执行的分词任务，供设备恢复和后续增量处理。每 100 首分别保存，互不覆盖。
+此目录记录 2026-10-31 对酷狗“我喜欢”全部 914 首唯一歌曲执行的分词任务，供设备恢复和后续增量处理。前九批每批 100 首，最后一批 14 首，互不覆盖。
 
 ## 首批：第 1–100 首
 
@@ -137,6 +137,24 @@ node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kug
 
 审计通过时应得到：`done=99`、`noLyrics=1`、`unfinished=0`、`missing=0`、`mismatched=0`、`invalidOutputs=0`、`missingAliases=0`、`mismatchedAliases=0`。
 
+## 最终批：第 901–914 首
+
+此批以第 900 首《老男孩》为锚点。实时收藏仍为 915 条记录、914 首唯一歌曲；按 song ID 稳定去重后，已保存的前 900 首顺序未变，最后剩余 14 首。
+
+- 目标：14 首；全部写回 Folia 并读回验证，无歌词终态为 0。
+- 原始歌词与分词：各 595 行；分词片段：2,610 个。
+- 标准 LRC：14 个、595 行，毫秒级时间戳并保留原文空白；最长文件名 61 个字符。
+- 设备审计：未完成、缺失、内容错配、无效输出及大小写别名问题均为 0。
+- 质量复核：366 种不同歌词文本的分词边界一致，纯空白片段为 0；中文固定词与专名、英文逐词及 contraction、纯音乐格式均经独立逐行复核，最终结果为 PASS。
+
+文件位于 `.codex-tasks/kugou-ai-segmentation/continuation-901-914/`。恢复这一批时执行：
+
+```powershell
+node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-901-914
+```
+
+审计通过时应得到：`done=14`、`noLyrics=0`、`unfinished=0`、`missing=0`、`mismatched=0`、`invalidOutputs=0`、`missingAliases=0`、`mismatchedAliases=0`。
+
 ## 续批：第 301–400 首
 
 此批以第 300 首《戒不掉+春娇与志明 (DJ版)》为锚点；重新读取收藏时总数仍为 915，锚点仍在第 300 位，已保存的前 300 首顺序未变。
@@ -191,10 +209,11 @@ node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kug
    node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-601-700
    node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-701-800
    node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-801-900
+   node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-901-914
    ```
 
    每条命令都会恢复对应批次、补写酷狗 Hash 大小写兼容记录，并自动执行最终审计。
 
-九批共覆盖前 900 首唯一歌曲：890 首已写入分词，10 首为无歌词终态。
+十批共覆盖当前“我喜欢”的全部 914 首唯一歌曲：904 首已写入分词，10 首为无歌词终态。原始列表共 915 条记录，其中《花好月圆夜》重复一次。
 
 > 注意：此备份包含完整歌词文本，仓库为公开仓库时任何人均可读取。

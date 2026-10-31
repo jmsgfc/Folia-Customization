@@ -1,0 +1,1210 @@
+{
+  "batchNumber": 181,
+  "songs": [
+    {
+      "rank": 901,
+      "songKey": "online:kugou:6e1bf288450c4f6a3781e77fc0a7a54d",
+      "name": "起风了",
+      "artist": "买辣椒也用券",
+      "lines": [
+        {
+          "key": "13074|这一路上走走停停",
+          "startMs": 13074,
+          "text": "这一路上走走停停"
+        },
+        {
+          "key": "16172|顺着少年漂流的痕迹",
+          "startMs": 16172,
+          "text": "顺着少年漂流的痕迹"
+        },
+        {
+          "key": "19293|迈出车站的前一刻",
+          "startMs": 19293,
+          "text": "迈出车站的前一刻"
+        },
+        {
+          "key": "22182|竟有些犹豫",
+          "startMs": 22182,
+          "text": "竟有些犹豫"
+        },
+        {
+          "key": "25650|不禁笑这近乡情怯",
+          "startMs": 25650,
+          "text": "不禁笑这近乡情怯"
+        },
+        {
+          "key": "29068|仍无可避免",
+          "startMs": 29068,
+          "text": "仍无可避免"
+        },
+        {
+          "key": "31182|而长野的天",
+          "startMs": 31182,
+          "text": "而长野的天"
+        },
+        {
+          "key": "32714|依旧那么暖",
+          "startMs": 32714,
+          "text": "依旧那么暖"
+        },
+        {
+          "key": "34423|风吹起了从前",
+          "startMs": 34423,
+          "text": "风吹起了从前"
+        },
+        {
+          "key": "36969|从前初识这世间",
+          "startMs": 36969,
+          "text": "从前初识这世间"
+        },
+        {
+          "key": "40083|万般流连",
+          "startMs": 40083,
+          "text": "万般流连"
+        },
+        {
+          "key": "41697|看着天边似在眼前",
+          "startMs": 41697,
+          "text": "看着天边似在眼前"
+        },
+        {
+          "key": "44722|也甘愿赴汤蹈火去走它一遍",
+          "startMs": 44722,
+          "text": "也甘愿赴汤蹈火去走它一遍"
+        },
+        {
+          "key": "49597|如今走过这世间",
+          "startMs": 49597,
+          "text": "如今走过这世间"
+        },
+        {
+          "key": "52824|万般流连",
+          "startMs": 52824,
+          "text": "万般流连"
+        },
+        {
+          "key": "54485|翻过岁月不同侧脸",
+          "startMs": 54485,
+          "text": "翻过岁月不同侧脸"
+        },
+        {
+          "key": "57536|措不及防闯入你的笑颜",
+          "startMs": 57536,
+          "text": "措不及防闯入你的笑颜"
+        },
+        {
+          "key": "63218|我曾难自拔于世界之大",
+          "startMs": 63218,
+          "text": "我曾难自拔于世界之大"
+        },
+        {
+          "key": "67436|也沉溺于其中梦话",
+          "startMs": 67436,
+          "text": "也沉溺于其中梦话"
+        },
+        {
+          "key": "70704|不得真假 不做挣扎 不惧笑话",
+          "startMs": 70704,
+          "text": "不得真假 不做挣扎 不惧笑话"
+        },
+        {
+          "key": "76300|我曾将青春翻涌成她",
+          "startMs": 76300,
+          "text": "我曾将青春翻涌成她"
+        },
+        {
+          "key": "80052|也曾指尖弹出盛夏",
+          "startMs": 80052,
+          "text": "也曾指尖弹出盛夏"
+        },
+        {
+          "key": "83112|心之所动 且就随缘去吧",
+          "startMs": 83112,
+          "text": "心之所动 且就随缘去吧"
+        },
+        {
+          "key": "89197|逆着光行走 任风吹雨打",
+          "startMs": 89197,
+          "text": "逆着光行走 任风吹雨打"
+        },
+        {
+          "key": "105710|短短的路走走停停",
+          "startMs": 105710,
+          "text": "短短的路走走停停"
+        },
+        {
+          "key": "109076|也有了几分的距离",
+          "startMs": 109076,
+          "text": "也有了几分的距离"
+        },
+        {
+          "key": "112237|不知抚摸的是故事 还是段心情",
+          "startMs": 112237,
+          "text": "不知抚摸的是故事 还是段心情"
+        },
+        {
+          "key": "118451|也许期待的不过是 与时间为敌",
+          "startMs": 118451,
+          "text": "也许期待的不过是 与时间为敌"
+        },
+        {
+          "key": "124154|再次看到你",
+          "startMs": 124154,
+          "text": "再次看到你"
+        },
+        {
+          "key": "125639|微凉晨光里",
+          "startMs": 125639,
+          "text": "微凉晨光里"
+        },
+        {
+          "key": "127396|笑得很甜蜜",
+          "startMs": 127396,
+          "text": "笑得很甜蜜"
+        },
+        {
+          "key": "129561|从前初识这世间",
+          "startMs": 129561,
+          "text": "从前初识这世间"
+        },
+        {
+          "key": "132915|万般流连",
+          "startMs": 132915,
+          "text": "万般流连"
+        },
+        {
+          "key": "134511|看着天边似在眼前",
+          "startMs": 134511,
+          "text": "看着天边似在眼前"
+        },
+        {
+          "key": "137519|也甘愿赴汤蹈火去走它一遍",
+          "startMs": 137519,
+          "text": "也甘愿赴汤蹈火去走它一遍"
+        },
+        {
+          "key": "142469|如今走过这世间",
+          "startMs": 142469,
+          "text": "如今走过这世间"
+        },
+        {
+          "key": "145611|万般流连",
+          "startMs": 145611,
+          "text": "万般流连"
+        },
+        {
+          "key": "147403|翻过岁月不同侧脸",
+          "startMs": 147403,
+          "text": "翻过岁月不同侧脸"
+        },
+        {
+          "key": "150289|措不及防闯入你的笑颜",
+          "startMs": 150289,
+          "text": "措不及防闯入你的笑颜"
+        },
+        {
+          "key": "155947|我曾难自拔于世界之大",
+          "startMs": 155947,
+          "text": "我曾难自拔于世界之大"
+        },
+        {
+          "key": "160280|也沉溺于其中梦话",
+          "startMs": 160280,
+          "text": "也沉溺于其中梦话"
+        },
+        {
+          "key": "163510|不得真假 不做挣扎 不惧笑话",
+          "startMs": 163510,
+          "text": "不得真假 不做挣扎 不惧笑话"
+        },
+        {
+          "key": "169069|我曾将青春翻涌成她",
+          "startMs": 169069,
+          "text": "我曾将青春翻涌成她"
+        },
+        {
+          "key": "172762|也曾指尖弹出盛夏",
+          "startMs": 172762,
+          "text": "也曾指尖弹出盛夏"
+        },
+        {
+          "key": "176196|心之所动 且就随缘去吧",
+          "startMs": 176196,
+          "text": "心之所动 且就随缘去吧"
+        },
+        {
+          "key": "207462|晚风吹起你鬓间的白发",
+          "startMs": 207462,
+          "text": "晚风吹起你鬓间的白发"
+        },
+        {
+          "key": "211474|抚平回忆留下的疤",
+          "startMs": 211474,
+          "text": "抚平回忆留下的疤"
+        },
+        {
+          "key": "214700|你的眼中 明暗交杂 一笑生花",
+          "startMs": 214700,
+          "text": "你的眼中 明暗交杂 一笑生花"
+        },
+        {
+          "key": "220267|暮色遮住你蹒跚的步伐",
+          "startMs": 220267,
+          "text": "暮色遮住你蹒跚的步伐"
+        },
+        {
+          "key": "224271|走进床头藏起的画",
+          "startMs": 224271,
+          "text": "走进床头藏起的画"
+        },
+        {
+          "key": "227407|画中的你 低着头说话",
+          "startMs": 227407,
+          "text": "画中的你 低着头说话"
+        },
+        {
+          "key": "233327|我仍感叹于世界之大",
+          "startMs": 233327,
+          "text": "我仍感叹于世界之大"
+        },
+        {
+          "key": "236805|也沉醉于儿时情话",
+          "startMs": 236805,
+          "text": "也沉醉于儿时情话"
+        },
+        {
+          "key": "239969|不剩真假 不做挣扎 无谓笑话",
+          "startMs": 239969,
+          "text": "不剩真假 不做挣扎 无谓笑话"
+        },
+        {
+          "key": "245905|我终将青春还给了她",
+          "startMs": 245905,
+          "text": "我终将青春还给了她"
+        },
+        {
+          "key": "249735|连同指尖弹出的盛夏",
+          "startMs": 249735,
+          "text": "连同指尖弹出的盛夏"
+        },
+        {
+          "key": "253080|心之所动 就随风去了",
+          "startMs": 253080,
+          "text": "心之所动 就随风去了"
+        },
+        {
+          "key": "258664|以爱之名 你还愿意吗",
+          "startMs": 258664,
+          "text": "以爱之名 你还愿意吗"
+        }
+      ]
+    },
+    {
+      "rank": 902,
+      "songKey": "online:kugou:fb6d57062e911fa504b94d1e5bdd0bc0",
+      "name": "远走高飞",
+      "artist": "金志文",
+      "lines": [
+        {
+          "key": "127|远走高飞 (独唱版) - 金志文",
+          "startMs": 127,
+          "text": "远走高飞 (独唱版) - 金志文"
+        },
+        {
+          "key": "930|词：王耀光",
+          "startMs": 930,
+          "text": "词：王耀光"
+        },
+        {
+          "key": "1116|曲：金志文",
+          "startMs": 1116,
+          "text": "曲：金志文"
+        },
+        {
+          "key": "1301|编曲：金志文",
+          "startMs": 1301,
+          "text": "编曲：金志文"
+        },
+        {
+          "key": "3483|出品人：周浩",
+          "startMs": 3483,
+          "text": "出品人：周浩"
+        },
+        {
+          "key": "3705|吉他：金志文",
+          "startMs": 3705,
+          "text": "吉他：金志文"
+        },
+        {
+          "key": "5047|贝斯：王佳林",
+          "startMs": 5047,
+          "text": "贝斯：王佳林"
+        },
+        {
+          "key": "6332|鼓：祁大为",
+          "startMs": 6332,
+          "text": "鼓：祁大为"
+        },
+        {
+          "key": "7113|合音编写：金志文",
+          "startMs": 7113,
+          "text": "合音编写：金志文"
+        },
+        {
+          "key": "8318|合音：金志文",
+          "startMs": 8318,
+          "text": "合音：金志文"
+        },
+        {
+          "key": "9303|人声录音工程师：金志文",
+          "startMs": 9303,
+          "text": "人声录音工程师：金志文"
+        },
+        {
+          "key": "10869|人声录音棚：金志文音乐工作室",
+          "startMs": 10869,
+          "text": "人声录音棚：金志文音乐工作室"
+        },
+        {
+          "key": "12835|混音工程师：李军",
+          "startMs": 12835,
+          "text": "混音工程师：李军"
+        },
+        {
+          "key": "14087|母带处理工程师：李军",
+          "startMs": 14087,
+          "text": "母带处理工程师：李军"
+        },
+        {
+          "key": "18422|我一路看过千山和万水",
+          "startMs": 18422,
+          "text": "我一路看过千山和万水"
+        },
+        {
+          "key": "22694|我的脚踏遍天南和地北",
+          "startMs": 22694,
+          "text": "我的脚踏遍天南和地北"
+        },
+        {
+          "key": "27236|日晒或是风吹 我都无所谓",
+          "startMs": 27236,
+          "text": "日晒或是风吹 我都无所谓"
+        },
+        {
+          "key": "31764|路边那朵蔷薇 鲜红的纯粹",
+          "startMs": 31764,
+          "text": "路边那朵蔷薇 鲜红的纯粹"
+        },
+        {
+          "key": "36394|关掉了手机管他谁是谁",
+          "startMs": 36394,
+          "text": "关掉了手机管他谁是谁"
+        },
+        {
+          "key": "40671|不要去理会是是与非非",
+          "startMs": 40671,
+          "text": "不要去理会是是与非非"
+        },
+        {
+          "key": "45124|天亮走到天黑 从不觉疲惫",
+          "startMs": 45124,
+          "text": "天亮走到天黑 从不觉疲惫"
+        },
+        {
+          "key": "49740|黄昏中的堡垒 多颓废",
+          "startMs": 49740,
+          "text": "黄昏中的堡垒 多颓废"
+        },
+        {
+          "key": "53462|如果迎着风就飞",
+          "startMs": 53462,
+          "text": "如果迎着风就飞"
+        },
+        {
+          "key": "57583|俯瞰这世界有多美",
+          "startMs": 57583,
+          "text": "俯瞰这世界有多美"
+        },
+        {
+          "key": "62194|让烦恼都灰飞",
+          "startMs": 62194,
+          "text": "让烦恼都灰飞"
+        },
+        {
+          "key": "64703|别去理会自我藉慰",
+          "startMs": 64703,
+          "text": "别去理会自我藉慰"
+        },
+        {
+          "key": "70973|如果还有梦就追",
+          "startMs": 70973,
+          "text": "如果还有梦就追"
+        },
+        {
+          "key": "75586|至少不会遗憾后悔",
+          "startMs": 75586,
+          "text": "至少不会遗憾后悔"
+        },
+        {
+          "key": "80234|迎着光勇敢追",
+          "startMs": 80234,
+          "text": "迎着光勇敢追"
+        },
+        {
+          "key": "82848|远走高飞 说走就走一回",
+          "startMs": 82848,
+          "text": "远走高飞 说走就走一回"
+        },
+        {
+          "key": "112688|翻过了山坡又踏过了水",
+          "startMs": 112688,
+          "text": "翻过了山坡又踏过了水"
+        },
+        {
+          "key": "117103|跟心走别管东南和西北",
+          "startMs": 117103,
+          "text": "跟心走别管东南和西北"
+        },
+        {
+          "key": "121511|前行或是后退 靠直觉发挥",
+          "startMs": 121511,
+          "text": "前行或是后退 靠直觉发挥"
+        },
+        {
+          "key": "126241|日落下的余晖 有一点凄美",
+          "startMs": 126241,
+          "text": "日落下的余晖 有一点凄美"
+        },
+        {
+          "key": "130603|拥挤的城市布满了虚伪",
+          "startMs": 130603,
+          "text": "拥挤的城市布满了虚伪"
+        },
+        {
+          "key": "135070|何必去辩解谁错或是对",
+          "startMs": 135070,
+          "text": "何必去辩解谁错或是对"
+        },
+        {
+          "key": "139565|就让一切回归 童真的滋味",
+          "startMs": 139565,
+          "text": "就让一切回归 童真的滋味"
+        },
+        {
+          "key": "144075|那自由的感觉 不会累",
+          "startMs": 144075,
+          "text": "那自由的感觉 不会累"
+        },
+        {
+          "key": "147838|如果迎着风就飞",
+          "startMs": 147838,
+          "text": "如果迎着风就飞"
+        },
+        {
+          "key": "152014|俯瞰这世界有多美",
+          "startMs": 152014,
+          "text": "俯瞰这世界有多美"
+        },
+        {
+          "key": "156540|让烦恼都灰飞",
+          "startMs": 156540,
+          "text": "让烦恼都灰飞"
+        },
+        {
+          "key": "159092|别去理会自我藉慰",
+          "startMs": 159092,
+          "text": "别去理会自我藉慰"
+        },
+        {
+          "key": "165445|如果还有梦就追",
+          "startMs": 165445,
+          "text": "如果还有梦就追"
+        },
+        {
+          "key": "169957|至少不会遗憾后悔",
+          "startMs": 169957,
+          "text": "至少不会遗憾后悔"
+        },
+        {
+          "key": "174614|迎着光勇敢追",
+          "startMs": 174614,
+          "text": "迎着光勇敢追"
+        },
+        {
+          "key": "177090|远走高飞 说走就走一回",
+          "startMs": 177090,
+          "text": "远走高飞 说走就走一回"
+        },
+        {
+          "key": "197086|如果迎着风就飞",
+          "startMs": 197086,
+          "text": "如果迎着风就飞"
+        },
+        {
+          "key": "201448|俯瞰这世界有多美",
+          "startMs": 201448,
+          "text": "俯瞰这世界有多美"
+        },
+        {
+          "key": "206029|让烦恼都灰飞",
+          "startMs": 206029,
+          "text": "让烦恼都灰飞"
+        },
+        {
+          "key": "208511|别去理会自我藉慰",
+          "startMs": 208511,
+          "text": "别去理会自我藉慰"
+        },
+        {
+          "key": "214796|如果还有梦就追",
+          "startMs": 214796,
+          "text": "如果还有梦就追"
+        },
+        {
+          "key": "219452|至少不会遗憾后悔",
+          "startMs": 219452,
+          "text": "至少不会遗憾后悔"
+        },
+        {
+          "key": "224054|迎着光勇敢追",
+          "startMs": 224054,
+          "text": "迎着光勇敢追"
+        },
+        {
+          "key": "226520|远走高飞 说走就走一回",
+          "startMs": 226520,
+          "text": "远走高飞 说走就走一回"
+        }
+      ]
+    },
+    {
+      "rank": 903,
+      "songKey": "online:kugou:d74589f6338c6033ad4cf93866c4301a",
+      "name": "Something Just Like This",
+      "artist": "刘芯怡、賴暐哲",
+      "lines": [
+        {
+          "key": "292|刘芯怡、賴暐哲 - Something Just Like This",
+          "startMs": 292,
+          "text": "刘芯怡、賴暐哲 - Something Just Like This"
+        },
+        {
+          "key": "2052|Written by：Andrew Taggart/Guy Berryman/Jonny Buckland/Chris Martin/Will Champion",
+          "startMs": 2052,
+          "text": "Written by：Andrew Taggart/Guy Berryman/Jonny Buckland/Chris Martin/Will Champion"
+        },
+        {
+          "key": "19594|I've been reading books of old",
+          "startMs": 19594,
+          "text": "I've been reading books of old"
+        },
+        {
+          "key": "21660|The legends and the myths",
+          "startMs": 21660,
+          "text": "The legends and the myths"
+        },
+        {
+          "key": "23726|Achilles and his gold",
+          "startMs": 23726,
+          "text": "Achilles and his gold"
+        },
+        {
+          "key": "25842|Hercules and his gifts",
+          "startMs": 25842,
+          "text": "Hercules and his gifts"
+        },
+        {
+          "key": "28009|Spiderman's control",
+          "startMs": 28009,
+          "text": "Spiderman's control"
+        },
+        {
+          "key": "30374|And batman with his fists",
+          "startMs": 30374,
+          "text": "And batman with his fists"
+        },
+        {
+          "key": "32797|Clearly I don't see myself upon that list",
+          "startMs": 32797,
+          "text": "Clearly I don't see myself upon that list"
+        },
+        {
+          "key": "36120|She said where'd you wanna go",
+          "startMs": 36120,
+          "text": "She said where'd you wanna go"
+        },
+        {
+          "key": "38339|How much you wanna risk",
+          "startMs": 38339,
+          "text": "How much you wanna risk"
+        },
+        {
+          "key": "40202|I'm not looking for somebody",
+          "startMs": 40202,
+          "text": "I'm not looking for somebody"
+        },
+        {
+          "key": "42270|With some superhuman gifts",
+          "startMs": 42270,
+          "text": "With some superhuman gifts"
+        },
+        {
+          "key": "44384|Some superhero",
+          "startMs": 44384,
+          "text": "Some superhero"
+        },
+        {
+          "key": "46596|Some fairytale bliss",
+          "startMs": 46596,
+          "text": "Some fairytale bliss"
+        },
+        {
+          "key": "48809|Just something I can turn to",
+          "startMs": 48809,
+          "text": "Just something I can turn to"
+        },
+        {
+          "key": "50923|Somebody I can kiss",
+          "startMs": 50923,
+          "text": "Somebody I can kiss"
+        },
+        {
+          "key": "52838|I want something just like this",
+          "startMs": 52838,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "54950|Doo doo doo doo doo doo",
+          "startMs": 54950,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "57064|Doo doo doo doo doo",
+          "startMs": 57064,
+          "text": "Doo doo doo doo doo"
+        },
+        {
+          "key": "59279|Doo doo doo doo doo doo",
+          "startMs": 59279,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "61051|I want something just like this",
+          "startMs": 61051,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "63363|Doo doo doo doo doo doo",
+          "startMs": 63363,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "65405|Doo doo doo doo doo",
+          "startMs": 65405,
+          "text": "Doo doo doo doo doo"
+        },
+        {
+          "key": "67570|Doo doo doo doo doo doo",
+          "startMs": 67570,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "69334|Oh I want something just like this",
+          "startMs": 69334,
+          "text": "Oh I want something just like this"
+        },
+        {
+          "key": "77853|I want something just like this",
+          "startMs": 77853,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "86422|I've been reading books of old",
+          "startMs": 86422,
+          "text": "I've been reading books of old"
+        },
+        {
+          "key": "88481|The legends and the myths",
+          "startMs": 88481,
+          "text": "The legends and the myths"
+        },
+        {
+          "key": "90547|The testaments they told",
+          "startMs": 90547,
+          "text": "The testaments they told"
+        },
+        {
+          "key": "92556|The moon and its eclipse",
+          "startMs": 92556,
+          "text": "The moon and its eclipse"
+        },
+        {
+          "key": "94722|And superman unrolls",
+          "startMs": 94722,
+          "text": "And superman unrolls"
+        },
+        {
+          "key": "96844|A suit before he lifts",
+          "startMs": 96844,
+          "text": "A suit before he lifts"
+        },
+        {
+          "key": "99869|But I'm not the kind of person that it fits",
+          "startMs": 99869,
+          "text": "But I'm not the kind of person that it fits"
+        },
+        {
+          "key": "102843|She said where'd you wanna go",
+          "startMs": 102843,
+          "text": "She said where'd you wanna go"
+        },
+        {
+          "key": "105167|How much you wanna risk",
+          "startMs": 105167,
+          "text": "How much you wanna risk"
+        },
+        {
+          "key": "107029|I'm not looking for somebody",
+          "startMs": 107029,
+          "text": "I'm not looking for somebody"
+        },
+        {
+          "key": "109142|With some superhuman gifts",
+          "startMs": 109142,
+          "text": "With some superhuman gifts"
+        },
+        {
+          "key": "111174|Some superhero",
+          "startMs": 111174,
+          "text": "Some superhero"
+        },
+        {
+          "key": "113387|Some fairytale bliss",
+          "startMs": 113387,
+          "text": "Some fairytale bliss"
+        },
+        {
+          "key": "115553|Just something I can turn to",
+          "startMs": 115553,
+          "text": "Just something I can turn to"
+        },
+        {
+          "key": "117668|Somebody I can miss",
+          "startMs": 117668,
+          "text": "Somebody I can miss"
+        },
+        {
+          "key": "119658|I want something just like this",
+          "startMs": 119658,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "127956|I want something just like this",
+          "startMs": 127956,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "136269|I want something just like this",
+          "startMs": 136269,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "138535|Doo doo doo doo doo doo",
+          "startMs": 138535,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "140846|Doo doo doo doo doo",
+          "startMs": 140846,
+          "text": "Doo doo doo doo doo"
+        },
+        {
+          "key": "142760|Doo doo doo doo doo doo",
+          "startMs": 142760,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "144623|Oh I want something just like this",
+          "startMs": 144623,
+          "text": "Oh I want something just like this"
+        },
+        {
+          "key": "146991|Doo doo doo doo doo doo",
+          "startMs": 146991,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "148956|Doo doo doo doo doo",
+          "startMs": 148956,
+          "text": "Doo doo doo doo doo"
+        },
+        {
+          "key": "151023|Doo doo doo doo doo doo",
+          "startMs": 151023,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "153496|Where'd you wanna go",
+          "startMs": 153496,
+          "text": "Where'd you wanna go"
+        },
+        {
+          "key": "155209|How much you wanna risk",
+          "startMs": 155209,
+          "text": "How much you wanna risk"
+        },
+        {
+          "key": "157018|I'm not looking for somebody",
+          "startMs": 157018,
+          "text": "I'm not looking for somebody"
+        },
+        {
+          "key": "159230|With some superhuman gifts",
+          "startMs": 159230,
+          "text": "With some superhuman gifts"
+        },
+        {
+          "key": "161448|Some superhero",
+          "startMs": 161448,
+          "text": "Some superhero"
+        },
+        {
+          "key": "163411|Some fairytale bliss",
+          "startMs": 163411,
+          "text": "Some fairytale bliss"
+        },
+        {
+          "key": "165728|Just something I can turn to",
+          "startMs": 165728,
+          "text": "Just something I can turn to"
+        },
+        {
+          "key": "167691|Somebody I can kiss",
+          "startMs": 167691,
+          "text": "Somebody I can kiss"
+        },
+        {
+          "key": "169751|I want something just like this",
+          "startMs": 169751,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "186167|Oh I want something just like this",
+          "startMs": 186167,
+          "text": "Oh I want something just like this"
+        },
+        {
+          "key": "202900|Oh I want something just like this",
+          "startMs": 202900,
+          "text": "Oh I want something just like this"
+        }
+      ]
+    },
+    {
+      "rank": 904,
+      "songKey": "online:kugou:03f818ef5b72d16f65bd6298fb99b440",
+      "name": "追光者",
+      "artist": "岑宁儿",
+      "lines": [
+        {
+          "key": "0|岑宁儿 - 追光者",
+          "startMs": 0,
+          "text": "岑宁儿 - 追光者"
+        },
+        {
+          "key": "1930|词：唐恬",
+          "startMs": 1930,
+          "text": "词：唐恬"
+        },
+        {
+          "key": "3870|曲：马敬",
+          "startMs": 3870,
+          "text": "曲：马敬"
+        },
+        {
+          "key": "5810|编曲：黎偌天",
+          "startMs": 5810,
+          "text": "编曲：黎偌天"
+        },
+        {
+          "key": "7740|制作人：黎偌天",
+          "startMs": 7740,
+          "text": "制作人：黎偌天"
+        },
+        {
+          "key": "9680|吉他：劳国贤",
+          "startMs": 9680,
+          "text": "吉他：劳国贤"
+        },
+        {
+          "key": "11620|监制：宋鹏飞",
+          "startMs": 11620,
+          "text": "监制：宋鹏飞"
+        },
+        {
+          "key": "13550|弦乐：国际首席爱乐乐团",
+          "startMs": 13550,
+          "text": "弦乐：国际首席爱乐乐团"
+        },
+        {
+          "key": "15490|吉他：劳国贤",
+          "startMs": 15490,
+          "text": "吉他：劳国贤"
+        },
+        {
+          "key": "17430|弦乐：国际首席爱乐乐团",
+          "startMs": 17430,
+          "text": "弦乐：国际首席爱乐乐团"
+        },
+        {
+          "key": "19370|Bass：大宇",
+          "startMs": 19370,
+          "text": "Bass：大宇"
+        },
+        {
+          "key": "21300|监制：宋鹏飞",
+          "startMs": 21300,
+          "text": "监制：宋鹏飞"
+        },
+        {
+          "key": "23240|音乐出品发行公司：听见时代传媒",
+          "startMs": 23240,
+          "text": "音乐出品发行公司：听见时代传媒"
+        },
+        {
+          "key": "25186|如果说",
+          "startMs": 25186,
+          "text": "如果说"
+        },
+        {
+          "key": "26534|你是海上的烟火",
+          "startMs": 26534,
+          "text": "你是海上的烟火"
+        },
+        {
+          "key": "29954|我是浪花的泡沫",
+          "startMs": 29954,
+          "text": "我是浪花的泡沫"
+        },
+        {
+          "key": "33580|某一刻",
+          "startMs": 33580,
+          "text": "某一刻"
+        },
+        {
+          "key": "35044|你的光照亮了我",
+          "startMs": 35044,
+          "text": "你的光照亮了我"
+        },
+        {
+          "key": "38244|如果说",
+          "startMs": 38244,
+          "text": "如果说"
+        },
+        {
+          "key": "39780|你是遥远的星河",
+          "startMs": 39780,
+          "text": "你是遥远的星河"
+        },
+        {
+          "key": "43141|耀眼得让人想哭",
+          "startMs": 43141,
+          "text": "耀眼得让人想哭"
+        },
+        {
+          "key": "48700|我是追逐着你的眼眸",
+          "startMs": 48700,
+          "text": "我是追逐着你的眼眸"
+        },
+        {
+          "key": "52070|总在孤单时候眺望夜空",
+          "startMs": 52070,
+          "text": "总在孤单时候眺望夜空"
+        },
+        {
+          "key": "61238|我可以跟在你身后",
+          "startMs": 61238,
+          "text": "我可以跟在你身后"
+        },
+        {
+          "key": "64590|像影子追着光梦游",
+          "startMs": 64590,
+          "text": "像影子追着光梦游"
+        },
+        {
+          "key": "67886|我可以等在这路口",
+          "startMs": 67886,
+          "text": "我可以等在这路口"
+        },
+        {
+          "key": "71174|不管你会不会经过",
+          "startMs": 71174,
+          "text": "不管你会不会经过"
+        },
+        {
+          "key": "74622|每当我为你抬起头",
+          "startMs": 74622,
+          "text": "每当我为你抬起头"
+        },
+        {
+          "key": "77982|连眼泪都觉得自由",
+          "startMs": 77982,
+          "text": "连眼泪都觉得自由"
+        },
+        {
+          "key": "81198|有的爱像阳光倾落",
+          "startMs": 81198,
+          "text": "有的爱像阳光倾落"
+        },
+        {
+          "key": "84982|边拥有边失去着",
+          "startMs": 84982,
+          "text": "边拥有边失去着"
+        },
+        {
+          "key": "101232|如果说",
+          "startMs": 101232,
+          "text": "如果说"
+        },
+        {
+          "key": "103248|你是夏夜的萤火",
+          "startMs": 103248,
+          "text": "你是夏夜的萤火"
+        },
+        {
+          "key": "106472|孩子们为你唱歌",
+          "startMs": 106472,
+          "text": "孩子们为你唱歌"
+        },
+        {
+          "key": "110296|那么我",
+          "startMs": 110296,
+          "text": "那么我"
+        },
+        {
+          "key": "111792|是想要画你的手",
+          "startMs": 111792,
+          "text": "是想要画你的手"
+        },
+        {
+          "key": "115025|你看我",
+          "startMs": 115025,
+          "text": "你看我"
+        },
+        {
+          "key": "116641|多么渺小一个我",
+          "startMs": 116641,
+          "text": "多么渺小一个我"
+        },
+        {
+          "key": "119929|因为你有梦可做",
+          "startMs": 119929,
+          "text": "因为你有梦可做"
+        },
+        {
+          "key": "125594|也许你不会为我停留",
+          "startMs": 125594,
+          "text": "也许你不会为我停留"
+        },
+        {
+          "key": "128730|那就让我站在你的背后",
+          "startMs": 128730,
+          "text": "那就让我站在你的背后"
+        },
+        {
+          "key": "134562|我可以跟在你身后",
+          "startMs": 134562,
+          "text": "我可以跟在你身后"
+        },
+        {
+          "key": "137893|像影子追着光梦游",
+          "startMs": 137893,
+          "text": "像影子追着光梦游"
+        },
+        {
+          "key": "141242|我可以等在这路口",
+          "startMs": 141242,
+          "text": "我可以等在这路口"
+        },
+        {
+          "key": "144530|不管你会不会经过",
+          "startMs": 144530,
+          "text": "不管你会不会经过"
+        },
+        {
+          "key": "147914|每当我为你抬起头",
+          "startMs": 147914,
+          "text": "每当我为你抬起头"
+        },
+        {
+          "key": "151210|连眼泪都觉得自由",
+          "startMs": 151210,
+          "text": "连眼泪都觉得自由"
+        },
+        {
+          "key": "154738|有的爱像大雨滂沱",
+          "startMs": 154738,
+          "text": "有的爱像大雨滂沱"
+        },
+        {
+          "key": "158274|却依然相信彩虹",
+          "startMs": 158274,
+          "text": "却依然相信彩虹"
+        },
+        {
+          "key": "188124|我可以跟在你身后",
+          "startMs": 188124,
+          "text": "我可以跟在你身后"
+        },
+        {
+          "key": "191316|像影子追着光梦游",
+          "startMs": 191316,
+          "text": "像影子追着光梦游"
+        },
+        {
+          "key": "194764|我可以等在这路口",
+          "startMs": 194764,
+          "text": "我可以等在这路口"
+        },
+        {
+          "key": "197948|不管你会不会经过",
+          "startMs": 197948,
+          "text": "不管你会不会经过"
+        },
+        {
+          "key": "201285|每当我为你抬起头",
+          "startMs": 201285,
+          "text": "每当我为你抬起头"
+        },
+        {
+          "key": "204566|连眼泪都觉得自由",
+          "startMs": 204566,
+          "text": "连眼泪都觉得自由"
+        },
+        {
+          "key": "208133|有的爱像大雨滂沱",
+          "startMs": 208133,
+          "text": "有的爱像大雨滂沱"
+        },
+        {
+          "key": "211533|却依然相信彩虹",
+          "startMs": 211533,
+          "text": "却依然相信彩虹"
+        }
+      ]
+    },
+    {
+      "rank": 905,
+      "songKey": "online:kugou:2568742f0f76ac987d7aef590bb86bda",
+      "name": "D大调卡农 (钢琴)",
+      "artist": "赵健",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}
