@@ -1,0 +1,434 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:72f2e36f606eb3dacf2acd9de67fcbd3",
+      "lines": [
+        {
+          "key": "0|一程山路 - 毛不易",
+          "text": "一程山路 - 毛不易",
+          "segments": [
+            "一程山路",
+            " - ",
+            "毛不易"
+          ]
+        },
+        {
+          "key": "2625|作词Lyricist：毛不易 Mao Buyi",
+          "text": "作词Lyricist：毛不易 Mao Buyi",
+          "segments": [
+            "作词Lyricist：",
+            "毛不易 Mao Buyi"
+          ]
+        },
+        {
+          "key": "8665|作曲Composer：毛不易 Mao Buyi",
+          "text": "作曲Composer：毛不易 Mao Buyi",
+          "segments": [
+            "作曲Composer：",
+            "毛不易 Mao Buyi"
+          ]
+        },
+        {
+          "key": "14705|编曲Arrangement：韦伟 Oldbanana",
+          "text": "编曲Arrangement：韦伟 Oldbanana",
+          "segments": [
+            "编曲Arrangement：",
+            "韦伟 Oldbanana"
+          ]
+        },
+        {
+          "key": "21533|制作人 Producer：韦伟 Oldbanana",
+          "text": "制作人 Producer：韦伟 Oldbanana",
+          "segments": [
+            "制作人 Producer：",
+            "韦伟 Oldbanana"
+          ]
+        },
+        {
+          "key": "28098|青石板留着谁的梦啊",
+          "text": "青石板留着谁的梦啊",
+          "segments": [
+            "青石板",
+            "留着",
+            "谁的",
+            "梦啊"
+          ]
+        },
+        {
+          "key": "34248|一场秋雨 又落一地花",
+          "text": "一场秋雨 又落一地花",
+          "segments": [
+            "一场",
+            "秋雨 ",
+            "又落",
+            "一地",
+            "花"
+          ]
+        },
+        {
+          "key": "42078|旅人匆匆地赶路啊",
+          "text": "旅人匆匆地赶路啊",
+          "segments": [
+            "旅人",
+            "匆匆",
+            "地",
+            "赶",
+            "路",
+            "啊"
+          ]
+        },
+        {
+          "key": "49358|走四季 访人家",
+          "text": "走四季 访人家",
+          "segments": [
+            "走",
+            "四季 ",
+            "访",
+            "人家"
+          ]
+        },
+        {
+          "key": "55118|如同昨夜天光乍破了远山的轮廓",
+          "text": "如同昨夜天光乍破了远山的轮廓",
+          "segments": [
+            "如同",
+            "昨夜",
+            "天光",
+            "乍破了",
+            "远山的",
+            "轮廓"
+          ]
+        },
+        {
+          "key": "61988|想起很久之前我们都忘了说",
+          "text": "想起很久之前我们都忘了说",
+          "segments": [
+            "想起",
+            "很久",
+            "之前",
+            "我们",
+            "都",
+            "忘了",
+            "说"
+          ]
+        },
+        {
+          "key": "69908|一叶曲折过后 又一道坎坷",
+          "text": "一叶曲折过后 又一道坎坷",
+          "segments": [
+            "一",
+            "叶",
+            "曲折",
+            "过后 ",
+            "又",
+            "一道",
+            "坎坷"
+          ]
+        },
+        {
+          "key": "77198|走不出 看不破",
+          "text": "走不出 看不破",
+          "segments": [
+            "走",
+            "不出 ",
+            "看",
+            "不破"
+          ]
+        },
+        {
+          "key": "111532|山谷的薄雾吻着烟霞",
+          "text": "山谷的薄雾吻着烟霞",
+          "segments": [
+            "山谷",
+            "的",
+            "薄雾",
+            "吻",
+            "着",
+            "烟霞"
+          ]
+        },
+        {
+          "key": "117622|枯叶之下 藏多少情话",
+          "text": "枯叶之下 藏多少情话",
+          "segments": [
+            "枯叶",
+            "之下 ",
+            "藏",
+            "多少",
+            "情话"
+          ]
+        },
+        {
+          "key": "125392|划破天空的归鸟啊",
+          "text": "划破天空的归鸟啊",
+          "segments": [
+            "划破",
+            "天空",
+            "的",
+            "归",
+            "鸟",
+            "啊"
+          ]
+        },
+        {
+          "key": "132872|它不问 你不答",
+          "text": "它不问 你不答",
+          "segments": [
+            "它",
+            "不问 ",
+            "你",
+            "不",
+            "答"
+          ]
+        },
+        {
+          "key": "138542|如同昨夜天光乍破了远山的轮廓",
+          "text": "如同昨夜天光乍破了远山的轮廓",
+          "segments": [
+            "如同",
+            "昨夜",
+            "天光",
+            "乍破了",
+            "远山的",
+            "轮廓"
+          ]
+        },
+        {
+          "key": "145492|想起很久之前我们都忘了说",
+          "text": "想起很久之前我们都忘了说",
+          "segments": [
+            "想起",
+            "很久",
+            "之前",
+            "我们",
+            "都",
+            "忘了",
+            "说"
+          ]
+        },
+        {
+          "key": "153377|一叶曲折过后 又一道坎坷",
+          "text": "一叶曲折过后 又一道坎坷",
+          "segments": [
+            "一",
+            "叶",
+            "曲折",
+            "过后 ",
+            "又",
+            "一道",
+            "坎坷"
+          ]
+        },
+        {
+          "key": "160712|走不出 看不破",
+          "text": "走不出 看不破",
+          "segments": [
+            "走",
+            "不出 ",
+            "看",
+            "不破"
+          ]
+        },
+        {
+          "key": "166372|潺潺流水终于穿过了群山一座座",
+          "text": "潺潺流水终于穿过了群山一座座",
+          "segments": [
+            "潺潺流水",
+            "终于",
+            "穿过",
+            "了",
+            "群山",
+            "一座",
+            "座"
+          ]
+        },
+        {
+          "key": "173372|好像多年之后你依然执着",
+          "text": "好像多年之后你依然执着",
+          "segments": [
+            "好像",
+            "多年",
+            "之后",
+            "你",
+            "依然",
+            "执着"
+          ]
+        },
+        {
+          "key": "181172|白云是否也听过你的诉说",
+          "text": "白云是否也听过你的诉说",
+          "segments": [
+            "白云",
+            "是否",
+            "也",
+            "听",
+            "过",
+            "你的",
+            "诉说"
+          ]
+        },
+        {
+          "key": "188442|笑着你 笑着我",
+          "text": "笑着你 笑着我",
+          "segments": [
+            "笑着你 ",
+            "笑着我"
+          ]
+        },
+        {
+          "key": "195142|白云是否也听过你的诉说",
+          "text": "白云是否也听过你的诉说",
+          "segments": [
+            "白云",
+            "是否",
+            "也",
+            "听",
+            "过",
+            "你的",
+            "诉说"
+          ]
+        },
+        {
+          "key": "202352|笑着你 笑着我",
+          "text": "笑着你 笑着我",
+          "segments": [
+            "笑着你 ",
+            "笑着我"
+          ]
+        },
+        {
+          "key": "208572|吉他Guitar：任强 Ren Qing/谢星 Xie Xing",
+          "text": "吉他Guitar：任强 Ren Qing/谢星 Xie Xing",
+          "segments": [
+            "吉他Guitar：",
+            "任强 Ren Qing",
+            "/",
+            "谢星 Xie Xing"
+          ]
+        },
+        {
+          "key": "208899|贝斯Bass：韩阳 Han Yang",
+          "text": "贝斯Bass：韩阳 Han Yang",
+          "segments": [
+            "贝斯Bass：",
+            "韩阳 Han Yang"
+          ]
+        },
+        {
+          "key": "209083|鼓Drums：图灵 Tu Ling",
+          "text": "鼓Drums：图灵 Tu Ling",
+          "segments": [
+            "鼓Drums：",
+            "图灵 Tu Ling"
+          ]
+        },
+        {
+          "key": "209257|键盘Keyboard：韦伟Oldbanana",
+          "text": "键盘Keyboard：韦伟Oldbanana",
+          "segments": [
+            "键盘Keyboard：",
+            "韦伟Oldbanana"
+          ]
+        },
+        {
+          "key": "209482|琵琶Pipa：梁雁 Liang Yan",
+          "text": "琵琶Pipa：梁雁 Liang Yan",
+          "segments": [
+            "琵琶Pipa：",
+            "梁雁 Liang Yan"
+          ]
+        },
+        {
+          "key": "209676|录音Recording：李越Li Yue@野火春风EFO Sound",
+          "text": "录音Recording：李越Li Yue@野火春风EFO Sound",
+          "segments": [
+            "录音Recording：",
+            "李越Li Yue@野火春风EFO Sound"
+          ]
+        },
+        {
+          "key": "210023|人声编辑Vocal Editing：祝薇Avi Zhu",
+          "text": "人声编辑Vocal Editing：祝薇Avi Zhu",
+          "segments": [
+            "人声编辑Vocal Editing：",
+            "祝薇Avi Zhu"
+          ]
+        },
+        {
+          "key": "210300|配唱制作人Vocal Produced by：何文锐@光合声动 He WenRui@Sound Studio",
+          "text": "配唱制作人Vocal Produced by：何文锐@光合声动 He WenRui@Sound Studio",
+          "segments": [
+            "配唱制作人Vocal Produced by：",
+            "何文锐@光合声动 He WenRui@Sound Studio"
+          ]
+        },
+        {
+          "key": "210852|和声编写Backing Vocal Arranged by：何文锐@光合声动 He WenRui@Sound Studio",
+          "text": "和声编写Backing Vocal Arranged by：何文锐@光合声动 He WenRui@Sound Studio",
+          "segments": [
+            "和声编写Backing Vocal Arranged by：",
+            "何文锐@光合声动 He WenRui@Sound Studio"
+          ]
+        },
+        {
+          "key": "211475|和声Backing Vocal Performed by：何文锐/姜美彤@光合声动 He Wenrui Jiang Meitong @Sound Studio",
+          "text": "和声Backing Vocal Performed by：何文锐/姜美彤@光合声动 He Wenrui Jiang Meitong @Sound Studio",
+          "segments": [
+            "和声Backing Vocal Performed by：",
+            "何文锐",
+            "/",
+            "姜美彤@光合声动 He Wenrui Jiang Meitong @Sound Studio"
+          ]
+        },
+        {
+          "key": "212283|和声录音 Backing Vocal Recorded by：豆豆龙@Allanwang Studio",
+          "text": "和声录音 Backing Vocal Recorded by：豆豆龙@Allanwang Studio",
+          "segments": [
+            "和声录音 Backing Vocal Recorded by：",
+            "豆豆龙@Allanwang Studio"
+          ]
+        },
+        {
+          "key": "212805|弦乐Strings：国际首席爱乐乐团The International Prima Philharmonic Orchestra",
+          "text": "弦乐Strings：国际首席爱乐乐团The International Prima Philharmonic Orchestra",
+          "segments": [
+            "弦乐Strings：",
+            "国际首席爱乐乐团The International Prima Philharmonic Orchestra"
+          ]
+        },
+        {
+          "key": "213459|混音Mixing：李越Li Yue@野火春风EFO Sound",
+          "text": "混音Mixing：李越Li Yue@野火春风EFO Sound",
+          "segments": [
+            "混音Mixing：",
+            "李越Li Yue@野火春风EFO Sound"
+          ]
+        },
+        {
+          "key": "213776|母带/母带工作室Mastering/Studios：Randy Merrill@Steriling Sound NY",
+          "text": "母带/母带工作室Mastering/Studios：Randy Merrill@Steriling Sound NY",
+          "segments": [
+            "母带/母带工作室Mastering/Studios：",
+            "Randy Merrill@Steriling Sound NY"
+          ]
+        },
+        {
+          "key": "214369|音乐制作 Produced：哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd.",
+          "text": "音乐制作 Produced：哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd.",
+          "segments": [
+            "音乐制作 Produced：",
+            "哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd."
+          ]
+        },
+        {
+          "key": "214993|出品/母带版权公司 Production Company/OP：哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd.",
+          "text": "出品/母带版权公司 Production Company/OP：哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd.",
+          "segments": [
+            "出品/母带版权公司 Production Company/OP：",
+            "哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd."
+          ]
+        }
+      ]
+    }
+  ]
+}

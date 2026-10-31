@@ -1,0 +1,1175 @@
+{
+  "batchNumber": 84,
+  "songs": [
+    {
+      "rank": 416,
+      "songKey": "online:kugou:cf8fb1a9dc45179caa820b48d8612bca",
+      "name": "谁 (说唱版)",
+      "artist": "歪歪超 / 曲肖冰",
+      "lines": [
+        {
+          "key": "0|谁 (说唱版) - 歪歪超、曲肖冰",
+          "startMs": 0,
+          "text": "谁 (说唱版) - 歪歪超、曲肖冰"
+        },
+        {
+          "key": "0|词Lyricist：陈镜润",
+          "startMs": 0,
+          "text": "词Lyricist：陈镜润"
+        },
+        {
+          "key": "1506|曲Composer：彭pini ",
+          "startMs": 1506,
+          "text": "曲Composer：彭pini "
+        },
+        {
+          "key": "2010|在你眼中我是谁",
+          "startMs": 2010,
+          "text": "在你眼中我是谁"
+        },
+        {
+          "key": "7470|你想我代替谁",
+          "startMs": 7470,
+          "text": "你想我代替谁"
+        },
+        {
+          "key": "12510|彼此交换喜悲",
+          "startMs": 12510,
+          "text": "彼此交换喜悲"
+        },
+        {
+          "key": "16680|爱的多的人总先掉眼泪",
+          "startMs": 16680,
+          "text": "爱的多的人总先掉眼泪"
+        },
+        {
+          "key": "22980|在你眼中我究竟是哪位",
+          "startMs": 22980,
+          "text": "在你眼中我究竟是哪位"
+        },
+        {
+          "key": "25500|你的宝贝还是你的傀儡",
+          "startMs": 25500,
+          "text": "你的宝贝还是你的傀儡"
+        },
+        {
+          "key": "28020|流的热泪早把自己灌醉",
+          "startMs": 28020,
+          "text": "流的热泪早把自己灌醉"
+        },
+        {
+          "key": "30570|伪善面孔让我如此的狼狈",
+          "startMs": 30570,
+          "text": "伪善面孔让我如此的狼狈"
+        },
+        {
+          "key": "33060|窗台上那盆玫瑰早已枯萎",
+          "startMs": 33060,
+          "text": "窗台上那盆玫瑰早已枯萎"
+        },
+        {
+          "key": "35640|我浇上一瓶又一瓶的香水",
+          "startMs": 35640,
+          "text": "我浇上一瓶又一瓶的香水"
+        },
+        {
+          "key": "38130|冰冷内心散发短暂香味",
+          "startMs": 38130,
+          "text": "冰冷内心散发短暂香味"
+        },
+        {
+          "key": "40680|没有用也不会让人陶醉",
+          "startMs": 40680,
+          "text": "没有用也不会让人陶醉"
+        },
+        {
+          "key": "43200|你一定做好了准备才让我心碎",
+          "startMs": 43200,
+          "text": "你一定做好了准备才让我心碎"
+        },
+        {
+          "key": "48240|不给自己后悔机会让我没防备",
+          "startMs": 48240,
+          "text": "不给自己后悔机会让我没防备"
+        },
+        {
+          "key": "53160|终于我学会如何能够安然入睡",
+          "startMs": 53160,
+          "text": "终于我学会如何能够安然入睡"
+        },
+        {
+          "key": "55680|慢慢的明白这段感情是你不配",
+          "startMs": 55680,
+          "text": "慢慢的明白这段感情是你不配"
+        },
+        {
+          "key": "58200|你错过爱你的珍贵找你爱的相互依偎",
+          "startMs": 58200,
+          "text": "你错过爱你的珍贵找你爱的相互依偎"
+        },
+        {
+          "key": "60750|你也不过只是他找的一个傀儡",
+          "startMs": 60750,
+          "text": "你也不过只是他找的一个傀儡"
+        },
+        {
+          "key": "62760|在你眼中我是谁",
+          "startMs": 62760,
+          "text": "在你眼中我是谁"
+        },
+        {
+          "key": "68100|你想我代替谁",
+          "startMs": 68100,
+          "text": "你想我代替谁"
+        },
+        {
+          "key": "73140|彼此交换喜悲",
+          "startMs": 73140,
+          "text": "彼此交换喜悲"
+        },
+        {
+          "key": "77310|爱的多的人总先掉眼泪",
+          "startMs": 77310,
+          "text": "爱的多的人总先掉眼泪"
+        },
+        {
+          "key": "83490|感情它并不完美我们都会后悔",
+          "startMs": 83490,
+          "text": "感情它并不完美我们都会后悔"
+        },
+        {
+          "key": "86010|总会有一些感情没有好的结尾",
+          "startMs": 86010,
+          "text": "总会有一些感情没有好的结尾"
+        },
+        {
+          "key": "88530|不要怕经历过多会把时间浪费",
+          "startMs": 88530,
+          "text": "不要怕经历过多会把时间浪费"
+        },
+        {
+          "key": "91170|找个相爱的人一生难能可贵",
+          "startMs": 91170,
+          "text": "找个相爱的人一生难能可贵"
+        },
+        {
+          "key": "93570|虚伪的是人类但爱情却很可贵",
+          "startMs": 93570,
+          "text": "虚伪的是人类但爱情却很可贵"
+        },
+        {
+          "key": "96090|但总被一些人拖累的一直往下坠",
+          "startMs": 96090,
+          "text": "但总被一些人拖累的一直往下坠"
+        },
+        {
+          "key": "98670|爱情被灌醉变得不那么纯粹",
+          "startMs": 98670,
+          "text": "爱情被灌醉变得不那么纯粹"
+        },
+        {
+          "key": "101250|即便这样我们也要问心无愧",
+          "startMs": 101250,
+          "text": "即便这样我们也要问心无愧"
+        },
+        {
+          "key": "103800|我们的人生还长还要再继续",
+          "startMs": 103800,
+          "text": "我们的人生还长还要再继续"
+        },
+        {
+          "key": "108870|别在乎别人眼里你到底是谁",
+          "startMs": 108870,
+          "text": "别在乎别人眼里你到底是谁"
+        },
+        {
+          "key": "113820|如果在感情里面一直跌跌撞撞",
+          "startMs": 113820,
+          "text": "如果在感情里面一直跌跌撞撞"
+        },
+        {
+          "key": "116340|不如把自己放空再寻新的方向",
+          "startMs": 116340,
+          "text": "不如把自己放空再寻新的方向"
+        },
+        {
+          "key": "118860|再睁开眼会看到属于爱的光亮",
+          "startMs": 118860,
+          "text": "再睁开眼会看到属于爱的光亮"
+        },
+        {
+          "key": "121380|照在那枯萎的花它能重新绽放",
+          "startMs": 121380,
+          "text": "照在那枯萎的花它能重新绽放"
+        },
+        {
+          "key": "123360|在你眼中我是谁",
+          "startMs": 123360,
+          "text": "在你眼中我是谁"
+        },
+        {
+          "key": "128730|你想我代替谁",
+          "startMs": 128730,
+          "text": "你想我代替谁"
+        },
+        {
+          "key": "133770|彼此交换喜悲",
+          "startMs": 133770,
+          "text": "彼此交换喜悲"
+        },
+        {
+          "key": "137940|爱的多的人总先掉眼泪",
+          "startMs": 137940,
+          "text": "爱的多的人总先掉眼泪"
+        },
+        {
+          "key": "143580|在我眼中你是谁",
+          "startMs": 143580,
+          "text": "在我眼中你是谁"
+        },
+        {
+          "key": "148680|霸占被爱的滋味",
+          "startMs": 148680,
+          "text": "霸占被爱的滋味"
+        },
+        {
+          "key": "153990|拥抱让你好累",
+          "startMs": 153990,
+          "text": "拥抱让你好累"
+        },
+        {
+          "key": "158130|爱的多的人总先变虚伪",
+          "startMs": 158130,
+          "text": "爱的多的人总先变虚伪"
+        }
+      ]
+    },
+    {
+      "rank": 417,
+      "songKey": "online:kugou:b2b6ba318c0ee0a20944b5eb6fa4daba",
+      "name": "願い〜あの頃のキミへ〜 (祈愿～致那个时候的你～)",
+      "artist": "當山みれい",
+      "lines": [
+        {
+          "key": "241|願い～あの頃のキミへ～ (祈愿~致那个时候的你～) - 當山みれい (当山真玲)",
+          "startMs": 241,
+          "text": "願い～あの頃のキミへ～ (祈愿~致那个时候的你～) - 當山みれい (当山真玲)"
+        },
+        {
+          "key": "6152|词：Dohzi-T",
+          "startMs": 6152,
+          "text": "词：Dohzi-T"
+        },
+        {
+          "key": "6753|曲：Dohzi-T/Shingo.S",
+          "startMs": 6753,
+          "text": "曲：Dohzi-T/Shingo.S"
+        },
+        {
+          "key": "14940|二人の思い出 かき集めたなら",
+          "startMs": 14940,
+          "text": "二人の思い出 かき集めたなら"
+        },
+        {
+          "key": "20631|また泣けてきちゃう 寂しさ溢れて",
+          "startMs": 20631,
+          "text": "また泣けてきちゃう 寂しさ溢れて"
+        },
+        {
+          "key": "26341|最後の恋だと 信じて願った",
+          "startMs": 26341,
+          "text": "最後の恋だと 信じて願った"
+        },
+        {
+          "key": "32065|あの日々にウソはなかった",
+          "startMs": 32065,
+          "text": "あの日々にウソはなかった"
+        },
+        {
+          "key": "41093|希望 夢 明るい未来",
+          "startMs": 41093,
+          "text": "希望 夢 明るい未来"
+        },
+        {
+          "key": "44038|東京に持った大きな期待",
+          "startMs": 44038,
+          "text": "東京に持った大きな期待"
+        },
+        {
+          "key": "46846|だけど現実は甘くなくて",
+          "startMs": 46846,
+          "text": "だけど現実は甘くなくて"
+        },
+        {
+          "key": "49703|落ち葉見つめ 深く思い詰めてた",
+          "startMs": 49703,
+          "text": "落ち葉見つめ 深く思い詰めてた"
+        },
+        {
+          "key": "52884|そんなときにあなたと出会って",
+          "startMs": 52884,
+          "text": "そんなときにあなたと出会って"
+        },
+        {
+          "key": "55736|いつもあなたに助けられて",
+          "startMs": 55736,
+          "text": "いつもあなたに助けられて"
+        },
+        {
+          "key": "58538|バイトが楽しみになって",
+          "startMs": 58538,
+          "text": "バイトが楽しみになって"
+        },
+        {
+          "key": "61043|実はシフト被るように狙ってた",
+          "startMs": 61043,
+          "text": "実はシフト被るように狙ってた"
+        },
+        {
+          "key": "64214|スタンプ使いが妙にうまくて",
+          "startMs": 64214,
+          "text": "スタンプ使いが妙にうまくて"
+        },
+        {
+          "key": "67094|お化けも虫も受け付けなくて",
+          "startMs": 67094,
+          "text": "お化けも虫も受け付けなくて"
+        },
+        {
+          "key": "69927|くしゃくしゃの笑顔が可愛くて",
+          "startMs": 69927,
+          "text": "くしゃくしゃの笑顔が可愛くて"
+        },
+        {
+          "key": "72758|眠れない夜はキミのせいで",
+          "startMs": 72758,
+          "text": "眠れない夜はキミのせいで"
+        },
+        {
+          "key": "75526|この気持ち今すぐに 伝えたい",
+          "startMs": 75526,
+          "text": "この気持ち今すぐに 伝えたい"
+        },
+        {
+          "key": "78305|けどバレたくない",
+          "startMs": 78305,
+          "text": "けどバレたくない"
+        },
+        {
+          "key": "79709|どうしたらいいの?",
+          "startMs": 79709,
+          "text": "どうしたらいいの?"
+        },
+        {
+          "key": "81350|迷ってるうちに夜明けがきて",
+          "startMs": 81350,
+          "text": "迷ってるうちに夜明けがきて"
+        },
+        {
+          "key": "84033|馬鹿みたいに後悔して",
+          "startMs": 84033,
+          "text": "馬鹿みたいに後悔して"
+        },
+        {
+          "key": "86301|二人の思い出 かき集めたなら",
+          "startMs": 86301,
+          "text": "二人の思い出 かき集めたなら"
+        },
+        {
+          "key": "91649|また泣けてきちゃう 寂しさ溢れて",
+          "startMs": 91649,
+          "text": "また泣けてきちゃう 寂しさ溢れて"
+        },
+        {
+          "key": "97294|最後の恋だと 信じて願った",
+          "startMs": 97294,
+          "text": "最後の恋だと 信じて願った"
+        },
+        {
+          "key": "103053|あの日々にウソはなかった",
+          "startMs": 103053,
+          "text": "あの日々にウソはなかった"
+        },
+        {
+          "key": "120512|帰り道の公園で受けた告白",
+          "startMs": 120512,
+          "text": "帰り道の公園で受けた告白"
+        },
+        {
+          "key": "123905|ベタすぎるセリフ笑っちゃった",
+          "startMs": 123905,
+          "text": "ベタすぎるセリフ笑っちゃった"
+        },
+        {
+          "key": "126712|一生忘れられない想い出",
+          "startMs": 126712,
+          "text": "一生忘れられない想い出"
+        },
+        {
+          "key": "129597|あなたがプレゼントしてくれた",
+          "startMs": 129597,
+          "text": "あなたがプレゼントしてくれた"
+        },
+        {
+          "key": "132410|一日中ゲームやりこんで",
+          "startMs": 132410,
+          "text": "一日中ゲームやりこんで"
+        },
+        {
+          "key": "135210|夜ご飯は一緒に作って",
+          "startMs": 135210,
+          "text": "夜ご飯は一緒に作って"
+        },
+        {
+          "key": "138054|贅沢なんてしなくたって",
+          "startMs": 138054,
+          "text": "贅沢なんてしなくたって"
+        },
+        {
+          "key": "140580|二人いればそれだけでよくて",
+          "startMs": 140580,
+          "text": "二人いればそれだけでよくて"
+        },
+        {
+          "key": "143709|口下手二人が本気で喧嘩",
+          "startMs": 143709,
+          "text": "口下手二人が本気で喧嘩"
+        },
+        {
+          "key": "146654|お互いブロック 通じない電話",
+          "startMs": 146654,
+          "text": "お互いブロック 通じない電話"
+        },
+        {
+          "key": "149467|本気でぶつかり合えることが",
+          "startMs": 149467,
+          "text": "本気でぶつかり合えることが"
+        },
+        {
+          "key": "152337|どんな愛しいか気づけなかった",
+          "startMs": 152337,
+          "text": "どんな愛しいか気づけなかった"
+        },
+        {
+          "key": "155135|あなたが教えてくれたこと",
+          "startMs": 155135,
+          "text": "あなたが教えてくれたこと"
+        },
+        {
+          "key": "158334|くれたもの",
+          "startMs": 158334,
+          "text": "くれたもの"
+        },
+        {
+          "key": "159725|胸に刻み過ごしてる 今日も",
+          "startMs": 159725,
+          "text": "胸に刻み過ごしてる 今日も"
+        },
+        {
+          "key": "162561|だから伝えたい ありがとう",
+          "startMs": 162561,
+          "text": "だから伝えたい ありがとう"
+        },
+        {
+          "key": "165512|二人の思い出 かき集めたなら",
+          "startMs": 165512,
+          "text": "二人の思い出 かき集めたなら"
+        },
+        {
+          "key": "171168|また泣けてきちゃう 寂しさ溢れて",
+          "startMs": 171168,
+          "text": "また泣けてきちゃう 寂しさ溢れて"
+        },
+        {
+          "key": "176856|最後の恋だと 信じて願った",
+          "startMs": 176856,
+          "text": "最後の恋だと 信じて願った"
+        },
+        {
+          "key": "182576|あの日々にウソはなかった",
+          "startMs": 182576,
+          "text": "あの日々にウソはなかった"
+        },
+        {
+          "key": "188581|子供のままでいられたなら",
+          "startMs": 188581,
+          "text": "子供のままでいられたなら"
+        },
+        {
+          "key": "194282|何も怖がらず歩いていけたかな?",
+          "startMs": 194282,
+          "text": "何も怖がらず歩いていけたかな?"
+        },
+        {
+          "key": "200049|もっと早く大人になっていたなら",
+          "startMs": 200049,
+          "text": "もっと早く大人になっていたなら"
+        },
+        {
+          "key": "205693|二人で乗り越えられたかな?",
+          "startMs": 205693,
+          "text": "二人で乗り越えられたかな?"
+        },
+        {
+          "key": "210618|今もキミの夢夜空へ願う",
+          "startMs": 210618,
+          "text": "今もキミの夢夜空へ願う"
+        },
+        {
+          "key": "217733|今でもキミはあの頃と同じ笑顔で",
+          "startMs": 217733,
+          "text": "今でもキミはあの頃と同じ笑顔で"
+        },
+        {
+          "key": "223460|今でもキミは",
+          "startMs": 223460,
+          "text": "今でもキミは"
+        },
+        {
+          "key": "225506|あの頃のようにまっすぐで",
+          "startMs": 225506,
+          "text": "あの頃のようにまっすぐで"
+        },
+        {
+          "key": "229148|今でもキミは",
+          "startMs": 229148,
+          "text": "今でもキミは"
+        },
+        {
+          "key": "231187|あの頃と変わらない優しさで",
+          "startMs": 231187,
+          "text": "あの頃と変わらない優しさで"
+        },
+        {
+          "key": "234766|今でもキミは",
+          "startMs": 234766,
+          "text": "今でもキミは"
+        },
+        {
+          "key": "237431|キミのままで",
+          "startMs": 237431,
+          "text": "キミのままで"
+        },
+        {
+          "key": "238623|いてほしいそう願うよ",
+          "startMs": 238623,
+          "text": "いてほしいそう願うよ"
+        },
+        {
+          "key": "242372|二人の思い出 かき集めたなら",
+          "startMs": 242372,
+          "text": "二人の思い出 かき集めたなら"
+        },
+        {
+          "key": "247836|また泣けてきちゃう 寂しさ溢れて",
+          "startMs": 247836,
+          "text": "また泣けてきちゃう 寂しさ溢れて"
+        },
+        {
+          "key": "253523|最後の恋だと 信じて願った",
+          "startMs": 253523,
+          "text": "最後の恋だと 信じて願った"
+        },
+        {
+          "key": "259258|あの日々にウソはなかった",
+          "startMs": 259258,
+          "text": "あの日々にウソはなかった"
+        },
+        {
+          "key": "265311|二人の思い出集めたら",
+          "startMs": 265311,
+          "text": "二人の思い出集めたら"
+        },
+        {
+          "key": "268213|泣き出しそうになる今夜も",
+          "startMs": 268213,
+          "text": "泣き出しそうになる今夜も"
+        },
+        {
+          "key": "271066|寂しさ 溢れて 苦しくなる",
+          "startMs": 271066,
+          "text": "寂しさ 溢れて 苦しくなる"
+        },
+        {
+          "key": "276656|最後の恋と信じ願った",
+          "startMs": 276656,
+          "text": "最後の恋と信じ願った"
+        },
+        {
+          "key": "279563|あの日々にウソはなかった",
+          "startMs": 279563,
+          "text": "あの日々にウソはなかった"
+        },
+        {
+          "key": "282251|離れても あなたの 幸せ願う",
+          "startMs": 282251,
+          "text": "離れても あなたの 幸せ願う"
+        },
+        {
+          "key": "288010|二人の思い出集めたら",
+          "startMs": 288010,
+          "text": "二人の思い出集めたら"
+        },
+        {
+          "key": "290941|泣き出しそうになる今夜も",
+          "startMs": 290941,
+          "text": "泣き出しそうになる今夜も"
+        },
+        {
+          "key": "293788|寂しさ 溢れて 苦しくなる",
+          "startMs": 293788,
+          "text": "寂しさ 溢れて 苦しくなる"
+        },
+        {
+          "key": "299349|最後の恋と信じ願った",
+          "startMs": 299349,
+          "text": "最後の恋と信じ願った"
+        },
+        {
+          "key": "302249|あの日々にウソはなかった",
+          "startMs": 302249,
+          "text": "あの日々にウソはなかった"
+        },
+        {
+          "key": "304957|離れても あなたの 幸せ願う",
+          "startMs": 304957,
+          "text": "離れても あなたの 幸せ願う"
+        }
+      ]
+    },
+    {
+      "rank": 418,
+      "songKey": "online:kugou:5618e5159d3176e21d83404049e4a6f1",
+      "name": "Fool For You",
+      "artist": "REBORN",
+      "lines": [
+        {
+          "key": "1427|REBORN - Fool For You",
+          "startMs": 1427,
+          "text": "REBORN - Fool For You"
+        },
+        {
+          "key": "3406|Lyrics by：Vanessa Schulz、Neil Ormandy、Martin Wave",
+          "startMs": 3406,
+          "text": "Lyrics by：Vanessa Schulz、Neil Ormandy、Martin Wave"
+        },
+        {
+          "key": "7288|Composed by：Raymond George Decker III",
+          "startMs": 7288,
+          "text": "Composed by：Raymond George Decker III"
+        },
+        {
+          "key": "8529|I been running over leaving in my head",
+          "startMs": 8529,
+          "text": "I been running over leaving in my head"
+        },
+        {
+          "key": "12601|Trippin' over all the stupid things you said",
+          "startMs": 12601,
+          "text": "Trippin' over all the stupid things you said"
+        },
+        {
+          "key": "16944|I keep stallin' and now I'm fallin'",
+          "startMs": 16944,
+          "text": "I keep stallin' and now I'm fallin'"
+        },
+        {
+          "key": "21264|It's like I'm constantly questioning you",
+          "startMs": 21264,
+          "text": "It's like I'm constantly questioning you"
+        },
+        {
+          "key": "25600|So if you want me why are you tearing me apart",
+          "startMs": 25600,
+          "text": "So if you want me why are you tearing me apart"
+        },
+        {
+          "key": "30128|It's killing me slowly watching you hide behind your scars",
+          "startMs": 30128,
+          "text": "It's killing me slowly watching you hide behind your scars"
+        },
+        {
+          "key": "34509|Not here when I need you I been trying to pull through",
+          "startMs": 34509,
+          "text": "Not here when I need you I been trying to pull through"
+        },
+        {
+          "key": "38793|You play with my mind play with my mind",
+          "startMs": 38793,
+          "text": "You play with my mind play with my mind"
+        },
+        {
+          "key": "41013|Play with my mind",
+          "startMs": 41013,
+          "text": "Play with my mind"
+        },
+        {
+          "key": "42944|But I'm just a fool for you",
+          "startMs": 42944,
+          "text": "But I'm just a fool for you"
+        },
+        {
+          "key": "45399|I play it cool for you",
+          "startMs": 45399,
+          "text": "I play it cool for you"
+        },
+        {
+          "key": "47676|Every night feeding me lies",
+          "startMs": 47676,
+          "text": "Every night feeding me lies"
+        },
+        {
+          "key": "49790|I turn a blind eye to",
+          "startMs": 49790,
+          "text": "I turn a blind eye to"
+        },
+        {
+          "key": "51938|I'm just a fool for you",
+          "startMs": 51938,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "54260|I'm just a fool for you",
+          "startMs": 54260,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "59027|I'm just a fool for you",
+          "startMs": 59027,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "67820|I'm just a fool for you",
+          "startMs": 67820,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "76510|I'm just a fool for you",
+          "startMs": 76510,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "78663|I know you always tell me what I want to hear",
+          "startMs": 78663,
+          "text": "I know you always tell me what I want to hear"
+        },
+        {
+          "key": "82374|It's like it's deafening the silence when you're near",
+          "startMs": 82374,
+          "text": "It's like it's deafening the silence when you're near"
+        },
+        {
+          "key": "86882|All these blurred lines I still hold tight",
+          "startMs": 86882,
+          "text": "All these blurred lines I still hold tight"
+        },
+        {
+          "key": "91132|Hoping you give me something that is real",
+          "startMs": 91132,
+          "text": "Hoping you give me something that is real"
+        },
+        {
+          "key": "95509|So if you want me why are you tearing me apart",
+          "startMs": 95509,
+          "text": "So if you want me why are you tearing me apart"
+        },
+        {
+          "key": "99907|It's killing me slowly watching you hide behind your scars",
+          "startMs": 99907,
+          "text": "It's killing me slowly watching you hide behind your scars"
+        },
+        {
+          "key": "104359|Not here when I need you I been trying to pull through",
+          "startMs": 104359,
+          "text": "Not here when I need you I been trying to pull through"
+        },
+        {
+          "key": "108528|You play with my mind play with my mind",
+          "startMs": 108528,
+          "text": "You play with my mind play with my mind"
+        },
+        {
+          "key": "110798|Play with my mind",
+          "startMs": 110798,
+          "text": "Play with my mind"
+        },
+        {
+          "key": "112854|But I'm just a fool for you",
+          "startMs": 112854,
+          "text": "But I'm just a fool for you"
+        },
+        {
+          "key": "115260|I play it cool for you",
+          "startMs": 115260,
+          "text": "I play it cool for you"
+        },
+        {
+          "key": "117415|Every night feeding me lies",
+          "startMs": 117415,
+          "text": "Every night feeding me lies"
+        },
+        {
+          "key": "119542|I turn a blind eye to",
+          "startMs": 119542,
+          "text": "I turn a blind eye to"
+        },
+        {
+          "key": "121706|I'm just a fool for you",
+          "startMs": 121706,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "123913|I'm just a fool for you",
+          "startMs": 123913,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "128820|I'm just a fool for you",
+          "startMs": 128820,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "137568|I'm just a fool for you",
+          "startMs": 137568,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "148357|So if you want me why are you tearing me apart",
+          "startMs": 148357,
+          "text": "So if you want me why are you tearing me apart"
+        },
+        {
+          "key": "152295|It's killing me slowly watching you hide behind your scars",
+          "startMs": 152295,
+          "text": "It's killing me slowly watching you hide behind your scars"
+        },
+        {
+          "key": "156591|Not here when I need you I been trying to pull through",
+          "startMs": 156591,
+          "text": "Not here when I need you I been trying to pull through"
+        },
+        {
+          "key": "160997|You play with my mind play with my mind",
+          "startMs": 160997,
+          "text": "You play with my mind play with my mind"
+        },
+        {
+          "key": "163157|Play with my mind",
+          "startMs": 163157,
+          "text": "Play with my mind"
+        },
+        {
+          "key": "165459|But I'm just a fool for you",
+          "startMs": 165459,
+          "text": "But I'm just a fool for you"
+        },
+        {
+          "key": "167583|I play it cool for you",
+          "startMs": 167583,
+          "text": "I play it cool for you"
+        },
+        {
+          "key": "169732|Every night feeding me lies",
+          "startMs": 169732,
+          "text": "Every night feeding me lies"
+        },
+        {
+          "key": "172014|I turn a blind eye to",
+          "startMs": 172014,
+          "text": "I turn a blind eye to"
+        },
+        {
+          "key": "174109|I'm just a fool for you",
+          "startMs": 174109,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "176365|I'm just a fool for you",
+          "startMs": 176365,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "181180|I'm just a fool for you",
+          "startMs": 181180,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "189964|I'm just a fool for you",
+          "startMs": 189964,
+          "text": "I'm just a fool for you"
+        },
+        {
+          "key": "198647|I'm just a fool for you",
+          "startMs": 198647,
+          "text": "I'm just a fool for you"
+        }
+      ]
+    },
+    {
+      "rank": 419,
+      "songKey": "online:kugou:b0553112ee0931425ac126138e2a23aa",
+      "name": "Bleeding Love",
+      "artist": "Leona Lewis",
+      "lines": [
+        {
+          "key": "0|Leona Lewis - Bleeding Love",
+          "startMs": 0,
+          "text": "Leona Lewis - Bleeding Love"
+        },
+        {
+          "key": "853|Lyrics by：Jesse McCartney、Ryan Tedder",
+          "startMs": 853,
+          "text": "Lyrics by：Jesse McCartney、Ryan Tedder"
+        },
+        {
+          "key": "1901|Composed by：Jesse McCartney、Ryan Tedder",
+          "startMs": 1901,
+          "text": "Composed by：Jesse McCartney、Ryan Tedder"
+        },
+        {
+          "key": "19791|Closed off from love I didn't need the pain",
+          "startMs": 19791,
+          "text": "Closed off from love I didn't need the pain"
+        },
+        {
+          "key": "24300|Once or twice was enough but it was all in vain",
+          "startMs": 24300,
+          "text": "Once or twice was enough but it was all in vain"
+        },
+        {
+          "key": "28930|Time starts to pass before you know it you're frozen",
+          "startMs": 28930,
+          "text": "Time starts to pass before you know it you're frozen"
+        },
+        {
+          "key": "38168|But something happened for the very first time with you",
+          "startMs": 38168,
+          "text": "But something happened for the very first time with you"
+        },
+        {
+          "key": "42597|My heart melts into the ground found something true",
+          "startMs": 42597,
+          "text": "My heart melts into the ground found something true"
+        },
+        {
+          "key": "47197|And everyone's looking round thinking I'm going crazy",
+          "startMs": 47197,
+          "text": "And everyone's looking round thinking I'm going crazy"
+        },
+        {
+          "key": "56547|But I don't care what they say",
+          "startMs": 56547,
+          "text": "But I don't care what they say"
+        },
+        {
+          "key": "58887|I'm in love with you",
+          "startMs": 58887,
+          "text": "I'm in love with you"
+        },
+        {
+          "key": "61107|They try to pull me away but they don't know the truth",
+          "startMs": 61107,
+          "text": "They try to pull me away but they don't know the truth"
+        },
+        {
+          "key": "65677|My heart's crippled by the vein that I keep on closing",
+          "startMs": 65677,
+          "text": "My heart's crippled by the vein that I keep on closing"
+        },
+        {
+          "key": "72577|You cut me open and I",
+          "startMs": 72577,
+          "text": "You cut me open and I"
+        },
+        {
+          "key": "74977|Keep bleeding keep keep bleeding love",
+          "startMs": 74977,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "79597|I keep bleeding I keep keep bleeding love",
+          "startMs": 79597,
+          "text": "I keep bleeding I keep keep bleeding love"
+        },
+        {
+          "key": "84227|Keep bleeding keep keep bleeding love",
+          "startMs": 84227,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "91187|You cut me open",
+          "startMs": 91187,
+          "text": "You cut me open"
+        },
+        {
+          "key": "98207|Trying hard not to hear but they talk so loud",
+          "startMs": 98207,
+          "text": "Trying hard not to hear but they talk so loud"
+        },
+        {
+          "key": "102607|Their piercing sounds fill my ears try to fill me with doubt",
+          "startMs": 102607,
+          "text": "Their piercing sounds fill my ears try to fill me with doubt"
+        },
+        {
+          "key": "107417|Yet I know that the goal is to keep me from falling",
+          "startMs": 107417,
+          "text": "Yet I know that the goal is to keep me from falling"
+        },
+        {
+          "key": "116527|But nothings greater than the rush that comes with your embrace",
+          "startMs": 116527,
+          "text": "But nothings greater than the rush that comes with your embrace"
+        },
+        {
+          "key": "121157|And in this world of loneliness I see your face",
+          "startMs": 121157,
+          "text": "And in this world of loneliness I see your face"
+        },
+        {
+          "key": "125747|Yet everyone around me thinks that I'm going crazy maybe maybe",
+          "startMs": 125747,
+          "text": "Yet everyone around me thinks that I'm going crazy maybe maybe"
+        },
+        {
+          "key": "135017|But I don't care what they say",
+          "startMs": 135017,
+          "text": "But I don't care what they say"
+        },
+        {
+          "key": "137337|I'm in love with you",
+          "startMs": 137337,
+          "text": "I'm in love with you"
+        },
+        {
+          "key": "139536|They try to pull me away but they don't know the truth",
+          "startMs": 139536,
+          "text": "They try to pull me away but they don't know the truth"
+        },
+        {
+          "key": "144066|My heart's crippled by the vein that I keep on closing",
+          "startMs": 144066,
+          "text": "My heart's crippled by the vein that I keep on closing"
+        },
+        {
+          "key": "151146|You cut me open and I",
+          "startMs": 151146,
+          "text": "You cut me open and I"
+        },
+        {
+          "key": "153646|Keep bleeding keep keep bleeding love",
+          "startMs": 153646,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "157966|I keep bleeding I keep keep bleeding love",
+          "startMs": 157966,
+          "text": "I keep bleeding I keep keep bleeding love"
+        },
+        {
+          "key": "162666|Keep bleeding keep keep bleeding love",
+          "startMs": 162666,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "169516|You cut me open",
+          "startMs": 169516,
+          "text": "You cut me open"
+        },
+        {
+          "key": "173355|And it's draining all of me",
+          "startMs": 173355,
+          "text": "And it's draining all of me"
+        },
+        {
+          "key": "177805|Oh they find it hard to believe",
+          "startMs": 177805,
+          "text": "Oh they find it hard to believe"
+        },
+        {
+          "key": "182505|I'll be wearing these scars for everyone to see",
+          "startMs": 182505,
+          "text": "I'll be wearing these scars for everyone to see"
+        },
+        {
+          "key": "190715|I don't care what they say I'm in love with you",
+          "startMs": 190715,
+          "text": "I don't care what they say I'm in love with you"
+        },
+        {
+          "key": "195025|They try to pull me away but they don't know the truth",
+          "startMs": 195025,
+          "text": "They try to pull me away but they don't know the truth"
+        },
+        {
+          "key": "199485|My heart's crippled by the vein that I keep on closing",
+          "startMs": 199485,
+          "text": "My heart's crippled by the vein that I keep on closing"
+        },
+        {
+          "key": "206425|You cut me open and I",
+          "startMs": 206425,
+          "text": "You cut me open and I"
+        },
+        {
+          "key": "209105|Keep bleeding keep keep bleeding love",
+          "startMs": 209105,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "213325|I keep bleeding I keep keep bleeding love",
+          "startMs": 213325,
+          "text": "I keep bleeding I keep keep bleeding love"
+        },
+        {
+          "key": "217985|Keep bleeding keep keep bleeding love",
+          "startMs": 217985,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "224775|Oh you cut me open and I",
+          "startMs": 224775,
+          "text": "Oh you cut me open and I"
+        },
+        {
+          "key": "227765|Keep bleeding keep keep bleeding love",
+          "startMs": 227765,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "231815|I keep bleeding I keep keep bleeding love",
+          "startMs": 231815,
+          "text": "I keep bleeding I keep keep bleeding love"
+        },
+        {
+          "key": "236435|Keep bleeding keep keep bleeding love",
+          "startMs": 236435,
+          "text": "Keep bleeding keep keep bleeding love"
+        },
+        {
+          "key": "243185|Oh you cut me open and I",
+          "startMs": 243185,
+          "text": "Oh you cut me open and I"
+        },
+        {
+          "key": "246144|Keep bleeding keep keep bleeding love",
+          "startMs": 246144,
+          "text": "Keep bleeding keep keep bleeding love"
+        }
+      ]
+    },
+    {
+      "rank": 420,
+      "songKey": "online:kugou:0e94992540a3f1c418f9490faafecbe4",
+      "name": "call of silence (纯音乐)",
+      "artist": "向晚丶",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

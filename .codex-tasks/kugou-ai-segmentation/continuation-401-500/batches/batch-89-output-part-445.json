@@ -1,0 +1,418 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:3a63762a47f87d5bfaab6a6d50b7e9d2",
+      "lines": [
+        {
+          "key": "0| Lost Control (Savior Remix) - Tyron Hapi、Bianca、Savior",
+          "text": " Lost Control (Savior Remix) - Tyron Hapi、Bianca、Savior",
+          "segments": [
+            " Lost Control (Savior Remix)",
+            " - ",
+            "Tyron Hapi、Bianca、Savior"
+          ]
+        },
+        {
+          "key": "980|Lyrics by：Tyron Hapi",
+          "text": "Lyrics by：Tyron Hapi",
+          "segments": [
+            "Lyrics by：",
+            "Tyron Hapi"
+          ]
+        },
+        {
+          "key": "18803|Composed by：Tyron Hapi",
+          "text": "Composed by：Tyron Hapi",
+          "segments": [
+            "Composed by：",
+            "Tyron Hapi"
+          ]
+        },
+        {
+          "key": "18803|The trees were weeping in the evenings",
+          "text": "The trees were weeping in the evenings",
+          "segments": [
+            "The ",
+            "trees ",
+            "were ",
+            "weeping ",
+            "in ",
+            "the ",
+            "evenings"
+          ]
+        },
+        {
+          "key": "24176|Of you there by my side",
+          "text": "Of you there by my side",
+          "segments": [
+            "Of ",
+            "you ",
+            "there ",
+            "by ",
+            "my ",
+            "side"
+          ]
+        },
+        {
+          "key": "27642|I try to hear the words that you'd say",
+          "text": "I try to hear the words that you'd say",
+          "segments": [
+            "I ",
+            "try ",
+            "to ",
+            "hear ",
+            "the ",
+            "words ",
+            "that ",
+            "you'd ",
+            "say"
+          ]
+        },
+        {
+          "key": "32023|The light you gave me isn't there",
+          "text": "The light you gave me isn't there",
+          "segments": [
+            "The ",
+            "light ",
+            "you ",
+            "gave ",
+            "me ",
+            "isn't ",
+            "there"
+          ]
+        },
+        {
+          "key": "36352|A little didn't go a long way",
+          "text": "A little didn't go a long way",
+          "segments": [
+            "A ",
+            "little ",
+            "didn't ",
+            "go ",
+            "a ",
+            "long ",
+            "way"
+          ]
+        },
+        {
+          "key": "39591|Now I see darkness everywhere",
+          "text": "Now I see darkness everywhere",
+          "segments": [
+            "Now ",
+            "I ",
+            "see ",
+            "darkness ",
+            "everywhere"
+          ]
+        },
+        {
+          "key": "43767|'Cause nothing can bring you home",
+          "text": "'Cause nothing can bring you home",
+          "segments": [
+            "'Cause ",
+            "nothing ",
+            "can ",
+            "bring ",
+            "you ",
+            "home"
+          ]
+        },
+        {
+          "key": "47832|I can't find a meaning",
+          "text": "I can't find a meaning",
+          "segments": [
+            "I ",
+            "can't ",
+            "find ",
+            "a ",
+            "meaning"
+          ]
+        },
+        {
+          "key": "52122|You left me without a soul",
+          "text": "You left me without a soul",
+          "segments": [
+            "You ",
+            "left ",
+            "me ",
+            "without ",
+            "a ",
+            "soul"
+          ]
+        },
+        {
+          "key": "56672|I'm over believing",
+          "text": "I'm over believing",
+          "segments": [
+            "I'm ",
+            "over ",
+            "believing"
+          ]
+        },
+        {
+          "key": "60832|'Cause nothing can bring you home",
+          "text": "'Cause nothing can bring you home",
+          "segments": [
+            "'Cause ",
+            "nothing ",
+            "can ",
+            "bring ",
+            "you ",
+            "home"
+          ]
+        },
+        {
+          "key": "65324|I can't find a meaning",
+          "text": "I can't find a meaning",
+          "segments": [
+            "I ",
+            "can't ",
+            "find ",
+            "a ",
+            "meaning"
+          ]
+        },
+        {
+          "key": "70905|I've lost control",
+          "text": "I've lost control",
+          "segments": [
+            "I've ",
+            "lost ",
+            "control"
+          ]
+        },
+        {
+          "key": "87699|Of you there by my side",
+          "text": "Of you there by my side",
+          "segments": [
+            "Of ",
+            "you ",
+            "there ",
+            "by ",
+            "my ",
+            "side"
+          ]
+        },
+        {
+          "key": "105161|Of you there by my side",
+          "text": "Of you there by my side",
+          "segments": [
+            "Of ",
+            "you ",
+            "there ",
+            "by ",
+            "my ",
+            "side"
+          ]
+        },
+        {
+          "key": "123321|I've lost control",
+          "text": "I've lost control",
+          "segments": [
+            "I've ",
+            "lost ",
+            "control"
+          ]
+        },
+        {
+          "key": "143507|When they told me you were gone",
+          "text": "When they told me you were gone",
+          "segments": [
+            "When ",
+            "they ",
+            "told ",
+            "me ",
+            "you ",
+            "were ",
+            "gone"
+          ]
+        },
+        {
+          "key": "148399|I felt something caving in",
+          "text": "I felt something caving in",
+          "segments": [
+            "I ",
+            "felt ",
+            "something ",
+            "caving ",
+            "in"
+          ]
+        },
+        {
+          "key": "151743|The weeks that passed felt way to long",
+          "text": "The weeks that passed felt way to long",
+          "segments": [
+            "The ",
+            "weeks ",
+            "that ",
+            "passed ",
+            "felt ",
+            "way ",
+            "to ",
+            "long"
+          ]
+        },
+        {
+          "key": "157274|Alone here",
+          "text": "Alone here",
+          "segments": [
+            "Alone ",
+            "here"
+          ]
+        },
+        {
+          "key": "160365|I try to hear the words that you'd say",
+          "text": "I try to hear the words that you'd say",
+          "segments": [
+            "I ",
+            "try ",
+            "to ",
+            "hear ",
+            "the ",
+            "words ",
+            "that ",
+            "you'd ",
+            "say"
+          ]
+        },
+        {
+          "key": "164593|The light you gave me isn't there",
+          "text": "The light you gave me isn't there",
+          "segments": [
+            "The ",
+            "light ",
+            "you ",
+            "gave ",
+            "me ",
+            "isn't ",
+            "there"
+          ]
+        },
+        {
+          "key": "168956|A little didn't go a long way",
+          "text": "A little didn't go a long way",
+          "segments": [
+            "A ",
+            "little ",
+            "didn't ",
+            "go ",
+            "a ",
+            "long ",
+            "way"
+          ]
+        },
+        {
+          "key": "172479|Now I see darkness everywhere",
+          "text": "Now I see darkness everywhere",
+          "segments": [
+            "Now ",
+            "I ",
+            "see ",
+            "darkness ",
+            "everywhere"
+          ]
+        },
+        {
+          "key": "178862|I'm over believing",
+          "text": "I'm over believing",
+          "segments": [
+            "I'm ",
+            "over ",
+            "believing"
+          ]
+        },
+        {
+          "key": "183158|'Cause nothing can bring you home",
+          "text": "'Cause nothing can bring you home",
+          "segments": [
+            "'Cause ",
+            "nothing ",
+            "can ",
+            "bring ",
+            "you ",
+            "home"
+          ]
+        },
+        {
+          "key": "187504|I can't find a meaning",
+          "text": "I can't find a meaning",
+          "segments": [
+            "I ",
+            "can't ",
+            "find ",
+            "a ",
+            "meaning"
+          ]
+        },
+        {
+          "key": "191833|You left me without a soul",
+          "text": "You left me without a soul",
+          "segments": [
+            "You ",
+            "left ",
+            "me ",
+            "without ",
+            "a ",
+            "soul"
+          ]
+        },
+        {
+          "key": "196371|I'm over believing",
+          "text": "I'm over believing",
+          "segments": [
+            "I'm ",
+            "over ",
+            "believing"
+          ]
+        },
+        {
+          "key": "200585|'Cause nothing can bring you home",
+          "text": "'Cause nothing can bring you home",
+          "segments": [
+            "'Cause ",
+            "nothing ",
+            "can ",
+            "bring ",
+            "you ",
+            "home"
+          ]
+        },
+        {
+          "key": "204997|I can't find a meaning",
+          "text": "I can't find a meaning",
+          "segments": [
+            "I ",
+            "can't ",
+            "find ",
+            "a ",
+            "meaning"
+          ]
+        },
+        {
+          "key": "219612|Of you there by my side",
+          "text": "Of you there by my side",
+          "segments": [
+            "Of ",
+            "you ",
+            "there ",
+            "by ",
+            "my ",
+            "side"
+          ]
+        },
+        {
+          "key": "237050|Of you there by my side",
+          "text": "Of you there by my side",
+          "segments": [
+            "Of ",
+            "you ",
+            "there ",
+            "by ",
+            "my ",
+            "side"
+          ]
+        }
+      ]
+    }
+  ]
+}

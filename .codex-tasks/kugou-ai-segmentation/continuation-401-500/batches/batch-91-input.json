@@ -1,0 +1,1355 @@
+{
+  "batchNumber": 91,
+  "songs": [
+    {
+      "rank": 451,
+      "songKey": "online:kugou:8140f982c8b5a9b3bf6ccfc40e8f3127",
+      "name": "是你 (Live)",
+      "artist": "张靓颖 / 王赫野",
+      "lines": [
+        {
+          "key": "0|张靓颖、王赫野 - 是你 (Live)",
+          "startMs": 0,
+          "text": "张靓颖、王赫野 - 是你 (Live)"
+        },
+        {
+          "key": "1140|词：梦然",
+          "startMs": 1140,
+          "text": "词：梦然"
+        },
+        {
+          "key": "1482|曲：梦然",
+          "startMs": 1482,
+          "text": "曲：梦然"
+        },
+        {
+          "key": "1824|编曲：Nick Pyo",
+          "startMs": 1824,
+          "text": "编曲：Nick Pyo"
+        },
+        {
+          "key": "2280|原唱：梦然",
+          "startMs": 2280,
+          "text": "原唱：梦然"
+        },
+        {
+          "key": "2736|制作人：张靓颖",
+          "startMs": 2736,
+          "text": "制作人：张靓颖"
+        },
+        {
+          "key": "3420|音乐总监：彭程@金牛studio",
+          "startMs": 3420,
+          "text": "音乐总监：彭程@金牛studio"
+        },
+        {
+          "key": "4560|音响总监：何飚",
+          "startMs": 4560,
+          "text": "音响总监：何飚"
+        },
+        {
+          "key": "5244|乐队队长/键盘1：董音@牛班NEWBAND",
+          "startMs": 5244,
+          "text": "乐队队长/键盘1：董音@牛班NEWBAND"
+        },
+        {
+          "key": "6840|键盘2：叶霖@牛班NEWBAND",
+          "startMs": 6840,
+          "text": "键盘2：叶霖@牛班NEWBAND"
+        },
+        {
+          "key": "7866|吉他1：黄仲贤@牛班NEWBAND",
+          "startMs": 7866,
+          "text": "吉他1：黄仲贤@牛班NEWBAND"
+        },
+        {
+          "key": "9006|吉他2：倪伟恩@牛班NEWBAND",
+          "startMs": 9006,
+          "text": "吉他2：倪伟恩@牛班NEWBAND"
+        },
+        {
+          "key": "10146|贝斯：邱培荣@牛班NEWBAND",
+          "startMs": 10146,
+          "text": "贝斯：邱培荣@牛班NEWBAND"
+        },
+        {
+          "key": "11172|鼓：Chris Trzcinski@牛班NEWBAND",
+          "startMs": 11172,
+          "text": "鼓：Chris Trzcinski@牛班NEWBAND"
+        },
+        {
+          "key": "11856|和音：张恋歌/鱼椒盐/孟呈真/叶俊",
+          "startMs": 11856,
+          "text": "和音：张恋歌/鱼椒盐/孟呈真/叶俊"
+        },
+        {
+          "key": "13680|和音编写：张恋歌",
+          "startMs": 13680,
+          "text": "和音编写：张恋歌"
+        },
+        {
+          "key": "14478|PGM：章谋杰",
+          "startMs": 14478,
+          "text": "PGM：章谋杰"
+        },
+        {
+          "key": "14934|人声编辑：顾雄",
+          "startMs": 14934,
+          "text": "人声编辑：顾雄"
+        },
+        {
+          "key": "15618|音乐混音：林梦洋",
+          "startMs": 15618,
+          "text": "音乐混音：林梦洋"
+        },
+        {
+          "key": "16515|我们一同追着心中的梦想",
+          "startMs": 16515,
+          "text": "我们一同追着心中的梦想"
+        },
+        {
+          "key": "20279|我们试着把 太阳放在手掌",
+          "startMs": 20279,
+          "text": "我们试着把 太阳放在手掌"
+        },
+        {
+          "key": "24136|我们彼此笑着岁月的无常",
+          "startMs": 24136,
+          "text": "我们彼此笑着岁月的无常"
+        },
+        {
+          "key": "27907|也坚定的做着彼此的那束光",
+          "startMs": 27907,
+          "text": "也坚定的做着彼此的那束光"
+        },
+        {
+          "key": "31821|记不得曾跨越过多少风和浪",
+          "startMs": 31821,
+          "text": "记不得曾跨越过多少风和浪"
+        },
+        {
+          "key": "35730|做你的船桨你是我的翅膀",
+          "startMs": 35730,
+          "text": "做你的船桨你是我的翅膀"
+        },
+        {
+          "key": "39640|我们记得对方 青涩的模样",
+          "startMs": 39640,
+          "text": "我们记得对方 青涩的模样"
+        },
+        {
+          "key": "43175|满是骄傲的脸庞",
+          "startMs": 43175,
+          "text": "满是骄傲的脸庞"
+        },
+        {
+          "key": "44955|是光融不掉的冰花窗",
+          "startMs": 44955,
+          "text": "是光融不掉的冰花窗"
+        },
+        {
+          "key": "47520|是你 是你",
+          "startMs": 47520,
+          "text": "是你 是你"
+        },
+        {
+          "key": "49013|身后的青春都是你",
+          "startMs": 49013,
+          "text": "身后的青春都是你"
+        },
+        {
+          "key": "53090|绘成了我的山川流溪",
+          "startMs": 53090,
+          "text": "绘成了我的山川流溪"
+        },
+        {
+          "key": "57058|为我下一场倾盆大雨",
+          "startMs": 57058,
+          "text": "为我下一场倾盆大雨"
+        },
+        {
+          "key": "59790|淋掉泥泞 把真的自己叫醒",
+          "startMs": 59790,
+          "text": "淋掉泥泞 把真的自己叫醒"
+        },
+        {
+          "key": "63228|是你是你",
+          "startMs": 63228,
+          "text": "是你是你"
+        },
+        {
+          "key": "64548|种下满是勇气森林",
+          "startMs": 64548,
+          "text": "种下满是勇气森林"
+        },
+        {
+          "key": "68762|把披风上的荒寂抹去",
+          "startMs": 68762,
+          "text": "把披风上的荒寂抹去"
+        },
+        {
+          "key": "72754|让我变成会飞行的鱼",
+          "startMs": 72754,
+          "text": "让我变成会飞行的鱼"
+        },
+        {
+          "key": "75487|跳出海域",
+          "startMs": 75487,
+          "text": "跳出海域"
+        },
+        {
+          "key": "77108|去触摸奇迹",
+          "startMs": 77108,
+          "text": "去触摸奇迹"
+        },
+        {
+          "key": "86691|我们一同追着心中的梦想",
+          "startMs": 86691,
+          "text": "我们一同追着心中的梦想"
+        },
+        {
+          "key": "90477|我们试着把 太阳放在手掌",
+          "startMs": 90477,
+          "text": "我们试着把 太阳放在手掌"
+        },
+        {
+          "key": "94310|我们彼此笑着岁月的无常",
+          "startMs": 94310,
+          "text": "我们彼此笑着岁月的无常"
+        },
+        {
+          "key": "98044|也坚定的做着彼此的那束光",
+          "startMs": 98044,
+          "text": "也坚定的做着彼此的那束光"
+        },
+        {
+          "key": "102012|记不得曾跨越过多少风和浪",
+          "startMs": 102012,
+          "text": "记不得曾跨越过多少风和浪"
+        },
+        {
+          "key": "105958|做你的船桨你是我的翅膀",
+          "startMs": 105958,
+          "text": "做你的船桨你是我的翅膀"
+        },
+        {
+          "key": "109944|我们记得对方 青涩的模样",
+          "startMs": 109944,
+          "text": "我们记得对方 青涩的模样"
+        },
+        {
+          "key": "113402|满是骄傲的脸庞",
+          "startMs": 113402,
+          "text": "满是骄傲的脸庞"
+        },
+        {
+          "key": "115236|是光融不掉的冰花窗",
+          "startMs": 115236,
+          "text": "是光融不掉的冰花窗"
+        },
+        {
+          "key": "117785|是你 是你",
+          "startMs": 117785,
+          "text": "是你 是你"
+        },
+        {
+          "key": "119252|身后的青春都是你",
+          "startMs": 119252,
+          "text": "身后的青春都是你"
+        },
+        {
+          "key": "123501|绘成了我的山川流溪",
+          "startMs": 123501,
+          "text": "绘成了我的山川流溪"
+        },
+        {
+          "key": "127357|为我下一场倾盆大雨",
+          "startMs": 127357,
+          "text": "为我下一场倾盆大雨"
+        },
+        {
+          "key": "129933|淋掉泥泞 把真的自己叫醒",
+          "startMs": 129933,
+          "text": "淋掉泥泞 把真的自己叫醒"
+        },
+        {
+          "key": "133523|是你 是你",
+          "startMs": 133523,
+          "text": "是你 是你"
+        },
+        {
+          "key": "134779|种下满是勇气森林",
+          "startMs": 134779,
+          "text": "种下满是勇气森林"
+        },
+        {
+          "key": "139002|把披风上的荒寂抹去",
+          "startMs": 139002,
+          "text": "把披风上的荒寂抹去"
+        },
+        {
+          "key": "142902|让我变成会飞行的鱼",
+          "startMs": 142902,
+          "text": "让我变成会飞行的鱼"
+        },
+        {
+          "key": "145701|跳出海域",
+          "startMs": 145701,
+          "text": "跳出海域"
+        },
+        {
+          "key": "147369|去触摸奇迹",
+          "startMs": 147369,
+          "text": "去触摸奇迹"
+        },
+        {
+          "key": "152409|是你",
+          "startMs": 152409,
+          "text": "是你"
+        },
+        {
+          "key": "154301|是你",
+          "startMs": 154301,
+          "text": "是你"
+        },
+        {
+          "key": "160417|都是你",
+          "startMs": 160417,
+          "text": "都是你"
+        },
+        {
+          "key": "164570|是你 是你",
+          "startMs": 164570,
+          "text": "是你 是你"
+        },
+        {
+          "key": "166026|身后的青春都是你",
+          "startMs": 166026,
+          "text": "身后的青春都是你"
+        },
+        {
+          "key": "168616|是你 是你",
+          "startMs": 168616,
+          "text": "是你 是你"
+        },
+        {
+          "key": "170110|绘成了我的山川流溪",
+          "startMs": 170110,
+          "text": "绘成了我的山川流溪"
+        },
+        {
+          "key": "174073|为我下一场倾盆大雨",
+          "startMs": 174073,
+          "text": "为我下一场倾盆大雨"
+        },
+        {
+          "key": "176739|淋掉泥泞 把真的自己叫醒",
+          "startMs": 176739,
+          "text": "淋掉泥泞 把真的自己叫醒"
+        },
+        {
+          "key": "180345|是你 是你",
+          "startMs": 180345,
+          "text": "是你 是你"
+        },
+        {
+          "key": "181595|身后的青春都是你",
+          "startMs": 181595,
+          "text": "身后的青春都是你"
+        },
+        {
+          "key": "185899|绘成了我的山川流溪",
+          "startMs": 185899,
+          "text": "绘成了我的山川流溪"
+        },
+        {
+          "key": "189777|为我下一场倾盆大雨",
+          "startMs": 189777,
+          "text": "为我下一场倾盆大雨"
+        },
+        {
+          "key": "192383|淋掉泥泞 把真的自己叫醒",
+          "startMs": 192383,
+          "text": "淋掉泥泞 把真的自己叫醒"
+        },
+        {
+          "key": "195998|是你 是你",
+          "startMs": 195998,
+          "text": "是你 是你"
+        },
+        {
+          "key": "197219|种下满是勇气森林",
+          "startMs": 197219,
+          "text": "种下满是勇气森林"
+        },
+        {
+          "key": "201469|把披风上的荒寂抹去",
+          "startMs": 201469,
+          "text": "把披风上的荒寂抹去"
+        },
+        {
+          "key": "205399|让我变成会飞行的鱼",
+          "startMs": 205399,
+          "text": "让我变成会飞行的鱼"
+        },
+        {
+          "key": "208046|跳出海域",
+          "startMs": 208046,
+          "text": "跳出海域"
+        },
+        {
+          "key": "209716|去触摸奇迹",
+          "startMs": 209716,
+          "text": "去触摸奇迹"
+        },
+        {
+          "key": "217638|去触摸奇迹",
+          "startMs": 217638,
+          "text": "去触摸奇迹"
+        }
+      ]
+    },
+    {
+      "rank": 452,
+      "songKey": "online:kugou:fc717f4749908ffcfe40276245f07518",
+      "name": "Running Up That Hill",
+      "artist": "Meg Myers",
+      "lines": [
+        {
+          "key": "298|Meg Myers - Running Up That Hill",
+          "startMs": 298,
+          "text": "Meg Myers - Running Up That Hill"
+        },
+        {
+          "key": "32758|It doesn't hurt me",
+          "startMs": 32758,
+          "text": "It doesn't hurt me"
+        },
+        {
+          "key": "36158|Do you want to feel how it feels",
+          "startMs": 36158,
+          "text": "Do you want to feel how it feels"
+        },
+        {
+          "key": "40482|Do you want to know know that it doesn't hurt me",
+          "startMs": 40482,
+          "text": "Do you want to know know that it doesn't hurt me"
+        },
+        {
+          "key": "45576|Do you want to hear about the deal that I'm making",
+          "startMs": 45576,
+          "text": "Do you want to hear about the deal that I'm making"
+        },
+        {
+          "key": "50306|It's you",
+          "startMs": 50306,
+          "text": "It's you"
+        },
+        {
+          "key": "54889|It's you and me",
+          "startMs": 54889,
+          "text": "It's you and me"
+        },
+        {
+          "key": "59089|And if I only could",
+          "startMs": 59089,
+          "text": "And if I only could"
+        },
+        {
+          "key": "61137|I'd make a deal with God",
+          "startMs": 61137,
+          "text": "I'd make a deal with God"
+        },
+        {
+          "key": "63479|And I'd get him to swap our places",
+          "startMs": 63479,
+          "text": "And I'd get him to swap our places"
+        },
+        {
+          "key": "67121|Be running up that road",
+          "startMs": 67121,
+          "text": "Be running up that road"
+        },
+        {
+          "key": "69305|Be running up that hill",
+          "startMs": 69305,
+          "text": "Be running up that hill"
+        },
+        {
+          "key": "71657|Be running up that building",
+          "startMs": 71657,
+          "text": "Be running up that building"
+        },
+        {
+          "key": "76522|Say if I only could oh",
+          "startMs": 76522,
+          "text": "Say if I only could oh"
+        },
+        {
+          "key": "93612|You don't want to hurt me",
+          "startMs": 93612,
+          "text": "You don't want to hurt me"
+        },
+        {
+          "key": "97186|But see how deep the bullet lies",
+          "startMs": 97186,
+          "text": "But see how deep the bullet lies"
+        },
+        {
+          "key": "101930|Unaware I'm tearing you asunder",
+          "startMs": 101930,
+          "text": "Unaware I'm tearing you asunder"
+        },
+        {
+          "key": "106607|Oh there is thunder in our hearts",
+          "startMs": 106607,
+          "text": "Oh there is thunder in our hearts"
+        },
+        {
+          "key": "111351|Is there so much hate for the ones we love",
+          "startMs": 111351,
+          "text": "Is there so much hate for the ones we love"
+        },
+        {
+          "key": "115951|Tell me we both matter don't we",
+          "startMs": 115951,
+          "text": "Tell me we both matter don't we"
+        },
+        {
+          "key": "120858|You",
+          "startMs": 120858,
+          "text": "You"
+        },
+        {
+          "key": "125402|It's you and me",
+          "startMs": 125402,
+          "text": "It's you and me"
+        },
+        {
+          "key": "130098|It's you and me",
+          "startMs": 130098,
+          "text": "It's you and me"
+        },
+        {
+          "key": "131846|You won't be unhappy",
+          "startMs": 131846,
+          "text": "You won't be unhappy"
+        },
+        {
+          "key": "134414|And if I only could",
+          "startMs": 134414,
+          "text": "And if I only could"
+        },
+        {
+          "key": "136414|I'd make a deal with God",
+          "startMs": 136414,
+          "text": "I'd make a deal with God"
+        },
+        {
+          "key": "138694|And I'd get him to swap our places",
+          "startMs": 138694,
+          "text": "And I'd get him to swap our places"
+        },
+        {
+          "key": "142390|Be running up that road",
+          "startMs": 142390,
+          "text": "Be running up that road"
+        },
+        {
+          "key": "144687|Be running up that hill",
+          "startMs": 144687,
+          "text": "Be running up that hill"
+        },
+        {
+          "key": "147047|Be running up that building",
+          "startMs": 147047,
+          "text": "Be running up that building"
+        },
+        {
+          "key": "151790|Say if I only could oh",
+          "startMs": 151790,
+          "text": "Say if I only could oh"
+        },
+        {
+          "key": "170297|You",
+          "startMs": 170297,
+          "text": "You"
+        },
+        {
+          "key": "174849|It's you and me",
+          "startMs": 174849,
+          "text": "It's you and me"
+        },
+        {
+          "key": "179570|It's you and me",
+          "startMs": 179570,
+          "text": "It's you and me"
+        },
+        {
+          "key": "181406|You won't be unhappy",
+          "startMs": 181406,
+          "text": "You won't be unhappy"
+        },
+        {
+          "key": "184214|C'mon baby",
+          "startMs": 184214,
+          "text": "C'mon baby"
+        },
+        {
+          "key": "186566|C'mon darling",
+          "startMs": 186566,
+          "text": "C'mon darling"
+        },
+        {
+          "key": "188846|Let me steal this moment from you now",
+          "startMs": 188846,
+          "text": "Let me steal this moment from you now"
+        },
+        {
+          "key": "193375|C'mon angel",
+          "startMs": 193375,
+          "text": "C'mon angel"
+        },
+        {
+          "key": "195557|C'mon c'mon darling",
+          "startMs": 195557,
+          "text": "C'mon c'mon darling"
+        },
+        {
+          "key": "198254|Let's exchange the experience",
+          "startMs": 198254,
+          "text": "Let's exchange the experience"
+        },
+        {
+          "key": "201766|Say if I only could",
+          "startMs": 201766,
+          "text": "Say if I only could"
+        },
+        {
+          "key": "203540|I'd make a deal with God",
+          "startMs": 203540,
+          "text": "I'd make a deal with God"
+        },
+        {
+          "key": "205676|And I'd get him to swap our places",
+          "startMs": 205676,
+          "text": "And I'd get him to swap our places"
+        },
+        {
+          "key": "210300|Be running up that road",
+          "startMs": 210300,
+          "text": "Be running up that road"
+        },
+        {
+          "key": "212838|Be running up that hill",
+          "startMs": 212838,
+          "text": "Be running up that hill"
+        },
+        {
+          "key": "215957|With no problems",
+          "startMs": 215957,
+          "text": "With no problems"
+        },
+        {
+          "key": "220085|Say if I only could",
+          "startMs": 220085,
+          "text": "Say if I only could"
+        },
+        {
+          "key": "222484|I'd make a deal with God",
+          "startMs": 222484,
+          "text": "I'd make a deal with God"
+        },
+        {
+          "key": "224652|And I'd get him to swap our places",
+          "startMs": 224652,
+          "text": "And I'd get him to swap our places"
+        },
+        {
+          "key": "229244|Be running up that road",
+          "startMs": 229244,
+          "text": "Be running up that road"
+        },
+        {
+          "key": "231708|Be running up that hill",
+          "startMs": 231708,
+          "text": "Be running up that hill"
+        },
+        {
+          "key": "234693|With no problems",
+          "startMs": 234693,
+          "text": "With no problems"
+        },
+        {
+          "key": "238844|Say if I only could",
+          "startMs": 238844,
+          "text": "Say if I only could"
+        },
+        {
+          "key": "244637|No problem",
+          "startMs": 244637,
+          "text": "No problem"
+        },
+        {
+          "key": "248380|Be running up that road",
+          "startMs": 248380,
+          "text": "Be running up that road"
+        },
+        {
+          "key": "250501|Be running up that hill",
+          "startMs": 250501,
+          "text": "Be running up that hill"
+        },
+        {
+          "key": "253044|Be running up that road",
+          "startMs": 253044,
+          "text": "Be running up that road"
+        },
+        {
+          "key": "255175|Be running up that hill",
+          "startMs": 255175,
+          "text": "Be running up that hill"
+        },
+        {
+          "key": "257605|Be running up that hill",
+          "startMs": 257605,
+          "text": "Be running up that hill"
+        }
+      ]
+    },
+    {
+      "rank": 453,
+      "songKey": "online:kugou:4ef15732cf4e88e7327c8346812376a6",
+      "name": "瞬 (回头再望你Speed up版)",
+      "artist": "郑润泽",
+      "lines": [
+        {
+          "key": "0|郑润泽 - 瞬 (回头再望你Speed up版)",
+          "startMs": 0,
+          "text": "郑润泽 - 瞬 (回头再望你Speed up版)"
+        },
+        {
+          "key": "40|作词：郑润泽",
+          "startMs": 40,
+          "text": "作词：郑润泽"
+        },
+        {
+          "key": "50|作曲：郑润泽",
+          "startMs": 50,
+          "text": "作曲：郑润泽"
+        },
+        {
+          "key": "60|编曲：回头再望你",
+          "startMs": 60,
+          "text": "编曲：回头再望你"
+        },
+        {
+          "key": "60|你羞涩的拍下的相片纸",
+          "startMs": 60,
+          "text": "你羞涩的拍下的相片纸"
+        },
+        {
+          "key": "1870|第一次的画面",
+          "startMs": 1870,
+          "text": "第一次的画面"
+        },
+        {
+          "key": "3030|你让我触动了这按键",
+          "startMs": 3030,
+          "text": "你让我触动了这按键"
+        },
+        {
+          "key": "4850|是放松的那面",
+          "startMs": 4850,
+          "text": "是放松的那面"
+        },
+        {
+          "key": "5810|再到后来慢慢的瓦解",
+          "startMs": 5810,
+          "text": "再到后来慢慢的瓦解"
+        },
+        {
+          "key": "7480|在暂时分别那天",
+          "startMs": 7480,
+          "text": "在暂时分别那天"
+        },
+        {
+          "key": "8950|谁能够想到那是我们",
+          "startMs": 8950,
+          "text": "谁能够想到那是我们"
+        },
+        {
+          "key": "10750|两人之间最后的一面",
+          "startMs": 10750,
+          "text": "两人之间最后的一面"
+        },
+        {
+          "key": "12700|明明在这之前",
+          "startMs": 12700,
+          "text": "明明在这之前"
+        },
+        {
+          "key": "14130|相拥的如此坚定",
+          "startMs": 14130,
+          "text": "相拥的如此坚定"
+        },
+        {
+          "key": "15460|说着一直在身边",
+          "startMs": 15460,
+          "text": "说着一直在身边"
+        },
+        {
+          "key": "17850|说过要一起看的海",
+          "startMs": 17850,
+          "text": "说过要一起看的海"
+        },
+        {
+          "key": "19680|现在我独自等待",
+          "startMs": 19680,
+          "text": "现在我独自等待"
+        },
+        {
+          "key": "23000|你要让时间怎么转",
+          "startMs": 23000,
+          "text": "你要让时间怎么转"
+        },
+        {
+          "key": "28520|刚错过的怎么换",
+          "startMs": 28520,
+          "text": "刚错过的怎么换"
+        },
+        {
+          "key": "34510|不想到醒来缺一块",
+          "startMs": 34510,
+          "text": "不想到醒来缺一块"
+        },
+        {
+          "key": "40250|我想过忘记",
+          "startMs": 40250,
+          "text": "我想过忘记"
+        },
+        {
+          "key": "41890|是最后最坏的打算",
+          "startMs": 41890,
+          "text": "是最后最坏的打算"
+        },
+        {
+          "key": "46230|我的无力成为了我的败笔",
+          "startMs": 46230,
+          "text": "我的无力成为了我的败笔"
+        },
+        {
+          "key": "49040|我是无法做到真的毫不在意",
+          "startMs": 49040,
+          "text": "我是无法做到真的毫不在意"
+        },
+        {
+          "key": "52200|我只能做的只是每天",
+          "startMs": 52200,
+          "text": "我只能做的只是每天"
+        },
+        {
+          "key": "53920|默念 默念",
+          "startMs": 53920,
+          "text": "默念 默念"
+        },
+        {
+          "key": "55490|忘记是最后最后的最坏打算",
+          "startMs": 55490,
+          "text": "忘记是最后最后的最坏打算"
+        },
+        {
+          "key": "58670|一尘不染",
+          "startMs": 58670,
+          "text": "一尘不染"
+        },
+        {
+          "key": "61290|如此简单",
+          "startMs": 61290,
+          "text": "如此简单"
+        },
+        {
+          "key": "67437|不断的失重",
+          "startMs": 67437,
+          "text": "不断的失重"
+        },
+        {
+          "key": "68935|直到我失控",
+          "startMs": 68935,
+          "text": "直到我失控"
+        },
+        {
+          "key": "70415|没有任何理由",
+          "startMs": 70415,
+          "text": "没有任何理由"
+        },
+        {
+          "key": "73090|你已经看见",
+          "startMs": 73090,
+          "text": "你已经看见"
+        },
+        {
+          "key": "74050|怎会相信我说的我不痛",
+          "startMs": 74050,
+          "text": "怎会相信我说的我不痛"
+        },
+        {
+          "key": "76640|你要让时间怎么转",
+          "startMs": 76640,
+          "text": "你要让时间怎么转"
+        },
+        {
+          "key": "82220|刚错过的怎么换",
+          "startMs": 82220,
+          "text": "刚错过的怎么换"
+        },
+        {
+          "key": "87980|不想到醒来缺一块",
+          "startMs": 87980,
+          "text": "不想到醒来缺一块"
+        },
+        {
+          "key": "93950|我想过忘记",
+          "startMs": 93950,
+          "text": "我想过忘记"
+        },
+        {
+          "key": "95540|是最后最坏的打算",
+          "startMs": 95540,
+          "text": "是最后最坏的打算"
+        },
+        {
+          "key": "100130|一尘不染",
+          "startMs": 100130,
+          "text": "一尘不染"
+        },
+        {
+          "key": "103130|如此简单",
+          "startMs": 103130,
+          "text": "如此简单"
+        }
+      ]
+    },
+    {
+      "rank": 454,
+      "songKey": "online:kugou:c06970fdb48e8e1f9bbc7577b7bc1938",
+      "name": "瞬",
+      "artist": "郑润泽",
+      "lines": [
+        {
+          "key": "0|瞬 - 郑润泽",
+          "startMs": 0,
+          "text": "瞬 - 郑润泽"
+        },
+        {
+          "key": "964|词：郑润泽",
+          "startMs": 964,
+          "text": "词：郑润泽"
+        },
+        {
+          "key": "1498|曲：郑润泽",
+          "startMs": 1498,
+          "text": "曲：郑润泽"
+        },
+        {
+          "key": "2160|编曲：朴桑松Sunny@壹橙Music",
+          "startMs": 2160,
+          "text": "编曲：朴桑松Sunny@壹橙Music"
+        },
+        {
+          "key": "3575|制作人：苗柏杨@壹橙Music/郑润泽",
+          "startMs": 3575,
+          "text": "制作人：苗柏杨@壹橙Music/郑润泽"
+        },
+        {
+          "key": "5562|吉他：陈麒元@NoMarryStudio",
+          "startMs": 5562,
+          "text": "吉他：陈麒元@NoMarryStudio"
+        },
+        {
+          "key": "6490|弦乐：国际首席爱乐乐团",
+          "startMs": 6490,
+          "text": "弦乐：国际首席爱乐乐团"
+        },
+        {
+          "key": "8102|鼓：伊佳文",
+          "startMs": 8102,
+          "text": "鼓：伊佳文"
+        },
+        {
+          "key": "8729|鼓录音：万曦",
+          "startMs": 8729,
+          "text": "鼓录音：万曦"
+        },
+        {
+          "key": "9517|和声：彭浩楷",
+          "startMs": 9517,
+          "text": "和声：彭浩楷"
+        },
+        {
+          "key": "10277|混音/母带：钟焕楷@壹橙Music/谭玉堂",
+          "startMs": 10277,
+          "text": "混音/母带：钟焕楷@壹橙Music/谭玉堂"
+        },
+        {
+          "key": "12668|封面设计：ELANUS",
+          "startMs": 12668,
+          "text": "封面设计：ELANUS"
+        },
+        {
+          "key": "13434|艺人经纪：青小桔@青桔娱乐",
+          "startMs": 13434,
+          "text": "艺人经纪：青小桔@青桔娱乐"
+        },
+        {
+          "key": "15275|艺人宣传：肖肖@Matrix/毛俊@青桔音乐",
+          "startMs": 15275,
+          "text": "艺人宣传：肖肖@Matrix/毛俊@青桔音乐"
+        },
+        {
+          "key": "17382|音乐统筹：罗皓",
+          "startMs": 17382,
+          "text": "音乐统筹：罗皓"
+        },
+        {
+          "key": "17662|企划营销：花境艺@银河方舟/赵国庆@银河方舟",
+          "startMs": 17662,
+          "text": "企划营销：花境艺@银河方舟/赵国庆@银河方舟"
+        },
+        {
+          "key": "18356|艺人合作统筹：姚慧佳@银河方舟",
+          "startMs": 18356,
+          "text": "艺人合作统筹：姚慧佳@银河方舟"
+        },
+        {
+          "key": "18808|项目总监：宫尹琳@银河方舟",
+          "startMs": 18808,
+          "text": "项目总监：宫尹琳@银河方舟"
+        },
+        {
+          "key": "19210|出品人：陆㻛@银河方舟/张洛铭@Matrix/李淘@青桔音乐",
+          "startMs": 19210,
+          "text": "出品人：陆㻛@银河方舟/张洛铭@Matrix/李淘@青桔音乐"
+        },
+        {
+          "key": "19916|OP：青桔音乐",
+          "startMs": 19916,
+          "text": "OP：青桔音乐"
+        },
+        {
+          "key": "20072|SP：银河方舟",
+          "startMs": 20072,
+          "text": "SP：银河方舟"
+        },
+        {
+          "key": "20628|我想 说不清哪天",
+          "startMs": 20628,
+          "text": "我想 说不清哪天"
+        },
+        {
+          "key": "24419|你就会回来",
+          "startMs": 24419,
+          "text": "你就会回来"
+        },
+        {
+          "key": "26722|可太多的思念",
+          "startMs": 26722,
+          "text": "可太多的思念"
+        },
+        {
+          "key": "29066|却压着时钟转",
+          "startMs": 29066,
+          "text": "却压着时钟转"
+        },
+        {
+          "key": "34003|喜欢 在夜深人静",
+          "startMs": 34003,
+          "text": "喜欢 在夜深人静"
+        },
+        {
+          "key": "37990|零碎的不堪",
+          "startMs": 37990,
+          "text": "零碎的不堪"
+        },
+        {
+          "key": "40880|能孤单的 大胆",
+          "startMs": 40880,
+          "text": "能孤单的 大胆"
+        },
+        {
+          "key": "46404|太多挂念",
+          "startMs": 46404,
+          "text": "太多挂念"
+        },
+        {
+          "key": "49846|光好刺眼",
+          "startMs": 49846,
+          "text": "光好刺眼"
+        },
+        {
+          "key": "53222|殆尽之前",
+          "startMs": 53222,
+          "text": "殆尽之前"
+        },
+        {
+          "key": "55720|你出现在我眼前",
+          "startMs": 55720,
+          "text": "你出现在我眼前"
+        },
+        {
+          "key": "58998|就当是我的幻觉 慢一点",
+          "startMs": 58998,
+          "text": "就当是我的幻觉 慢一点"
+        },
+        {
+          "key": "64897|如果倒转思念",
+          "startMs": 64897,
+          "text": "如果倒转思念"
+        },
+        {
+          "key": "68075|在这之前",
+          "startMs": 68075,
+          "text": "在这之前"
+        },
+        {
+          "key": "70103|能够将我换为你来选",
+          "startMs": 70103,
+          "text": "能够将我换为你来选"
+        },
+        {
+          "key": "73709|你要让时间怎么转",
+          "startMs": 73709,
+          "text": "你要让时间怎么转"
+        },
+        {
+          "key": "80459|刚错过的怎么换",
+          "startMs": 80459,
+          "text": "刚错过的怎么换"
+        },
+        {
+          "key": "87259|不想到醒来缺一块",
+          "startMs": 87259,
+          "text": "不想到醒来缺一块"
+        },
+        {
+          "key": "93825|我想过忘记",
+          "startMs": 93825,
+          "text": "我想过忘记"
+        },
+        {
+          "key": "95812|是最后最坏的打算",
+          "startMs": 95812,
+          "text": "是最后最坏的打算"
+        },
+        {
+          "key": "100952|一尘不染",
+          "startMs": 100952,
+          "text": "一尘不染"
+        },
+        {
+          "key": "104383|如此简单",
+          "startMs": 104383,
+          "text": "如此简单"
+        },
+        {
+          "key": "136227|你羞涩的拍下的相片纸",
+          "startMs": 136227,
+          "text": "你羞涩的拍下的相片纸"
+        },
+        {
+          "key": "138687|第一次的画面",
+          "startMs": 138687,
+          "text": "第一次的画面"
+        },
+        {
+          "key": "139894|你让我触动了这按键",
+          "startMs": 139894,
+          "text": "你让我触动了这按键"
+        },
+        {
+          "key": "141959|是放松的那面",
+          "startMs": 141959,
+          "text": "是放松的那面"
+        },
+        {
+          "key": "143112|再到后来慢慢的瓦解",
+          "startMs": 143112,
+          "text": "再到后来慢慢的瓦解"
+        },
+        {
+          "key": "144988|在暂时分别那天",
+          "startMs": 144988,
+          "text": "在暂时分别那天"
+        },
+        {
+          "key": "146671|谁能够想到那是我们",
+          "startMs": 146671,
+          "text": "谁能够想到那是我们"
+        },
+        {
+          "key": "148451|两人之间最后的一面",
+          "startMs": 148451,
+          "text": "两人之间最后的一面"
+        },
+        {
+          "key": "150913|明明在这之前",
+          "startMs": 150913,
+          "text": "明明在这之前"
+        },
+        {
+          "key": "152609|相拥的如此坚定",
+          "startMs": 152609,
+          "text": "相拥的如此坚定"
+        },
+        {
+          "key": "154186|说着一直在身边",
+          "startMs": 154186,
+          "text": "说着一直在身边"
+        },
+        {
+          "key": "156805|说过要一起看的海",
+          "startMs": 156805,
+          "text": "说过要一起看的海"
+        },
+        {
+          "key": "158952|现在我独自等待",
+          "startMs": 158952,
+          "text": "现在我独自等待"
+        },
+        {
+          "key": "162242|你要让时间怎么转",
+          "startMs": 162242,
+          "text": "你要让时间怎么转"
+        },
+        {
+          "key": "169014|刚错过的怎么换",
+          "startMs": 169014,
+          "text": "刚错过的怎么换"
+        },
+        {
+          "key": "175743|不想到醒来缺一块",
+          "startMs": 175743,
+          "text": "不想到醒来缺一块"
+        },
+        {
+          "key": "182452|我想过忘记",
+          "startMs": 182452,
+          "text": "我想过忘记"
+        },
+        {
+          "key": "184344|是最后最坏的打算",
+          "startMs": 184344,
+          "text": "是最后最坏的打算"
+        },
+        {
+          "key": "189234|我的无力成为了我的败笔",
+          "startMs": 189234,
+          "text": "我的无力成为了我的败笔"
+        },
+        {
+          "key": "192475|我是无法做到真的毫不在意",
+          "startMs": 192475,
+          "text": "我是无法做到真的毫不在意"
+        },
+        {
+          "key": "196013|我只能做的只是每天",
+          "startMs": 196013,
+          "text": "我只能做的只是每天"
+        },
+        {
+          "key": "198029|默念 默念",
+          "startMs": 198029,
+          "text": "默念 默念"
+        },
+        {
+          "key": "199581|忘记是最后最后的最坏打算",
+          "startMs": 199581,
+          "text": "忘记是最后最后的最坏打算"
+        },
+        {
+          "key": "203112|一尘不染",
+          "startMs": 203112,
+          "text": "一尘不染"
+        },
+        {
+          "key": "206410|如此简单",
+          "startMs": 206410,
+          "text": "如此简单"
+        },
+        {
+          "key": "213206|不断的失重",
+          "startMs": 213206,
+          "text": "不断的失重"
+        },
+        {
+          "key": "214938|直到我失控",
+          "startMs": 214938,
+          "text": "直到我失控"
+        },
+        {
+          "key": "216655|没有任何理由",
+          "startMs": 216655,
+          "text": "没有任何理由"
+        },
+        {
+          "key": "219784|你已经看见",
+          "startMs": 219784,
+          "text": "你已经看见"
+        },
+        {
+          "key": "220921|怎会相信我说的我不痛",
+          "startMs": 220921,
+          "text": "怎会相信我说的我不痛"
+        },
+        {
+          "key": "223970|你要让时间怎么转",
+          "startMs": 223970,
+          "text": "你要让时间怎么转"
+        },
+        {
+          "key": "230224|刚错过的怎么换",
+          "startMs": 230224,
+          "text": "刚错过的怎么换"
+        },
+        {
+          "key": "237014|不想到醒来缺一块",
+          "startMs": 237014,
+          "text": "不想到醒来缺一块"
+        },
+        {
+          "key": "243717|我想过忘记",
+          "startMs": 243717,
+          "text": "我想过忘记"
+        },
+        {
+          "key": "245523|是最后最坏的打算",
+          "startMs": 245523,
+          "text": "是最后最坏的打算"
+        },
+        {
+          "key": "250645|一尘不染",
+          "startMs": 250645,
+          "text": "一尘不染"
+        },
+        {
+          "key": "254080|如此简单",
+          "startMs": 254080,
+          "text": "如此简单"
+        }
+      ]
+    },
+    {
+      "rank": 455,
+      "songKey": "online:kugou:f54e46bd550938fc94d6485fa7d9c598",
+      "name": "悬溺",
+      "artist": "凉敛",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

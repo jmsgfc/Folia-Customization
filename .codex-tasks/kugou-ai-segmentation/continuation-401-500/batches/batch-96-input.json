@@ -1,0 +1,1495 @@
+{
+  "batchNumber": 96,
+  "songs": [
+    {
+      "rank": 476,
+      "songKey": "online:kugou:b3487099971da1981e40a421e9d9cf12",
+      "name": "每当我",
+      "artist": "晨星",
+      "lines": [
+        {
+          "key": "0|晨星 - 每当我",
+          "startMs": 0,
+          "text": "晨星 - 每当我"
+        },
+        {
+          "key": "2602|作词：6 诗人",
+          "startMs": 2602,
+          "text": "作词：6 诗人"
+        },
+        {
+          "key": "4879|作曲：6 诗人",
+          "startMs": 4879,
+          "text": "作曲：6 诗人"
+        },
+        {
+          "key": "7156|录音：松布尔",
+          "startMs": 7156,
+          "text": "录音：松布尔"
+        },
+        {
+          "key": "9108|混音：松布尔",
+          "startMs": 9108,
+          "text": "混音：松布尔"
+        },
+        {
+          "key": "11060|每当我看到花瓣脱离花蕊",
+          "startMs": 11060,
+          "text": "每当我看到花瓣脱离花蕊"
+        },
+        {
+          "key": "12900|慢慢枯萎",
+          "startMs": 12900,
+          "text": "慢慢枯萎"
+        },
+        {
+          "key": "13630|每当我听到人说至死不渝",
+          "startMs": 13630,
+          "text": "每当我听到人说至死不渝"
+        },
+        {
+          "key": "15320|今生不悔",
+          "startMs": 15320,
+          "text": "今生不悔"
+        },
+        {
+          "key": "16160|我把所有想说的话用文字",
+          "startMs": 16160,
+          "text": "我把所有想说的话用文字"
+        },
+        {
+          "key": "17830|开始积累",
+          "startMs": 17830,
+          "text": "开始积累"
+        },
+        {
+          "key": "18690|你不懂我多年伤悲",
+          "startMs": 18690,
+          "text": "你不懂我多年伤悲"
+        },
+        {
+          "key": "19890|是怎么望穿秋水",
+          "startMs": 19890,
+          "text": "是怎么望穿秋水"
+        },
+        {
+          "key": "21170|每当我看到海浪",
+          "startMs": 21170,
+          "text": "每当我看到海浪"
+        },
+        {
+          "key": "22210|时而潮起时而潮落",
+          "startMs": 22210,
+          "text": "时而潮起时而潮落"
+        },
+        {
+          "key": "23670|每当我看到幸福恋人",
+          "startMs": 23670,
+          "text": "每当我看到幸福恋人"
+        },
+        {
+          "key": "24980|会心酸会难过",
+          "startMs": 24980,
+          "text": "会心酸会难过"
+        },
+        {
+          "key": "26170|我梦到过无数次",
+          "startMs": 26170,
+          "text": "我梦到过无数次"
+        },
+        {
+          "key": "27270|有一天你回到了这",
+          "startMs": 27270,
+          "text": "有一天你回到了这"
+        },
+        {
+          "key": "28690|但每次梦中醒来",
+          "startMs": 28690,
+          "text": "但每次梦中醒来"
+        },
+        {
+          "key": "29690|才发现还是我一个",
+          "startMs": 29690,
+          "text": "才发现还是我一个"
+        },
+        {
+          "key": "31160|每当我拉上窗帘",
+          "startMs": 31160,
+          "text": "每当我拉上窗帘"
+        },
+        {
+          "key": "32220|关上房间照明的灯",
+          "startMs": 32220,
+          "text": "关上房间照明的灯"
+        },
+        {
+          "key": "33680|每当我看见凌晨五点",
+          "startMs": 33680,
+          "text": "每当我看见凌晨五点"
+        },
+        {
+          "key": "35040|墙上挂着的钟",
+          "startMs": 35040,
+          "text": "墙上挂着的钟"
+        },
+        {
+          "key": "36200|你就像是来无影去无踪的",
+          "startMs": 36200,
+          "text": "你就像是来无影去无踪的"
+        },
+        {
+          "key": "37830|暴雨狂风",
+          "startMs": 37830,
+          "text": "暴雨狂风"
+        },
+        {
+          "key": "38700|可我还是能听到你的呼声",
+          "startMs": 38700,
+          "text": "可我还是能听到你的呼声"
+        },
+        {
+          "key": "40370|夜半三更",
+          "startMs": 40370,
+          "text": "夜半三更"
+        },
+        {
+          "key": "41160|每当我穿过我们",
+          "startMs": 41160,
+          "text": "每当我穿过我们"
+        },
+        {
+          "key": "42180|曾走过的大街小巷",
+          "startMs": 42180,
+          "text": "曾走过的大街小巷"
+        },
+        {
+          "key": "43680|每当我看见手机壁纸",
+          "startMs": 43680,
+          "text": "每当我看见手机壁纸"
+        },
+        {
+          "key": "45040|还是你的模样",
+          "startMs": 45040,
+          "text": "还是你的模样"
+        },
+        {
+          "key": "46210|时间总会证明",
+          "startMs": 46210,
+          "text": "时间总会证明"
+        },
+        {
+          "key": "46960|你在我心里有多难忘",
+          "startMs": 46960,
+          "text": "你在我心里有多难忘"
+        },
+        {
+          "key": "48670|那这首你喜欢的歌",
+          "startMs": 48670,
+          "text": "那这首你喜欢的歌"
+        },
+        {
+          "key": "49870|我填词为你而唱",
+          "startMs": 49870,
+          "text": "我填词为你而唱"
+        },
+        {
+          "key": "51210|风中的花瓣随风飘落",
+          "startMs": 51210,
+          "text": "风中的花瓣随风飘落"
+        },
+        {
+          "key": "56180|残缺的诗篇",
+          "startMs": 56180,
+          "text": "残缺的诗篇"
+        },
+        {
+          "key": "58790|已经烙印在心口",
+          "startMs": 58790,
+          "text": "已经烙印在心口"
+        },
+        {
+          "key": "61180|秋天走了冬天来了",
+          "startMs": 61180,
+          "text": "秋天走了冬天来了"
+        },
+        {
+          "key": "63770|又被寒风刺痛着",
+          "startMs": 63770,
+          "text": "又被寒风刺痛着"
+        },
+        {
+          "key": "65970|我们的那些回忆包含不舍",
+          "startMs": 65970,
+          "text": "我们的那些回忆包含不舍"
+        },
+        {
+          "key": "69884|全都被我丢了丢了",
+          "startMs": 69884,
+          "text": "全都被我丢了丢了"
+        },
+        {
+          "key": "73352|啦啦啦 丢了 啦啦啦",
+          "startMs": 73352,
+          "text": "啦啦啦 丢了 啦啦啦"
+        },
+        {
+          "key": "81150|每当我拉上窗帘",
+          "startMs": 81150,
+          "text": "每当我拉上窗帘"
+        },
+        {
+          "key": "82220|关上房间照明的灯",
+          "startMs": 82220,
+          "text": "关上房间照明的灯"
+        },
+        {
+          "key": "83710|每当我看见凌晨五点",
+          "startMs": 83710,
+          "text": "每当我看见凌晨五点"
+        },
+        {
+          "key": "85030|墙上挂着的钟",
+          "startMs": 85030,
+          "text": "墙上挂着的钟"
+        },
+        {
+          "key": "86210|你就像是来无影去无踪的",
+          "startMs": 86210,
+          "text": "你就像是来无影去无踪的"
+        },
+        {
+          "key": "87810|暴雨狂风",
+          "startMs": 87810,
+          "text": "暴雨狂风"
+        },
+        {
+          "key": "88670|可我还是能听到你的呼声",
+          "startMs": 88670,
+          "text": "可我还是能听到你的呼声"
+        },
+        {
+          "key": "90400|夜半三更",
+          "startMs": 90400,
+          "text": "夜半三更"
+        },
+        {
+          "key": "91150|每当我穿过我们",
+          "startMs": 91150,
+          "text": "每当我穿过我们"
+        },
+        {
+          "key": "92240|曾走过的大街小巷",
+          "startMs": 92240,
+          "text": "曾走过的大街小巷"
+        },
+        {
+          "key": "93660|每当我看见手机壁纸",
+          "startMs": 93660,
+          "text": "每当我看见手机壁纸"
+        },
+        {
+          "key": "95010|还是你的模样",
+          "startMs": 95010,
+          "text": "还是你的模样"
+        },
+        {
+          "key": "96160|时间总会证明你在我心里",
+          "startMs": 96160,
+          "text": "时间总会证明你在我心里"
+        },
+        {
+          "key": "97840|有多难忘",
+          "startMs": 97840,
+          "text": "有多难忘"
+        },
+        {
+          "key": "98690|那这首你喜欢的歌",
+          "startMs": 98690,
+          "text": "那这首你喜欢的歌"
+        },
+        {
+          "key": "99890|我填词为你而唱",
+          "startMs": 99890,
+          "text": "我填词为你而唱"
+        },
+        {
+          "key": "101230|风中的花瓣随风飘落",
+          "startMs": 101230,
+          "text": "风中的花瓣随风飘落"
+        },
+        {
+          "key": "106220|残缺的诗篇已经烙印在心口",
+          "startMs": 106220,
+          "text": "残缺的诗篇已经烙印在心口"
+        },
+        {
+          "key": "111180|秋天走了冬天来了",
+          "startMs": 111180,
+          "text": "秋天走了冬天来了"
+        },
+        {
+          "key": "113760|又被寒风刺痛着",
+          "startMs": 113760,
+          "text": "又被寒风刺痛着"
+        },
+        {
+          "key": "115960|我们的那些回忆包含不舍",
+          "startMs": 115960,
+          "text": "我们的那些回忆包含不舍"
+        },
+        {
+          "key": "119794|全都被我丢了丢了",
+          "startMs": 119794,
+          "text": "全都被我丢了丢了"
+        },
+        {
+          "key": "123367|啦啦啦丢了啦啦啦丢了",
+          "startMs": 123367,
+          "text": "啦啦啦丢了啦啦啦丢了"
+        }
+      ]
+    },
+    {
+      "rank": 477,
+      "songKey": "online:kugou:9fe5f7a2816f67d9a2893bcea37b0a7d",
+      "name": "说爱你",
+      "artist": "蔡依林",
+      "lines": [
+        {
+          "key": "220|蔡依林 - 说爱你",
+          "startMs": 220,
+          "text": "蔡依林 - 说爱你"
+        },
+        {
+          "key": "5281|作词：天天",
+          "startMs": 5281,
+          "text": "作词：天天"
+        },
+        {
+          "key": "5837|作曲：周杰伦",
+          "startMs": 5837,
+          "text": "作曲：周杰伦"
+        },
+        {
+          "key": "15670|编曲：吕绍淳",
+          "startMs": 15670,
+          "text": "编曲：吕绍淳"
+        },
+        {
+          "key": "20899|我的世界变得奇妙更难以言喻",
+          "startMs": 20899,
+          "text": "我的世界变得奇妙更难以言喻"
+        },
+        {
+          "key": "25857|还以为是从天而降的梦境",
+          "startMs": 25857,
+          "text": "还以为是从天而降的梦境"
+        },
+        {
+          "key": "30310|直到确定手的温度来自你心里",
+          "startMs": 30310,
+          "text": "直到确定手的温度来自你心里"
+        },
+        {
+          "key": "35222|这一刻我终于勇敢说爱你",
+          "startMs": 35222,
+          "text": "这一刻我终于勇敢说爱你"
+        },
+        {
+          "key": "40262|一开始我只顾着看你",
+          "startMs": 40262,
+          "text": "一开始我只顾着看你"
+        },
+        {
+          "key": "42068|装做不经意心却飘过去",
+          "startMs": 42068,
+          "text": "装做不经意心却飘过去"
+        },
+        {
+          "key": "44469|还窃喜你没发现我躲在角落",
+          "startMs": 44469,
+          "text": "还窃喜你没发现我躲在角落"
+        },
+        {
+          "key": "49211|忙着快乐忙着感动",
+          "startMs": 49211,
+          "text": "忙着快乐忙着感动"
+        },
+        {
+          "key": "51270|从彼此陌生到熟会是我们从没想过",
+          "startMs": 51270,
+          "text": "从彼此陌生到熟会是我们从没想过"
+        },
+        {
+          "key": "54756|真爱到现在不敢期待",
+          "startMs": 54756,
+          "text": "真爱到现在不敢期待"
+        },
+        {
+          "key": "59699|要证明自己曾被你想起 Really",
+          "startMs": 59699,
+          "text": "要证明自己曾被你想起 Really"
+        },
+        {
+          "key": "64403|我胡思乱想就从今天起 I wish",
+          "startMs": 64403,
+          "text": "我胡思乱想就从今天起 I wish"
+        },
+        {
+          "key": "69075|像一个陷阱却从未犹豫相信",
+          "startMs": 69075,
+          "text": "像一个陷阱却从未犹豫相信"
+        },
+        {
+          "key": "73905|你真的愿意就请给我惊喜",
+          "startMs": 73905,
+          "text": "你真的愿意就请给我惊喜"
+        },
+        {
+          "key": "77440|关于爱情过去没有异想的结局",
+          "startMs": 77440,
+          "text": "关于爱情过去没有异想的结局"
+        },
+        {
+          "key": "82336|那天起却颠覆了自己逻辑",
+          "startMs": 82336,
+          "text": "那天起却颠覆了自己逻辑"
+        },
+        {
+          "key": "86768|我的怀疑所有答案因你而明白",
+          "startMs": 86768,
+          "text": "我的怀疑所有答案因你而明白"
+        },
+        {
+          "key": "91792|转啊转就真的遇见 Mr.Right",
+          "startMs": 91792,
+          "text": "转啊转就真的遇见 Mr.Right"
+        },
+        {
+          "key": "115599|一开始我只顾着看你",
+          "startMs": 115599,
+          "text": "一开始我只顾着看你"
+        },
+        {
+          "key": "117391|装做不经意心却飘过去",
+          "startMs": 117391,
+          "text": "装做不经意心却飘过去"
+        },
+        {
+          "key": "119774|还窃喜你没发现我躲在角落",
+          "startMs": 119774,
+          "text": "还窃喜你没发现我躲在角落"
+        },
+        {
+          "key": "124448|忙着快乐忙着感动",
+          "startMs": 124448,
+          "text": "忙着快乐忙着感动"
+        },
+        {
+          "key": "126480|从彼此陌生到熟会是我们从没想过",
+          "startMs": 126480,
+          "text": "从彼此陌生到熟会是我们从没想过"
+        },
+        {
+          "key": "130040|真爱到现在不敢期待",
+          "startMs": 130040,
+          "text": "真爱到现在不敢期待"
+        },
+        {
+          "key": "135000|要证明自己曾被你想起 Really",
+          "startMs": 135000,
+          "text": "要证明自己曾被你想起 Really"
+        },
+        {
+          "key": "139656|我胡思乱想就从今天起 I wish",
+          "startMs": 139656,
+          "text": "我胡思乱想就从今天起 I wish"
+        },
+        {
+          "key": "144392|像一个陷阱却从未犹豫相信",
+          "startMs": 144392,
+          "text": "像一个陷阱却从未犹豫相信"
+        },
+        {
+          "key": "149064|你真的愿意就请给我惊喜",
+          "startMs": 149064,
+          "text": "你真的愿意就请给我惊喜"
+        },
+        {
+          "key": "152734|关于爱情过去没有异想的结局",
+          "startMs": 152734,
+          "text": "关于爱情过去没有异想的结局"
+        },
+        {
+          "key": "157704|那天起却颠覆了自己逻辑",
+          "startMs": 157704,
+          "text": "那天起却颠覆了自己逻辑"
+        },
+        {
+          "key": "162074|我的怀疑所有答案因你而明白",
+          "startMs": 162074,
+          "text": "我的怀疑所有答案因你而明白"
+        },
+        {
+          "key": "167065|转啊转就真的遇见 Mr.Right",
+          "startMs": 167065,
+          "text": "转啊转就真的遇见 Mr.Right"
+        },
+        {
+          "key": "171546|我的世界变得奇妙更难以言喻",
+          "startMs": 171546,
+          "text": "我的世界变得奇妙更难以言喻"
+        },
+        {
+          "key": "176445|还以为是从天而降的梦境",
+          "startMs": 176445,
+          "text": "还以为是从天而降的梦境"
+        },
+        {
+          "key": "180845|直到确定手的温度来自你心里",
+          "startMs": 180845,
+          "text": "直到确定手的温度来自你心里"
+        },
+        {
+          "key": "185853|这一刻也终于勇敢说爱你",
+          "startMs": 185853,
+          "text": "这一刻也终于勇敢说爱你"
+        }
+      ]
+    },
+    {
+      "rank": 478,
+      "songKey": "online:kugou:7f2a9ac8b41018361e42377da70e42b7",
+      "name": "I'll Do It",
+      "artist": "Heidi Montag",
+      "lines": [
+        {
+          "key": "400|I'll Do It - Heidi Montag",
+          "startMs": 400,
+          "text": "I'll Do It - Heidi Montag"
+        },
+        {
+          "key": "12321|I'll be your blond tonight",
+          "startMs": 12321,
+          "text": "I'll be your blond tonight"
+        },
+        {
+          "key": "14721|If that's what you like",
+          "startMs": 14721,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "16940|Stiletto's and fish nets",
+          "startMs": 16940,
+          "text": "Stiletto's and fish nets"
+        },
+        {
+          "key": "19069|If that's what you like",
+          "startMs": 19069,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "20649|I'll be your hot nurse",
+          "startMs": 20649,
+          "text": "I'll be your hot nurse"
+        },
+        {
+          "key": "23298|School girl in curls",
+          "startMs": 23298,
+          "text": "School girl in curls"
+        },
+        {
+          "key": "25308|Whatever your type",
+          "startMs": 25308,
+          "text": "Whatever your type"
+        },
+        {
+          "key": "27028|Baby  if that's what you like",
+          "startMs": 27028,
+          "text": "Baby  if that's what you like"
+        },
+        {
+          "key": "29088|I'll do it",
+          "startMs": 29088,
+          "text": "I'll do it"
+        },
+        {
+          "key": "30657|Pick me  Take me",
+          "startMs": 30657,
+          "text": "Pick me  Take me"
+        },
+        {
+          "key": "32827|I **** to get attention",
+          "startMs": 32827,
+          "text": "I **** to get attention"
+        },
+        {
+          "key": "34957|I brought some treats",
+          "startMs": 34957,
+          "text": "I brought some treats"
+        },
+        {
+          "key": "37047|I know that you gonna love 'em",
+          "startMs": 37047,
+          "text": "I know that you gonna love 'em"
+        },
+        {
+          "key": "39207|Come eat my panties off of me",
+          "startMs": 39207,
+          "text": "Come eat my panties off of me"
+        },
+        {
+          "key": "41937|Do whatever you feel comes naturally",
+          "startMs": 41937,
+          "text": "Do whatever you feel comes naturally"
+        },
+        {
+          "key": "46757|Cause I wanna let my hair down",
+          "startMs": 46757,
+          "text": "Cause I wanna let my hair down"
+        },
+        {
+          "key": "50667|Is that alright ",
+          "startMs": 50667,
+          "text": "Is that alright "
+        },
+        {
+          "key": "52517|Is that okay  Eh eh",
+          "startMs": 52517,
+          "text": "Is that okay  Eh eh"
+        },
+        {
+          "key": "55137|Cause I wanna let my hair down",
+          "startMs": 55137,
+          "text": "Cause I wanna let my hair down"
+        },
+        {
+          "key": "59147|Is that alright ",
+          "startMs": 59147,
+          "text": "Is that alright "
+        },
+        {
+          "key": "60967|Is that okay Eh eh",
+          "startMs": 60967,
+          "text": "Is that okay Eh eh"
+        },
+        {
+          "key": "63397|I'll be your blond tonight",
+          "startMs": 63397,
+          "text": "I'll be your blond tonight"
+        },
+        {
+          "key": "65777|If that's what you like",
+          "startMs": 65777,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "67876|Stiletto's and fish nets",
+          "startMs": 67876,
+          "text": "Stiletto's and fish nets"
+        },
+        {
+          "key": "69996|If that's what you like",
+          "startMs": 69996,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "71596|I'll be your hot nurse",
+          "startMs": 71596,
+          "text": "I'll be your hot nurse"
+        },
+        {
+          "key": "74366|School girl in curls",
+          "startMs": 74366,
+          "text": "School girl in curls"
+        },
+        {
+          "key": "76426|Whatever your type",
+          "startMs": 76426,
+          "text": "Whatever your type"
+        },
+        {
+          "key": "78016|Baby  if that's what you like",
+          "startMs": 78016,
+          "text": "Baby  if that's what you like"
+        },
+        {
+          "key": "80126|I'll do it",
+          "startMs": 80126,
+          "text": "I'll do it"
+        },
+        {
+          "key": "82206|I'll do it",
+          "startMs": 82206,
+          "text": "I'll do it"
+        },
+        {
+          "key": "84346|I'll do it",
+          "startMs": 84346,
+          "text": "I'll do it"
+        },
+        {
+          "key": "85416|I I I I I I I'll do it",
+          "startMs": 85416,
+          "text": "I I I I I I I'll do it"
+        },
+        {
+          "key": "87306|I I I I I I ***** I'll do this",
+          "startMs": 87306,
+          "text": "I I I I I I ***** I'll do this"
+        },
+        {
+          "key": "90416|I hope you're ready",
+          "startMs": 90416,
+          "text": "I hope you're ready"
+        },
+        {
+          "key": "92396|For what I'm 'bout to do",
+          "startMs": 92396,
+          "text": "For what I'm 'bout to do"
+        },
+        {
+          "key": "94436|Just close your eyes",
+          "startMs": 94436,
+          "text": "Just close your eyes"
+        },
+        {
+          "key": "96516|Open up when I tell you",
+          "startMs": 96516,
+          "text": "Open up when I tell you"
+        },
+        {
+          "key": "98616|Look now  don't touch it",
+          "startMs": 98616,
+          "text": "Look now  don't touch it"
+        },
+        {
+          "key": "100606|Im gonna start without you",
+          "startMs": 100606,
+          "text": "Im gonna start without you"
+        },
+        {
+          "key": "102336|Let me up",
+          "startMs": 102336,
+          "text": "Let me up"
+        },
+        {
+          "key": "103486|Just get the key",
+          "startMs": 103486,
+          "text": "Just get the key"
+        },
+        {
+          "key": "104676|In my ignition  baby",
+          "startMs": 104676,
+          "text": "In my ignition  baby"
+        },
+        {
+          "key": "106396|Cause I wanna let my hair down",
+          "startMs": 106396,
+          "text": "Cause I wanna let my hair down"
+        },
+        {
+          "key": "110096|Is that alright ",
+          "startMs": 110096,
+          "text": "Is that alright "
+        },
+        {
+          "key": "111926|Is that okay  Eh eh",
+          "startMs": 111926,
+          "text": "Is that okay  Eh eh"
+        },
+        {
+          "key": "114566|Cause I wanna let my hair down",
+          "startMs": 114566,
+          "text": "Cause I wanna let my hair down"
+        },
+        {
+          "key": "118586|Is that alright ",
+          "startMs": 118586,
+          "text": "Is that alright "
+        },
+        {
+          "key": "120446|Is that okay Eh eh",
+          "startMs": 120446,
+          "text": "Is that okay Eh eh"
+        },
+        {
+          "key": "122846|I'll be your blond tonight",
+          "startMs": 122846,
+          "text": "I'll be your blond tonight"
+        },
+        {
+          "key": "125245|If that's what you like",
+          "startMs": 125245,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "127295|Stiletto's and fish nets",
+          "startMs": 127295,
+          "text": "Stiletto's and fish nets"
+        },
+        {
+          "key": "129475|If that's what you like",
+          "startMs": 129475,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "131045|I'll be your hot nurse",
+          "startMs": 131045,
+          "text": "I'll be your hot nurse"
+        },
+        {
+          "key": "133944|School girl in curls",
+          "startMs": 133944,
+          "text": "School girl in curls"
+        },
+        {
+          "key": "135854|Whatever your type",
+          "startMs": 135854,
+          "text": "Whatever your type"
+        },
+        {
+          "key": "137434|Baby  if that's what you like",
+          "startMs": 137434,
+          "text": "Baby  if that's what you like"
+        },
+        {
+          "key": "139554|I'll do it",
+          "startMs": 139554,
+          "text": "I'll do it"
+        },
+        {
+          "key": "141823|I'll do it",
+          "startMs": 141823,
+          "text": "I'll do it"
+        },
+        {
+          "key": "143833|I'll do it",
+          "startMs": 143833,
+          "text": "I'll do it"
+        },
+        {
+          "key": "144623|I I I I I I I'll do it",
+          "startMs": 144623,
+          "text": "I I I I I I I'll do it"
+        },
+        {
+          "key": "146753|I I I I I I ***** I'll do this",
+          "startMs": 146753,
+          "text": "I I I I I I ***** I'll do this"
+        },
+        {
+          "key": "149322|I can be your type",
+          "startMs": 149322,
+          "text": "I can be your type"
+        },
+        {
+          "key": "151361|You can believe the hype",
+          "startMs": 151361,
+          "text": "You can believe the hype"
+        },
+        {
+          "key": "153561|Just push my buttons baby",
+          "startMs": 153561,
+          "text": "Just push my buttons baby"
+        },
+        {
+          "key": "155191|I'll go low and you'll go high",
+          "startMs": 155191,
+          "text": "I'll go low and you'll go high"
+        },
+        {
+          "key": "157511|You can be my pilot",
+          "startMs": 157511,
+          "text": "You can be my pilot"
+        },
+        {
+          "key": "159800|Let me mile-high it",
+          "startMs": 159800,
+          "text": "Let me mile-high it"
+        },
+        {
+          "key": "162049|I'll thrust it up and make it happen",
+          "startMs": 162049,
+          "text": "I'll thrust it up and make it happen"
+        },
+        {
+          "key": "164199|Then you better fly",
+          "startMs": 164199,
+          "text": "Then you better fly"
+        },
+        {
+          "key": "165789|I'll be your blond tonight",
+          "startMs": 165789,
+          "text": "I'll be your blond tonight"
+        },
+        {
+          "key": "167609|If that's what you like",
+          "startMs": 167609,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "169759|Stiletto's and fish nets",
+          "startMs": 169759,
+          "text": "Stiletto's and fish nets"
+        },
+        {
+          "key": "171849|If that's what you like",
+          "startMs": 171849,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "173569|I'll be your hot nurse",
+          "startMs": 173569,
+          "text": "I'll be your hot nurse"
+        },
+        {
+          "key": "176429|School girl in curls",
+          "startMs": 176429,
+          "text": "School girl in curls"
+        },
+        {
+          "key": "178329|Whatever your type",
+          "startMs": 178329,
+          "text": "Whatever your type"
+        },
+        {
+          "key": "179869|Baby  if that's what you like",
+          "startMs": 179869,
+          "text": "Baby  if that's what you like"
+        },
+        {
+          "key": "182049|I'll be your blond tonight",
+          "startMs": 182049,
+          "text": "I'll be your blond tonight"
+        },
+        {
+          "key": "184579|If that's what you like",
+          "startMs": 184579,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "186719|Stiletto's and fish nets",
+          "startMs": 186719,
+          "text": "Stiletto's and fish nets"
+        },
+        {
+          "key": "188819|If that's what you like",
+          "startMs": 188819,
+          "text": "If that's what you like"
+        },
+        {
+          "key": "190539|I'll be your hot nurse",
+          "startMs": 190539,
+          "text": "I'll be your hot nurse"
+        },
+        {
+          "key": "193369|School girl in curls",
+          "startMs": 193369,
+          "text": "School girl in curls"
+        },
+        {
+          "key": "195089|Whatever your type",
+          "startMs": 195089,
+          "text": "Whatever your type"
+        },
+        {
+          "key": "196849|Baby  if that's what you like",
+          "startMs": 196849,
+          "text": "Baby  if that's what you like"
+        },
+        {
+          "key": "199009|I'll do it",
+          "startMs": 199009,
+          "text": "I'll do it"
+        },
+        {
+          "key": "201139|I'll do it",
+          "startMs": 201139,
+          "text": "I'll do it"
+        },
+        {
+          "key": "203279|I'll do it",
+          "startMs": 203279,
+          "text": "I'll do it"
+        },
+        {
+          "key": "204069|I I I I I I I'll do it",
+          "startMs": 204069,
+          "text": "I I I I I I I'll do it"
+        },
+        {
+          "key": "206289|I I I I I I ***** I'll do this",
+          "startMs": 206289,
+          "text": "I I I I I I ***** I'll do this"
+        }
+      ]
+    },
+    {
+      "rank": 479,
+      "songKey": "online:kugou:70e8d6d0f1905407715aeab3ffab64aa",
+      "name": "Everytime We Touch",
+      "artist": "Veronica Bravo / Lost. / Pop Mage",
+      "lines": [
+        {
+          "key": "0|Veronica Bravo、LOST.、Pop Mage、Stuart Mackilliop、Maggie Reilly、Peter Risavy - Everytime We Touch",
+          "startMs": 0,
+          "text": "Veronica Bravo、LOST.、Pop Mage、Stuart Mackilliop、Maggie Reilly、Peter Risavy - Everytime We Touch"
+        },
+        {
+          "key": "296|原唱：Cascada",
+          "startMs": 296,
+          "text": "原唱：Cascada"
+        },
+        {
+          "key": "308|Composed by：Magie Reilly/Peter Risavy/Stuart Mackillop",
+          "startMs": 308,
+          "text": "Composed by：Magie Reilly/Peter Risavy/Stuart Mackillop"
+        },
+        {
+          "key": "334|I still hear your voice when you sleep next to me",
+          "startMs": 334,
+          "text": "I still hear your voice when you sleep next to me"
+        },
+        {
+          "key": "8342|I still feel your touch in my dream",
+          "startMs": 8342,
+          "text": "I still feel your touch in my dream"
+        },
+        {
+          "key": "16357|Forgive me my weakness but I don't know why",
+          "startMs": 16357,
+          "text": "Forgive me my weakness but I don't know why"
+        },
+        {
+          "key": "24435|Without you it's hard to survive",
+          "startMs": 24435,
+          "text": "Without you it's hard to survive"
+        },
+        {
+          "key": "31947|'Cause every time we touch I get this feeling",
+          "startMs": 31947,
+          "text": "'Cause every time we touch I get this feeling"
+        },
+        {
+          "key": "36011|And every time we kiss I swear I could fly",
+          "startMs": 36011,
+          "text": "And every time we kiss I swear I could fly"
+        },
+        {
+          "key": "40291|Can't you feel my heart beat fast",
+          "startMs": 40291,
+          "text": "Can't you feel my heart beat fast"
+        },
+        {
+          "key": "43067|I want this to last",
+          "startMs": 43067,
+          "text": "I want this to last"
+        },
+        {
+          "key": "45363|Need you by my side",
+          "startMs": 45363,
+          "text": "Need you by my side"
+        },
+        {
+          "key": "48259|'Cause every time we touch I feel the static",
+          "startMs": 48259,
+          "text": "'Cause every time we touch I feel the static"
+        },
+        {
+          "key": "52202|And every time we kiss I reach for the sky",
+          "startMs": 52202,
+          "text": "And every time we kiss I reach for the sky"
+        },
+        {
+          "key": "56510|Can't you hear my heart beat so",
+          "startMs": 56510,
+          "text": "Can't you hear my heart beat so"
+        },
+        {
+          "key": "59339|I can't let you go",
+          "startMs": 59339,
+          "text": "I can't let you go"
+        },
+        {
+          "key": "61683|Want you in my life",
+          "startMs": 61683,
+          "text": "Want you in my life"
+        },
+        {
+          "key": "64593|'Cause every time we touch I get this feeling",
+          "startMs": 64593,
+          "text": "'Cause every time we touch I get this feeling"
+        },
+        {
+          "key": "68522|And every time we kiss I swear I could fly",
+          "startMs": 68522,
+          "text": "And every time we kiss I swear I could fly"
+        },
+        {
+          "key": "72777|Can't you feel my heart beat fast",
+          "startMs": 72777,
+          "text": "Can't you feel my heart beat fast"
+        },
+        {
+          "key": "75601|I want this to last",
+          "startMs": 75601,
+          "text": "I want this to last"
+        },
+        {
+          "key": "77905|Need you by my side",
+          "startMs": 77905,
+          "text": "Need you by my side"
+        },
+        {
+          "key": "81489|Your arms are my castle your heart is my sky",
+          "startMs": 81489,
+          "text": "Your arms are my castle your heart is my sky"
+        },
+        {
+          "key": "89658|They wipe away tears that I cry",
+          "startMs": 89658,
+          "text": "They wipe away tears that I cry"
+        },
+        {
+          "key": "97665|The good and the bad times we've been through them all",
+          "startMs": 97665,
+          "text": "The good and the bad times we've been through them all"
+        },
+        {
+          "key": "106448|You make me rise when I fall",
+          "startMs": 106448,
+          "text": "You make me rise when I fall"
+        },
+        {
+          "key": "113167|'Cause every time we touch I get this feeling",
+          "startMs": 113167,
+          "text": "'Cause every time we touch I get this feeling"
+        },
+        {
+          "key": "117439|And every time we kiss I swear I could fly",
+          "startMs": 117439,
+          "text": "And every time we kiss I swear I could fly"
+        },
+        {
+          "key": "121607|Can't you feel my heart beat fast",
+          "startMs": 121607,
+          "text": "Can't you feel my heart beat fast"
+        },
+        {
+          "key": "124399|I want this to last",
+          "startMs": 124399,
+          "text": "I want this to last"
+        },
+        {
+          "key": "126679|Need you by my side",
+          "startMs": 126679,
+          "text": "Need you by my side"
+        },
+        {
+          "key": "129528|'Cause every time we touch I feel the static",
+          "startMs": 129528,
+          "text": "'Cause every time we touch I feel the static"
+        },
+        {
+          "key": "133574|And every time we kiss I reach for the sky",
+          "startMs": 133574,
+          "text": "And every time we kiss I reach for the sky"
+        },
+        {
+          "key": "137807|Can't you hear my heart beat so",
+          "startMs": 137807,
+          "text": "Can't you hear my heart beat so"
+        },
+        {
+          "key": "140679|I can't let you go",
+          "startMs": 140679,
+          "text": "I can't let you go"
+        },
+        {
+          "key": "142991|Want you in my life",
+          "startMs": 142991,
+          "text": "Want you in my life"
+        },
+        {
+          "key": "145896|'Cause every time we touch I get this feeling",
+          "startMs": 145896,
+          "text": "'Cause every time we touch I get this feeling"
+        },
+        {
+          "key": "149879|And every time we kiss I swear I could fly",
+          "startMs": 149879,
+          "text": "And every time we kiss I swear I could fly"
+        },
+        {
+          "key": "154047|Can't you feel my heart beat fast",
+          "startMs": 154047,
+          "text": "Can't you feel my heart beat fast"
+        },
+        {
+          "key": "156951|I want this to last",
+          "startMs": 156951,
+          "text": "I want this to last"
+        },
+        {
+          "key": "159207|Need you by my side",
+          "startMs": 159207,
+          "text": "Need you by my side"
+        }
+      ]
+    },
+    {
+      "rank": 480,
+      "songKey": "online:kugou:623aadaec8d36eb9e87c118ebe26f7e8",
+      "name": "人鱼之歌",
+      "artist": "朵莉亚",
+      "lines": [
+        {
+          "key": "271|朵莉亚 - 人鱼之歌",
+          "startMs": 271,
+          "text": "朵莉亚 - 人鱼之歌"
+        },
+        {
+          "key": "2366|作曲：闫骁男、刘思情@骁Studio",
+          "startMs": 2366,
+          "text": "作曲：闫骁男、刘思情@骁Studio"
+        },
+        {
+          "key": "3240|编曲：姚瀚霄@骁Studio",
+          "startMs": 3240,
+          "text": "编曲：姚瀚霄@骁Studio"
+        },
+        {
+          "key": "3960|特别说明：啦啦啦来自朵莉亚",
+          "startMs": 3960,
+          "text": "特别说明：啦啦啦来自朵莉亚"
+        },
+        {
+          "key": "5040|制作人：闫骁男@骁Studio",
+          "startMs": 5040,
+          "text": "制作人：闫骁男@骁Studio"
+        },
+        {
+          "key": "5850|制作协力：刘思情@骁Studio",
+          "startMs": 5850,
+          "text": "制作协力：刘思情@骁Studio"
+        },
+        {
+          "key": "6750|Keyboard：巩一凡@骁Studio",
+          "startMs": 6750,
+          "text": "Keyboard：巩一凡@骁Studio"
+        },
+        {
+          "key": "7422|弦乐编写：刘念、巩一凡@骁Studio",
+          "startMs": 7422,
+          "text": "弦乐编写：刘念、巩一凡@骁Studio"
+        },
+        {
+          "key": "8550|弦乐录制：星舟爱乐团",
+          "startMs": 8550,
+          "text": "弦乐录制：星舟爱乐团"
+        },
+        {
+          "key": "9360|人声编辑：韩志烽@骁Studio",
+          "startMs": 9360,
+          "text": "人声编辑：韩志烽@骁Studio"
+        },
+        {
+          "key": "10260|人声调校：姚瀚霄@骁Studio",
+          "startMs": 10260,
+          "text": "人声调校：姚瀚霄@骁Studio"
+        },
+        {
+          "key": "11160|录音师：韩志烽@骁Studio",
+          "startMs": 11160,
+          "text": "录音师：韩志烽@骁Studio"
+        },
+        {
+          "key": "12085|混音、母带：极小极@骁Studio",
+          "startMs": 12085,
+          "text": "混音、母带：极小极@骁Studio"
+        },
+        {
+          "key": "12960|音乐总监：Sam Yang",
+          "startMs": 12960,
+          "text": "音乐总监：Sam Yang"
+        },
+        {
+          "key": "13529|项目策划：豆豆、青行",
+          "startMs": 13529,
+          "text": "项目策划：豆豆、青行"
+        },
+        {
+          "key": "14310|歌曲企划：Bella@TiMi Audio",
+          "startMs": 14310,
+          "text": "歌曲企划：Bella@TiMi Audio"
+        },
+        {
+          "key": "14850|音乐监制：Dreama@TiMi Audio",
+          "startMs": 14850,
+          "text": "音乐监制：Dreama@TiMi Audio"
+        },
+        {
+          "key": "15431|宣发支持：凯西、开心",
+          "startMs": 15431,
+          "text": "宣发支持：凯西、开心"
+        },
+        {
+          "key": "15625|统筹：Yangzi、Yusa@TiMi Adudio",
+          "startMs": 15625,
+          "text": "统筹：Yangzi、Yusa@TiMi Adudio"
+        },
+        {
+          "key": "16560|发行：Yusa@TiMi Audio",
+          "startMs": 16560,
+          "text": "发行：Yusa@TiMi Audio"
+        },
+        {
+          "key": "16962|出品：天美L1工作室、TiMi Audio Lab",
+          "startMs": 16962,
+          "text": "出品：天美L1工作室、TiMi Audio Lab"
+        },
+        {
+          "key": "17937|啦啦啦啦",
+          "startMs": 17937,
+          "text": "啦啦啦啦"
+        },
+        {
+          "key": "22135|啦啦啦啦 啦 啦",
+          "startMs": 22135,
+          "text": "啦啦啦啦 啦 啦"
+        },
+        {
+          "key": "26756|啦啦啦",
+          "startMs": 26756,
+          "text": "啦啦啦"
+        },
+        {
+          "key": "29635|啦啦啦",
+          "startMs": 29635,
+          "text": "啦啦啦"
+        },
+        {
+          "key": "34861|啦啦啦 啦啦啦啦啦啦啦啦啦啦",
+          "startMs": 34861,
+          "text": "啦啦啦 啦啦啦啦啦啦啦啦啦啦"
+        },
+        {
+          "key": "39473|啦啦 啦啦啦啦啦啦啦",
+          "startMs": 39473,
+          "text": "啦啦 啦啦啦啦啦啦啦"
+        },
+        {
+          "key": "43351|啦啦啦啦 啦啦",
+          "startMs": 43351,
+          "text": "啦啦啦啦 啦啦"
+        },
+        {
+          "key": "47460|啦啦啦啦 啦",
+          "startMs": 47460,
+          "text": "啦啦啦啦 啦"
+        },
+        {
+          "key": "52213|啦啦 啦啦啦啦啦啦 啦啦",
+          "startMs": 52213,
+          "text": "啦啦 啦啦啦啦啦啦 啦啦"
+        },
+        {
+          "key": "55102|啦啦啦啦啦啦 啦啦啦啦",
+          "startMs": 55102,
+          "text": "啦啦啦啦啦啦 啦啦啦啦"
+        },
+        {
+          "key": "60678|啦啦 啦啦啦啦啦啦 啦啦",
+          "startMs": 60678,
+          "text": "啦啦 啦啦啦啦啦啦 啦啦"
+        },
+        {
+          "key": "63493|啦啦啦啦啦啦 啦啦啦啦",
+          "startMs": 63493,
+          "text": "啦啦啦啦啦啦 啦啦啦啦"
+        },
+        {
+          "key": "71881|啦啦啦啦啦",
+          "startMs": 71881,
+          "text": "啦啦啦啦啦"
+        },
+        {
+          "key": "72913|啦啦啦啦啦啦啦啦啦啦啦",
+          "startMs": 72913,
+          "text": "啦啦啦啦啦啦啦啦啦啦啦"
+        },
+        {
+          "key": "76151|啦啦啦啦啦",
+          "startMs": 76151,
+          "text": "啦啦啦啦啦"
+        },
+        {
+          "key": "77062|啦啦啦 啦啦啦 啦啦啦",
+          "startMs": 77062,
+          "text": "啦啦啦 啦啦啦 啦啦啦"
+        },
+        {
+          "key": "79429|啦啦啦啦啦",
+          "startMs": 79429,
+          "text": "啦啦啦啦啦"
+        },
+        {
+          "key": "80434|啦啦啦 啦啦啦 啦啦",
+          "startMs": 80434,
+          "text": "啦啦啦 啦啦啦 啦啦"
+        },
+        {
+          "key": "84364|啦啦 啦啦",
+          "startMs": 84364,
+          "text": "啦啦 啦啦"
+        },
+        {
+          "key": "88696|啦啦啦啦啦",
+          "startMs": 88696,
+          "text": "啦啦啦啦啦"
+        },
+        {
+          "key": "89752|啦啦啦啦啦啦啦啦啦啦啦",
+          "startMs": 89752,
+          "text": "啦啦啦啦啦啦啦啦啦啦啦"
+        },
+        {
+          "key": "93031|啦啦啦啦啦 啦啦啦啦",
+          "startMs": 93031,
+          "text": "啦啦啦啦啦 啦啦啦啦"
+        },
+        {
+          "key": "97444|啦啦啦啦啦",
+          "startMs": 97444,
+          "text": "啦啦啦啦啦"
+        },
+        {
+          "key": "99449|啦啦啦啦啦啦",
+          "startMs": 99449,
+          "text": "啦啦啦啦啦啦"
+        },
+        {
+          "key": "101297|啦啦啦 啦啦",
+          "startMs": 101297,
+          "text": "啦啦啦 啦啦"
+        },
+        {
+          "key": "103830|啦啦啦 啦啦啦啦",
+          "startMs": 103830,
+          "text": "啦啦啦 啦啦啦啦"
+        },
+        {
+          "key": "109907|啦啦",
+          "startMs": 109907,
+          "text": "啦啦"
+        },
+        {
+          "key": "114066|啦啦",
+          "startMs": 114066,
+          "text": "啦啦"
+        }
+      ]
+    }
+  ]
+}

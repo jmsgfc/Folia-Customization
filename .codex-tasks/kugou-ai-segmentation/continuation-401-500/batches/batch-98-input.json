@@ -1,0 +1,1185 @@
+{
+  "batchNumber": 98,
+  "songs": [
+    {
+      "rank": 486,
+      "songKey": "online:kugou:20904ab069050d46fe1cc9d61f01f07c",
+      "name": "谁",
+      "artist": "曲肖冰",
+      "lines": [
+        {
+          "key": "0|曲肖冰 - 谁",
+          "startMs": 0,
+          "text": "曲肖冰 - 谁"
+        },
+        {
+          "key": "605|作词：廖俊涛",
+          "startMs": 605,
+          "text": "作词：廖俊涛"
+        },
+        {
+          "key": "1124|作曲：廖俊涛",
+          "startMs": 1124,
+          "text": "作曲：廖俊涛"
+        },
+        {
+          "key": "1643|编曲：周翔宇",
+          "startMs": 1643,
+          "text": "编曲：周翔宇"
+        },
+        {
+          "key": "2162|混音：钟泽鑫",
+          "startMs": 2162,
+          "text": "混音：钟泽鑫"
+        },
+        {
+          "key": "2681|和声：梦露",
+          "startMs": 2681,
+          "text": "和声：梦露"
+        },
+        {
+          "key": "3113|吉他：周翔宇",
+          "startMs": 3113,
+          "text": "吉他：周翔宇"
+        },
+        {
+          "key": "3632|制作人：周翔宇",
+          "startMs": 3632,
+          "text": "制作人：周翔宇"
+        },
+        {
+          "key": "4237|策划：哈吻勋",
+          "startMs": 4237,
+          "text": "策划：哈吻勋"
+        },
+        {
+          "key": "4756|推广统筹：哈吻勋",
+          "startMs": 4756,
+          "text": "推广统筹：哈吻勋"
+        },
+        {
+          "key": "5448|推广执行：汪仟、香香",
+          "startMs": 5448,
+          "text": "推广执行：汪仟、香香"
+        },
+        {
+          "key": "6313|监制：曲肖冰、牟俞嘉佳",
+          "startMs": 6313,
+          "text": "监制：曲肖冰、牟俞嘉佳"
+        },
+        {
+          "key": "7265|OP：哇唧唧哇娱乐（天津）有限公司",
+          "startMs": 7265,
+          "text": "OP：哇唧唧哇娱乐（天津）有限公司"
+        },
+        {
+          "key": "8735|SP：哇唧唧哇娱乐（天津）有限公司",
+          "startMs": 8735,
+          "text": "SP：哇唧唧哇娱乐（天津）有限公司"
+        },
+        {
+          "key": "10205|出品：冰曲文化",
+          "startMs": 10205,
+          "text": "出品：冰曲文化"
+        },
+        {
+          "key": "10811|【本音乐作品已获得正版授权】",
+          "startMs": 10811,
+          "text": "【本音乐作品已获得正版授权】"
+        },
+        {
+          "key": "12022|未经著作权人许可不得翻唱翻录或使用",
+          "startMs": 12022,
+          "text": "未经著作权人许可不得翻唱翻录或使用"
+        },
+        {
+          "key": "12022|并没要求有谁能体会",
+          "startMs": 12022,
+          "text": "并没要求有谁能体会"
+        },
+        {
+          "key": "17216|更别擅做慈悲",
+          "startMs": 17216,
+          "text": "更别擅做慈悲"
+        },
+        {
+          "key": "22224|同情才不会给我安慰",
+          "startMs": 22224,
+          "text": "同情才不会给我安慰"
+        },
+        {
+          "key": "27278|反而让我流泪",
+          "startMs": 27278,
+          "text": "反而让我流泪"
+        },
+        {
+          "key": "32384|走得越近心越像刺猬",
+          "startMs": 32384,
+          "text": "走得越近心越像刺猬"
+        },
+        {
+          "key": "37442|从未卸下防备",
+          "startMs": 37442,
+          "text": "从未卸下防备"
+        },
+        {
+          "key": "42686|不如早就把我向外推",
+          "startMs": 42686,
+          "text": "不如早就把我向外推"
+        },
+        {
+          "key": "47742|彻底粉碎",
+          "startMs": 47742,
+          "text": "彻底粉碎"
+        },
+        {
+          "key": "55274|在你眼中我是谁",
+          "startMs": 55274,
+          "text": "在你眼中我是谁"
+        },
+        {
+          "key": "62842|你想我代替谁",
+          "startMs": 62842,
+          "text": "你想我代替谁"
+        },
+        {
+          "key": "70000|彼此交换喜悲",
+          "startMs": 70000,
+          "text": "彼此交换喜悲"
+        },
+        {
+          "key": "75810|爱的多的人总先掉眼泪",
+          "startMs": 75810,
+          "text": "爱的多的人总先掉眼泪"
+        },
+        {
+          "key": "83604|在我眼中你是谁",
+          "startMs": 83604,
+          "text": "在我眼中你是谁"
+        },
+        {
+          "key": "90734|霸占被爱的滋味",
+          "startMs": 90734,
+          "text": "霸占被爱的滋味"
+        },
+        {
+          "key": "98194|拥抱让你好累",
+          "startMs": 98194,
+          "text": "拥抱让你好累"
+        },
+        {
+          "key": "104014|爱的多的人总先变虚伪",
+          "startMs": 104014,
+          "text": "爱的多的人总先变虚伪"
+        },
+        {
+          "key": "135004|走得越近心越像刺猬",
+          "startMs": 135004,
+          "text": "走得越近心越像刺猬"
+        },
+        {
+          "key": "139814|从未卸下防备",
+          "startMs": 139814,
+          "text": "从未卸下防备"
+        },
+        {
+          "key": "144702|不如早就把我向外推",
+          "startMs": 144702,
+          "text": "不如早就把我向外推"
+        },
+        {
+          "key": "149362|彻底粉碎",
+          "startMs": 149362,
+          "text": "彻底粉碎"
+        },
+        {
+          "key": "153802|在你眼中我是谁",
+          "startMs": 153802,
+          "text": "在你眼中我是谁"
+        },
+        {
+          "key": "160642|你想我代替谁",
+          "startMs": 160642,
+          "text": "你想我代替谁"
+        },
+        {
+          "key": "167032|彼此交换喜悲",
+          "startMs": 167032,
+          "text": "彼此交换喜悲"
+        },
+        {
+          "key": "172342|爱的多的人总先掉眼泪",
+          "startMs": 172342,
+          "text": "爱的多的人总先掉眼泪"
+        },
+        {
+          "key": "179462|在我眼中你是谁",
+          "startMs": 179462,
+          "text": "在我眼中你是谁"
+        },
+        {
+          "key": "185882|霸占被爱的滋味",
+          "startMs": 185882,
+          "text": "霸占被爱的滋味"
+        },
+        {
+          "key": "192662|拥抱让你好累",
+          "startMs": 192662,
+          "text": "拥抱让你好累"
+        },
+        {
+          "key": "197922|爱的多的人总先变虚伪",
+          "startMs": 197922,
+          "text": "爱的多的人总先变虚伪"
+        },
+        {
+          "key": "205022|在你眼中我是谁",
+          "startMs": 205022,
+          "text": "在你眼中我是谁"
+        },
+        {
+          "key": "211832|你想我代替谁",
+          "startMs": 211832,
+          "text": "你想我代替谁"
+        },
+        {
+          "key": "218292|彼此交换喜悲",
+          "startMs": 218292,
+          "text": "彼此交换喜悲"
+        },
+        {
+          "key": "223532|爱的多的人总先掉眼泪",
+          "startMs": 223532,
+          "text": "爱的多的人总先掉眼泪"
+        },
+        {
+          "key": "230622|在我眼中你是谁",
+          "startMs": 230622,
+          "text": "在我眼中你是谁"
+        },
+        {
+          "key": "237082|霸占被爱的滋味",
+          "startMs": 237082,
+          "text": "霸占被爱的滋味"
+        },
+        {
+          "key": "243842|拥抱让你好累",
+          "startMs": 243842,
+          "text": "拥抱让你好累"
+        },
+        {
+          "key": "249122|爱的多的人总先变虚伪",
+          "startMs": 249122,
+          "text": "爱的多的人总先变虚伪"
+        },
+        {
+          "key": "255512|爱的多的人总先变虚伪",
+          "startMs": 255512,
+          "text": "爱的多的人总先变虚伪"
+        },
+        {
+          "key": "261892|爱总让我掉虚伪的眼泪",
+          "startMs": 261892,
+          "text": "爱总让我掉虚伪的眼泪"
+        }
+      ]
+    },
+    {
+      "rank": 487,
+      "songKey": "online:kugou:d632d77fc37a7f5fee87baf23a0944cb",
+      "name": "给你一瓶魔法药水",
+      "artist": "告五人",
+      "lines": [
+        {
+          "key": "159|告五人 - 给你一瓶魔法药水",
+          "startMs": 159,
+          "text": "告五人 - 给你一瓶魔法药水"
+        },
+        {
+          "key": "1018|作词：告五人、云安",
+          "startMs": 1018,
+          "text": "作词：告五人、云安"
+        },
+        {
+          "key": "1221|作曲：告五人、云安",
+          "startMs": 1221,
+          "text": "作曲：告五人、云安"
+        },
+        {
+          "key": "1475|编曲：告五人",
+          "startMs": 1475,
+          "text": "编曲：告五人"
+        },
+        {
+          "key": "1627|制作人：陈君豪",
+          "startMs": 1627,
+          "text": "制作人：陈君豪"
+        },
+        {
+          "key": "1830|所有乐器：告五人 Accusefive",
+          "startMs": 1830,
+          "text": "所有乐器：告五人 Accusefive"
+        },
+        {
+          "key": "2083|合成器：陈君豪 Howe",
+          "startMs": 2083,
+          "text": "合成器：陈君豪 Howe"
+        },
+        {
+          "key": "2335|贝斯 ：林奥迪 OD Lin",
+          "startMs": 2335,
+          "text": "贝斯 ：林奥迪 OD Lin"
+        },
+        {
+          "key": "2587|合音编写：李雅微 Shivia Lee",
+          "startMs": 2587,
+          "text": "合音编写：李雅微 Shivia Lee"
+        },
+        {
+          "key": "2891|合音：告五人 Accusefive、李雅微 Shivia Lee",
+          "startMs": 2891,
+          "text": "合音：告五人 Accusefive、李雅微 Shivia Lee"
+        },
+        {
+          "key": "3245|录音师 ：蔡周翰 Chou Han Tsay、叶育轩 YuHsuan Yeh、马一宁 Moon",
+          "startMs": 3245,
+          "text": "录音师 ：蔡周翰 Chou Han Tsay、叶育轩 YuHsuan Yeh、马一宁 Moon"
+        },
+        {
+          "key": "3903|录音室 ：Lights Up Studio、Show Music",
+          "startMs": 3903,
+          "text": "录音室 ：Lights Up Studio、Show Music"
+        },
+        {
+          "key": "4157|混音师：沈冠霖 SHENB",
+          "startMs": 4157,
+          "text": "混音师：沈冠霖 SHENB"
+        },
+        {
+          "key": "4409|混音录音室：Purring Sound Studio",
+          "startMs": 4409,
+          "text": "混音录音室：Purring Sound Studio"
+        },
+        {
+          "key": "4662|母带后期工程师 ：沈冠霖 SHENB",
+          "startMs": 4662,
+          "text": "母带后期工程师 ：沈冠霖 SHENB"
+        },
+        {
+          "key": "5067|母带后期录音室 ：Purring Sound Studio",
+          "startMs": 5067,
+          "text": "母带后期录音室 ：Purring Sound Studio"
+        },
+        {
+          "key": "5420|银河方舟特别企划",
+          "startMs": 5420,
+          "text": "银河方舟特别企划"
+        },
+        {
+          "key": "5673|「玫瑰凭证」乐队合辑",
+          "startMs": 5673,
+          "text": "「玫瑰凭证」乐队合辑"
+        },
+        {
+          "key": "5976|企划：郑米涵、原晞、张馨艺Summer",
+          "startMs": 5976,
+          "text": "企划：郑米涵、原晞、张馨艺Summer"
+        },
+        {
+          "key": "6329|宣发：郑米涵、张馨艺Summer",
+          "startMs": 6329,
+          "text": "宣发：郑米涵、张馨艺Summer"
+        },
+        {
+          "key": "6634|品牌宣传：原晞、暴宇",
+          "startMs": 6634,
+          "text": "品牌宣传：原晞、暴宇"
+        },
+        {
+          "key": "6886|营销策划：张馨艺Summer、郑米涵",
+          "startMs": 6886,
+          "text": "营销策划：张馨艺Summer、郑米涵"
+        },
+        {
+          "key": "7242|封面：贤二",
+          "startMs": 7242,
+          "text": "封面：贤二"
+        },
+        {
+          "key": "7393|总策划：郑米涵",
+          "startMs": 7393,
+          "text": "总策划：郑米涵"
+        },
+        {
+          "key": "7597|项目总监：庄有豪",
+          "startMs": 7597,
+          "text": "项目总监：庄有豪"
+        },
+        {
+          "key": "7799|出品人：陆瑒",
+          "startMs": 7799,
+          "text": "出品人：陆瑒"
+        },
+        {
+          "key": "7951|出品：银河方舟StarNation",
+          "startMs": 7951,
+          "text": "出品：银河方舟StarNation"
+        },
+        {
+          "key": "26174|给你一瓶魔法药水",
+          "startMs": 26174,
+          "text": "给你一瓶魔法药水"
+        },
+        {
+          "key": "29758|喝下去就不需要氧气",
+          "startMs": 29758,
+          "text": "喝下去就不需要氧气"
+        },
+        {
+          "key": "35740|给你一瓶魔法药水",
+          "startMs": 35740,
+          "text": "给你一瓶魔法药水"
+        },
+        {
+          "key": "39330|喝下去就不怕身体结冰",
+          "startMs": 39330,
+          "text": "喝下去就不怕身体结冰"
+        },
+        {
+          "key": "47898|轻轻念着你懂的咒语",
+          "startMs": 47898,
+          "text": "轻轻念着你懂的咒语"
+        },
+        {
+          "key": "52144|一扇门就通往银河系",
+          "startMs": 52144,
+          "text": "一扇门就通往银河系"
+        },
+        {
+          "key": "57558|给你一瓶魔法药水",
+          "startMs": 57558,
+          "text": "给你一瓶魔法药水"
+        },
+        {
+          "key": "60601|我们一起去太空旅行",
+          "startMs": 60601,
+          "text": "我们一起去太空旅行"
+        },
+        {
+          "key": "65416|宇宙的有趣我才不在意",
+          "startMs": 65416,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "70962|我在意的是 你牵我的手 而乱跳的心",
+          "startMs": 70962,
+          "text": "我在意的是 你牵我的手 而乱跳的心"
+        },
+        {
+          "key": "76188|宇宙的有趣我才不在意",
+          "startMs": 76188,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "80546|我在意的是 你想跟着我 去月球谈心",
+          "startMs": 80546,
+          "text": "我在意的是 你想跟着我 去月球谈心"
+        },
+        {
+          "key": "85756|拥有你 就不需要魔法给的勇气",
+          "startMs": 85756,
+          "text": "拥有你 就不需要魔法给的勇气"
+        },
+        {
+          "key": "111061|轻轻念着你懂的咒语",
+          "startMs": 111061,
+          "text": "轻轻念着你懂的咒语"
+        },
+        {
+          "key": "115172|一扇门就通往银河系",
+          "startMs": 115172,
+          "text": "一扇门就通往银河系"
+        },
+        {
+          "key": "120593|给你一瓶魔法药水",
+          "startMs": 120593,
+          "text": "给你一瓶魔法药水"
+        },
+        {
+          "key": "123533|我们一起去太空旅行",
+          "startMs": 123533,
+          "text": "我们一起去太空旅行"
+        },
+        {
+          "key": "128444|宇宙的有趣我才不在意",
+          "startMs": 128444,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "133863|我在意的是 你牵我的手 而乱跳的心",
+          "startMs": 133863,
+          "text": "我在意的是 你牵我的手 而乱跳的心"
+        },
+        {
+          "key": "139085|宇宙的有趣我才不在意",
+          "startMs": 139085,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "143549|我在意的是 你想跟着我 去月球谈心",
+          "startMs": 143549,
+          "text": "我在意的是 你想跟着我 去月球谈心"
+        },
+        {
+          "key": "148811|宇宙的有趣我才不在意",
+          "startMs": 148811,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "153269|我在猜的是 前方的距离 几步走到你",
+          "startMs": 153269,
+          "text": "我在猜的是 前方的距离 几步走到你"
+        },
+        {
+          "key": "158440|宇宙的有趣我才不在意",
+          "startMs": 158440,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "162952|我期待的是 今天的晚餐 你想吃哪里",
+          "startMs": 162952,
+          "text": "我期待的是 今天的晚餐 你想吃哪里"
+        },
+        {
+          "key": "168699|拥有你就不需要魔法给的勇气",
+          "startMs": 168699,
+          "text": "拥有你就不需要魔法给的勇气"
+        },
+        {
+          "key": "173952|你走的方向最后到哪去",
+          "startMs": 173952,
+          "text": "你走的方向最后到哪去"
+        },
+        {
+          "key": "177492|可能是火星或者是金星",
+          "startMs": 177492,
+          "text": "可能是火星或者是金星"
+        },
+        {
+          "key": "182347|不管多远多近多累都没关系",
+          "startMs": 182347,
+          "text": "不管多远多近多累都没关系"
+        },
+        {
+          "key": "186604|我的魔法只对你偏心",
+          "startMs": 186604,
+          "text": "我的魔法只对你偏心"
+        },
+        {
+          "key": "191547|我偏心",
+          "startMs": 191547,
+          "text": "我偏心"
+        },
+        {
+          "key": "200978|就偏心",
+          "startMs": 200978,
+          "text": "就偏心"
+        },
+        {
+          "key": "211131|宇宙的有趣我才不在意",
+          "startMs": 211131,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "216300|我在意的是 你牵我的手 而乱跳的心",
+          "startMs": 216300,
+          "text": "我在意的是 你牵我的手 而乱跳的心"
+        },
+        {
+          "key": "221524|宇宙的有趣我才不在意",
+          "startMs": 221524,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "225929|我在意的是 你想跟着我 去月球谈心",
+          "startMs": 225929,
+          "text": "我在意的是 你想跟着我 去月球谈心"
+        },
+        {
+          "key": "231145|宇宙的有趣我才不在意",
+          "startMs": 231145,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "235695|我在猜的是 奔跑的距离 几步走到你",
+          "startMs": 235695,
+          "text": "我在猜的是 奔跑的距离 几步走到你"
+        },
+        {
+          "key": "240914|宇宙的有趣我才不在意",
+          "startMs": 240914,
+          "text": "宇宙的有趣我才不在意"
+        },
+        {
+          "key": "245368|我期待的是 今天的晚餐 你想吃哪里",
+          "startMs": 245368,
+          "text": "我期待的是 今天的晚餐 你想吃哪里"
+        },
+        {
+          "key": "250585|有你在",
+          "startMs": 250585,
+          "text": "有你在"
+        },
+        {
+          "key": "251651|就不需要魔法给的勇气",
+          "startMs": 251651,
+          "text": "就不需要魔法给的勇气"
+        }
+      ]
+    },
+    {
+      "rank": 488,
+      "songKey": "online:kugou:72f2e36f606eb3dacf2acd9de67fcbd3",
+      "name": "一程山路",
+      "artist": "毛不易",
+      "lines": [
+        {
+          "key": "0|一程山路 - 毛不易",
+          "startMs": 0,
+          "text": "一程山路 - 毛不易"
+        },
+        {
+          "key": "2625|作词Lyricist：毛不易 Mao Buyi",
+          "startMs": 2625,
+          "text": "作词Lyricist：毛不易 Mao Buyi"
+        },
+        {
+          "key": "8665|作曲Composer：毛不易 Mao Buyi",
+          "startMs": 8665,
+          "text": "作曲Composer：毛不易 Mao Buyi"
+        },
+        {
+          "key": "14705|编曲Arrangement：韦伟 Oldbanana",
+          "startMs": 14705,
+          "text": "编曲Arrangement：韦伟 Oldbanana"
+        },
+        {
+          "key": "21533|制作人 Producer：韦伟 Oldbanana",
+          "startMs": 21533,
+          "text": "制作人 Producer：韦伟 Oldbanana"
+        },
+        {
+          "key": "28098|青石板留着谁的梦啊",
+          "startMs": 28098,
+          "text": "青石板留着谁的梦啊"
+        },
+        {
+          "key": "34248|一场秋雨 又落一地花",
+          "startMs": 34248,
+          "text": "一场秋雨 又落一地花"
+        },
+        {
+          "key": "42078|旅人匆匆地赶路啊",
+          "startMs": 42078,
+          "text": "旅人匆匆地赶路啊"
+        },
+        {
+          "key": "49358|走四季 访人家",
+          "startMs": 49358,
+          "text": "走四季 访人家"
+        },
+        {
+          "key": "55118|如同昨夜天光乍破了远山的轮廓",
+          "startMs": 55118,
+          "text": "如同昨夜天光乍破了远山的轮廓"
+        },
+        {
+          "key": "61988|想起很久之前我们都忘了说",
+          "startMs": 61988,
+          "text": "想起很久之前我们都忘了说"
+        },
+        {
+          "key": "69908|一叶曲折过后 又一道坎坷",
+          "startMs": 69908,
+          "text": "一叶曲折过后 又一道坎坷"
+        },
+        {
+          "key": "77198|走不出 看不破",
+          "startMs": 77198,
+          "text": "走不出 看不破"
+        },
+        {
+          "key": "111532|山谷的薄雾吻着烟霞",
+          "startMs": 111532,
+          "text": "山谷的薄雾吻着烟霞"
+        },
+        {
+          "key": "117622|枯叶之下 藏多少情话",
+          "startMs": 117622,
+          "text": "枯叶之下 藏多少情话"
+        },
+        {
+          "key": "125392|划破天空的归鸟啊",
+          "startMs": 125392,
+          "text": "划破天空的归鸟啊"
+        },
+        {
+          "key": "132872|它不问 你不答",
+          "startMs": 132872,
+          "text": "它不问 你不答"
+        },
+        {
+          "key": "138542|如同昨夜天光乍破了远山的轮廓",
+          "startMs": 138542,
+          "text": "如同昨夜天光乍破了远山的轮廓"
+        },
+        {
+          "key": "145492|想起很久之前我们都忘了说",
+          "startMs": 145492,
+          "text": "想起很久之前我们都忘了说"
+        },
+        {
+          "key": "153377|一叶曲折过后 又一道坎坷",
+          "startMs": 153377,
+          "text": "一叶曲折过后 又一道坎坷"
+        },
+        {
+          "key": "160712|走不出 看不破",
+          "startMs": 160712,
+          "text": "走不出 看不破"
+        },
+        {
+          "key": "166372|潺潺流水终于穿过了群山一座座",
+          "startMs": 166372,
+          "text": "潺潺流水终于穿过了群山一座座"
+        },
+        {
+          "key": "173372|好像多年之后你依然执着",
+          "startMs": 173372,
+          "text": "好像多年之后你依然执着"
+        },
+        {
+          "key": "181172|白云是否也听过你的诉说",
+          "startMs": 181172,
+          "text": "白云是否也听过你的诉说"
+        },
+        {
+          "key": "188442|笑着你 笑着我",
+          "startMs": 188442,
+          "text": "笑着你 笑着我"
+        },
+        {
+          "key": "195142|白云是否也听过你的诉说",
+          "startMs": 195142,
+          "text": "白云是否也听过你的诉说"
+        },
+        {
+          "key": "202352|笑着你 笑着我",
+          "startMs": 202352,
+          "text": "笑着你 笑着我"
+        },
+        {
+          "key": "208572|吉他Guitar：任强 Ren Qing/谢星 Xie Xing",
+          "startMs": 208572,
+          "text": "吉他Guitar：任强 Ren Qing/谢星 Xie Xing"
+        },
+        {
+          "key": "208899|贝斯Bass：韩阳 Han Yang",
+          "startMs": 208899,
+          "text": "贝斯Bass：韩阳 Han Yang"
+        },
+        {
+          "key": "209083|鼓Drums：图灵 Tu Ling",
+          "startMs": 209083,
+          "text": "鼓Drums：图灵 Tu Ling"
+        },
+        {
+          "key": "209257|键盘Keyboard：韦伟Oldbanana",
+          "startMs": 209257,
+          "text": "键盘Keyboard：韦伟Oldbanana"
+        },
+        {
+          "key": "209482|琵琶Pipa：梁雁 Liang Yan",
+          "startMs": 209482,
+          "text": "琵琶Pipa：梁雁 Liang Yan"
+        },
+        {
+          "key": "209676|录音Recording：李越Li Yue@野火春风EFO Sound",
+          "startMs": 209676,
+          "text": "录音Recording：李越Li Yue@野火春风EFO Sound"
+        },
+        {
+          "key": "210023|人声编辑Vocal Editing：祝薇Avi Zhu",
+          "startMs": 210023,
+          "text": "人声编辑Vocal Editing：祝薇Avi Zhu"
+        },
+        {
+          "key": "210300|配唱制作人Vocal Produced by：何文锐@光合声动 He WenRui@Sound Studio",
+          "startMs": 210300,
+          "text": "配唱制作人Vocal Produced by：何文锐@光合声动 He WenRui@Sound Studio"
+        },
+        {
+          "key": "210852|和声编写Backing Vocal Arranged by：何文锐@光合声动 He WenRui@Sound Studio",
+          "startMs": 210852,
+          "text": "和声编写Backing Vocal Arranged by：何文锐@光合声动 He WenRui@Sound Studio"
+        },
+        {
+          "key": "211475|和声Backing Vocal Performed by：何文锐/姜美彤@光合声动 He Wenrui Jiang Meitong @Sound Studio",
+          "startMs": 211475,
+          "text": "和声Backing Vocal Performed by：何文锐/姜美彤@光合声动 He Wenrui Jiang Meitong @Sound Studio"
+        },
+        {
+          "key": "212283|和声录音 Backing Vocal Recorded by：豆豆龙@Allanwang Studio",
+          "startMs": 212283,
+          "text": "和声录音 Backing Vocal Recorded by：豆豆龙@Allanwang Studio"
+        },
+        {
+          "key": "212805|弦乐Strings：国际首席爱乐乐团The International Prima Philharmonic Orchestra",
+          "startMs": 212805,
+          "text": "弦乐Strings：国际首席爱乐乐团The International Prima Philharmonic Orchestra"
+        },
+        {
+          "key": "213459|混音Mixing：李越Li Yue@野火春风EFO Sound",
+          "startMs": 213459,
+          "text": "混音Mixing：李越Li Yue@野火春风EFO Sound"
+        },
+        {
+          "key": "213776|母带/母带工作室Mastering/Studios：Randy Merrill@Steriling Sound NY",
+          "startMs": 213776,
+          "text": "母带/母带工作室Mastering/Studios：Randy Merrill@Steriling Sound NY"
+        },
+        {
+          "key": "214369|音乐制作 Produced：哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd.",
+          "startMs": 214369,
+          "text": "音乐制作 Produced：哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd."
+        },
+        {
+          "key": "214993|出品/母带版权公司 Production Company/OP：哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd.",
+          "startMs": 214993,
+          "text": "出品/母带版权公司 Production Company/OP：哇唧唧哇 Wajijiwa Entertainment (Tianjin) Co., Ltd."
+        }
+      ]
+    },
+    {
+      "rank": 489,
+      "songKey": "online:kugou:ebe3ce3efcbea67d797d2cf0ebb6fb41",
+      "name": "Do It (Orginal Mix)",
+      "artist": "XXXCA",
+      "lines": [
+        {
+          "key": "0|Do It (Orginal Mix) - XXXCA",
+          "startMs": 0,
+          "text": "Do It (Orginal Mix) - XXXCA"
+        },
+        {
+          "key": "15286|All you ladies pop",
+          "startMs": 15286,
+          "text": "All you ladies pop"
+        },
+        {
+          "key": "16112|Your p***y like this",
+          "startMs": 16112,
+          "text": "Your p***y like this"
+        },
+        {
+          "key": "17563|Shake your body",
+          "startMs": 17563,
+          "text": "Shake your body"
+        },
+        {
+          "key": "18246|Don't stop don't miss",
+          "startMs": 18246,
+          "text": "Don't stop don't miss"
+        },
+        {
+          "key": "19438|All you ladies pop",
+          "startMs": 19438,
+          "text": "All you ladies pop"
+        },
+        {
+          "key": "20112|Your p***y like this",
+          "startMs": 20112,
+          "text": "Your p***y like this"
+        },
+        {
+          "key": "21561|Shake your body",
+          "startMs": 21561,
+          "text": "Shake your body"
+        },
+        {
+          "key": "22026|Don't stop don't miss",
+          "startMs": 22026,
+          "text": "Don't stop don't miss"
+        },
+        {
+          "key": "23008|Just do it do it do it do it do it",
+          "startMs": 23008,
+          "text": "Just do it do it do it do it do it"
+        },
+        {
+          "key": "26751|Now",
+          "startMs": 26751,
+          "text": "Now"
+        },
+        {
+          "key": "27134|Link it good suck this ****y",
+          "startMs": 27134,
+          "text": "Link it good suck this ****y"
+        },
+        {
+          "key": "28697|Just like you should",
+          "startMs": 28697,
+          "text": "Just like you should"
+        },
+        {
+          "key": "29921|Right now",
+          "startMs": 29921,
+          "text": "Right now"
+        },
+        {
+          "key": "30830|My neck my back",
+          "startMs": 30830,
+          "text": "My neck my back"
+        },
+        {
+          "key": "32616|Link my ****y and my crack",
+          "startMs": 32616,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "34422|My neck my back",
+          "startMs": 34422,
+          "text": "My neck my back"
+        },
+        {
+          "key": "36348|Link my ****y and my crack",
+          "startMs": 36348,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "38317|My neck my back",
+          "startMs": 38317,
+          "text": "My neck my back"
+        },
+        {
+          "key": "40167|Link my ****y and my crack",
+          "startMs": 40167,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "42363|My neck my back",
+          "startMs": 42363,
+          "text": "My neck my back"
+        },
+        {
+          "key": "44188|Link my ****y and my crack",
+          "startMs": 44188,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "46312|My neck my back",
+          "startMs": 46312,
+          "text": "My neck my back"
+        },
+        {
+          "key": "54070|My neck my back",
+          "startMs": 54070,
+          "text": "My neck my back"
+        },
+        {
+          "key": "59448|Link my ****y and my crack",
+          "startMs": 59448,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "61615|My neck my back",
+          "startMs": 61615,
+          "text": "My neck my back"
+        },
+        {
+          "key": "67519|Link my ****y and my crack",
+          "startMs": 67519,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "69265|My neck my back",
+          "startMs": 69265,
+          "text": "My neck my back"
+        },
+        {
+          "key": "75349|Link my ****y and my crack",
+          "startMs": 75349,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "81188|My neck my back",
+          "startMs": 81188,
+          "text": "My neck my back"
+        },
+        {
+          "key": "83514|My neck my back",
+          "startMs": 83514,
+          "text": "My neck my back"
+        },
+        {
+          "key": "85800|My neck my back",
+          "startMs": 85800,
+          "text": "My neck my back"
+        },
+        {
+          "key": "87776|Link my ****y and my crack",
+          "startMs": 87776,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "91272|My back",
+          "startMs": 91272,
+          "text": "My back"
+        },
+        {
+          "key": "92309|My neck my back",
+          "startMs": 92309,
+          "text": "My neck my back"
+        },
+        {
+          "key": "94478|My neck my back",
+          "startMs": 94478,
+          "text": "My neck my back"
+        },
+        {
+          "key": "96480|Link my ****y and my crack",
+          "startMs": 96480,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "99164|My neck my back",
+          "startMs": 99164,
+          "text": "My neck my back"
+        },
+        {
+          "key": "101145|Link my ****y and my crack",
+          "startMs": 101145,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "103579|My neck my back",
+          "startMs": 103579,
+          "text": "My neck my back"
+        },
+        {
+          "key": "105548|Link my ****y and my crack",
+          "startMs": 105548,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "108073|My neck my back",
+          "startMs": 108073,
+          "text": "My neck my back"
+        },
+        {
+          "key": "110033|Link my ****y and my crack",
+          "startMs": 110033,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "112235|My neck my back",
+          "startMs": 112235,
+          "text": "My neck my back"
+        },
+        {
+          "key": "114501|Link my ****y and my crack",
+          "startMs": 114501,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "117056|Do do do it",
+          "startMs": 117056,
+          "text": "Do do do it"
+        },
+        {
+          "key": "119308|Li li link it now",
+          "startMs": 119308,
+          "text": "Li li link it now"
+        },
+        {
+          "key": "121648|Do do do it",
+          "startMs": 121648,
+          "text": "Do do do it"
+        },
+        {
+          "key": "123873|Li li link it now",
+          "startMs": 123873,
+          "text": "Li li link it now"
+        },
+        {
+          "key": "126080|Do do do it",
+          "startMs": 126080,
+          "text": "Do do do it"
+        },
+        {
+          "key": "128276|Li li link it now",
+          "startMs": 128276,
+          "text": "Li li link it now"
+        },
+        {
+          "key": "130484|Do do do it",
+          "startMs": 130484,
+          "text": "Do do do it"
+        },
+        {
+          "key": "132644|Li li link it now",
+          "startMs": 132644,
+          "text": "Li li link it now"
+        },
+        {
+          "key": "150523|My neck my back",
+          "startMs": 150523,
+          "text": "My neck my back"
+        },
+        {
+          "key": "158393|My neck my back",
+          "startMs": 158393,
+          "text": "My neck my back"
+        },
+        {
+          "key": "164066|Link my ****y and my crack",
+          "startMs": 164066,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "165833|My neck my back",
+          "startMs": 165833,
+          "text": "My neck my back"
+        },
+        {
+          "key": "171631|Link my ****y and my crack",
+          "startMs": 171631,
+          "text": "Link my ****y and my crack"
+        },
+        {
+          "key": "173618|My neck my back",
+          "startMs": 173618,
+          "text": "My neck my back"
+        },
+        {
+          "key": "179564|Link my ****y and my crack",
+          "startMs": 179564,
+          "text": "Link my ****y and my crack"
+        }
+      ]
+    },
+    {
+      "rank": 490,
+      "songKey": "online:kugou:a8781719dacaf5edaaef1ae9167d1be6",
+      "name": "万讃歌",
+      "artist": "葉加瀬太郎",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

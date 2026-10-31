@@ -1,0 +1,512 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:de60c6ca6340b287ec76a4802e1e7cea",
+      "lines": [
+        {
+          "key": "57|Hi Noise - We Never",
+          "text": "Hi Noise - We Never",
+          "segments": [
+            "Hi Noise",
+            " - ",
+            "We Never"
+          ]
+        },
+        {
+          "key": "1216|Written by：Rafael Diaz Duarte",
+          "text": "Written by：Rafael Diaz Duarte",
+          "segments": [
+            "Written by：",
+            "Rafael Diaz Duarte"
+          ]
+        },
+        {
+          "key": "22610|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "26501|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "30340|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "34180|We never we never",
+          "text": "We never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "35988|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "37958|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "41797|Always wishing for something to come true",
+          "text": "Always wishing for something to come true",
+          "segments": [
+            "Always ",
+            "wishing ",
+            "for ",
+            "something ",
+            "to ",
+            "come ",
+            "true"
+          ]
+        },
+        {
+          "key": "45643|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "48821|Always wishing for something to come true",
+          "text": "Always wishing for something to come true",
+          "segments": [
+            "Always ",
+            "wishing ",
+            "for ",
+            "something ",
+            "to ",
+            "come ",
+            "true"
+          ]
+        },
+        {
+          "key": "53165|What can you do",
+          "text": "What can you do",
+          "segments": [
+            "What ",
+            "can ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "56848|When baby you know the love got you",
+          "text": "When baby you know the love got you",
+          "segments": [
+            "When ",
+            "baby ",
+            "you ",
+            "know ",
+            "the ",
+            "love ",
+            "got ",
+            "you"
+          ]
+        },
+        {
+          "key": "60888|Love got you love got you",
+          "text": "Love got you love got you",
+          "segments": [
+            "Love ",
+            "got ",
+            "you ",
+            "love ",
+            "got ",
+            "you"
+          ]
+        },
+        {
+          "key": "68239|Love got you love got you",
+          "text": "Love got you love got you",
+          "segments": [
+            "Love ",
+            "got ",
+            "you ",
+            "love ",
+            "got ",
+            "you"
+          ]
+        },
+        {
+          "key": "76044|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "79907|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "83619|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "85575|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "87517|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "89489|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "104668|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "119916|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "123734|Always wishing for something to come true",
+          "text": "Always wishing for something to come true",
+          "segments": [
+            "Always ",
+            "wishing ",
+            "for ",
+            "something ",
+            "to ",
+            "come ",
+            "true"
+          ]
+        },
+        {
+          "key": "127428|What can you do",
+          "text": "What can you do",
+          "segments": [
+            "What ",
+            "can ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "130811|When baby you know the love got you",
+          "text": "When baby you know the love got you",
+          "segments": [
+            "When ",
+            "baby ",
+            "you ",
+            "know ",
+            "the ",
+            "love ",
+            "got ",
+            "you"
+          ]
+        },
+        {
+          "key": "134951|Love got you",
+          "text": "Love got you",
+          "segments": [
+            "Love ",
+            "got ",
+            "you"
+          ]
+        },
+        {
+          "key": "137006|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "140291|Always wishing for something to come true",
+          "text": "Always wishing for something to come true",
+          "segments": [
+            "Always ",
+            "wishing ",
+            "for ",
+            "something ",
+            "to ",
+            "come ",
+            "true"
+          ]
+        },
+        {
+          "key": "144530|What can you do",
+          "text": "What can you do",
+          "segments": [
+            "What ",
+            "can ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "148028|When baby you know the love got you",
+          "text": "When baby you know the love got you",
+          "segments": [
+            "When ",
+            "baby ",
+            "you ",
+            "know ",
+            "the ",
+            "love ",
+            "got ",
+            "you"
+          ]
+        },
+        {
+          "key": "152068|Love got you love got you",
+          "text": "Love got you love got you",
+          "segments": [
+            "Love ",
+            "got ",
+            "you ",
+            "love ",
+            "got ",
+            "you"
+          ]
+        },
+        {
+          "key": "159719|Love got you love got you",
+          "text": "Love got you love got you",
+          "segments": [
+            "Love ",
+            "got ",
+            "you ",
+            "love ",
+            "got ",
+            "you"
+          ]
+        },
+        {
+          "key": "167441|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "171234|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "175035|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "177002|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "178921|We never we never we never we never",
+          "text": "We never we never we never we never",
+          "segments": [
+            "We ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never ",
+            "we ",
+            "never"
+          ]
+        },
+        {
+          "key": "180871|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "196039|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "211207|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "226502|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        },
+        {
+          "key": "241753|We never choose",
+          "text": "We never choose",
+          "segments": [
+            "We ",
+            "never ",
+            "choose"
+          ]
+        }
+      ]
+    }
+  ]
+}

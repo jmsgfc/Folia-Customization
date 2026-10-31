@@ -1,0 +1,561 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:70e8d6d0f1905407715aeab3ffab64aa",
+      "lines": [
+        {
+          "key": "0|Veronica Bravo、LOST.、Pop Mage、Stuart Mackilliop、Maggie Reilly、Peter Risavy - Everytime We Touch",
+          "text": "Veronica Bravo、LOST.、Pop Mage、Stuart Mackilliop、Maggie Reilly、Peter Risavy - Everytime We Touch",
+          "segments": [
+            "Veronica Bravo",
+            "、",
+            "LOST.",
+            "、",
+            "Pop Mage",
+            "、",
+            "Stuart Mackilliop",
+            "、",
+            "Maggie Reilly",
+            "、",
+            "Peter Risavy",
+            " - ",
+            "Everytime We Touch"
+          ]
+        },
+        {
+          "key": "296|原唱：Cascada",
+          "text": "原唱：Cascada",
+          "segments": [
+            "原唱：",
+            "Cascada"
+          ]
+        },
+        {
+          "key": "308|Composed by：Magie Reilly/Peter Risavy/Stuart Mackillop",
+          "text": "Composed by：Magie Reilly/Peter Risavy/Stuart Mackillop",
+          "segments": [
+            "Composed by：",
+            "Magie Reilly",
+            "/",
+            "Peter Risavy",
+            "/",
+            "Stuart Mackillop"
+          ]
+        },
+        {
+          "key": "334|I still hear your voice when you sleep next to me",
+          "text": "I still hear your voice when you sleep next to me",
+          "segments": [
+            "I ",
+            "still ",
+            "hear ",
+            "your ",
+            "voice ",
+            "when ",
+            "you ",
+            "sleep ",
+            "next ",
+            "to ",
+            "me"
+          ]
+        },
+        {
+          "key": "8342|I still feel your touch in my dream",
+          "text": "I still feel your touch in my dream",
+          "segments": [
+            "I ",
+            "still ",
+            "feel ",
+            "your ",
+            "touch ",
+            "in ",
+            "my ",
+            "dream"
+          ]
+        },
+        {
+          "key": "16357|Forgive me my weakness but I don't know why",
+          "text": "Forgive me my weakness but I don't know why",
+          "segments": [
+            "Forgive ",
+            "me ",
+            "my ",
+            "weakness ",
+            "but ",
+            "I ",
+            "don't ",
+            "know ",
+            "why"
+          ]
+        },
+        {
+          "key": "24435|Without you it's hard to survive",
+          "text": "Without you it's hard to survive",
+          "segments": [
+            "Without ",
+            "you ",
+            "it's ",
+            "hard ",
+            "to ",
+            "survive"
+          ]
+        },
+        {
+          "key": "31947|'Cause every time we touch I get this feeling",
+          "text": "'Cause every time we touch I get this feeling",
+          "segments": [
+            "'Cause ",
+            "every ",
+            "time ",
+            "we ",
+            "touch ",
+            "I ",
+            "get ",
+            "this ",
+            "feeling"
+          ]
+        },
+        {
+          "key": "36011|And every time we kiss I swear I could fly",
+          "text": "And every time we kiss I swear I could fly",
+          "segments": [
+            "And ",
+            "every ",
+            "time ",
+            "we ",
+            "kiss ",
+            "I ",
+            "swear ",
+            "I ",
+            "could ",
+            "fly"
+          ]
+        },
+        {
+          "key": "40291|Can't you feel my heart beat fast",
+          "text": "Can't you feel my heart beat fast",
+          "segments": [
+            "Can't ",
+            "you ",
+            "feel ",
+            "my ",
+            "heart ",
+            "beat ",
+            "fast"
+          ]
+        },
+        {
+          "key": "43067|I want this to last",
+          "text": "I want this to last",
+          "segments": [
+            "I ",
+            "want ",
+            "this ",
+            "to ",
+            "last"
+          ]
+        },
+        {
+          "key": "45363|Need you by my side",
+          "text": "Need you by my side",
+          "segments": [
+            "Need ",
+            "you ",
+            "by ",
+            "my ",
+            "side"
+          ]
+        },
+        {
+          "key": "48259|'Cause every time we touch I feel the static",
+          "text": "'Cause every time we touch I feel the static",
+          "segments": [
+            "'Cause ",
+            "every ",
+            "time ",
+            "we ",
+            "touch ",
+            "I ",
+            "feel ",
+            "the ",
+            "static"
+          ]
+        },
+        {
+          "key": "52202|And every time we kiss I reach for the sky",
+          "text": "And every time we kiss I reach for the sky",
+          "segments": [
+            "And ",
+            "every ",
+            "time ",
+            "we ",
+            "kiss ",
+            "I ",
+            "reach ",
+            "for ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "56510|Can't you hear my heart beat so",
+          "text": "Can't you hear my heart beat so",
+          "segments": [
+            "Can't ",
+            "you ",
+            "hear ",
+            "my ",
+            "heart ",
+            "beat ",
+            "so"
+          ]
+        },
+        {
+          "key": "59339|I can't let you go",
+          "text": "I can't let you go",
+          "segments": [
+            "I ",
+            "can't ",
+            "let ",
+            "you ",
+            "go"
+          ]
+        },
+        {
+          "key": "61683|Want you in my life",
+          "text": "Want you in my life",
+          "segments": [
+            "Want ",
+            "you ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "64593|'Cause every time we touch I get this feeling",
+          "text": "'Cause every time we touch I get this feeling",
+          "segments": [
+            "'Cause ",
+            "every ",
+            "time ",
+            "we ",
+            "touch ",
+            "I ",
+            "get ",
+            "this ",
+            "feeling"
+          ]
+        },
+        {
+          "key": "68522|And every time we kiss I swear I could fly",
+          "text": "And every time we kiss I swear I could fly",
+          "segments": [
+            "And ",
+            "every ",
+            "time ",
+            "we ",
+            "kiss ",
+            "I ",
+            "swear ",
+            "I ",
+            "could ",
+            "fly"
+          ]
+        },
+        {
+          "key": "72777|Can't you feel my heart beat fast",
+          "text": "Can't you feel my heart beat fast",
+          "segments": [
+            "Can't ",
+            "you ",
+            "feel ",
+            "my ",
+            "heart ",
+            "beat ",
+            "fast"
+          ]
+        },
+        {
+          "key": "75601|I want this to last",
+          "text": "I want this to last",
+          "segments": [
+            "I ",
+            "want ",
+            "this ",
+            "to ",
+            "last"
+          ]
+        },
+        {
+          "key": "77905|Need you by my side",
+          "text": "Need you by my side",
+          "segments": [
+            "Need ",
+            "you ",
+            "by ",
+            "my ",
+            "side"
+          ]
+        },
+        {
+          "key": "81489|Your arms are my castle your heart is my sky",
+          "text": "Your arms are my castle your heart is my sky",
+          "segments": [
+            "Your ",
+            "arms ",
+            "are ",
+            "my ",
+            "castle ",
+            "your ",
+            "heart ",
+            "is ",
+            "my ",
+            "sky"
+          ]
+        },
+        {
+          "key": "89658|They wipe away tears that I cry",
+          "text": "They wipe away tears that I cry",
+          "segments": [
+            "They ",
+            "wipe ",
+            "away ",
+            "tears ",
+            "that ",
+            "I ",
+            "cry"
+          ]
+        },
+        {
+          "key": "97665|The good and the bad times we've been through them all",
+          "text": "The good and the bad times we've been through them all",
+          "segments": [
+            "The ",
+            "good ",
+            "and ",
+            "the ",
+            "bad ",
+            "times ",
+            "we've ",
+            "been ",
+            "through ",
+            "them ",
+            "all"
+          ]
+        },
+        {
+          "key": "106448|You make me rise when I fall",
+          "text": "You make me rise when I fall",
+          "segments": [
+            "You ",
+            "make ",
+            "me ",
+            "rise ",
+            "when ",
+            "I ",
+            "fall"
+          ]
+        },
+        {
+          "key": "113167|'Cause every time we touch I get this feeling",
+          "text": "'Cause every time we touch I get this feeling",
+          "segments": [
+            "'Cause ",
+            "every ",
+            "time ",
+            "we ",
+            "touch ",
+            "I ",
+            "get ",
+            "this ",
+            "feeling"
+          ]
+        },
+        {
+          "key": "117439|And every time we kiss I swear I could fly",
+          "text": "And every time we kiss I swear I could fly",
+          "segments": [
+            "And ",
+            "every ",
+            "time ",
+            "we ",
+            "kiss ",
+            "I ",
+            "swear ",
+            "I ",
+            "could ",
+            "fly"
+          ]
+        },
+        {
+          "key": "121607|Can't you feel my heart beat fast",
+          "text": "Can't you feel my heart beat fast",
+          "segments": [
+            "Can't ",
+            "you ",
+            "feel ",
+            "my ",
+            "heart ",
+            "beat ",
+            "fast"
+          ]
+        },
+        {
+          "key": "124399|I want this to last",
+          "text": "I want this to last",
+          "segments": [
+            "I ",
+            "want ",
+            "this ",
+            "to ",
+            "last"
+          ]
+        },
+        {
+          "key": "126679|Need you by my side",
+          "text": "Need you by my side",
+          "segments": [
+            "Need ",
+            "you ",
+            "by ",
+            "my ",
+            "side"
+          ]
+        },
+        {
+          "key": "129528|'Cause every time we touch I feel the static",
+          "text": "'Cause every time we touch I feel the static",
+          "segments": [
+            "'Cause ",
+            "every ",
+            "time ",
+            "we ",
+            "touch ",
+            "I ",
+            "feel ",
+            "the ",
+            "static"
+          ]
+        },
+        {
+          "key": "133574|And every time we kiss I reach for the sky",
+          "text": "And every time we kiss I reach for the sky",
+          "segments": [
+            "And ",
+            "every ",
+            "time ",
+            "we ",
+            "kiss ",
+            "I ",
+            "reach ",
+            "for ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "137807|Can't you hear my heart beat so",
+          "text": "Can't you hear my heart beat so",
+          "segments": [
+            "Can't ",
+            "you ",
+            "hear ",
+            "my ",
+            "heart ",
+            "beat ",
+            "so"
+          ]
+        },
+        {
+          "key": "140679|I can't let you go",
+          "text": "I can't let you go",
+          "segments": [
+            "I ",
+            "can't ",
+            "let ",
+            "you ",
+            "go"
+          ]
+        },
+        {
+          "key": "142991|Want you in my life",
+          "text": "Want you in my life",
+          "segments": [
+            "Want ",
+            "you ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "145896|'Cause every time we touch I get this feeling",
+          "text": "'Cause every time we touch I get this feeling",
+          "segments": [
+            "'Cause ",
+            "every ",
+            "time ",
+            "we ",
+            "touch ",
+            "I ",
+            "get ",
+            "this ",
+            "feeling"
+          ]
+        },
+        {
+          "key": "149879|And every time we kiss I swear I could fly",
+          "text": "And every time we kiss I swear I could fly",
+          "segments": [
+            "And ",
+            "every ",
+            "time ",
+            "we ",
+            "kiss ",
+            "I ",
+            "swear ",
+            "I ",
+            "could ",
+            "fly"
+          ]
+        },
+        {
+          "key": "154047|Can't you feel my heart beat fast",
+          "text": "Can't you feel my heart beat fast",
+          "segments": [
+            "Can't ",
+            "you ",
+            "feel ",
+            "my ",
+            "heart ",
+            "beat ",
+            "fast"
+          ]
+        },
+        {
+          "key": "156951|I want this to last",
+          "text": "I want this to last",
+          "segments": [
+            "I ",
+            "want ",
+            "this ",
+            "to ",
+            "last"
+          ]
+        },
+        {
+          "key": "159207|Need you by my side",
+          "text": "Need you by my side",
+          "segments": [
+            "Need ",
+            "you ",
+            "by ",
+            "my ",
+            "side"
+          ]
+        }
+      ]
+    }
+  ]
+}

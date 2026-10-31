@@ -1,0 +1,426 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:88e22d78cf8269e255a31ce28c9ba2d7",
+      "lines": [
+        {
+          "key": "0|Ni/Co - Bleeding Love",
+          "text": "Ni/Co - Bleeding Love",
+          "segments": [
+            "Ni/Co",
+            " - ",
+            "Bleeding Love"
+          ]
+        },
+        {
+          "key": "9800|Lyrics by：Jesse McCartney/Ryan Tedder",
+          "text": "Lyrics by：Jesse McCartney/Ryan Tedder",
+          "segments": [
+            "Lyrics by：",
+            "Jesse McCartney",
+            "/",
+            "Ryan Tedder"
+          ]
+        },
+        {
+          "key": "19611|Closed off from love I didn't need the pain",
+          "text": "Closed off from love I didn't need the pain",
+          "segments": [
+            "Closed ",
+            "off ",
+            "from ",
+            "love ",
+            "I ",
+            "didn't ",
+            "need ",
+            "the ",
+            "pain"
+          ]
+        },
+        {
+          "key": "24256|Once or twice was enough but it was all in vain",
+          "text": "Once or twice was enough but it was all in vain",
+          "segments": [
+            "Once ",
+            "or ",
+            "twice ",
+            "was ",
+            "enough ",
+            "but ",
+            "it ",
+            "was ",
+            "all ",
+            "in ",
+            "vain"
+          ]
+        },
+        {
+          "key": "28920|Time starts to pass before you know it you're frozen",
+          "text": "Time starts to pass before you know it you're frozen",
+          "segments": [
+            "Time ",
+            "starts ",
+            "to ",
+            "pass ",
+            "before ",
+            "you ",
+            "know ",
+            "it ",
+            "you're ",
+            "frozen"
+          ]
+        },
+        {
+          "key": "38110|But somethin' happened for the very first time with you",
+          "text": "But somethin' happened for the very first time with you",
+          "segments": [
+            "But ",
+            "somethin' ",
+            "happened ",
+            "for ",
+            "the ",
+            "very ",
+            "first ",
+            "time ",
+            "with ",
+            "you"
+          ]
+        },
+        {
+          "key": "42798|My heart melted to the ground found somethin' true",
+          "text": "My heart melted to the ground found somethin' true",
+          "segments": [
+            "My ",
+            "heart ",
+            "melted ",
+            "to ",
+            "the ",
+            "ground ",
+            "found ",
+            "somethin' ",
+            "true"
+          ]
+        },
+        {
+          "key": "47659|And everyone's lookin' 'round thinkin' I'm goin' crazy",
+          "text": "And everyone's lookin' 'round thinkin' I'm goin' crazy",
+          "segments": [
+            "And ",
+            "everyone's ",
+            "lookin' ",
+            "'round ",
+            "thinkin' ",
+            "I'm ",
+            "goin' ",
+            "crazy"
+          ]
+        },
+        {
+          "key": "56956|But I don't care what they say I'm in love with you",
+          "text": "But I don't care what they say I'm in love with you",
+          "segments": [
+            "But ",
+            "I ",
+            "don't ",
+            "care ",
+            "what ",
+            "they ",
+            "say ",
+            "I'm ",
+            "in ",
+            "love ",
+            "with ",
+            "you"
+          ]
+        },
+        {
+          "key": "61716|They try to pull me away but they don't know the truth",
+          "text": "They try to pull me away but they don't know the truth",
+          "segments": [
+            "They ",
+            "try ",
+            "to ",
+            "pull ",
+            "me ",
+            "away ",
+            "but ",
+            "they ",
+            "don't ",
+            "know ",
+            "the ",
+            "truth"
+          ]
+        },
+        {
+          "key": "66532|My heart's crippled by the vein that I keep on closin'",
+          "text": "My heart's crippled by the vein that I keep on closin'",
+          "segments": [
+            "My ",
+            "heart's ",
+            "crippled ",
+            "by ",
+            "the ",
+            "vein ",
+            "that ",
+            "I ",
+            "keep ",
+            "on ",
+            "closin'"
+          ]
+        },
+        {
+          "key": "73482|You cut me open and I",
+          "text": "You cut me open and I",
+          "segments": [
+            "You ",
+            "cut ",
+            "me ",
+            "open ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "76030|Keep bleedin'",
+          "text": "Keep bleedin'",
+          "segments": [
+            "Keep ",
+            "bleedin'"
+          ]
+        },
+        {
+          "key": "77490|Keep keep bleedin' love",
+          "text": "Keep keep bleedin' love",
+          "segments": [
+            "Keep ",
+            "keep ",
+            "bleedin' ",
+            "love"
+          ]
+        },
+        {
+          "key": "80583|I keep bleedin'",
+          "text": "I keep bleedin'",
+          "segments": [
+            "I ",
+            "keep ",
+            "bleedin'"
+          ]
+        },
+        {
+          "key": "81903|I keep keep bleedin' love",
+          "text": "I keep keep bleedin' love",
+          "segments": [
+            "I ",
+            "keep ",
+            "keep ",
+            "bleedin' ",
+            "love"
+          ]
+        },
+        {
+          "key": "85504|Keep bleedin'",
+          "text": "Keep bleedin'",
+          "segments": [
+            "Keep ",
+            "bleedin'"
+          ]
+        },
+        {
+          "key": "86887|Keep keep bleedin' love",
+          "text": "Keep keep bleedin' love",
+          "segments": [
+            "Keep ",
+            "keep ",
+            "bleedin' ",
+            "love"
+          ]
+        },
+        {
+          "key": "92313|You cut me open and I",
+          "text": "You cut me open and I",
+          "segments": [
+            "You ",
+            "cut ",
+            "me ",
+            "open ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "96174|And it's drainin' all of me",
+          "text": "And it's drainin' all of me",
+          "segments": [
+            "And ",
+            "it's ",
+            "drainin' ",
+            "all ",
+            "of ",
+            "me"
+          ]
+        },
+        {
+          "key": "100910|Though they find it hard to believe",
+          "text": "Though they find it hard to believe",
+          "segments": [
+            "Though ",
+            "they ",
+            "find ",
+            "it ",
+            "hard ",
+            "to ",
+            "believe"
+          ]
+        },
+        {
+          "key": "105559|I'll be wearin' these scars for everyone to see",
+          "text": "I'll be wearin' these scars for everyone to see",
+          "segments": [
+            "I'll ",
+            "be ",
+            "wearin' ",
+            "these ",
+            "scars ",
+            "for ",
+            "everyone ",
+            "to ",
+            "see"
+          ]
+        },
+        {
+          "key": "113764|I don't care what they say I'm in love with you",
+          "text": "I don't care what they say I'm in love with you",
+          "segments": [
+            "I ",
+            "don't ",
+            "care ",
+            "what ",
+            "they ",
+            "say ",
+            "I'm ",
+            "in ",
+            "love ",
+            "with ",
+            "you"
+          ]
+        },
+        {
+          "key": "118257|They try to pull me away but they don't know the truth",
+          "text": "They try to pull me away but they don't know the truth",
+          "segments": [
+            "They ",
+            "try ",
+            "to ",
+            "pull ",
+            "me ",
+            "away ",
+            "but ",
+            "they ",
+            "don't ",
+            "know ",
+            "the ",
+            "truth"
+          ]
+        },
+        {
+          "key": "122943|My heart's crippled by the vein that I keep on closin'",
+          "text": "My heart's crippled by the vein that I keep on closin'",
+          "segments": [
+            "My ",
+            "heart's ",
+            "crippled ",
+            "by ",
+            "the ",
+            "vein ",
+            "that ",
+            "I ",
+            "keep ",
+            "on ",
+            "closin'"
+          ]
+        },
+        {
+          "key": "129802|You cut me open and I",
+          "text": "You cut me open and I",
+          "segments": [
+            "You ",
+            "cut ",
+            "me ",
+            "open ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "132576|Keep bleedin'",
+          "text": "Keep bleedin'",
+          "segments": [
+            "Keep ",
+            "bleedin'"
+          ]
+        },
+        {
+          "key": "133986|Keep keep bleedin' love",
+          "text": "Keep keep bleedin' love",
+          "segments": [
+            "Keep ",
+            "keep ",
+            "bleedin' ",
+            "love"
+          ]
+        },
+        {
+          "key": "136944|I keep bleedin'",
+          "text": "I keep bleedin'",
+          "segments": [
+            "I ",
+            "keep ",
+            "bleedin'"
+          ]
+        },
+        {
+          "key": "138489|I keep keep bleedin' love",
+          "text": "I keep keep bleedin' love",
+          "segments": [
+            "I ",
+            "keep ",
+            "keep ",
+            "bleedin' ",
+            "love"
+          ]
+        },
+        {
+          "key": "141896|Keep bleedin'",
+          "text": "Keep bleedin'",
+          "segments": [
+            "Keep ",
+            "bleedin'"
+          ]
+        },
+        {
+          "key": "143400|Keep keep bleedin' love",
+          "text": "Keep keep bleedin' love",
+          "segments": [
+            "Keep ",
+            "keep ",
+            "bleedin' ",
+            "love"
+          ]
+        },
+        {
+          "key": "148655|You cut me open and I",
+          "text": "You cut me open and I",
+          "segments": [
+            "You ",
+            "cut ",
+            "me ",
+            "open ",
+            "and ",
+            "I"
+          ]
+        }
+      ]
+    }
+  ]
+}

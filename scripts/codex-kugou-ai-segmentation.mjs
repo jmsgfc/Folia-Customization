@@ -505,12 +505,13 @@ const exportLrc = async () => {
     // Provider credits can arrive slightly out of order; LRC consumers expect chronological rows.
     const body = orderedLines.map(({ line }) => `${formatLrcTimestamp(line.startMs)}${String(line.text || '')}`);
     const hashSuffix = String(song.id || '').slice(0, 8);
-    const baseName = [
+    const descriptiveBase = [
       String(song.rank).padStart(3, '0'),
       safeFilenamePart(song.name),
       safeFilenamePart(song.artist),
-      hashSuffix ? `[${hashSuffix}]` : '',
-    ].filter(Boolean).join(' - ').slice(0, 140).replace(/[. ]+$/gu, '');
+    ].filter(Boolean).join(' - ');
+    const fileSuffix = hashSuffix ? ` - [${hashSuffix}]` : '';
+    const baseName = `${descriptiveBase.slice(0, 96 - fileSuffix.length).replace(/[. ]+$/gu, '')}${fileSuffix}`;
     await writeFile(path.join(lrcRoot, `${baseName}.lrc`), `${[...header, ...body].join('\n')}\n`, 'utf8');
     exported += 1;
     lyricLines += body.length;

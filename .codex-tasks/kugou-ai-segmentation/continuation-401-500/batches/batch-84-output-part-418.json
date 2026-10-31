@@ -1,0 +1,689 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:5618e5159d3176e21d83404049e4a6f1",
+      "lines": [
+        {
+          "key": "1427|REBORN - Fool For You",
+          "text": "REBORN - Fool For You",
+          "segments": [
+            "REBORN",
+            " - ",
+            "Fool For You"
+          ]
+        },
+        {
+          "key": "3406|Lyrics by：Vanessa Schulz、Neil Ormandy、Martin Wave",
+          "text": "Lyrics by：Vanessa Schulz、Neil Ormandy、Martin Wave",
+          "segments": [
+            "Lyrics by：",
+            "Vanessa Schulz、",
+            "Neil Ormandy、",
+            "Martin Wave"
+          ]
+        },
+        {
+          "key": "7288|Composed by：Raymond George Decker III",
+          "text": "Composed by：Raymond George Decker III",
+          "segments": [
+            "Composed by：",
+            "Raymond George Decker III"
+          ]
+        },
+        {
+          "key": "8529|I been running over leaving in my head",
+          "text": "I been running over leaving in my head",
+          "segments": [
+            "I ",
+            "been ",
+            "running ",
+            "over ",
+            "leaving ",
+            "in ",
+            "my ",
+            "head"
+          ]
+        },
+        {
+          "key": "12601|Trippin' over all the stupid things you said",
+          "text": "Trippin' over all the stupid things you said",
+          "segments": [
+            "Trippin' ",
+            "over ",
+            "all ",
+            "the ",
+            "stupid ",
+            "things ",
+            "you ",
+            "said"
+          ]
+        },
+        {
+          "key": "16944|I keep stallin' and now I'm fallin'",
+          "text": "I keep stallin' and now I'm fallin'",
+          "segments": [
+            "I ",
+            "keep ",
+            "stallin' ",
+            "and ",
+            "now ",
+            "I'm ",
+            "fallin'"
+          ]
+        },
+        {
+          "key": "21264|It's like I'm constantly questioning you",
+          "text": "It's like I'm constantly questioning you",
+          "segments": [
+            "It's ",
+            "like ",
+            "I'm ",
+            "constantly ",
+            "questioning ",
+            "you"
+          ]
+        },
+        {
+          "key": "25600|So if you want me why are you tearing me apart",
+          "text": "So if you want me why are you tearing me apart",
+          "segments": [
+            "So ",
+            "if ",
+            "you ",
+            "want ",
+            "me ",
+            "why ",
+            "are ",
+            "you ",
+            "tearing ",
+            "me ",
+            "apart"
+          ]
+        },
+        {
+          "key": "30128|It's killing me slowly watching you hide behind your scars",
+          "text": "It's killing me slowly watching you hide behind your scars",
+          "segments": [
+            "It's ",
+            "killing ",
+            "me ",
+            "slowly ",
+            "watching ",
+            "you ",
+            "hide ",
+            "behind ",
+            "your ",
+            "scars"
+          ]
+        },
+        {
+          "key": "34509|Not here when I need you I been trying to pull through",
+          "text": "Not here when I need you I been trying to pull through",
+          "segments": [
+            "Not ",
+            "here ",
+            "when ",
+            "I ",
+            "need ",
+            "you ",
+            "I ",
+            "been ",
+            "trying ",
+            "to ",
+            "pull ",
+            "through"
+          ]
+        },
+        {
+          "key": "38793|You play with my mind play with my mind",
+          "text": "You play with my mind play with my mind",
+          "segments": [
+            "You ",
+            "play ",
+            "with ",
+            "my ",
+            "mind ",
+            "play ",
+            "with ",
+            "my ",
+            "mind"
+          ]
+        },
+        {
+          "key": "41013|Play with my mind",
+          "text": "Play with my mind",
+          "segments": [
+            "Play ",
+            "with ",
+            "my ",
+            "mind"
+          ]
+        },
+        {
+          "key": "42944|But I'm just a fool for you",
+          "text": "But I'm just a fool for you",
+          "segments": [
+            "But ",
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "45399|I play it cool for you",
+          "text": "I play it cool for you",
+          "segments": [
+            "I ",
+            "play ",
+            "it ",
+            "cool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "47676|Every night feeding me lies",
+          "text": "Every night feeding me lies",
+          "segments": [
+            "Every ",
+            "night ",
+            "feeding ",
+            "me ",
+            "lies"
+          ]
+        },
+        {
+          "key": "49790|I turn a blind eye to",
+          "text": "I turn a blind eye to",
+          "segments": [
+            "I ",
+            "turn ",
+            "a ",
+            "blind ",
+            "eye ",
+            "to"
+          ]
+        },
+        {
+          "key": "51938|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "54260|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "59027|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "67820|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "76510|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "78663|I know you always tell me what I want to hear",
+          "text": "I know you always tell me what I want to hear",
+          "segments": [
+            "I ",
+            "know ",
+            "you ",
+            "always ",
+            "tell ",
+            "me ",
+            "what ",
+            "I ",
+            "want ",
+            "to ",
+            "hear"
+          ]
+        },
+        {
+          "key": "82374|It's like it's deafening the silence when you're near",
+          "text": "It's like it's deafening the silence when you're near",
+          "segments": [
+            "It's ",
+            "like ",
+            "it's ",
+            "deafening ",
+            "the ",
+            "silence ",
+            "when ",
+            "you're ",
+            "near"
+          ]
+        },
+        {
+          "key": "86882|All these blurred lines I still hold tight",
+          "text": "All these blurred lines I still hold tight",
+          "segments": [
+            "All ",
+            "these ",
+            "blurred ",
+            "lines ",
+            "I ",
+            "still ",
+            "hold ",
+            "tight"
+          ]
+        },
+        {
+          "key": "91132|Hoping you give me something that is real",
+          "text": "Hoping you give me something that is real",
+          "segments": [
+            "Hoping ",
+            "you ",
+            "give ",
+            "me ",
+            "something ",
+            "that ",
+            "is ",
+            "real"
+          ]
+        },
+        {
+          "key": "95509|So if you want me why are you tearing me apart",
+          "text": "So if you want me why are you tearing me apart",
+          "segments": [
+            "So ",
+            "if ",
+            "you ",
+            "want ",
+            "me ",
+            "why ",
+            "are ",
+            "you ",
+            "tearing ",
+            "me ",
+            "apart"
+          ]
+        },
+        {
+          "key": "99907|It's killing me slowly watching you hide behind your scars",
+          "text": "It's killing me slowly watching you hide behind your scars",
+          "segments": [
+            "It's ",
+            "killing ",
+            "me ",
+            "slowly ",
+            "watching ",
+            "you ",
+            "hide ",
+            "behind ",
+            "your ",
+            "scars"
+          ]
+        },
+        {
+          "key": "104359|Not here when I need you I been trying to pull through",
+          "text": "Not here when I need you I been trying to pull through",
+          "segments": [
+            "Not ",
+            "here ",
+            "when ",
+            "I ",
+            "need ",
+            "you ",
+            "I ",
+            "been ",
+            "trying ",
+            "to ",
+            "pull ",
+            "through"
+          ]
+        },
+        {
+          "key": "108528|You play with my mind play with my mind",
+          "text": "You play with my mind play with my mind",
+          "segments": [
+            "You ",
+            "play ",
+            "with ",
+            "my ",
+            "mind ",
+            "play ",
+            "with ",
+            "my ",
+            "mind"
+          ]
+        },
+        {
+          "key": "110798|Play with my mind",
+          "text": "Play with my mind",
+          "segments": [
+            "Play ",
+            "with ",
+            "my ",
+            "mind"
+          ]
+        },
+        {
+          "key": "112854|But I'm just a fool for you",
+          "text": "But I'm just a fool for you",
+          "segments": [
+            "But ",
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "115260|I play it cool for you",
+          "text": "I play it cool for you",
+          "segments": [
+            "I ",
+            "play ",
+            "it ",
+            "cool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "117415|Every night feeding me lies",
+          "text": "Every night feeding me lies",
+          "segments": [
+            "Every ",
+            "night ",
+            "feeding ",
+            "me ",
+            "lies"
+          ]
+        },
+        {
+          "key": "119542|I turn a blind eye to",
+          "text": "I turn a blind eye to",
+          "segments": [
+            "I ",
+            "turn ",
+            "a ",
+            "blind ",
+            "eye ",
+            "to"
+          ]
+        },
+        {
+          "key": "121706|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "123913|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "128820|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "137568|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "148357|So if you want me why are you tearing me apart",
+          "text": "So if you want me why are you tearing me apart",
+          "segments": [
+            "So ",
+            "if ",
+            "you ",
+            "want ",
+            "me ",
+            "why ",
+            "are ",
+            "you ",
+            "tearing ",
+            "me ",
+            "apart"
+          ]
+        },
+        {
+          "key": "152295|It's killing me slowly watching you hide behind your scars",
+          "text": "It's killing me slowly watching you hide behind your scars",
+          "segments": [
+            "It's ",
+            "killing ",
+            "me ",
+            "slowly ",
+            "watching ",
+            "you ",
+            "hide ",
+            "behind ",
+            "your ",
+            "scars"
+          ]
+        },
+        {
+          "key": "156591|Not here when I need you I been trying to pull through",
+          "text": "Not here when I need you I been trying to pull through",
+          "segments": [
+            "Not ",
+            "here ",
+            "when ",
+            "I ",
+            "need ",
+            "you ",
+            "I ",
+            "been ",
+            "trying ",
+            "to ",
+            "pull ",
+            "through"
+          ]
+        },
+        {
+          "key": "160997|You play with my mind play with my mind",
+          "text": "You play with my mind play with my mind",
+          "segments": [
+            "You ",
+            "play ",
+            "with ",
+            "my ",
+            "mind ",
+            "play ",
+            "with ",
+            "my ",
+            "mind"
+          ]
+        },
+        {
+          "key": "163157|Play with my mind",
+          "text": "Play with my mind",
+          "segments": [
+            "Play ",
+            "with ",
+            "my ",
+            "mind"
+          ]
+        },
+        {
+          "key": "165459|But I'm just a fool for you",
+          "text": "But I'm just a fool for you",
+          "segments": [
+            "But ",
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "167583|I play it cool for you",
+          "text": "I play it cool for you",
+          "segments": [
+            "I ",
+            "play ",
+            "it ",
+            "cool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "169732|Every night feeding me lies",
+          "text": "Every night feeding me lies",
+          "segments": [
+            "Every ",
+            "night ",
+            "feeding ",
+            "me ",
+            "lies"
+          ]
+        },
+        {
+          "key": "172014|I turn a blind eye to",
+          "text": "I turn a blind eye to",
+          "segments": [
+            "I ",
+            "turn ",
+            "a ",
+            "blind ",
+            "eye ",
+            "to"
+          ]
+        },
+        {
+          "key": "174109|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "176365|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "181180|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "189964|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "198647|I'm just a fool for you",
+          "text": "I'm just a fool for you",
+          "segments": [
+            "I'm ",
+            "just ",
+            "a ",
+            "fool ",
+            "for ",
+            "you"
+          ]
+        }
+      ]
+    }
+  ]
+}

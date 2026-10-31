@@ -1,0 +1,858 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:5a84bba4c673bea45083c521adf366af",
+      "lines": [
+        {
+          "key": "0|林俊杰 - 不潮不用花钱",
+          "text": "林俊杰 - 不潮不用花钱",
+          "segments": [
+            "林俊杰",
+            " - ",
+            "不潮不用花钱"
+          ]
+        },
+        {
+          "key": "264|作词：林怡凤",
+          "text": "作词：林怡凤",
+          "segments": [
+            "作词：",
+            "林怡凤"
+          ]
+        },
+        {
+          "key": "417|作曲：林俊杰",
+          "text": "作曲：林俊杰",
+          "segments": [
+            "作曲：",
+            "林俊杰"
+          ]
+        },
+        {
+          "key": "620|编曲：林俊杰、Kenn C",
+          "text": "编曲：林俊杰、Kenn C",
+          "segments": [
+            "编曲：",
+            "林俊杰、",
+            "Kenn C"
+          ]
+        },
+        {
+          "key": "824|制作人：林俊杰",
+          "text": "制作人：林俊杰",
+          "segments": [
+            "制作人：",
+            "林俊杰"
+          ]
+        },
+        {
+          "key": "1027|Rap：林俊杰",
+          "text": "Rap：林俊杰",
+          "segments": [
+            "Rap：",
+            "林俊杰"
+          ]
+        },
+        {
+          "key": "12024|Ah ah ah",
+          "text": "Ah ah ah",
+          "segments": [
+            "Ah ",
+            "ah ",
+            "ah"
+          ]
+        },
+        {
+          "key": "13599|Come on",
+          "text": "Come on",
+          "segments": [
+            "Come ",
+            "on"
+          ]
+        },
+        {
+          "key": "15733|Hey greedy don't fret",
+          "text": "Hey greedy don't fret",
+          "segments": [
+            "Hey ",
+            "greedy ",
+            "don't ",
+            "fret"
+          ]
+        },
+        {
+          "key": "17614|What you see is what you get",
+          "text": "What you see is what you get",
+          "segments": [
+            "What ",
+            "you ",
+            "see ",
+            "is ",
+            "what ",
+            "you ",
+            "get"
+          ]
+        },
+        {
+          "key": "20009|You name it I have it",
+          "text": "You name it I have it",
+          "segments": [
+            "You ",
+            "name ",
+            "it ",
+            "I ",
+            "have ",
+            "it"
+          ]
+        },
+        {
+          "key": "21983|What you see is what you get",
+          "text": "What you see is what you get",
+          "segments": [
+            "What ",
+            "you ",
+            "see ",
+            "is ",
+            "what ",
+            "you ",
+            "get"
+          ]
+        },
+        {
+          "key": "24320|左左左左",
+          "text": "左左左左",
+          "segments": [
+            "左",
+            "左",
+            "左",
+            "左"
+          ]
+        },
+        {
+          "key": "25946|偏左就用左手",
+          "text": "偏左就用左手",
+          "segments": [
+            "偏左",
+            "就用",
+            "左手"
+          ]
+        },
+        {
+          "key": "28028|生活就不用想太多",
+          "text": "生活就不用想太多",
+          "segments": [
+            "生活",
+            "就",
+            "不用",
+            "想",
+            "太多"
+          ]
+        },
+        {
+          "key": "32984|怦怦怦怦心动",
+          "text": "怦怦怦怦心动",
+          "segments": [
+            "怦怦",
+            "怦怦",
+            "心动"
+          ]
+        },
+        {
+          "key": "35168|张开眼睛",
+          "text": "张开眼睛",
+          "segments": [
+            "张开",
+            "眼睛"
+          ]
+        },
+        {
+          "key": "36692|就记得当下的强烈",
+          "text": "就记得当下的强烈",
+          "segments": [
+            "就",
+            "记得",
+            "当下",
+            "的",
+            "强烈"
+          ]
+        },
+        {
+          "key": "40704|有时灵光一闪而过",
+          "text": "有时灵光一闪而过",
+          "segments": [
+            "有时",
+            "灵光",
+            "一闪而过"
+          ]
+        },
+        {
+          "key": "43701|牛顿也吃苹果",
+          "text": "牛顿也吃苹果",
+          "segments": [
+            "牛顿",
+            "也",
+            "吃",
+            "苹果"
+          ]
+        },
+        {
+          "key": "49289|我的念头不太啰嗦",
+          "text": "我的念头不太啰嗦",
+          "segments": [
+            "我的",
+            "念头",
+            "不太",
+            "啰嗦"
+          ]
+        },
+        {
+          "key": "52283|限时间能入座",
+          "text": "限时间能入座",
+          "segments": [
+            "限",
+            "时间",
+            "能",
+            "入",
+            "座"
+          ]
+        },
+        {
+          "key": "56805|请你",
+          "text": "请你",
+          "segments": [
+            "请",
+            "你"
+          ]
+        },
+        {
+          "key": "57871|不要到处叩叩",
+          "text": "不要到处叩叩",
+          "segments": [
+            "不要",
+            "到处",
+            "叩",
+            "叩"
+          ]
+        },
+        {
+          "key": "60005|潮流需要抠抠",
+          "text": "潮流需要抠抠",
+          "segments": [
+            "潮流",
+            "需要",
+            "抠",
+            "抠"
+          ]
+        },
+        {
+          "key": "62139|不小心就没抠抠",
+          "text": "不小心就没抠抠",
+          "segments": [
+            "不小心",
+            "就",
+            "没",
+            "抠",
+            "抠"
+          ]
+        },
+        {
+          "key": "66457|用力到处扣扣",
+          "text": "用力到处扣扣",
+          "segments": [
+            "用力",
+            "到处",
+            "扣",
+            "扣"
+          ]
+        },
+        {
+          "key": "68589|花掉所有抠抠",
+          "text": "花掉所有抠抠",
+          "segments": [
+            "花掉",
+            "所有",
+            "抠",
+            "抠"
+          ]
+        },
+        {
+          "key": "70723|钱买不到绝活",
+          "text": "钱买不到绝活",
+          "segments": [
+            "钱",
+            "买",
+            "不到",
+            "绝活"
+          ]
+        },
+        {
+          "key": "76616|Yeah oh",
+          "text": "Yeah oh",
+          "segments": [
+            "Yeah ",
+            "oh"
+          ]
+        },
+        {
+          "key": "85307|Yeah oh",
+          "text": "Yeah oh",
+          "segments": [
+            "Yeah ",
+            "oh"
+          ]
+        },
+        {
+          "key": "93028|你说听说听说你听谁说",
+          "text": "你说听说听说你听谁说",
+          "segments": [
+            "你",
+            "说",
+            "听说",
+            "听说",
+            "你",
+            "听",
+            "谁",
+            "说"
+          ]
+        },
+        {
+          "key": "96919|跟着乱走闹哄哄",
+          "text": "跟着乱走闹哄哄",
+          "segments": [
+            "跟着",
+            "乱",
+            "走",
+            "闹",
+            "哄哄"
+          ]
+        },
+        {
+          "key": "101486|通通通通普通普通",
+          "text": "通通通通普通普通",
+          "segments": [
+            "通通",
+            "通通",
+            "普通",
+            "普通"
+          ]
+        },
+        {
+          "key": "104434|如果不懂",
+          "text": "如果不懂",
+          "segments": [
+            "如果",
+            "不懂"
+          ]
+        },
+        {
+          "key": "105759|不要随便拒绝",
+          "text": "不要随便拒绝",
+          "segments": [
+            "不要",
+            "随便",
+            "拒绝"
+          ]
+        },
+        {
+          "key": "109268|有时灵光一闪而过",
+          "text": "有时灵光一闪而过",
+          "segments": [
+            "有时",
+            "灵光",
+            "一闪而过"
+          ]
+        },
+        {
+          "key": "112265|牛顿也吃苹果",
+          "text": "牛顿也吃苹果",
+          "segments": [
+            "牛顿",
+            "也",
+            "吃",
+            "苹果"
+          ]
+        },
+        {
+          "key": "116586|Wo",
+          "text": "Wo",
+          "segments": [
+            "Wo"
+          ]
+        },
+        {
+          "key": "117857|我的念头不太啰嗦",
+          "text": "我的念头不太啰嗦",
+          "segments": [
+            "我的",
+            "念头",
+            "不太",
+            "啰嗦"
+          ]
+        },
+        {
+          "key": "120753|限时间能入座",
+          "text": "限时间能入座",
+          "segments": [
+            "限",
+            "时间",
+            "能",
+            "入",
+            "座"
+          ]
+        },
+        {
+          "key": "125279|请你",
+          "text": "请你",
+          "segments": [
+            "请",
+            "你"
+          ]
+        },
+        {
+          "key": "126396|不要到处叩叩",
+          "text": "不要到处叩叩",
+          "segments": [
+            "不要",
+            "到处",
+            "叩",
+            "叩"
+          ]
+        },
+        {
+          "key": "128482|潮流需要抠抠",
+          "text": "潮流需要抠抠",
+          "segments": [
+            "潮流",
+            "需要",
+            "抠",
+            "抠"
+          ]
+        },
+        {
+          "key": "130666|不小心就没抠抠",
+          "text": "不小心就没抠抠",
+          "segments": [
+            "不小心",
+            "就",
+            "没",
+            "抠",
+            "抠"
+          ]
+        },
+        {
+          "key": "133053|Wo",
+          "text": "Wo",
+          "segments": [
+            "Wo"
+          ]
+        },
+        {
+          "key": "134981|用力到处扣扣",
+          "text": "用力到处扣扣",
+          "segments": [
+            "用力",
+            "到处",
+            "扣",
+            "扣"
+          ]
+        },
+        {
+          "key": "137114|花掉所有抠抠",
+          "text": "花掉所有抠抠",
+          "segments": [
+            "花掉",
+            "所有",
+            "抠",
+            "抠"
+          ]
+        },
+        {
+          "key": "139247|钱买不到绝活",
+          "text": "钱买不到绝活",
+          "segments": [
+            "钱",
+            "买",
+            "不到",
+            "绝活"
+          ]
+        },
+        {
+          "key": "144884|Little chick having chips on my sofa",
+          "text": "Little chick having chips on my sofa",
+          "segments": [
+            "Little ",
+            "chick ",
+            "having ",
+            "chips ",
+            "on ",
+            "my ",
+            "sofa"
+          ]
+        },
+        {
+          "key": "146969|Bearbricks take a **** on my sofa",
+          "text": "Bearbricks take a **** on my sofa",
+          "segments": [
+            "Bearbricks ",
+            "take ",
+            "a ",
+            "*",
+            "*",
+            "*",
+            "* ",
+            "on ",
+            "my ",
+            "sofa"
+          ]
+        },
+        {
+          "key": "149103|Smudge babies lying on my sofa",
+          "text": "Smudge babies lying on my sofa",
+          "segments": [
+            "Smudge ",
+            "babies ",
+            "lying ",
+            "on ",
+            "my ",
+            "sofa"
+          ]
+        },
+        {
+          "key": "151533|Neighborhoods and kiks singing sofa",
+          "text": "Neighborhoods and kiks singing sofa",
+          "segments": [
+            "Neighborhoods ",
+            "and ",
+            "kiks ",
+            "singing ",
+            "sofa"
+          ]
+        },
+        {
+          "key": "153514|Little chick having chips on my sofa",
+          "text": "Little chick having chips on my sofa",
+          "segments": [
+            "Little ",
+            "chick ",
+            "having ",
+            "chips ",
+            "on ",
+            "my ",
+            "sofa"
+          ]
+        },
+        {
+          "key": "155762|Bearbricks take a sh*t on my sofa",
+          "text": "Bearbricks take a sh*t on my sofa",
+          "segments": [
+            "Bearbricks ",
+            "take ",
+            "a ",
+            "sh",
+            "*",
+            "t ",
+            "on ",
+            "my ",
+            "sofa"
+          ]
+        },
+        {
+          "key": "157743|Smudge babies lying on my sofa",
+          "text": "Smudge babies lying on my sofa",
+          "segments": [
+            "Smudge ",
+            "babies ",
+            "lying ",
+            "on ",
+            "my ",
+            "sofa"
+          ]
+        },
+        {
+          "key": "161505|Hey greedy don't fret",
+          "text": "Hey greedy don't fret",
+          "segments": [
+            "Hey ",
+            "greedy ",
+            "don't ",
+            "fret"
+          ]
+        },
+        {
+          "key": "163334|What you see is what you get",
+          "text": "What you see is what you get",
+          "segments": [
+            "What ",
+            "you ",
+            "see ",
+            "is ",
+            "what ",
+            "you ",
+            "get"
+          ]
+        },
+        {
+          "key": "165773|You name it I have it",
+          "text": "You name it I have it",
+          "segments": [
+            "You ",
+            "name ",
+            "it ",
+            "I ",
+            "have ",
+            "it"
+          ]
+        },
+        {
+          "key": "167650|What you see is what you get",
+          "text": "What you see is what you get",
+          "segments": [
+            "What ",
+            "you ",
+            "see ",
+            "is ",
+            "what ",
+            "you ",
+            "get"
+          ]
+        },
+        {
+          "key": "169276|Wo",
+          "text": "Wo",
+          "segments": [
+            "Wo"
+          ]
+        },
+        {
+          "key": "171758|Yeah",
+          "text": "Yeah",
+          "segments": [
+            "Yeah"
+          ]
+        },
+        {
+          "key": "176817|请你不要到处叩叩",
+          "text": "请你不要到处叩叩",
+          "segments": [
+            "请",
+            "你",
+            "不要",
+            "到处",
+            "叩",
+            "叩"
+          ]
+        },
+        {
+          "key": "180018|潮流需要抠抠",
+          "text": "潮流需要抠抠",
+          "segments": [
+            "潮流",
+            "需要",
+            "抠",
+            "抠"
+          ]
+        },
+        {
+          "key": "182150|不小心就没抠抠",
+          "text": "不小心就没抠抠",
+          "segments": [
+            "不小心",
+            "就",
+            "没",
+            "抠",
+            "抠"
+          ]
+        },
+        {
+          "key": "184639|Wo",
+          "text": "Wo",
+          "segments": [
+            "Wo"
+          ]
+        },
+        {
+          "key": "186468|用力到处扣扣",
+          "text": "用力到处扣扣",
+          "segments": [
+            "用力",
+            "到处",
+            "扣",
+            "扣"
+          ]
+        },
+        {
+          "key": "188550|花掉所有抠抠",
+          "text": "花掉所有抠抠",
+          "segments": [
+            "花掉",
+            "所有",
+            "抠",
+            "抠"
+          ]
+        },
+        {
+          "key": "190735|钱买不到绝活",
+          "text": "钱买不到绝活",
+          "segments": [
+            "钱",
+            "买",
+            "不到",
+            "绝活"
+          ]
+        },
+        {
+          "key": "193429|Yeah yeah yeah yeah",
+          "text": "Yeah yeah yeah yeah",
+          "segments": [
+            "Yeah ",
+            "yeah ",
+            "yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "195920|Hey greedy don't fret",
+          "text": "Hey greedy don't fret",
+          "segments": [
+            "Hey ",
+            "greedy ",
+            "don't ",
+            "fret"
+          ]
+        },
+        {
+          "key": "197648|What you see is what you get",
+          "text": "What you see is what you get",
+          "segments": [
+            "What ",
+            "you ",
+            "see ",
+            "is ",
+            "what ",
+            "you ",
+            "get"
+          ]
+        },
+        {
+          "key": "199741|不要到处叩叩",
+          "text": "不要到处叩叩",
+          "segments": [
+            "不要",
+            "到处",
+            "叩",
+            "叩"
+          ]
+        },
+        {
+          "key": "200606|You name it I have it",
+          "text": "You name it I have it",
+          "segments": [
+            "You ",
+            "name ",
+            "it ",
+            "I ",
+            "have ",
+            "it"
+          ]
+        },
+        {
+          "key": "201979|What you see is what you get",
+          "text": "What you see is what you get",
+          "segments": [
+            "What ",
+            "you ",
+            "see ",
+            "is ",
+            "what ",
+            "you ",
+            "get"
+          ]
+        },
+        {
+          "key": "203836|不要到处叩叩",
+          "text": "不要到处叩叩",
+          "segments": [
+            "不要",
+            "到处",
+            "叩",
+            "叩"
+          ]
+        },
+        {
+          "key": "204750|Hey greedy don't fret",
+          "text": "Hey greedy don't fret",
+          "segments": [
+            "Hey ",
+            "greedy ",
+            "don't ",
+            "fret"
+          ]
+        },
+        {
+          "key": "206223|What you see is what you get",
+          "text": "What you see is what you get",
+          "segments": [
+            "What ",
+            "you ",
+            "see ",
+            "is ",
+            "what ",
+            "you ",
+            "get"
+          ]
+        },
+        {
+          "key": "208823|You name it I have it",
+          "text": "You name it I have it",
+          "segments": [
+            "You ",
+            "name ",
+            "it ",
+            "I ",
+            "have ",
+            "it"
+          ]
+        },
+        {
+          "key": "210551|What you see is what you get",
+          "text": "What you see is what you get",
+          "segments": [
+            "What ",
+            "you ",
+            "see ",
+            "is ",
+            "what ",
+            "you ",
+            "get"
+          ]
+        },
+        {
+          "key": "212383|喔噢",
+          "text": "喔噢",
+          "segments": [
+            "喔",
+            "噢"
+          ]
+        },
+        {
+          "key": "213248|扣扣扣扣",
+          "text": "扣扣扣扣",
+          "segments": [
+            "扣",
+            "扣",
+            "扣",
+            "扣"
+          ]
+        },
+        {
+          "key": "216653|喔噢",
+          "text": "喔噢",
+          "segments": [
+            "喔",
+            "噢"
+          ]
+        }
+      ]
+    }
+  ]
+}

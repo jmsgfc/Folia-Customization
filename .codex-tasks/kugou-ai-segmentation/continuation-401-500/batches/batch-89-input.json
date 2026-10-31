@@ -1,0 +1,985 @@
+{
+  "batchNumber": 89,
+  "songs": [
+    {
+      "rank": 441,
+      "songKey": "online:kugou:78641033f245fae0a0c0faa9f09d8325",
+      "name": "Running Up That Hill",
+      "artist": "Baltic House Orchestra",
+      "lines": [
+        {
+          "key": "0|Baltic House Orchestra - Running Up That Hill",
+          "startMs": 0,
+          "text": "Baltic House Orchestra - Running Up That Hill"
+        },
+        {
+          "key": "2720|Lyrics by：Kate Bush",
+          "startMs": 2720,
+          "text": "Lyrics by：Kate Bush"
+        },
+        {
+          "key": "3498|Composed by：Kate Bush",
+          "startMs": 3498,
+          "text": "Composed by：Kate Bush"
+        },
+        {
+          "key": "4275|It doesn't hurt me",
+          "startMs": 4275,
+          "text": "It doesn't hurt me"
+        },
+        {
+          "key": "7363|Do you wanna feel how it feels",
+          "startMs": 7363,
+          "text": "Do you wanna feel how it feels"
+        },
+        {
+          "key": "11515|Do you wanna know know that it doesn't hurt me",
+          "startMs": 11515,
+          "text": "Do you wanna know know that it doesn't hurt me"
+        },
+        {
+          "key": "15894|Do you wanna hear about the deal that I'm makin'",
+          "startMs": 15894,
+          "text": "Do you wanna hear about the deal that I'm makin'"
+        },
+        {
+          "key": "21073|You",
+          "startMs": 21073,
+          "text": "You"
+        },
+        {
+          "key": "25045|You and me",
+          "startMs": 25045,
+          "text": "You and me"
+        },
+        {
+          "key": "32036|You and me",
+          "startMs": 32036,
+          "text": "You and me"
+        },
+        {
+          "key": "52765|You don't wanna hurt me",
+          "startMs": 52765,
+          "text": "You don't wanna hurt me"
+        },
+        {
+          "key": "54277|Yeah yeah yo",
+          "startMs": 54277,
+          "text": "Yeah yeah yo"
+        },
+        {
+          "key": "56148|But see how deep the bullet lies",
+          "startMs": 56148,
+          "text": "But see how deep the bullet lies"
+        },
+        {
+          "key": "58676|Yeah yeah yo",
+          "startMs": 58676,
+          "text": "Yeah yeah yo"
+        },
+        {
+          "key": "60574|Unaware I'm tearin' you asunder",
+          "startMs": 60574,
+          "text": "Unaware I'm tearin' you asunder"
+        },
+        {
+          "key": "63121|Yeah yeah yo",
+          "startMs": 63121,
+          "text": "Yeah yeah yo"
+        },
+        {
+          "key": "65024|Oh there is thunder in our hearts",
+          "startMs": 65024,
+          "text": "Oh there is thunder in our hearts"
+        },
+        {
+          "key": "67760|Yeah yeah yo",
+          "startMs": 67760,
+          "text": "Yeah yeah yo"
+        },
+        {
+          "key": "69497|Is there so much hate for the ones we love",
+          "startMs": 69497,
+          "text": "Is there so much hate for the ones we love"
+        },
+        {
+          "key": "72031|Yeah yeah yo",
+          "startMs": 72031,
+          "text": "Yeah yeah yo"
+        },
+        {
+          "key": "73864|Oh tell me we both matter don't we",
+          "startMs": 73864,
+          "text": "Oh tell me we both matter don't we"
+        },
+        {
+          "key": "76841|Yeah yeah yo",
+          "startMs": 76841,
+          "text": "Yeah yeah yo"
+        },
+        {
+          "key": "78472|You",
+          "startMs": 78472,
+          "text": "You"
+        },
+        {
+          "key": "82560|It's you and me",
+          "startMs": 82560,
+          "text": "It's you and me"
+        },
+        {
+          "key": "87032|It's you and me won't be unhappy",
+          "startMs": 87032,
+          "text": "It's you and me won't be unhappy"
+        },
+        {
+          "key": "91088|And if I only could",
+          "startMs": 91088,
+          "text": "And if I only could"
+        },
+        {
+          "key": "92976|I'd make a deal with God",
+          "startMs": 92976,
+          "text": "I'd make a deal with God"
+        },
+        {
+          "key": "95231|And I'd get him to swap our places",
+          "startMs": 95231,
+          "text": "And I'd get him to swap our places"
+        },
+        {
+          "key": "98722|Be runnin' up that road",
+          "startMs": 98722,
+          "text": "Be runnin' up that road"
+        },
+        {
+          "key": "100936|Be runnin' up that hill",
+          "startMs": 100936,
+          "text": "Be runnin' up that hill"
+        },
+        {
+          "key": "103168|Be runnin' up that buildin'",
+          "startMs": 103168,
+          "text": "Be runnin' up that buildin'"
+        },
+        {
+          "key": "106157|Yo",
+          "startMs": 106157,
+          "text": "Yo"
+        },
+        {
+          "key": "107693|Say if I only could oh",
+          "startMs": 107693,
+          "text": "Say if I only could oh"
+        },
+        {
+          "key": "118328|Come on baby",
+          "startMs": 118328,
+          "text": "Come on baby"
+        },
+        {
+          "key": "120536|Come on darlin'",
+          "startMs": 120536,
+          "text": "Come on darlin'"
+        },
+        {
+          "key": "122735|Let me steal this moment from you now",
+          "startMs": 122735,
+          "text": "Let me steal this moment from you now"
+        },
+        {
+          "key": "127202|Come on baby",
+          "startMs": 127202,
+          "text": "Come on baby"
+        },
+        {
+          "key": "129447|Come on darlin'",
+          "startMs": 129447,
+          "text": "Come on darlin'"
+        },
+        {
+          "key": "131539|Let me steal this moment from you now",
+          "startMs": 131539,
+          "text": "Let me steal this moment from you now"
+        },
+        {
+          "key": "136139|Come on angel",
+          "startMs": 136139,
+          "text": "Come on angel"
+        },
+        {
+          "key": "137859|Come on come on darlin'",
+          "startMs": 137859,
+          "text": "Come on come on darlin'"
+        },
+        {
+          "key": "140467|Let's exchange the experience",
+          "startMs": 140467,
+          "text": "Let's exchange the experience"
+        },
+        {
+          "key": "144887|Yo ooh ooh",
+          "startMs": 144887,
+          "text": "Yo ooh ooh"
+        },
+        {
+          "key": "175293|And if I only could",
+          "startMs": 175293,
+          "text": "And if I only could"
+        },
+        {
+          "key": "177436|I'd make a deal with God",
+          "startMs": 177436,
+          "text": "I'd make a deal with God"
+        },
+        {
+          "key": "179685|And I'd get him to swap our places",
+          "startMs": 179685,
+          "text": "And I'd get him to swap our places"
+        },
+        {
+          "key": "183149|I'd be runnin' up that road",
+          "startMs": 183149,
+          "text": "I'd be runnin' up that road"
+        },
+        {
+          "key": "185334|Be runnin' up that hill",
+          "startMs": 185334,
+          "text": "Be runnin' up that hill"
+        },
+        {
+          "key": "187505|Be runnin' up that buildin'",
+          "startMs": 187505,
+          "text": "Be runnin' up that buildin'"
+        },
+        {
+          "key": "192082|Say if I only could",
+          "startMs": 192082,
+          "text": "Say if I only could"
+        },
+        {
+          "key": "194467|I'd make a deal with God",
+          "startMs": 194467,
+          "text": "I'd make a deal with God"
+        },
+        {
+          "key": "196864|And I'd get him to swap our places",
+          "startMs": 196864,
+          "text": "And I'd get him to swap our places"
+        },
+        {
+          "key": "200970|I'd be runnin' up that road",
+          "startMs": 200970,
+          "text": "I'd be runnin' up that road"
+        },
+        {
+          "key": "203138|Be runnin' up that hill",
+          "startMs": 203138,
+          "text": "Be runnin' up that hill"
+        },
+        {
+          "key": "205926|With no problems",
+          "startMs": 205926,
+          "text": "With no problems"
+        },
+        {
+          "key": "209884|Say if I only could",
+          "startMs": 209884,
+          "text": "Say if I only could"
+        },
+        {
+          "key": "212014|Yeah yeah yo",
+          "startMs": 212014,
+          "text": "Yeah yeah yo"
+        },
+        {
+          "key": "214455|Be runnin' up that hill",
+          "startMs": 214455,
+          "text": "Be runnin' up that hill"
+        },
+        {
+          "key": "216586|Yeah yeah yo",
+          "startMs": 216586,
+          "text": "Yeah yeah yo"
+        },
+        {
+          "key": "219440|With no problems",
+          "startMs": 219440,
+          "text": "With no problems"
+        }
+      ]
+    },
+    {
+      "rank": 442,
+      "songKey": "online:kugou:64af19827fab3404800adee843eb7823",
+      "name": "僕らはそれを愛と呼んだ (我们称其为爱)",
+      "artist": "あたらよ",
+      "lines": [
+        {
+          "key": "0|あたらよ - 僕らはそれを愛と呼んだ",
+          "startMs": 0,
+          "text": "あたらよ - 僕らはそれを愛と呼んだ"
+        },
+        {
+          "key": "13108|词：ひとみ",
+          "startMs": 13108,
+          "text": "词：ひとみ"
+        },
+        {
+          "key": "16749|曲：ひとみ",
+          "startMs": 16749,
+          "text": "曲：ひとみ"
+        },
+        {
+          "key": "21818|花びら散る午前二時に",
+          "startMs": 21818,
+          "text": "花びら散る午前二時に"
+        },
+        {
+          "key": "25472|誰かが泣いていたんだ",
+          "startMs": 25472,
+          "text": "誰かが泣いていたんだ"
+        },
+        {
+          "key": "31174|差し伸べた掌の上",
+          "startMs": 31174,
+          "text": "差し伸べた掌の上"
+        },
+        {
+          "key": "34985|残った花は萎れていた",
+          "startMs": 34985,
+          "text": "残った花は萎れていた"
+        },
+        {
+          "key": "49741|変われないのならそこまで",
+          "startMs": 49741,
+          "text": "変われないのならそこまで"
+        },
+        {
+          "key": "54400|変わりたくないものまで",
+          "startMs": 54400,
+          "text": "変わりたくないものまで"
+        },
+        {
+          "key": "59104|変わってしまうのは何故でしょう",
+          "startMs": 59104,
+          "text": "変わってしまうのは何故でしょう"
+        },
+        {
+          "key": "68102|茜色染まる空の下",
+          "startMs": 68102,
+          "text": "茜色染まる空の下"
+        },
+        {
+          "key": "72947|僕らはそれを愛と呼んだ",
+          "startMs": 72947,
+          "text": "僕らはそれを愛と呼んだ"
+        },
+        {
+          "key": "77839|普遍的な何かが作った",
+          "startMs": 77839,
+          "text": "普遍的な何かが作った"
+        },
+        {
+          "key": "80192|くだらない形の愛を",
+          "startMs": 80192,
+          "text": "くだらない形の愛を"
+        },
+        {
+          "key": "82508|でこぼこなままで良いと抱きしめ",
+          "startMs": 82508,
+          "text": "でこぼこなままで良いと抱きしめ"
+        },
+        {
+          "key": "87388|心が傷つくことなど",
+          "startMs": 87388,
+          "text": "心が傷つくことなど"
+        },
+        {
+          "key": "91209|その棘さえも愛おしいと",
+          "startMs": 91209,
+          "text": "その棘さえも愛おしいと"
+        },
+        {
+          "key": "96210|泣いたあの日を想っている",
+          "startMs": 96210,
+          "text": "泣いたあの日を想っている"
+        },
+        {
+          "key": "106574|思い出散る午前3時",
+          "startMs": 106574,
+          "text": "思い出散る午前3時"
+        },
+        {
+          "key": "110329|誰かが笑っていた",
+          "startMs": 110329,
+          "text": "誰かが笑っていた"
+        },
+        {
+          "key": "115849|木漏れ日のような街灯に",
+          "startMs": 115849,
+          "text": "木漏れ日のような街灯に"
+        },
+        {
+          "key": "119654|濁った夜を預けていた",
+          "startMs": 119654,
+          "text": "濁った夜を預けていた"
+        },
+        {
+          "key": "125361|分からないのならそこまで",
+          "startMs": 125361,
+          "text": "分からないのならそこまで"
+        },
+        {
+          "key": "129666|分かり合えない事まで",
+          "startMs": 129666,
+          "text": "分かり合えない事まで"
+        },
+        {
+          "key": "134405|分かったフリするのは",
+          "startMs": 134405,
+          "text": "分かったフリするのは"
+        },
+        {
+          "key": "137738|何故でしょう",
+          "startMs": 137738,
+          "text": "何故でしょう"
+        },
+        {
+          "key": "143277|茜色染まる空の下",
+          "startMs": 143277,
+          "text": "茜色染まる空の下"
+        },
+        {
+          "key": "148197|僕らはそれを愛と呼んだ",
+          "startMs": 148197,
+          "text": "僕らはそれを愛と呼んだ"
+        },
+        {
+          "key": "153121|普遍的な何かが作った",
+          "startMs": 153121,
+          "text": "普遍的な何かが作った"
+        },
+        {
+          "key": "155399|くだらない形の愛を",
+          "startMs": 155399,
+          "text": "くだらない形の愛を"
+        },
+        {
+          "key": "157889|凸凹なままで良いと抱きしめ",
+          "startMs": 157889,
+          "text": "凸凹なままで良いと抱きしめ"
+        },
+        {
+          "key": "162633|身体が傷つくことなど",
+          "startMs": 162633,
+          "text": "身体が傷つくことなど"
+        },
+        {
+          "key": "166493|その棘さえも愛おしいと",
+          "startMs": 166493,
+          "text": "その棘さえも愛おしいと"
+        },
+        {
+          "key": "171516|泣いたあの日を描いている",
+          "startMs": 171516,
+          "text": "泣いたあの日を描いている"
+        },
+        {
+          "key": "200629|心が傷つく事など知らない",
+          "startMs": 200629,
+          "text": "心が傷つく事など知らない"
+        },
+        {
+          "key": "204510|分からないこと集めていた",
+          "startMs": 204510,
+          "text": "分からないこと集めていた"
+        },
+        {
+          "key": "209144|知らないものばかり集めては",
+          "startMs": 209144,
+          "text": "知らないものばかり集めては"
+        },
+        {
+          "key": "216516|解けないでいた夜",
+          "startMs": 216516,
+          "text": "解けないでいた夜"
+        },
+        {
+          "key": "219479|そうやって拾った灯で",
+          "startMs": 219479,
+          "text": "そうやって拾った灯で"
+        },
+        {
+          "key": "221737|照らした夜には",
+          "startMs": 221737,
+          "text": "照らした夜には"
+        },
+        {
+          "key": "224093|誰かがきっとそう",
+          "startMs": 224093,
+          "text": "誰かがきっとそう"
+        },
+        {
+          "key": "226037|寄り添ってくれて居ると思うんだ",
+          "startMs": 226037,
+          "text": "寄り添ってくれて居ると思うんだ"
+        },
+        {
+          "key": "246729|茜色染まる空の下",
+          "startMs": 246729,
+          "text": "茜色染まる空の下"
+        },
+        {
+          "key": "251793|僕らはそれを愛と呼んだ",
+          "startMs": 251793,
+          "text": "僕らはそれを愛と呼んだ"
+        },
+        {
+          "key": "256632|茜色染まる空の下",
+          "startMs": 256632,
+          "text": "茜色染まる空の下"
+        },
+        {
+          "key": "261148|僕らはそれを愛と呼んだ",
+          "startMs": 261148,
+          "text": "僕らはそれを愛と呼んだ"
+        },
+        {
+          "key": "266015|普遍的な何かが作った",
+          "startMs": 266015,
+          "text": "普遍的な何かが作った"
+        },
+        {
+          "key": "268364|くだらない形の愛を",
+          "startMs": 268364,
+          "text": "くだらない形の愛を"
+        },
+        {
+          "key": "270670|でこぼこなままで良いと抱きしめ",
+          "startMs": 270670,
+          "text": "でこぼこなままで良いと抱きしめ"
+        },
+        {
+          "key": "275602|身体が傷つくことなど",
+          "startMs": 275602,
+          "text": "身体が傷つくことなど"
+        },
+        {
+          "key": "279461|その声さえも愛おしいと",
+          "startMs": 279461,
+          "text": "その声さえも愛おしいと"
+        },
+        {
+          "key": "284444|泣いたあの日を覚えている",
+          "startMs": 284444,
+          "text": "泣いたあの日を覚えている"
+        },
+        {
+          "key": "293583|僕ら変われないまま",
+          "startMs": 293583,
+          "text": "僕ら変われないまま"
+        }
+      ]
+    },
+    {
+      "rank": 443,
+      "songKey": "online:kugou:24828f904b99e8810244141d97037624",
+      "name": "Levels",
+      "artist": "JordanBeats",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 444,
+      "songKey": "online:kugou:b083a990e1910961b391c1b7bffd8cd2",
+      "name": "Lost Control (XXXDAION0.8X版)",
+      "artist": "Tyron Hapi / Bianca",
+      "lines": [
+        {
+          "key": "0|Tyron Hapi、Bianca - Lost Control (XXXDAION0.8X版)",
+          "startMs": 0,
+          "text": "Tyron Hapi、Bianca - Lost Control (XXXDAION0.8X版)"
+        },
+        {
+          "key": "19418|The trees were weeping in the evenings",
+          "startMs": 19418,
+          "text": "The trees were weeping in the evenings"
+        },
+        {
+          "key": "25038|Where we used to pass them by",
+          "startMs": 25038,
+          "text": "Where we used to pass them by"
+        },
+        {
+          "key": "28508|The air was cold without that feeling",
+          "startMs": 28508,
+          "text": "The air was cold without that feeling"
+        },
+        {
+          "key": "34288|Of you there by my side",
+          "startMs": 34288,
+          "text": "Of you there by my side"
+        },
+        {
+          "key": "37728|I try to hear the words that you'd say",
+          "startMs": 37728,
+          "text": "I try to hear the words that you'd say"
+        },
+        {
+          "key": "42368|The light you gave me isn't there",
+          "startMs": 42368,
+          "text": "The light you gave me isn't there"
+        },
+        {
+          "key": "46998|A little didn't go a long way",
+          "startMs": 46998,
+          "text": "A little didn't go a long way"
+        },
+        {
+          "key": "50438|Now I see darkness everywhere",
+          "startMs": 50438,
+          "text": "Now I see darkness everywhere"
+        },
+        {
+          "key": "57378|I'm over believing",
+          "startMs": 57378,
+          "text": "I'm over believing"
+        },
+        {
+          "key": "61988|'Cause nothing can bring you home",
+          "startMs": 61988,
+          "text": "'Cause nothing can bring you home"
+        },
+        {
+          "key": "65208|I can't find a meaning",
+          "startMs": 65208,
+          "text": "I can't find a meaning"
+        },
+        {
+          "key": "71198|You left me without a soul",
+          "startMs": 71198,
+          "text": "You left me without a soul"
+        },
+        {
+          "key": "75828|I'm over believing",
+          "startMs": 75828,
+          "text": "I'm over believing"
+        },
+        {
+          "key": "80418|'Cause nothing can bring you home",
+          "startMs": 80418,
+          "text": "'Cause nothing can bring you home"
+        },
+        {
+          "key": "85038|I can't find a meaning",
+          "startMs": 85038,
+          "text": "I can't find a meaning"
+        },
+        {
+          "key": "90508|I've lost control",
+          "startMs": 90508,
+          "text": "I've lost control"
+        },
+        {
+          "key": "108152|Of you there by my side",
+          "startMs": 108152,
+          "text": "Of you there by my side"
+        },
+        {
+          "key": "126362|Of you there by my side",
+          "startMs": 126362,
+          "text": "Of you there by my side"
+        },
+        {
+          "key": "145918|I've lost control",
+          "startMs": 145918,
+          "text": "I've lost control"
+        },
+        {
+          "key": "167258|When they told me you were gone",
+          "startMs": 167258,
+          "text": "When they told me you were gone"
+        },
+        {
+          "key": "172238|I felt something caving in",
+          "startMs": 172238,
+          "text": "I felt something caving in"
+        },
+        {
+          "key": "176218|The weeks that passed felt way to long",
+          "startMs": 176218,
+          "text": "The weeks that passed felt way to long"
+        },
+        {
+          "key": "181708|Alone here",
+          "startMs": 181708,
+          "text": "Alone here"
+        },
+        {
+          "key": "185428|I try to hear the words that you'd say",
+          "startMs": 185428,
+          "text": "I try to hear the words that you'd say"
+        },
+        {
+          "key": "190038|The light you gave me isn't there",
+          "startMs": 190038,
+          "text": "The light you gave me isn't there"
+        },
+        {
+          "key": "194678|A little didn't go a long way",
+          "startMs": 194678,
+          "text": "A little didn't go a long way"
+        },
+        {
+          "key": "198108|Now I see darkness everywhere",
+          "startMs": 198108,
+          "text": "Now I see darkness everywhere"
+        },
+        {
+          "key": "205038|I'm over believing",
+          "startMs": 205038,
+          "text": "I'm over believing"
+        },
+        {
+          "key": "209678|'Cause nothing can bring you home",
+          "startMs": 209678,
+          "text": "'Cause nothing can bring you home"
+        },
+        {
+          "key": "214278|I can't find a meaning",
+          "startMs": 214278,
+          "text": "I can't find a meaning"
+        },
+        {
+          "key": "218888|You left me without a soul",
+          "startMs": 218888,
+          "text": "You left me without a soul"
+        },
+        {
+          "key": "223538|I'm over believing",
+          "startMs": 223538,
+          "text": "I'm over believing"
+        },
+        {
+          "key": "228108|'Cause nothing can bring you home",
+          "startMs": 228108,
+          "text": "'Cause nothing can bring you home"
+        },
+        {
+          "key": "232738|I can't find a meaning",
+          "startMs": 232738,
+          "text": "I can't find a meaning"
+        },
+        {
+          "key": "238178|I've lost control",
+          "startMs": 238178,
+          "text": "I've lost control"
+        },
+        {
+          "key": "245178|Of you there by my side",
+          "startMs": 245178,
+          "text": "Of you there by my side"
+        },
+        {
+          "key": "274008|Of you there by my side",
+          "startMs": 274008,
+          "text": "Of you there by my side"
+        }
+      ]
+    },
+    {
+      "rank": 445,
+      "songKey": "online:kugou:3a63762a47f87d5bfaab6a6d50b7e9d2",
+      "name": "Lost Control (Savior Remix)",
+      "artist": "Tyron Hapi / Bianca / Savior",
+      "lines": [
+        {
+          "key": "0| Lost Control (Savior Remix) - Tyron Hapi、Bianca、Savior",
+          "startMs": 0,
+          "text": " Lost Control (Savior Remix) - Tyron Hapi、Bianca、Savior"
+        },
+        {
+          "key": "980|Lyrics by：Tyron Hapi",
+          "startMs": 980,
+          "text": "Lyrics by：Tyron Hapi"
+        },
+        {
+          "key": "18803|Composed by：Tyron Hapi",
+          "startMs": 18803,
+          "text": "Composed by：Tyron Hapi"
+        },
+        {
+          "key": "18803|The trees were weeping in the evenings",
+          "startMs": 18803,
+          "text": "The trees were weeping in the evenings"
+        },
+        {
+          "key": "24176|Of you there by my side",
+          "startMs": 24176,
+          "text": "Of you there by my side"
+        },
+        {
+          "key": "27642|I try to hear the words that you'd say",
+          "startMs": 27642,
+          "text": "I try to hear the words that you'd say"
+        },
+        {
+          "key": "32023|The light you gave me isn't there",
+          "startMs": 32023,
+          "text": "The light you gave me isn't there"
+        },
+        {
+          "key": "36352|A little didn't go a long way",
+          "startMs": 36352,
+          "text": "A little didn't go a long way"
+        },
+        {
+          "key": "39591|Now I see darkness everywhere",
+          "startMs": 39591,
+          "text": "Now I see darkness everywhere"
+        },
+        {
+          "key": "43767|'Cause nothing can bring you home",
+          "startMs": 43767,
+          "text": "'Cause nothing can bring you home"
+        },
+        {
+          "key": "47832|I can't find a meaning",
+          "startMs": 47832,
+          "text": "I can't find a meaning"
+        },
+        {
+          "key": "52122|You left me without a soul",
+          "startMs": 52122,
+          "text": "You left me without a soul"
+        },
+        {
+          "key": "56672|I'm over believing",
+          "startMs": 56672,
+          "text": "I'm over believing"
+        },
+        {
+          "key": "60832|'Cause nothing can bring you home",
+          "startMs": 60832,
+          "text": "'Cause nothing can bring you home"
+        },
+        {
+          "key": "65324|I can't find a meaning",
+          "startMs": 65324,
+          "text": "I can't find a meaning"
+        },
+        {
+          "key": "70905|I've lost control",
+          "startMs": 70905,
+          "text": "I've lost control"
+        },
+        {
+          "key": "87699|Of you there by my side",
+          "startMs": 87699,
+          "text": "Of you there by my side"
+        },
+        {
+          "key": "105161|Of you there by my side",
+          "startMs": 105161,
+          "text": "Of you there by my side"
+        },
+        {
+          "key": "123321|I've lost control",
+          "startMs": 123321,
+          "text": "I've lost control"
+        },
+        {
+          "key": "143507|When they told me you were gone",
+          "startMs": 143507,
+          "text": "When they told me you were gone"
+        },
+        {
+          "key": "148399|I felt something caving in",
+          "startMs": 148399,
+          "text": "I felt something caving in"
+        },
+        {
+          "key": "151743|The weeks that passed felt way to long",
+          "startMs": 151743,
+          "text": "The weeks that passed felt way to long"
+        },
+        {
+          "key": "157274|Alone here",
+          "startMs": 157274,
+          "text": "Alone here"
+        },
+        {
+          "key": "160365|I try to hear the words that you'd say",
+          "startMs": 160365,
+          "text": "I try to hear the words that you'd say"
+        },
+        {
+          "key": "164593|The light you gave me isn't there",
+          "startMs": 164593,
+          "text": "The light you gave me isn't there"
+        },
+        {
+          "key": "168956|A little didn't go a long way",
+          "startMs": 168956,
+          "text": "A little didn't go a long way"
+        },
+        {
+          "key": "172479|Now I see darkness everywhere",
+          "startMs": 172479,
+          "text": "Now I see darkness everywhere"
+        },
+        {
+          "key": "178862|I'm over believing",
+          "startMs": 178862,
+          "text": "I'm over believing"
+        },
+        {
+          "key": "183158|'Cause nothing can bring you home",
+          "startMs": 183158,
+          "text": "'Cause nothing can bring you home"
+        },
+        {
+          "key": "187504|I can't find a meaning",
+          "startMs": 187504,
+          "text": "I can't find a meaning"
+        },
+        {
+          "key": "191833|You left me without a soul",
+          "startMs": 191833,
+          "text": "You left me without a soul"
+        },
+        {
+          "key": "196371|I'm over believing",
+          "startMs": 196371,
+          "text": "I'm over believing"
+        },
+        {
+          "key": "200585|'Cause nothing can bring you home",
+          "startMs": 200585,
+          "text": "'Cause nothing can bring you home"
+        },
+        {
+          "key": "204997|I can't find a meaning",
+          "startMs": 204997,
+          "text": "I can't find a meaning"
+        },
+        {
+          "key": "219612|Of you there by my side",
+          "startMs": 219612,
+          "text": "Of you there by my side"
+        },
+        {
+          "key": "237050|Of you there by my side",
+          "startMs": 237050,
+          "text": "Of you there by my side"
+        }
+      ]
+    }
+  ]
+}

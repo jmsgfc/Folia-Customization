@@ -1,0 +1,1020 @@
+{
+  "batchNumber": 87,
+  "songs": [
+    {
+      "rank": 431,
+      "songKey": "online:kugou:3f218a6e7a8828f19dbef4cf55d73652",
+      "name": "MY ALL",
+      "artist": "浜崎あゆみ",
+      "lines": [
+        {
+          "key": "0|MY ALL - 浜崎あゆみ (滨崎步)",
+          "startMs": 0,
+          "text": "MY ALL - 浜崎あゆみ (滨崎步)"
+        },
+        {
+          "key": "6550|词：浜崎あゆみ",
+          "startMs": 6550,
+          "text": "词：浜崎あゆみ"
+        },
+        {
+          "key": "13100|曲：汤汲哲也",
+          "startMs": 13100,
+          "text": "曲：汤汲哲也"
+        },
+        {
+          "key": "19660|一体もうどれ位の時間を",
+          "startMs": 19660,
+          "text": "一体もうどれ位の時間を"
+        },
+        {
+          "key": "23470|共に過ごして来たんだろう",
+          "startMs": 23470,
+          "text": "共に過ごして来たんだろう"
+        },
+        {
+          "key": "28650|一体もうどれ位の距離を",
+          "startMs": 28650,
+          "text": "一体もうどれ位の距離を"
+        },
+        {
+          "key": "32710|共に進んだだろう",
+          "startMs": 32710,
+          "text": "共に進んだだろう"
+        },
+        {
+          "key": "38010|僕達がこれまでに残してきた",
+          "startMs": 38010,
+          "text": "僕達がこれまでに残してきた"
+        },
+        {
+          "key": "41940|完璧じゃなくともキラキラした",
+          "startMs": 41940,
+          "text": "完璧じゃなくともキラキラした"
+        },
+        {
+          "key": "47120|結晶が今ここに誇らしげに",
+          "startMs": 47120,
+          "text": "結晶が今ここに誇らしげに"
+        },
+        {
+          "key": "51180|輝き放っている",
+          "startMs": 51180,
+          "text": "輝き放っている"
+        },
+        {
+          "key": "55480|楽しいこと嬉しいこと",
+          "startMs": 55480,
+          "text": "楽しいこと嬉しいこと"
+        },
+        {
+          "key": "60090|ばかりだったとは正直",
+          "startMs": 60090,
+          "text": "ばかりだったとは正直"
+        },
+        {
+          "key": "64720|言えないけどいつでも",
+          "startMs": 64720,
+          "text": "言えないけどいつでも"
+        },
+        {
+          "key": "69020|ひとりじゃなかったから",
+          "startMs": 69020,
+          "text": "ひとりじゃなかったから"
+        },
+        {
+          "key": "73950|あなたに夢を見せたい",
+          "startMs": 73950,
+          "text": "あなたに夢を見せたい"
+        },
+        {
+          "key": "78830|終わらなくて消えなくて",
+          "startMs": 78830,
+          "text": "終わらなくて消えなくて"
+        },
+        {
+          "key": "83440|そんな夢を見て欲しい",
+          "startMs": 83440,
+          "text": "そんな夢を見て欲しい"
+        },
+        {
+          "key": "88050|それが僕の願いです",
+          "startMs": 88050,
+          "text": "それが僕の願いです"
+        },
+        {
+          "key": "92860|あなたを守って行きたい",
+          "startMs": 92860,
+          "text": "あなたを守って行きたい"
+        },
+        {
+          "key": "97300|たとえ何がおきようとも",
+          "startMs": 97300,
+          "text": "たとえ何がおきようとも"
+        },
+        {
+          "key": "101910|僕の全てであなたを",
+          "startMs": 101910,
+          "text": "僕の全てであなたを"
+        },
+        {
+          "key": "106460|守り続けて行きます",
+          "startMs": 106460,
+          "text": "守り続けて行きます"
+        },
+        {
+          "key": "129860|悔やんでる事なんてひとつさえ",
+          "startMs": 129860,
+          "text": "悔やんでる事なんてひとつさえ"
+        },
+        {
+          "key": "134230|ないと今でも言い切れるよ",
+          "startMs": 134230,
+          "text": "ないと今でも言い切れるよ"
+        },
+        {
+          "key": "139410|僕達はいつだって全力で",
+          "startMs": 139410,
+          "text": "僕達はいつだって全力で"
+        },
+        {
+          "key": "143530|戦い抜いて来た",
+          "startMs": 143530,
+          "text": "戦い抜いて来た"
+        },
+        {
+          "key": "147960|つらい夜もやりきれない",
+          "startMs": 147960,
+          "text": "つらい夜もやりきれない"
+        },
+        {
+          "key": "152390|思いをした日々も正直",
+          "startMs": 152390,
+          "text": "思いをした日々も正直"
+        },
+        {
+          "key": "157010|あったけれどいつでも",
+          "startMs": 157010,
+          "text": "あったけれどいつでも"
+        },
+        {
+          "key": "161380|ひとりじゃなかったから",
+          "startMs": 161380,
+          "text": "ひとりじゃなかったから"
+        },
+        {
+          "key": "166560|あなたの笑顔が見える",
+          "startMs": 166560,
+          "text": "あなたの笑顔が見える"
+        },
+        {
+          "key": "171110|愛おしくて眩しくて",
+          "startMs": 171110,
+          "text": "愛おしくて眩しくて"
+        },
+        {
+          "key": "175730|その笑顔が見たくて",
+          "startMs": 175730,
+          "text": "その笑顔が見たくて"
+        },
+        {
+          "key": "180400|今日も僕は生きてます",
+          "startMs": 180400,
+          "text": "今日も僕は生きてます"
+        },
+        {
+          "key": "185030|あなたの愛を感じる",
+          "startMs": 185030,
+          "text": "あなたの愛を感じる"
+        },
+        {
+          "key": "189520|力強くて温かい",
+          "startMs": 189520,
+          "text": "力強くて温かい"
+        },
+        {
+          "key": "194140|そんな無償の愛情を",
+          "startMs": 194140,
+          "text": "そんな無償の愛情を"
+        },
+        {
+          "key": "198820|全身で感じてます",
+          "startMs": 198820,
+          "text": "全身で感じてます"
+        },
+        {
+          "key": "203750|あなたに夢を見せたい",
+          "startMs": 203750,
+          "text": "あなたに夢を見せたい"
+        },
+        {
+          "key": "208050|終わらなくて消えなくて",
+          "startMs": 208050,
+          "text": "終わらなくて消えなくて"
+        },
+        {
+          "key": "212670|そんな夢を見て欲しい",
+          "startMs": 212670,
+          "text": "そんな夢を見て欲しい"
+        },
+        {
+          "key": "217290|それが僕の願いです",
+          "startMs": 217290,
+          "text": "それが僕の願いです"
+        },
+        {
+          "key": "240630|あなたを守って行きたい",
+          "startMs": 240630,
+          "text": "あなたを守って行きたい"
+        },
+        {
+          "key": "244990|たとえ何がおきようとも",
+          "startMs": 244990,
+          "text": "たとえ何がおきようとも"
+        },
+        {
+          "key": "249540|僕の全てであなたを",
+          "startMs": 249540,
+          "text": "僕の全てであなたを"
+        },
+        {
+          "key": "254170|守り続けて行きます",
+          "startMs": 254170,
+          "text": "守り続けて行きます"
+        }
+      ]
+    },
+    {
+      "rank": 432,
+      "songKey": "online:kugou:e5dbb5a3a75f58640e4f853723c6a7c3",
+      "name": "虚拟",
+      "artist": "云汐",
+      "lines": [
+        {
+          "key": "0|虚拟 - 云汐",
+          "startMs": 0,
+          "text": "虚拟 - 云汐"
+        },
+        {
+          "key": "4443|词：陈粒",
+          "startMs": 4443,
+          "text": "词：陈粒"
+        },
+        {
+          "key": "7118|曲：陈粒",
+          "startMs": 7118,
+          "text": "曲：陈粒"
+        },
+        {
+          "key": "9794|原唱：陈粒",
+          "startMs": 9794,
+          "text": "原唱：陈粒"
+        },
+        {
+          "key": "14925|固执押韵的排比",
+          "startMs": 14925,
+          "text": "固执押韵的排比"
+        },
+        {
+          "key": "18390|固执幼稚的押韵",
+          "startMs": 18390,
+          "text": "固执幼稚的押韵"
+        },
+        {
+          "key": "22171|零零散散凑齐了阵营",
+          "startMs": 22171,
+          "text": "零零散散凑齐了阵营"
+        },
+        {
+          "key": "29686|固执美丽的意义",
+          "startMs": 29686,
+          "text": "固执美丽的意义"
+        },
+        {
+          "key": "33181|固执空洞的美丽",
+          "startMs": 33181,
+          "text": "固执空洞的美丽"
+        },
+        {
+          "key": "36950|飘飘然然空中遇见你",
+          "startMs": 36950,
+          "text": "飘飘然然空中遇见你"
+        },
+        {
+          "key": "43670|你是我未曾拥有无法捕捉的亲昵",
+          "startMs": 43670,
+          "text": "你是我未曾拥有无法捕捉的亲昵"
+        },
+        {
+          "key": "47289|我却有你的吻你的魂你的心",
+          "startMs": 47289,
+          "text": "我却有你的吻你的魂你的心"
+        },
+        {
+          "key": "51192|载着我飞呀飞呀飞 越过了意义",
+          "startMs": 51192,
+          "text": "载着我飞呀飞呀飞 越过了意义"
+        },
+        {
+          "key": "58227|你是我朝夕相伴触手可及的虚拟",
+          "startMs": 58227,
+          "text": "你是我朝夕相伴触手可及的虚拟"
+        },
+        {
+          "key": "62047|陪着我像纸笔像自己像雨滴",
+          "startMs": 62047,
+          "text": "陪着我像纸笔像自己像雨滴"
+        },
+        {
+          "key": "65804|看着我坠啊坠啊坠落到云里",
+          "startMs": 65804,
+          "text": "看着我坠啊坠啊坠落到云里"
+        },
+        {
+          "key": "81517|固执有趣的零星",
+          "startMs": 81517,
+          "text": "固执有趣的零星"
+        },
+        {
+          "key": "84974|固执无聊的有趣",
+          "startMs": 84974,
+          "text": "固执无聊的有趣"
+        },
+        {
+          "key": "88609|平平淡淡管住了情绪",
+          "startMs": 88609,
+          "text": "平平淡淡管住了情绪"
+        },
+        {
+          "key": "95894|固执声音的意义",
+          "startMs": 95894,
+          "text": "固执声音的意义"
+        },
+        {
+          "key": "99710|固执空洞的声音",
+          "startMs": 99710,
+          "text": "固执空洞的声音"
+        },
+        {
+          "key": "103468|摇摇晃晃情绪却满溢",
+          "startMs": 103468,
+          "text": "摇摇晃晃情绪却满溢"
+        },
+        {
+          "key": "110050|你是我未曾拥有无法捕捉的亲昵",
+          "startMs": 110050,
+          "text": "你是我未曾拥有无法捕捉的亲昵"
+        },
+        {
+          "key": "113839|我却有你的吻你的魂你的心",
+          "startMs": 113839,
+          "text": "我却有你的吻你的魂你的心"
+        },
+        {
+          "key": "117453|载着我飞呀飞呀飞 越过了意义",
+          "startMs": 117453,
+          "text": "载着我飞呀飞呀飞 越过了意义"
+        },
+        {
+          "key": "124664|你是我朝夕相伴触手可及的虚拟",
+          "startMs": 124664,
+          "text": "你是我朝夕相伴触手可及的虚拟"
+        },
+        {
+          "key": "128537|陪着我像纸笔像自己像雨滴",
+          "startMs": 128537,
+          "text": "陪着我像纸笔像自己像雨滴"
+        },
+        {
+          "key": "132339|看着我坠啊坠啊坠落到云里",
+          "startMs": 132339,
+          "text": "看着我坠啊坠啊坠落到云里"
+        },
+        {
+          "key": "165620|你是我未曾拥有无法捕捉的亲昵",
+          "startMs": 165620,
+          "text": "你是我未曾拥有无法捕捉的亲昵"
+        },
+        {
+          "key": "169143|我却有你的吻你的魂你的心",
+          "startMs": 169143,
+          "text": "我却有你的吻你的魂你的心"
+        },
+        {
+          "key": "172896|载着我飞呀飞呀飞 越过了意义",
+          "startMs": 172896,
+          "text": "载着我飞呀飞呀飞 越过了意义"
+        },
+        {
+          "key": "180278|你是我朝夕相伴触手可及的虚拟",
+          "startMs": 180278,
+          "text": "你是我朝夕相伴触手可及的虚拟"
+        },
+        {
+          "key": "184002|陪着我像纸笔像自己像雨滴",
+          "startMs": 184002,
+          "text": "陪着我像纸笔像自己像雨滴"
+        },
+        {
+          "key": "187658|看着我坠啊坠啊坠落到云里",
+          "startMs": 187658,
+          "text": "看着我坠啊坠啊坠落到云里"
+        }
+      ]
+    },
+    {
+      "rank": 433,
+      "songKey": "online:kugou:079b8e2303a947e8378498ee74d8361f",
+      "name": "直到你降临",
+      "artist": "云汐",
+      "lines": [
+        {
+          "key": "0|直到你降临 - 云汐",
+          "startMs": 0,
+          "text": "直到你降临 - 云汐"
+        },
+        {
+          "key": "1389|词：阿肆",
+          "startMs": 1389,
+          "text": "词：阿肆"
+        },
+        {
+          "key": "1485|曲：阿肆",
+          "startMs": 1485,
+          "text": "曲：阿肆"
+        },
+        {
+          "key": "1579|原唱：阿肆",
+          "startMs": 1579,
+          "text": "原唱：阿肆"
+        },
+        {
+          "key": "3925|我从未如此相信",
+          "startMs": 3925,
+          "text": "我从未如此相信"
+        },
+        {
+          "key": "8160|如此确定",
+          "startMs": 8160,
+          "text": "如此确定"
+        },
+        {
+          "key": "9898|谁会是我的宿命",
+          "startMs": 9898,
+          "text": "谁会是我的宿命"
+        },
+        {
+          "key": "12279|直到你的光晕",
+          "startMs": 12279,
+          "text": "直到你的光晕"
+        },
+        {
+          "key": "15739|在我黑夜降临",
+          "startMs": 15739,
+          "text": "在我黑夜降临"
+        },
+        {
+          "key": "21051|浩瀚回忆里我沉浮",
+          "startMs": 21051,
+          "text": "浩瀚回忆里我沉浮"
+        },
+        {
+          "key": "26120|那片天空渐渐陷落于荒芜",
+          "startMs": 26120,
+          "text": "那片天空渐渐陷落于荒芜"
+        },
+        {
+          "key": "34515|仿佛不曾铭心刻骨",
+          "startMs": 34515,
+          "text": "仿佛不曾铭心刻骨"
+        },
+        {
+          "key": "39607|所有感触也随着时间模糊",
+          "startMs": 39607,
+          "text": "所有感触也随着时间模糊"
+        },
+        {
+          "key": "47332|我找寻什么",
+          "startMs": 47332,
+          "text": "我找寻什么"
+        },
+        {
+          "key": "54042|总在犹豫不决着",
+          "startMs": 54042,
+          "text": "总在犹豫不决着"
+        },
+        {
+          "key": "59542|我从未如此相信",
+          "startMs": 59542,
+          "text": "我从未如此相信"
+        },
+        {
+          "key": "62343|如此确定",
+          "startMs": 62343,
+          "text": "如此确定"
+        },
+        {
+          "key": "63929|谁会是我的宿命",
+          "startMs": 63929,
+          "text": "谁会是我的宿命"
+        },
+        {
+          "key": "66367|直到你的光晕",
+          "startMs": 66367,
+          "text": "直到你的光晕"
+        },
+        {
+          "key": "69695|在我黑夜降临",
+          "startMs": 69695,
+          "text": "在我黑夜降临"
+        },
+        {
+          "key": "73093|我从未如此相信",
+          "startMs": 73093,
+          "text": "我从未如此相信"
+        },
+        {
+          "key": "75760|如此确定",
+          "startMs": 75760,
+          "text": "如此确定"
+        },
+        {
+          "key": "77402|谁会是我的宿命",
+          "startMs": 77402,
+          "text": "谁会是我的宿命"
+        },
+        {
+          "key": "79918|直到了你降临",
+          "startMs": 79918,
+          "text": "直到了你降临"
+        },
+        {
+          "key": "83245|原来这所有曾经",
+          "startMs": 83245,
+          "text": "原来这所有曾经"
+        },
+        {
+          "key": "87897|只是作为背景",
+          "startMs": 87897,
+          "text": "只是作为背景"
+        },
+        {
+          "key": "91260|衬托终将破晓的黎明",
+          "startMs": 91260,
+          "text": "衬托终将破晓的黎明"
+        },
+        {
+          "key": "108926|仿佛不曾铭心刻骨",
+          "startMs": 108926,
+          "text": "仿佛不曾铭心刻骨"
+        },
+        {
+          "key": "114003|所有感触也随着时间模糊",
+          "startMs": 114003,
+          "text": "所有感触也随着时间模糊"
+        },
+        {
+          "key": "121635|我找寻什么",
+          "startMs": 121635,
+          "text": "我找寻什么"
+        },
+        {
+          "key": "128284|总在犹豫不决着",
+          "startMs": 128284,
+          "text": "总在犹豫不决着"
+        },
+        {
+          "key": "133864|我从未如此相信",
+          "startMs": 133864,
+          "text": "我从未如此相信"
+        },
+        {
+          "key": "136540|如此确定",
+          "startMs": 136540,
+          "text": "如此确定"
+        },
+        {
+          "key": "138200|谁会是我的宿命",
+          "startMs": 138200,
+          "text": "谁会是我的宿命"
+        },
+        {
+          "key": "140653|直到你的光晕",
+          "startMs": 140653,
+          "text": "直到你的光晕"
+        },
+        {
+          "key": "144025|在我黑夜降临",
+          "startMs": 144025,
+          "text": "在我黑夜降临"
+        },
+        {
+          "key": "147398|我从未如此相信",
+          "startMs": 147398,
+          "text": "我从未如此相信"
+        },
+        {
+          "key": "150108|如此确定",
+          "startMs": 150108,
+          "text": "如此确定"
+        },
+        {
+          "key": "151842|谁会是我的宿命",
+          "startMs": 151842,
+          "text": "谁会是我的宿命"
+        },
+        {
+          "key": "154223|直到了你降临",
+          "startMs": 154223,
+          "text": "直到了你降临"
+        },
+        {
+          "key": "157541|原来这所有曾经",
+          "startMs": 157541,
+          "text": "原来这所有曾经"
+        },
+        {
+          "key": "162193|只是作为背景",
+          "startMs": 162193,
+          "text": "只是作为背景"
+        },
+        {
+          "key": "165525|衬托终将破晓的黎明",
+          "startMs": 165525,
+          "text": "衬托终将破晓的黎明"
+        }
+      ]
+    },
+    {
+      "rank": 434,
+      "songKey": "online:kugou:efdd253ef92d35587b309f6e2696b458",
+      "name": "有形的翅膀",
+      "artist": "云汐",
+      "lines": [
+        {
+          "key": "0|有形的翅膀 - 云汐",
+          "startMs": 0,
+          "text": "有形的翅膀 - 云汐"
+        },
+        {
+          "key": "3157|词：吴青峰",
+          "startMs": 3157,
+          "text": "词：吴青峰"
+        },
+        {
+          "key": "4158|曲：吴青峰",
+          "startMs": 4158,
+          "text": "曲：吴青峰"
+        },
+        {
+          "key": "5255|原唱：张韶涵",
+          "startMs": 5255,
+          "text": "原唱：张韶涵"
+        },
+        {
+          "key": "15952|这一路 翻阅了 喜与悲 是与非",
+          "startMs": 15952,
+          "text": "这一路 翻阅了 喜与悲 是与非"
+        },
+        {
+          "key": "23532|一双眼 看过许多变迁",
+          "startMs": 23532,
+          "text": "一双眼 看过许多变迁"
+        },
+        {
+          "key": "31086|有时候 我也会 觉得有一点累",
+          "startMs": 31086,
+          "text": "有时候 我也会 觉得有一点累"
+        },
+        {
+          "key": "38789|一瞬间 怀疑身边一切",
+          "startMs": 38789,
+          "text": "一瞬间 怀疑身边一切"
+        },
+        {
+          "key": "46097|隐形翅膀 带着我幻想",
+          "startMs": 46097,
+          "text": "隐形翅膀 带着我幻想"
+        },
+        {
+          "key": "50083|掠过那绝望 找希望",
+          "startMs": 50083,
+          "text": "掠过那绝望 找希望"
+        },
+        {
+          "key": "53899|你的力量 却是我身上",
+          "startMs": 53899,
+          "text": "你的力量 却是我身上"
+        },
+        {
+          "key": "57545|真实的飞翔",
+          "startMs": 57545,
+          "text": "真实的飞翔"
+        },
+        {
+          "key": "61432|带着我抵挡 曾受过的伤",
+          "startMs": 61432,
+          "text": "带着我抵挡 曾受过的伤"
+        },
+        {
+          "key": "65231|每一个孤单的晚上",
+          "startMs": 65231,
+          "text": "每一个孤单的晚上"
+        },
+        {
+          "key": "69037|我们是彼此 有形的翅膀",
+          "startMs": 69037,
+          "text": "我们是彼此 有形的翅膀"
+        },
+        {
+          "key": "72810|学着更坚强",
+          "startMs": 72810,
+          "text": "学着更坚强"
+        },
+        {
+          "key": "91279|这一路 经历了 爱与恨 错与对",
+          "startMs": 91279,
+          "text": "这一路 经历了 爱与恨 错与对"
+        },
+        {
+          "key": "98777|一句话 很难说得完全",
+          "startMs": 98777,
+          "text": "一句话 很难说得完全"
+        },
+        {
+          "key": "106340|有时候 我也会 想要掉一些泪",
+          "startMs": 106340,
+          "text": "有时候 我也会 想要掉一些泪"
+        },
+        {
+          "key": "113980|哭完了 再站起来面对",
+          "startMs": 113980,
+          "text": "哭完了 再站起来面对"
+        },
+        {
+          "key": "121452|隐形翅膀 带着我幻想",
+          "startMs": 121452,
+          "text": "隐形翅膀 带着我幻想"
+        },
+        {
+          "key": "125208|掠过那绝望 找希望",
+          "startMs": 125208,
+          "text": "掠过那绝望 找希望"
+        },
+        {
+          "key": "129070|你的力量 却是我身上",
+          "startMs": 129070,
+          "text": "你的力量 却是我身上"
+        },
+        {
+          "key": "132712|真实的飞翔",
+          "startMs": 132712,
+          "text": "真实的飞翔"
+        },
+        {
+          "key": "136581|带着我抵挡 曾受过的伤",
+          "startMs": 136581,
+          "text": "带着我抵挡 曾受过的伤"
+        },
+        {
+          "key": "140347|每一个孤单的晚上",
+          "startMs": 140347,
+          "text": "每一个孤单的晚上"
+        },
+        {
+          "key": "144234|我们是彼此 有形的翅膀",
+          "startMs": 144234,
+          "text": "我们是彼此 有形的翅膀"
+        },
+        {
+          "key": "147994|学着更坚强",
+          "startMs": 147994,
+          "text": "学着更坚强"
+        },
+        {
+          "key": "151811|我曾害怕 所以我懂得",
+          "startMs": 151811,
+          "text": "我曾害怕 所以我懂得"
+        },
+        {
+          "key": "155624|难免会沮丧的模样",
+          "startMs": 155624,
+          "text": "难免会沮丧的模样"
+        },
+        {
+          "key": "159462|我受过伤 所以更渴望",
+          "startMs": 159462,
+          "text": "我受过伤 所以更渴望"
+        },
+        {
+          "key": "163159|美丽的飞翔",
+          "startMs": 163159,
+          "text": "美丽的飞翔"
+        },
+        {
+          "key": "167091|你在我身旁 陪我勇敢唱",
+          "startMs": 167091,
+          "text": "你在我身旁 陪我勇敢唱"
+        },
+        {
+          "key": "170792|像一个保护着我的家",
+          "startMs": 170792,
+          "text": "像一个保护着我的家"
+        },
+        {
+          "key": "174918|我们是彼此 有形的翅膀",
+          "startMs": 174918,
+          "text": "我们是彼此 有形的翅膀"
+        },
+        {
+          "key": "178457|飞进了坚强",
+          "startMs": 178457,
+          "text": "飞进了坚强"
+        },
+        {
+          "key": "182260|真实的翅膀 擦去那泪光",
+          "startMs": 182260,
+          "text": "真实的翅膀 擦去那泪光"
+        },
+        {
+          "key": "191497|还记得梦想",
+          "startMs": 191497,
+          "text": "还记得梦想"
+        }
+      ]
+    },
+    {
+      "rank": 435,
+      "songKey": "online:kugou:88e22d78cf8269e255a31ce28c9ba2d7",
+      "name": "Bleeding Love",
+      "artist": "Ni/Co",
+      "lines": [
+        {
+          "key": "0|Ni/Co - Bleeding Love",
+          "startMs": 0,
+          "text": "Ni/Co - Bleeding Love"
+        },
+        {
+          "key": "9800|Lyrics by：Jesse McCartney/Ryan Tedder",
+          "startMs": 9800,
+          "text": "Lyrics by：Jesse McCartney/Ryan Tedder"
+        },
+        {
+          "key": "19611|Closed off from love I didn't need the pain",
+          "startMs": 19611,
+          "text": "Closed off from love I didn't need the pain"
+        },
+        {
+          "key": "24256|Once or twice was enough but it was all in vain",
+          "startMs": 24256,
+          "text": "Once or twice was enough but it was all in vain"
+        },
+        {
+          "key": "28920|Time starts to pass before you know it you're frozen",
+          "startMs": 28920,
+          "text": "Time starts to pass before you know it you're frozen"
+        },
+        {
+          "key": "38110|But somethin' happened for the very first time with you",
+          "startMs": 38110,
+          "text": "But somethin' happened for the very first time with you"
+        },
+        {
+          "key": "42798|My heart melted to the ground found somethin' true",
+          "startMs": 42798,
+          "text": "My heart melted to the ground found somethin' true"
+        },
+        {
+          "key": "47659|And everyone's lookin' 'round thinkin' I'm goin' crazy",
+          "startMs": 47659,
+          "text": "And everyone's lookin' 'round thinkin' I'm goin' crazy"
+        },
+        {
+          "key": "56956|But I don't care what they say I'm in love with you",
+          "startMs": 56956,
+          "text": "But I don't care what they say I'm in love with you"
+        },
+        {
+          "key": "61716|They try to pull me away but they don't know the truth",
+          "startMs": 61716,
+          "text": "They try to pull me away but they don't know the truth"
+        },
+        {
+          "key": "66532|My heart's crippled by the vein that I keep on closin'",
+          "startMs": 66532,
+          "text": "My heart's crippled by the vein that I keep on closin'"
+        },
+        {
+          "key": "73482|You cut me open and I",
+          "startMs": 73482,
+          "text": "You cut me open and I"
+        },
+        {
+          "key": "76030|Keep bleedin'",
+          "startMs": 76030,
+          "text": "Keep bleedin'"
+        },
+        {
+          "key": "77490|Keep keep bleedin' love",
+          "startMs": 77490,
+          "text": "Keep keep bleedin' love"
+        },
+        {
+          "key": "80583|I keep bleedin'",
+          "startMs": 80583,
+          "text": "I keep bleedin'"
+        },
+        {
+          "key": "81903|I keep keep bleedin' love",
+          "startMs": 81903,
+          "text": "I keep keep bleedin' love"
+        },
+        {
+          "key": "85504|Keep bleedin'",
+          "startMs": 85504,
+          "text": "Keep bleedin'"
+        },
+        {
+          "key": "86887|Keep keep bleedin' love",
+          "startMs": 86887,
+          "text": "Keep keep bleedin' love"
+        },
+        {
+          "key": "92313|You cut me open and I",
+          "startMs": 92313,
+          "text": "You cut me open and I"
+        },
+        {
+          "key": "96174|And it's drainin' all of me",
+          "startMs": 96174,
+          "text": "And it's drainin' all of me"
+        },
+        {
+          "key": "100910|Though they find it hard to believe",
+          "startMs": 100910,
+          "text": "Though they find it hard to believe"
+        },
+        {
+          "key": "105559|I'll be wearin' these scars for everyone to see",
+          "startMs": 105559,
+          "text": "I'll be wearin' these scars for everyone to see"
+        },
+        {
+          "key": "113764|I don't care what they say I'm in love with you",
+          "startMs": 113764,
+          "text": "I don't care what they say I'm in love with you"
+        },
+        {
+          "key": "118257|They try to pull me away but they don't know the truth",
+          "startMs": 118257,
+          "text": "They try to pull me away but they don't know the truth"
+        },
+        {
+          "key": "122943|My heart's crippled by the vein that I keep on closin'",
+          "startMs": 122943,
+          "text": "My heart's crippled by the vein that I keep on closin'"
+        },
+        {
+          "key": "129802|You cut me open and I",
+          "startMs": 129802,
+          "text": "You cut me open and I"
+        },
+        {
+          "key": "132576|Keep bleedin'",
+          "startMs": 132576,
+          "text": "Keep bleedin'"
+        },
+        {
+          "key": "133986|Keep keep bleedin' love",
+          "startMs": 133986,
+          "text": "Keep keep bleedin' love"
+        },
+        {
+          "key": "136944|I keep bleedin'",
+          "startMs": 136944,
+          "text": "I keep bleedin'"
+        },
+        {
+          "key": "138489|I keep keep bleedin' love",
+          "startMs": 138489,
+          "text": "I keep keep bleedin' love"
+        },
+        {
+          "key": "141896|Keep bleedin'",
+          "startMs": 141896,
+          "text": "Keep bleedin'"
+        },
+        {
+          "key": "143400|Keep keep bleedin' love",
+          "startMs": 143400,
+          "text": "Keep keep bleedin' love"
+        },
+        {
+          "key": "148655|You cut me open and I",
+          "startMs": 148655,
+          "text": "You cut me open and I"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:11ac346b929bf2b6f83e8308cd873b78",
+      "lines": [
+        {
+          "key": "0|the irrepressibles - In This Shirt (Original)",
+          "text": "the irrepressibles - In This Shirt (Original)",
+          "segments": [
+            "the irrepressibles",
+            " - ",
+            "In This Shirt (Original)"
+          ]
+        },
+        {
+          "key": "7910|Lyrics by：Jamie McDermott",
+          "text": "Lyrics by：Jamie McDermott",
+          "segments": [
+            "Lyrics by：",
+            "Jamie McDermott"
+          ]
+        },
+        {
+          "key": "15820|Composed by：Jamie McDermott",
+          "text": "Composed by：Jamie McDermott",
+          "segments": [
+            "Composed by：",
+            "Jamie McDermott"
+          ]
+        },
+        {
+          "key": "23743|I am lost in a rainbow",
+          "text": "I am lost in a rainbow",
+          "segments": [
+            "I ",
+            "am ",
+            "lost ",
+            "in ",
+            "a ",
+            "rainbow"
+          ]
+        },
+        {
+          "key": "29952|Now our rainbow is gone",
+          "text": "Now our rainbow is gone",
+          "segments": [
+            "Now ",
+            "our ",
+            "rainbow ",
+            "is ",
+            "gone"
+          ]
+        },
+        {
+          "key": "35781|Overcast by your shadow",
+          "text": "Overcast by your shadow",
+          "segments": [
+            "Overcast ",
+            "by ",
+            "your ",
+            "shadow"
+          ]
+        },
+        {
+          "key": "41871|As our worlds move on",
+          "text": "As our worlds move on",
+          "segments": [
+            "As ",
+            "our ",
+            "worlds ",
+            "move ",
+            "on"
+          ]
+        },
+        {
+          "key": "47751|In this shirt I can be you",
+          "text": "In this shirt I can be you",
+          "segments": [
+            "In ",
+            "this ",
+            "shirt ",
+            "I ",
+            "can ",
+            "be ",
+            "you"
+          ]
+        },
+        {
+          "key": "53751|To be near you for a while",
+          "text": "To be near you for a while",
+          "segments": [
+            "To ",
+            "be ",
+            "near ",
+            "you ",
+            "for ",
+            "a ",
+            "while"
+          ]
+        },
+        {
+          "key": "59871|In this shirt I can be you",
+          "text": "In this shirt I can be you",
+          "segments": [
+            "In ",
+            "this ",
+            "shirt ",
+            "I ",
+            "can ",
+            "be ",
+            "you"
+          ]
+        },
+        {
+          "key": "65761|To be near you for a while",
+          "text": "To be near you for a while",
+          "segments": [
+            "To ",
+            "be ",
+            "near ",
+            "you ",
+            "for ",
+            "a ",
+            "while"
+          ]
+        },
+        {
+          "key": "71801|There's a crane knocking down",
+          "text": "There's a crane knocking down",
+          "segments": [
+            "There's ",
+            "a ",
+            "crane ",
+            "knocking ",
+            "down"
+          ]
+        },
+        {
+          "key": "77611|All these things that we were",
+          "text": "All these things that we were",
+          "segments": [
+            "All ",
+            "these ",
+            "things ",
+            "that ",
+            "we ",
+            "were"
+          ]
+        },
+        {
+          "key": "83137|I awake in the night",
+          "text": "I awake in the night",
+          "segments": [
+            "I ",
+            "awake ",
+            "in ",
+            "the ",
+            "night"
+          ]
+        },
+        {
+          "key": "89242|To hear the engines purr",
+          "text": "To hear the engines purr",
+          "segments": [
+            "To ",
+            "hear ",
+            "the ",
+            "engines ",
+            "purr"
+          ]
+        },
+        {
+          "key": "95650|There's a pain it does ripple",
+          "text": "There's a pain it does ripple",
+          "segments": [
+            "There's ",
+            "a ",
+            "pain ",
+            "it ",
+            "does ",
+            "ripple"
+          ]
+        },
+        {
+          "key": "101450|Through my frame makes me lame",
+          "text": "Through my frame makes me lame",
+          "segments": [
+            "Through ",
+            "my ",
+            "frame ",
+            "makes ",
+            "me ",
+            "lame"
+          ]
+        },
+        {
+          "key": "107670|There's a thorn in my side",
+          "text": "There's a thorn in my side",
+          "segments": [
+            "There's ",
+            "a ",
+            "thorn ",
+            "in ",
+            "my ",
+            "side"
+          ]
+        },
+        {
+          "key": "113680|It's the shame it's the pride",
+          "text": "It's the shame it's the pride",
+          "segments": [
+            "It's ",
+            "the ",
+            "shame ",
+            "it's ",
+            "the ",
+            "pride"
+          ]
+        },
+        {
+          "key": "119550|Of you and me ever changing",
+          "text": "Of you and me ever changing",
+          "segments": [
+            "Of ",
+            "you ",
+            "and ",
+            "me ",
+            "ever ",
+            "changing"
+          ]
+        },
+        {
+          "key": "125680|Moving on now moving fast",
+          "text": "Moving on now moving fast",
+          "segments": [
+            "Moving ",
+            "on ",
+            "now ",
+            "moving ",
+            "fast"
+          ]
+        },
+        {
+          "key": "131730|And this touch must be wanted",
+          "text": "And this touch must be wanted",
+          "segments": [
+            "And ",
+            "this ",
+            "touch ",
+            "must ",
+            "be ",
+            "wanted"
+          ]
+        },
+        {
+          "key": "137670|Must become through your ask",
+          "text": "Must become through your ask",
+          "segments": [
+            "Must ",
+            "become ",
+            "through ",
+            "your ",
+            "ask"
+          ]
+        },
+        {
+          "key": "143550|But I need Jake to tell you",
+          "text": "But I need Jake to tell you",
+          "segments": [
+            "But ",
+            "I ",
+            "need ",
+            "Jake ",
+            "to ",
+            "tell ",
+            "you"
+          ]
+        },
+        {
+          "key": "149610|That I love you it never rests",
+          "text": "That I love you it never rests",
+          "segments": [
+            "That ",
+            "I ",
+            "love ",
+            "you ",
+            "it ",
+            "never ",
+            "rests"
+          ]
+        },
+        {
+          "key": "155710|And I bled everyday now",
+          "text": "And I bled everyday now",
+          "segments": [
+            "And ",
+            "I ",
+            "bled ",
+            "everyday ",
+            "now"
+          ]
+        },
+        {
+          "key": "161470|For a year for a year",
+          "text": "For a year for a year",
+          "segments": [
+            "For ",
+            "a ",
+            "year ",
+            "for ",
+            "a ",
+            "year"
+          ]
+        },
+        {
+          "key": "167680|I did send you a note",
+          "text": "I did send you a note",
+          "segments": [
+            "I ",
+            "did ",
+            "send ",
+            "you ",
+            "a ",
+            "note"
+          ]
+        },
+        {
+          "key": "173650|On the wind for to read",
+          "text": "On the wind for to read",
+          "segments": [
+            "On ",
+            "the ",
+            "wind ",
+            "for ",
+            "to ",
+            "read"
+          ]
+        },
+        {
+          "key": "179710|Our names there together",
+          "text": "Our names there together",
+          "segments": [
+            "Our ",
+            "names ",
+            "there ",
+            "together"
+          ]
+        },
+        {
+          "key": "185770|Must've fallen like a seed",
+          "text": "Must've fallen like a seed",
+          "segments": [
+            "Must've ",
+            "fallen ",
+            "like ",
+            "a ",
+            "seed"
+          ]
+        },
+        {
+          "key": "191441|To the depths of the soil",
+          "text": "To the depths of the soil",
+          "segments": [
+            "To ",
+            "the ",
+            "depths ",
+            "of ",
+            "the ",
+            "soil"
+          ]
+        },
+        {
+          "key": "197909|Buried deep in the ground",
+          "text": "Buried deep in the ground",
+          "segments": [
+            "Buried ",
+            "deep ",
+            "in ",
+            "the ",
+            "ground"
+          ]
+        },
+        {
+          "key": "203818|On the wind I can hear you",
+          "text": "On the wind I can hear you",
+          "segments": [
+            "On ",
+            "the ",
+            "wind ",
+            "I ",
+            "can ",
+            "hear ",
+            "you"
+          ]
+        },
+        {
+          "key": "209718|Call my name held the sounds",
+          "text": "Call my name held the sounds",
+          "segments": [
+            "Call ",
+            "my ",
+            "name ",
+            "held ",
+            "the ",
+            "sounds"
+          ]
+        },
+        {
+          "key": "215868|I am lost",
+          "text": "I am lost",
+          "segments": [
+            "I ",
+            "am ",
+            "lost"
+          ]
+        },
+        {
+          "key": "218748|I am lost in a rainbow",
+          "text": "I am lost in a rainbow",
+          "segments": [
+            "I ",
+            "am ",
+            "lost ",
+            "in ",
+            "a ",
+            "rainbow"
+          ]
+        },
+        {
+          "key": "224568|Now our rainbow is gone",
+          "text": "Now our rainbow is gone",
+          "segments": [
+            "Now ",
+            "our ",
+            "rainbow ",
+            "is ",
+            "gone"
+          ]
+        },
+        {
+          "key": "230538|I am lost in a rainbow",
+          "text": "I am lost in a rainbow",
+          "segments": [
+            "I ",
+            "am ",
+            "lost ",
+            "in ",
+            "a ",
+            "rainbow"
+          ]
+        },
+        {
+          "key": "236468|Now our rainbow is gone",
+          "text": "Now our rainbow is gone",
+          "segments": [
+            "Now ",
+            "our ",
+            "rainbow ",
+            "is ",
+            "gone"
+          ]
+        },
+        {
+          "key": "242458|I am lost I am lost",
+          "text": "I am lost I am lost",
+          "segments": [
+            "I ",
+            "am ",
+            "lost ",
+            "I ",
+            "am ",
+            "lost"
+          ]
+        },
+        {
+          "key": "248398|I am lost I am lost",
+          "text": "I am lost I am lost",
+          "segments": [
+            "I ",
+            "am ",
+            "lost ",
+            "I ",
+            "am ",
+            "lost"
+          ]
+        },
+        {
+          "key": "254428|I am lost",
+          "text": "I am lost",
+          "segments": [
+            "I ",
+            "am ",
+            "lost"
+          ]
+        }
+      ]
+    }
+  ]
+}

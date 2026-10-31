@@ -1,0 +1,430 @@
+{
+  "batchNumber": 100,
+  "songs": [
+    {
+      "rank": 496,
+      "songKey": "online:kugou:b414ce0215423f44353697e545015aca",
+      "name": "夏恋",
+      "artist": "Otokaze",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 497,
+      "songKey": "online:kugou:2ff6a3a02ba909a54ed2fb5b4053c747",
+      "name": "Flower Dance (花之舞)(钢琴版I)",
+      "artist": "吴昊泽MUSICALBLAST",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 498,
+      "songKey": "online:kugou:2323b1b8a86629fe0f1eea9eeb847c39",
+      "name": "Flower Dance (花之舞)(钢琴版)",
+      "artist": "纯音乐",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 499,
+      "songKey": "online:kugou:50c4ea23ccd802d59b05f36ec0c2b366",
+      "name": "Flower Dance (花之舞)",
+      "artist": "DJ OKAWARI",
+      "lines": [
+        {
+          "key": "64|Flower Dance (花之舞) - DJ OKAWARI",
+          "startMs": 64,
+          "text": "Flower Dance (花之舞) - DJ OKAWARI"
+        },
+        {
+          "key": "778|Lyrics by：tabeyellow*",
+          "startMs": 778,
+          "text": "Lyrics by：tabeyellow*"
+        },
+        {
+          "key": "929|Composed by：DJ Okawari",
+          "startMs": 929,
+          "text": "Composed by：DJ Okawari"
+        },
+        {
+          "key": "5471|They serve the purpose of changing hydrogen into breathable oxygen",
+          "startMs": 5471,
+          "text": "They serve the purpose of changing hydrogen into breathable oxygen"
+        },
+        {
+          "key": "9578|And they're as necessary here as the air is on earth",
+          "startMs": 9578,
+          "text": "And they're as necessary here as the air is on earth"
+        },
+        {
+          "key": "14495|But I still say they're flowers",
+          "startMs": 14495,
+          "text": "But I still say they're flowers"
+        },
+        {
+          "key": "17995|If you like",
+          "startMs": 17995,
+          "text": "If you like"
+        },
+        {
+          "key": "20425|Do you sell them ",
+          "startMs": 20425,
+          "text": "Do you sell them "
+        },
+        {
+          "key": "21997|I'm afraid not",
+          "startMs": 21997,
+          "text": "I'm afraid not"
+        },
+        {
+          "key": "23443|But maybe we can make a deal",
+          "startMs": 23443,
+          "text": "But maybe we can make a deal"
+        }
+      ]
+    },
+    {
+      "rank": 500,
+      "songKey": "online:kugou:070ba06411b5a25a1099bc98eda4bac4",
+      "name": "循迹",
+      "artist": "王子健",
+      "lines": [
+        {
+          "key": "303|循迹 - 王子健",
+          "startMs": 303,
+          "text": "循迹 - 王子健"
+        },
+        {
+          "key": "1463|词：王子健",
+          "startMs": 1463,
+          "text": "词：王子健"
+        },
+        {
+          "key": "2127|曲：王子健",
+          "startMs": 2127,
+          "text": "曲：王子健"
+        },
+        {
+          "key": "2807|编曲：王子健",
+          "startMs": 2807,
+          "text": "编曲：王子健"
+        },
+        {
+          "key": "3607|和声：王子健",
+          "startMs": 3607,
+          "text": "和声：王子健"
+        },
+        {
+          "key": "4439|混音：王子健",
+          "startMs": 4439,
+          "text": "混音：王子健"
+        },
+        {
+          "key": "5303|制作人：王子健",
+          "startMs": 5303,
+          "text": "制作人：王子健"
+        },
+        {
+          "key": "6343|监制：廖倩",
+          "startMs": 6343,
+          "text": "监制：廖倩"
+        },
+        {
+          "key": "7047|推广：璀璨星河",
+          "startMs": 7047,
+          "text": "推广：璀璨星河"
+        },
+        {
+          "key": "8111|出品：快乐每一天",
+          "startMs": 8111,
+          "text": "出品：快乐每一天"
+        },
+        {
+          "key": "9343|（未经著作权人许可不得翻唱翻录或使用）",
+          "startMs": 9343,
+          "text": "（未经著作权人许可不得翻唱翻录或使用）"
+        },
+        {
+          "key": "21252|我要怎么去形容怎么说",
+          "startMs": 21252,
+          "text": "我要怎么去形容怎么说"
+        },
+        {
+          "key": "25996|失去你不止是难过",
+          "startMs": 25996,
+          "text": "失去你不止是难过"
+        },
+        {
+          "key": "29460|像一个随风漂浮的泡沫",
+          "startMs": 29460,
+          "text": "像一个随风漂浮的泡沫"
+        },
+        {
+          "key": "34230|被你的指尖 戳破",
+          "startMs": 34230,
+          "text": "被你的指尖 戳破"
+        },
+        {
+          "key": "40198|爱就像短暂的白日焰火",
+          "startMs": 40198,
+          "text": "爱就像短暂的白日焰火"
+        },
+        {
+          "key": "45014|一个转眼就错过",
+          "startMs": 45014,
+          "text": "一个转眼就错过"
+        },
+        {
+          "key": "48774|你背过身 任由狂风轻易地吹灭我",
+          "startMs": 48774,
+          "text": "你背过身 任由狂风轻易地吹灭我"
+        },
+        {
+          "key": "54622|一句话都不肯说",
+          "startMs": 54622,
+          "text": "一句话都不肯说"
+        },
+        {
+          "key": "59104|我在人群中没你的下落",
+          "startMs": 59104,
+          "text": "我在人群中没你的下落"
+        },
+        {
+          "key": "61484|我在繁华三千匆匆经过",
+          "startMs": 61484,
+          "text": "我在繁华三千匆匆经过"
+        },
+        {
+          "key": "63996|灯火临摹着你的轮廓",
+          "startMs": 63996,
+          "text": "灯火临摹着你的轮廓"
+        },
+        {
+          "key": "65997|掠过落魄的我 用你的眼神烧灼",
+          "startMs": 65997,
+          "text": "掠过落魄的我 用你的眼神烧灼"
+        },
+        {
+          "key": "68709|我在黑夜里仔细地摸索",
+          "startMs": 68709,
+          "text": "我在黑夜里仔细地摸索"
+        },
+        {
+          "key": "71325|动作像个孩子一样的笨拙",
+          "startMs": 71325,
+          "text": "动作像个孩子一样的笨拙"
+        },
+        {
+          "key": "73733|可你保持沉默",
+          "startMs": 73733,
+          "text": "可你保持沉默"
+        },
+        {
+          "key": "75261|离开我",
+          "startMs": 75261,
+          "text": "离开我"
+        },
+        {
+          "key": "77375|我看着",
+          "startMs": 77375,
+          "text": "我看着"
+        },
+        {
+          "key": "78251|零落的 枯的 碎的 风肆意地",
+          "startMs": 78251,
+          "text": "零落的 枯的 碎的 风肆意地"
+        },
+        {
+          "key": "80707|卷起的那满地的皱褶",
+          "startMs": 80707,
+          "text": "卷起的那满地的皱褶"
+        },
+        {
+          "key": "83042|像我们的纠葛",
+          "startMs": 83042,
+          "text": "像我们的纠葛"
+        },
+        {
+          "key": "84835|腐烂成沼泽",
+          "startMs": 84835,
+          "text": "腐烂成沼泽"
+        },
+        {
+          "key": "86889|痛快地",
+          "startMs": 86889,
+          "text": "痛快地"
+        },
+        {
+          "key": "87825|飞舞着 飘着 烧着 无休止的",
+          "startMs": 87825,
+          "text": "飞舞着 飘着 烧着 无休止的"
+        },
+        {
+          "key": "90481|恨不得要一整个透彻",
+          "startMs": 90481,
+          "text": "恨不得要一整个透彻"
+        },
+        {
+          "key": "92617|多苦涩 像刀割",
+          "startMs": 92617,
+          "text": "多苦涩 像刀割"
+        },
+        {
+          "key": "94449|被拉扯",
+          "startMs": 94449,
+          "text": "被拉扯"
+        },
+        {
+          "key": "96489|循着",
+          "startMs": 96489,
+          "text": "循着"
+        },
+        {
+          "key": "97497|看不见 听不见 一转眼 搁浅",
+          "startMs": 97497,
+          "text": "看不见 听不见 一转眼 搁浅"
+        },
+        {
+          "key": "102531|太危险 再蔓延 我无力深陷",
+          "startMs": 102531,
+          "text": "太危险 再蔓延 我无力深陷"
+        },
+        {
+          "key": "107267|看不见 听不见 一转眼 搁浅",
+          "startMs": 107267,
+          "text": "看不见 听不见 一转眼 搁浅"
+        },
+        {
+          "key": "112123|太危险 再蔓延 循着你划的线",
+          "startMs": 112123,
+          "text": "太危险 再蔓延 循着你划的线"
+        },
+        {
+          "key": "116995|爱就像短暂的白日焰火",
+          "startMs": 116995,
+          "text": "爱就像短暂的白日焰火"
+        },
+        {
+          "key": "121875|一个转眼就错过",
+          "startMs": 121875,
+          "text": "一个转眼就错过"
+        },
+        {
+          "key": "125531|你背过身 任由狂风轻易地吹灭我",
+          "startMs": 125531,
+          "text": "你背过身 任由狂风轻易地吹灭我"
+        },
+        {
+          "key": "131556|一句话都没有说",
+          "startMs": 131556,
+          "text": "一句话都没有说"
+        },
+        {
+          "key": "135878|我在人群中没你的下落",
+          "startMs": 135878,
+          "text": "我在人群中没你的下落"
+        },
+        {
+          "key": "138247|我在繁华三千匆匆经过",
+          "startMs": 138247,
+          "text": "我在繁华三千匆匆经过"
+        },
+        {
+          "key": "140910|灯火临摹着你的轮廓",
+          "startMs": 140910,
+          "text": "灯火临摹着你的轮廓"
+        },
+        {
+          "key": "142767|掠过落魄的我 用你的眼神烧灼",
+          "startMs": 142767,
+          "text": "掠过落魄的我 用你的眼神烧灼"
+        },
+        {
+          "key": "145503|我在黑夜里仔细地摸索",
+          "startMs": 145503,
+          "text": "我在黑夜里仔细地摸索"
+        },
+        {
+          "key": "148023|动作像个孩子一样的笨拙",
+          "startMs": 148023,
+          "text": "动作像个孩子一样的笨拙"
+        },
+        {
+          "key": "150464|可你保持沉默",
+          "startMs": 150464,
+          "text": "可你保持沉默"
+        },
+        {
+          "key": "152119|离开我",
+          "startMs": 152119,
+          "text": "离开我"
+        },
+        {
+          "key": "154377|我看着",
+          "startMs": 154377,
+          "text": "我看着"
+        },
+        {
+          "key": "155161|零落的 枯的 碎的 风肆意地",
+          "startMs": 155161,
+          "text": "零落的 枯的 碎的 风肆意地"
+        },
+        {
+          "key": "157649|卷起的那满地的皱褶",
+          "startMs": 157649,
+          "text": "卷起的那满地的皱褶"
+        },
+        {
+          "key": "159793|像我们的纠葛",
+          "startMs": 159793,
+          "text": "像我们的纠葛"
+        },
+        {
+          "key": "161403|腐烂成沼泽",
+          "startMs": 161403,
+          "text": "腐烂成沼泽"
+        },
+        {
+          "key": "163859|痛快地",
+          "startMs": 163859,
+          "text": "痛快地"
+        },
+        {
+          "key": "164763|飞舞着 飘着 烧着 无休止的",
+          "startMs": 164763,
+          "text": "飞舞着 飘着 烧着 无休止的"
+        },
+        {
+          "key": "167283|恨不得要一整个透彻",
+          "startMs": 167283,
+          "text": "恨不得要一整个透彻"
+        },
+        {
+          "key": "169467|多苦涩 像刀割",
+          "startMs": 169467,
+          "text": "多苦涩 像刀割"
+        },
+        {
+          "key": "171291|被拉扯",
+          "startMs": 171291,
+          "text": "被拉扯"
+        }
+      ]
+    }
+  ]
+}
