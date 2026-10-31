@@ -1,0 +1,591 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:d5ec46096e1bda87e12f76d4d369d188",
+      "lines": [
+        {
+          "key": "273|Bebe Rexha - Ferrari",
+          "text": "Bebe Rexha - Ferrari",
+          "segments": [
+            "Bebe Rexha",
+            " - ",
+            "Ferrari"
+          ]
+        },
+        {
+          "key": "1124|Written by：Jason Evigan、Bleta Rexha、Asia Whitacre",
+          "text": "Written by：Jason Evigan、Bleta Rexha、Asia Whitacre",
+          "segments": [
+            "Written by：",
+            "Jason Evigan",
+            "、",
+            "Bleta Rexha",
+            "、",
+            "Asia Whitacre"
+          ]
+        },
+        {
+          "key": "11685|Every day's a blur",
+          "text": "Every day's a blur",
+          "segments": [
+            "Every ",
+            "day's ",
+            "a ",
+            "blur"
+          ]
+        },
+        {
+          "key": "15107|Sometimes I can't tell what day it is",
+          "text": "Sometimes I can't tell what day it is",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "can't ",
+            "tell ",
+            "what ",
+            "day ",
+            "it ",
+            "is"
+          ]
+        },
+        {
+          "key": "18927|Don't know what day it is",
+          "text": "Don't know what day it is",
+          "segments": [
+            "Don't ",
+            "know ",
+            "what ",
+            "day ",
+            "it ",
+            "is"
+          ]
+        },
+        {
+          "key": "21426|Can you tell me what day it is",
+          "text": "Can you tell me what day it is",
+          "segments": [
+            "Can ",
+            "you ",
+            "tell ",
+            "me ",
+            "what ",
+            "day ",
+            "it ",
+            "is"
+          ]
+        },
+        {
+          "key": "24382|Life's passing by",
+          "text": "Life's passing by",
+          "segments": [
+            "Life's ",
+            "passing ",
+            "by"
+          ]
+        },
+        {
+          "key": "27666|'Cause I'm out chasing empty highs",
+          "text": "'Cause I'm out chasing empty highs",
+          "segments": [
+            "'Cause ",
+            "I'm ",
+            "out ",
+            "chasing ",
+            "empty ",
+            "highs"
+          ]
+        },
+        {
+          "key": "30821|Every hello just means goodbye",
+          "text": "Every hello just means goodbye",
+          "segments": [
+            "Every ",
+            "hello ",
+            "just ",
+            "means ",
+            "goodbye"
+          ]
+        },
+        {
+          "key": "33843|But I'm looking for more this time",
+          "text": "But I'm looking for more this time",
+          "segments": [
+            "But ",
+            "I'm ",
+            "looking ",
+            "for ",
+            "more ",
+            "this ",
+            "time"
+          ]
+        },
+        {
+          "key": "38049|Can we start to slow it down",
+          "text": "Can we start to slow it down",
+          "segments": [
+            "Can ",
+            "we ",
+            "start ",
+            "to ",
+            "slow ",
+            "it ",
+            "down"
+          ]
+        },
+        {
+          "key": "40946|Can we learn to live right now",
+          "text": "Can we learn to live right now",
+          "segments": [
+            "Can ",
+            "we ",
+            "learn ",
+            "to ",
+            "live ",
+            "right ",
+            "now"
+          ]
+        },
+        {
+          "key": "44039|I just want to feel it all",
+          "text": "I just want to feel it all",
+          "segments": [
+            "I ",
+            "just ",
+            "want ",
+            "to ",
+            "feel ",
+            "it ",
+            "all"
+          ]
+        },
+        {
+          "key": "49898|I'm a Ferrari",
+          "text": "I'm a Ferrari",
+          "segments": [
+            "I'm ",
+            "a ",
+            "Ferrari"
+          ]
+        },
+        {
+          "key": "52657|Pulled off on Mulholland Drive",
+          "text": "Pulled off on Mulholland Drive",
+          "segments": [
+            "Pulled ",
+            "off ",
+            "on ",
+            "Mulholland ",
+            "Drive"
+          ]
+        },
+        {
+          "key": "55881|Over the city the lights are so pretty from up here",
+          "text": "Over the city the lights are so pretty from up here",
+          "segments": [
+            "Over ",
+            "the ",
+            "city ",
+            "the ",
+            "lights ",
+            "are ",
+            "so ",
+            "pretty ",
+            "from ",
+            "up ",
+            "here"
+          ]
+        },
+        {
+          "key": "62133|I'm a Ferrari",
+          "text": "I'm a Ferrari",
+          "segments": [
+            "I'm ",
+            "a ",
+            "Ferrari"
+          ]
+        },
+        {
+          "key": "65157|And after the party's done",
+          "text": "And after the party's done",
+          "segments": [
+            "And ",
+            "after ",
+            "the ",
+            "party's ",
+            "done"
+          ]
+        },
+        {
+          "key": "68374|I keep on going missing the moments",
+          "text": "I keep on going missing the moments",
+          "segments": [
+            "I ",
+            "keep ",
+            "on ",
+            "going ",
+            "missing ",
+            "the ",
+            "moments"
+          ]
+        },
+        {
+          "key": "72836|Living in the fast lane's getting kinda lonely",
+          "text": "Living in the fast lane's getting kinda lonely",
+          "segments": [
+            "Living ",
+            "in ",
+            "the ",
+            "fast ",
+            "lane's ",
+            "getting ",
+            "kinda ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "76518|Yeah",
+          "text": "Yeah",
+          "segments": [
+            "Yeah"
+          ]
+        },
+        {
+          "key": "77967|Whoa whoa whoa",
+          "text": "Whoa whoa whoa",
+          "segments": [
+            "Whoa ",
+            "whoa ",
+            "whoa"
+          ]
+        },
+        {
+          "key": "87115|Living in the fast lane's getting kinda lonely",
+          "text": "Living in the fast lane's getting kinda lonely",
+          "segments": [
+            "Living ",
+            "in ",
+            "the ",
+            "fast ",
+            "lane's ",
+            "getting ",
+            "kinda ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "90170|Whoa whoa whoa",
+          "text": "Whoa whoa whoa",
+          "segments": [
+            "Whoa ",
+            "whoa ",
+            "whoa"
+          ]
+        },
+        {
+          "key": "99048|Living in the fast lane's getting kinda lonely",
+          "text": "Living in the fast lane's getting kinda lonely",
+          "segments": [
+            "Living ",
+            "in ",
+            "the ",
+            "fast ",
+            "lane's ",
+            "getting ",
+            "kinda ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "104311|Got a heavy heart",
+          "text": "Got a heavy heart",
+          "segments": [
+            "Got ",
+            "a ",
+            "heavy ",
+            "heart"
+          ]
+        },
+        {
+          "key": "107543|'Cause it's still beating on its own",
+          "text": "'Cause it's still beating on its own",
+          "segments": [
+            "'Cause ",
+            "it's ",
+            "still ",
+            "beating ",
+            "on ",
+            "its ",
+            "own"
+          ]
+        },
+        {
+          "key": "110438|Might be going out in the crowd",
+          "text": "Might be going out in the crowd",
+          "segments": [
+            "Might ",
+            "be ",
+            "going ",
+            "out ",
+            "in ",
+            "the ",
+            "crowd"
+          ]
+        },
+        {
+          "key": "113790|But I'm still coming home alone",
+          "text": "But I'm still coming home alone",
+          "segments": [
+            "But ",
+            "I'm ",
+            "still ",
+            "coming ",
+            "home ",
+            "alone"
+          ]
+        },
+        {
+          "key": "116754|Not trying to say I'm not grateful for everything",
+          "text": "Not trying to say I'm not grateful for everything",
+          "segments": [
+            "Not ",
+            "trying ",
+            "to ",
+            "say ",
+            "I'm ",
+            "not ",
+            "grateful ",
+            "for ",
+            "everything"
+          ]
+        },
+        {
+          "key": "123320|I'm just going too fast to see",
+          "text": "I'm just going too fast to see",
+          "segments": [
+            "I'm ",
+            "just ",
+            "going ",
+            "too ",
+            "fast ",
+            "to ",
+            "see"
+          ]
+        },
+        {
+          "key": "126144|All the good things in front of me",
+          "text": "All the good things in front of me",
+          "segments": [
+            "All ",
+            "the ",
+            "good ",
+            "things ",
+            "in ",
+            "front ",
+            "of ",
+            "me"
+          ]
+        },
+        {
+          "key": "129698|I'm a Ferrari",
+          "text": "I'm a Ferrari",
+          "segments": [
+            "I'm ",
+            "a ",
+            "Ferrari"
+          ]
+        },
+        {
+          "key": "132590|Pulled off on Mulholland Drive",
+          "text": "Pulled off on Mulholland Drive",
+          "segments": [
+            "Pulled ",
+            "off ",
+            "on ",
+            "Mulholland ",
+            "Drive"
+          ]
+        },
+        {
+          "key": "135811|Over the city the lights are so pretty from up here",
+          "text": "Over the city the lights are so pretty from up here",
+          "segments": [
+            "Over ",
+            "the ",
+            "city ",
+            "the ",
+            "lights ",
+            "are ",
+            "so ",
+            "pretty ",
+            "from ",
+            "up ",
+            "here"
+          ]
+        },
+        {
+          "key": "142054|I'm a Ferrari",
+          "text": "I'm a Ferrari",
+          "segments": [
+            "I'm ",
+            "a ",
+            "Ferrari"
+          ]
+        },
+        {
+          "key": "145078|And after the party's done",
+          "text": "And after the party's done",
+          "segments": [
+            "And ",
+            "after ",
+            "the ",
+            "party's ",
+            "done"
+          ]
+        },
+        {
+          "key": "148426|I keep on going missing the moments",
+          "text": "I keep on going missing the moments",
+          "segments": [
+            "I ",
+            "keep ",
+            "on ",
+            "going ",
+            "missing ",
+            "the ",
+            "moments"
+          ]
+        },
+        {
+          "key": "152829|Living in the fast lane's getting kinda lonely",
+          "text": "Living in the fast lane's getting kinda lonely",
+          "segments": [
+            "Living ",
+            "in ",
+            "the ",
+            "fast ",
+            "lane's ",
+            "getting ",
+            "kinda ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "156116|Whoa whoa whoa",
+          "text": "Whoa whoa whoa",
+          "segments": [
+            "Whoa ",
+            "whoa ",
+            "whoa"
+          ]
+        },
+        {
+          "key": "164928|Living in the fast lane's getting kinda lonely",
+          "text": "Living in the fast lane's getting kinda lonely",
+          "segments": [
+            "Living ",
+            "in ",
+            "the ",
+            "fast ",
+            "lane's ",
+            "getting ",
+            "kinda ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "168538|Whoa whoa whoa",
+          "text": "Whoa whoa whoa",
+          "segments": [
+            "Whoa ",
+            "whoa ",
+            "whoa"
+          ]
+        },
+        {
+          "key": "180511|I'm a Ferrari",
+          "text": "I'm a Ferrari",
+          "segments": [
+            "I'm ",
+            "a ",
+            "Ferrari"
+          ]
+        },
+        {
+          "key": "183077|Pulled off on Mulholland Drive",
+          "text": "Pulled off on Mulholland Drive",
+          "segments": [
+            "Pulled ",
+            "off ",
+            "on ",
+            "Mulholland ",
+            "Drive"
+          ]
+        },
+        {
+          "key": "186101|Over the city the lights are so pretty from up here",
+          "text": "Over the city the lights are so pretty from up here",
+          "segments": [
+            "Over ",
+            "the ",
+            "city ",
+            "the ",
+            "lights ",
+            "are ",
+            "so ",
+            "pretty ",
+            "from ",
+            "up ",
+            "here"
+          ]
+        },
+        {
+          "key": "192340|I'm a Ferrari",
+          "text": "I'm a Ferrari",
+          "segments": [
+            "I'm ",
+            "a ",
+            "Ferrari"
+          ]
+        },
+        {
+          "key": "195300|And after the party's done",
+          "text": "And after the party's done",
+          "segments": [
+            "And ",
+            "after ",
+            "the ",
+            "party's ",
+            "done"
+          ]
+        },
+        {
+          "key": "198586|I keep on going missing the moments",
+          "text": "I keep on going missing the moments",
+          "segments": [
+            "I ",
+            "keep ",
+            "on ",
+            "going ",
+            "missing ",
+            "the ",
+            "moments"
+          ]
+        },
+        {
+          "key": "202925|Living in the fast lane's getting kinda lonely",
+          "text": "Living in the fast lane's getting kinda lonely",
+          "segments": [
+            "Living ",
+            "in ",
+            "the ",
+            "fast ",
+            "lane's ",
+            "getting ",
+            "kinda ",
+            "lonely"
+          ]
+        }
+      ]
+    }
+  ]
+}

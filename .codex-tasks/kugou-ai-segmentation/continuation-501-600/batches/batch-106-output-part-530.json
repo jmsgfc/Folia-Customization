@@ -1,0 +1,515 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:b925fb3eb6b3cf691fa811307d14b0b1",
+      "lines": [
+        {
+          "key": "1390|니가 있는 곳에 나도 함께 할게..",
+          "text": "니가 있는 곳에 나도 함께 할게..",
+          "segments": [
+            "니가 ",
+            "있는 ",
+            "곳에 ",
+            "나도 ",
+            "함께 ",
+            "할게.."
+          ]
+        },
+        {
+          "key": "11891|니가 가는 곳에 나도 함께 갈게..",
+          "text": "니가 가는 곳에 나도 함께 갈게..",
+          "segments": [
+            "니가 ",
+            "가는 ",
+            "곳에 ",
+            "나도 ",
+            "함께 ",
+            "갈게.."
+          ]
+        },
+        {
+          "key": "23700|널 위해서 매일 웃고 널 위해서 기도하고..",
+          "text": "널 위해서 매일 웃고 널 위해서 기도하고..",
+          "segments": [
+            "널 ",
+            "위해서 ",
+            "매일 ",
+            "웃고 ",
+            "널 ",
+            "위해서 ",
+            "기도하고.."
+          ]
+        },
+        {
+          "key": "29451|니 생각에 잠들고 널 부르며 눈을 떠..",
+          "text": "니 생각에 잠들고 널 부르며 눈을 떠..",
+          "segments": [
+            "니 ",
+            "생각에 ",
+            "잠들고 ",
+            "널 ",
+            "부르며 ",
+            "눈을 ",
+            "떠.."
+          ]
+        },
+        {
+          "key": "34498|내 옆에서 지켜주고 내 옆에서 감싸주는..",
+          "text": "내 옆에서 지켜주고 내 옆에서 감싸주는..",
+          "segments": [
+            "내 ",
+            "옆에서 ",
+            "지켜주고 ",
+            "내 ",
+            "옆에서 ",
+            "감싸주는.."
+          ]
+        },
+        {
+          "key": "40368|넌 나의 천국인걸..",
+          "text": "넌 나의 천국인걸..",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "천국인걸.."
+          ]
+        },
+        {
+          "key": "43750|You're my only one way..",
+          "text": "You're my only one way..",
+          "segments": [
+            "You're ",
+            "my ",
+            "only ",
+            "one ",
+            "way.."
+          ]
+        },
+        {
+          "key": "46623|오직 너를 원해 내가 니 곁에 있음에 감사해..",
+          "text": "오직 너를 원해 내가 니 곁에 있음에 감사해..",
+          "segments": [
+            "오직 ",
+            "너를 ",
+            "원해 ",
+            "내가 ",
+            "니 ",
+            "곁에 ",
+            "있음에 ",
+            "감사해.."
+          ]
+        },
+        {
+          "key": "54371|You're the only one babe..",
+          "text": "You're the only one babe..",
+          "segments": [
+            "You're ",
+            "the ",
+            "only ",
+            "one ",
+            "babe.."
+          ]
+        },
+        {
+          "key": "57065|힘든 세상 속에 사랑을 알게 해준",
+          "text": "힘든 세상 속에 사랑을 알게 해준",
+          "segments": [
+            "힘든 ",
+            "세상 ",
+            "속에 ",
+            "사랑을 ",
+            "알게 ",
+            "해준"
+          ]
+        },
+        {
+          "key": "64369|너 하나로 나는 행복해..",
+          "text": "너 하나로 나는 행복해..",
+          "segments": [
+            "너 ",
+            "하나로 ",
+            "나는 ",
+            "행복해.."
+          ]
+        },
+        {
+          "key": "66813|Heaven Heaven Heaven Heaven Heaven",
+          "text": "Heaven Heaven Heaven Heaven Heaven",
+          "segments": [
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven"
+          ]
+        },
+        {
+          "key": "69434|Heaven Heaven Heaven Heaven Heaven",
+          "text": "Heaven Heaven Heaven Heaven Heaven",
+          "segments": [
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven"
+          ]
+        },
+        {
+          "key": "72121|우리 함께라면 we will never cry never never cry.",
+          "text": "우리 함께라면 we will never cry never never cry.",
+          "segments": [
+            "우리 ",
+            "함께라면 ",
+            "we ",
+            "will ",
+            "never ",
+            "cry ",
+            "never ",
+            "never ",
+            "cry."
+          ]
+        },
+        {
+          "key": "77505|Heaven Heaven Heaven Heaven Heaven",
+          "text": "Heaven Heaven Heaven Heaven Heaven",
+          "segments": [
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven"
+          ]
+        },
+        {
+          "key": "79935|Heaven Heaven Heaven Heaven Heaven",
+          "text": "Heaven Heaven Heaven Heaven Heaven",
+          "segments": [
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven"
+          ]
+        },
+        {
+          "key": "83123|영원히 둘이서 never gonna be alone..",
+          "text": "영원히 둘이서 never gonna be alone..",
+          "segments": [
+            "영원히 ",
+            "둘이서 ",
+            "never ",
+            "gonna ",
+            "be ",
+            "alone.."
+          ]
+        },
+        {
+          "key": "90606|니 품에서 숨을 쉬고 니 품에서 입 맞추고..",
+          "text": "니 품에서 숨을 쉬고 니 품에서 입 맞추고..",
+          "segments": [
+            "니 ",
+            "품에서 ",
+            "숨을 ",
+            "쉬고 ",
+            "니 ",
+            "품에서 ",
+            "입 ",
+            "맞추고.."
+          ]
+        },
+        {
+          "key": "96038|니 목소릴 들으면 꿈 꾸는 것 만 같아..",
+          "text": "니 목소릴 들으면 꿈 꾸는 것 만 같아..",
+          "segments": [
+            "니 ",
+            "목소릴 ",
+            "들으면 ",
+            "꿈 ",
+            "꾸는 ",
+            "것 ",
+            "만 ",
+            "같아.."
+          ]
+        },
+        {
+          "key": "101106|니 눈에서 알 수 있어 니 사랑을 알 수 있어..",
+          "text": "니 눈에서 알 수 있어 니 사랑을 알 수 있어..",
+          "segments": [
+            "니 ",
+            "눈에서 ",
+            "알 ",
+            "수 ",
+            "있어 ",
+            "니 ",
+            "사랑을 ",
+            "알 ",
+            "수 ",
+            "있어.."
+          ]
+        },
+        {
+          "key": "107042|넌 나의 천국인걸..",
+          "text": "넌 나의 천국인걸..",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "천국인걸.."
+          ]
+        },
+        {
+          "key": "110290|You're my only one way..",
+          "text": "You're my only one way..",
+          "segments": [
+            "You're ",
+            "my ",
+            "only ",
+            "one ",
+            "way.."
+          ]
+        },
+        {
+          "key": "113229|오직 너를 원해 내가 니 곁에 있음에 감사해..",
+          "text": "오직 너를 원해 내가 니 곁에 있음에 감사해..",
+          "segments": [
+            "오직 ",
+            "너를 ",
+            "원해 ",
+            "내가 ",
+            "니 ",
+            "곁에 ",
+            "있음에 ",
+            "감사해.."
+          ]
+        },
+        {
+          "key": "121153|You're the only one babe..",
+          "text": "You're the only one babe..",
+          "segments": [
+            "You're ",
+            "the ",
+            "only ",
+            "one ",
+            "babe.."
+          ]
+        },
+        {
+          "key": "123841|힘든 세상 속에 사랑을 알게 해준",
+          "text": "힘든 세상 속에 사랑을 알게 해준",
+          "segments": [
+            "힘든 ",
+            "세상 ",
+            "속에 ",
+            "사랑을 ",
+            "알게 ",
+            "해준"
+          ]
+        },
+        {
+          "key": "131029|너 하나로 나는 행복해..",
+          "text": "너 하나로 나는 행복해..",
+          "segments": [
+            "너 ",
+            "하나로 ",
+            "나는 ",
+            "행복해.."
+          ]
+        },
+        {
+          "key": "133405|Heaven 나만의 사람 그래 나를 지켜줄 사람..",
+          "text": "Heaven 나만의 사람 그래 나를 지켜줄 사람..",
+          "segments": [
+            "Heaven ",
+            "나만의 ",
+            "사람 ",
+            "그래 ",
+            "나를 ",
+            "지켜줄 ",
+            "사람.."
+          ]
+        },
+        {
+          "key": "138405|어떤 슬픔도 어떤 아픔도 너와 함께 한다면..",
+          "text": "어떤 슬픔도 어떤 아픔도 너와 함께 한다면..",
+          "segments": [
+            "어떤 ",
+            "슬픔도 ",
+            "어떤 ",
+            "아픔도 ",
+            "너와 ",
+            "함께 ",
+            "한다면.."
+          ]
+        },
+        {
+          "key": "145091|어느 누구도 난 부럽지 않아..",
+          "text": "어느 누구도 난 부럽지 않아..",
+          "segments": [
+            "어느 ",
+            "누구도 ",
+            "난 ",
+            "부럽지 ",
+            "않아.."
+          ]
+        },
+        {
+          "key": "149216|떨리는 두 손을 잡아줘",
+          "text": "떨리는 두 손을 잡아줘",
+          "segments": [
+            "떨리는 ",
+            "두 ",
+            "손을 ",
+            "잡아줘"
+          ]
+        },
+        {
+          "key": "152276|내가 사는 이유 너니까..",
+          "text": "내가 사는 이유 너니까..",
+          "segments": [
+            "내가 ",
+            "사는 ",
+            "이유 ",
+            "너니까.."
+          ]
+        },
+        {
+          "key": "155841|You're my only one way..",
+          "text": "You're my only one way..",
+          "segments": [
+            "You're ",
+            "my ",
+            "only ",
+            "one ",
+            "way.."
+          ]
+        },
+        {
+          "key": "158404|오직 너를 원해 내가 니 곁에 있음에 감사해..",
+          "text": "오직 너를 원해 내가 니 곁에 있음에 감사해..",
+          "segments": [
+            "오직 ",
+            "너를 ",
+            "원해 ",
+            "내가 ",
+            "니 ",
+            "곁에 ",
+            "있음에 ",
+            "감사해.."
+          ]
+        },
+        {
+          "key": "166586|You're the only one babe..",
+          "text": "You're the only one babe..",
+          "segments": [
+            "You're ",
+            "the ",
+            "only ",
+            "one ",
+            "babe.."
+          ]
+        },
+        {
+          "key": "169151|힘든 세상 속에 사랑을 알게 해준",
+          "text": "힘든 세상 속에 사랑을 알게 해준",
+          "segments": [
+            "힘든 ",
+            "세상 ",
+            "속에 ",
+            "사랑을 ",
+            "알게 ",
+            "해준"
+          ]
+        },
+        {
+          "key": "176337|너 하나로 나는 행복해..",
+          "text": "너 하나로 나는 행복해..",
+          "segments": [
+            "너 ",
+            "하나로 ",
+            "나는 ",
+            "행복해.."
+          ]
+        },
+        {
+          "key": "178774|Heaven Heaven Heaven Heaven Heaven",
+          "text": "Heaven Heaven Heaven Heaven Heaven",
+          "segments": [
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven"
+          ]
+        },
+        {
+          "key": "181398|Heaven Heaven Heaven Heaven Heaven",
+          "text": "Heaven Heaven Heaven Heaven Heaven",
+          "segments": [
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven"
+          ]
+        },
+        {
+          "key": "184558|우리 함께라면 we will never cry never never cry..",
+          "text": "우리 함께라면 we will never cry never never cry..",
+          "segments": [
+            "우리 ",
+            "함께라면 ",
+            "we ",
+            "will ",
+            "never ",
+            "cry ",
+            "never ",
+            "never ",
+            "cry.."
+          ]
+        },
+        {
+          "key": "189497|Heaven Heaven Heaven Heaven Heaven",
+          "text": "Heaven Heaven Heaven Heaven Heaven",
+          "segments": [
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven"
+          ]
+        },
+        {
+          "key": "192118|Heaven Heaven Heaven Heaven Heaven",
+          "text": "Heaven Heaven Heaven Heaven Heaven",
+          "segments": [
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven ",
+            "Heaven"
+          ]
+        },
+        {
+          "key": "194808|영원히 둘이서 never gonna be alone..",
+          "text": "영원히 둘이서 never gonna be alone..",
+          "segments": [
+            "영원히 ",
+            "둘이서 ",
+            "never ",
+            "gonna ",
+            "be ",
+            "alone.."
+          ]
+        },
+        {
+          "key": "199806|Oh, so alone.",
+          "text": "Oh, so alone.",
+          "segments": [
+            "Oh, ",
+            "so ",
+            "alone."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,895 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:350141b67fa4893cdc5b86fe9c3b605c",
+      "lines": [
+        {
+          "key": "46|周杰伦、派伟俊 - Try",
+          "text": "周杰伦、派伟俊 - Try",
+          "segments": [
+            "周杰伦",
+            "、",
+            "派伟俊",
+            " - ",
+            "Try"
+          ]
+        },
+        {
+          "key": "4049|中文词：方文山",
+          "text": "中文词：方文山",
+          "segments": [
+            "中文词：",
+            "方文山"
+          ]
+        },
+        {
+          "key": "5059|英文词：冼佩瑾",
+          "text": "英文词：冼佩瑾",
+          "segments": [
+            "英文词：",
+            "冼佩瑾"
+          ]
+        },
+        {
+          "key": "6129|曲：派伟俊",
+          "text": "曲：派伟俊",
+          "segments": [
+            "曲：",
+            "派伟俊"
+          ]
+        },
+        {
+          "key": "17501|小派：You always have to do something",
+          "text": "小派：You always have to do something",
+          "segments": [
+            "小派：",
+            "You always have to do something"
+          ]
+        },
+        {
+          "key": "20030|Just to show the world that you exist",
+          "text": "Just to show the world that you exist",
+          "segments": [
+            "Just ",
+            "to ",
+            "show ",
+            "the ",
+            "world ",
+            "that ",
+            "you ",
+            "exist"
+          ]
+        },
+        {
+          "key": "22390|So you try",
+          "text": "So you try",
+          "segments": [
+            "So ",
+            "you ",
+            "try"
+          ]
+        },
+        {
+          "key": "24749|You hope they'll see",
+          "text": "You hope they'll see",
+          "segments": [
+            "You ",
+            "hope ",
+            "they'll ",
+            "see"
+          ]
+        },
+        {
+          "key": "27109|If on this brand new day you'll look",
+          "text": "If on this brand new day you'll look",
+          "segments": [
+            "If ",
+            "on ",
+            "this ",
+            "brand ",
+            "new ",
+            "day ",
+            "you'll ",
+            "look"
+          ]
+        },
+        {
+          "key": "29209|On the bright side of the same old street",
+          "text": "On the bright side of the same old street",
+          "segments": [
+            "On ",
+            "the ",
+            "bright ",
+            "side ",
+            "of ",
+            "the ",
+            "same ",
+            "old ",
+            "street"
+          ]
+        },
+        {
+          "key": "31388|You will see",
+          "text": "You will see",
+          "segments": [
+            "You ",
+            "will ",
+            "see"
+          ]
+        },
+        {
+          "key": "33708|What you deserve",
+          "text": "What you deserve",
+          "segments": [
+            "What ",
+            "you ",
+            "deserve"
+          ]
+        },
+        {
+          "key": "35118|Jay：Let's go",
+          "text": "Jay：Let's go",
+          "segments": [
+            "Jay：",
+            "Let's go"
+          ]
+        },
+        {
+          "key": "36018|我说几华里我送别了过去",
+          "text": "我说几华里我送别了过去",
+          "segments": [
+            "我说",
+            "几华里",
+            "我",
+            "送别了",
+            "过去"
+          ]
+        },
+        {
+          "key": "38558|他们说人生的结局非常的戏剧",
+          "text": "他们说人生的结局非常的戏剧",
+          "segments": [
+            "他们",
+            "说",
+            "人生",
+            "的",
+            "结局",
+            "非常",
+            "的",
+            "戏剧"
+          ]
+        },
+        {
+          "key": "40858|塞外羌笛孤城马蹄",
+          "text": "塞外羌笛孤城马蹄",
+          "segments": [
+            "塞外",
+            "羌笛",
+            "孤城",
+            "马蹄"
+          ]
+        },
+        {
+          "key": "42818|在武侠的世界里谁与谁来为敌",
+          "text": "在武侠的世界里谁与谁来为敌",
+          "segments": [
+            "在",
+            "武侠的",
+            "世界里",
+            "谁与谁",
+            "来",
+            "为敌"
+          ]
+        },
+        {
+          "key": "45077|合：La la la la la la la la la",
+          "text": "合：La la la la la la la la la",
+          "segments": [
+            "合：",
+            "La la la la la la la la la"
+          ]
+        },
+        {
+          "key": "49006|黄沙里用竹笔写下的字叫勇气",
+          "text": "黄沙里用竹笔写下的字叫勇气",
+          "segments": [
+            "黄沙里",
+            "用",
+            "竹笔",
+            "写下的",
+            "字",
+            "叫",
+            "勇气"
+          ]
+        },
+        {
+          "key": "53435|Jay：You just have to try",
+          "text": "Jay：You just have to try",
+          "segments": [
+            "Jay：",
+            "You just have to try"
+          ]
+        },
+        {
+          "key": "56353|To be who you are",
+          "text": "To be who you are",
+          "segments": [
+            "To ",
+            "be ",
+            "who ",
+            "you ",
+            "are"
+          ]
+        },
+        {
+          "key": "58003|And you ought to fly",
+          "text": "And you ought to fly",
+          "segments": [
+            "And ",
+            "you ",
+            "ought ",
+            "to ",
+            "fly"
+          ]
+        },
+        {
+          "key": "60902|Step into the light",
+          "text": "Step into the light",
+          "segments": [
+            "Step ",
+            "into ",
+            "the ",
+            "light"
+          ]
+        },
+        {
+          "key": "62310|小派：And soon you will find",
+          "text": "小派：And soon you will find",
+          "segments": [
+            "小派：",
+            "And soon you will find"
+          ]
+        },
+        {
+          "key": "64150|Be yourself",
+          "text": "Be yourself",
+          "segments": [
+            "Be ",
+            "yourself"
+          ]
+        },
+        {
+          "key": "65540|Somewhere deep inside",
+          "text": "Somewhere deep inside",
+          "segments": [
+            "Somewhere ",
+            "deep ",
+            "inside"
+          ]
+        },
+        {
+          "key": "67150|There's a universe right there waiting to be unlocked",
+          "text": "There's a universe right there waiting to be unlocked",
+          "segments": [
+            "There's ",
+            "a ",
+            "universe ",
+            "right ",
+            "there ",
+            "waiting ",
+            "to ",
+            "be ",
+            "unlocked"
+          ]
+        },
+        {
+          "key": "70158|The key lies in looking into yourself",
+          "text": "The key lies in looking into yourself",
+          "segments": [
+            "The ",
+            "key ",
+            "lies ",
+            "in ",
+            "looking ",
+            "into ",
+            "yourself"
+          ]
+        },
+        {
+          "key": "71906|Jay：Oh Try try try try",
+          "text": "Jay：Oh Try try try try",
+          "segments": [
+            "Jay：",
+            "Oh Try try try try"
+          ]
+        },
+        {
+          "key": "74555|Just do what is right",
+          "text": "Just do what is right",
+          "segments": [
+            "Just ",
+            "do ",
+            "what ",
+            "is ",
+            "right"
+          ]
+        },
+        {
+          "key": "76154|You'll fly so high",
+          "text": "You'll fly so high",
+          "segments": [
+            "You'll ",
+            "fly ",
+            "so ",
+            "high"
+          ]
+        },
+        {
+          "key": "79093|Let go of the brakes",
+          "text": "Let go of the brakes",
+          "segments": [
+            "Let ",
+            "go ",
+            "of ",
+            "the ",
+            "brakes"
+          ]
+        },
+        {
+          "key": "80733|Be who you are",
+          "text": "Be who you are",
+          "segments": [
+            "Be ",
+            "who ",
+            "you ",
+            "are"
+          ]
+        },
+        {
+          "key": "82223|Be yourself 'cause your power is on",
+          "text": "Be yourself 'cause your power is on",
+          "segments": [
+            "Be ",
+            "yourself ",
+            "'cause ",
+            "your ",
+            "power ",
+            "is ",
+            "on"
+          ]
+        },
+        {
+          "key": "85090|合： When you believe in what you've got",
+          "text": "合： When you believe in what you've got",
+          "segments": [
+            "合：",
+            " When you believe in what you've got"
+          ]
+        },
+        {
+          "key": "87448|You know you're perfect just be who you are",
+          "text": "You know you're perfect just be who you are",
+          "segments": [
+            "You ",
+            "know ",
+            "you're ",
+            "perfect ",
+            "just ",
+            "be ",
+            "who ",
+            "you ",
+            "are"
+          ]
+        },
+        {
+          "key": "98077|小派：So they don't see what you're made of",
+          "text": "小派：So they don't see what you're made of",
+          "segments": [
+            "小派：",
+            "So they don't see what you're made of"
+          ]
+        },
+        {
+          "key": "101707|But I like you and I know they're wrong",
+          "text": "But I like you and I know they're wrong",
+          "segments": [
+            "But ",
+            "I ",
+            "like ",
+            "you ",
+            "and ",
+            "I ",
+            "know ",
+            "they're ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "104057|Now it's time",
+          "text": "Now it's time",
+          "segments": [
+            "Now ",
+            "it's ",
+            "time"
+          ]
+        },
+        {
+          "key": "106257|To show them what you got",
+          "text": "To show them what you got",
+          "segments": [
+            "To ",
+            "show ",
+            "them ",
+            "what ",
+            "you ",
+            "got"
+          ]
+        },
+        {
+          "key": "108657|Let the blue skies cheer you on",
+          "text": "Let the blue skies cheer you on",
+          "segments": [
+            "Let ",
+            "the ",
+            "blue ",
+            "skies ",
+            "cheer ",
+            "you ",
+            "on"
+          ]
+        },
+        {
+          "key": "110787|Embrace the wind we'll ride along",
+          "text": "Embrace the wind we'll ride along",
+          "segments": [
+            "Embrace ",
+            "the ",
+            "wind ",
+            "we'll ",
+            "ride ",
+            "along"
+          ]
+        },
+        {
+          "key": "112957|You're perfect when you're who you are",
+          "text": "You're perfect when you're who you are",
+          "segments": [
+            "You're ",
+            "perfect ",
+            "when ",
+            "you're ",
+            "who ",
+            "you ",
+            "are"
+          ]
+        },
+        {
+          "key": "116896|Jay：这世界有些事有些人凭感觉",
+          "text": "Jay：这世界有些事有些人凭感觉",
+          "segments": [
+            "Jay：",
+            "这世界有些事有些人凭感觉"
+          ]
+        },
+        {
+          "key": "119696|别管他旌旗密布遍野狼烟霜雪",
+          "text": "别管他旌旗密布遍野狼烟霜雪",
+          "segments": [
+            "别管",
+            "他",
+            "旌旗",
+            "密布",
+            "遍野",
+            "狼",
+            "烟",
+            "霜雪"
+          ]
+        },
+        {
+          "key": "121893|那故事在穿越而我也在翻页",
+          "text": "那故事在穿越而我也在翻页",
+          "segments": [
+            "那故事",
+            "在穿越",
+            "而我",
+            "也在",
+            "翻页"
+          ]
+        },
+        {
+          "key": "124280|一行行做好准备敏锐而直接",
+          "text": "一行行做好准备敏锐而直接",
+          "segments": [
+            "一行",
+            "行",
+            "做好",
+            "准备",
+            "敏锐",
+            "而",
+            "直接"
+          ]
+        },
+        {
+          "key": "126460|合：La la la la la la la la la",
+          "text": "合：La la la la la la la la la",
+          "segments": [
+            "合：",
+            "La la la la la la la la la"
+          ]
+        },
+        {
+          "key": "130620|爱不灭真实的一切废话全收回",
+          "text": "爱不灭真实的一切废话全收回",
+          "segments": [
+            "爱",
+            "不灭",
+            "真实",
+            "的",
+            "一切",
+            "废话",
+            "全",
+            "收回"
+          ]
+        },
+        {
+          "key": "134889|小派：You just have to try",
+          "text": "小派：You just have to try",
+          "segments": [
+            "小派：",
+            "You just have to try"
+          ]
+        },
+        {
+          "key": "137999|To be who you are",
+          "text": "To be who you are",
+          "segments": [
+            "To ",
+            "be ",
+            "who ",
+            "you ",
+            "are"
+          ]
+        },
+        {
+          "key": "139499|Jay：And you ought to fly",
+          "text": "Jay：And you ought to fly",
+          "segments": [
+            "Jay：",
+            "And you ought to fly"
+          ]
+        },
+        {
+          "key": "142379|Step into the light",
+          "text": "Step into the light",
+          "segments": [
+            "Step ",
+            "into ",
+            "the ",
+            "light"
+          ]
+        },
+        {
+          "key": "143918|小派：And soon you will find",
+          "text": "小派：And soon you will find",
+          "segments": [
+            "小派：",
+            "And soon you will find"
+          ]
+        },
+        {
+          "key": "145727|Be yourself",
+          "text": "Be yourself",
+          "segments": [
+            "Be ",
+            "yourself"
+          ]
+        },
+        {
+          "key": "146947|Somewhere deep inside",
+          "text": "Somewhere deep inside",
+          "segments": [
+            "Somewhere ",
+            "deep ",
+            "inside"
+          ]
+        },
+        {
+          "key": "148497|There's a universe right there waiting to be unlocked",
+          "text": "There's a universe right there waiting to be unlocked",
+          "segments": [
+            "There's ",
+            "a ",
+            "universe ",
+            "right ",
+            "there ",
+            "waiting ",
+            "to ",
+            "be ",
+            "unlocked"
+          ]
+        },
+        {
+          "key": "151655|The key lies in looking into yourself",
+          "text": "The key lies in looking into yourself",
+          "segments": [
+            "The ",
+            "key ",
+            "lies ",
+            "in ",
+            "looking ",
+            "into ",
+            "yourself"
+          ]
+        },
+        {
+          "key": "153475|Jay：Oh Try try try try",
+          "text": "Jay：Oh Try try try try",
+          "segments": [
+            "Jay：",
+            "Oh Try try try try"
+          ]
+        },
+        {
+          "key": "156105|Just do what is right",
+          "text": "Just do what is right",
+          "segments": [
+            "Just ",
+            "do ",
+            "what ",
+            "is ",
+            "right"
+          ]
+        },
+        {
+          "key": "157585|You'll fly so high",
+          "text": "You'll fly so high",
+          "segments": [
+            "You'll ",
+            "fly ",
+            "so ",
+            "high"
+          ]
+        },
+        {
+          "key": "160555|Let go of the brakes",
+          "text": "Let go of the brakes",
+          "segments": [
+            "Let ",
+            "go ",
+            "of ",
+            "the ",
+            "brakes"
+          ]
+        },
+        {
+          "key": "162094|合： Be who you are",
+          "text": "合： Be who you are",
+          "segments": [
+            "合：",
+            " Be who you are"
+          ]
+        },
+        {
+          "key": "163764|Be yourself 'cause your power is on",
+          "text": "Be yourself 'cause your power is on",
+          "segments": [
+            "Be ",
+            "yourself ",
+            "'cause ",
+            "your ",
+            "power ",
+            "is ",
+            "on"
+          ]
+        },
+        {
+          "key": "166832|When you believe in what you've got",
+          "text": "When you believe in what you've got",
+          "segments": [
+            "When ",
+            "you ",
+            "believe ",
+            "in ",
+            "what ",
+            "you've ",
+            "got"
+          ]
+        },
+        {
+          "key": "169032|You know you're perfect just be who you are",
+          "text": "You know you're perfect just be who you are",
+          "segments": [
+            "You ",
+            "know ",
+            "you're ",
+            "perfect ",
+            "just ",
+            "be ",
+            "who ",
+            "you ",
+            "are"
+          ]
+        },
+        {
+          "key": "179703|小派：You just have to try",
+          "text": "小派：You just have to try",
+          "segments": [
+            "小派：",
+            "You just have to try"
+          ]
+        },
+        {
+          "key": "183212|To be who you are",
+          "text": "To be who you are",
+          "segments": [
+            "To ",
+            "be ",
+            "who ",
+            "you ",
+            "are"
+          ]
+        },
+        {
+          "key": "184682|Jay：And you ought to fly",
+          "text": "Jay：And you ought to fly",
+          "segments": [
+            "Jay：",
+            "And you ought to fly"
+          ]
+        },
+        {
+          "key": "187822|Step into the light",
+          "text": "Step into the light",
+          "segments": [
+            "Step ",
+            "into ",
+            "the ",
+            "light"
+          ]
+        },
+        {
+          "key": "189061|小派：And soon you will find",
+          "text": "小派：And soon you will find",
+          "segments": [
+            "小派：",
+            "And soon you will find"
+          ]
+        },
+        {
+          "key": "190701|Be yourself",
+          "text": "Be yourself",
+          "segments": [
+            "Be ",
+            "yourself"
+          ]
+        },
+        {
+          "key": "192221|Somewhere deep inside",
+          "text": "Somewhere deep inside",
+          "segments": [
+            "Somewhere ",
+            "deep ",
+            "inside"
+          ]
+        },
+        {
+          "key": "193800|There's a universe right there waiting to be unlocked",
+          "text": "There's a universe right there waiting to be unlocked",
+          "segments": [
+            "There's ",
+            "a ",
+            "universe ",
+            "right ",
+            "there ",
+            "waiting ",
+            "to ",
+            "be ",
+            "unlocked"
+          ]
+        },
+        {
+          "key": "196898|The key lies in looking into yourself",
+          "text": "The key lies in looking into yourself",
+          "segments": [
+            "The ",
+            "key ",
+            "lies ",
+            "in ",
+            "looking ",
+            "into ",
+            "yourself"
+          ]
+        },
+        {
+          "key": "198767|Jay：Oh Try try try try",
+          "text": "Jay：Oh Try try try try",
+          "segments": [
+            "Jay：",
+            "Oh Try try try try"
+          ]
+        },
+        {
+          "key": "201307|Just do what is right",
+          "text": "Just do what is right",
+          "segments": [
+            "Just ",
+            "do ",
+            "what ",
+            "is ",
+            "right"
+          ]
+        },
+        {
+          "key": "202957|You'll fly so high",
+          "text": "You'll fly so high",
+          "segments": [
+            "You'll ",
+            "fly ",
+            "so ",
+            "high"
+          ]
+        },
+        {
+          "key": "205847|Let go of the brakes",
+          "text": "Let go of the brakes",
+          "segments": [
+            "Let ",
+            "go ",
+            "of ",
+            "the ",
+            "brakes"
+          ]
+        },
+        {
+          "key": "207317|合： Be who you are",
+          "text": "合： Be who you are",
+          "segments": [
+            "合：",
+            " Be who you are"
+          ]
+        },
+        {
+          "key": "208886|Be yourself 'cause your power is on",
+          "text": "Be yourself 'cause your power is on",
+          "segments": [
+            "Be ",
+            "yourself ",
+            "'cause ",
+            "your ",
+            "power ",
+            "is ",
+            "on"
+          ]
+        },
+        {
+          "key": "212025|When you believe in what you've got",
+          "text": "When you believe in what you've got",
+          "segments": [
+            "When ",
+            "you ",
+            "believe ",
+            "in ",
+            "what ",
+            "you've ",
+            "got"
+          ]
+        },
+        {
+          "key": "214314|You know you're perfect just be who you are",
+          "text": "You know you're perfect just be who you are",
+          "segments": [
+            "You ",
+            "know ",
+            "you're ",
+            "perfect ",
+            "just ",
+            "be ",
+            "who ",
+            "you ",
+            "are"
+          ]
+        }
+      ]
+    }
+  ]
+}

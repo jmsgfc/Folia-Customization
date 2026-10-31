@@ -1,0 +1,1024 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:5398a869f2da90bfb80f17fb9963fec5",
+      "lines": [
+        {
+          "key": "0|Passion Pit - Take A Walk",
+          "text": "Passion Pit - Take A Walk",
+          "segments": [
+            "Passion Pit",
+            " - ",
+            "Take A Walk"
+          ]
+        },
+        {
+          "key": "44806|All these kinds of places",
+          "text": "All these kinds of places",
+          "segments": [
+            "All ",
+            "these ",
+            "kinds ",
+            "of ",
+            "places"
+          ]
+        },
+        {
+          "key": "46301|Make it seem like it's been ages",
+          "text": "Make it seem like it's been ages",
+          "segments": [
+            "Make ",
+            "it ",
+            "seem ",
+            "like ",
+            "it's ",
+            "been ",
+            "ages"
+          ]
+        },
+        {
+          "key": "48849|Tomorrow some new building",
+          "text": "Tomorrow some new building",
+          "segments": [
+            "Tomorrow ",
+            "some ",
+            "new ",
+            "building"
+          ]
+        },
+        {
+          "key": "50813|Will scrape the sky",
+          "text": "Will scrape the sky",
+          "segments": [
+            "Will ",
+            "scrape ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "53789|I love this country dearly",
+          "text": "I love this country dearly",
+          "segments": [
+            "I ",
+            "love ",
+            "this ",
+            "country ",
+            "dearly"
+          ]
+        },
+        {
+          "key": "55885|I can feel the ladder clearly",
+          "text": "I can feel the ladder clearly",
+          "segments": [
+            "I ",
+            "can ",
+            "feel ",
+            "the ",
+            "ladder ",
+            "clearly"
+          ]
+        },
+        {
+          "key": "58190|But I never thought",
+          "text": "But I never thought",
+          "segments": [
+            "But ",
+            "I ",
+            "never ",
+            "thought"
+          ]
+        },
+        {
+          "key": "59560|I'd be alone to try",
+          "text": "I'd be alone to try",
+          "segments": [
+            "I'd ",
+            "be ",
+            "alone ",
+            "to ",
+            "try"
+          ]
+        },
+        {
+          "key": "63330|Once I was outside Penn Station",
+          "text": "Once I was outside Penn Station",
+          "segments": [
+            "Once ",
+            "I ",
+            "was ",
+            "outside ",
+            "Penn ",
+            "Station"
+          ]
+        },
+        {
+          "key": "65934|Selling red and white carnations",
+          "text": "Selling red and white carnations",
+          "segments": [
+            "Selling ",
+            "red ",
+            "and ",
+            "white ",
+            "carnations"
+          ]
+        },
+        {
+          "key": "68104|We were still alone  my wife and I",
+          "text": "We were still alone  my wife and I",
+          "segments": [
+            "We ",
+            "were ",
+            "still ",
+            "alone  ",
+            "my ",
+            "wife ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "72864|Before we married  saved my money",
+          "text": "Before we married  saved my money",
+          "segments": [
+            "Before ",
+            "we ",
+            "married  ",
+            "saved ",
+            "my ",
+            "money"
+          ]
+        },
+        {
+          "key": "75247|Brought my dear wife over",
+          "text": "Brought my dear wife over",
+          "segments": [
+            "Brought ",
+            "my ",
+            "dear ",
+            "wife ",
+            "over"
+          ]
+        },
+        {
+          "key": "77023|Now I work to bring",
+          "text": "Now I work to bring",
+          "segments": [
+            "Now ",
+            "I ",
+            "work ",
+            "to ",
+            "bring"
+          ]
+        },
+        {
+          "key": "78523|My family stateside",
+          "text": "My family stateside",
+          "segments": [
+            "My ",
+            "family ",
+            "stateside"
+          ]
+        },
+        {
+          "key": "82567|But off the boat they stayed",
+          "text": "But off the boat they stayed",
+          "segments": [
+            "But ",
+            "off ",
+            "the ",
+            "boat ",
+            "they ",
+            "stayed"
+          ]
+        },
+        {
+          "key": "83892|A while then scattered",
+          "text": "A while then scattered",
+          "segments": [
+            "A ",
+            "while ",
+            "then ",
+            "scattered"
+          ]
+        },
+        {
+          "key": "85180|Across the coast",
+          "text": "Across the coast",
+          "segments": [
+            "Across ",
+            "the ",
+            "coast"
+          ]
+        },
+        {
+          "key": "87280|Once a year I'll see them",
+          "text": "Once a year I'll see them",
+          "segments": [
+            "Once ",
+            "a ",
+            "year ",
+            "I'll ",
+            "see ",
+            "them"
+          ]
+        },
+        {
+          "key": "88832|For a week or so at most",
+          "text": "For a week or so at most",
+          "segments": [
+            "For ",
+            "a ",
+            "week ",
+            "or ",
+            "so ",
+            "at ",
+            "most"
+          ]
+        },
+        {
+          "key": "91141|I take a walk",
+          "text": "I take a walk",
+          "segments": [
+            "I ",
+            "take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "92675|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "95000|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "97588|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "102295|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "103311|I take a walk",
+          "text": "I take a walk",
+          "segments": [
+            "I ",
+            "take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "104491|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "108226|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "109402|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "111072|Practice isn't perfect",
+          "text": "Practice isn't perfect",
+          "segments": [
+            "Practice ",
+            "isn't ",
+            "perfect"
+          ]
+        },
+        {
+          "key": "112832|But the market cuts the loss",
+          "text": "But the market cuts the loss",
+          "segments": [
+            "But ",
+            "the ",
+            "market ",
+            "cuts ",
+            "the ",
+            "loss"
+          ]
+        },
+        {
+          "key": "115372|I remind myself that times",
+          "text": "I remind myself that times",
+          "segments": [
+            "I ",
+            "remind ",
+            "myself ",
+            "that ",
+            "times"
+          ]
+        },
+        {
+          "key": "117228|Could be much worse",
+          "text": "Could be much worse",
+          "segments": [
+            "Could ",
+            "be ",
+            "much ",
+            "worse"
+          ]
+        },
+        {
+          "key": "120238|My wife won't ask me questions",
+          "text": "My wife won't ask me questions",
+          "segments": [
+            "My ",
+            "wife ",
+            "won't ",
+            "ask ",
+            "me ",
+            "questions"
+          ]
+        },
+        {
+          "key": "122659|There's not so much to ask",
+          "text": "There's not so much to ask",
+          "segments": [
+            "There's ",
+            "not ",
+            "so ",
+            "much ",
+            "to ",
+            "ask"
+          ]
+        },
+        {
+          "key": "124861|And she'll never flaunt",
+          "text": "And she'll never flaunt",
+          "segments": [
+            "And ",
+            "she'll ",
+            "never ",
+            "flaunt"
+          ]
+        },
+        {
+          "key": "126267|Around an empty purse",
+          "text": "Around an empty purse",
+          "segments": [
+            "Around ",
+            "an ",
+            "empty ",
+            "purse"
+          ]
+        },
+        {
+          "key": "130063|Once my mother-in-law came",
+          "text": "Once my mother-in-law came",
+          "segments": [
+            "Once ",
+            "my ",
+            "mother",
+            "-",
+            "in",
+            "-",
+            "law ",
+            "came"
+          ]
+        },
+        {
+          "key": "131839|Just to stay a couple nights",
+          "text": "Just to stay a couple nights",
+          "segments": [
+            "Just ",
+            "to ",
+            "stay ",
+            "a ",
+            "couple ",
+            "nights"
+          ]
+        },
+        {
+          "key": "134339|Then decided she would stay",
+          "text": "Then decided she would stay",
+          "segments": [
+            "Then ",
+            "decided ",
+            "she ",
+            "would ",
+            "stay"
+          ]
+        },
+        {
+          "key": "136195|The rest of her life",
+          "text": "The rest of her life",
+          "segments": [
+            "The ",
+            "rest ",
+            "of ",
+            "her ",
+            "life"
+          ]
+        },
+        {
+          "key": "139310|I watch my little children",
+          "text": "I watch my little children",
+          "segments": [
+            "I ",
+            "watch ",
+            "my ",
+            "little ",
+            "children"
+          ]
+        },
+        {
+          "key": "141246|Play some board game",
+          "text": "Play some board game",
+          "segments": [
+            "Play ",
+            "some ",
+            "board ",
+            "game"
+          ]
+        },
+        {
+          "key": "142736|In the kitchen",
+          "text": "In the kitchen",
+          "segments": [
+            "In ",
+            "the ",
+            "kitchen"
+          ]
+        },
+        {
+          "key": "143868|And I sit and pray",
+          "text": "And I sit and pray",
+          "segments": [
+            "And ",
+            "I ",
+            "sit ",
+            "and ",
+            "pray"
+          ]
+        },
+        {
+          "key": "145152|They never feel my strife",
+          "text": "They never feel my strife",
+          "segments": [
+            "They ",
+            "never ",
+            "feel ",
+            "my ",
+            "strife"
+          ]
+        },
+        {
+          "key": "148958|But then my partner called to say",
+          "text": "But then my partner called to say",
+          "segments": [
+            "But ",
+            "then ",
+            "my ",
+            "partner ",
+            "called ",
+            "to ",
+            "say"
+          ]
+        },
+        {
+          "key": "151036|The pension funds were gone",
+          "text": "The pension funds were gone",
+          "segments": [
+            "The ",
+            "pension ",
+            "funds ",
+            "were ",
+            "gone"
+          ]
+        },
+        {
+          "key": "153536|We made some bad investments",
+          "text": "We made some bad investments",
+          "segments": [
+            "We ",
+            "made ",
+            "some ",
+            "bad ",
+            "investments"
+          ]
+        },
+        {
+          "key": "155972|Now the accounts are overdrawn",
+          "text": "Now the accounts are overdrawn",
+          "segments": [
+            "Now ",
+            "the ",
+            "accounts ",
+            "are ",
+            "overdrawn"
+          ]
+        },
+        {
+          "key": "157661|I take a walk",
+          "text": "I take a walk",
+          "segments": [
+            "I ",
+            "take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "159220|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "161519|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "164121|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "168880|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "169822|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "171067|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "177786|Honey  it's your son ",
+          "text": "Honey  it's your son ",
+          "segments": [
+            "Honey  ",
+            "it's ",
+            "your ",
+            "son "
+          ]
+        },
+        {
+          "key": "179222|I think I borrowed just too much",
+          "text": "I think I borrowed just too much",
+          "segments": [
+            "I ",
+            "think ",
+            "I ",
+            "borrowed ",
+            "just ",
+            "too ",
+            "much"
+          ]
+        },
+        {
+          "key": "181999|We had taxes  we had bills ",
+          "text": "We had taxes  we had bills ",
+          "segments": [
+            "We ",
+            "had ",
+            "taxes  ",
+            "we ",
+            "had ",
+            "bills "
+          ]
+        },
+        {
+          "key": "184011|We had a lifestyle to front",
+          "text": "We had a lifestyle to front",
+          "segments": [
+            "We ",
+            "had ",
+            "a ",
+            "lifestyle ",
+            "to ",
+            "front"
+          ]
+        },
+        {
+          "key": "186562|And tonight I swear",
+          "text": "And tonight I swear",
+          "segments": [
+            "And ",
+            "tonight ",
+            "I ",
+            "swear"
+          ]
+        },
+        {
+          "key": "187774|I'll come home",
+          "text": "I'll come home",
+          "segments": [
+            "I'll ",
+            "come ",
+            "home"
+          ]
+        },
+        {
+          "key": "188590|And we'll make love",
+          "text": "And we'll make love",
+          "segments": [
+            "And ",
+            "we'll ",
+            "make ",
+            "love"
+          ]
+        },
+        {
+          "key": "190080|Like we're young",
+          "text": "Like we're young",
+          "segments": [
+            "Like ",
+            "we're ",
+            "young"
+          ]
+        },
+        {
+          "key": "191652|And tomorrow you'll cook dinner",
+          "text": "And tomorrow you'll cook dinner",
+          "segments": [
+            "And ",
+            "tomorrow ",
+            "you'll ",
+            "cook ",
+            "dinner"
+          ]
+        },
+        {
+          "key": "193425|For the neighbors and their kids",
+          "text": "For the neighbors and their kids",
+          "segments": [
+            "For ",
+            "the ",
+            "neighbors ",
+            "and ",
+            "their ",
+            "kids"
+          ]
+        },
+        {
+          "key": "196285|We can rip apart those Socialists",
+          "text": "We can rip apart those Socialists",
+          "segments": [
+            "We ",
+            "can ",
+            "rip ",
+            "apart ",
+            "those ",
+            "Socialists"
+          ]
+        },
+        {
+          "key": "198593|And all their damn taxes",
+          "text": "And all their damn taxes",
+          "segments": [
+            "And ",
+            "all ",
+            "their ",
+            "damn ",
+            "taxes"
+          ]
+        },
+        {
+          "key": "201069|But see I am no criminal ",
+          "text": "But see I am no criminal ",
+          "segments": [
+            "But ",
+            "see ",
+            "I ",
+            "am ",
+            "no ",
+            "criminal "
+          ]
+        },
+        {
+          "key": "203183|I'm down on both bad knees",
+          "text": "I'm down on both bad knees",
+          "segments": [
+            "I'm ",
+            "down ",
+            "on ",
+            "both ",
+            "bad ",
+            "knees"
+          ]
+        },
+        {
+          "key": "205770|I'm just too much a coward to admit",
+          "text": "I'm just too much a coward to admit",
+          "segments": [
+            "I'm ",
+            "just ",
+            "too ",
+            "much ",
+            "a ",
+            "coward ",
+            "to ",
+            "admit"
+          ]
+        },
+        {
+          "key": "208725|When I'm in need",
+          "text": "When I'm in need",
+          "segments": [
+            "When ",
+            "I'm ",
+            "in ",
+            "need"
+          ]
+        },
+        {
+          "key": "210202|I take a walk",
+          "text": "I take a walk",
+          "segments": [
+            "I ",
+            "take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "211482|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "213873|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "216372|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "218717|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "219781|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "221197|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "223289|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "225865|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "228137|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "229257|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "230501|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "232888|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "235409|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "237544|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "238545|I take a walk",
+          "text": "I take a walk",
+          "segments": [
+            "I ",
+            "take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "239957|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "242318|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        },
+        {
+          "key": "244906|Take a walk  take a walk ",
+          "text": "Take a walk  take a walk ",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk  ",
+            "take ",
+            "a ",
+            "walk "
+          ]
+        },
+        {
+          "key": "247129|Take a walk",
+          "text": "Take a walk",
+          "segments": [
+            "Take ",
+            "a ",
+            "walk"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:f5a16dbed7ec232a5e096a4047818a6e",
+      "lines": [
+        {
+          "key": "0|Kelly Clarkson - Catch My Breath",
+          "text": "Kelly Clarkson - Catch My Breath",
+          "segments": [
+            "Kelly Clarkson",
+            " - ",
+            "Catch My Breath"
+          ]
+        },
+        {
+          "key": "3590|Lyrics by：Eric Olson、Kelly Clarkson、Sound Kollectiv、Jason Halbert",
+          "text": "Lyrics by：Eric Olson、Kelly Clarkson、Sound Kollectiv、Jason Halbert",
+          "segments": [
+            "Lyrics by：",
+            "Eric Olson",
+            "、",
+            "Kelly Clarkson",
+            "、",
+            "Sound Kollectiv",
+            "、",
+            "Jason Halbert"
+          ]
+        },
+        {
+          "key": "7190|Composed by：Eric Olson、Kelly Clarkson、Sound Kollectiv、Jason Halbert",
+          "text": "Composed by：Eric Olson、Kelly Clarkson、Sound Kollectiv、Jason Halbert",
+          "segments": [
+            "Composed by：",
+            "Eric Olson",
+            "、",
+            "Kelly Clarkson",
+            "、",
+            "Sound Kollectiv",
+            "、",
+            "Jason Halbert"
+          ]
+        },
+        {
+          "key": "10790|Arranged by：Sound Kollectiv",
+          "text": "Arranged by：Sound Kollectiv",
+          "segments": [
+            "Arranged by：",
+            "Sound Kollectiv"
+          ]
+        },
+        {
+          "key": "14394|I don't wanna be left behind",
+          "text": "I don't wanna be left behind",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "left ",
+            "behind"
+          ]
+        },
+        {
+          "key": "18105|Distance was a friend of mine",
+          "text": "Distance was a friend of mine",
+          "segments": [
+            "Distance ",
+            "was ",
+            "a ",
+            "friend ",
+            "of ",
+            "mine"
+          ]
+        },
+        {
+          "key": "22037|Catching breath in a web of lies",
+          "text": "Catching breath in a web of lies",
+          "segments": [
+            "Catching ",
+            "breath ",
+            "in ",
+            "a ",
+            "web ",
+            "of ",
+            "lies"
+          ]
+        },
+        {
+          "key": "25398|I've spent most of my life",
+          "text": "I've spent most of my life",
+          "segments": [
+            "I've ",
+            "spent ",
+            "most ",
+            "of ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "29774|Riding waves playing acrobat",
+          "text": "Riding waves playing acrobat",
+          "segments": [
+            "Riding ",
+            "waves ",
+            "playing ",
+            "acrobat"
+          ]
+        },
+        {
+          "key": "33606|Shadowboxing the other half",
+          "text": "Shadowboxing the other half",
+          "segments": [
+            "Shadowboxing ",
+            "the ",
+            "other ",
+            "half"
+          ]
+        },
+        {
+          "key": "37492|Learning how to react",
+          "text": "Learning how to react",
+          "segments": [
+            "Learning ",
+            "how ",
+            "to ",
+            "react"
+          ]
+        },
+        {
+          "key": "40890|I've spent most of my time",
+          "text": "I've spent most of my time",
+          "segments": [
+            "I've ",
+            "spent ",
+            "most ",
+            "of ",
+            "my ",
+            "time"
+          ]
+        },
+        {
+          "key": "45729|Catching my breath letting it go",
+          "text": "Catching my breath letting it go",
+          "segments": [
+            "Catching ",
+            "my ",
+            "breath ",
+            "letting ",
+            "it ",
+            "go"
+          ]
+        },
+        {
+          "key": "49576|Turning my cheek for the sake of the show",
+          "text": "Turning my cheek for the sake of the show",
+          "segments": [
+            "Turning ",
+            "my ",
+            "cheek ",
+            "for ",
+            "the ",
+            "sake ",
+            "of ",
+            "the ",
+            "show"
+          ]
+        },
+        {
+          "key": "53432|Now that you know",
+          "text": "Now that you know",
+          "segments": [
+            "Now ",
+            "that ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "55385|This is my life",
+          "text": "This is my life",
+          "segments": [
+            "This ",
+            "is ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "57305|I won't be told what's supposed to be right",
+          "text": "I won't be told what's supposed to be right",
+          "segments": [
+            "I ",
+            "won't ",
+            "be ",
+            "told ",
+            "what's ",
+            "supposed ",
+            "to ",
+            "be ",
+            "right"
+          ]
+        },
+        {
+          "key": "62198|Catch my breath",
+          "text": "Catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "64347|No one can hold me back",
+          "text": "No one can hold me back",
+          "segments": [
+            "No ",
+            "one ",
+            "can ",
+            "hold ",
+            "me ",
+            "back"
+          ]
+        },
+        {
+          "key": "66251|I ain't got time for that",
+          "text": "I ain't got time for that",
+          "segments": [
+            "I ",
+            "ain't ",
+            "got ",
+            "time ",
+            "for ",
+            "that"
+          ]
+        },
+        {
+          "key": "69753|Catch my breath",
+          "text": "Catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "72066|Won't let 'em get me down",
+          "text": "Won't let 'em get me down",
+          "segments": [
+            "Won't ",
+            "let ",
+            "'em ",
+            "get ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "73935|It's all so simple now",
+          "text": "It's all so simple now",
+          "segments": [
+            "It's ",
+            "all ",
+            "so ",
+            "simple ",
+            "now"
+          ]
+        },
+        {
+          "key": "75991|Addicted to the love I've found",
+          "text": "Addicted to the love I've found",
+          "segments": [
+            "Addicted ",
+            "to ",
+            "the ",
+            "love ",
+            "I've ",
+            "found"
+          ]
+        },
+        {
+          "key": "80105|Heavy heart now a weightless cloud",
+          "text": "Heavy heart now a weightless cloud",
+          "segments": [
+            "Heavy ",
+            "heart ",
+            "now ",
+            "a ",
+            "weightless ",
+            "cloud"
+          ]
+        },
+        {
+          "key": "83970|Making time for the ones that count",
+          "text": "Making time for the ones that count",
+          "segments": [
+            "Making ",
+            "time ",
+            "for ",
+            "the ",
+            "ones ",
+            "that ",
+            "count"
+          ]
+        },
+        {
+          "key": "87244|I'll spend the rest of my time",
+          "text": "I'll spend the rest of my time",
+          "segments": [
+            "I'll ",
+            "spend ",
+            "the ",
+            "rest ",
+            "of ",
+            "my ",
+            "time"
+          ]
+        },
+        {
+          "key": "91622|Laughing hard with the windows down",
+          "text": "Laughing hard with the windows down",
+          "segments": [
+            "Laughing ",
+            "hard ",
+            "with ",
+            "the ",
+            "windows ",
+            "down"
+          ]
+        },
+        {
+          "key": "95604|Leaving footprints all over town",
+          "text": "Leaving footprints all over town",
+          "segments": [
+            "Leaving ",
+            "footprints ",
+            "all ",
+            "over ",
+            "town"
+          ]
+        },
+        {
+          "key": "99475|Keeping faith karma comes around",
+          "text": "Keeping faith karma comes around",
+          "segments": [
+            "Keeping ",
+            "faith ",
+            "karma ",
+            "comes ",
+            "around"
+          ]
+        },
+        {
+          "key": "102761|I won't spend the rest of my life",
+          "text": "I won't spend the rest of my life",
+          "segments": [
+            "I ",
+            "won't ",
+            "spend ",
+            "the ",
+            "rest ",
+            "of ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "107581|Catching my breath letting it go",
+          "text": "Catching my breath letting it go",
+          "segments": [
+            "Catching ",
+            "my ",
+            "breath ",
+            "letting ",
+            "it ",
+            "go"
+          ]
+        },
+        {
+          "key": "111479|Turning my cheek for the sake of the show",
+          "text": "Turning my cheek for the sake of the show",
+          "segments": [
+            "Turning ",
+            "my ",
+            "cheek ",
+            "for ",
+            "the ",
+            "sake ",
+            "of ",
+            "the ",
+            "show"
+          ]
+        },
+        {
+          "key": "115375|Now that you know this is my life",
+          "text": "Now that you know this is my life",
+          "segments": [
+            "Now ",
+            "that ",
+            "you ",
+            "know ",
+            "this ",
+            "is ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "119231|I won't be told what's supposed to be right",
+          "text": "I won't be told what's supposed to be right",
+          "segments": [
+            "I ",
+            "won't ",
+            "be ",
+            "told ",
+            "what's ",
+            "supposed ",
+            "to ",
+            "be ",
+            "right"
+          ]
+        },
+        {
+          "key": "124079|Catch my breath",
+          "text": "Catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "126347|No one can hold me back",
+          "text": "No one can hold me back",
+          "segments": [
+            "No ",
+            "one ",
+            "can ",
+            "hold ",
+            "me ",
+            "back"
+          ]
+        },
+        {
+          "key": "128178|I ain't got time for that",
+          "text": "I ain't got time for that",
+          "segments": [
+            "I ",
+            "ain't ",
+            "got ",
+            "time ",
+            "for ",
+            "that"
+          ]
+        },
+        {
+          "key": "131742|Catch my breath",
+          "text": "Catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "134032|Won't let 'em get me down",
+          "text": "Won't let 'em get me down",
+          "segments": [
+            "Won't ",
+            "let ",
+            "'em ",
+            "get ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "135966|It's all so simple now",
+          "text": "It's all so simple now",
+          "segments": [
+            "It's ",
+            "all ",
+            "so ",
+            "simple ",
+            "now"
+          ]
+        },
+        {
+          "key": "139532|You helped me see",
+          "text": "You helped me see",
+          "segments": [
+            "You ",
+            "helped ",
+            "me ",
+            "see"
+          ]
+        },
+        {
+          "key": "146658|The beauty in everything",
+          "text": "The beauty in everything",
+          "segments": [
+            "The ",
+            "beauty ",
+            "in ",
+            "everything"
+          ]
+        },
+        {
+          "key": "154072|Catching my breath letting it go",
+          "text": "Catching my breath letting it go",
+          "segments": [
+            "Catching ",
+            "my ",
+            "breath ",
+            "letting ",
+            "it ",
+            "go"
+          ]
+        },
+        {
+          "key": "157932|Turning my cheek for the sake of the show",
+          "text": "Turning my cheek for the sake of the show",
+          "segments": [
+            "Turning ",
+            "my ",
+            "cheek ",
+            "for ",
+            "the ",
+            "sake ",
+            "of ",
+            "the ",
+            "show"
+          ]
+        },
+        {
+          "key": "161863|Now that you know this is my life",
+          "text": "Now that you know this is my life",
+          "segments": [
+            "Now ",
+            "that ",
+            "you ",
+            "know ",
+            "this ",
+            "is ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "165685|I won't be told what's supposed to be right",
+          "text": "I won't be told what's supposed to be right",
+          "segments": [
+            "I ",
+            "won't ",
+            "be ",
+            "told ",
+            "what's ",
+            "supposed ",
+            "to ",
+            "be ",
+            "right"
+          ]
+        },
+        {
+          "key": "169507|Catching my breath",
+          "text": "Catching my breath",
+          "segments": [
+            "Catching ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "171472|Letting it go",
+          "text": "Letting it go",
+          "segments": [
+            "Letting ",
+            "it ",
+            "go"
+          ]
+        },
+        {
+          "key": "173433|Turning my cheek for the sake of the show",
+          "text": "Turning my cheek for the sake of the show",
+          "segments": [
+            "Turning ",
+            "my ",
+            "cheek ",
+            "for ",
+            "the ",
+            "sake ",
+            "of ",
+            "the ",
+            "show"
+          ]
+        },
+        {
+          "key": "177299|Now that you know",
+          "text": "Now that you know",
+          "segments": [
+            "Now ",
+            "that ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "179235|This is my life",
+          "text": "This is my life",
+          "segments": [
+            "This ",
+            "is ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "181141|I won't be told what's supposed to be right",
+          "text": "I won't be told what's supposed to be right",
+          "segments": [
+            "I ",
+            "won't ",
+            "be ",
+            "told ",
+            "what's ",
+            "supposed ",
+            "to ",
+            "be ",
+            "right"
+          ]
+        },
+        {
+          "key": "184450|Catch my breath",
+          "text": "Catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "185913|Catch my breath",
+          "text": "Catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "188218|No one can hold me back",
+          "text": "No one can hold me back",
+          "segments": [
+            "No ",
+            "one ",
+            "can ",
+            "hold ",
+            "me ",
+            "back"
+          ]
+        },
+        {
+          "key": "190087|I ain't got time for that",
+          "text": "I ain't got time for that",
+          "segments": [
+            "I ",
+            "ain't ",
+            "got ",
+            "time ",
+            "for ",
+            "that"
+          ]
+        },
+        {
+          "key": "193750|Catch my breath",
+          "text": "Catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "195926|Won't let 'em get me down",
+          "text": "Won't let 'em get me down",
+          "segments": [
+            "Won't ",
+            "let ",
+            "'em ",
+            "get ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "197906|It's all so simple now it's all so simple now",
+          "text": "It's all so simple now it's all so simple now",
+          "segments": [
+            "It's ",
+            "all ",
+            "so ",
+            "simple ",
+            "now ",
+            "it's ",
+            "all ",
+            "so ",
+            "simple ",
+            "now"
+          ]
+        },
+        {
+          "key": "200978|Catching my breath letting it go",
+          "text": "Catching my breath letting it go",
+          "segments": [
+            "Catching ",
+            "my ",
+            "breath ",
+            "letting ",
+            "it ",
+            "go"
+          ]
+        },
+        {
+          "key": "204402|Turning my cheek for the sake of the show",
+          "text": "Turning my cheek for the sake of the show",
+          "segments": [
+            "Turning ",
+            "my ",
+            "cheek ",
+            "for ",
+            "the ",
+            "sake ",
+            "of ",
+            "the ",
+            "show"
+          ]
+        },
+        {
+          "key": "208286|Now that you know this is my life",
+          "text": "Now that you know this is my life",
+          "segments": [
+            "Now ",
+            "that ",
+            "you ",
+            "know ",
+            "this ",
+            "is ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "212158|I won't be told what's supposed to be right",
+          "text": "I won't be told what's supposed to be right",
+          "segments": [
+            "I ",
+            "won't ",
+            "be ",
+            "told ",
+            "what's ",
+            "supposed ",
+            "to ",
+            "be ",
+            "right"
+          ]
+        },
+        {
+          "key": "215333|Catch my breath",
+          "text": "Catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "217199|Catch my breath",
+          "text": "Catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "219194|No one can hold me back",
+          "text": "No one can hold me back",
+          "segments": [
+            "No ",
+            "one ",
+            "can ",
+            "hold ",
+            "me ",
+            "back"
+          ]
+        },
+        {
+          "key": "221113|I ain't got time for that",
+          "text": "I ain't got time for that",
+          "segments": [
+            "I ",
+            "ain't ",
+            "got ",
+            "time ",
+            "for ",
+            "that"
+          ]
+        },
+        {
+          "key": "222804|Catch my catch catch my breath",
+          "text": "Catch my catch catch my breath",
+          "segments": [
+            "Catch ",
+            "my ",
+            "catch ",
+            "catch ",
+            "my ",
+            "breath"
+          ]
+        },
+        {
+          "key": "226857|Won't let 'em get me down",
+          "text": "Won't let 'em get me down",
+          "segments": [
+            "Won't ",
+            "let ",
+            "'em ",
+            "get ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "228882|It's all so simple now",
+          "text": "It's all so simple now",
+          "segments": [
+            "It's ",
+            "all ",
+            "so ",
+            "simple ",
+            "now"
+          ]
+        }
+      ]
+    }
+  ]
+}

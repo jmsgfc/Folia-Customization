@@ -1,0 +1,1355 @@
+{
+  "batchNumber": 115,
+  "songs": [
+    {
+      "rank": 571,
+      "songKey": "online:kugou:52ee233e60d3fdd19260f4031e22d9e3",
+      "name": "其实都没有",
+      "artist": "杨宗纬",
+      "lines": [
+        {
+          "key": "0|杨宗纬 - 其实都没有",
+          "startMs": 0,
+          "text": "杨宗纬 - 其实都没有"
+        },
+        {
+          "key": "315|作词：杨宗纬",
+          "startMs": 315,
+          "text": "作词：杨宗纬"
+        },
+        {
+          "key": "1381|作曲：伍冠谚/易桀齐",
+          "startMs": 1381,
+          "text": "作曲：伍冠谚/易桀齐"
+        },
+        {
+          "key": "12060|编曲：于京延",
+          "startMs": 12060,
+          "text": "编曲：于京延"
+        },
+        {
+          "key": "16089|从什么都没有的地方",
+          "startMs": 16089,
+          "text": "从什么都没有的地方"
+        },
+        {
+          "key": "19524|到什么都没有的地方",
+          "startMs": 19524,
+          "text": "到什么都没有的地方"
+        },
+        {
+          "key": "22531|我们 像没发生事一样",
+          "startMs": 22531,
+          "text": "我们 像没发生事一样"
+        },
+        {
+          "key": "25826|自顾地 走在路上",
+          "startMs": 25826,
+          "text": "自顾地 走在路上"
+        },
+        {
+          "key": "30079|忘掉了的人只是泡沫",
+          "startMs": 30079,
+          "text": "忘掉了的人只是泡沫"
+        },
+        {
+          "key": "33490|用双手轻轻一触就破",
+          "startMs": 33490,
+          "text": "用双手轻轻一触就破"
+        },
+        {
+          "key": "36586|泛黄 有他泛黄的理由",
+          "startMs": 36586,
+          "text": "泛黄 有他泛黄的理由"
+        },
+        {
+          "key": "40090|思念将 越来越薄",
+          "startMs": 40090,
+          "text": "思念将 越来越薄"
+        },
+        {
+          "key": "43304|你微风中浮现的从前的面容",
+          "startMs": 43304,
+          "text": "你微风中浮现的从前的面容"
+        },
+        {
+          "key": "46962|已被吹送到天空",
+          "startMs": 46962,
+          "text": "已被吹送到天空"
+        },
+        {
+          "key": "50378|我在脚步急促的城市之中",
+          "startMs": 50378,
+          "text": "我在脚步急促的城市之中"
+        },
+        {
+          "key": "54164|依然一个人生活",
+          "startMs": 54164,
+          "text": "依然一个人生活"
+        },
+        {
+          "key": "57691|我也曾经憧憬过 后来没结果",
+          "startMs": 57691,
+          "text": "我也曾经憧憬过 后来没结果"
+        },
+        {
+          "key": "61327|只能靠一首歌真的在说我",
+          "startMs": 61327,
+          "text": "只能靠一首歌真的在说我"
+        },
+        {
+          "key": "64783|是用那种特别干哑的喉咙",
+          "startMs": 64783,
+          "text": "是用那种特别干哑的喉咙"
+        },
+        {
+          "key": "68063|唱着淡淡的哀愁",
+          "startMs": 68063,
+          "text": "唱着淡淡的哀愁"
+        },
+        {
+          "key": "71438|我也曾经做梦过 后来更寂寞",
+          "startMs": 71438,
+          "text": "我也曾经做梦过 后来更寂寞"
+        },
+        {
+          "key": "75451|我们能留下的其实都没有",
+          "startMs": 75451,
+          "text": "我们能留下的其实都没有"
+        },
+        {
+          "key": "78907|原谅我用特别沧桑的喉咙",
+          "startMs": 78907,
+          "text": "原谅我用特别沧桑的喉咙"
+        },
+        {
+          "key": "82245|假装我很怀旧 假装我很痛",
+          "startMs": 82245,
+          "text": "假装我很怀旧 假装我很痛"
+        },
+        {
+          "key": "104368|从什么都没有的地方",
+          "startMs": 104368,
+          "text": "从什么都没有的地方"
+        },
+        {
+          "key": "107660|到什么都没有的地方",
+          "startMs": 107660,
+          "text": "到什么都没有的地方"
+        },
+        {
+          "key": "110606|我们 像没发生事一样",
+          "startMs": 110606,
+          "text": "我们 像没发生事一样"
+        },
+        {
+          "key": "114131|自顾地 走在路上",
+          "startMs": 114131,
+          "text": "自顾地 走在路上"
+        },
+        {
+          "key": "118417|忘掉了的人只是泡沫",
+          "startMs": 118417,
+          "text": "忘掉了的人只是泡沫"
+        },
+        {
+          "key": "121781|用双手轻轻一触就破",
+          "startMs": 121781,
+          "text": "用双手轻轻一触就破"
+        },
+        {
+          "key": "124843|泛黄 有他泛黄的理由",
+          "startMs": 124843,
+          "text": "泛黄 有他泛黄的理由"
+        },
+        {
+          "key": "128308|思念将 越来越薄",
+          "startMs": 128308,
+          "text": "思念将 越来越薄"
+        },
+        {
+          "key": "131602|你微风中浮现的从前的面容",
+          "startMs": 131602,
+          "text": "你微风中浮现的从前的面容"
+        },
+        {
+          "key": "135314|已被吹送到天空",
+          "startMs": 135314,
+          "text": "已被吹送到天空"
+        },
+        {
+          "key": "138699|我在脚步急促的城市之中",
+          "startMs": 138699,
+          "text": "我在脚步急促的城市之中"
+        },
+        {
+          "key": "142215|依然一个人生活",
+          "startMs": 142215,
+          "text": "依然一个人生活"
+        },
+        {
+          "key": "149262|我也曾经憧憬过 后来没结果",
+          "startMs": 149262,
+          "text": "我也曾经憧憬过 后来没结果"
+        },
+        {
+          "key": "153032|只能靠一首歌真的在说我",
+          "startMs": 153032,
+          "text": "只能靠一首歌真的在说我"
+        },
+        {
+          "key": "156414|是用那种特别干哑的喉咙",
+          "startMs": 156414,
+          "text": "是用那种特别干哑的喉咙"
+        },
+        {
+          "key": "159790|唱着淡淡的哀愁",
+          "startMs": 159790,
+          "text": "唱着淡淡的哀愁"
+        },
+        {
+          "key": "163208|我也曾经做梦过 后来更寂寞",
+          "startMs": 163208,
+          "text": "我也曾经做梦过 后来更寂寞"
+        },
+        {
+          "key": "167183|我们能留下的其实都没有",
+          "startMs": 167183,
+          "text": "我们能留下的其实都没有"
+        },
+        {
+          "key": "170617|原谅我用特别沧桑的喉咙",
+          "startMs": 170617,
+          "text": "原谅我用特别沧桑的喉咙"
+        },
+        {
+          "key": "174111|假装我很怀旧 假装我很痛",
+          "startMs": 174111,
+          "text": "假装我很怀旧 假装我很痛"
+        },
+        {
+          "key": "181030|我也曾经憧憬过 后来没结果",
+          "startMs": 181030,
+          "text": "我也曾经憧憬过 后来没结果"
+        },
+        {
+          "key": "184845|只能靠一首歌真的在说我",
+          "startMs": 184845,
+          "text": "只能靠一首歌真的在说我"
+        },
+        {
+          "key": "188254|是用那种特别干哑的喉咙",
+          "startMs": 188254,
+          "text": "是用那种特别干哑的喉咙"
+        },
+        {
+          "key": "191560|唱着淡淡的哀愁",
+          "startMs": 191560,
+          "text": "唱着淡淡的哀愁"
+        },
+        {
+          "key": "195121|我也曾经做梦过 后来更寂寞",
+          "startMs": 195121,
+          "text": "我也曾经做梦过 后来更寂寞"
+        },
+        {
+          "key": "198959|我们能留下的其实都没有",
+          "startMs": 198959,
+          "text": "我们能留下的其实都没有"
+        },
+        {
+          "key": "202430|原谅我用特别沧桑的喉咙",
+          "startMs": 202430,
+          "text": "原谅我用特别沧桑的喉咙"
+        },
+        {
+          "key": "205796|假装我很怀旧 假装我很痛",
+          "startMs": 205796,
+          "text": "假装我很怀旧 假装我很痛"
+        },
+        {
+          "key": "213043|其实我真的很怀旧 而且也很痛",
+          "startMs": 213043,
+          "text": "其实我真的很怀旧 而且也很痛"
+        }
+      ]
+    },
+    {
+      "rank": 572,
+      "songKey": "online:kugou:fb423eac0574f5ca588833a1bba8b26e",
+      "name": "Whistle",
+      "artist": "Flo Rida",
+      "lines": [
+        {
+          "key": "55|Flo Rida - Whistle",
+          "startMs": 55,
+          "text": "Flo Rida - Whistle"
+        },
+        {
+          "key": "200|Written by：Tramar Dillard/David Glass/Marcus Killian/Justin Franks/Breyan Isaac/Antonio Mobley",
+          "startMs": 200,
+          "text": "Written by：Tramar Dillard/David Glass/Marcus Killian/Justin Franks/Breyan Isaac/Antonio Mobley"
+        },
+        {
+          "key": "9011|Can you blow my whistle baby whistle baby",
+          "startMs": 9011,
+          "text": "Can you blow my whistle baby whistle baby"
+        },
+        {
+          "key": "11949|Let me know",
+          "startMs": 11949,
+          "text": "Let me know"
+        },
+        {
+          "key": "13526|Girl I'm gonna show you how to do it",
+          "startMs": 13526,
+          "text": "Girl I'm gonna show you how to do it"
+        },
+        {
+          "key": "16271|And we start real slow",
+          "startMs": 16271,
+          "text": "And we start real slow"
+        },
+        {
+          "key": "18397|You just put your lips together",
+          "startMs": 18397,
+          "text": "You just put your lips together"
+        },
+        {
+          "key": "20741|And you come real close",
+          "startMs": 20741,
+          "text": "And you come real close"
+        },
+        {
+          "key": "22805|Can you blow my whistle baby whistle baby",
+          "startMs": 22805,
+          "text": "Can you blow my whistle baby whistle baby"
+        },
+        {
+          "key": "27095|Here we go",
+          "startMs": 27095,
+          "text": "Here we go"
+        },
+        {
+          "key": "37211|Look I'm betting you like people",
+          "startMs": 37211,
+          "text": "Look I'm betting you like people"
+        },
+        {
+          "key": "40555|And I'm betting you love freak mode",
+          "startMs": 40555,
+          "text": "And I'm betting you love freak mode"
+        },
+        {
+          "key": "42693|And I'm betting you like girls that give love to girls",
+          "startMs": 42693,
+          "text": "And I'm betting you like girls that give love to girls"
+        },
+        {
+          "key": "45467|And stroke your little ego",
+          "startMs": 45467,
+          "text": "And stroke your little ego"
+        },
+        {
+          "key": "47204|I bet you I'm guilty your honor",
+          "startMs": 47204,
+          "text": "I bet you I'm guilty your honor"
+        },
+        {
+          "key": "49484|That's just how we live in my genre",
+          "startMs": 49484,
+          "text": "That's just how we live in my genre"
+        },
+        {
+          "key": "51443|Who in the hell done paved the road wider",
+          "startMs": 51443,
+          "text": "Who in the hell done paved the road wider"
+        },
+        {
+          "key": "53731|There's only one flo and one rida",
+          "startMs": 53731,
+          "text": "There's only one flo and one rida"
+        },
+        {
+          "key": "55993|I'm a damn shame",
+          "startMs": 55993,
+          "text": "I'm a damn shame"
+        },
+        {
+          "key": "57128|Order more champagne pull a damn hamstring",
+          "startMs": 57128,
+          "text": "Order more champagne pull a damn hamstring"
+        },
+        {
+          "key": "59481|Tryna put it on ya",
+          "startMs": 59481,
+          "text": "Tryna put it on ya"
+        },
+        {
+          "key": "60793|Bet your lips spin back around corner",
+          "startMs": 60793,
+          "text": "Bet your lips spin back around corner"
+        },
+        {
+          "key": "62833|Slow it down baby take a little longer",
+          "startMs": 62833,
+          "text": "Slow it down baby take a little longer"
+        },
+        {
+          "key": "64834|Can you blow my whistle baby whistle baby",
+          "startMs": 64834,
+          "text": "Can you blow my whistle baby whistle baby"
+        },
+        {
+          "key": "67365|Let me know",
+          "startMs": 67365,
+          "text": "Let me know"
+        },
+        {
+          "key": "68836|Girl I'm gonna show you how to do it",
+          "startMs": 68836,
+          "text": "Girl I'm gonna show you how to do it"
+        },
+        {
+          "key": "71565|And we start real slow",
+          "startMs": 71565,
+          "text": "And we start real slow"
+        },
+        {
+          "key": "73789|You just put your lips together",
+          "startMs": 73789,
+          "text": "You just put your lips together"
+        },
+        {
+          "key": "76027|And you come real close",
+          "startMs": 76027,
+          "text": "And you come real close"
+        },
+        {
+          "key": "78187|Can you blow my whistle baby whistle baby",
+          "startMs": 78187,
+          "text": "Can you blow my whistle baby whistle baby"
+        },
+        {
+          "key": "82518|Here we go",
+          "startMs": 82518,
+          "text": "Here we go"
+        },
+        {
+          "key": "86021|Whistle baby whistle baby",
+          "startMs": 86021,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "90323|Whistle baby whistle baby",
+          "startMs": 90323,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "95274|Whistle baby whistle baby",
+          "startMs": 95274,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "99562|Whistle baby whistle baby",
+          "startMs": 99562,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "101982|It's like everywhere I go",
+          "startMs": 101982,
+          "text": "It's like everywhere I go"
+        },
+        {
+          "key": "102990|My whistle ready to blow",
+          "startMs": 102990,
+          "text": "My whistle ready to blow"
+        },
+        {
+          "key": "104134|Shawty don't leave a note",
+          "startMs": 104134,
+          "text": "Shawty don't leave a note"
+        },
+        {
+          "key": "105294|She can get any by the low",
+          "startMs": 105294,
+          "text": "She can get any by the low"
+        },
+        {
+          "key": "106590|Told me she's not a pro",
+          "startMs": 106590,
+          "text": "Told me she's not a pro"
+        },
+        {
+          "key": "107670|It's okay it's under control",
+          "startMs": 107670,
+          "text": "It's okay it's under control"
+        },
+        {
+          "key": "108738|Show me soprano 'cause girl you can handle",
+          "startMs": 108738,
+          "text": "Show me soprano 'cause girl you can handle"
+        },
+        {
+          "key": "111103|Baby we start snagging you come up in part clothes",
+          "startMs": 111103,
+          "text": "Baby we start snagging you come up in part clothes"
+        },
+        {
+          "key": "113459|Girl I'm losing wing my Bugatti the same road",
+          "startMs": 113459,
+          "text": "Girl I'm losing wing my Bugatti the same road"
+        },
+        {
+          "key": "115653|Show me your perfect pitch you got it my banjo",
+          "startMs": 115653,
+          "text": "Show me your perfect pitch you got it my banjo"
+        },
+        {
+          "key": "118019|Talented with your lips like you blew out a candle",
+          "startMs": 118019,
+          "text": "Talented with your lips like you blew out a candle"
+        },
+        {
+          "key": "120356|So amusing now you can make a whistle with the music",
+          "startMs": 120356,
+          "text": "So amusing now you can make a whistle with the music"
+        },
+        {
+          "key": "123522|Hope you ain't got no issue you can do it",
+          "startMs": 123522,
+          "text": "Hope you ain't got no issue you can do it"
+        },
+        {
+          "key": "126058|Give me the perfect pitch ya never lose it",
+          "startMs": 126058,
+          "text": "Give me the perfect pitch ya never lose it"
+        },
+        {
+          "key": "128758|Can you blow my whistle baby whistle baby",
+          "startMs": 128758,
+          "text": "Can you blow my whistle baby whistle baby"
+        },
+        {
+          "key": "131984|Let me know",
+          "startMs": 131984,
+          "text": "Let me know"
+        },
+        {
+          "key": "133534|Girl I'm gonna show you how to do it",
+          "startMs": 133534,
+          "text": "Girl I'm gonna show you how to do it"
+        },
+        {
+          "key": "136412|And we start real slow",
+          "startMs": 136412,
+          "text": "And we start real slow"
+        },
+        {
+          "key": "138484|You just put your lips together",
+          "startMs": 138484,
+          "text": "You just put your lips together"
+        },
+        {
+          "key": "140796|And you come real close",
+          "startMs": 140796,
+          "text": "And you come real close"
+        },
+        {
+          "key": "142796|Can you blow my whistle baby whistle baby",
+          "startMs": 142796,
+          "text": "Can you blow my whistle baby whistle baby"
+        },
+        {
+          "key": "147108|Here we go",
+          "startMs": 147108,
+          "text": "Here we go"
+        },
+        {
+          "key": "151028|Whistle baby whistle baby",
+          "startMs": 151028,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "155004|Whistle baby whistle baby",
+          "startMs": 155004,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "159900|Whistle baby whistle baby",
+          "startMs": 159900,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "164221|Whistle baby whistle baby",
+          "startMs": 164221,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "166559|Go girl you can Twerk it",
+          "startMs": 166559,
+          "text": "Go girl you can Twerk it"
+        },
+        {
+          "key": "168401|Let me see you whistle while you work it",
+          "startMs": 168401,
+          "text": "Let me see you whistle while you work it"
+        },
+        {
+          "key": "170588|I'm ma lay it back don't stop it",
+          "startMs": 170588,
+          "text": "I'm ma lay it back don't stop it"
+        },
+        {
+          "key": "172828|'Cause I love it how you drop it drop it drop it on me",
+          "startMs": 172828,
+          "text": "'Cause I love it how you drop it drop it drop it on me"
+        },
+        {
+          "key": "176267|Now shawty let that whistle blow oh oh oh",
+          "startMs": 176267,
+          "text": "Now shawty let that whistle blow oh oh oh"
+        },
+        {
+          "key": "180833|Yeah baby let that whistle blow oh oh",
+          "startMs": 180833,
+          "text": "Yeah baby let that whistle blow oh oh"
+        },
+        {
+          "key": "184437|Can you blow my whistle baby whistle baby",
+          "startMs": 184437,
+          "text": "Can you blow my whistle baby whistle baby"
+        },
+        {
+          "key": "187445|Let me know",
+          "startMs": 187445,
+          "text": "Let me know"
+        },
+        {
+          "key": "188981|Girl I'm gonna show you how to do it",
+          "startMs": 188981,
+          "text": "Girl I'm gonna show you how to do it"
+        },
+        {
+          "key": "191917|And we start real slow",
+          "startMs": 191917,
+          "text": "And we start real slow"
+        },
+        {
+          "key": "193905|You just put your lips together",
+          "startMs": 193905,
+          "text": "You just put your lips together"
+        },
+        {
+          "key": "196241|And you come real close",
+          "startMs": 196241,
+          "text": "And you come real close"
+        },
+        {
+          "key": "198263|Can you blow my whistle baby whistle baby",
+          "startMs": 198263,
+          "text": "Can you blow my whistle baby whistle baby"
+        },
+        {
+          "key": "202213|Here we go",
+          "startMs": 202213,
+          "text": "Here we go"
+        },
+        {
+          "key": "203117|Whistle baby whistle baby",
+          "startMs": 203117,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "207189|Whistle baby whistle baby",
+          "startMs": 207189,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "210381|Whistle baby whistle baby",
+          "startMs": 210381,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "212757|Whistle baby whistle baby",
+          "startMs": 212757,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "216402|Whistle baby whistle baby",
+          "startMs": 216402,
+          "text": "Whistle baby whistle baby"
+        },
+        {
+          "key": "219680|Whistle baby whistle baby",
+          "startMs": 219680,
+          "text": "Whistle baby whistle baby"
+        }
+      ]
+    },
+    {
+      "rank": 573,
+      "songKey": "online:kugou:4a544525c1f78dbdf25361db0e255495",
+      "name": "偏爱",
+      "artist": "张芸京",
+      "lines": [
+        {
+          "key": "0|张芸京 - 偏爱",
+          "startMs": 0,
+          "text": "张芸京 - 偏爱"
+        },
+        {
+          "key": "3950|词：葛大为",
+          "startMs": 3950,
+          "text": "词：葛大为"
+        },
+        {
+          "key": "7900|曲：陈伟",
+          "startMs": 7900,
+          "text": "曲：陈伟"
+        },
+        {
+          "key": "11850|编曲：陈伟",
+          "startMs": 11850,
+          "text": "编曲：陈伟"
+        },
+        {
+          "key": "15806|把昨天都作废现在你在我眼前",
+          "startMs": 15806,
+          "text": "把昨天都作废现在你在我眼前"
+        },
+        {
+          "key": "23033|我想爱请给我机会",
+          "startMs": 23033,
+          "text": "我想爱请给我机会"
+        },
+        {
+          "key": "29572|如果我错了也承担",
+          "startMs": 29572,
+          "text": "如果我错了也承担"
+        },
+        {
+          "key": "33402|认定你就是答案",
+          "startMs": 33402,
+          "text": "认定你就是答案"
+        },
+        {
+          "key": "38162|我不怕谁嘲笑我极端",
+          "startMs": 38162,
+          "text": "我不怕谁嘲笑我极端"
+        },
+        {
+          "key": "43261|相信自己的直觉",
+          "startMs": 43261,
+          "text": "相信自己的直觉"
+        },
+        {
+          "key": "47191|顽固的人不喊累",
+          "startMs": 47191,
+          "text": "顽固的人不喊累"
+        },
+        {
+          "key": "50581|爱上你我不撤退",
+          "startMs": 50581,
+          "text": "爱上你我不撤退"
+        },
+        {
+          "key": "56101|我说过我不闪躲我非要这么做",
+          "startMs": 56101,
+          "text": "我说过我不闪躲我非要这么做"
+        },
+        {
+          "key": "62039|讲不听也偏要爱",
+          "startMs": 62039,
+          "text": "讲不听也偏要爱"
+        },
+        {
+          "key": "64488|更努力爱让你明白",
+          "startMs": 64488,
+          "text": "更努力爱让你明白"
+        },
+        {
+          "key": "69788|没有别条路能走",
+          "startMs": 69788,
+          "text": "没有别条路能走"
+        },
+        {
+          "key": "72928|你决定要不要陪我",
+          "startMs": 72928,
+          "text": "你决定要不要陪我"
+        },
+        {
+          "key": "75898|讲不听偏爱看我感觉爱",
+          "startMs": 75898,
+          "text": "讲不听偏爱看我感觉爱"
+        },
+        {
+          "key": "79258|等你的依赖对你偏爱",
+          "startMs": 79258,
+          "text": "等你的依赖对你偏爱"
+        },
+        {
+          "key": "89567|痛也很愉快",
+          "startMs": 89567,
+          "text": "痛也很愉快"
+        },
+        {
+          "key": "98068|把昨天都作废现在你在我眼前",
+          "startMs": 98068,
+          "text": "把昨天都作废现在你在我眼前"
+        },
+        {
+          "key": "105236|我想爱请给我机会",
+          "startMs": 105236,
+          "text": "我想爱请给我机会"
+        },
+        {
+          "key": "111796|如果我错了也承担",
+          "startMs": 111796,
+          "text": "如果我错了也承担"
+        },
+        {
+          "key": "115695|认定你就是答案",
+          "startMs": 115695,
+          "text": "认定你就是答案"
+        },
+        {
+          "key": "120405|我不怕谁嘲笑我极端",
+          "startMs": 120405,
+          "text": "我不怕谁嘲笑我极端"
+        },
+        {
+          "key": "125494|相信自己的直觉",
+          "startMs": 125494,
+          "text": "相信自己的直觉"
+        },
+        {
+          "key": "129414|顽固的人不喊累",
+          "startMs": 129414,
+          "text": "顽固的人不喊累"
+        },
+        {
+          "key": "132804|爱上你我不撤退",
+          "startMs": 132804,
+          "text": "爱上你我不撤退"
+        },
+        {
+          "key": "138354|我说过我不闪躲我非要这么做",
+          "startMs": 138354,
+          "text": "我说过我不闪躲我非要这么做"
+        },
+        {
+          "key": "144444|讲不听也偏要爱",
+          "startMs": 144444,
+          "text": "讲不听也偏要爱"
+        },
+        {
+          "key": "146794|更努力爱让你明白",
+          "startMs": 146794,
+          "text": "更努力爱让你明白"
+        },
+        {
+          "key": "152103|没有别条路能走",
+          "startMs": 152103,
+          "text": "没有别条路能走"
+        },
+        {
+          "key": "155183|你决定要不要陪我",
+          "startMs": 155183,
+          "text": "你决定要不要陪我"
+        },
+        {
+          "key": "158162|讲不听偏爱看我感觉爱",
+          "startMs": 158162,
+          "text": "讲不听偏爱看我感觉爱"
+        },
+        {
+          "key": "161552|等你的依赖",
+          "startMs": 161552,
+          "text": "等你的依赖"
+        },
+        {
+          "key": "164592|不后悔有把握",
+          "startMs": 164592,
+          "text": "不后悔有把握"
+        },
+        {
+          "key": "167412|我不闪躲我非要这么做",
+          "startMs": 167412,
+          "text": "我不闪躲我非要这么做"
+        },
+        {
+          "key": "171891|讲不听也偏要爱",
+          "startMs": 171891,
+          "text": "讲不听也偏要爱"
+        },
+        {
+          "key": "174171|更努力爱让你明白",
+          "startMs": 174171,
+          "text": "更努力爱让你明白"
+        },
+        {
+          "key": "179490|没有别条路能走",
+          "startMs": 179490,
+          "text": "没有别条路能走"
+        },
+        {
+          "key": "182610|你决定要不要陪我",
+          "startMs": 182610,
+          "text": "你决定要不要陪我"
+        },
+        {
+          "key": "185570|讲不听偏爱看我感觉爱",
+          "startMs": 185570,
+          "text": "讲不听偏爱看我感觉爱"
+        },
+        {
+          "key": "188990|等你的依赖对你偏爱",
+          "startMs": 188990,
+          "text": "等你的依赖对你偏爱"
+        },
+        {
+          "key": "199269|痛也很愉快",
+          "startMs": 199269,
+          "text": "痛也很愉快"
+        }
+      ]
+    },
+    {
+      "rank": 574,
+      "songKey": "online:kugou:350141b67fa4893cdc5b86fe9c3b605c",
+      "name": "Try",
+      "artist": "周杰伦 / 派伟俊",
+      "lines": [
+        {
+          "key": "46|周杰伦、派伟俊 - Try",
+          "startMs": 46,
+          "text": "周杰伦、派伟俊 - Try"
+        },
+        {
+          "key": "4049|中文词：方文山",
+          "startMs": 4049,
+          "text": "中文词：方文山"
+        },
+        {
+          "key": "5059|英文词：冼佩瑾",
+          "startMs": 5059,
+          "text": "英文词：冼佩瑾"
+        },
+        {
+          "key": "6129|曲：派伟俊",
+          "startMs": 6129,
+          "text": "曲：派伟俊"
+        },
+        {
+          "key": "17501|小派：You always have to do something",
+          "startMs": 17501,
+          "text": "小派：You always have to do something"
+        },
+        {
+          "key": "20030|Just to show the world that you exist",
+          "startMs": 20030,
+          "text": "Just to show the world that you exist"
+        },
+        {
+          "key": "22390|So you try",
+          "startMs": 22390,
+          "text": "So you try"
+        },
+        {
+          "key": "24749|You hope they'll see",
+          "startMs": 24749,
+          "text": "You hope they'll see"
+        },
+        {
+          "key": "27109|If on this brand new day you'll look",
+          "startMs": 27109,
+          "text": "If on this brand new day you'll look"
+        },
+        {
+          "key": "29209|On the bright side of the same old street",
+          "startMs": 29209,
+          "text": "On the bright side of the same old street"
+        },
+        {
+          "key": "31388|You will see",
+          "startMs": 31388,
+          "text": "You will see"
+        },
+        {
+          "key": "33708|What you deserve",
+          "startMs": 33708,
+          "text": "What you deserve"
+        },
+        {
+          "key": "35118|Jay：Let's go",
+          "startMs": 35118,
+          "text": "Jay：Let's go"
+        },
+        {
+          "key": "36018|我说几华里我送别了过去",
+          "startMs": 36018,
+          "text": "我说几华里我送别了过去"
+        },
+        {
+          "key": "38558|他们说人生的结局非常的戏剧",
+          "startMs": 38558,
+          "text": "他们说人生的结局非常的戏剧"
+        },
+        {
+          "key": "40858|塞外羌笛孤城马蹄",
+          "startMs": 40858,
+          "text": "塞外羌笛孤城马蹄"
+        },
+        {
+          "key": "42818|在武侠的世界里谁与谁来为敌",
+          "startMs": 42818,
+          "text": "在武侠的世界里谁与谁来为敌"
+        },
+        {
+          "key": "45077|合：La la la la la la la la la",
+          "startMs": 45077,
+          "text": "合：La la la la la la la la la"
+        },
+        {
+          "key": "49006|黄沙里用竹笔写下的字叫勇气",
+          "startMs": 49006,
+          "text": "黄沙里用竹笔写下的字叫勇气"
+        },
+        {
+          "key": "53435|Jay：You just have to try",
+          "startMs": 53435,
+          "text": "Jay：You just have to try"
+        },
+        {
+          "key": "56353|To be who you are",
+          "startMs": 56353,
+          "text": "To be who you are"
+        },
+        {
+          "key": "58003|And you ought to fly",
+          "startMs": 58003,
+          "text": "And you ought to fly"
+        },
+        {
+          "key": "60902|Step into the light",
+          "startMs": 60902,
+          "text": "Step into the light"
+        },
+        {
+          "key": "62310|小派：And soon you will find",
+          "startMs": 62310,
+          "text": "小派：And soon you will find"
+        },
+        {
+          "key": "64150|Be yourself",
+          "startMs": 64150,
+          "text": "Be yourself"
+        },
+        {
+          "key": "65540|Somewhere deep inside",
+          "startMs": 65540,
+          "text": "Somewhere deep inside"
+        },
+        {
+          "key": "67150|There's a universe right there waiting to be unlocked",
+          "startMs": 67150,
+          "text": "There's a universe right there waiting to be unlocked"
+        },
+        {
+          "key": "70158|The key lies in looking into yourself",
+          "startMs": 70158,
+          "text": "The key lies in looking into yourself"
+        },
+        {
+          "key": "71906|Jay：Oh Try try try try",
+          "startMs": 71906,
+          "text": "Jay：Oh Try try try try"
+        },
+        {
+          "key": "74555|Just do what is right",
+          "startMs": 74555,
+          "text": "Just do what is right"
+        },
+        {
+          "key": "76154|You'll fly so high",
+          "startMs": 76154,
+          "text": "You'll fly so high"
+        },
+        {
+          "key": "79093|Let go of the brakes",
+          "startMs": 79093,
+          "text": "Let go of the brakes"
+        },
+        {
+          "key": "80733|Be who you are",
+          "startMs": 80733,
+          "text": "Be who you are"
+        },
+        {
+          "key": "82223|Be yourself 'cause your power is on",
+          "startMs": 82223,
+          "text": "Be yourself 'cause your power is on"
+        },
+        {
+          "key": "85090|合： When you believe in what you've got",
+          "startMs": 85090,
+          "text": "合： When you believe in what you've got"
+        },
+        {
+          "key": "87448|You know you're perfect just be who you are",
+          "startMs": 87448,
+          "text": "You know you're perfect just be who you are"
+        },
+        {
+          "key": "98077|小派：So they don't see what you're made of",
+          "startMs": 98077,
+          "text": "小派：So they don't see what you're made of"
+        },
+        {
+          "key": "101707|But I like you and I know they're wrong",
+          "startMs": 101707,
+          "text": "But I like you and I know they're wrong"
+        },
+        {
+          "key": "104057|Now it's time",
+          "startMs": 104057,
+          "text": "Now it's time"
+        },
+        {
+          "key": "106257|To show them what you got",
+          "startMs": 106257,
+          "text": "To show them what you got"
+        },
+        {
+          "key": "108657|Let the blue skies cheer you on",
+          "startMs": 108657,
+          "text": "Let the blue skies cheer you on"
+        },
+        {
+          "key": "110787|Embrace the wind we'll ride along",
+          "startMs": 110787,
+          "text": "Embrace the wind we'll ride along"
+        },
+        {
+          "key": "112957|You're perfect when you're who you are",
+          "startMs": 112957,
+          "text": "You're perfect when you're who you are"
+        },
+        {
+          "key": "116896|Jay：这世界有些事有些人凭感觉",
+          "startMs": 116896,
+          "text": "Jay：这世界有些事有些人凭感觉"
+        },
+        {
+          "key": "119696|别管他旌旗密布遍野狼烟霜雪",
+          "startMs": 119696,
+          "text": "别管他旌旗密布遍野狼烟霜雪"
+        },
+        {
+          "key": "121893|那故事在穿越而我也在翻页",
+          "startMs": 121893,
+          "text": "那故事在穿越而我也在翻页"
+        },
+        {
+          "key": "124280|一行行做好准备敏锐而直接",
+          "startMs": 124280,
+          "text": "一行行做好准备敏锐而直接"
+        },
+        {
+          "key": "126460|合：La la la la la la la la la",
+          "startMs": 126460,
+          "text": "合：La la la la la la la la la"
+        },
+        {
+          "key": "130620|爱不灭真实的一切废话全收回",
+          "startMs": 130620,
+          "text": "爱不灭真实的一切废话全收回"
+        },
+        {
+          "key": "134889|小派：You just have to try",
+          "startMs": 134889,
+          "text": "小派：You just have to try"
+        },
+        {
+          "key": "137999|To be who you are",
+          "startMs": 137999,
+          "text": "To be who you are"
+        },
+        {
+          "key": "139499|Jay：And you ought to fly",
+          "startMs": 139499,
+          "text": "Jay：And you ought to fly"
+        },
+        {
+          "key": "142379|Step into the light",
+          "startMs": 142379,
+          "text": "Step into the light"
+        },
+        {
+          "key": "143918|小派：And soon you will find",
+          "startMs": 143918,
+          "text": "小派：And soon you will find"
+        },
+        {
+          "key": "145727|Be yourself",
+          "startMs": 145727,
+          "text": "Be yourself"
+        },
+        {
+          "key": "146947|Somewhere deep inside",
+          "startMs": 146947,
+          "text": "Somewhere deep inside"
+        },
+        {
+          "key": "148497|There's a universe right there waiting to be unlocked",
+          "startMs": 148497,
+          "text": "There's a universe right there waiting to be unlocked"
+        },
+        {
+          "key": "151655|The key lies in looking into yourself",
+          "startMs": 151655,
+          "text": "The key lies in looking into yourself"
+        },
+        {
+          "key": "153475|Jay：Oh Try try try try",
+          "startMs": 153475,
+          "text": "Jay：Oh Try try try try"
+        },
+        {
+          "key": "156105|Just do what is right",
+          "startMs": 156105,
+          "text": "Just do what is right"
+        },
+        {
+          "key": "157585|You'll fly so high",
+          "startMs": 157585,
+          "text": "You'll fly so high"
+        },
+        {
+          "key": "160555|Let go of the brakes",
+          "startMs": 160555,
+          "text": "Let go of the brakes"
+        },
+        {
+          "key": "162094|合： Be who you are",
+          "startMs": 162094,
+          "text": "合： Be who you are"
+        },
+        {
+          "key": "163764|Be yourself 'cause your power is on",
+          "startMs": 163764,
+          "text": "Be yourself 'cause your power is on"
+        },
+        {
+          "key": "166832|When you believe in what you've got",
+          "startMs": 166832,
+          "text": "When you believe in what you've got"
+        },
+        {
+          "key": "169032|You know you're perfect just be who you are",
+          "startMs": 169032,
+          "text": "You know you're perfect just be who you are"
+        },
+        {
+          "key": "179703|小派：You just have to try",
+          "startMs": 179703,
+          "text": "小派：You just have to try"
+        },
+        {
+          "key": "183212|To be who you are",
+          "startMs": 183212,
+          "text": "To be who you are"
+        },
+        {
+          "key": "184682|Jay：And you ought to fly",
+          "startMs": 184682,
+          "text": "Jay：And you ought to fly"
+        },
+        {
+          "key": "187822|Step into the light",
+          "startMs": 187822,
+          "text": "Step into the light"
+        },
+        {
+          "key": "189061|小派：And soon you will find",
+          "startMs": 189061,
+          "text": "小派：And soon you will find"
+        },
+        {
+          "key": "190701|Be yourself",
+          "startMs": 190701,
+          "text": "Be yourself"
+        },
+        {
+          "key": "192221|Somewhere deep inside",
+          "startMs": 192221,
+          "text": "Somewhere deep inside"
+        },
+        {
+          "key": "193800|There's a universe right there waiting to be unlocked",
+          "startMs": 193800,
+          "text": "There's a universe right there waiting to be unlocked"
+        },
+        {
+          "key": "196898|The key lies in looking into yourself",
+          "startMs": 196898,
+          "text": "The key lies in looking into yourself"
+        },
+        {
+          "key": "198767|Jay：Oh Try try try try",
+          "startMs": 198767,
+          "text": "Jay：Oh Try try try try"
+        },
+        {
+          "key": "201307|Just do what is right",
+          "startMs": 201307,
+          "text": "Just do what is right"
+        },
+        {
+          "key": "202957|You'll fly so high",
+          "startMs": 202957,
+          "text": "You'll fly so high"
+        },
+        {
+          "key": "205847|Let go of the brakes",
+          "startMs": 205847,
+          "text": "Let go of the brakes"
+        },
+        {
+          "key": "207317|合： Be who you are",
+          "startMs": 207317,
+          "text": "合： Be who you are"
+        },
+        {
+          "key": "208886|Be yourself 'cause your power is on",
+          "startMs": 208886,
+          "text": "Be yourself 'cause your power is on"
+        },
+        {
+          "key": "212025|When you believe in what you've got",
+          "startMs": 212025,
+          "text": "When you believe in what you've got"
+        },
+        {
+          "key": "214314|You know you're perfect just be who you are",
+          "startMs": 214314,
+          "text": "You know you're perfect just be who you are"
+        }
+      ]
+    },
+    {
+      "rank": 575,
+      "songKey": "online:kugou:bec43164cdd0a7260741cfaeab50aab4",
+      "name": "打上花火 (钢琴版)",
+      "artist": "昼夜",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+  "batchNumber": 119,
+  "songs": [
+    {
+      "rank": 591,
+      "songKey": "online:kugou:f68c7f201d17380f96b62c5e55ea2239",
+      "name": "江南 (2018《嗨，唱起来》 第11期节目现场)",
+      "artist": "薛之谦 / 朱兴东",
+      "lines": [
+        {
+          "key": "0|薛之谦、朱兴东 - 江南 (2018《嗨，唱起来》 第11期节目现场)",
+          "startMs": 0,
+          "text": "薛之谦、朱兴东 - 江南 (2018《嗨，唱起来》 第11期节目现场)"
+        },
+        {
+          "key": "5991|作词：李瑞洵",
+          "startMs": 5991,
+          "text": "作词：李瑞洵"
+        },
+        {
+          "key": "7018|作曲：林俊杰",
+          "startMs": 7018,
+          "text": "作曲：林俊杰"
+        },
+        {
+          "key": "8045|编曲：蔡政勋、陈建玮",
+          "startMs": 8045,
+          "text": "编曲：蔡政勋、陈建玮"
+        },
+        {
+          "key": "9757|薛：",
+          "startMs": 9757,
+          "text": "薛："
+        },
+        {
+          "key": "10100|风到这里就是黏",
+          "startMs": 10100,
+          "text": "风到这里就是黏"
+        },
+        {
+          "key": "14040|黏住过客的思念",
+          "startMs": 14040,
+          "text": "黏住过客的思念"
+        },
+        {
+          "key": "18766|雨到了这里缠成线",
+          "startMs": 18766,
+          "text": "雨到了这里缠成线"
+        },
+        {
+          "key": "22566|缠着我们留恋人世间",
+          "startMs": 22566,
+          "text": "缠着我们留恋人世间"
+        },
+        {
+          "key": "26388|朱：",
+          "startMs": 26388,
+          "text": "朱："
+        },
+        {
+          "key": "27709|你在身边就是缘",
+          "startMs": 27709,
+          "text": "你在身边就是缘"
+        },
+        {
+          "key": "31456|缘分写在三生石上面",
+          "startMs": 31456,
+          "text": "缘分写在三生石上面"
+        },
+        {
+          "key": "36330|爱有万分之一甜",
+          "startMs": 36330,
+          "text": "爱有万分之一甜"
+        },
+        {
+          "key": "40214|宁愿我就葬在这一点",
+          "startMs": 40214,
+          "text": "宁愿我就葬在这一点"
+        },
+        {
+          "key": "43334|薛：",
+          "startMs": 43334,
+          "text": "薛："
+        },
+        {
+          "key": "44984|圈圈圆圆圈圈",
+          "startMs": 44984,
+          "text": "圈圈圆圆圈圈"
+        },
+        {
+          "key": "47064|天天年年天天的我",
+          "startMs": 47064,
+          "text": "天天年年天天的我"
+        },
+        {
+          "key": "50014|深深看你的脸",
+          "startMs": 50014,
+          "text": "深深看你的脸"
+        },
+        {
+          "key": "52364|合：",
+          "startMs": 52364,
+          "text": "合："
+        },
+        {
+          "key": "52704|熟悉的温柔",
+          "startMs": 52704,
+          "text": "熟悉的温柔"
+        },
+        {
+          "key": "54694|朱：",
+          "startMs": 54694,
+          "text": "朱："
+        },
+        {
+          "key": "55024|埋怨的温柔的脸",
+          "startMs": 55024,
+          "text": "埋怨的温柔的脸"
+        },
+        {
+          "key": "60194|薛：",
+          "startMs": 60194,
+          "text": "薛："
+        },
+        {
+          "key": "61594|不懂爱恨情愁煎熬的我们",
+          "startMs": 61594,
+          "text": "不懂爱恨情愁煎熬的我们"
+        },
+        {
+          "key": "65614|还以为相爱就像风云的善变",
+          "startMs": 65614,
+          "text": "还以为相爱就像风云的善变"
+        },
+        {
+          "key": "70144|相信爱一天 抵过永远",
+          "startMs": 70144,
+          "text": "相信爱一天 抵过永远"
+        },
+        {
+          "key": "74973|在这一刹那冻结了时间",
+          "startMs": 74973,
+          "text": "在这一刹那冻结了时间"
+        },
+        {
+          "key": "78424|朱：",
+          "startMs": 78424,
+          "text": "朱："
+        },
+        {
+          "key": "78954|不懂怎么表现温柔的我们",
+          "startMs": 78954,
+          "text": "不懂怎么表现温柔的我们"
+        },
+        {
+          "key": "83054|还以为殉情只是古老的传言",
+          "startMs": 83054,
+          "text": "还以为殉情只是古老的传言"
+        },
+        {
+          "key": "87464|离愁能有多痛 痛有多浓",
+          "startMs": 87464,
+          "text": "离愁能有多痛 痛有多浓"
+        },
+        {
+          "key": "92274|当梦被埋在江南烟雨中",
+          "startMs": 92274,
+          "text": "当梦被埋在江南烟雨中"
+        },
+        {
+          "key": "95594|朱：",
+          "startMs": 95594,
+          "text": "朱："
+        },
+        {
+          "key": "95874|心碎了才懂",
+          "startMs": 95874,
+          "text": "心碎了才懂"
+        },
+        {
+          "key": "99434|薛：",
+          "startMs": 99434,
+          "text": "薛："
+        },
+        {
+          "key": "117664|圈圈圆圆圈圈",
+          "startMs": 117664,
+          "text": "圈圈圆圆圈圈"
+        },
+        {
+          "key": "119494|天天年年天天的",
+          "startMs": 119494,
+          "text": "天天年年天天的"
+        },
+        {
+          "key": "121214|我 深深看你的脸",
+          "startMs": 121214,
+          "text": "我 深深看你的脸"
+        },
+        {
+          "key": "124234|朱：",
+          "startMs": 124234,
+          "text": "朱："
+        },
+        {
+          "key": "124734|熟悉的温柔",
+          "startMs": 124734,
+          "text": "熟悉的温柔"
+        },
+        {
+          "key": "126859|埋怨的温柔 的脸",
+          "startMs": 126859,
+          "text": "埋怨的温柔 的脸"
+        },
+        {
+          "key": "132209|薛：",
+          "startMs": 132209,
+          "text": "薛："
+        },
+        {
+          "key": "132874|不懂爱恨情愁煎熬的我们",
+          "startMs": 132874,
+          "text": "不懂爱恨情愁煎熬的我们"
+        },
+        {
+          "key": "136594|还以为相爱就像风云的善变",
+          "startMs": 136594,
+          "text": "还以为相爱就像风云的善变"
+        },
+        {
+          "key": "140304|朱：",
+          "startMs": 140304,
+          "text": "朱："
+        },
+        {
+          "key": "140797|相信爱一天 抵过永远",
+          "startMs": 140797,
+          "text": "相信爱一天 抵过永远"
+        },
+        {
+          "key": "145228|在这一刹那冻结了时间",
+          "startMs": 145228,
+          "text": "在这一刹那冻结了时间"
+        },
+        {
+          "key": "148392|薛：",
+          "startMs": 148392,
+          "text": "薛："
+        },
+        {
+          "key": "149024|不懂怎么表现温柔的我们",
+          "startMs": 149024,
+          "text": "不懂怎么表现温柔的我们"
+        },
+        {
+          "key": "152598|还以为殉情只是古老的传言",
+          "startMs": 152598,
+          "text": "还以为殉情只是古老的传言"
+        },
+        {
+          "key": "156424|朱：",
+          "startMs": 156424,
+          "text": "朱："
+        },
+        {
+          "key": "156825|离愁能有多痛 痛有多浓",
+          "startMs": 156825,
+          "text": "离愁能有多痛 痛有多浓"
+        },
+        {
+          "key": "161223|当梦被埋在江南烟雨中",
+          "startMs": 161223,
+          "text": "当梦被埋在江南烟雨中"
+        },
+        {
+          "key": "164546|心碎了才懂",
+          "startMs": 164546,
+          "text": "心碎了才懂"
+        },
+        {
+          "key": "167953|朱：",
+          "startMs": 167953,
+          "text": "朱："
+        },
+        {
+          "key": "176775|相信爱一天",
+          "startMs": 176775,
+          "text": "相信爱一天"
+        },
+        {
+          "key": "179216|抵过永远",
+          "startMs": 179216,
+          "text": "抵过永远"
+        },
+        {
+          "key": "181216|在这一刹那",
+          "startMs": 181216,
+          "text": "在这一刹那"
+        },
+        {
+          "key": "182506|冻结了时间",
+          "startMs": 182506,
+          "text": "冻结了时间"
+        },
+        {
+          "key": "184890|合：",
+          "startMs": 184890,
+          "text": "合："
+        },
+        {
+          "key": "184959|不懂怎么表现温柔的我们",
+          "startMs": 184959,
+          "text": "不懂怎么表现温柔的我们"
+        },
+        {
+          "key": "188608|还以为殉情只是古老的传言",
+          "startMs": 188608,
+          "text": "还以为殉情只是古老的传言"
+        },
+        {
+          "key": "192656|离愁能有多痛 痛有多浓",
+          "startMs": 192656,
+          "text": "离愁能有多痛 痛有多浓"
+        },
+        {
+          "key": "197372|当梦被埋在江南烟雨中",
+          "startMs": 197372,
+          "text": "当梦被埋在江南烟雨中"
+        },
+        {
+          "key": "202950|心碎了才懂",
+          "startMs": 202950,
+          "text": "心碎了才懂"
+        }
+      ]
+    },
+    {
+      "rank": 592,
+      "songKey": "online:kugou:96d560edf51c61c5695179fb36c3a691",
+      "name": "月游指南",
+      "artist": "白鸿 / 何羽阁 / AnderstandU / Sen",
+      "lines": [
+        {
+          "key": "0|白鸿、何羽阁、AnderstandU、Sen - 月游指南",
+          "startMs": 0,
+          "text": "白鸿、何羽阁、AnderstandU、Sen - 月游指南"
+        },
+        {
+          "key": "590|作词：白鸿、曲钊炎",
+          "startMs": 590,
+          "text": "作词：白鸿、曲钊炎"
+        },
+        {
+          "key": "842|作曲：白鸿",
+          "startMs": 842,
+          "text": "作曲：白鸿"
+        },
+        {
+          "key": "1397|何：",
+          "startMs": 1397,
+          "text": "何："
+        },
+        {
+          "key": "13436|浅拙图谋",
+          "startMs": 13436,
+          "text": "浅拙图谋"
+        },
+        {
+          "key": "15145|朴素的温柔",
+          "startMs": 15145,
+          "text": "朴素的温柔"
+        },
+        {
+          "key": "16762|情契不就",
+          "startMs": 16762,
+          "text": "情契不就"
+        },
+        {
+          "key": "17824|却把 你坦诚当作理由",
+          "startMs": 17824,
+          "text": "却把 你坦诚当作理由"
+        },
+        {
+          "key": "19995|绵愁不休 难堪",
+          "startMs": 19995,
+          "text": "绵愁不休 难堪"
+        },
+        {
+          "key": "21710|又无欲付诸东流",
+          "startMs": 21710,
+          "text": "又无欲付诸东流"
+        },
+        {
+          "key": "23126|怀退意",
+          "startMs": 23126,
+          "text": "怀退意"
+        },
+        {
+          "key": "23883|怎奈 早陷进你的眼眸",
+          "startMs": 23883,
+          "text": "怎奈 早陷进你的眼眸"
+        },
+        {
+          "key": "26406|驯狎诉求",
+          "startMs": 26406,
+          "text": "驯狎诉求"
+        },
+        {
+          "key": "27706|难躲的念 头",
+          "startMs": 27706,
+          "text": "难躲的念 头"
+        },
+        {
+          "key": "29321|你的记忆",
+          "startMs": 29321,
+          "text": "你的记忆"
+        },
+        {
+          "key": "30634|一点 一滴又溶进离愁",
+          "startMs": 30634,
+          "text": "一点 一滴又溶进离愁"
+        },
+        {
+          "key": "32760|天长日久 唯你",
+          "startMs": 32760,
+          "text": "天长日久 唯你"
+        },
+        {
+          "key": "34373|未曾变真心依旧",
+          "startMs": 34373,
+          "text": "未曾变真心依旧"
+        },
+        {
+          "key": "35939|问余生",
+          "startMs": 35939,
+          "text": "问余生"
+        },
+        {
+          "key": "36749|想你 赴星辰伴我左右",
+          "startMs": 36749,
+          "text": "想你 赴星辰伴我左右"
+        },
+        {
+          "key": "39073|白：",
+          "startMs": 39073,
+          "text": "白："
+        },
+        {
+          "key": "39326|甘愿与你沉溺在这荒谬中",
+          "startMs": 39326,
+          "text": "甘愿与你沉溺在这荒谬中"
+        },
+        {
+          "key": "42309|将风月全看遍世间相携手",
+          "startMs": 42309,
+          "text": "将风月全看遍世间相携手"
+        },
+        {
+          "key": "45495|晨昏颠倒数过多少个春秋",
+          "startMs": 45495,
+          "text": "晨昏颠倒数过多少个春秋"
+        },
+        {
+          "key": "48581|倘若我们可以从此天长地久",
+          "startMs": 48581,
+          "text": "倘若我们可以从此天长地久"
+        },
+        {
+          "key": "51867|何+白：",
+          "startMs": 51867,
+          "text": "何+白："
+        },
+        {
+          "key": "52441|春又秋人间多相守",
+          "startMs": 52441,
+          "text": "春又秋人间多相守"
+        },
+        {
+          "key": "57865|思不休明月永不朽",
+          "startMs": 57865,
+          "text": "思不休明月永不朽"
+        },
+        {
+          "key": "63980|何：",
+          "startMs": 63980,
+          "text": "何："
+        },
+        {
+          "key": "64792|跟随你的脚步",
+          "startMs": 64792,
+          "text": "跟随你的脚步"
+        },
+        {
+          "key": "66309|奔向浪漫国度",
+          "startMs": 66309,
+          "text": "奔向浪漫国度"
+        },
+        {
+          "key": "71282|探究你的渴慕",
+          "startMs": 71282,
+          "text": "探究你的渴慕"
+        },
+        {
+          "key": "72699|追寻你的道路",
+          "startMs": 72699,
+          "text": "追寻你的道路"
+        },
+        {
+          "key": "77577|倾听你的惆怅",
+          "startMs": 77577,
+          "text": "倾听你的惆怅"
+        },
+        {
+          "key": "79095|觉醒你的梦想",
+          "startMs": 79095,
+          "text": "觉醒你的梦想"
+        },
+        {
+          "key": "83928|感受你的温度",
+          "startMs": 83928,
+          "text": "感受你的温度"
+        },
+        {
+          "key": "85545|奔赴你的日出",
+          "startMs": 85545,
+          "text": "奔赴你的日出"
+        },
+        {
+          "key": "88467|光的领悟",
+          "startMs": 88467,
+          "text": "光的领悟"
+        },
+        {
+          "key": "90084|何：",
+          "startMs": 90084,
+          "text": "何："
+        },
+        {
+          "key": "122514|日夜弄稠",
+          "startMs": 122514,
+          "text": "日夜弄稠"
+        },
+        {
+          "key": "123920|光阴缓不 流",
+          "startMs": 123920,
+          "text": "光阴缓不 流"
+        },
+        {
+          "key": "125638|花开堪折 无你",
+          "startMs": 125638,
+          "text": "花开堪折 无你"
+        },
+        {
+          "key": "127207|直忍作果满枝头",
+          "startMs": 127207,
+          "text": "直忍作果满枝头"
+        },
+        {
+          "key": "128775|岁月迤逦 风过",
+          "startMs": 128775,
+          "text": "岁月迤逦 风过"
+        },
+        {
+          "key": "130393|云共月掩蔽西洲",
+          "startMs": 130393,
+          "text": "云共月掩蔽西洲"
+        },
+        {
+          "key": "131958|斗南星 韬芒",
+          "startMs": 131958,
+          "text": "斗南星 韬芒"
+        },
+        {
+          "key": "133572|遗思人独盼高楼",
+          "startMs": 133572,
+          "text": "遗思人独盼高楼"
+        },
+        {
+          "key": "135138|多情宿构",
+          "startMs": 135138,
+          "text": "多情宿构"
+        },
+        {
+          "key": "136427|惊艳你面 容",
+          "startMs": 136427,
+          "text": "惊艳你面 容"
+        },
+        {
+          "key": "138195|多载沉浮 等到",
+          "startMs": 138195,
+          "text": "多载沉浮 等到"
+        },
+        {
+          "key": "139966|你归携意气鸿鹄",
+          "startMs": 139966,
+          "text": "你归携意气鸿鹄"
+        },
+        {
+          "key": "141534|心终不负 出落",
+          "startMs": 141534,
+          "text": "心终不负 出落"
+        },
+        {
+          "key": "143154|成接天云霞扑朔",
+          "startMs": 143154,
+          "text": "成接天云霞扑朔"
+        },
+        {
+          "key": "144872|顾经年 唯你",
+          "startMs": 144872,
+          "text": "顾经年 唯你"
+        },
+        {
+          "key": "146389|览山海初心依旧",
+          "startMs": 146389,
+          "text": "览山海初心依旧"
+        },
+        {
+          "key": "148056|白：",
+          "startMs": 148056,
+          "text": "白："
+        },
+        {
+          "key": "148261|做一场惹人沉沦留恋的梦",
+          "startMs": 148261,
+          "text": "做一场惹人沉沦留恋的梦"
+        },
+        {
+          "key": "151241|这世间光怪陆离天地遨游",
+          "startMs": 151241,
+          "text": "这世间光怪陆离天地遨游"
+        },
+        {
+          "key": "154172|流转指尖并肩看青山白首",
+          "startMs": 154172,
+          "text": "流转指尖并肩看青山白首"
+        },
+        {
+          "key": "157455|庆幸年岁我们已然天长地久",
+          "startMs": 157455,
+          "text": "庆幸年岁我们已然天长地久"
+        },
+        {
+          "key": "160794|何：",
+          "startMs": 160794,
+          "text": "何："
+        },
+        {
+          "key": "160947|跟随你的脚步 奔向浪漫国度",
+          "startMs": 160947,
+          "text": "跟随你的脚步 奔向浪漫国度"
+        },
+        {
+          "key": "167237|探究你的渴慕 追寻你的道路",
+          "startMs": 167237,
+          "text": "探究你的渴慕 追寻你的道路"
+        },
+        {
+          "key": "173509|守候你的祝福 觉醒你的能量",
+          "startMs": 173509,
+          "text": "守候你的祝福 觉醒你的能量"
+        },
+        {
+          "key": "179799|点燃你的希望 奔向天光远航",
+          "startMs": 179799,
+          "text": "点燃你的希望 奔向天光远航"
+        },
+        {
+          "key": "184636|风的理想",
+          "startMs": 184636,
+          "text": "风的理想"
+        }
+      ]
+    },
+    {
+      "rank": 593,
+      "songKey": "online:kugou:ca9a726bb3ae7ae9a631641ef5f94ec7",
+      "name": "This Far (RudeLies Remix)",
+      "artist": "Raven & Kreyn / RudeLies / Nino Lucarelli",
+      "lines": [
+        {
+          "key": "165|Raven & Kreyn、Nino Lucarelli、RudeLies - This Far (RudeLies Remix)",
+          "startMs": 165,
+          "text": "Raven & Kreyn、Nino Lucarelli、RudeLies - This Far (RudeLies Remix)"
+        },
+        {
+          "key": "1403|You're saying words I can't avoid",
+          "startMs": 1403,
+          "text": "You're saying words I can't avoid"
+        },
+        {
+          "key": "9038|You put a stop to all the noise",
+          "startMs": 9038,
+          "text": "You put a stop to all the noise"
+        },
+        {
+          "key": "14133|Even in the dark",
+          "startMs": 14133,
+          "text": "Even in the dark"
+        },
+        {
+          "key": "18094|You can heal your scars",
+          "startMs": 18094,
+          "text": "You can heal your scars"
+        },
+        {
+          "key": "21952|Ever since this dawned",
+          "startMs": 21952,
+          "text": "Ever since this dawned"
+        },
+        {
+          "key": "25802|You got me this far",
+          "startMs": 25802,
+          "text": "You got me this far"
+        },
+        {
+          "key": "30314|And if I were alone",
+          "startMs": 30314,
+          "text": "And if I were alone"
+        },
+        {
+          "key": "32645|I wouldn't know",
+          "startMs": 32645,
+          "text": "I wouldn't know"
+        },
+        {
+          "key": "34465|How to move on no",
+          "startMs": 34465,
+          "text": "How to move on no"
+        },
+        {
+          "key": "37511|Even in the dark",
+          "startMs": 37511,
+          "text": "Even in the dark"
+        },
+        {
+          "key": "41123|You can heal my scars",
+          "startMs": 41123,
+          "text": "You can heal my scars"
+        },
+        {
+          "key": "45026|You got me this",
+          "startMs": 45026,
+          "text": "You got me this"
+        },
+        {
+          "key": "60369|You got me this",
+          "startMs": 60369,
+          "text": "You got me this"
+        },
+        {
+          "key": "75390|You got me this far",
+          "startMs": 75390,
+          "text": "You got me this far"
+        },
+        {
+          "key": "77665|You're saying words I can't avoid",
+          "startMs": 77665,
+          "text": "You're saying words I can't avoid"
+        },
+        {
+          "key": "85150|You put a stop to all the noise",
+          "startMs": 85150,
+          "text": "You put a stop to all the noise"
+        },
+        {
+          "key": "90410|Even in the dark",
+          "startMs": 90410,
+          "text": "Even in the dark"
+        },
+        {
+          "key": "94251|You can heal your scars",
+          "startMs": 94251,
+          "text": "You can heal your scars"
+        },
+        {
+          "key": "98196|Ever since this dawned",
+          "startMs": 98196,
+          "text": "Ever since this dawned"
+        },
+        {
+          "key": "101942|You got me this far",
+          "startMs": 101942,
+          "text": "You got me this far"
+        },
+        {
+          "key": "106448|And if I were alone",
+          "startMs": 106448,
+          "text": "And if I were alone"
+        },
+        {
+          "key": "108575|I wouldn't know",
+          "startMs": 108575,
+          "text": "I wouldn't know"
+        },
+        {
+          "key": "110495|How to move on no",
+          "startMs": 110495,
+          "text": "How to move on no"
+        },
+        {
+          "key": "113835|Even in the dark",
+          "startMs": 113835,
+          "text": "Even in the dark"
+        },
+        {
+          "key": "117374|You can heal your scars",
+          "startMs": 117374,
+          "text": "You can heal your scars"
+        },
+        {
+          "key": "121117|You got me this",
+          "startMs": 121117,
+          "text": "You got me this"
+        },
+        {
+          "key": "136302|You got me this",
+          "startMs": 136302,
+          "text": "You got me this"
+        },
+        {
+          "key": "151599|You got me this far",
+          "startMs": 151599,
+          "text": "You got me this far"
+        }
+      ]
+    },
+    {
+      "rank": 594,
+      "songKey": "online:kugou:c1bb3af126ada738b821eedfb3e84ae1",
+      "name": "This Far (降速版)",
+      "artist": "刘大蕊",
+      "lines": [
+        {
+          "key": "0|刘大蕊 - This Far (降速版)",
+          "startMs": 0,
+          "text": "刘大蕊 - This Far (降速版)"
+        },
+        {
+          "key": "1998|You're saying words I can't avoid",
+          "startMs": 1998,
+          "text": "You're saying words I can't avoid"
+        },
+        {
+          "key": "11636|You put a stop to all the noise",
+          "startMs": 11636,
+          "text": "You put a stop to all the noise"
+        },
+        {
+          "key": "18303|Even in the dark",
+          "startMs": 18303,
+          "text": "Even in the dark"
+        },
+        {
+          "key": "22479|You can heal your scars",
+          "startMs": 22479,
+          "text": "You can heal your scars"
+        },
+        {
+          "key": "27262|Ever since this dawned",
+          "startMs": 27262,
+          "text": "Ever since this dawned"
+        },
+        {
+          "key": "31966|You got me this far",
+          "startMs": 31966,
+          "text": "You got me this far"
+        },
+        {
+          "key": "37583|And if I were alone",
+          "startMs": 37583,
+          "text": "And if I were alone"
+        },
+        {
+          "key": "40470|I wouldn't know",
+          "startMs": 40470,
+          "text": "I wouldn't know"
+        },
+        {
+          "key": "42446|How to move on no",
+          "startMs": 42446,
+          "text": "How to move on no"
+        },
+        {
+          "key": "47153|Even in the dark",
+          "startMs": 47153,
+          "text": "Even in the dark"
+        },
+        {
+          "key": "50726|You can heal your scars",
+          "startMs": 50726,
+          "text": "You can heal your scars"
+        },
+        {
+          "key": "55887|You got me this",
+          "startMs": 55887,
+          "text": "You got me this"
+        },
+        {
+          "key": "74509|You got me this",
+          "startMs": 74509,
+          "text": "You got me this"
+        },
+        {
+          "key": "93045|You got me this far",
+          "startMs": 93045,
+          "text": "You got me this far"
+        },
+        {
+          "key": "96458|You're saying words I can't avoid",
+          "startMs": 96458,
+          "text": "You're saying words I can't avoid"
+        },
+        {
+          "key": "105416|You put a stop to all the noise",
+          "startMs": 105416,
+          "text": "You put a stop to all the noise"
+        },
+        {
+          "key": "112472|Even in the dark",
+          "startMs": 112472,
+          "text": "Even in the dark"
+        },
+        {
+          "key": "117129|You can heal my scars",
+          "startMs": 117129,
+          "text": "You can heal my scars"
+        },
+        {
+          "key": "121242|Ever since this dawned",
+          "startMs": 121242,
+          "text": "Ever since this dawned"
+        },
+        {
+          "key": "125935|You got me this far",
+          "startMs": 125935,
+          "text": "You got me this far"
+        },
+        {
+          "key": "131703|And if I were alone",
+          "startMs": 131703,
+          "text": "And if I were alone"
+        },
+        {
+          "key": "134131|I wouldn't know",
+          "startMs": 134131,
+          "text": "I wouldn't know"
+        },
+        {
+          "key": "136481|How to move on no",
+          "startMs": 136481,
+          "text": "How to move on no"
+        },
+        {
+          "key": "140940|Even in the dark",
+          "startMs": 140940,
+          "text": "Even in the dark"
+        },
+        {
+          "key": "144734|You can heal your scars",
+          "startMs": 144734,
+          "text": "You can heal your scars"
+        },
+        {
+          "key": "149525|You got me this",
+          "startMs": 149525,
+          "text": "You got me this"
+        },
+        {
+          "key": "168223|You got me this",
+          "startMs": 168223,
+          "text": "You got me this"
+        },
+        {
+          "key": "186979|You got me this far",
+          "startMs": 186979,
+          "text": "You got me this far"
+        }
+      ]
+    },
+    {
+      "rank": 595,
+      "songKey": "online:kugou:5b5f6eab7b927b7c23add5e1a4eb9d92",
+      "name": "窗外有只鸟在叫 (钢琴版)",
+      "artist": "李漾",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

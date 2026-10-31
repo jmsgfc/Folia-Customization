@@ -1,0 +1,1455 @@
+{
+  "batchNumber": 104,
+  "songs": [
+    {
+      "rank": 516,
+      "songKey": "online:kugou:cc186247233daeaa7f4a228a6e345228",
+      "name": "心做し (心理作用)(新版)",
+      "artist": "cici_",
+      "lines": [
+        {
+          "key": "164|心做し (心理作用)(新版) - cici_",
+          "startMs": 164,
+          "text": "心做し (心理作用)(新版) - cici_"
+        },
+        {
+          "key": "768|词：蝶々P",
+          "startMs": 768,
+          "text": "词：蝶々P"
+        },
+        {
+          "key": "1024|曲：蝶々P",
+          "startMs": 1024,
+          "text": "曲：蝶々P"
+        },
+        {
+          "key": "1280|编曲：任斌",
+          "startMs": 1280,
+          "text": "编曲：任斌"
+        },
+        {
+          "key": "1536|原唱：GUMI",
+          "startMs": 1536,
+          "text": "原唱：GUMI"
+        },
+        {
+          "key": "1746|ねぇ もしも",
+          "startMs": 1746,
+          "text": "ねぇ もしも"
+        },
+        {
+          "key": "3830|全て投げ捨てられたら",
+          "startMs": 3830,
+          "text": "全て投げ捨てられたら"
+        },
+        {
+          "key": "7440|笑って",
+          "startMs": 7440,
+          "text": "笑って"
+        },
+        {
+          "key": "9625|生きることが楽になるの",
+          "startMs": 9625,
+          "text": "生きることが楽になるの"
+        },
+        {
+          "key": "13088|また胸が痛くなるから",
+          "startMs": 13088,
+          "text": "また胸が痛くなるから"
+        },
+        {
+          "key": "17423|もう何も言わないでよ",
+          "startMs": 17423,
+          "text": "もう何も言わないでよ"
+        },
+        {
+          "key": "35976|ねぇ もしも",
+          "startMs": 35976,
+          "text": "ねぇ もしも"
+        },
+        {
+          "key": "38102|全て忘れられたなら",
+          "startMs": 38102,
+          "text": "全て忘れられたなら"
+        },
+        {
+          "key": "41710|泣かないで",
+          "startMs": 41710,
+          "text": "泣かないで"
+        },
+        {
+          "key": "43893|生きることも楽になるの",
+          "startMs": 43893,
+          "text": "生きることも楽になるの"
+        },
+        {
+          "key": "47382|でもそんな事出来ないから",
+          "startMs": 47382,
+          "text": "でもそんな事出来ないから"
+        },
+        {
+          "key": "51730|もう何も見せないでよ",
+          "startMs": 51730,
+          "text": "もう何も見せないでよ"
+        },
+        {
+          "key": "57401|君にどれだけ近づいても",
+          "startMs": 57401,
+          "text": "君にどれだけ近づいても"
+        },
+        {
+          "key": "63152|僕の心臓は一つだけ",
+          "startMs": 63152,
+          "text": "僕の心臓は一つだけ"
+        },
+        {
+          "key": "68803|酷いよ 酷いよ",
+          "startMs": 68803,
+          "text": "酷いよ 酷いよ"
+        },
+        {
+          "key": "71738|もういっそ僕の体を",
+          "startMs": 71738,
+          "text": "もういっそ僕の体を"
+        },
+        {
+          "key": "74565|壊して 引き裂いて",
+          "startMs": 74565,
+          "text": "壊して 引き裂いて"
+        },
+        {
+          "key": "77337|好きなようにしてよ",
+          "startMs": 77337,
+          "text": "好きなようにしてよ"
+        },
+        {
+          "key": "80273|叫んで藻掻いて",
+          "startMs": 80273,
+          "text": "叫んで藻掻いて"
+        },
+        {
+          "key": "83136|瞼を腫らしても",
+          "startMs": 83136,
+          "text": "瞼を腫らしても"
+        },
+        {
+          "key": "85975|まだ君は僕の事を",
+          "startMs": 85975,
+          "text": "まだ君は僕の事を"
+        },
+        {
+          "key": "88820|抱きしめて離さない",
+          "startMs": 88820,
+          "text": "抱きしめて離さない"
+        },
+        {
+          "key": "91687|もういいよ",
+          "startMs": 91687,
+          "text": "もういいよ"
+        },
+        {
+          "key": "104633|ねぇ もしも",
+          "startMs": 104633,
+          "text": "ねぇ もしも"
+        },
+        {
+          "key": "106716|僕の願いが叶うなら",
+          "startMs": 106716,
+          "text": "僕の願いが叶うなら"
+        },
+        {
+          "key": "110305|君と同じものが欲しいんだ",
+          "startMs": 110305,
+          "text": "君と同じものが欲しいんだ"
+        },
+        {
+          "key": "115997|でも僕には存在しないから",
+          "startMs": 115997,
+          "text": "でも僕には存在しないから"
+        },
+        {
+          "key": "120246|じゃあせめて此処に来てよ",
+          "startMs": 120246,
+          "text": "じゃあせめて此処に来てよ"
+        },
+        {
+          "key": "125767|君にどれだけ愛されても",
+          "startMs": 125767,
+          "text": "君にどれだけ愛されても"
+        },
+        {
+          "key": "131668|僕の心臓は一つだけ",
+          "startMs": 131668,
+          "text": "僕の心臓は一つだけ"
+        },
+        {
+          "key": "137365|やめてよ やめてよ",
+          "startMs": 137365,
+          "text": "やめてよ やめてよ"
+        },
+        {
+          "key": "140216|優しくしないでよ",
+          "startMs": 140216,
+          "text": "優しくしないでよ"
+        },
+        {
+          "key": "143029|どうしても僕には",
+          "startMs": 143029,
+          "text": "どうしても僕には"
+        },
+        {
+          "key": "145974|理解ができないよ",
+          "startMs": 145974,
+          "text": "理解ができないよ"
+        },
+        {
+          "key": "148845|痛いよ 痛いよ",
+          "startMs": 148845,
+          "text": "痛いよ 痛いよ"
+        },
+        {
+          "key": "151652|言葉で教えてよ",
+          "startMs": 151652,
+          "text": "言葉で教えてよ"
+        },
+        {
+          "key": "154519|こんなの知らないよ",
+          "startMs": 154519,
+          "text": "こんなの知らないよ"
+        },
+        {
+          "key": "157332|独りにしないで",
+          "startMs": 157332,
+          "text": "独りにしないで"
+        },
+        {
+          "key": "160285|酷いよ 酷いよ",
+          "startMs": 160285,
+          "text": "酷いよ 酷いよ"
+        },
+        {
+          "key": "163060|もういっそ僕の体を",
+          "startMs": 163060,
+          "text": "もういっそ僕の体を"
+        },
+        {
+          "key": "165956|壊して 引き裂いて",
+          "startMs": 165956,
+          "text": "壊して 引き裂いて"
+        },
+        {
+          "key": "168754|好きなようにしてよ",
+          "startMs": 168754,
+          "text": "好きなようにしてよ"
+        },
+        {
+          "key": "171625|叫んで藻掻いて",
+          "startMs": 171625,
+          "text": "叫んで藻掻いて"
+        },
+        {
+          "key": "174488|瞼を腫らしても",
+          "startMs": 174488,
+          "text": "瞼を腫らしても"
+        },
+        {
+          "key": "177380|まだ君は僕の事を",
+          "startMs": 177380,
+          "text": "まだ君は僕の事を"
+        },
+        {
+          "key": "180182|抱きしめて離さない",
+          "startMs": 180182,
+          "text": "抱きしめて離さない"
+        },
+        {
+          "key": "183087|もういいよ",
+          "startMs": 183087,
+          "text": "もういいよ"
+        },
+        {
+          "key": "195983|ねぇ もしも",
+          "startMs": 195983,
+          "text": "ねぇ もしも"
+        },
+        {
+          "key": "198056|僕に心があるなら",
+          "startMs": 198056,
+          "text": "僕に心があるなら"
+        },
+        {
+          "key": "201659|どうやって",
+          "startMs": 201659,
+          "text": "どうやって"
+        },
+        {
+          "key": "203717|それを見つければいいの",
+          "startMs": 203717,
+          "text": "それを見つければいいの"
+        },
+        {
+          "key": "207394|少し微笑んで君が言う",
+          "startMs": 207394,
+          "text": "少し微笑んで君が言う"
+        },
+        {
+          "key": "211659|それはね ここにあるよ",
+          "startMs": 211659,
+          "text": "それはね ここにあるよ"
+        }
+      ]
+    },
+    {
+      "rank": 517,
+      "songKey": "online:kugou:bfc554f7363b07ea65bb7163a440b01e",
+      "name": "崇拜 (Live)",
+      "artist": "林俊杰",
+      "lines": [
+        {
+          "key": "0|林俊杰 - 崇拜 (Live)",
+          "startMs": 0,
+          "text": "林俊杰 - 崇拜 (Live)"
+        },
+        {
+          "key": "2140|词：陈没",
+          "startMs": 2140,
+          "text": "词：陈没"
+        },
+        {
+          "key": "4290|曲：彭学斌",
+          "startMs": 4290,
+          "text": "曲：彭学斌"
+        },
+        {
+          "key": "6440|编曲：Kenn C",
+          "startMs": 6440,
+          "text": "编曲：Kenn C"
+        },
+        {
+          "key": "8590|制作人：林俊杰",
+          "startMs": 8590,
+          "text": "制作人：林俊杰"
+        },
+        {
+          "key": "10740|音响总监：金少刚",
+          "startMs": 10740,
+          "text": "音响总监：金少刚"
+        },
+        {
+          "key": "12890|音乐总监：刘卓",
+          "startMs": 12890,
+          "text": "音乐总监：刘卓"
+        },
+        {
+          "key": "15040|Band Leader：崔迪",
+          "startMs": 15040,
+          "text": "Band Leader：崔迪"
+        },
+        {
+          "key": "17190|吉他：金冬昱/崔万平/高恭鹏",
+          "startMs": 17190,
+          "text": "吉他：金冬昱/崔万平/高恭鹏"
+        },
+        {
+          "key": "19340|键盘：王文颖/张效衡/崔迪",
+          "startMs": 19340,
+          "text": "键盘：王文颖/张效衡/崔迪"
+        },
+        {
+          "key": "21490|Program：李智伟",
+          "startMs": 21490,
+          "text": "Program：李智伟"
+        },
+        {
+          "key": "23630|贝斯：崔赫",
+          "startMs": 23630,
+          "text": "贝斯：崔赫"
+        },
+        {
+          "key": "25780|鼓手：王卉/乔羽/陈志龙",
+          "startMs": 25780,
+          "text": "鼓手：王卉/乔羽/陈志龙"
+        },
+        {
+          "key": "27930|和音：窦颖/林灵/曾嵘/陈磊",
+          "startMs": 27930,
+          "text": "和音：窦颖/林灵/曾嵘/陈磊"
+        },
+        {
+          "key": "30080|弦乐：靳海音®弦乐团",
+          "startMs": 30080,
+          "text": "弦乐：靳海音®弦乐团"
+        },
+        {
+          "key": "32230|长号：胡清文",
+          "startMs": 32230,
+          "text": "长号：胡清文"
+        },
+        {
+          "key": "34380|小号：高杜",
+          "startMs": 34380,
+          "text": "小号：高杜"
+        },
+        {
+          "key": "36530|萨克斯：陈嘉俊",
+          "startMs": 36530,
+          "text": "萨克斯：陈嘉俊"
+        },
+        {
+          "key": "38695|你的姿态 你的青睐",
+          "startMs": 38695,
+          "text": "你的姿态 你的青睐"
+        },
+        {
+          "key": "45703|我存在在你的存在",
+          "startMs": 45703,
+          "text": "我存在在你的存在"
+        },
+        {
+          "key": "51993|你以为爱 就是被爱",
+          "startMs": 51993,
+          "text": "你以为爱 就是被爱"
+        },
+        {
+          "key": "58841|你挥霍了我的崇拜",
+          "startMs": 58841,
+          "text": "你挥霍了我的崇拜"
+        },
+        {
+          "key": "65337|我活了 我爱了 我都不管了",
+          "startMs": 65337,
+          "text": "我活了 我爱了 我都不管了"
+        },
+        {
+          "key": "72297|心爱到疯了 恨到算了就好了",
+          "startMs": 72297,
+          "text": "心爱到疯了 恨到算了就好了"
+        },
+        {
+          "key": "78577|可能的 可以的 真的可惜了",
+          "startMs": 78577,
+          "text": "可能的 可以的 真的可惜了"
+        },
+        {
+          "key": "85413|幸福好不容易",
+          "startMs": 85413,
+          "text": "幸福好不容易"
+        },
+        {
+          "key": "87957|怎么你却不敢了呢",
+          "startMs": 87957,
+          "text": "怎么你却不敢了呢"
+        },
+        {
+          "key": "91863|我还以为我们能不同于别人",
+          "startMs": 91863,
+          "text": "我还以为我们能不同于别人"
+        },
+        {
+          "key": "98627|我还以为不可能的不会不可能",
+          "startMs": 98627,
+          "text": "我还以为不可能的不会不可能"
+        },
+        {
+          "key": "106326|你的姿态 你的青睐",
+          "startMs": 106326,
+          "text": "你的姿态 你的青睐"
+        },
+        {
+          "key": "113254|我存在在你的存在",
+          "startMs": 113254,
+          "text": "我存在在你的存在"
+        },
+        {
+          "key": "119822|你以为爱 就是被爱",
+          "startMs": 119822,
+          "text": "你以为爱 就是被爱"
+        },
+        {
+          "key": "126414|你挥霍了我的崇拜",
+          "startMs": 126414,
+          "text": "你挥霍了我的崇拜"
+        },
+        {
+          "key": "144349|我活了 我爱了我都不管了",
+          "startMs": 144349,
+          "text": "我活了 我爱了我都不管了"
+        },
+        {
+          "key": "151486|心爱到疯了 恨到算了就好了",
+          "startMs": 151486,
+          "text": "心爱到疯了 恨到算了就好了"
+        },
+        {
+          "key": "157757|可能的 可以的真的可惜了",
+          "startMs": 157757,
+          "text": "可能的 可以的真的可惜了"
+        },
+        {
+          "key": "164645|幸福好不容易",
+          "startMs": 164645,
+          "text": "幸福好不容易"
+        },
+        {
+          "key": "167165|怎么你却不敢了呢",
+          "startMs": 167165,
+          "text": "怎么你却不敢了呢"
+        },
+        {
+          "key": "171325|我还以为我们能不同于别人",
+          "startMs": 171325,
+          "text": "我还以为我们能不同于别人"
+        },
+        {
+          "key": "177909|我还以为不可能的不会不可能",
+          "startMs": 177909,
+          "text": "我还以为不可能的不会不可能"
+        },
+        {
+          "key": "187365|你的姿态 你的青睐",
+          "startMs": 187365,
+          "text": "你的姿态 你的青睐"
+        },
+        {
+          "key": "193861|我存在在你的存在",
+          "startMs": 193861,
+          "text": "我存在在你的存在"
+        },
+        {
+          "key": "199959|你以为爱 就是被爱",
+          "startMs": 199959,
+          "text": "你以为爱 就是被爱"
+        },
+        {
+          "key": "207095|你挥霍了我的崇拜",
+          "startMs": 207095,
+          "text": "你挥霍了我的崇拜"
+        },
+        {
+          "key": "223466|风筝有风 海豚有海",
+          "startMs": 223466,
+          "text": "风筝有风 海豚有海"
+        },
+        {
+          "key": "230033|我存在在我的存在",
+          "startMs": 230033,
+          "text": "我存在在我的存在"
+        },
+        {
+          "key": "236373|所以明白 所以离开",
+          "startMs": 236373,
+          "text": "所以明白 所以离开"
+        },
+        {
+          "key": "248089|所以不再 为爱而爱",
+          "startMs": 248089,
+          "text": "所以不再 为爱而爱"
+        },
+        {
+          "key": "264065|我已存在 在你之外",
+          "startMs": 264065,
+          "text": "我已存在 在你之外"
+        }
+      ]
+    },
+    {
+      "rank": 518,
+      "songKey": "online:kugou:7fbb35dedd24b54a8f0d895c7f61d04c",
+      "name": "我的秘密",
+      "artist": "G.E.M.邓紫棋",
+      "lines": [
+        {
+          "key": "221|G.E.M. 邓紫棋 - 我的秘密",
+          "startMs": 221,
+          "text": "G.E.M. 邓紫棋 - 我的秘密"
+        },
+        {
+          "key": "2245|作词：G.E.M. 邓紫棋",
+          "startMs": 2245,
+          "text": "作词：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "3201|作曲：G.E.M. 邓紫棋",
+          "startMs": 3201,
+          "text": "作曲：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "4292|OP：蜂鸟音乐",
+          "startMs": 4292,
+          "text": "OP：蜂鸟音乐"
+        },
+        {
+          "key": "5259|SP：百纳娱乐",
+          "startMs": 5259,
+          "text": "SP：百纳娱乐"
+        },
+        {
+          "key": "6275|编曲：Lupo Groinig",
+          "startMs": 6275,
+          "text": "编曲：Lupo Groinig"
+        },
+        {
+          "key": "7024|监制：Lupo Groinig",
+          "startMs": 7024,
+          "text": "监制：Lupo Groinig"
+        },
+        {
+          "key": "10276|最近一直很好心情",
+          "startMs": 10276,
+          "text": "最近一直很好心情"
+        },
+        {
+          "key": "14908|不知道什么原因",
+          "startMs": 14908,
+          "text": "不知道什么原因"
+        },
+        {
+          "key": "19481|我现在这一种心情",
+          "startMs": 19481,
+          "text": "我现在这一种心情"
+        },
+        {
+          "key": "24090|我想要唱给你听",
+          "startMs": 24090,
+          "text": "我想要唱给你听"
+        },
+        {
+          "key": "27662|Ha ha ha",
+          "startMs": 27662,
+          "text": "Ha ha ha"
+        },
+        {
+          "key": "38010|看着窗外的小星星",
+          "startMs": 38010,
+          "text": "看着窗外的小星星"
+        },
+        {
+          "key": "42481|心里想着我的秘密",
+          "startMs": 42481,
+          "text": "心里想着我的秘密"
+        },
+        {
+          "key": "47071|算不算爱我不太确定",
+          "startMs": 47071,
+          "text": "算不算爱我不太确定"
+        },
+        {
+          "key": "51772|我只知道我在想你",
+          "startMs": 51772,
+          "text": "我只知道我在想你"
+        },
+        {
+          "key": "55335|Ha ha ha",
+          "startMs": 55335,
+          "text": "Ha ha ha"
+        },
+        {
+          "key": "65171|我们之间的距离好像忽远又忽近",
+          "startMs": 65171,
+          "text": "我们之间的距离好像忽远又忽近"
+        },
+        {
+          "key": "69640|你明明不在我身边我却觉得很亲",
+          "startMs": 69640,
+          "text": "你明明不在我身边我却觉得很亲"
+        },
+        {
+          "key": "74145|Ha",
+          "startMs": 74145,
+          "text": "Ha"
+        },
+        {
+          "key": "75432|有一种感觉我想说明",
+          "startMs": 75432,
+          "text": "有一种感觉我想说明"
+        },
+        {
+          "key": "78648|我心里的秘密 是你给的甜蜜",
+          "startMs": 78648,
+          "text": "我心里的秘密 是你给的甜蜜"
+        },
+        {
+          "key": "83417|我们之间的距离好像一点点靠近",
+          "startMs": 83417,
+          "text": "我们之间的距离好像一点点靠近"
+        },
+        {
+          "key": "88141|是不是你对我也有一种特殊感情",
+          "startMs": 88141,
+          "text": "是不是你对我也有一种特殊感情"
+        },
+        {
+          "key": "92522|Ha",
+          "startMs": 92522,
+          "text": "Ha"
+        },
+        {
+          "key": "93902|我犹豫要不要告诉你",
+          "startMs": 93902,
+          "text": "我犹豫要不要告诉你"
+        },
+        {
+          "key": "97066|我心里的秘密 是我好像喜欢了你",
+          "startMs": 97066,
+          "text": "我心里的秘密 是我好像喜欢了你"
+        },
+        {
+          "key": "104710|Ha",
+          "startMs": 104710,
+          "text": "Ha"
+        },
+        {
+          "key": "111850|夜里陪着我的声音",
+          "startMs": 111850,
+          "text": "夜里陪着我的声音"
+        },
+        {
+          "key": "116399|就算沙了也动听",
+          "startMs": 116399,
+          "text": "就算沙了也动听"
+        },
+        {
+          "key": "121054|这一种累了的声音",
+          "startMs": 121054,
+          "text": "这一种累了的声音"
+        },
+        {
+          "key": "125625|是最温柔的证明",
+          "startMs": 125625,
+          "text": "是最温柔的证明"
+        },
+        {
+          "key": "129216|Ha",
+          "startMs": 129216,
+          "text": "Ha"
+        },
+        {
+          "key": "130225|你是我 你是我的秘密",
+          "startMs": 130225,
+          "text": "你是我 你是我的秘密"
+        },
+        {
+          "key": "132442|我一直偷偷想着你",
+          "startMs": 132442,
+          "text": "我一直偷偷想着你"
+        },
+        {
+          "key": "134844|你是我心里的秘密",
+          "startMs": 134844,
+          "text": "你是我心里的秘密"
+        },
+        {
+          "key": "138813|我们之间的距离好像忽远又忽近",
+          "startMs": 138813,
+          "text": "我们之间的距离好像忽远又忽近"
+        },
+        {
+          "key": "143554|你明明不在我身边我却觉得很亲",
+          "startMs": 143554,
+          "text": "你明明不在我身边我却觉得很亲"
+        },
+        {
+          "key": "147769|Ha",
+          "startMs": 147769,
+          "text": "Ha"
+        },
+        {
+          "key": "149253|有一种感觉我想说明",
+          "startMs": 149253,
+          "text": "有一种感觉我想说明"
+        },
+        {
+          "key": "152444|我心里的秘密 是你给的甜蜜",
+          "startMs": 152444,
+          "text": "我心里的秘密 是你给的甜蜜"
+        },
+        {
+          "key": "157212|我们之间的距离好像一点点靠近",
+          "startMs": 157212,
+          "text": "我们之间的距离好像一点点靠近"
+        },
+        {
+          "key": "161974|是不是你对我也有一种特殊感情",
+          "startMs": 161974,
+          "text": "是不是你对我也有一种特殊感情"
+        },
+        {
+          "key": "166313|Ha",
+          "startMs": 166313,
+          "text": "Ha"
+        },
+        {
+          "key": "167696|我犹豫要不要告诉你",
+          "startMs": 167696,
+          "text": "我犹豫要不要告诉你"
+        },
+        {
+          "key": "170915|我心里的秘密 是我好像喜欢了你",
+          "startMs": 170915,
+          "text": "我心里的秘密 是我好像喜欢了你"
+        },
+        {
+          "key": "177577|Ha ha ha",
+          "startMs": 177577,
+          "text": "Ha ha ha"
+        },
+        {
+          "key": "184604|这模糊的关系 是莫名的美丽",
+          "startMs": 184604,
+          "text": "这模糊的关系 是莫名的美丽"
+        },
+        {
+          "key": "194329|我们之间的距离好像忽远又忽近",
+          "startMs": 194329,
+          "text": "我们之间的距离好像忽远又忽近"
+        },
+        {
+          "key": "198889|你明明不在我身边我却觉得很亲",
+          "startMs": 198889,
+          "text": "你明明不在我身边我却觉得很亲"
+        },
+        {
+          "key": "203136|Ha",
+          "startMs": 203136,
+          "text": "Ha"
+        },
+        {
+          "key": "204683|这一刻我真的想说明",
+          "startMs": 204683,
+          "text": "这一刻我真的想说明"
+        },
+        {
+          "key": "207817|我心里的秘密 是你给的甜蜜",
+          "startMs": 207817,
+          "text": "我心里的秘密 是你给的甜蜜"
+        },
+        {
+          "key": "212657|我们之间的距离每天一点点靠近",
+          "startMs": 212657,
+          "text": "我们之间的距离每天一点点靠近"
+        },
+        {
+          "key": "217315|这是种别人无法理解的特殊感情",
+          "startMs": 217315,
+          "text": "这是种别人无法理解的特殊感情"
+        },
+        {
+          "key": "221559|Ha",
+          "startMs": 221559,
+          "text": "Ha"
+        },
+        {
+          "key": "223053|我要让全世界都清晰",
+          "startMs": 223053,
+          "text": "我要让全世界都清晰"
+        },
+        {
+          "key": "226276|我心里的秘密",
+          "startMs": 226276,
+          "text": "我心里的秘密"
+        },
+        {
+          "key": "228256|是我会一直深爱着你",
+          "startMs": 228256,
+          "text": "是我会一直深爱着你"
+        },
+        {
+          "key": "234873|深爱着你",
+          "startMs": 234873,
+          "text": "深爱着你"
+        },
+        {
+          "key": "238541|Ha ha ha",
+          "startMs": 238541,
+          "text": "Ha ha ha"
+        }
+      ]
+    },
+    {
+      "rank": 519,
+      "songKey": "online:kugou:0d7e8c11c961a17eb8779feb0ca772e3",
+      "name": "枫",
+      "artist": "周杰伦",
+      "lines": [
+        {
+          "key": "156|周杰伦 - 枫",
+          "startMs": 156,
+          "text": "周杰伦 - 枫"
+        },
+        {
+          "key": "815|作词：弹头（宋健彰）",
+          "startMs": 815,
+          "text": "作词：弹头（宋健彰）"
+        },
+        {
+          "key": "1017|作曲：周杰伦",
+          "startMs": 1017,
+          "text": "作曲：周杰伦"
+        },
+        {
+          "key": "1169|编曲：钟兴民",
+          "startMs": 1169,
+          "text": "编曲：钟兴民"
+        },
+        {
+          "key": "1372|制作人：周杰伦",
+          "startMs": 1372,
+          "text": "制作人：周杰伦"
+        },
+        {
+          "key": "18718|乌云在我们心里搁下一块阴影",
+          "startMs": 18718,
+          "text": "乌云在我们心里搁下一块阴影"
+        },
+        {
+          "key": "26011|我聆听沉寂已久的心情",
+          "startMs": 26011,
+          "text": "我聆听沉寂已久的心情"
+        },
+        {
+          "key": "31979|清晰透明就像美丽的风景",
+          "startMs": 31979,
+          "text": "清晰透明就像美丽的风景"
+        },
+        {
+          "key": "39514|总在回忆里才看的清",
+          "startMs": 39514,
+          "text": "总在回忆里才看的清"
+        },
+        {
+          "key": "47414|被伤透的心能不能够继续爱我",
+          "startMs": 47414,
+          "text": "被伤透的心能不能够继续爱我"
+        },
+        {
+          "key": "54247|我用力牵起没温度的双手",
+          "startMs": 54247,
+          "text": "我用力牵起没温度的双手"
+        },
+        {
+          "key": "60805|过往温柔已经被时间上锁",
+          "startMs": 60805,
+          "text": "过往温柔已经被时间上锁"
+        },
+        {
+          "key": "67994|只剩挥散不去的难过",
+          "startMs": 67994,
+          "text": "只剩挥散不去的难过"
+        },
+        {
+          "key": "75579|缓缓飘落的枫叶像思念",
+          "startMs": 75579,
+          "text": "缓缓飘落的枫叶像思念"
+        },
+        {
+          "key": "80888|我点燃烛火温暖岁末的秋天",
+          "startMs": 80888,
+          "text": "我点燃烛火温暖岁末的秋天"
+        },
+        {
+          "key": "88017|极光掠夺天边",
+          "startMs": 88017,
+          "text": "极光掠夺天边"
+        },
+        {
+          "key": "91567|北风掠过想你的容颜",
+          "startMs": 91567,
+          "text": "北风掠过想你的容颜"
+        },
+        {
+          "key": "96077|我把爱烧成了落叶",
+          "startMs": 96077,
+          "text": "我把爱烧成了落叶"
+        },
+        {
+          "key": "99572|却换不回熟悉的那张脸",
+          "startMs": 99572,
+          "text": "却换不回熟悉的那张脸"
+        },
+        {
+          "key": "104020|缓缓飘落的枫叶像思念",
+          "startMs": 104020,
+          "text": "缓缓飘落的枫叶像思念"
+        },
+        {
+          "key": "109388|为何挽回要赶在冬天来之前",
+          "startMs": 109388,
+          "text": "为何挽回要赶在冬天来之前"
+        },
+        {
+          "key": "116476|爱你穿越时间",
+          "startMs": 116476,
+          "text": "爱你穿越时间"
+        },
+        {
+          "key": "120071|两行来自秋末的眼泪",
+          "startMs": 120071,
+          "text": "两行来自秋末的眼泪"
+        },
+        {
+          "key": "124519|让爱渗透了地面",
+          "startMs": 124519,
+          "text": "让爱渗透了地面"
+        },
+        {
+          "key": "128060|我要的只是你在我身边",
+          "startMs": 128060,
+          "text": "我要的只是你在我身边"
+        },
+        {
+          "key": "146858|被伤透的心能不能够继续爱我",
+          "startMs": 146858,
+          "text": "被伤透的心能不能够继续爱我"
+        },
+        {
+          "key": "153888|我用力牵起没温度的双手",
+          "startMs": 153888,
+          "text": "我用力牵起没温度的双手"
+        },
+        {
+          "key": "160105|过往温柔已经被时间上锁",
+          "startMs": 160105,
+          "text": "过往温柔已经被时间上锁"
+        },
+        {
+          "key": "167697|只剩挥散不去的难过",
+          "startMs": 167697,
+          "text": "只剩挥散不去的难过"
+        },
+        {
+          "key": "174783|在山腰间飘逸的红雨随着北风凋零",
+          "startMs": 174783,
+          "text": "在山腰间飘逸的红雨随着北风凋零"
+        },
+        {
+          "key": "185050|我轻轻摇曳风铃",
+          "startMs": 185050,
+          "text": "我轻轻摇曳风铃"
+        },
+        {
+          "key": "189049|想唤醒被遗弃的爱情",
+          "startMs": 189049,
+          "text": "想唤醒被遗弃的爱情"
+        },
+        {
+          "key": "195728|雪花已铺满了地",
+          "startMs": 195728,
+          "text": "雪花已铺满了地"
+        },
+        {
+          "key": "199321|深怕窗外枫叶已结成冰",
+          "startMs": 199321,
+          "text": "深怕窗外枫叶已结成冰"
+        },
+        {
+          "key": "203574|缓缓飘落的枫叶像思念",
+          "startMs": 203574,
+          "text": "缓缓飘落的枫叶像思念"
+        },
+        {
+          "key": "209090|我点燃烛火温暖岁末的秋天",
+          "startMs": 209090,
+          "text": "我点燃烛火温暖岁末的秋天"
+        },
+        {
+          "key": "216174|极光掠夺天边",
+          "startMs": 216174,
+          "text": "极光掠夺天边"
+        },
+        {
+          "key": "219715|北风掠过想你的容颜",
+          "startMs": 219715,
+          "text": "北风掠过想你的容颜"
+        },
+        {
+          "key": "224119|我把爱烧成了落叶",
+          "startMs": 224119,
+          "text": "我把爱烧成了落叶"
+        },
+        {
+          "key": "227710|却换不回熟悉的那张脸",
+          "startMs": 227710,
+          "text": "却换不回熟悉的那张脸"
+        },
+        {
+          "key": "232008|缓缓飘落的枫叶像思念",
+          "startMs": 232008,
+          "text": "缓缓飘落的枫叶像思念"
+        },
+        {
+          "key": "237473|为何挽回要赶在冬天来之前",
+          "startMs": 237473,
+          "text": "为何挽回要赶在冬天来之前"
+        },
+        {
+          "key": "244665|爱你穿越时间",
+          "startMs": 244665,
+          "text": "爱你穿越时间"
+        },
+        {
+          "key": "248162|两行来自秋末的眼泪",
+          "startMs": 248162,
+          "text": "两行来自秋末的眼泪"
+        },
+        {
+          "key": "258493|让爱渗透了地面",
+          "startMs": 258493,
+          "text": "让爱渗透了地面"
+        },
+        {
+          "key": "262138|我要的只是你在我身边",
+          "startMs": 262138,
+          "text": "我要的只是你在我身边"
+        }
+      ]
+    },
+    {
+      "rank": 520,
+      "songKey": "online:kugou:9823a4e107ac76ad8b4934c89decb478",
+      "name": "Say Don't Go (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "lines": [
+        {
+          "key": "0|Taylor Swift - Say Don't Go (Taylor's Version)",
+          "startMs": 0,
+          "text": "Taylor Swift - Say Don't Go (Taylor's Version)"
+        },
+        {
+          "key": "1808|Lyrics by：Taylor Swift、Diane Warren",
+          "startMs": 1808,
+          "text": "Lyrics by：Taylor Swift、Diane Warren"
+        },
+        {
+          "key": "3183|Composed by：Taylor Swift、Diane Warren",
+          "startMs": 3183,
+          "text": "Composed by：Taylor Swift、Diane Warren"
+        },
+        {
+          "key": "4638|Produced by：Jack Antonoff、Taylor Swift",
+          "startMs": 4638,
+          "text": "Produced by：Jack Antonoff、Taylor Swift"
+        },
+        {
+          "key": "6132|I've known it from the very start",
+          "startMs": 6132,
+          "text": "I've known it from the very start"
+        },
+        {
+          "key": "10202|We're a shot in the darkest dark",
+          "startMs": 10202,
+          "text": "We're a shot in the darkest dark"
+        },
+        {
+          "key": "13792|Oh no oh no I'm unarmed",
+          "startMs": 13792,
+          "text": "Oh no oh no I'm unarmed"
+        },
+        {
+          "key": "19242|The waiting is a sadness",
+          "startMs": 19242,
+          "text": "The waiting is a sadness"
+        },
+        {
+          "key": "23782|Fading into madness",
+          "startMs": 23782,
+          "text": "Fading into madness"
+        },
+        {
+          "key": "26942|Oh no oh no it won't stop",
+          "startMs": 26942,
+          "text": "Oh no oh no it won't stop"
+        },
+        {
+          "key": "31552|I'm standin' on a tightrope alone",
+          "startMs": 31552,
+          "text": "I'm standin' on a tightrope alone"
+        },
+        {
+          "key": "36972|I hold my breath a little bit longer",
+          "startMs": 36972,
+          "text": "I hold my breath a little bit longer"
+        },
+        {
+          "key": "40532|Halfway out the door but it won't close",
+          "startMs": 40532,
+          "text": "Halfway out the door but it won't close"
+        },
+        {
+          "key": "45722|I'm holdin' out hope for you to say Don't go",
+          "startMs": 45722,
+          "text": "I'm holdin' out hope for you to say Don't go"
+        },
+        {
+          "key": "54682|I would stay forever if you say Don't go",
+          "startMs": 54682,
+          "text": "I would stay forever if you say Don't go"
+        },
+        {
+          "key": "66112|Why'd you have to lead me on",
+          "startMs": 66112,
+          "text": "Why'd you have to lead me on"
+        },
+        {
+          "key": "68352|Why you'd have to twist the knife",
+          "startMs": 68352,
+          "text": "Why you'd have to twist the knife"
+        },
+        {
+          "key": "70542|Walk away and leave me bleedin' bleedin'",
+          "startMs": 70542,
+          "text": "Walk away and leave me bleedin' bleedin'"
+        },
+        {
+          "key": "74832|Why'd you whisper in the dark",
+          "startMs": 74832,
+          "text": "Why'd you whisper in the dark"
+        },
+        {
+          "key": "77132|Just to leave me in the night",
+          "startMs": 77132,
+          "text": "Just to leave me in the night"
+        },
+        {
+          "key": "79252|Now your silence has me screamin' screamin'",
+          "startMs": 79252,
+          "text": "Now your silence has me screamin' screamin'"
+        },
+        {
+          "key": "83585|Say Say Don't Don't Go go",
+          "startMs": 83585,
+          "text": "Say Say Don't Don't Go go"
+        },
+        {
+          "key": "89602|I would stay forever if you Say say",
+          "startMs": 89602,
+          "text": "I would stay forever if you Say say"
+        },
+        {
+          "key": "94275|Don't Don't Go go",
+          "startMs": 94275,
+          "text": "Don't Don't Go go"
+        },
+        {
+          "key": "98592|Say say say say",
+          "startMs": 98592,
+          "text": "Say say say say"
+        },
+        {
+          "key": "101872|Now I'm pacin' on shaky ground",
+          "startMs": 101872,
+          "text": "Now I'm pacin' on shaky ground"
+        },
+        {
+          "key": "105822|Strike a match then you blow it out",
+          "startMs": 105822,
+          "text": "Strike a match then you blow it out"
+        },
+        {
+          "key": "109812|Oh no oh no it's not fair",
+          "startMs": 109812,
+          "text": "Oh no oh no it's not fair"
+        },
+        {
+          "key": "114982|'Cause you kiss me and it stops time",
+          "startMs": 114982,
+          "text": "'Cause you kiss me and it stops time"
+        },
+        {
+          "key": "117582|And I'm yours but you're not mine",
+          "startMs": 117582,
+          "text": "And I'm yours but you're not mine"
+        },
+        {
+          "key": "122932|Oh no oh no you're not there",
+          "startMs": 122932,
+          "text": "Oh no oh no you're not there"
+        },
+        {
+          "key": "127552|I'm standin' on the sidewalk alone",
+          "startMs": 127552,
+          "text": "I'm standin' on the sidewalk alone"
+        },
+        {
+          "key": "132982|I wait for you to drive by",
+          "startMs": 132982,
+          "text": "I wait for you to drive by"
+        },
+        {
+          "key": "136312|I'm tryna see the cards that you won't show",
+          "startMs": 136312,
+          "text": "I'm tryna see the cards that you won't show"
+        },
+        {
+          "key": "141902|I'm about to fold unless you Say say",
+          "startMs": 141902,
+          "text": "I'm about to fold unless you Say say"
+        },
+        {
+          "key": "146372|Don't Don't Go go",
+          "startMs": 146372,
+          "text": "Don't Don't Go go"
+        },
+        {
+          "key": "150702|I would stay forever if you Say say",
+          "startMs": 150702,
+          "text": "I would stay forever if you Say say"
+        },
+        {
+          "key": "155257|Don't Don't Go go",
+          "startMs": 155257,
+          "text": "Don't Don't Go go"
+        },
+        {
+          "key": "162142|Why'd you have to lead me on",
+          "startMs": 162142,
+          "text": "Why'd you have to lead me on"
+        },
+        {
+          "key": "164342|Why you'd have to twist the knife",
+          "startMs": 164342,
+          "text": "Why you'd have to twist the knife"
+        },
+        {
+          "key": "166532|Walk away and leave me bleedin' bleedin'",
+          "startMs": 166532,
+          "text": "Walk away and leave me bleedin' bleedin'"
+        },
+        {
+          "key": "170852|Why'd you whisper in the dark",
+          "startMs": 170852,
+          "text": "Why'd you whisper in the dark"
+        },
+        {
+          "key": "173122|Just to leave me in the night",
+          "startMs": 173122,
+          "text": "Just to leave me in the night"
+        },
+        {
+          "key": "175282|Now your silence has me screamin' screamin'",
+          "startMs": 175282,
+          "text": "Now your silence has me screamin' screamin'"
+        },
+        {
+          "key": "179202|Say Say Don't Don't Go go",
+          "startMs": 179202,
+          "text": "Say Say Don't Don't Go go"
+        },
+        {
+          "key": "185612|I would stay forever if you Say say",
+          "startMs": 185612,
+          "text": "I would stay forever if you Say say"
+        },
+        {
+          "key": "189972|Don't Don't Go go",
+          "startMs": 189972,
+          "text": "Don't Don't Go go"
+        },
+        {
+          "key": "194602|Say say say say",
+          "startMs": 194602,
+          "text": "Say say say say"
+        },
+        {
+          "key": "197086|Why'd you have to Why'd you have to",
+          "startMs": 197086,
+          "text": "Why'd you have to Why'd you have to"
+        },
+        {
+          "key": "199222|Make me want you Make me want you",
+          "startMs": 199222,
+          "text": "Make me want you Make me want you"
+        },
+        {
+          "key": "201694|Why'd you have to Why'd you have to",
+          "startMs": 201694,
+          "text": "Why'd you have to Why'd you have to"
+        },
+        {
+          "key": "203612|Give me nothin' back",
+          "startMs": 203612,
+          "text": "Give me nothin' back"
+        },
+        {
+          "key": "206020|Why'd you have to Why'd you have to",
+          "startMs": 206020,
+          "text": "Why'd you have to Why'd you have to"
+        },
+        {
+          "key": "208111|Make me love you Make me love you",
+          "startMs": 208111,
+          "text": "Make me love you Make me love you"
+        },
+        {
+          "key": "209994|I said I love you you say nothin' back",
+          "startMs": 209994,
+          "text": "I said I love you you say nothin' back"
+        },
+        {
+          "key": "216652|Why'd you have to lead me on Oh",
+          "startMs": 216652,
+          "text": "Why'd you have to lead me on Oh"
+        },
+        {
+          "key": "218912|Why you'd have to twist the knife",
+          "startMs": 218912,
+          "text": "Why you'd have to twist the knife"
+        },
+        {
+          "key": "221082|Walk away and leave me bleedin' bleedin'",
+          "startMs": 221082,
+          "text": "Walk away and leave me bleedin' bleedin'"
+        },
+        {
+          "key": "225412|Why'd you whisper in the dark",
+          "startMs": 225412,
+          "text": "Why'd you whisper in the dark"
+        },
+        {
+          "key": "227632|Just to leave me in the night",
+          "startMs": 227632,
+          "text": "Just to leave me in the night"
+        },
+        {
+          "key": "229812|Now your silence has me screamin' screamin' Woah",
+          "startMs": 229812,
+          "text": "Now your silence has me screamin' screamin' Woah"
+        },
+        {
+          "key": "233732|Say Say Don't Don't Go go",
+          "startMs": 233732,
+          "text": "Say Say Don't Don't Go go"
+        },
+        {
+          "key": "240172|I would stay forever if you Say say",
+          "startMs": 240172,
+          "text": "I would stay forever if you Say say"
+        },
+        {
+          "key": "244522|Don't Don't Go go woah",
+          "startMs": 244522,
+          "text": "Don't Don't Go go woah"
+        },
+        {
+          "key": "249272|Say say say say",
+          "startMs": 249272,
+          "text": "Say say say say"
+        },
+        {
+          "key": "250612|But you won't but you won't but you won't",
+          "startMs": 250612,
+          "text": "But you won't but you won't but you won't"
+        },
+        {
+          "key": "257602|I would stay forever if you say Don't go",
+          "startMs": 257602,
+          "text": "I would stay forever if you say Don't go"
+        },
+        {
+          "key": "267992|But you won't but you won't but you won't",
+          "startMs": 267992,
+          "text": "But you won't but you won't but you won't"
+        }
+      ]
+    }
+  ]
+}

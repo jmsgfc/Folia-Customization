@@ -1,0 +1,419 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:3324e4fb6aaedbe931d632598c0418be",
+      "lines": [
+        {
+          "key": "0|脸红的思春期 - You(=I)",
+          "text": "脸红的思春期 - You(=I)",
+          "segments": [
+            "脸红的思春期",
+            " - ",
+            "You(=I)"
+          ]
+        },
+        {
+          "key": "3443|作词：Ji Yeong An",
+          "text": "作词：Ji Yeong An",
+          "segments": [
+            "作词：",
+            "Ji Yeong An"
+          ]
+        },
+        {
+          "key": "6456|作曲：Ji Yeong An",
+          "text": "作曲：Ji Yeong An",
+          "segments": [
+            "作曲：",
+            "Ji Yeong An"
+          ]
+        },
+        {
+          "key": "9470|ズルいよ",
+          "text": "ズルいよ",
+          "segments": [
+            "ズルいよ"
+          ]
+        },
+        {
+          "key": "10290|今日もダメなんて言わないで",
+          "text": "今日もダメなんて言わないで",
+          "segments": [
+            "今日",
+            "も",
+            "ダメ",
+            "なんて",
+            "言わないで"
+          ]
+        },
+        {
+          "key": "14040|今日くらい",
+          "text": "今日くらい",
+          "segments": [
+            "今日",
+            "くらい"
+          ]
+        },
+        {
+          "key": "14940|私にもチャンスちょうだい",
+          "text": "私にもチャンスちょうだい",
+          "segments": [
+            "私",
+            "に",
+            "も",
+            "チャンス",
+            "ちょうだい"
+          ]
+        },
+        {
+          "key": "18610|可愛い 笑いかた",
+          "text": "可愛い 笑いかた",
+          "segments": [
+            "可愛い ",
+            "笑いかた"
+          ]
+        },
+        {
+          "key": "21210|話しかたも 練習したんだよっ",
+          "text": "話しかたも 練習したんだよっ",
+          "segments": [
+            "話しかた",
+            "も ",
+            "練習した",
+            "ん",
+            "だ",
+            "よ",
+            "っ"
+          ]
+        },
+        {
+          "key": "24620|会いたいのに 意地悪はイヤ",
+          "text": "会いたいのに 意地悪はイヤ",
+          "segments": [
+            "会いたい",
+            "の",
+            "に ",
+            "意地悪",
+            "は",
+            "イヤ"
+          ]
+        },
+        {
+          "key": "27810|Baby 私ちょっと意地っ張りだった",
+          "text": "Baby 私ちょっと意地っ張りだった",
+          "segments": [
+            "Baby ",
+            "私",
+            "ちょっと",
+            "意地っ張り",
+            "だった"
+          ]
+        },
+        {
+          "key": "32310|今日も嘘泣きでok",
+          "text": "今日も嘘泣きでok",
+          "segments": [
+            "今日",
+            "も",
+            "嘘泣き",
+            "で",
+            "ok"
+          ]
+        },
+        {
+          "key": "34900|貰った君とのデート",
+          "text": "貰った君とのデート",
+          "segments": [
+            "貰った",
+            "君",
+            "と",
+            "の",
+            "デート"
+          ]
+        },
+        {
+          "key": "36890|会いたくなって 不機嫌でも",
+          "text": "会いたくなって 不機嫌でも",
+          "segments": [
+            "会いたく",
+            "なって ",
+            "不機嫌",
+            "でも"
+          ]
+        },
+        {
+          "key": "39180|キミが抱きしめると",
+          "text": "キミが抱きしめると",
+          "segments": [
+            "キミ",
+            "が",
+            "抱きしめる",
+            "と"
+          ]
+        },
+        {
+          "key": "41822|とろとろ とけちゃうよ yeah",
+          "text": "とろとろ とけちゃうよ yeah",
+          "segments": [
+            "とろとろ ",
+            "とけちゃう",
+            "よ ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "46020|Baby you you you yeah yeah",
+          "text": "Baby you you you yeah yeah",
+          "segments": [
+            "Baby ",
+            "you ",
+            "you ",
+            "you ",
+            "yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "51230|You you you yeah yeah",
+          "text": "You you you yeah yeah",
+          "segments": [
+            "You ",
+            "you ",
+            "you ",
+            "yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "57510|Baby 私ちょっと欲張りだった",
+          "text": "Baby 私ちょっと欲張りだった",
+          "segments": [
+            "Baby ",
+            "私",
+            "ちょっと",
+            "欲張り",
+            "だった"
+          ]
+        },
+        {
+          "key": "62000|今日も駄々こねてok",
+          "text": "今日も駄々こねてok",
+          "segments": [
+            "今日",
+            "も",
+            "駄々",
+            "こねて",
+            "ok"
+          ]
+        },
+        {
+          "key": "64610|貰った君とのデート",
+          "text": "貰った君とのデート",
+          "segments": [
+            "貰った",
+            "君",
+            "と",
+            "の",
+            "デート"
+          ]
+        },
+        {
+          "key": "66640|「愛してる」が 少なくても",
+          "text": "「愛してる」が 少なくても",
+          "segments": [
+            "「愛してる」",
+            "が ",
+            "少なくても"
+          ]
+        },
+        {
+          "key": "68900|キミが抱きしめると",
+          "text": "キミが抱きしめると",
+          "segments": [
+            "キミ",
+            "が",
+            "抱きしめる",
+            "と"
+          ]
+        },
+        {
+          "key": "71478|とろとろ とけちゃうよ yeah",
+          "text": "とろとろ とけちゃうよ yeah",
+          "segments": [
+            "とろとろ ",
+            "とけちゃう",
+            "よ ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "75760|Baby you you you yeah yeah",
+          "text": "Baby you you you yeah yeah",
+          "segments": [
+            "Baby ",
+            "you ",
+            "you ",
+            "you ",
+            "yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "80950|You you you yeah yeah",
+          "text": "You you you yeah yeah",
+          "segments": [
+            "You ",
+            "you ",
+            "you ",
+            "yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "85490|You you you yeah yeah",
+          "text": "You you you yeah yeah",
+          "segments": [
+            "You ",
+            "you ",
+            "you ",
+            "yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "90090|You you you yeah",
+          "text": "You you you yeah",
+          "segments": [
+            "You ",
+            "you ",
+            "you ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "94384|不器用な心 君は知ってるの ",
+          "text": "不器用な心 君は知ってるの ",
+          "segments": [
+            "不器用",
+            "な",
+            "心 ",
+            "君",
+            "は",
+            "知ってる",
+            "の "
+          ]
+        },
+        {
+          "key": "98610|本当は手繋ぐのも 震えているよ",
+          "text": "本当は手繋ぐのも 震えているよ",
+          "segments": [
+            "本当は",
+            "手",
+            "繋ぐ",
+            "の",
+            "も ",
+            "震え",
+            "て",
+            "いる",
+            "よ"
+          ]
+        },
+        {
+          "key": "103160|今日ね気づいたの 君に似てきたと",
+          "text": "今日ね気づいたの 君に似てきたと",
+          "segments": [
+            "今日",
+            "ね",
+            "気づいた",
+            "の ",
+            "君",
+            "に",
+            "似てきた",
+            "と"
+          ]
+        },
+        {
+          "key": "107790|これからは 君と一緒に笑う yeah",
+          "text": "これからは 君と一緒に笑う yeah",
+          "segments": [
+            "これから",
+            "は ",
+            "君",
+            "と",
+            "一緒",
+            "に",
+            "笑う ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "115475|You woo yeah",
+          "text": "You woo yeah",
+          "segments": [
+            "You ",
+            "woo ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "120820|You you you yeah yeah",
+          "text": "You you you yeah yeah",
+          "segments": [
+            "You ",
+            "you ",
+            "you ",
+            "yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "123756|君に似て心が広くなったら",
+          "text": "君に似て心が広くなったら",
+          "segments": [
+            "君",
+            "に",
+            "似て",
+            "心",
+            "が",
+            "広く",
+            "なったら"
+          ]
+        },
+        {
+          "key": "128346|私の胸で 抱きしめるよ",
+          "text": "私の胸で 抱きしめるよ",
+          "segments": [
+            "私",
+            "の",
+            "胸",
+            "で ",
+            "抱きしめる",
+            "よ"
+          ]
+        },
+        {
+          "key": "133486|You you you yeah yeah",
+          "text": "You you you yeah yeah",
+          "segments": [
+            "You ",
+            "you ",
+            "you ",
+            "yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "138367|You you you yeah yeah",
+          "text": "You you you yeah yeah",
+          "segments": [
+            "You ",
+            "you ",
+            "you ",
+            "yeah ",
+            "yeah"
+          ]
+        }
+      ]
+    }
+  ]
+}

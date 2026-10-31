@@ -1,0 +1,593 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:7ddf9c0807f4d3b224e6402a9edc5d0d",
+      "lines": [
+        {
+          "key": "0|Hillsong Young & Free - Wake (Live)",
+          "text": "Hillsong Young & Free - Wake (Live)",
+          "segments": [
+            "Hillsong Young & Free ",
+            "- ",
+            "Wake (Live)"
+          ]
+        },
+        {
+          "key": "4900|Composed by：Hannah Hobbs/Alexander Pappas/Joel Davies",
+          "text": "Composed by：Hannah Hobbs/Alexander Pappas/Joel Davies",
+          "segments": [
+            "Composed by：",
+            "Hannah Hobbs",
+            "/",
+            "Alexander Pappas",
+            "/",
+            "Joel Davies"
+          ]
+        },
+        {
+          "key": "9810|Produced by：Laura Toggs/Aodhan King/Ben Tan/Michael Guy Chislett",
+          "text": "Produced by：Laura Toggs/Aodhan King/Ben Tan/Michael Guy Chislett",
+          "segments": [
+            "Produced by：",
+            "Laura Toggs",
+            "/",
+            "Aodhan King",
+            "/",
+            "Ben Tan",
+            "/",
+            "Michael Guy Chislett"
+          ]
+        },
+        {
+          "key": "14717|At break of day in hope we rise",
+          "text": "At break of day in hope we rise",
+          "segments": [
+            "At ",
+            "break ",
+            "of ",
+            "day ",
+            "in ",
+            "hope ",
+            "we ",
+            "rise"
+          ]
+        },
+        {
+          "key": "18492|We speak your name we lift our eyes",
+          "text": "We speak your name we lift our eyes",
+          "segments": [
+            "We ",
+            "speak ",
+            "your ",
+            "name ",
+            "we ",
+            "lift ",
+            "our ",
+            "eyes"
+          ]
+        },
+        {
+          "key": "22209|Tune our hearts into your beat",
+          "text": "Tune our hearts into your beat",
+          "segments": [
+            "Tune ",
+            "our ",
+            "hearts ",
+            "into ",
+            "your ",
+            "beat"
+          ]
+        },
+        {
+          "key": "25888|Where we walk came on there you'll be",
+          "text": "Where we walk came on there you'll be",
+          "segments": [
+            "Where ",
+            "we ",
+            "walk ",
+            "came ",
+            "on ",
+            "there ",
+            "you'll ",
+            "be"
+          ]
+        },
+        {
+          "key": "28986|Woo with fire in our eyes our lives a-light",
+          "text": "Woo with fire in our eyes our lives a-light",
+          "segments": [
+            "Woo ",
+            "with ",
+            "fire ",
+            "in ",
+            "our ",
+            "eyes ",
+            "our ",
+            "lives ",
+            "a",
+            "-",
+            "light"
+          ]
+        },
+        {
+          "key": "33025|Your love untamed it's blazing out",
+          "text": "Your love untamed it's blazing out",
+          "segments": [
+            "Your ",
+            "love ",
+            "untamed ",
+            "it's ",
+            "blazing ",
+            "out"
+          ]
+        },
+        {
+          "key": "36715|The streets will glow forever bright",
+          "text": "The streets will glow forever bright",
+          "segments": [
+            "The ",
+            "streets ",
+            "will ",
+            "glow ",
+            "forever ",
+            "bright"
+          ]
+        },
+        {
+          "key": "40404|Your glory's breaking through the night",
+          "text": "Your glory's breaking through the night",
+          "segments": [
+            "Your ",
+            "glory's ",
+            "breaking ",
+            "through ",
+            "the ",
+            "night"
+          ]
+        },
+        {
+          "key": "44326|You will never fade away your love is here to stay",
+          "text": "You will never fade away your love is here to stay",
+          "segments": [
+            "You ",
+            "will ",
+            "never ",
+            "fade ",
+            "away ",
+            "your ",
+            "love ",
+            "is ",
+            "here ",
+            "to ",
+            "stay"
+          ]
+        },
+        {
+          "key": "47965|By my side in my life shining through me everyday",
+          "text": "By my side in my life shining through me everyday",
+          "segments": [
+            "By ",
+            "my ",
+            "side ",
+            "in ",
+            "my ",
+            "life ",
+            "shining ",
+            "through ",
+            "me ",
+            "everyday"
+          ]
+        },
+        {
+          "key": "51683|You will never fade away your love is here to stay",
+          "text": "You will never fade away your love is here to stay",
+          "segments": [
+            "You ",
+            "will ",
+            "never ",
+            "fade ",
+            "away ",
+            "your ",
+            "love ",
+            "is ",
+            "here ",
+            "to ",
+            "stay"
+          ]
+        },
+        {
+          "key": "55336|By my side in my life shining through me everyday",
+          "text": "By my side in my life shining through me everyday",
+          "segments": [
+            "By ",
+            "my ",
+            "side ",
+            "in ",
+            "my ",
+            "life ",
+            "shining ",
+            "through ",
+            "me ",
+            "everyday"
+          ]
+        },
+        {
+          "key": "73534|You wake within me wake within me",
+          "text": "You wake within me wake within me",
+          "segments": [
+            "You ",
+            "wake ",
+            "within ",
+            "me ",
+            "wake ",
+            "within ",
+            "me"
+          ]
+        },
+        {
+          "key": "77471|You're in my heart forever",
+          "text": "You're in my heart forever",
+          "segments": [
+            "You're ",
+            "in ",
+            "my ",
+            "heart ",
+            "forever"
+          ]
+        },
+        {
+          "key": "80427|You wake within me wake within me",
+          "text": "You wake within me wake within me",
+          "segments": [
+            "You ",
+            "wake ",
+            "within ",
+            "me ",
+            "wake ",
+            "within ",
+            "me"
+          ]
+        },
+        {
+          "key": "84787|You're in my heart forever",
+          "text": "You're in my heart forever",
+          "segments": [
+            "You're ",
+            "in ",
+            "my ",
+            "heart ",
+            "forever"
+          ]
+        },
+        {
+          "key": "102833|With fire in our eyes our lives a-light",
+          "text": "With fire in our eyes our lives a-light",
+          "segments": [
+            "With ",
+            "fire ",
+            "in ",
+            "our ",
+            "eyes ",
+            "our ",
+            "lives ",
+            "a",
+            "-",
+            "light"
+          ]
+        },
+        {
+          "key": "106369|Your love untamed it's blazing out",
+          "text": "Your love untamed it's blazing out",
+          "segments": [
+            "Your ",
+            "love ",
+            "untamed ",
+            "it's ",
+            "blazing ",
+            "out"
+          ]
+        },
+        {
+          "key": "110049|The streets will glow forever bright",
+          "text": "The streets will glow forever bright",
+          "segments": [
+            "The ",
+            "streets ",
+            "will ",
+            "glow ",
+            "forever ",
+            "bright"
+          ]
+        },
+        {
+          "key": "113688|Your glory's breaking through the night",
+          "text": "Your glory's breaking through the night",
+          "segments": [
+            "Your ",
+            "glory's ",
+            "breaking ",
+            "through ",
+            "the ",
+            "night"
+          ]
+        },
+        {
+          "key": "117626|You will never fade away your love is here to stay",
+          "text": "You will never fade away your love is here to stay",
+          "segments": [
+            "You ",
+            "will ",
+            "never ",
+            "fade ",
+            "away ",
+            "your ",
+            "love ",
+            "is ",
+            "here ",
+            "to ",
+            "stay"
+          ]
+        },
+        {
+          "key": "121215|By my side in my life shining through me everyday",
+          "text": "By my side in my life shining through me everyday",
+          "segments": [
+            "By ",
+            "my ",
+            "side ",
+            "in ",
+            "my ",
+            "life ",
+            "shining ",
+            "through ",
+            "me ",
+            "everyday"
+          ]
+        },
+        {
+          "key": "124913|You will never fade away your love is here to stay",
+          "text": "You will never fade away your love is here to stay",
+          "segments": [
+            "You ",
+            "will ",
+            "never ",
+            "fade ",
+            "away ",
+            "your ",
+            "love ",
+            "is ",
+            "here ",
+            "to ",
+            "stay"
+          ]
+        },
+        {
+          "key": "128543|By my side in my life shining through me everyday",
+          "text": "By my side in my life shining through me everyday",
+          "segments": [
+            "By ",
+            "my ",
+            "side ",
+            "in ",
+            "my ",
+            "life ",
+            "shining ",
+            "through ",
+            "me ",
+            "everyday"
+          ]
+        },
+        {
+          "key": "146939|You wake within me wake within me",
+          "text": "You wake within me wake within me",
+          "segments": [
+            "You ",
+            "wake ",
+            "within ",
+            "me ",
+            "wake ",
+            "within ",
+            "me"
+          ]
+        },
+        {
+          "key": "150765|You're in my heart forever",
+          "text": "You're in my heart forever",
+          "segments": [
+            "You're ",
+            "in ",
+            "my ",
+            "heart ",
+            "forever"
+          ]
+        },
+        {
+          "key": "153830|You wake within me wake within me",
+          "text": "You wake within me wake within me",
+          "segments": [
+            "You ",
+            "wake ",
+            "within ",
+            "me ",
+            "wake ",
+            "within ",
+            "me"
+          ]
+        },
+        {
+          "key": "158086|You're in my heart forever",
+          "text": "You're in my heart forever",
+          "segments": [
+            "You're ",
+            "in ",
+            "my ",
+            "heart ",
+            "forever"
+          ]
+        },
+        {
+          "key": "176869|Forever forever forever in your love",
+          "text": "Forever forever forever in your love",
+          "segments": [
+            "Forever ",
+            "forever ",
+            "forever ",
+            "in ",
+            "your ",
+            "love"
+          ]
+        },
+        {
+          "key": "183927|Forever forever forever in your love",
+          "text": "Forever forever forever in your love",
+          "segments": [
+            "Forever ",
+            "forever ",
+            "forever ",
+            "in ",
+            "your ",
+            "love"
+          ]
+        },
+        {
+          "key": "191247|Forever forever forever in your love",
+          "text": "Forever forever forever in your love",
+          "segments": [
+            "Forever ",
+            "forever ",
+            "forever ",
+            "in ",
+            "your ",
+            "love"
+          ]
+        },
+        {
+          "key": "198559|Forever forever forever we know that",
+          "text": "Forever forever forever we know that",
+          "segments": [
+            "Forever ",
+            "forever ",
+            "forever ",
+            "we ",
+            "know ",
+            "that"
+          ]
+        },
+        {
+          "key": "205519|You will never fade away your love is here to stay",
+          "text": "You will never fade away your love is here to stay",
+          "segments": [
+            "You ",
+            "will ",
+            "never ",
+            "fade ",
+            "away ",
+            "your ",
+            "love ",
+            "is ",
+            "here ",
+            "to ",
+            "stay"
+          ]
+        },
+        {
+          "key": "209132|By my side in my life shining through me everyday",
+          "text": "By my side in my life shining through me everyday",
+          "segments": [
+            "By ",
+            "my ",
+            "side ",
+            "in ",
+            "my ",
+            "life ",
+            "shining ",
+            "through ",
+            "me ",
+            "everyday"
+          ]
+        },
+        {
+          "key": "212852|You will never fade away your love is here to stay",
+          "text": "You will never fade away your love is here to stay",
+          "segments": [
+            "You ",
+            "will ",
+            "never ",
+            "fade ",
+            "away ",
+            "your ",
+            "love ",
+            "is ",
+            "here ",
+            "to ",
+            "stay"
+          ]
+        },
+        {
+          "key": "216481|By my side in my life shining through me everyday",
+          "text": "By my side in my life shining through me everyday",
+          "segments": [
+            "By ",
+            "my ",
+            "side ",
+            "in ",
+            "my ",
+            "life ",
+            "shining ",
+            "through ",
+            "me ",
+            "everyday"
+          ]
+        },
+        {
+          "key": "234901|You wake within me wake within me",
+          "text": "You wake within me wake within me",
+          "segments": [
+            "You ",
+            "wake ",
+            "within ",
+            "me ",
+            "wake ",
+            "within ",
+            "me"
+          ]
+        },
+        {
+          "key": "238651|You're in my heart forever",
+          "text": "You're in my heart forever",
+          "segments": [
+            "You're ",
+            "in ",
+            "my ",
+            "heart ",
+            "forever"
+          ]
+        },
+        {
+          "key": "241925|You wake within me wake within me",
+          "text": "You wake within me wake within me",
+          "segments": [
+            "You ",
+            "wake ",
+            "within ",
+            "me ",
+            "wake ",
+            "within ",
+            "me"
+          ]
+        },
+        {
+          "key": "245973|You're in my heart forever",
+          "text": "You're in my heart forever",
+          "segments": [
+            "You're ",
+            "in ",
+            "my ",
+            "heart ",
+            "forever"
+          ]
+        }
+      ]
+    }
+  ]
+}

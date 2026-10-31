@@ -1,0 +1,662 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:cec583fb549f041756c9567caee1e1c5",
+      "lines": [
+        {
+          "key": "0|裹着心的光 - 林俊杰",
+          "text": "裹着心的光 - 林俊杰",
+          "segments": [
+            "裹着心的光",
+            " - ",
+            "林俊杰"
+          ]
+        },
+        {
+          "key": "372|词 LYRICS：易家扬",
+          "text": "词 LYRICS：易家扬",
+          "segments": [
+            "词 LYRICS：",
+            "易家扬"
+          ]
+        },
+        {
+          "key": "779|曲 COMPOSER：林俊杰 JJ LIN",
+          "text": "曲 COMPOSER：林俊杰 JJ LIN",
+          "segments": [
+            "曲 COMPOSER：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "1490|制作人 PRODUCER：林俊杰 JJ LIN",
+          "text": "制作人 PRODUCER：林俊杰 JJ LIN",
+          "segments": [
+            "制作人 PRODUCER：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "2269|配唱制作 VOCAL PRODUCTION：林俊杰 JJ LIN",
+          "text": "配唱制作 VOCAL PRODUCTION：林俊杰 JJ LIN",
+          "segments": [
+            "配唱制作 VOCAL PRODUCTION：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "3353|制作协力 PRODUCTION ASSISTANCE：黄冠龙 ALEX.D/周信廷 SHiN CHOU/蔡沛蓁 Patti Tsai",
+          "text": "制作协力 PRODUCTION ASSISTANCE：黄冠龙 ALEX.D/周信廷 SHiN CHOU/蔡沛蓁 Patti Tsai",
+          "segments": [
+            "制作协力 PRODUCTION ASSISTANCE：",
+            "黄冠龙 ALEX.D",
+            "/",
+            "周信廷 SHiN CHOU",
+            "/",
+            "蔡沛蓁 Patti Tsai"
+          ]
+        },
+        {
+          "key": "5589|编曲 & 键盘 MUSIC ARRANGEMENT & KEYBOARDS：吴庆隆",
+          "text": "编曲 & 键盘 MUSIC ARRANGEMENT & KEYBOARDS：吴庆隆",
+          "segments": [
+            "编曲 & 键盘 MUSIC ARRANGEMENT & KEYBOARDS：",
+            "吴庆隆"
+          ]
+        },
+        {
+          "key": "6978|弦乐编写 STRINGS ARRANGEMENT：吴庆隆",
+          "text": "弦乐编写 STRINGS ARRANGEMENT：吴庆隆",
+          "segments": [
+            "弦乐编写 STRINGS ARRANGEMENT：",
+            "吴庆隆"
+          ]
+        },
+        {
+          "key": "7926|弦乐录音监督 MUSIC SUPERVISOR：胡静成",
+          "text": "弦乐录音监督 MUSIC SUPERVISOR：胡静成",
+          "segments": [
+            "弦乐录音监督 MUSIC SUPERVISOR：",
+            "胡静成"
+          ]
+        },
+        {
+          "key": "8841|第一小提琴 FIRST VIOLIN：张浩/庞阔/张琴/杨爽/刘睿/颜柯/张晗/高言",
+          "text": "第一小提琴 FIRST VIOLIN：张浩/庞阔/张琴/杨爽/刘睿/颜柯/张晗/高言",
+          "segments": [
+            "第一小提琴 FIRST VIOLIN：",
+            "张浩",
+            "/",
+            "庞阔",
+            "/",
+            "张琴",
+            "/",
+            "杨爽",
+            "/",
+            "刘睿",
+            "/",
+            "颜柯",
+            "/",
+            "张晗",
+            "/",
+            "高言"
+          ]
+        },
+        {
+          "key": "10263|第二小提琴 SECOND VIOLIN：简培/侯宇红/闫红/李若云/高一凡/倪冰雪",
+          "text": "第二小提琴 SECOND VIOLIN：简培/侯宇红/闫红/李若云/高一凡/倪冰雪",
+          "segments": [
+            "第二小提琴 SECOND VIOLIN：",
+            "简培",
+            "/",
+            "侯宇红",
+            "/",
+            "闫红",
+            "/",
+            "李若云",
+            "/",
+            "高一凡",
+            "/",
+            "倪冰雪"
+          ]
+        },
+        {
+          "key": "11652|中提琴 VIOLA：李辉/李季泽/毕芳/方振华",
+          "text": "中提琴 VIOLA：李辉/李季泽/毕芳/方振华",
+          "segments": [
+            "中提琴 VIOLA：",
+            "李辉",
+            "/",
+            "李季泽",
+            "/",
+            "毕芳",
+            "/",
+            "方振华"
+          ]
+        },
+        {
+          "key": "12431|大提琴 CELLO：张平/郎莹/王瑶/石云博",
+          "text": "大提琴 CELLO：张平/郎莹/王瑶/石云博",
+          "segments": [
+            "大提琴 CELLO：",
+            "张平",
+            "/",
+            "郎莹",
+            "/",
+            "王瑶",
+            "/",
+            "石云博"
+          ]
+        },
+        {
+          "key": "13176|大提琴独奏 CELLO SOLO：郎莹",
+          "text": "大提琴独奏 CELLO SOLO：郎莹",
+          "segments": [
+            "大提琴独奏 CELLO SOLO：",
+            "郎莹"
+          ]
+        },
+        {
+          "key": "13820|吉他 GUITAR：黄冠龙 ALEX.D",
+          "text": "吉他 GUITAR：黄冠龙 ALEX.D",
+          "segments": [
+            "吉他 GUITAR：",
+            "黄冠龙 ALEX.D"
+          ]
+        },
+        {
+          "key": "14498|低音吉他 BASS GUITAR：宁子达 Michael Ning",
+          "text": "低音吉他 BASS GUITAR：宁子达 Michael Ning",
+          "segments": [
+            "低音吉他 BASS GUITAR：",
+            "宁子达 Michael Ning"
+          ]
+        },
+        {
+          "key": "15615|鼓 DRUMS：Brendan Buckley",
+          "text": "鼓 DRUMS：Brendan Buckley",
+          "segments": [
+            "鼓 DRUMS：",
+            "Brendan Buckley"
+          ]
+        },
+        {
+          "key": "16394|和声编写 BACKGROUND VOCAL ARRANGEMENT：林俊杰 JJ LIN",
+          "text": "和声编写 BACKGROUND VOCAL ARRANGEMENT：林俊杰 JJ LIN",
+          "segments": [
+            "和声编写 BACKGROUND VOCAL ARRANGEMENT：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "17885|和声 BACKGROUND VOCALS：林俊杰 JJ LIN",
+          "text": "和声 BACKGROUND VOCALS：林俊杰 JJ LIN",
+          "segments": [
+            "和声 BACKGROUND VOCALS：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "18935|录音室 RECORDING STUDIOS：THE JFJ SINGULARITY (Taipei)/JFJ SANCTUARY (Taipei)/Reflector Music Studio (Los Angeles)/九紫天成录音棚 (Beijing)",
+          "text": "录音室 RECORDING STUDIOS：THE JFJ SINGULARITY (Taipei)/JFJ SANCTUARY (Taipei)/Reflector Music Studio (Los Angeles)/九紫天成录音棚 (Beijing)",
+          "segments": [
+            "录音室 RECORDING STUDIOS：",
+            "THE JFJ SINGULARITY (Taipei)",
+            "/",
+            "JFJ SANCTUARY (Taipei)",
+            "/",
+            "Reflector Music Studio (Los Angeles)",
+            "/",
+            "九紫天成录音棚 (Beijing)"
+          ]
+        },
+        {
+          "key": "23271|录音师 RECORDING ENGINEERS：林俊杰 JJ LIN/黄冠龙 ALEX.D/Brendan Buckley/刘璆",
+          "text": "录音师 RECORDING ENGINEERS：林俊杰 JJ LIN/黄冠龙 ALEX.D/Brendan Buckley/刘璆",
+          "segments": [
+            "录音师 RECORDING ENGINEERS：",
+            "林俊杰 JJ LIN",
+            "/",
+            "黄冠龙 ALEX.D",
+            "/",
+            "Brendan Buckley",
+            "/",
+            "刘璆"
+          ]
+        },
+        {
+          "key": "25439|混音室 MIXING STUDIO：mixHaus Studios (Los Angeles)",
+          "text": "混音室 MIXING STUDIO：mixHaus Studios (Los Angeles)",
+          "segments": [
+            "混音室 MIXING STUDIO：",
+            "mixHaus Studios (Los Angeles)"
+          ]
+        },
+        {
+          "key": "27031|混音师 MIXING ENGINEER：Richard Furch",
+          "text": "混音师 MIXING ENGINEER：Richard Furch",
+          "segments": [
+            "混音师 MIXING ENGINEER：",
+            "Richard Furch"
+          ]
+        },
+        {
+          "key": "28149|后期母带处理制作人 MASTERING PRODUCER：林俊杰 JJ LIN",
+          "text": "后期母带处理制作人 MASTERING PRODUCER：林俊杰 JJ LIN",
+          "segments": [
+            "后期母带处理制作人 MASTERING PRODUCER：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "29470|后期母带处理录音室 MASTERING STUDIO：馒头音乐工作室",
+          "text": "后期母带处理录音室 MASTERING STUDIO：馒头音乐工作室",
+          "segments": [
+            "后期母带处理录音室 MASTERING STUDIO：",
+            "馒头音乐工作室"
+          ]
+        },
+        {
+          "key": "30622|后期母带处理录音师 MASTERING ENGINEER：孙仲舒",
+          "text": "后期母带处理录音师 MASTERING ENGINEER：孙仲舒",
+          "segments": [
+            "后期母带处理录音师 MASTERING ENGINEER：",
+            "孙仲舒"
+          ]
+        },
+        {
+          "key": "31706|光 拿乌云揉成团",
+          "text": "光 拿乌云揉成团",
+          "segments": [
+            "光 ",
+            "拿",
+            "乌云",
+            "揉成",
+            "团"
+          ]
+        },
+        {
+          "key": "36466|像鲸鱼吻着浪",
+          "text": "像鲸鱼吻着浪",
+          "segments": [
+            "像",
+            "鲸鱼",
+            "吻",
+            "着",
+            "浪"
+          ]
+        },
+        {
+          "key": "40086|叫我 和你 去飞翔",
+          "text": "叫我 和你 去飞翔",
+          "segments": [
+            "叫",
+            "我 ",
+            "和",
+            "你 ",
+            "去",
+            "飞翔"
+          ]
+        },
+        {
+          "key": "45722|人 老无语后落单",
+          "text": "人 老无语后落单",
+          "segments": [
+            "人 ",
+            "老",
+            "无",
+            "语",
+            "后",
+            "落单"
+          ]
+        },
+        {
+          "key": "50682|别跟丢了天空 沙滩",
+          "text": "别跟丢了天空 沙滩",
+          "segments": [
+            "别",
+            "跟",
+            "丢",
+            "了",
+            "天空 ",
+            "沙滩"
+          ]
+        },
+        {
+          "key": "55942|挣脱 回忆 壮胆",
+          "text": "挣脱 回忆 壮胆",
+          "segments": [
+            "挣脱 ",
+            "回忆 ",
+            "壮",
+            "胆"
+          ]
+        },
+        {
+          "key": "62592|裹着心的光 很暖 与你 有关",
+          "text": "裹着心的光 很暖 与你 有关",
+          "segments": [
+            "裹着心的光 ",
+            "很",
+            "暖 ",
+            "与",
+            "你 ",
+            "有关"
+          ]
+        },
+        {
+          "key": "70322|有梦就听得到 用爱呼应感叹",
+          "text": "有梦就听得到 用爱呼应感叹",
+          "segments": [
+            "有",
+            "梦",
+            "就",
+            "听",
+            "得到 ",
+            "用",
+            "爱",
+            "呼应",
+            "感叹"
+          ]
+        },
+        {
+          "key": "76862|心里裹着光 的人 世界 很宽",
+          "text": "心里裹着光 的人 世界 很宽",
+          "segments": [
+            "心里",
+            "裹",
+            "着",
+            "光 ",
+            "的",
+            "人 ",
+            "世界 ",
+            "很",
+            "宽"
+          ]
+        },
+        {
+          "key": "84402|出发就走得到",
+          "text": "出发就走得到",
+          "segments": [
+            "出发",
+            "就走",
+            "得到"
+          ]
+        },
+        {
+          "key": "87832|来时路不会被 剪断",
+          "text": "来时路不会被 剪断",
+          "segments": [
+            "来",
+            "时",
+            "路",
+            "不会",
+            "被 ",
+            "剪断"
+          ]
+        },
+        {
+          "key": "108117|当 那无名领头羊",
+          "text": "当 那无名领头羊",
+          "segments": [
+            "当 ",
+            "那",
+            "无名",
+            "领",
+            "头",
+            "羊"
+          ]
+        },
+        {
+          "key": "112632|替明天找希望",
+          "text": "替明天找希望",
+          "segments": [
+            "替",
+            "明天",
+            "找",
+            "希望"
+          ]
+        },
+        {
+          "key": "116092|说嘿 有我 别心慌",
+          "text": "说嘿 有我 别心慌",
+          "segments": [
+            "说",
+            "嘿 ",
+            "有",
+            "我 ",
+            "别",
+            "心慌"
+          ]
+        },
+        {
+          "key": "121882|来 学萤火虫冥想",
+          "text": "来 学萤火虫冥想",
+          "segments": [
+            "来 ",
+            "学",
+            "萤火",
+            "虫",
+            "冥想"
+          ]
+        },
+        {
+          "key": "126742|在昏暗中静默 发亮",
+          "text": "在昏暗中静默 发亮",
+          "segments": [
+            "在",
+            "昏暗",
+            "中",
+            "静默 ",
+            "发亮"
+          ]
+        },
+        {
+          "key": "132022|是否 有梦 当然",
+          "text": "是否 有梦 当然",
+          "segments": [
+            "是否 ",
+            "有",
+            "梦 ",
+            "当然"
+          ]
+        },
+        {
+          "key": "138702|裹着心的光 很响 说了 别慌",
+          "text": "裹着心的光 很响 说了 别慌",
+          "segments": [
+            "裹着心的光 ",
+            "很",
+            "响 ",
+            "说",
+            "了 ",
+            "别",
+            "慌"
+          ]
+        },
+        {
+          "key": "146202|它说孤单很好 信念创造不凡",
+          "text": "它说孤单很好 信念创造不凡",
+          "segments": [
+            "它",
+            "说",
+            "孤单",
+            "很好 ",
+            "信念",
+            "创造",
+            "不凡"
+          ]
+        },
+        {
+          "key": "152792|心里裹着光 的人 初衷 不换",
+          "text": "心里裹着光 的人 初衷 不换",
+          "segments": [
+            "心里",
+            "裹",
+            "着",
+            "光 ",
+            "的",
+            "人 ",
+            "初衷 ",
+            "不换"
+          ]
+        },
+        {
+          "key": "160272|誓言让心不老",
+          "text": "誓言让心不老",
+          "segments": [
+            "誓言",
+            "让",
+            "心",
+            "不老"
+          ]
+        },
+        {
+          "key": "163842|带那些梦探索 远方",
+          "text": "带那些梦探索 远方",
+          "segments": [
+            "带",
+            "那些",
+            "梦",
+            "探索 ",
+            "远方"
+          ]
+        },
+        {
+          "key": "170492|一路有雨 也有霜 月落无题江南",
+          "text": "一路有雨 也有霜 月落无题江南",
+          "segments": [
+            "一路",
+            "有",
+            "雨 ",
+            "也有",
+            "霜 ",
+            "月",
+            "落",
+            "无题",
+            "江南"
+          ]
+        },
+        {
+          "key": "178392|如我面对太阳 如你追希望",
+          "text": "如我面对太阳 如你追希望",
+          "segments": [
+            "如",
+            "我",
+            "面对",
+            "太阳 ",
+            "如",
+            "你",
+            "追",
+            "希望"
+          ]
+        },
+        {
+          "key": "184612|一诺冒险 就得闯 单板翻越冰川",
+          "text": "一诺冒险 就得闯 单板翻越冰川",
+          "segments": [
+            "一",
+            "诺",
+            "冒险 ",
+            "就得",
+            "闯 ",
+            "单",
+            "板",
+            "翻越",
+            "冰川"
+          ]
+        },
+        {
+          "key": "192552|未来不缺翅膀 冰雨和闷雷 别管",
+          "text": "未来不缺翅膀 冰雨和闷雷 别管",
+          "segments": [
+            "未来",
+            "不缺",
+            "翅膀 ",
+            "冰",
+            "雨",
+            "和",
+            "闷",
+            "雷 ",
+            "别管"
+          ]
+        },
+        {
+          "key": "202262|裹着心的光 很响 说了 别慌",
+          "text": "裹着心的光 很响 说了 别慌",
+          "segments": [
+            "裹着心的光 ",
+            "很",
+            "响 ",
+            "说",
+            "了 ",
+            "别",
+            "慌"
+          ]
+        },
+        {
+          "key": "209682|它说孤单很好 信念创造不凡",
+          "text": "它说孤单很好 信念创造不凡",
+          "segments": [
+            "它",
+            "说",
+            "孤单",
+            "很好 ",
+            "信念",
+            "创造",
+            "不凡"
+          ]
+        },
+        {
+          "key": "216292|心里裹着光 的人 初衷 不换",
+          "text": "心里裹着光 的人 初衷 不换",
+          "segments": [
+            "心里",
+            "裹",
+            "着",
+            "光 ",
+            "的",
+            "人 ",
+            "初衷 ",
+            "不换"
+          ]
+        },
+        {
+          "key": "223812|誓言让心不老",
+          "text": "誓言让心不老",
+          "segments": [
+            "誓言",
+            "让",
+            "心",
+            "不老"
+          ]
+        },
+        {
+          "key": "227362|带那些梦探索 远方",
+          "text": "带那些梦探索 远方",
+          "segments": [
+            "带",
+            "那些",
+            "梦",
+            "探索 ",
+            "远方"
+          ]
+        },
+        {
+          "key": "234771|问那些年的梦 有多烫",
+          "text": "问那些年的梦 有多烫",
+          "segments": [
+            "问",
+            "那些",
+            "年",
+            "的",
+            "梦 ",
+            "有",
+            "多",
+            "烫"
+          ]
+        }
+      ]
+    }
+  ]
+}

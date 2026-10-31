@@ -1,0 +1,985 @@
+{
+  "batchNumber": 120,
+  "songs": [
+    {
+      "rank": 596,
+      "songKey": "online:kugou:0710530fd5e672ba166bbbd7f67d6243",
+      "name": "我曾遇到一束光",
+      "artist": "叶斯淳",
+      "lines": [
+        {
+          "key": "0|我曾遇到一束光 - 叶斯淳",
+          "startMs": 0,
+          "text": "我曾遇到一束光 - 叶斯淳"
+        },
+        {
+          "key": "165|词：宋普照",
+          "startMs": 165,
+          "text": "词：宋普照"
+        },
+        {
+          "key": "265|曲：陈抒妮",
+          "startMs": 265,
+          "text": "曲：陈抒妮"
+        },
+        {
+          "key": "343|编曲：侯江浩",
+          "startMs": 343,
+          "text": "编曲：侯江浩"
+        },
+        {
+          "key": "372|制作人：侯江浩",
+          "startMs": 372,
+          "text": "制作人：侯江浩"
+        },
+        {
+          "key": "405|统筹：Ella",
+          "startMs": 405,
+          "text": "统筹：Ella"
+        },
+        {
+          "key": "438|吉他：王旭东",
+          "startMs": 438,
+          "text": "吉他：王旭东"
+        },
+        {
+          "key": "466|和声：小手鹅",
+          "startMs": 466,
+          "text": "和声：小手鹅"
+        },
+        {
+          "key": "494|混音工程师：不知名混音师",
+          "startMs": 494,
+          "text": "混音工程师：不知名混音师"
+        },
+        {
+          "key": "551|母带工程师：不知名混音师",
+          "startMs": 551,
+          "text": "母带工程师：不知名混音师"
+        },
+        {
+          "key": "607|出品：嘉创工作室",
+          "startMs": 607,
+          "text": "出品：嘉创工作室"
+        },
+        {
+          "key": "645|词曲提供：词曲家",
+          "startMs": 645,
+          "text": "词曲提供：词曲家"
+        },
+        {
+          "key": "683|营销推广：噼里啪啦Studio",
+          "startMs": 683,
+          "text": "营销推广：噼里啪啦Studio"
+        },
+        {
+          "key": "753|发行：讯飞音乐",
+          "startMs": 753,
+          "text": "发行：讯飞音乐"
+        },
+        {
+          "key": "786|未经著作权人书面许可 不得以任何方式（包括翻唱、翻录等）使用",
+          "startMs": 786,
+          "text": "未经著作权人书面许可 不得以任何方式（包括翻唱、翻录等）使用"
+        },
+        {
+          "key": "928|我曾遇到一束光",
+          "startMs": 928,
+          "text": "我曾遇到一束光"
+        },
+        {
+          "key": "3808|在前方",
+          "startMs": 3808,
+          "text": "在前方"
+        },
+        {
+          "key": "6532|我乘着风的翅膀去飞翔",
+          "startMs": 6532,
+          "text": "我乘着风的翅膀去飞翔"
+        },
+        {
+          "key": "24278|生命要闯过多少层层迷障",
+          "startMs": 24278,
+          "text": "生命要闯过多少层层迷障"
+        },
+        {
+          "key": "30228|才能抓住幸福的方向",
+          "startMs": 30228,
+          "text": "才能抓住幸福的方向"
+        },
+        {
+          "key": "35388|我们要扛过 多少孤单晚上",
+          "startMs": 35388,
+          "text": "我们要扛过 多少孤单晚上"
+        },
+        {
+          "key": "41208|才能将阑珊也点亮",
+          "startMs": 41208,
+          "text": "才能将阑珊也点亮"
+        },
+        {
+          "key": "47838|万物在朝夕之间疯狂生长",
+          "startMs": 47838,
+          "text": "万物在朝夕之间疯狂生长"
+        },
+        {
+          "key": "53698|我们努力靠近对方",
+          "startMs": 53698,
+          "text": "我们努力靠近对方"
+        },
+        {
+          "key": "58398|心跳在感应着 同样频率的荡漾",
+          "startMs": 58398,
+          "text": "心跳在感应着 同样频率的荡漾"
+        },
+        {
+          "key": "65728|期待在某一秒碰撞",
+          "startMs": 65728,
+          "text": "期待在某一秒碰撞"
+        },
+        {
+          "key": "70398|时间的手一点一点推向了心房",
+          "startMs": 70398,
+          "text": "时间的手一点一点推向了心房"
+        },
+        {
+          "key": "77488|轮廓出你的模样",
+          "startMs": 77488,
+          "text": "轮廓出你的模样"
+        },
+        {
+          "key": "82238|我敞开梦一点一点慢慢对你讲",
+          "startMs": 82238,
+          "text": "我敞开梦一点一点慢慢对你讲"
+        },
+        {
+          "key": "89138|幸福拥有了形状",
+          "startMs": 89138,
+          "text": "幸福拥有了形状"
+        },
+        {
+          "key": "94318|我曾遇到一束光",
+          "startMs": 94318,
+          "text": "我曾遇到一束光"
+        },
+        {
+          "key": "97268|在前方",
+          "startMs": 97268,
+          "text": "在前方"
+        },
+        {
+          "key": "100188|我乘着风的翅膀去飞翔",
+          "startMs": 100188,
+          "text": "我乘着风的翅膀去飞翔"
+        },
+        {
+          "key": "106038|奔向你无畏曾经那些受过的伤",
+          "startMs": 106038,
+          "text": "奔向你无畏曾经那些受过的伤"
+        },
+        {
+          "key": "112518|手心握着云朵 月亮",
+          "startMs": 112518,
+          "text": "手心握着云朵 月亮"
+        },
+        {
+          "key": "117768|我曾遇到一束光",
+          "startMs": 117768,
+          "text": "我曾遇到一束光"
+        },
+        {
+          "key": "120698|你的光",
+          "startMs": 120698,
+          "text": "你的光"
+        },
+        {
+          "key": "123628|我看到我掌心中的信仰",
+          "startMs": 123628,
+          "text": "我看到我掌心中的信仰"
+        },
+        {
+          "key": "129438|再一次因为你无邪的笑而绽放",
+          "startMs": 129438,
+          "text": "再一次因为你无邪的笑而绽放"
+        },
+        {
+          "key": "135958|谢谢有你在身旁",
+          "startMs": 135958,
+          "text": "谢谢有你在身旁"
+        },
+        {
+          "key": "153220|万物在朝夕之间疯狂生长",
+          "startMs": 153220,
+          "text": "万物在朝夕之间疯狂生长"
+        },
+        {
+          "key": "159070|我们努力靠近对方",
+          "startMs": 159070,
+          "text": "我们努力靠近对方"
+        },
+        {
+          "key": "163770|心跳在感应着 同样频率的荡漾",
+          "startMs": 163770,
+          "text": "心跳在感应着 同样频率的荡漾"
+        },
+        {
+          "key": "171070|期待在某一秒碰撞",
+          "startMs": 171070,
+          "text": "期待在某一秒碰撞"
+        },
+        {
+          "key": "175780|时间的手一点一点推向了心房",
+          "startMs": 175780,
+          "text": "时间的手一点一点推向了心房"
+        },
+        {
+          "key": "182850|轮廓出你的模样",
+          "startMs": 182850,
+          "text": "轮廓出你的模样"
+        },
+        {
+          "key": "187600|我敞开梦一点一点慢慢对你讲",
+          "startMs": 187600,
+          "text": "我敞开梦一点一点慢慢对你讲"
+        },
+        {
+          "key": "194500|幸福拥有了形状",
+          "startMs": 194500,
+          "text": "幸福拥有了形状"
+        },
+        {
+          "key": "199690|我曾遇到一束光",
+          "startMs": 199690,
+          "text": "我曾遇到一束光"
+        },
+        {
+          "key": "202650|在前方",
+          "startMs": 202650,
+          "text": "在前方"
+        },
+        {
+          "key": "205560|我乘着风的翅膀去飞翔",
+          "startMs": 205560,
+          "text": "我乘着风的翅膀去飞翔"
+        },
+        {
+          "key": "211430|奔向你无畏曾经那些受过的伤",
+          "startMs": 211430,
+          "text": "奔向你无畏曾经那些受过的伤"
+        },
+        {
+          "key": "217920|手心握着云朵 月亮",
+          "startMs": 217920,
+          "text": "手心握着云朵 月亮"
+        },
+        {
+          "key": "223110|我曾遇到一束光",
+          "startMs": 223110,
+          "text": "我曾遇到一束光"
+        },
+        {
+          "key": "226040|你的光",
+          "startMs": 226040,
+          "text": "你的光"
+        },
+        {
+          "key": "228980|我看到我掌心中的信仰",
+          "startMs": 228980,
+          "text": "我看到我掌心中的信仰"
+        },
+        {
+          "key": "234780|再一次因为你无邪的笑而绽放",
+          "startMs": 234780,
+          "text": "再一次因为你无邪的笑而绽放"
+        },
+        {
+          "key": "241310|谢谢有你在身旁",
+          "startMs": 241310,
+          "text": "谢谢有你在身旁"
+        }
+      ]
+    },
+    {
+      "rank": 597,
+      "songKey": "online:kugou:a29c4c08dcb92a7fb75825afb98f118b",
+      "name": "Flash Funk (Marshmello Remix)",
+      "artist": "Marshmello",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 598,
+      "songKey": "online:kugou:5f904ffcfdc14eb8714a31e766c8a093",
+      "name": "FakeLove (虚假的爱)(cover: ZhYu)",
+      "artist": "辛永吉",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 599,
+      "songKey": "online:kugou:c0e3dd71dbf95adbb128f09988ef8ba7",
+      "name": "In The Shadow Of The Sun",
+      "artist": "Professor Green",
+      "lines": [
+        {
+          "key": "0|Professor Green - In The Shadow Of The Sun",
+          "startMs": 0,
+          "text": "Professor Green - In The Shadow Of The Sun"
+        },
+        {
+          "key": "180|Composed by：Alex Schwar",
+          "startMs": 180,
+          "text": "Composed by：Alex Schwar"
+        },
+        {
+          "key": "379|Max Elto：",
+          "startMs": 379,
+          "text": "Max Elto："
+        },
+        {
+          "key": "443|They say that life is always easier",
+          "startMs": 443,
+          "text": "They say that life is always easier"
+        },
+        {
+          "key": "5771|After you let yourself come undone",
+          "startMs": 5771,
+          "text": "After you let yourself come undone"
+        },
+        {
+          "key": "11140|They say they'll give you whatever you want",
+          "startMs": 11140,
+          "text": "They say they'll give you whatever you want"
+        },
+        {
+          "key": "16061|And I'll be waiting in the shadow of the sun",
+          "startMs": 16061,
+          "text": "And I'll be waiting in the shadow of the sun"
+        },
+        {
+          "key": "19473|Seizing time where no one's been before",
+          "startMs": 19473,
+          "text": "Seizing time where no one's been before"
+        },
+        {
+          "key": "23252|Close the curtains what you waiting for",
+          "startMs": 23252,
+          "text": "Close the curtains what you waiting for"
+        },
+        {
+          "key": "27236|And I'll be keeping secrets",
+          "startMs": 27236,
+          "text": "And I'll be keeping secrets"
+        },
+        {
+          "key": "31028|Till I'm in the ground",
+          "startMs": 31028,
+          "text": "Till I'm in the ground"
+        },
+        {
+          "key": "33020|Professor Green：",
+          "startMs": 33020,
+          "text": "Professor Green："
+        },
+        {
+          "key": "37438|Keep your past your own I don't care about before",
+          "startMs": 37438,
+          "text": "Keep your past your own I don't care about before"
+        },
+        {
+          "key": "40865|I don't wanna know your secrets I wanna help you keep yours",
+          "startMs": 40865,
+          "text": "I don't wanna know your secrets I wanna help you keep yours"
+        },
+        {
+          "key": "45187|No one needs to no one'll ever know what we do",
+          "startMs": 45187,
+          "text": "No one needs to no one'll ever know what we do"
+        },
+        {
+          "key": "48175|Where we go why don't we go to a place where only we know",
+          "startMs": 48175,
+          "text": "Where we go why don't we go to a place where only we know"
+        },
+        {
+          "key": "51882|Where we escape from real life and it feels good and it feels nice",
+          "startMs": 51882,
+          "text": "Where we escape from real life and it feels good and it feels nice"
+        },
+        {
+          "key": "55703|That we ain't yet but we still might",
+          "startMs": 55703,
+          "text": "That we ain't yet but we still might"
+        },
+        {
+          "key": "57470|Cause we go with it if it feels right",
+          "startMs": 57470,
+          "text": "Cause we go with it if it feels right"
+        },
+        {
+          "key": "59599|And it feels feels amazing",
+          "startMs": 59599,
+          "text": "And it feels feels amazing"
+        },
+        {
+          "key": "64495|We ain't ready to see the day",
+          "startMs": 64495,
+          "text": "We ain't ready to see the day"
+        },
+        {
+          "key": "65640|Max Elto：",
+          "startMs": 65640,
+          "text": "Max Elto："
+        },
+        {
+          "key": "65703|And I'll be waiting in the shadow of the sun",
+          "startMs": 65703,
+          "text": "And I'll be waiting in the shadow of the sun"
+        },
+        {
+          "key": "68001|Seizing time where no one's been before",
+          "startMs": 68001,
+          "text": "Seizing time where no one's been before"
+        },
+        {
+          "key": "71786|Close the curtains what you waiting for",
+          "startMs": 71786,
+          "text": "Close the curtains what you waiting for"
+        },
+        {
+          "key": "75345|And I'll be keeping secrets",
+          "startMs": 75345,
+          "text": "And I'll be keeping secrets"
+        },
+        {
+          "key": "79394|And I'll be waiting in the shadow of the sun",
+          "startMs": 79394,
+          "text": "And I'll be waiting in the shadow of the sun"
+        },
+        {
+          "key": "82897|Seizing time where no one's been before",
+          "startMs": 82897,
+          "text": "Seizing time where no one's been before"
+        },
+        {
+          "key": "86618|Close the curtains what you waiting for",
+          "startMs": 86618,
+          "text": "Close the curtains what you waiting for"
+        },
+        {
+          "key": "90017|And I'll be keeping secrets",
+          "startMs": 90017,
+          "text": "And I'll be keeping secrets"
+        },
+        {
+          "key": "94153|Till I'm in the ground",
+          "startMs": 94153,
+          "text": "Till I'm in the ground"
+        },
+        {
+          "key": "96033|Professor Green：",
+          "startMs": 96033,
+          "text": "Professor Green："
+        },
+        {
+          "key": "97153|Let go of fear",
+          "startMs": 97153,
+          "text": "Let go of fear"
+        },
+        {
+          "key": "98366|This can be a secret that we both keep that we both share",
+          "startMs": 98366,
+          "text": "This can be a secret that we both keep that we both share"
+        },
+        {
+          "key": "100929|Hidden behind the smiles we both wear",
+          "startMs": 100929,
+          "text": "Hidden behind the smiles we both wear"
+        },
+        {
+          "key": "103570|As the sun creeps through the curtains",
+          "startMs": 103570,
+          "text": "As the sun creeps through the curtains"
+        },
+        {
+          "key": "105505|On the walls we become two silhouettes",
+          "startMs": 105505,
+          "text": "On the walls we become two silhouettes"
+        },
+        {
+          "key": "108265|As we close our eyes",
+          "startMs": 108265,
+          "text": "As we close our eyes"
+        },
+        {
+          "key": "109337|Let go of the lies that fill our heads",
+          "startMs": 109337,
+          "text": "Let go of the lies that fill our heads"
+        },
+        {
+          "key": "112129|Let's light it up live life in the moment",
+          "startMs": 112129,
+          "text": "Let's light it up live life in the moment"
+        },
+        {
+          "key": "114555|Why would we worry about where we might end up",
+          "startMs": 114555,
+          "text": "Why would we worry about where we might end up"
+        },
+        {
+          "key": "117301|They can't see us they can't judge us it's just us",
+          "startMs": 117301,
+          "text": "They can't see us they can't judge us it's just us"
+        },
+        {
+          "key": "121027|They might wonder but only know where we go",
+          "startMs": 121027,
+          "text": "They might wonder but only know where we go"
+        },
+        {
+          "key": "123905|When the sun comes up",
+          "startMs": 123905,
+          "text": "When the sun comes up"
+        },
+        {
+          "key": "124664|Max Elto：",
+          "startMs": 124664,
+          "text": "Max Elto："
+        },
+        {
+          "key": "124726|And I'll be waiting in the shadow of the sun",
+          "startMs": 124726,
+          "text": "And I'll be waiting in the shadow of the sun"
+        },
+        {
+          "key": "127543|Seizing time where no one's been before",
+          "startMs": 127543,
+          "text": "Seizing time where no one's been before"
+        },
+        {
+          "key": "131175|Close the curtains what you waiting for",
+          "startMs": 131175,
+          "text": "Close the curtains what you waiting for"
+        },
+        {
+          "key": "134704|And I'll be keeping secrets",
+          "startMs": 134704,
+          "text": "And I'll be keeping secrets"
+        },
+        {
+          "key": "138632|And I'll be waiting in the shadow of the sun",
+          "startMs": 138632,
+          "text": "And I'll be waiting in the shadow of the sun"
+        },
+        {
+          "key": "142449|Seizing time where no one's been before",
+          "startMs": 142449,
+          "text": "Seizing time where no one's been before"
+        },
+        {
+          "key": "146050|Close the curtains what you waiting for",
+          "startMs": 146050,
+          "text": "Close the curtains what you waiting for"
+        },
+        {
+          "key": "149554|And I'll be keeping secrets",
+          "startMs": 149554,
+          "text": "And I'll be keeping secrets"
+        },
+        {
+          "key": "153594|Till I'm in the ground",
+          "startMs": 153594,
+          "text": "Till I'm in the ground"
+        },
+        {
+          "key": "156274|I'm in the shadow of the shadow of the sun",
+          "startMs": 156274,
+          "text": "I'm in the shadow of the shadow of the sun"
+        },
+        {
+          "key": "159398|Where I belong girl there's something coming on",
+          "startMs": 159398,
+          "text": "Where I belong girl there's something coming on"
+        },
+        {
+          "key": "163678|I'm in the shadow of the shadow of the sun",
+          "startMs": 163678,
+          "text": "I'm in the shadow of the shadow of the sun"
+        },
+        {
+          "key": "167814|Oh and I need you",
+          "startMs": 167814,
+          "text": "Oh and I need you"
+        },
+        {
+          "key": "170424|Professor Green：",
+          "startMs": 170424,
+          "text": "Professor Green："
+        },
+        {
+          "key": "171024|Chasing it chasing it",
+          "startMs": 171024,
+          "text": "Chasing it chasing it"
+        },
+        {
+          "key": "172642|I don't know what I'm chasing is",
+          "startMs": 172642,
+          "text": "I don't know what I'm chasing is"
+        },
+        {
+          "key": "174814|All I know is I've been craving it",
+          "startMs": 174814,
+          "text": "All I know is I've been craving it"
+        },
+        {
+          "key": "176630|Ever since I had a taste of it",
+          "startMs": 176630,
+          "text": "Ever since I had a taste of it"
+        },
+        {
+          "key": "178382|Life is what you make of it",
+          "startMs": 178382,
+          "text": "Life is what you make of it"
+        },
+        {
+          "key": "180046|We're just here writing our own books",
+          "startMs": 180046,
+          "text": "We're just here writing our own books"
+        },
+        {
+          "key": "182517|This is just a page of it",
+          "startMs": 182517,
+          "text": "This is just a page of it"
+        },
+        {
+          "key": "183905|Before you wave your fingers at us",
+          "startMs": 183905,
+          "text": "Before you wave your fingers at us"
+        },
+        {
+          "key": "185436|You better make sure your hands are clean",
+          "startMs": 185436,
+          "text": "You better make sure your hands are clean"
+        },
+        {
+          "key": "187611|We all obey our hands are tied",
+          "startMs": 187611,
+          "text": "We all obey our hands are tied"
+        },
+        {
+          "key": "189677|And I don't wanna have to leave",
+          "startMs": 189677,
+          "text": "And I don't wanna have to leave"
+        },
+        {
+          "key": "191637|I don't wanna say goodbye",
+          "startMs": 191637,
+          "text": "I don't wanna say goodbye"
+        },
+        {
+          "key": "193821|They say life is always easier when you come undone",
+          "startMs": 193821,
+          "text": "They say life is always easier when you come undone"
+        },
+        {
+          "key": "197450|When I go you'll know where I've gone",
+          "startMs": 197450,
+          "text": "When I go you'll know where I've gone"
+        },
+        {
+          "key": "200156|And I'll be waiting in the shadow of the sun",
+          "startMs": 200156,
+          "text": "And I'll be waiting in the shadow of the sun"
+        },
+        {
+          "key": "215208|I'll be waiting in the shadow of the sun",
+          "startMs": 215208,
+          "text": "I'll be waiting in the shadow of the sun"
+        },
+        {
+          "key": "218701|Seizing time where no one's been before",
+          "startMs": 218701,
+          "text": "Seizing time where no one's been before"
+        },
+        {
+          "key": "222405|Close the curtains what you waiting for",
+          "startMs": 222405,
+          "text": "Close the curtains what you waiting for"
+        },
+        {
+          "key": "225901|And I'll be keeping secrets",
+          "startMs": 225901,
+          "text": "And I'll be keeping secrets"
+        },
+        {
+          "key": "230070|Till I'm in the ground",
+          "startMs": 230070,
+          "text": "Till I'm in the ground"
+        }
+      ]
+    },
+    {
+      "rank": 600,
+      "songKey": "online:kugou:d5ec46096e1bda87e12f76d4d369d188",
+      "name": "Ferrari",
+      "artist": "Bebe Rexha",
+      "lines": [
+        {
+          "key": "273|Bebe Rexha - Ferrari",
+          "startMs": 273,
+          "text": "Bebe Rexha - Ferrari"
+        },
+        {
+          "key": "1124|Written by：Jason Evigan、Bleta Rexha、Asia Whitacre",
+          "startMs": 1124,
+          "text": "Written by：Jason Evigan、Bleta Rexha、Asia Whitacre"
+        },
+        {
+          "key": "11685|Every day's a blur",
+          "startMs": 11685,
+          "text": "Every day's a blur"
+        },
+        {
+          "key": "15107|Sometimes I can't tell what day it is",
+          "startMs": 15107,
+          "text": "Sometimes I can't tell what day it is"
+        },
+        {
+          "key": "18927|Don't know what day it is",
+          "startMs": 18927,
+          "text": "Don't know what day it is"
+        },
+        {
+          "key": "21426|Can you tell me what day it is",
+          "startMs": 21426,
+          "text": "Can you tell me what day it is"
+        },
+        {
+          "key": "24382|Life's passing by",
+          "startMs": 24382,
+          "text": "Life's passing by"
+        },
+        {
+          "key": "27666|'Cause I'm out chasing empty highs",
+          "startMs": 27666,
+          "text": "'Cause I'm out chasing empty highs"
+        },
+        {
+          "key": "30821|Every hello just means goodbye",
+          "startMs": 30821,
+          "text": "Every hello just means goodbye"
+        },
+        {
+          "key": "33843|But I'm looking for more this time",
+          "startMs": 33843,
+          "text": "But I'm looking for more this time"
+        },
+        {
+          "key": "38049|Can we start to slow it down",
+          "startMs": 38049,
+          "text": "Can we start to slow it down"
+        },
+        {
+          "key": "40946|Can we learn to live right now",
+          "startMs": 40946,
+          "text": "Can we learn to live right now"
+        },
+        {
+          "key": "44039|I just want to feel it all",
+          "startMs": 44039,
+          "text": "I just want to feel it all"
+        },
+        {
+          "key": "49898|I'm a Ferrari",
+          "startMs": 49898,
+          "text": "I'm a Ferrari"
+        },
+        {
+          "key": "52657|Pulled off on Mulholland Drive",
+          "startMs": 52657,
+          "text": "Pulled off on Mulholland Drive"
+        },
+        {
+          "key": "55881|Over the city the lights are so pretty from up here",
+          "startMs": 55881,
+          "text": "Over the city the lights are so pretty from up here"
+        },
+        {
+          "key": "62133|I'm a Ferrari",
+          "startMs": 62133,
+          "text": "I'm a Ferrari"
+        },
+        {
+          "key": "65157|And after the party's done",
+          "startMs": 65157,
+          "text": "And after the party's done"
+        },
+        {
+          "key": "68374|I keep on going missing the moments",
+          "startMs": 68374,
+          "text": "I keep on going missing the moments"
+        },
+        {
+          "key": "72836|Living in the fast lane's getting kinda lonely",
+          "startMs": 72836,
+          "text": "Living in the fast lane's getting kinda lonely"
+        },
+        {
+          "key": "76518|Yeah",
+          "startMs": 76518,
+          "text": "Yeah"
+        },
+        {
+          "key": "77967|Whoa whoa whoa",
+          "startMs": 77967,
+          "text": "Whoa whoa whoa"
+        },
+        {
+          "key": "87115|Living in the fast lane's getting kinda lonely",
+          "startMs": 87115,
+          "text": "Living in the fast lane's getting kinda lonely"
+        },
+        {
+          "key": "90170|Whoa whoa whoa",
+          "startMs": 90170,
+          "text": "Whoa whoa whoa"
+        },
+        {
+          "key": "99048|Living in the fast lane's getting kinda lonely",
+          "startMs": 99048,
+          "text": "Living in the fast lane's getting kinda lonely"
+        },
+        {
+          "key": "104311|Got a heavy heart",
+          "startMs": 104311,
+          "text": "Got a heavy heart"
+        },
+        {
+          "key": "107543|'Cause it's still beating on its own",
+          "startMs": 107543,
+          "text": "'Cause it's still beating on its own"
+        },
+        {
+          "key": "110438|Might be going out in the crowd",
+          "startMs": 110438,
+          "text": "Might be going out in the crowd"
+        },
+        {
+          "key": "113790|But I'm still coming home alone",
+          "startMs": 113790,
+          "text": "But I'm still coming home alone"
+        },
+        {
+          "key": "116754|Not trying to say I'm not grateful for everything",
+          "startMs": 116754,
+          "text": "Not trying to say I'm not grateful for everything"
+        },
+        {
+          "key": "123320|I'm just going too fast to see",
+          "startMs": 123320,
+          "text": "I'm just going too fast to see"
+        },
+        {
+          "key": "126144|All the good things in front of me",
+          "startMs": 126144,
+          "text": "All the good things in front of me"
+        },
+        {
+          "key": "129698|I'm a Ferrari",
+          "startMs": 129698,
+          "text": "I'm a Ferrari"
+        },
+        {
+          "key": "132590|Pulled off on Mulholland Drive",
+          "startMs": 132590,
+          "text": "Pulled off on Mulholland Drive"
+        },
+        {
+          "key": "135811|Over the city the lights are so pretty from up here",
+          "startMs": 135811,
+          "text": "Over the city the lights are so pretty from up here"
+        },
+        {
+          "key": "142054|I'm a Ferrari",
+          "startMs": 142054,
+          "text": "I'm a Ferrari"
+        },
+        {
+          "key": "145078|And after the party's done",
+          "startMs": 145078,
+          "text": "And after the party's done"
+        },
+        {
+          "key": "148426|I keep on going missing the moments",
+          "startMs": 148426,
+          "text": "I keep on going missing the moments"
+        },
+        {
+          "key": "152829|Living in the fast lane's getting kinda lonely",
+          "startMs": 152829,
+          "text": "Living in the fast lane's getting kinda lonely"
+        },
+        {
+          "key": "156116|Whoa whoa whoa",
+          "startMs": 156116,
+          "text": "Whoa whoa whoa"
+        },
+        {
+          "key": "164928|Living in the fast lane's getting kinda lonely",
+          "startMs": 164928,
+          "text": "Living in the fast lane's getting kinda lonely"
+        },
+        {
+          "key": "168538|Whoa whoa whoa",
+          "startMs": 168538,
+          "text": "Whoa whoa whoa"
+        },
+        {
+          "key": "180511|I'm a Ferrari",
+          "startMs": 180511,
+          "text": "I'm a Ferrari"
+        },
+        {
+          "key": "183077|Pulled off on Mulholland Drive",
+          "startMs": 183077,
+          "text": "Pulled off on Mulholland Drive"
+        },
+        {
+          "key": "186101|Over the city the lights are so pretty from up here",
+          "startMs": 186101,
+          "text": "Over the city the lights are so pretty from up here"
+        },
+        {
+          "key": "192340|I'm a Ferrari",
+          "startMs": 192340,
+          "text": "I'm a Ferrari"
+        },
+        {
+          "key": "195300|And after the party's done",
+          "startMs": 195300,
+          "text": "And after the party's done"
+        },
+        {
+          "key": "198586|I keep on going missing the moments",
+          "startMs": 198586,
+          "text": "I keep on going missing the moments"
+        },
+        {
+          "key": "202925|Living in the fast lane's getting kinda lonely",
+          "startMs": 202925,
+          "text": "Living in the fast lane's getting kinda lonely"
+        }
+      ]
+    }
+  ]
+}

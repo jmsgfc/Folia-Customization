@@ -1,0 +1,1415 @@
+{
+  "batchNumber": 109,
+  "songs": [
+    {
+      "rank": 541,
+      "songKey": "online:kugou:03df4fd518cc8ba8059004b5ef3f84b1",
+      "name": "美丽的神话",
+      "artist": "周桃桃",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 542,
+      "songKey": "online:kugou:dfd8b7fe10fa3e88e225ad511451332f",
+      "name": "秋殇别恋 (南方凯版)",
+      "artist": "就是南方凯",
+      "lines": [
+        {
+          "key": "0|就是南方凯 - 秋殇别恋 (南方凯版)",
+          "startMs": 0,
+          "text": "就是南方凯 - 秋殇别恋 (南方凯版)"
+        },
+        {
+          "key": "92|作词：冷小新",
+          "startMs": 92,
+          "text": "作词：冷小新"
+        },
+        {
+          "key": "139|作曲：潘成",
+          "startMs": 139,
+          "text": "作曲：潘成"
+        },
+        {
+          "key": "177|编曲：田宸光",
+          "startMs": 177,
+          "text": "编曲：田宸光"
+        },
+        {
+          "key": "224|制作人：芮英杰",
+          "startMs": 224,
+          "text": "制作人：芮英杰"
+        },
+        {
+          "key": "278|混音：张可人",
+          "startMs": 278,
+          "text": "混音：张可人"
+        },
+        {
+          "key": "324|和声：严仲波",
+          "startMs": 324,
+          "text": "和声：严仲波"
+        },
+        {
+          "key": "371|吉他：杨春",
+          "startMs": 371,
+          "text": "吉他：杨春"
+        },
+        {
+          "key": "409|统筹：王溯",
+          "startMs": 409,
+          "text": "统筹：王溯"
+        },
+        {
+          "key": "448|制作公司：匠心音乐",
+          "startMs": 448,
+          "text": "制作公司：匠心音乐"
+        },
+        {
+          "key": "518|监制：什么洋/夏大雨",
+          "startMs": 518,
+          "text": "监制：什么洋/夏大雨"
+        },
+        {
+          "key": "595|策划：什么洋/阿子",
+          "startMs": 595,
+          "text": "策划：什么洋/阿子"
+        },
+        {
+          "key": "665|推广执行：阿子/荣儿",
+          "startMs": 665,
+          "text": "推广执行：阿子/荣儿"
+        },
+        {
+          "key": "742|营销推广：网益文化",
+          "startMs": 742,
+          "text": "营销推广：网益文化"
+        },
+        {
+          "key": "812|联合出品：网益文化X匠心音乐",
+          "startMs": 812,
+          "text": "联合出品：网益文化X匠心音乐"
+        },
+        {
+          "key": "920|出品人：张玉龙",
+          "startMs": 920,
+          "text": "出品人：张玉龙"
+        },
+        {
+          "key": "974|出品发行：网益文化",
+          "startMs": 974,
+          "text": "出品发行：网益文化"
+        },
+        {
+          "key": "1044|思念被拒之门外",
+          "startMs": 1044,
+          "text": "思念被拒之门外"
+        },
+        {
+          "key": "2584|你给的爱太苍白",
+          "startMs": 2584,
+          "text": "你给的爱太苍白"
+        },
+        {
+          "key": "4044|我天真的像小孩",
+          "startMs": 4044,
+          "text": "我天真的像小孩"
+        },
+        {
+          "key": "5194|等待你回来",
+          "startMs": 5194,
+          "text": "等待你回来"
+        },
+        {
+          "key": "6874|可是我的位置已被谁替代",
+          "startMs": 6874,
+          "text": "可是我的位置已被谁替代"
+        },
+        {
+          "key": "11724|落叶两片三片",
+          "startMs": 11724,
+          "text": "落叶两片三片"
+        },
+        {
+          "key": "15524|片片想念",
+          "startMs": 15524,
+          "text": "片片想念"
+        },
+        {
+          "key": "29466|花落翩翩 岁月荏苒",
+          "startMs": 29466,
+          "text": "花落翩翩 岁月荏苒"
+        },
+        {
+          "key": "35006|雨点依稀视线",
+          "startMs": 35006,
+          "text": "雨点依稀视线"
+        },
+        {
+          "key": "41102|一句诺言 厮守不变",
+          "startMs": 41102,
+          "text": "一句诺言 厮守不变"
+        },
+        {
+          "key": "46562|爱已被时间撕裂",
+          "startMs": 46562,
+          "text": "爱已被时间撕裂"
+        },
+        {
+          "key": "52882|爱情过了保质期",
+          "startMs": 52882,
+          "text": "爱情过了保质期"
+        },
+        {
+          "key": "54282|脑海惨白的回忆",
+          "startMs": 54282,
+          "text": "脑海惨白的回忆"
+        },
+        {
+          "key": "55712|划过绝望的痕迹",
+          "startMs": 55712,
+          "text": "划过绝望的痕迹"
+        },
+        {
+          "key": "57192|泛黄的照片",
+          "startMs": 57192,
+          "text": "泛黄的照片"
+        },
+        {
+          "key": "58702|你看那天空颜色依旧很浅",
+          "startMs": 58702,
+          "text": "你看那天空颜色依旧很浅"
+        },
+        {
+          "key": "60862|可惜只剩回忆",
+          "startMs": 60862,
+          "text": "可惜只剩回忆"
+        },
+        {
+          "key": "61902|在半空不断的盘旋",
+          "startMs": 61902,
+          "text": "在半空不断的盘旋"
+        },
+        {
+          "key": "64432|思念被拒之门外",
+          "startMs": 64432,
+          "text": "思念被拒之门外"
+        },
+        {
+          "key": "65912|你给的爱太苍白",
+          "startMs": 65912,
+          "text": "你给的爱太苍白"
+        },
+        {
+          "key": "67362|我天真的像小孩",
+          "startMs": 67362,
+          "text": "我天真的像小孩"
+        },
+        {
+          "key": "68562|等待你回来",
+          "startMs": 68562,
+          "text": "等待你回来"
+        },
+        {
+          "key": "70232|可是我的位置已被谁替代",
+          "startMs": 70232,
+          "text": "可是我的位置已被谁替代"
+        },
+        {
+          "key": "75002|落叶两片三片",
+          "startMs": 75002,
+          "text": "落叶两片三片"
+        },
+        {
+          "key": "78682|片片想念",
+          "startMs": 78682,
+          "text": "片片想念"
+        },
+        {
+          "key": "80772|想念你",
+          "startMs": 80772,
+          "text": "想念你"
+        },
+        {
+          "key": "82642|微笑的脸",
+          "startMs": 82642,
+          "text": "微笑的脸"
+        },
+        {
+          "key": "86662|雨水一点两点",
+          "startMs": 86662,
+          "text": "雨水一点两点"
+        },
+        {
+          "key": "90282|滴滴纪念",
+          "startMs": 90282,
+          "text": "滴滴纪念"
+        },
+        {
+          "key": "92382|纪念我们的从前",
+          "startMs": 92382,
+          "text": "纪念我们的从前"
+        },
+        {
+          "key": "110446|花落翩翩 岁月荏苒",
+          "startMs": 110446,
+          "text": "花落翩翩 岁月荏苒"
+        },
+        {
+          "key": "115976|雨点依稀视线",
+          "startMs": 115976,
+          "text": "雨点依稀视线"
+        },
+        {
+          "key": "122026|一句诺言厮守不变",
+          "startMs": 122026,
+          "text": "一句诺言厮守不变"
+        },
+        {
+          "key": "127516|爱已被时间撕裂",
+          "startMs": 127516,
+          "text": "爱已被时间撕裂"
+        },
+        {
+          "key": "133876|爱情过了保质期",
+          "startMs": 133876,
+          "text": "爱情过了保质期"
+        },
+        {
+          "key": "135276|脑海惨白的回忆",
+          "startMs": 135276,
+          "text": "脑海惨白的回忆"
+        },
+        {
+          "key": "136746|划过绝望的痕迹",
+          "startMs": 136746,
+          "text": "划过绝望的痕迹"
+        },
+        {
+          "key": "138156|泛黄的照片",
+          "startMs": 138156,
+          "text": "泛黄的照片"
+        },
+        {
+          "key": "139636|你看那天空颜色依旧很浅",
+          "startMs": 139636,
+          "text": "你看那天空颜色依旧很浅"
+        },
+        {
+          "key": "141776|可惜只剩回忆",
+          "startMs": 141776,
+          "text": "可惜只剩回忆"
+        },
+        {
+          "key": "142866|在半空不断的盘旋",
+          "startMs": 142866,
+          "text": "在半空不断的盘旋"
+        },
+        {
+          "key": "145663|思念被拒之门外",
+          "startMs": 145663,
+          "text": "思念被拒之门外"
+        },
+        {
+          "key": "146986|你给的爱太苍白",
+          "startMs": 146986,
+          "text": "你给的爱太苍白"
+        },
+        {
+          "key": "148416|我天真的像小孩",
+          "startMs": 148416,
+          "text": "我天真的像小孩"
+        },
+        {
+          "key": "149526|等待你回来",
+          "startMs": 149526,
+          "text": "等待你回来"
+        },
+        {
+          "key": "151266|可是我的位置已被谁替代",
+          "startMs": 151266,
+          "text": "可是我的位置已被谁替代"
+        },
+        {
+          "key": "156106|落叶两片三片",
+          "startMs": 156106,
+          "text": "落叶两片三片"
+        },
+        {
+          "key": "159646|片片想念",
+          "startMs": 159646,
+          "text": "片片想念"
+        },
+        {
+          "key": "161736|想念你",
+          "startMs": 161736,
+          "text": "想念你"
+        },
+        {
+          "key": "163556|微笑的脸",
+          "startMs": 163556,
+          "text": "微笑的脸"
+        },
+        {
+          "key": "167606|雨水一点两点",
+          "startMs": 167606,
+          "text": "雨水一点两点"
+        },
+        {
+          "key": "171206|滴滴纪念",
+          "startMs": 171206,
+          "text": "滴滴纪念"
+        },
+        {
+          "key": "173366|纪念我们的从前",
+          "startMs": 173366,
+          "text": "纪念我们的从前"
+        },
+        {
+          "key": "179066|时光旋转夏天瞬间秋天",
+          "startMs": 179066,
+          "text": "时光旋转夏天瞬间秋天"
+        },
+        {
+          "key": "184956|一瞬间",
+          "startMs": 184956,
+          "text": "一瞬间"
+        },
+        {
+          "key": "186786|爱蛹成茧",
+          "startMs": 186786,
+          "text": "爱蛹成茧"
+        },
+        {
+          "key": "190756|爱恨两天三天四年五年",
+          "startMs": 190756,
+          "text": "爱恨两天三天四年五年"
+        },
+        {
+          "key": "196506|直到爱",
+          "startMs": 196506,
+          "text": "直到爱"
+        },
+        {
+          "key": "198336|慢慢沦陷",
+          "startMs": 198336,
+          "text": "慢慢沦陷"
+        }
+      ]
+    },
+    {
+      "rank": 543,
+      "songKey": "online:kugou:5398a869f2da90bfb80f17fb9963fec5",
+      "name": "Take a Walk (Album Version)",
+      "artist": "Passion Pit",
+      "lines": [
+        {
+          "key": "0|Passion Pit - Take A Walk",
+          "startMs": 0,
+          "text": "Passion Pit - Take A Walk"
+        },
+        {
+          "key": "44806|All these kinds of places",
+          "startMs": 44806,
+          "text": "All these kinds of places"
+        },
+        {
+          "key": "46301|Make it seem like it's been ages",
+          "startMs": 46301,
+          "text": "Make it seem like it's been ages"
+        },
+        {
+          "key": "48849|Tomorrow some new building",
+          "startMs": 48849,
+          "text": "Tomorrow some new building"
+        },
+        {
+          "key": "50813|Will scrape the sky",
+          "startMs": 50813,
+          "text": "Will scrape the sky"
+        },
+        {
+          "key": "53789|I love this country dearly",
+          "startMs": 53789,
+          "text": "I love this country dearly"
+        },
+        {
+          "key": "55885|I can feel the ladder clearly",
+          "startMs": 55885,
+          "text": "I can feel the ladder clearly"
+        },
+        {
+          "key": "58190|But I never thought",
+          "startMs": 58190,
+          "text": "But I never thought"
+        },
+        {
+          "key": "59560|I'd be alone to try",
+          "startMs": 59560,
+          "text": "I'd be alone to try"
+        },
+        {
+          "key": "63330|Once I was outside Penn Station",
+          "startMs": 63330,
+          "text": "Once I was outside Penn Station"
+        },
+        {
+          "key": "65934|Selling red and white carnations",
+          "startMs": 65934,
+          "text": "Selling red and white carnations"
+        },
+        {
+          "key": "68104|We were still alone  my wife and I",
+          "startMs": 68104,
+          "text": "We were still alone  my wife and I"
+        },
+        {
+          "key": "72864|Before we married  saved my money",
+          "startMs": 72864,
+          "text": "Before we married  saved my money"
+        },
+        {
+          "key": "75247|Brought my dear wife over",
+          "startMs": 75247,
+          "text": "Brought my dear wife over"
+        },
+        {
+          "key": "77023|Now I work to bring",
+          "startMs": 77023,
+          "text": "Now I work to bring"
+        },
+        {
+          "key": "78523|My family stateside",
+          "startMs": 78523,
+          "text": "My family stateside"
+        },
+        {
+          "key": "82567|But off the boat they stayed",
+          "startMs": 82567,
+          "text": "But off the boat they stayed"
+        },
+        {
+          "key": "83892|A while then scattered",
+          "startMs": 83892,
+          "text": "A while then scattered"
+        },
+        {
+          "key": "85180|Across the coast",
+          "startMs": 85180,
+          "text": "Across the coast"
+        },
+        {
+          "key": "87280|Once a year I'll see them",
+          "startMs": 87280,
+          "text": "Once a year I'll see them"
+        },
+        {
+          "key": "88832|For a week or so at most",
+          "startMs": 88832,
+          "text": "For a week or so at most"
+        },
+        {
+          "key": "91141|I take a walk",
+          "startMs": 91141,
+          "text": "I take a walk"
+        },
+        {
+          "key": "92675|Take a walk  take a walk ",
+          "startMs": 92675,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "95000|Take a walk",
+          "startMs": 95000,
+          "text": "Take a walk"
+        },
+        {
+          "key": "97588|Take a walk  take a walk ",
+          "startMs": 97588,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "102295|Take a walk",
+          "startMs": 102295,
+          "text": "Take a walk"
+        },
+        {
+          "key": "103311|I take a walk",
+          "startMs": 103311,
+          "text": "I take a walk"
+        },
+        {
+          "key": "104491|Take a walk  take a walk ",
+          "startMs": 104491,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "108226|Take a walk",
+          "startMs": 108226,
+          "text": "Take a walk"
+        },
+        {
+          "key": "109402|Take a walk",
+          "startMs": 109402,
+          "text": "Take a walk"
+        },
+        {
+          "key": "111072|Practice isn't perfect",
+          "startMs": 111072,
+          "text": "Practice isn't perfect"
+        },
+        {
+          "key": "112832|But the market cuts the loss",
+          "startMs": 112832,
+          "text": "But the market cuts the loss"
+        },
+        {
+          "key": "115372|I remind myself that times",
+          "startMs": 115372,
+          "text": "I remind myself that times"
+        },
+        {
+          "key": "117228|Could be much worse",
+          "startMs": 117228,
+          "text": "Could be much worse"
+        },
+        {
+          "key": "120238|My wife won't ask me questions",
+          "startMs": 120238,
+          "text": "My wife won't ask me questions"
+        },
+        {
+          "key": "122659|There's not so much to ask",
+          "startMs": 122659,
+          "text": "There's not so much to ask"
+        },
+        {
+          "key": "124861|And she'll never flaunt",
+          "startMs": 124861,
+          "text": "And she'll never flaunt"
+        },
+        {
+          "key": "126267|Around an empty purse",
+          "startMs": 126267,
+          "text": "Around an empty purse"
+        },
+        {
+          "key": "130063|Once my mother-in-law came",
+          "startMs": 130063,
+          "text": "Once my mother-in-law came"
+        },
+        {
+          "key": "131839|Just to stay a couple nights",
+          "startMs": 131839,
+          "text": "Just to stay a couple nights"
+        },
+        {
+          "key": "134339|Then decided she would stay",
+          "startMs": 134339,
+          "text": "Then decided she would stay"
+        },
+        {
+          "key": "136195|The rest of her life",
+          "startMs": 136195,
+          "text": "The rest of her life"
+        },
+        {
+          "key": "139310|I watch my little children",
+          "startMs": 139310,
+          "text": "I watch my little children"
+        },
+        {
+          "key": "141246|Play some board game",
+          "startMs": 141246,
+          "text": "Play some board game"
+        },
+        {
+          "key": "142736|In the kitchen",
+          "startMs": 142736,
+          "text": "In the kitchen"
+        },
+        {
+          "key": "143868|And I sit and pray",
+          "startMs": 143868,
+          "text": "And I sit and pray"
+        },
+        {
+          "key": "145152|They never feel my strife",
+          "startMs": 145152,
+          "text": "They never feel my strife"
+        },
+        {
+          "key": "148958|But then my partner called to say",
+          "startMs": 148958,
+          "text": "But then my partner called to say"
+        },
+        {
+          "key": "151036|The pension funds were gone",
+          "startMs": 151036,
+          "text": "The pension funds were gone"
+        },
+        {
+          "key": "153536|We made some bad investments",
+          "startMs": 153536,
+          "text": "We made some bad investments"
+        },
+        {
+          "key": "155972|Now the accounts are overdrawn",
+          "startMs": 155972,
+          "text": "Now the accounts are overdrawn"
+        },
+        {
+          "key": "157661|I take a walk",
+          "startMs": 157661,
+          "text": "I take a walk"
+        },
+        {
+          "key": "159220|Take a walk  take a walk ",
+          "startMs": 159220,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "161519|Take a walk",
+          "startMs": 161519,
+          "text": "Take a walk"
+        },
+        {
+          "key": "164121|Take a walk  take a walk ",
+          "startMs": 164121,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "168880|Take a walk",
+          "startMs": 168880,
+          "text": "Take a walk"
+        },
+        {
+          "key": "169822|Take a walk",
+          "startMs": 169822,
+          "text": "Take a walk"
+        },
+        {
+          "key": "171067|Take a walk  take a walk ",
+          "startMs": 171067,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "177786|Honey  it's your son ",
+          "startMs": 177786,
+          "text": "Honey  it's your son "
+        },
+        {
+          "key": "179222|I think I borrowed just too much",
+          "startMs": 179222,
+          "text": "I think I borrowed just too much"
+        },
+        {
+          "key": "181999|We had taxes  we had bills ",
+          "startMs": 181999,
+          "text": "We had taxes  we had bills "
+        },
+        {
+          "key": "184011|We had a lifestyle to front",
+          "startMs": 184011,
+          "text": "We had a lifestyle to front"
+        },
+        {
+          "key": "186562|And tonight I swear",
+          "startMs": 186562,
+          "text": "And tonight I swear"
+        },
+        {
+          "key": "187774|I'll come home",
+          "startMs": 187774,
+          "text": "I'll come home"
+        },
+        {
+          "key": "188590|And we'll make love",
+          "startMs": 188590,
+          "text": "And we'll make love"
+        },
+        {
+          "key": "190080|Like we're young",
+          "startMs": 190080,
+          "text": "Like we're young"
+        },
+        {
+          "key": "191652|And tomorrow you'll cook dinner",
+          "startMs": 191652,
+          "text": "And tomorrow you'll cook dinner"
+        },
+        {
+          "key": "193425|For the neighbors and their kids",
+          "startMs": 193425,
+          "text": "For the neighbors and their kids"
+        },
+        {
+          "key": "196285|We can rip apart those Socialists",
+          "startMs": 196285,
+          "text": "We can rip apart those Socialists"
+        },
+        {
+          "key": "198593|And all their damn taxes",
+          "startMs": 198593,
+          "text": "And all their damn taxes"
+        },
+        {
+          "key": "201069|But see I am no criminal ",
+          "startMs": 201069,
+          "text": "But see I am no criminal "
+        },
+        {
+          "key": "203183|I'm down on both bad knees",
+          "startMs": 203183,
+          "text": "I'm down on both bad knees"
+        },
+        {
+          "key": "205770|I'm just too much a coward to admit",
+          "startMs": 205770,
+          "text": "I'm just too much a coward to admit"
+        },
+        {
+          "key": "208725|When I'm in need",
+          "startMs": 208725,
+          "text": "When I'm in need"
+        },
+        {
+          "key": "210202|I take a walk",
+          "startMs": 210202,
+          "text": "I take a walk"
+        },
+        {
+          "key": "211482|Take a walk  take a walk ",
+          "startMs": 211482,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "213873|Take a walk",
+          "startMs": 213873,
+          "text": "Take a walk"
+        },
+        {
+          "key": "216372|Take a walk  take a walk ",
+          "startMs": 216372,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "218717|Take a walk",
+          "startMs": 218717,
+          "text": "Take a walk"
+        },
+        {
+          "key": "219781|Take a walk",
+          "startMs": 219781,
+          "text": "Take a walk"
+        },
+        {
+          "key": "221197|Take a walk  take a walk ",
+          "startMs": 221197,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "223289|Take a walk",
+          "startMs": 223289,
+          "text": "Take a walk"
+        },
+        {
+          "key": "225865|Take a walk  take a walk ",
+          "startMs": 225865,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "228137|Take a walk",
+          "startMs": 228137,
+          "text": "Take a walk"
+        },
+        {
+          "key": "229257|Take a walk",
+          "startMs": 229257,
+          "text": "Take a walk"
+        },
+        {
+          "key": "230501|Take a walk  take a walk ",
+          "startMs": 230501,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "232888|Take a walk",
+          "startMs": 232888,
+          "text": "Take a walk"
+        },
+        {
+          "key": "235409|Take a walk  take a walk ",
+          "startMs": 235409,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "237544|Take a walk",
+          "startMs": 237544,
+          "text": "Take a walk"
+        },
+        {
+          "key": "238545|I take a walk",
+          "startMs": 238545,
+          "text": "I take a walk"
+        },
+        {
+          "key": "239957|Take a walk  take a walk ",
+          "startMs": 239957,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "242318|Take a walk",
+          "startMs": 242318,
+          "text": "Take a walk"
+        },
+        {
+          "key": "244906|Take a walk  take a walk ",
+          "startMs": 244906,
+          "text": "Take a walk  take a walk "
+        },
+        {
+          "key": "247129|Take a walk",
+          "startMs": 247129,
+          "text": "Take a walk"
+        }
+      ]
+    },
+    {
+      "rank": 544,
+      "songKey": "online:kugou:b681d7f48119fc5ebea8ac655945675a",
+      "name": "天気の子•原",
+      "artist": "STRlighT",
+      "lines": [
+        {
+          "key": "178|STRlighT - 天気の子•原",
+          "startMs": 178,
+          "text": "STRlighT - 天気の子•原"
+        },
+        {
+          "key": "1498|作词：野田洋次郎",
+          "startMs": 1498,
+          "text": "作词：野田洋次郎"
+        },
+        {
+          "key": "2408|作曲：野田洋次郎",
+          "startMs": 2408,
+          "text": "作曲：野田洋次郎"
+        },
+        {
+          "key": "26052|支配者も神も",
+          "startMs": 26052,
+          "text": "支配者も神も"
+        },
+        {
+          "key": "29491|どこか他人顔",
+          "startMs": 29491,
+          "text": "どこか他人顔"
+        },
+        {
+          "key": "32730|だけど本当は",
+          "startMs": 32730,
+          "text": "だけど本当は"
+        },
+        {
+          "key": "36017|分かってるはず",
+          "startMs": 36017,
+          "text": "分かってるはず"
+        },
+        {
+          "key": "39353|勇気や希望や",
+          "startMs": 39353,
+          "text": "勇気や希望や"
+        },
+        {
+          "key": "42645|絆とかの魔法",
+          "startMs": 42645,
+          "text": "絆とかの魔法"
+        },
+        {
+          "key": "45878|使い道もなく",
+          "startMs": 45878,
+          "text": "使い道もなく"
+        },
+        {
+          "key": "49013|オトナは眼を背ける",
+          "startMs": 49013,
+          "text": "オトナは眼を背ける"
+        },
+        {
+          "key": "121605|それでもあの日の",
+          "startMs": 121605,
+          "text": "それでもあの日の"
+        },
+        {
+          "key": "124736|君が今もまだ",
+          "startMs": 124736,
+          "text": "君が今もまだ"
+        },
+        {
+          "key": "128116|僕の全正義の",
+          "startMs": 128116,
+          "text": "僕の全正義の"
+        },
+        {
+          "key": "131199|ど真ん中にいる",
+          "startMs": 131199,
+          "text": "ど真ん中にいる"
+        },
+        {
+          "key": "134536|世界が背中を",
+          "startMs": 134536,
+          "text": "世界が背中を"
+        },
+        {
+          "key": "137720|向けてもまだなお",
+          "startMs": 137720,
+          "text": "向けてもまだなお"
+        },
+        {
+          "key": "141052|立ち向かう君が",
+          "startMs": 141052,
+          "text": "立ち向かう君が"
+        },
+        {
+          "key": "144465|今もここにいる",
+          "startMs": 144465,
+          "text": "今もここにいる"
+        }
+      ]
+    },
+    {
+      "rank": 545,
+      "songKey": "online:kugou:d9b43d033fde29e546e7474432ec79a5",
+      "name": "Stay Here Forever",
+      "artist": "Jewel",
+      "lines": [
+        {
+          "key": "0|Jewel - Stay Here Forever",
+          "startMs": 0,
+          "text": "Jewel - Stay Here Forever"
+        },
+        {
+          "key": "1840|Lyrics by：Jewel",
+          "startMs": 1840,
+          "text": "Lyrics by：Jewel"
+        },
+        {
+          "key": "3680|Composed by：Jewel",
+          "startMs": 3680,
+          "text": "Composed by：Jewel"
+        },
+        {
+          "key": "5529|Oh oh",
+          "startMs": 5529,
+          "text": "Oh oh"
+        },
+        {
+          "key": "6162|Oh oh",
+          "startMs": 6162,
+          "text": "Oh oh"
+        },
+        {
+          "key": "6877|Oh oh",
+          "startMs": 6877,
+          "text": "Oh oh"
+        },
+        {
+          "key": "7561|Oh oh",
+          "startMs": 7561,
+          "text": "Oh oh"
+        },
+        {
+          "key": "8220|Oh oh",
+          "startMs": 8220,
+          "text": "Oh oh"
+        },
+        {
+          "key": "9453|Oh oh",
+          "startMs": 9453,
+          "text": "Oh oh"
+        },
+        {
+          "key": "10965|I'm laying here dreaming staring at the ceiling",
+          "startMs": 10965,
+          "text": "I'm laying here dreaming staring at the ceiling"
+        },
+        {
+          "key": "13957|Wasting the day away",
+          "startMs": 13957,
+          "text": "Wasting the day away"
+        },
+        {
+          "key": "16474|The world's flying by our window outside",
+          "startMs": 16474,
+          "text": "The world's flying by our window outside"
+        },
+        {
+          "key": "19122|But hey baby that's okay",
+          "startMs": 19122,
+          "text": "But hey baby that's okay"
+        },
+        {
+          "key": "22513|This feels so right it can't be wrong",
+          "startMs": 22513,
+          "text": "This feels so right it can't be wrong"
+        },
+        {
+          "key": "25205|So far as I can see",
+          "startMs": 25205,
+          "text": "So far as I can see"
+        },
+        {
+          "key": "27800|Where you wanna go",
+          "startMs": 27800,
+          "text": "Where you wanna go"
+        },
+        {
+          "key": "28736|Baby I'll do anything",
+          "startMs": 28736,
+          "text": "Baby I'll do anything"
+        },
+        {
+          "key": "32215|'Cause if you wanna go",
+          "startMs": 32215,
+          "text": "'Cause if you wanna go"
+        },
+        {
+          "key": "33688|Baby let's go",
+          "startMs": 33688,
+          "text": "Baby let's go"
+        },
+        {
+          "key": "35038|If you wanna rock",
+          "startMs": 35038,
+          "text": "If you wanna rock"
+        },
+        {
+          "key": "36198|I'm ready to roll",
+          "startMs": 36198,
+          "text": "I'm ready to roll"
+        },
+        {
+          "key": "37636|And if you wanna slow",
+          "startMs": 37636,
+          "text": "And if you wanna slow"
+        },
+        {
+          "key": "40864|Down",
+          "startMs": 40864,
+          "text": "Down"
+        },
+        {
+          "key": "42176|We can slow down together",
+          "startMs": 42176,
+          "text": "We can slow down together"
+        },
+        {
+          "key": "44605|If you wanna walk",
+          "startMs": 44605,
+          "text": "If you wanna walk"
+        },
+        {
+          "key": "45994|Baby let's walk",
+          "startMs": 45994,
+          "text": "Baby let's walk"
+        },
+        {
+          "key": "47267|Have a little kiss",
+          "startMs": 47267,
+          "text": "Have a little kiss"
+        },
+        {
+          "key": "48686|Have a little talk",
+          "startMs": 48686,
+          "text": "Have a little talk"
+        },
+        {
+          "key": "50002|We don't gotta leave",
+          "startMs": 50002,
+          "text": "We don't gotta leave"
+        },
+        {
+          "key": "52872|At all",
+          "startMs": 52872,
+          "text": "At all"
+        },
+        {
+          "key": "54476|We can lay here forever",
+          "startMs": 54476,
+          "text": "We can lay here forever"
+        },
+        {
+          "key": "57514|Stay here forever",
+          "startMs": 57514,
+          "text": "Stay here forever"
+        },
+        {
+          "key": "60012|Oh oh oh oh oh oh oh oh",
+          "startMs": 60012,
+          "text": "Oh oh oh oh oh oh oh oh"
+        },
+        {
+          "key": "65704|If you wanna see that Italian tower leaning",
+          "startMs": 65704,
+          "text": "If you wanna see that Italian tower leaning"
+        },
+        {
+          "key": "68514|Baby we can leave right now right now",
+          "startMs": 68514,
+          "text": "Baby we can leave right now right now"
+        },
+        {
+          "key": "71086|If that's too far we can jump in the car",
+          "startMs": 71086,
+          "text": "If that's too far we can jump in the car"
+        },
+        {
+          "key": "73700|And take a little trip around town",
+          "startMs": 73700,
+          "text": "And take a little trip around town"
+        },
+        {
+          "key": "77021|They say that California is nice and warm this time of year",
+          "startMs": 77021,
+          "text": "They say that California is nice and warm this time of year"
+        },
+        {
+          "key": "82149|Baby say the word and we'll just disappear",
+          "startMs": 82149,
+          "text": "Baby say the word and we'll just disappear"
+        },
+        {
+          "key": "86719|'Cause if you wanna go",
+          "startMs": 86719,
+          "text": "'Cause if you wanna go"
+        },
+        {
+          "key": "88287|Baby let's go",
+          "startMs": 88287,
+          "text": "Baby let's go"
+        },
+        {
+          "key": "89626|If you wanna rock",
+          "startMs": 89626,
+          "text": "If you wanna rock"
+        },
+        {
+          "key": "90744|I'm ready to roll",
+          "startMs": 90744,
+          "text": "I'm ready to roll"
+        },
+        {
+          "key": "92217|And if you wanna slow",
+          "startMs": 92217,
+          "text": "And if you wanna slow"
+        },
+        {
+          "key": "95428|Down",
+          "startMs": 95428,
+          "text": "Down"
+        },
+        {
+          "key": "96665|We can slow down together",
+          "startMs": 96665,
+          "text": "We can slow down together"
+        },
+        {
+          "key": "99172|If you wanna walk",
+          "startMs": 99172,
+          "text": "If you wanna walk"
+        },
+        {
+          "key": "100511|Baby let's walk",
+          "startMs": 100511,
+          "text": "Baby let's walk"
+        },
+        {
+          "key": "101880|Have a little kiss",
+          "startMs": 101880,
+          "text": "Have a little kiss"
+        },
+        {
+          "key": "103238|Have a little talk",
+          "startMs": 103238,
+          "text": "Have a little talk"
+        },
+        {
+          "key": "104573|We don't gotta leave at all",
+          "startMs": 104573,
+          "text": "We don't gotta leave at all"
+        },
+        {
+          "key": "109052|We can lay here forever",
+          "startMs": 109052,
+          "text": "We can lay here forever"
+        },
+        {
+          "key": "112103|Stay here forever oh",
+          "startMs": 112103,
+          "text": "Stay here forever oh"
+        },
+        {
+          "key": "114882|It's a big world",
+          "startMs": 114882,
+          "text": "It's a big world"
+        },
+        {
+          "key": "115901|For a boy and a girl",
+          "startMs": 115901,
+          "text": "For a boy and a girl"
+        },
+        {
+          "key": "117332|Letting go of it all",
+          "startMs": 117332,
+          "text": "Letting go of it all"
+        },
+        {
+          "key": "118714|Holding on to one another",
+          "startMs": 118714,
+          "text": "Holding on to one another"
+        },
+        {
+          "key": "120009|Oh there's a hole other world to discover",
+          "startMs": 120009,
+          "text": "Oh there's a hole other world to discover"
+        },
+        {
+          "key": "123378|Under the covers",
+          "startMs": 123378,
+          "text": "Under the covers"
+        },
+        {
+          "key": "126203|So if you wanna go",
+          "startMs": 126203,
+          "text": "So if you wanna go"
+        },
+        {
+          "key": "127816|Baby let's go",
+          "startMs": 127816,
+          "text": "Baby let's go"
+        },
+        {
+          "key": "129151|If you wanna rock",
+          "startMs": 129151,
+          "text": "If you wanna rock"
+        },
+        {
+          "key": "130402|I'm ready to roll",
+          "startMs": 130402,
+          "text": "I'm ready to roll"
+        },
+        {
+          "key": "131840|If you wanna slow",
+          "startMs": 131840,
+          "text": "If you wanna slow"
+        },
+        {
+          "key": "135041|Down",
+          "startMs": 135041,
+          "text": "Down"
+        },
+        {
+          "key": "136320|We can slow down together",
+          "startMs": 136320,
+          "text": "We can slow down together"
+        },
+        {
+          "key": "138700|If you wanna walk",
+          "startMs": 138700,
+          "text": "If you wanna walk"
+        },
+        {
+          "key": "139988|Baby let's walk",
+          "startMs": 139988,
+          "text": "Baby let's walk"
+        },
+        {
+          "key": "141408|Have a little kiss",
+          "startMs": 141408,
+          "text": "Have a little kiss"
+        },
+        {
+          "key": "142769|Have a little talk",
+          "startMs": 142769,
+          "text": "Have a little talk"
+        },
+        {
+          "key": "144081|We don't gotta leave at all",
+          "startMs": 144081,
+          "text": "We don't gotta leave at all"
+        },
+        {
+          "key": "148550|We can lay here forever",
+          "startMs": 148550,
+          "text": "We can lay here forever"
+        },
+        {
+          "key": "151647|Stay here forever",
+          "startMs": 151647,
+          "text": "Stay here forever"
+        },
+        {
+          "key": "153808|Let's just lay here forever",
+          "startMs": 153808,
+          "text": "Let's just lay here forever"
+        },
+        {
+          "key": "157042|Stay here forever oh oh",
+          "startMs": 157042,
+          "text": "Stay here forever oh oh"
+        },
+        {
+          "key": "160831|Oh oh",
+          "startMs": 160831,
+          "text": "Oh oh"
+        },
+        {
+          "key": "161569|Oh oh",
+          "startMs": 161569,
+          "text": "Oh oh"
+        },
+        {
+          "key": "162272|Oh oh",
+          "startMs": 162272,
+          "text": "Oh oh"
+        },
+        {
+          "key": "162982|Oh oh",
+          "startMs": 162982,
+          "text": "Oh oh"
+        },
+        {
+          "key": "163686|Oh oh",
+          "startMs": 163686,
+          "text": "Oh oh"
+        },
+        {
+          "key": "164314|Oh oh",
+          "startMs": 164314,
+          "text": "Oh oh"
+        },
+        {
+          "key": "164945|Oh oh oh",
+          "startMs": 164945,
+          "text": "Oh oh oh"
+        },
+        {
+          "key": "166620|Oh oh",
+          "startMs": 166620,
+          "text": "Oh oh"
+        },
+        {
+          "key": "167730|Oh oh",
+          "startMs": 167730,
+          "text": "Oh oh"
+        }
+      ]
+    }
+  ]
+}

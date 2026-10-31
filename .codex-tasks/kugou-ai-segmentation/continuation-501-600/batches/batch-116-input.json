@@ -1,0 +1,1310 @@
+{
+  "batchNumber": 116,
+  "songs": [
+    {
+      "rank": 576,
+      "songKey": "online:kugou:ae16b84bccb7dbd919ca79cc4382e477",
+      "name": "Catch My Breath (0.8x)",
+      "artist": "M.R.Y麦尔彦",
+      "lines": [
+        {
+          "key": "0|M.R.Y麦尔彦 - Catch My Breath (0.8x)",
+          "startMs": 0,
+          "text": "M.R.Y麦尔彦 - Catch My Breath (0.8x)"
+        },
+        {
+          "key": "358|Written by：Jason Halbert、Eric Olson、Kelly Clarkson、Sound Kollectiv",
+          "startMs": 358,
+          "text": "Written by：Jason Halbert、Eric Olson、Kelly Clarkson、Sound Kollectiv"
+        },
+        {
+          "key": "887|I don't wanna be left behind",
+          "startMs": 887,
+          "text": "I don't wanna be left behind"
+        },
+        {
+          "key": "5549|Distance was a friend of mine",
+          "startMs": 5549,
+          "text": "Distance was a friend of mine"
+        },
+        {
+          "key": "10394|Catching breath in a web of lies",
+          "startMs": 10394,
+          "text": "Catching breath in a web of lies"
+        },
+        {
+          "key": "14754|I've spent most of my life",
+          "startMs": 14754,
+          "text": "I've spent most of my life"
+        },
+        {
+          "key": "20078|Riding waves playing acrobat",
+          "startMs": 20078,
+          "text": "Riding waves playing acrobat"
+        },
+        {
+          "key": "24859|Shadowboxing the other half",
+          "startMs": 24859,
+          "text": "Shadowboxing the other half"
+        },
+        {
+          "key": "29704|Learning how to react",
+          "startMs": 29704,
+          "text": "Learning how to react"
+        },
+        {
+          "key": "34000|I've spent most of my time",
+          "startMs": 34000,
+          "text": "I've spent most of my time"
+        },
+        {
+          "key": "39836|Catching my breath letting it go",
+          "startMs": 39836,
+          "text": "Catching my breath letting it go"
+        },
+        {
+          "key": "44809|Turning my cheek for the sake of this show",
+          "startMs": 44809,
+          "text": "Turning my cheek for the sake of this show"
+        },
+        {
+          "key": "49590|Now that you know",
+          "startMs": 49590,
+          "text": "Now that you know"
+        },
+        {
+          "key": "52075|This is my life",
+          "startMs": 52075,
+          "text": "This is my life"
+        },
+        {
+          "key": "54493|I won't be told what's supposed to be right",
+          "startMs": 54493,
+          "text": "I won't be told what's supposed to be right"
+        },
+        {
+          "key": "60457|Catch my breath",
+          "startMs": 60457,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "63363|No one can hold me back",
+          "startMs": 63363,
+          "text": "No one can hold me back"
+        },
+        {
+          "key": "65724|I ain't got time for that",
+          "startMs": 65724,
+          "text": "I ain't got time for that"
+        },
+        {
+          "key": "70347|Catch my breath",
+          "startMs": 70347,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "73010|Won't let them get me down",
+          "startMs": 73010,
+          "text": "Won't let them get me down"
+        },
+        {
+          "key": "75371|It's all so simple now",
+          "startMs": 75371,
+          "text": "It's all so simple now"
+        },
+        {
+          "key": "77929|Addicted to the love I found",
+          "startMs": 77929,
+          "text": "Addicted to the love I found"
+        },
+        {
+          "key": "82919|Heavy heart now a weightless cloud",
+          "startMs": 82919,
+          "text": "Heavy heart now a weightless cloud"
+        },
+        {
+          "key": "87762|Making time for the ones that count",
+          "startMs": 87762,
+          "text": "Making time for the ones that count"
+        },
+        {
+          "key": "92000|I'll spend the rest of my time",
+          "startMs": 92000,
+          "text": "I'll spend the rest of my time"
+        },
+        {
+          "key": "97685|Laughing hard with the windows down",
+          "startMs": 97685,
+          "text": "Laughing hard with the windows down"
+        },
+        {
+          "key": "102342|Leaving footprints all over town",
+          "startMs": 102342,
+          "text": "Leaving footprints all over town"
+        },
+        {
+          "key": "107068|Keeping faith kinda comes around",
+          "startMs": 107068,
+          "text": "Keeping faith kinda comes around"
+        },
+        {
+          "key": "111553|I will spent the rest of my life",
+          "startMs": 111553,
+          "text": "I will spent the rest of my life"
+        },
+        {
+          "key": "117613|Catching my breath letting it go",
+          "startMs": 117613,
+          "text": "Catching my breath letting it go"
+        },
+        {
+          "key": "122216|Turning my cheek for the sake of this show",
+          "startMs": 122216,
+          "text": "Turning my cheek for the sake of this show"
+        },
+        {
+          "key": "127064|Now that you know this is my life",
+          "startMs": 127064,
+          "text": "Now that you know this is my life"
+        },
+        {
+          "key": "131849|I won't be told what's supposed to be right",
+          "startMs": 131849,
+          "text": "I won't be told what's supposed to be right"
+        },
+        {
+          "key": "137971|Catch my breath",
+          "startMs": 137971,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "140754|No one can hold me back",
+          "startMs": 140754,
+          "text": "No one can hold me back"
+        },
+        {
+          "key": "143113|I ain't got time for that",
+          "startMs": 143113,
+          "text": "I ain't got time for that"
+        },
+        {
+          "key": "147660|Catch my breath",
+          "startMs": 147660,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "150445|Won't let them get me down",
+          "startMs": 150445,
+          "text": "Won't let them get me down"
+        },
+        {
+          "key": "152813|It's all so simple now",
+          "startMs": 152813,
+          "text": "It's all so simple now"
+        },
+        {
+          "key": "157482|You helped me see",
+          "startMs": 157482,
+          "text": "You helped me see"
+        },
+        {
+          "key": "166321|The beauty in everything",
+          "startMs": 166321,
+          "text": "The beauty in everything"
+        },
+        {
+          "key": "175417|Catching my breath letting it go",
+          "startMs": 175417,
+          "text": "Catching my breath letting it go"
+        },
+        {
+          "key": "180343|Turning my cheek for the sake of this show",
+          "startMs": 180343,
+          "text": "Turning my cheek for the sake of this show"
+        }
+      ]
+    },
+    {
+      "rank": 577,
+      "songKey": "online:kugou:f5a16dbed7ec232a5e096a4047818a6e",
+      "name": "Catch My Breath",
+      "artist": "Kelly Clarkson",
+      "lines": [
+        {
+          "key": "0|Kelly Clarkson - Catch My Breath",
+          "startMs": 0,
+          "text": "Kelly Clarkson - Catch My Breath"
+        },
+        {
+          "key": "3590|Lyrics by：Eric Olson、Kelly Clarkson、Sound Kollectiv、Jason Halbert",
+          "startMs": 3590,
+          "text": "Lyrics by：Eric Olson、Kelly Clarkson、Sound Kollectiv、Jason Halbert"
+        },
+        {
+          "key": "7190|Composed by：Eric Olson、Kelly Clarkson、Sound Kollectiv、Jason Halbert",
+          "startMs": 7190,
+          "text": "Composed by：Eric Olson、Kelly Clarkson、Sound Kollectiv、Jason Halbert"
+        },
+        {
+          "key": "10790|Arranged by：Sound Kollectiv",
+          "startMs": 10790,
+          "text": "Arranged by：Sound Kollectiv"
+        },
+        {
+          "key": "14394|I don't wanna be left behind",
+          "startMs": 14394,
+          "text": "I don't wanna be left behind"
+        },
+        {
+          "key": "18105|Distance was a friend of mine",
+          "startMs": 18105,
+          "text": "Distance was a friend of mine"
+        },
+        {
+          "key": "22037|Catching breath in a web of lies",
+          "startMs": 22037,
+          "text": "Catching breath in a web of lies"
+        },
+        {
+          "key": "25398|I've spent most of my life",
+          "startMs": 25398,
+          "text": "I've spent most of my life"
+        },
+        {
+          "key": "29774|Riding waves playing acrobat",
+          "startMs": 29774,
+          "text": "Riding waves playing acrobat"
+        },
+        {
+          "key": "33606|Shadowboxing the other half",
+          "startMs": 33606,
+          "text": "Shadowboxing the other half"
+        },
+        {
+          "key": "37492|Learning how to react",
+          "startMs": 37492,
+          "text": "Learning how to react"
+        },
+        {
+          "key": "40890|I've spent most of my time",
+          "startMs": 40890,
+          "text": "I've spent most of my time"
+        },
+        {
+          "key": "45729|Catching my breath letting it go",
+          "startMs": 45729,
+          "text": "Catching my breath letting it go"
+        },
+        {
+          "key": "49576|Turning my cheek for the sake of the show",
+          "startMs": 49576,
+          "text": "Turning my cheek for the sake of the show"
+        },
+        {
+          "key": "53432|Now that you know",
+          "startMs": 53432,
+          "text": "Now that you know"
+        },
+        {
+          "key": "55385|This is my life",
+          "startMs": 55385,
+          "text": "This is my life"
+        },
+        {
+          "key": "57305|I won't be told what's supposed to be right",
+          "startMs": 57305,
+          "text": "I won't be told what's supposed to be right"
+        },
+        {
+          "key": "62198|Catch my breath",
+          "startMs": 62198,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "64347|No one can hold me back",
+          "startMs": 64347,
+          "text": "No one can hold me back"
+        },
+        {
+          "key": "66251|I ain't got time for that",
+          "startMs": 66251,
+          "text": "I ain't got time for that"
+        },
+        {
+          "key": "69753|Catch my breath",
+          "startMs": 69753,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "72066|Won't let 'em get me down",
+          "startMs": 72066,
+          "text": "Won't let 'em get me down"
+        },
+        {
+          "key": "73935|It's all so simple now",
+          "startMs": 73935,
+          "text": "It's all so simple now"
+        },
+        {
+          "key": "75991|Addicted to the love I've found",
+          "startMs": 75991,
+          "text": "Addicted to the love I've found"
+        },
+        {
+          "key": "80105|Heavy heart now a weightless cloud",
+          "startMs": 80105,
+          "text": "Heavy heart now a weightless cloud"
+        },
+        {
+          "key": "83970|Making time for the ones that count",
+          "startMs": 83970,
+          "text": "Making time for the ones that count"
+        },
+        {
+          "key": "87244|I'll spend the rest of my time",
+          "startMs": 87244,
+          "text": "I'll spend the rest of my time"
+        },
+        {
+          "key": "91622|Laughing hard with the windows down",
+          "startMs": 91622,
+          "text": "Laughing hard with the windows down"
+        },
+        {
+          "key": "95604|Leaving footprints all over town",
+          "startMs": 95604,
+          "text": "Leaving footprints all over town"
+        },
+        {
+          "key": "99475|Keeping faith karma comes around",
+          "startMs": 99475,
+          "text": "Keeping faith karma comes around"
+        },
+        {
+          "key": "102761|I won't spend the rest of my life",
+          "startMs": 102761,
+          "text": "I won't spend the rest of my life"
+        },
+        {
+          "key": "107581|Catching my breath letting it go",
+          "startMs": 107581,
+          "text": "Catching my breath letting it go"
+        },
+        {
+          "key": "111479|Turning my cheek for the sake of the show",
+          "startMs": 111479,
+          "text": "Turning my cheek for the sake of the show"
+        },
+        {
+          "key": "115375|Now that you know this is my life",
+          "startMs": 115375,
+          "text": "Now that you know this is my life"
+        },
+        {
+          "key": "119231|I won't be told what's supposed to be right",
+          "startMs": 119231,
+          "text": "I won't be told what's supposed to be right"
+        },
+        {
+          "key": "124079|Catch my breath",
+          "startMs": 124079,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "126347|No one can hold me back",
+          "startMs": 126347,
+          "text": "No one can hold me back"
+        },
+        {
+          "key": "128178|I ain't got time for that",
+          "startMs": 128178,
+          "text": "I ain't got time for that"
+        },
+        {
+          "key": "131742|Catch my breath",
+          "startMs": 131742,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "134032|Won't let 'em get me down",
+          "startMs": 134032,
+          "text": "Won't let 'em get me down"
+        },
+        {
+          "key": "135966|It's all so simple now",
+          "startMs": 135966,
+          "text": "It's all so simple now"
+        },
+        {
+          "key": "139532|You helped me see",
+          "startMs": 139532,
+          "text": "You helped me see"
+        },
+        {
+          "key": "146658|The beauty in everything",
+          "startMs": 146658,
+          "text": "The beauty in everything"
+        },
+        {
+          "key": "154072|Catching my breath letting it go",
+          "startMs": 154072,
+          "text": "Catching my breath letting it go"
+        },
+        {
+          "key": "157932|Turning my cheek for the sake of the show",
+          "startMs": 157932,
+          "text": "Turning my cheek for the sake of the show"
+        },
+        {
+          "key": "161863|Now that you know this is my life",
+          "startMs": 161863,
+          "text": "Now that you know this is my life"
+        },
+        {
+          "key": "165685|I won't be told what's supposed to be right",
+          "startMs": 165685,
+          "text": "I won't be told what's supposed to be right"
+        },
+        {
+          "key": "169507|Catching my breath",
+          "startMs": 169507,
+          "text": "Catching my breath"
+        },
+        {
+          "key": "171472|Letting it go",
+          "startMs": 171472,
+          "text": "Letting it go"
+        },
+        {
+          "key": "173433|Turning my cheek for the sake of the show",
+          "startMs": 173433,
+          "text": "Turning my cheek for the sake of the show"
+        },
+        {
+          "key": "177299|Now that you know",
+          "startMs": 177299,
+          "text": "Now that you know"
+        },
+        {
+          "key": "179235|This is my life",
+          "startMs": 179235,
+          "text": "This is my life"
+        },
+        {
+          "key": "181141|I won't be told what's supposed to be right",
+          "startMs": 181141,
+          "text": "I won't be told what's supposed to be right"
+        },
+        {
+          "key": "184450|Catch my breath",
+          "startMs": 184450,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "185913|Catch my breath",
+          "startMs": 185913,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "188218|No one can hold me back",
+          "startMs": 188218,
+          "text": "No one can hold me back"
+        },
+        {
+          "key": "190087|I ain't got time for that",
+          "startMs": 190087,
+          "text": "I ain't got time for that"
+        },
+        {
+          "key": "193750|Catch my breath",
+          "startMs": 193750,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "195926|Won't let 'em get me down",
+          "startMs": 195926,
+          "text": "Won't let 'em get me down"
+        },
+        {
+          "key": "197906|It's all so simple now it's all so simple now",
+          "startMs": 197906,
+          "text": "It's all so simple now it's all so simple now"
+        },
+        {
+          "key": "200978|Catching my breath letting it go",
+          "startMs": 200978,
+          "text": "Catching my breath letting it go"
+        },
+        {
+          "key": "204402|Turning my cheek for the sake of the show",
+          "startMs": 204402,
+          "text": "Turning my cheek for the sake of the show"
+        },
+        {
+          "key": "208286|Now that you know this is my life",
+          "startMs": 208286,
+          "text": "Now that you know this is my life"
+        },
+        {
+          "key": "212158|I won't be told what's supposed to be right",
+          "startMs": 212158,
+          "text": "I won't be told what's supposed to be right"
+        },
+        {
+          "key": "215333|Catch my breath",
+          "startMs": 215333,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "217199|Catch my breath",
+          "startMs": 217199,
+          "text": "Catch my breath"
+        },
+        {
+          "key": "219194|No one can hold me back",
+          "startMs": 219194,
+          "text": "No one can hold me back"
+        },
+        {
+          "key": "221113|I ain't got time for that",
+          "startMs": 221113,
+          "text": "I ain't got time for that"
+        },
+        {
+          "key": "222804|Catch my catch catch my breath",
+          "startMs": 222804,
+          "text": "Catch my catch catch my breath"
+        },
+        {
+          "key": "226857|Won't let 'em get me down",
+          "startMs": 226857,
+          "text": "Won't let 'em get me down"
+        },
+        {
+          "key": "228882|It's all so simple now",
+          "startMs": 228882,
+          "text": "It's all so simple now"
+        }
+      ]
+    },
+    {
+      "rank": 578,
+      "songKey": "online:kugou:f9cd11b4ecd3eddcbe1cdf4ec96c90ab",
+      "name": "Shootout X Yes to Heaven (降调版)",
+      "artist": "Hushi",
+      "lines": [
+        {
+          "key": "920|酷狗音乐  就是歌多",
+          "startMs": 920,
+          "text": "酷狗音乐  就是歌多"
+        }
+      ]
+    },
+    {
+      "rank": 579,
+      "songKey": "online:kugou:2b659863329e97fc5716477a472c2130",
+      "name": "雾里",
+      "artist": "姚六一",
+      "lines": [
+        {
+          "key": "530|姚六一 - 雾里",
+          "startMs": 530,
+          "text": "姚六一 - 雾里"
+        },
+        {
+          "key": "1137|作词：姚六一",
+          "startMs": 1137,
+          "text": "作词：姚六一"
+        },
+        {
+          "key": "1290|作曲：姚六一",
+          "startMs": 1290,
+          "text": "作曲：姚六一"
+        },
+        {
+          "key": "1443|编曲：季志豪",
+          "startMs": 1443,
+          "text": "编曲：季志豪"
+        },
+        {
+          "key": "1597|录音、混音：季志豪",
+          "startMs": 1597,
+          "text": "录音、混音：季志豪"
+        },
+        {
+          "key": "1799|制作：Morerare工作室",
+          "startMs": 1799,
+          "text": "制作：Morerare工作室"
+        },
+        {
+          "key": "2002|监制：萧跃",
+          "startMs": 2002,
+          "text": "监制：萧跃"
+        },
+        {
+          "key": "2104|词曲提供：词曲家",
+          "startMs": 2104,
+          "text": "词曲提供：词曲家"
+        },
+        {
+          "key": "2309|营销推广：噼里啪啦Studio",
+          "startMs": 2309,
+          "text": "营销推广：噼里啪啦Studio"
+        },
+        {
+          "key": "2562|发行：讯飞音乐",
+          "startMs": 2562,
+          "text": "发行：讯飞音乐"
+        },
+        {
+          "key": "2766|（未经著作权人许可，不得翻唱翻录或使用。）",
+          "startMs": 2766,
+          "text": "（未经著作权人许可，不得翻唱翻录或使用。）"
+        },
+        {
+          "key": "5913|我习惯深埋雾里",
+          "startMs": 5913,
+          "text": "我习惯深埋雾里"
+        },
+        {
+          "key": "8454|自我较劲",
+          "startMs": 8454,
+          "text": "自我较劲"
+        },
+        {
+          "key": "10484|魂首分离",
+          "startMs": 10484,
+          "text": "魂首分离"
+        },
+        {
+          "key": "13847|我喜欢埋在雾里",
+          "startMs": 13847,
+          "text": "我喜欢埋在雾里"
+        },
+        {
+          "key": "16539|别被提起",
+          "startMs": 16539,
+          "text": "别被提起"
+        },
+        {
+          "key": "18417|天黑再醒",
+          "startMs": 18417,
+          "text": "天黑再醒"
+        },
+        {
+          "key": "21874|当白天像是电影",
+          "startMs": 21874,
+          "text": "当白天像是电影"
+        },
+        {
+          "key": "24518|我在这里",
+          "startMs": 24518,
+          "text": "我在这里"
+        },
+        {
+          "key": "26449|不倦演习",
+          "startMs": 26449,
+          "text": "不倦演习"
+        },
+        {
+          "key": "29796|看上去不费力气",
+          "startMs": 29796,
+          "text": "看上去不费力气"
+        },
+        {
+          "key": "32439|这种境地",
+          "startMs": 32439,
+          "text": "这种境地"
+        },
+        {
+          "key": "34471|楚歌四地",
+          "startMs": 34471,
+          "text": "楚歌四地"
+        },
+        {
+          "key": "36917|对话自己似乎很容易上瘾",
+          "startMs": 36917,
+          "text": "对话自己似乎很容易上瘾"
+        },
+        {
+          "key": "40676|白鸽拥抱黑鸦大胆的情景",
+          "startMs": 40676,
+          "text": "白鸽拥抱黑鸦大胆的情景"
+        },
+        {
+          "key": "44792|就笑我神经病我在我领地",
+          "startMs": 44792,
+          "text": "就笑我神经病我在我领地"
+        },
+        {
+          "key": "48548|看这里一望无际",
+          "startMs": 48548,
+          "text": "看这里一望无际"
+        },
+        {
+          "key": "52912|彩色的世界",
+          "startMs": 52912,
+          "text": "彩色的世界"
+        },
+        {
+          "key": "54535|我在我的雾里多么清晰",
+          "startMs": 54535,
+          "text": "我在我的雾里多么清晰"
+        },
+        {
+          "key": "57631|他们黑白的心",
+          "startMs": 57631,
+          "text": "他们黑白的心"
+        },
+        {
+          "key": "60582|自顾自己已经有了定义",
+          "startMs": 60582,
+          "text": "自顾自己已经有了定义"
+        },
+        {
+          "key": "63830|何时该靠近什么应该摒弃",
+          "startMs": 63830,
+          "text": "何时该靠近什么应该摒弃"
+        },
+        {
+          "key": "68594|You sound like",
+          "startMs": 68594,
+          "text": "You sound like"
+        },
+        {
+          "key": "70197|啊吧吧啊吧吧",
+          "startMs": 70197,
+          "text": "啊吧吧啊吧吧"
+        },
+        {
+          "key": "72943|别争议 啊吧吧 啊吧吧",
+          "startMs": 72943,
+          "text": "别争议 啊吧吧 啊吧吧"
+        },
+        {
+          "key": "76904|我在这你的话语",
+          "startMs": 76904,
+          "text": "我在这你的话语"
+        },
+        {
+          "key": "79035|变得那么那么清晰",
+          "startMs": 79035,
+          "text": "变得那么那么清晰"
+        },
+        {
+          "key": "81623|破绽随处可迹",
+          "startMs": 81623,
+          "text": "破绽随处可迹"
+        },
+        {
+          "key": "84578|在雾里",
+          "startMs": 84578,
+          "text": "在雾里"
+        },
+        {
+          "key": "94731|Wo",
+          "startMs": 94731,
+          "text": "Wo"
+        },
+        {
+          "key": "102100|我随时能进雾里",
+          "startMs": 102100,
+          "text": "我随时能进雾里"
+        },
+        {
+          "key": "104483|安心找寻",
+          "startMs": 104483,
+          "text": "安心找寻"
+        },
+        {
+          "key": "106515|遗失声音",
+          "startMs": 106515,
+          "text": "遗失声音"
+        },
+        {
+          "key": "108495|Ye 别再追问我原因",
+          "startMs": 108495,
+          "text": "Ye 别再追问我原因"
+        },
+        {
+          "key": "112418|突然失语",
+          "startMs": 112418,
+          "text": "突然失语"
+        },
+        {
+          "key": "114397|我的失礼",
+          "startMs": 114397,
+          "text": "我的失礼"
+        },
+        {
+          "key": "117503|我特别喜欢你今天长裙",
+          "startMs": 117503,
+          "text": "我特别喜欢你今天长裙"
+        },
+        {
+          "key": "120954|吵闹的人群保持笑容多冷静",
+          "startMs": 120954,
+          "text": "吵闹的人群保持笑容多冷静"
+        },
+        {
+          "key": "124953|又看了一场翻炒多次的电影",
+          "startMs": 124953,
+          "text": "又看了一场翻炒多次的电影"
+        },
+        {
+          "key": "128637|看这里一望无际",
+          "startMs": 128637,
+          "text": "看这里一望无际"
+        },
+        {
+          "key": "132933|彩色的世界我在我的雾里",
+          "startMs": 132933,
+          "text": "彩色的世界我在我的雾里"
+        },
+        {
+          "key": "136137|多么清晰",
+          "startMs": 136137,
+          "text": "多么清晰"
+        },
+        {
+          "key": "137560|他们黑白的心",
+          "startMs": 137560,
+          "text": "他们黑白的心"
+        },
+        {
+          "key": "140680|自顾自己已经有了定义",
+          "startMs": 140680,
+          "text": "自顾自己已经有了定义"
+        },
+        {
+          "key": "143882|何时该靠近什么应该摒弃",
+          "startMs": 143882,
+          "text": "何时该靠近什么应该摒弃"
+        },
+        {
+          "key": "148354|You sound like",
+          "startMs": 148354,
+          "text": "You sound like"
+        },
+        {
+          "key": "149982|啊吧吧啊吧吧",
+          "startMs": 149982,
+          "text": "啊吧吧啊吧吧"
+        },
+        {
+          "key": "152922|别怀疑 啊吧吧 啊吧吧",
+          "startMs": 152922,
+          "text": "别怀疑 啊吧吧 啊吧吧"
+        },
+        {
+          "key": "156879|我在这关上了门",
+          "startMs": 156879,
+          "text": "我在这关上了门"
+        },
+        {
+          "key": "159015|就能创造动人旋律",
+          "startMs": 159015,
+          "text": "就能创造动人旋律"
+        },
+        {
+          "key": "161560|堵住他们的心",
+          "startMs": 161560,
+          "text": "堵住他们的心"
+        },
+        {
+          "key": "164557|在雾里",
+          "startMs": 164557,
+          "text": "在雾里"
+        },
+        {
+          "key": "166188|笑我一头雾水的你",
+          "startMs": 166188,
+          "text": "笑我一头雾水的你"
+        },
+        {
+          "key": "168479|笑声来又去",
+          "startMs": 168479,
+          "text": "笑声来又去"
+        },
+        {
+          "key": "170210|欣赏的人知道",
+          "startMs": 170210,
+          "text": "欣赏的人知道"
+        },
+        {
+          "key": "171529|这词语可以是褒义",
+          "startMs": 171529,
+          "text": "这词语可以是褒义"
+        },
+        {
+          "key": "174018|我站在属于我的领域",
+          "startMs": 174018,
+          "text": "我站在属于我的领域"
+        },
+        {
+          "key": "176368|调动着思绪",
+          "startMs": 176368,
+          "text": "调动着思绪"
+        },
+        {
+          "key": "178040|击穿所有未知的谜底",
+          "startMs": 178040,
+          "text": "击穿所有未知的谜底"
+        },
+        {
+          "key": "180580|抓要的星星",
+          "startMs": 180580,
+          "text": "抓要的星星"
+        },
+        {
+          "key": "182053|所有构思伟大的诡计",
+          "startMs": 182053,
+          "text": "所有构思伟大的诡计"
+        },
+        {
+          "key": "184489|秘密的壮举",
+          "startMs": 184489,
+          "text": "秘密的壮举"
+        },
+        {
+          "key": "185911|不能实现会不会可惜",
+          "startMs": 185911,
+          "text": "不能实现会不会可惜"
+        },
+        {
+          "key": "188605|别放过自己",
+          "startMs": 188605,
+          "text": "别放过自己"
+        },
+        {
+          "key": "189989|别再担心未知的问题",
+          "startMs": 189989,
+          "text": "别再担心未知的问题"
+        },
+        {
+          "key": "192429|看这里一望无际",
+          "startMs": 192429,
+          "text": "看这里一望无际"
+        },
+        {
+          "key": "196900|彩色的世界",
+          "startMs": 196900,
+          "text": "彩色的世界"
+        },
+        {
+          "key": "198421|我在我的雾里多么清晰",
+          "startMs": 198421,
+          "text": "我在我的雾里多么清晰"
+        },
+        {
+          "key": "201466|他们黑白的心",
+          "startMs": 201466,
+          "text": "他们黑白的心"
+        },
+        {
+          "key": "204416|做好决定该怎样面对",
+          "startMs": 204416,
+          "text": "做好决定该怎样面对"
+        },
+        {
+          "key": "207418|到来的危机",
+          "startMs": 207418,
+          "text": "到来的危机"
+        },
+        {
+          "key": "209496|怎样睁大眼睛",
+          "startMs": 209496,
+          "text": "怎样睁大眼睛"
+        },
+        {
+          "key": "212663|Oh 啊吧吧 啊吧吧",
+          "startMs": 212663,
+          "text": "Oh 啊吧吧 啊吧吧"
+        },
+        {
+          "key": "216782|笑吟吟 啊吧吧 啊吧吧",
+          "startMs": 216782,
+          "text": "笑吟吟 啊吧吧 啊吧吧"
+        },
+        {
+          "key": "221001|我在这 ",
+          "startMs": 221001,
+          "text": "我在这 "
+        },
+        {
+          "key": "222019|游刃有余哪里需要祈祷恐惧",
+          "startMs": 222019,
+          "text": "游刃有余哪里需要祈祷恐惧"
+        },
+        {
+          "key": "225623|活的像位神明",
+          "startMs": 225623,
+          "text": "活的像位神明"
+        },
+        {
+          "key": "228569|在雾里 啊吧吧 啊吧吧",
+          "startMs": 228569,
+          "text": "在雾里 啊吧吧 啊吧吧"
+        },
+        {
+          "key": "232741|Oh 啊吧吧 啊吧吧",
+          "startMs": 232741,
+          "text": "Oh 啊吧吧 啊吧吧"
+        },
+        {
+          "key": "236771|Oh 啊吧吧 啊吧吧",
+          "startMs": 236771,
+          "text": "Oh 啊吧吧 啊吧吧"
+        },
+        {
+          "key": "240785|我在这黑的白的蓝的",
+          "startMs": 240785,
+          "text": "我在这黑的白的蓝的"
+        },
+        {
+          "key": "243522|随我定义惊艳你",
+          "startMs": 243522,
+          "text": "随我定义惊艳你"
+        }
+      ]
+    },
+    {
+      "rank": 580,
+      "songKey": "online:kugou:c46f6239183ba375b2c34a206aa53cff",
+      "name": "解药 (网友改编)",
+      "artist": "来一碗老于",
+      "lines": [
+        {
+          "key": "0|来一碗老于 - 解药",
+          "startMs": 0,
+          "text": "来一碗老于 - 解药"
+        },
+        {
+          "key": "56|作词：口袋易百",
+          "startMs": 56,
+          "text": "作词：口袋易百"
+        },
+        {
+          "key": "105|作曲：颜小健、郑国锋",
+          "startMs": 105,
+          "text": "作曲：颜小健、郑国锋"
+        },
+        {
+          "key": "231|编曲：你的美",
+          "startMs": 231,
+          "text": "编曲：你的美"
+        },
+        {
+          "key": "273|混音：裴东文",
+          "startMs": 273,
+          "text": "混音：裴东文"
+        },
+        {
+          "key": "315|制作人：颜小健@Jyken",
+          "startMs": 315,
+          "text": "制作人：颜小健@Jyken"
+        },
+        {
+          "key": "315|推广：张作全、朱佳莉、徐招祥",
+          "startMs": 315,
+          "text": "推广：张作全、朱佳莉、徐招祥"
+        },
+        {
+          "key": "413|艺人统筹 ：黄婷",
+          "startMs": 413,
+          "text": "艺人统筹 ：黄婷"
+        },
+        {
+          "key": "462|原唱：颜小健、郑国锋",
+          "startMs": 462,
+          "text": "原唱：颜小健、郑国锋"
+        },
+        {
+          "key": "532|出品：J.T Music Studio",
+          "startMs": 532,
+          "text": "出品：J.T Music Studio"
+        },
+        {
+          "key": "574|（未经许可，不得翻唱翻录或使用）",
+          "startMs": 574,
+          "text": "（未经许可，不得翻唱翻录或使用）"
+        },
+        {
+          "key": "686|咖啡店等了一整夜夜夜夜",
+          "startMs": 686,
+          "text": "咖啡店等了一整夜夜夜夜"
+        },
+        {
+          "key": "5194|你还是没有出现",
+          "startMs": 5194,
+          "text": "你还是没有出现"
+        },
+        {
+          "key": "18856|行驶在城市的边缘",
+          "startMs": 18856,
+          "text": "行驶在城市的边缘"
+        },
+        {
+          "key": "22275|故意把情绪抛很远",
+          "startMs": 22275,
+          "text": "故意把情绪抛很远"
+        },
+        {
+          "key": "27934|电台音乐夹杂眼泪",
+          "startMs": 27934,
+          "text": "电台音乐夹杂眼泪"
+        },
+        {
+          "key": "31511|切歌之前假装看不见",
+          "startMs": 31511,
+          "text": "切歌之前假装看不见"
+        },
+        {
+          "key": "37192|天鹅湖转了一个圈圈圈圈",
+          "startMs": 37192,
+          "text": "天鹅湖转了一个圈圈圈圈"
+        },
+        {
+          "key": "41787|从起点回到了终点",
+          "startMs": 41787,
+          "text": "从起点回到了终点"
+        },
+        {
+          "key": "46240|咖啡店等了一整夜夜夜夜",
+          "startMs": 46240,
+          "text": "咖啡店等了一整夜夜夜夜"
+        },
+        {
+          "key": "50920|你还是没有出现",
+          "startMs": 50920,
+          "text": "你还是没有出现"
+        },
+        {
+          "key": "54315|就在昨天爱悄然离线",
+          "startMs": 54315,
+          "text": "就在昨天爱悄然离线"
+        },
+        {
+          "key": "58888|等到的只是冷却的留言",
+          "startMs": 58888,
+          "text": "等到的只是冷却的留言"
+        },
+        {
+          "key": "63490|说了道歉也不能澄清一切",
+          "startMs": 63490,
+          "text": "说了道歉也不能澄清一切"
+        },
+        {
+          "key": "68014|我陷入黑色的空间",
+          "startMs": 68014,
+          "text": "我陷入黑色的空间"
+        },
+        {
+          "key": "72625|再见雨天爱越走越远",
+          "startMs": 72625,
+          "text": "再见雨天爱越走越远"
+        },
+        {
+          "key": "77207|解药遗失在梦破晓之前",
+          "startMs": 77207,
+          "text": "解药遗失在梦破晓之前"
+        },
+        {
+          "key": "81719|闭上双眼心里还是会默念",
+          "startMs": 81719,
+          "text": "闭上双眼心里还是会默念"
+        },
+        {
+          "key": "86321|老地方出现我忘返流连",
+          "startMs": 86321,
+          "text": "老地方出现我忘返流连"
+        },
+        {
+          "key": "101217|行驶在城市的边缘",
+          "startMs": 101217,
+          "text": "行驶在城市的边缘"
+        },
+        {
+          "key": "104564|故意把情绪抛很远",
+          "startMs": 104564,
+          "text": "故意把情绪抛很远"
+        },
+        {
+          "key": "110367|电台音乐夹杂眼泪",
+          "startMs": 110367,
+          "text": "电台音乐夹杂眼泪"
+        },
+        {
+          "key": "113732|切歌之前假装看不见",
+          "startMs": 113732,
+          "text": "切歌之前假装看不见"
+        },
+        {
+          "key": "119470|天鹅湖转了一个圈圈圈圈",
+          "startMs": 119470,
+          "text": "天鹅湖转了一个圈圈圈圈"
+        },
+        {
+          "key": "124030|从起点回到了终点",
+          "startMs": 124030,
+          "text": "从起点回到了终点"
+        },
+        {
+          "key": "128649|咖啡店等了一整夜夜夜夜",
+          "startMs": 128649,
+          "text": "咖啡店等了一整夜夜夜夜"
+        },
+        {
+          "key": "133186|你还是没有出现",
+          "startMs": 133186,
+          "text": "你还是没有出现"
+        },
+        {
+          "key": "136634|就在昨天爱悄然离线",
+          "startMs": 136634,
+          "text": "就在昨天爱悄然离线"
+        },
+        {
+          "key": "141179|等到的只是冷却的留言",
+          "startMs": 141179,
+          "text": "等到的只是冷却的留言"
+        },
+        {
+          "key": "145655|说了道歉也不能澄清一切",
+          "startMs": 145655,
+          "text": "说了道歉也不能澄清一切"
+        },
+        {
+          "key": "150326|我陷入黑色的空间",
+          "startMs": 150326,
+          "text": "我陷入黑色的空间"
+        },
+        {
+          "key": "154940|再见雨天爱越走越远",
+          "startMs": 154940,
+          "text": "再见雨天爱越走越远"
+        },
+        {
+          "key": "159463|解药遗失在梦破晓之前",
+          "startMs": 159463,
+          "text": "解药遗失在梦破晓之前"
+        },
+        {
+          "key": "164075|闭上双眼心里还是会默念",
+          "startMs": 164075,
+          "text": "闭上双眼心里还是会默念"
+        },
+        {
+          "key": "168649|老地方出现我忘返流连",
+          "startMs": 168649,
+          "text": "老地方出现我忘返流连"
+        },
+        {
+          "key": "173151|就在昨天",
+          "startMs": 173151,
+          "text": "就在昨天"
+        }
+      ]
+    }
+  ]
+}

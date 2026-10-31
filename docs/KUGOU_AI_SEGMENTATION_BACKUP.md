@@ -1,6 +1,6 @@
 # 酷狗“我喜欢”AI 分词备份
 
-此目录记录 2026-10-31 对酷狗“我喜欢”中第 1–500 首歌曲执行的分词任务，供设备恢复和后续增量处理。每 100 首分别保存，互不覆盖。
+此目录记录 2026-10-31 对酷狗“我喜欢”中第 1–600 首歌曲执行的分词任务，供设备恢复和后续增量处理。每 100 首分别保存，互不覆盖。
 
 ## 首批：第 1–100 首
 
@@ -62,6 +62,25 @@ node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kug
 
 审计通过时应得到：`done=99`、`noLyrics=1`、`unfinished=0`、`missing=0`、`mismatched=0`、`invalidOutputs=0`、`missingAliases=0`、`mismatchedAliases=0`。
 
+## 续批：第 501–600 首
+
+此批以第 500 首《循迹》为锚点；重新读取收藏时总数仍为 915，锚点仍在第 500 位，已保存的前 500 首顺序未变。
+
+- 目标：100 首；已写回 Folia 并读回验证：99 首。
+- 无可用歌词：1 首（第 583 首《求佛 (cover: 电音任瑶)》）。
+- 原始歌词与分词：各 4,694 行；分词片段：21,959 个。
+- 标准 LRC：99 个、4,694 行，毫秒级时间戳并保留原文空白。
+- 设备审计：未完成、缺失、内容错配、无效输出及大小写别名问题均为 0。
+- 质量复核：跨歌曲相同文本的分词边界冲突为 0；中文、日语、韩语与英文样本均经独立复核并通过最终回归。
+
+文件位于 `.codex-tasks/kugou-ai-segmentation/continuation-501-600/`。恢复这一批时执行：
+
+```powershell
+node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-501-600
+```
+
+审计通过时应得到：`done=99`、`noLyrics=1`、`unfinished=0`、`missing=0`、`mismatched=0`、`invalidOutputs=0`、`missingAliases=0`、`mismatchedAliases=0`。
+
 ## 续批：第 301–400 首
 
 此批以第 300 首《戒不掉+春娇与志明 (DJ版)》为锚点；重新读取收藏时总数仍为 915，锚点仍在第 300 位，已保存的前 300 首顺序未变。
@@ -112,10 +131,11 @@ node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kug
    node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-201-300
    node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-301-400
    node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-401-500
+   node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-501-600
    ```
 
    每条命令都会恢复对应批次、补写酷狗 Hash 大小写兼容记录，并自动执行最终审计。
 
-五批共覆盖前 500 首：494 首已写入分词，6 首为无歌词终态。
+六批共覆盖前 600 首：593 首已写入分词，7 首为无歌词终态。
 
 > 注意：此备份包含完整歌词文本，仓库为公开仓库时任何人均可读取。

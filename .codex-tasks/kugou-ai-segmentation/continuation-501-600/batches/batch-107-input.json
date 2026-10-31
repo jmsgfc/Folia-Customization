@@ -1,0 +1,1540 @@
+{
+  "batchNumber": 107,
+  "songs": [
+    {
+      "rank": 531,
+      "songKey": "online:kugou:55dbda7ad184708ffbe308b1f8d6c7a4",
+      "name": "雪落下的声音 (Live)",
+      "artist": "林俊杰",
+      "lines": [
+        {
+          "key": "38|林俊杰 - 雪落下的声音 (Live)",
+          "startMs": 38,
+          "text": "林俊杰 - 雪落下的声音 (Live)"
+        },
+        {
+          "key": "1185|原唱：陆虎",
+          "startMs": 1185,
+          "text": "原唱：陆虎"
+        },
+        {
+          "key": "1346|作词：于正",
+          "startMs": 1346,
+          "text": "作词：于正"
+        },
+        {
+          "key": "1437|作曲：陆虎",
+          "startMs": 1437,
+          "text": "作曲：陆虎"
+        },
+        {
+          "key": "1487|编曲：Troy Laureta",
+          "startMs": 1487,
+          "text": "编曲：Troy Laureta"
+        },
+        {
+          "key": "2306|制作人：林俊杰",
+          "startMs": 2306,
+          "text": "制作人：林俊杰"
+        },
+        {
+          "key": "2489|音响总监：金少刚",
+          "startMs": 2489,
+          "text": "音响总监：金少刚"
+        },
+        {
+          "key": "2697|音乐总监：刘卓",
+          "startMs": 2697,
+          "text": "音乐总监：刘卓"
+        },
+        {
+          "key": "2924|吉他：金天、崔万平、高恭鹏",
+          "startMs": 2924,
+          "text": "吉他：金天、崔万平、高恭鹏"
+        },
+        {
+          "key": "3169|键盘：孙梦迪、李海郡、尹岳洋",
+          "startMs": 3169,
+          "text": "键盘：孙梦迪、李海郡、尹岳洋"
+        },
+        {
+          "key": "3520|Program：尹岳洋",
+          "startMs": 3520,
+          "text": "Program：尹岳洋"
+        },
+        {
+          "key": "4378|贝斯：李九君",
+          "startMs": 4378,
+          "text": "贝斯：李九君"
+        },
+        {
+          "key": "4559|鼓手：卢炜、陈志龙",
+          "startMs": 4559,
+          "text": "鼓手：卢炜、陈志龙"
+        },
+        {
+          "key": "4740|打击乐：刘效松",
+          "startMs": 4740,
+          "text": "打击乐：刘效松"
+        },
+        {
+          "key": "5656|和音：张炜、黄婉婷、关冰效、李郡洲",
+          "startMs": 5656,
+          "text": "和音：张炜、黄婉婷、关冰效、李郡洲"
+        },
+        {
+          "key": "6015|长号：冯雨筠",
+          "startMs": 6015,
+          "text": "长号：冯雨筠"
+        },
+        {
+          "key": "6168|小号：夏非",
+          "startMs": 6168,
+          "text": "小号：夏非"
+        },
+        {
+          "key": "6291|萨克斯：陈嘉俊",
+          "startMs": 6291,
+          "text": "萨克斯：陈嘉俊"
+        },
+        {
+          "key": "6473|二胡：李睿涵",
+          "startMs": 6473,
+          "text": "二胡：李睿涵"
+        },
+        {
+          "key": "7334|音乐混音：周天澈混音团队",
+          "startMs": 7334,
+          "text": "音乐混音：周天澈混音团队"
+        },
+        {
+          "key": "41679|轻轻 落在我掌心",
+          "startMs": 41679,
+          "text": "轻轻 落在我掌心"
+        },
+        {
+          "key": "52038|静静 在掌中结冰",
+          "startMs": 52038,
+          "text": "静静 在掌中结冰"
+        },
+        {
+          "key": "62400|相逢 是前世注定",
+          "startMs": 62400,
+          "text": "相逢 是前世注定"
+        },
+        {
+          "key": "73037|痛并 把快乐尝尽",
+          "startMs": 73037,
+          "text": "痛并 把快乐尝尽"
+        },
+        {
+          "key": "83376|明明 话那么寒心",
+          "startMs": 83376,
+          "text": "明明 话那么寒心"
+        },
+        {
+          "key": "93700|假装 那只是叮咛",
+          "startMs": 93700,
+          "text": "假装 那只是叮咛"
+        },
+        {
+          "key": "104172|泪尽 也不能相信",
+          "startMs": 104172,
+          "text": "泪尽 也不能相信"
+        },
+        {
+          "key": "114700|此生 如纸般薄命",
+          "startMs": 114700,
+          "text": "此生 如纸般薄命"
+        },
+        {
+          "key": "125366|我慢慢地听 雪落下的声音",
+          "startMs": 125366,
+          "text": "我慢慢地听 雪落下的声音"
+        },
+        {
+          "key": "130458|闭着眼睛幻想它不会停",
+          "startMs": 130458,
+          "text": "闭着眼睛幻想它不会停"
+        },
+        {
+          "key": "135009|你没办法靠近 决不是太薄情",
+          "startMs": 135009,
+          "text": "你没办法靠近 决不是太薄情"
+        },
+        {
+          "key": "141319|只是贪恋窗外好风景",
+          "startMs": 141319,
+          "text": "只是贪恋窗外好风景"
+        },
+        {
+          "key": "146084|我慢慢地品 雪落下的声音",
+          "startMs": 146084,
+          "text": "我慢慢地品 雪落下的声音"
+        },
+        {
+          "key": "151348|仿佛是你贴着我叫卿卿",
+          "startMs": 151348,
+          "text": "仿佛是你贴着我叫卿卿"
+        },
+        {
+          "key": "155912|睁开了眼睛 漫天的雪无情",
+          "startMs": 155912,
+          "text": "睁开了眼睛 漫天的雪无情"
+        },
+        {
+          "key": "165319|谁来赔这一生好光景",
+          "startMs": 165319,
+          "text": "谁来赔这一生好光景"
+        },
+        {
+          "key": "174787|明明 话那么寒心",
+          "startMs": 174787,
+          "text": "明明 话那么寒心"
+        },
+        {
+          "key": "185034|假装 那只是叮咛",
+          "startMs": 185034,
+          "text": "假装 那只是叮咛"
+        },
+        {
+          "key": "195508|泪尽 也不能相信",
+          "startMs": 195508,
+          "text": "泪尽 也不能相信"
+        },
+        {
+          "key": "205929|此生 如纸般薄命",
+          "startMs": 205929,
+          "text": "此生 如纸般薄命"
+        },
+        {
+          "key": "216695|我慢慢地听 雪落下的声音",
+          "startMs": 216695,
+          "text": "我慢慢地听 雪落下的声音"
+        },
+        {
+          "key": "221809|闭着眼睛幻想它不会停",
+          "startMs": 221809,
+          "text": "闭着眼睛幻想它不会停"
+        },
+        {
+          "key": "226354|你没办法靠近 决不是太薄情",
+          "startMs": 226354,
+          "text": "你没办法靠近 决不是太薄情"
+        },
+        {
+          "key": "232560|只是贪恋窗外好风景",
+          "startMs": 232560,
+          "text": "只是贪恋窗外好风景"
+        },
+        {
+          "key": "237493|我慢慢地品 雪落下的声音",
+          "startMs": 237493,
+          "text": "我慢慢地品 雪落下的声音"
+        },
+        {
+          "key": "242580|仿佛是你贴着我叫卿卿",
+          "startMs": 242580,
+          "text": "仿佛是你贴着我叫卿卿"
+        },
+        {
+          "key": "247235|睁开了眼睛 漫天的雪无情",
+          "startMs": 247235,
+          "text": "睁开了眼睛 漫天的雪无情"
+        },
+        {
+          "key": "254781|谁来赔这一生好光景",
+          "startMs": 254781,
+          "text": "谁来赔这一生好光景"
+        },
+        {
+          "key": "259862|谁来赔这一生好光景",
+          "startMs": 259862,
+          "text": "谁来赔这一生好光景"
+        },
+        {
+          "key": "265375|谁来赔这一生好光景 雪落下的声音",
+          "startMs": 265375,
+          "text": "谁来赔这一生好光景 雪落下的声音"
+        }
+      ]
+    },
+    {
+      "rank": 532,
+      "songKey": "online:kugou:7d3fad55e9367972d6369884dc7e64f7",
+      "name": "借月",
+      "artist": "王天阳",
+      "lines": [
+        {
+          "key": "139|王天阳 - 借月",
+          "startMs": 139,
+          "text": "王天阳 - 借月"
+        },
+        {
+          "key": "1096|作词：陆云飞",
+          "startMs": 1096,
+          "text": "作词：陆云飞"
+        },
+        {
+          "key": "1324|作曲：任永恒",
+          "startMs": 1324,
+          "text": "作曲：任永恒"
+        },
+        {
+          "key": "1551|编曲：Dr.李平、王耑、大明",
+          "startMs": 1551,
+          "text": "编曲：Dr.李平、王耑、大明"
+        },
+        {
+          "key": "2005|制作人：王天阳",
+          "startMs": 2005,
+          "text": "制作人：王天阳"
+        },
+        {
+          "key": "2308|吉他：齐成刚、大明",
+          "startMs": 2308,
+          "text": "吉他：齐成刚、大明"
+        },
+        {
+          "key": "2688|鼓：Dr.李平",
+          "startMs": 2688,
+          "text": "鼓：Dr.李平"
+        },
+        {
+          "key": "2838|键盘：王耑",
+          "startMs": 2838,
+          "text": "键盘：王耑"
+        },
+        {
+          "key": "3064|笛子：黄小开",
+          "startMs": 3064,
+          "text": "笛子：黄小开"
+        },
+        {
+          "key": "3292|和音编写：沈力",
+          "startMs": 3292,
+          "text": "和音编写：沈力"
+        },
+        {
+          "key": "3595|和音：沈力",
+          "startMs": 3595,
+          "text": "和音：沈力"
+        },
+        {
+          "key": "3822|混音：鲍锐@录顶技",
+          "startMs": 3822,
+          "text": "混音：鲍锐@录顶技"
+        },
+        {
+          "key": "4200|母带：鲍锐@录顶技",
+          "startMs": 4200,
+          "text": "母带：鲍锐@录顶技"
+        },
+        {
+          "key": "4581|乐器录音棚：@Dr.LtwelveP STUDIO",
+          "startMs": 4581,
+          "text": "乐器录音棚：@Dr.LtwelveP STUDIO"
+        },
+        {
+          "key": "4960|人声录音棚：栩栩如声音乐工作室",
+          "startMs": 4960,
+          "text": "人声录音棚：栩栩如声音乐工作室"
+        },
+        {
+          "key": "5643|录音师：李文婷",
+          "startMs": 5643,
+          "text": "录音师：李文婷"
+        },
+        {
+          "key": "5946|制作统筹：李文婷",
+          "startMs": 5946,
+          "text": "制作统筹：李文婷"
+        },
+        {
+          "key": "6250|监制：李文婷",
+          "startMs": 6250,
+          "text": "监制：李文婷"
+        },
+        {
+          "key": "6552|封面设计：刘馨宇",
+          "startMs": 6552,
+          "text": "封面设计：刘馨宇"
+        },
+        {
+          "key": "6855|艺人统筹：刘璐、陈雪倩、陈天明",
+          "startMs": 6855,
+          "text": "艺人统筹：刘璐、陈雪倩、陈天明"
+        },
+        {
+          "key": "7461|宣传推广：蔡雨燕、游文雅、孙源、刘璐、陈雪倩",
+          "startMs": 7461,
+          "text": "宣传推广：蔡雨燕、游文雅、孙源、刘璐、陈雪倩"
+        },
+        {
+          "key": "8298|制作公司：栩栩如声音乐工作室",
+          "startMs": 8298,
+          "text": "制作公司：栩栩如声音乐工作室"
+        },
+        {
+          "key": "8915|出品发行：栩栩如声X「造音行动」",
+          "startMs": 8915,
+          "text": "出品发行：栩栩如声X「造音行动」"
+        },
+        {
+          "key": "8915|告别了温柔乡",
+          "startMs": 8915,
+          "text": "告别了温柔乡"
+        },
+        {
+          "key": "12094|去远方闯一闯",
+          "startMs": 12094,
+          "text": "去远方闯一闯"
+        },
+        {
+          "key": "15275|我明白你心中志向",
+          "startMs": 15275,
+          "text": "我明白你心中志向"
+        },
+        {
+          "key": "21715|山高与水长",
+          "startMs": 21715,
+          "text": "山高与水长"
+        },
+        {
+          "key": "24824|免不了跌宕",
+          "startMs": 24824,
+          "text": "免不了跌宕"
+        },
+        {
+          "key": "28086|但愿你初心不忘",
+          "startMs": 28086,
+          "text": "但愿你初心不忘"
+        },
+        {
+          "key": "33086|深情与离别遇上",
+          "startMs": 33086,
+          "text": "深情与离别遇上"
+        },
+        {
+          "key": "36494|只叫人百转柔肠",
+          "startMs": 36494,
+          "text": "只叫人百转柔肠"
+        },
+        {
+          "key": "40564|谁懂我朝思暮想",
+          "startMs": 40564,
+          "text": "谁懂我朝思暮想"
+        },
+        {
+          "key": "47382|皎洁的月光",
+          "startMs": 47382,
+          "text": "皎洁的月光"
+        },
+        {
+          "key": "50544|想邀你细赏",
+          "startMs": 50544,
+          "text": "想邀你细赏"
+        },
+        {
+          "key": "53570|可惜已天各一方",
+          "startMs": 53570,
+          "text": "可惜已天各一方"
+        },
+        {
+          "key": "58649|就借这月光",
+          "startMs": 58649,
+          "text": "就借这月光"
+        },
+        {
+          "key": "61543|再与你对望",
+          "startMs": 61543,
+          "text": "再与你对望"
+        },
+        {
+          "key": "64951|不管落魄风光",
+          "startMs": 64951,
+          "text": "不管落魄风光"
+        },
+        {
+          "key": "67455|我都为你守望",
+          "startMs": 67455,
+          "text": "我都为你守望"
+        },
+        {
+          "key": "71244|就让这月光",
+          "startMs": 71244,
+          "text": "就让这月光"
+        },
+        {
+          "key": "74581|把你的回程路照亮",
+          "startMs": 74581,
+          "text": "把你的回程路照亮"
+        },
+        {
+          "key": "78446|有太多的话",
+          "startMs": 78446,
+          "text": "有太多的话"
+        },
+        {
+          "key": "80492|与你慢慢讲",
+          "startMs": 80492,
+          "text": "与你慢慢讲"
+        },
+        {
+          "key": "98531|饮过了风与霜",
+          "startMs": 98531,
+          "text": "饮过了风与霜"
+        },
+        {
+          "key": "101641|把思念唱一唱",
+          "startMs": 101641,
+          "text": "把思念唱一唱"
+        },
+        {
+          "key": "104749|不自觉已满眼泪光",
+          "startMs": 104749,
+          "text": "不自觉已满眼泪光"
+        },
+        {
+          "key": "111267|江湖与闯荡",
+          "startMs": 111267,
+          "text": "江湖与闯荡"
+        },
+        {
+          "key": "114381|不想你失望",
+          "startMs": 114381,
+          "text": "不想你失望"
+        },
+        {
+          "key": "117561|我只愿都有回响",
+          "startMs": 117561,
+          "text": "我只愿都有回响"
+        },
+        {
+          "key": "122565|深情与离别遇上",
+          "startMs": 122565,
+          "text": "深情与离别遇上"
+        },
+        {
+          "key": "126052|只叫人百转柔肠",
+          "startMs": 126052,
+          "text": "只叫人百转柔肠"
+        },
+        {
+          "key": "130482|谁懂我朝思暮想",
+          "startMs": 130482,
+          "text": "谁懂我朝思暮想"
+        },
+        {
+          "key": "136923|皎洁的月光",
+          "startMs": 136923,
+          "text": "皎洁的月光"
+        },
+        {
+          "key": "140026|想邀你细赏",
+          "startMs": 140026,
+          "text": "想邀你细赏"
+        },
+        {
+          "key": "143287|可惜已天各一方",
+          "startMs": 143287,
+          "text": "可惜已天各一方"
+        },
+        {
+          "key": "148365|就借这月光",
+          "startMs": 148365,
+          "text": "就借这月光"
+        },
+        {
+          "key": "151293|再与你对望",
+          "startMs": 151293,
+          "text": "再与你对望"
+        },
+        {
+          "key": "154706|不管落魄风光",
+          "startMs": 154706,
+          "text": "不管落魄风光"
+        },
+        {
+          "key": "157133|我都为你守望",
+          "startMs": 157133,
+          "text": "我都为你守望"
+        },
+        {
+          "key": "160844|就让这月光",
+          "startMs": 160844,
+          "text": "就让这月光"
+        },
+        {
+          "key": "163951|把你的回程路照亮",
+          "startMs": 163951,
+          "text": "把你的回程路照亮"
+        },
+        {
+          "key": "168118|有太多的话",
+          "startMs": 168118,
+          "text": "有太多的话"
+        },
+        {
+          "key": "170086|与你慢慢讲",
+          "startMs": 170086,
+          "text": "与你慢慢讲"
+        },
+        {
+          "key": "199430|就借这月光",
+          "startMs": 199430,
+          "text": "就借这月光"
+        },
+        {
+          "key": "202538|再与你对望",
+          "startMs": 202538,
+          "text": "再与你对望"
+        },
+        {
+          "key": "205727|不管落魄风光",
+          "startMs": 205727,
+          "text": "不管落魄风光"
+        },
+        {
+          "key": "208151|我都为你守望",
+          "startMs": 208151,
+          "text": "我都为你守望"
+        },
+        {
+          "key": "212019|就让这月光",
+          "startMs": 212019,
+          "text": "就让这月光"
+        },
+        {
+          "key": "215278|把你的回程路照亮",
+          "startMs": 215278,
+          "text": "把你的回程路照亮"
+        },
+        {
+          "key": "219221|有太多的话",
+          "startMs": 219221,
+          "text": "有太多的话"
+        },
+        {
+          "key": "221112|与你慢慢讲",
+          "startMs": 221112,
+          "text": "与你慢慢讲"
+        },
+        {
+          "key": "224827|就借这月光",
+          "startMs": 224827,
+          "text": "就借这月光"
+        },
+        {
+          "key": "228083|再与你对望",
+          "startMs": 228083,
+          "text": "再与你对望"
+        },
+        {
+          "key": "231423|不管落魄风光",
+          "startMs": 231423,
+          "text": "不管落魄风光"
+        },
+        {
+          "key": "233698|我都为你守望",
+          "startMs": 233698,
+          "text": "我都为你守望"
+        },
+        {
+          "key": "237631|就让这月光",
+          "startMs": 237631,
+          "text": "就让这月光"
+        },
+        {
+          "key": "240813|把你的回程路照亮",
+          "startMs": 240813,
+          "text": "把你的回程路照亮"
+        },
+        {
+          "key": "244832|有太多的话",
+          "startMs": 244832,
+          "text": "有太多的话"
+        },
+        {
+          "key": "246731|与你慢慢讲",
+          "startMs": 246731,
+          "text": "与你慢慢讲"
+        },
+        {
+          "key": "250676|就让这月光",
+          "startMs": 250676,
+          "text": "就让这月光"
+        },
+        {
+          "key": "253859|把你的回程路照亮",
+          "startMs": 253859,
+          "text": "把你的回程路照亮"
+        },
+        {
+          "key": "257800|有太多的话",
+          "startMs": 257800,
+          "text": "有太多的话"
+        },
+        {
+          "key": "259921|只想与你讲",
+          "startMs": 259921,
+          "text": "只想与你讲"
+        }
+      ]
+    },
+    {
+      "rank": 533,
+      "songKey": "online:kugou:51a5bdc21013ab876b0fd866f38af05f",
+      "name": "Payphone (BOND-邦 0.8X版)",
+      "artist": "Maroon 5、Wiz Khalifa",
+      "lines": [
+        {
+          "key": "0|Payphone (BOND-邦 0.8X版) - Maroon 5、Wiz Khalifa ",
+          "startMs": 0,
+          "text": "Payphone (BOND-邦 0.8X版) - Maroon 5、Wiz Khalifa "
+        },
+        {
+          "key": "97|原唱：Maroon 5/Wiz Khalifa",
+          "startMs": 97,
+          "text": "原唱：Maroon 5/Wiz Khalifa"
+        },
+        {
+          "key": "209|Lyrics by：Adam Levine/Benny Blanco/Ammar Malik/Robopop",
+          "startMs": 209,
+          "text": "Lyrics by：Adam Levine/Benny Blanco/Ammar Malik/Robopop"
+        },
+        {
+          "key": "354|Composed by：Shellback/Benny Blanco",
+          "startMs": 354,
+          "text": "Composed by：Shellback/Benny Blanco"
+        },
+        {
+          "key": "436|I'm at a payphone tryin' to call home",
+          "startMs": 436,
+          "text": "I'm at a payphone tryin' to call home"
+        },
+        {
+          "key": "5790|All of my change I spent on you",
+          "startMs": 5790,
+          "text": "All of my change I spent on you"
+        },
+        {
+          "key": "11204|Where have the times gone",
+          "startMs": 11204,
+          "text": "Where have the times gone"
+        },
+        {
+          "key": "14004|Baby it's all wrong",
+          "startMs": 14004,
+          "text": "Baby it's all wrong"
+        },
+        {
+          "key": "16660|Where are the plans we made for two",
+          "startMs": 16660,
+          "text": "Where are the plans we made for two"
+        },
+        {
+          "key": "22377|Yeah I I know it's hard to remember",
+          "startMs": 22377,
+          "text": "Yeah I I know it's hard to remember"
+        },
+        {
+          "key": "26753|The people we used to be",
+          "startMs": 26753,
+          "text": "The people we used to be"
+        },
+        {
+          "key": "29416|It's even harder to picture",
+          "startMs": 29416,
+          "text": "It's even harder to picture"
+        },
+        {
+          "key": "32153|That you're not here next to me",
+          "startMs": 32153,
+          "text": "That you're not here next to me"
+        },
+        {
+          "key": "34796|You say it's too late to make it",
+          "startMs": 34796,
+          "text": "You say it's too late to make it"
+        },
+        {
+          "key": "37579|But is it too late to try",
+          "startMs": 37579,
+          "text": "But is it too late to try"
+        },
+        {
+          "key": "40251|And in our time that you wasted",
+          "startMs": 40251,
+          "text": "And in our time that you wasted"
+        },
+        {
+          "key": "42484|All of our bridges burned down",
+          "startMs": 42484,
+          "text": "All of our bridges burned down"
+        },
+        {
+          "key": "46069|I've wasted my nights",
+          "startMs": 46069,
+          "text": "I've wasted my nights"
+        },
+        {
+          "key": "48714|You turned out the lights",
+          "startMs": 48714,
+          "text": "You turned out the lights"
+        },
+        {
+          "key": "51434|Now I'm paralyzed",
+          "startMs": 51434,
+          "text": "Now I'm paralyzed"
+        },
+        {
+          "key": "54410|Still stuck in that time",
+          "startMs": 54410,
+          "text": "Still stuck in that time"
+        },
+        {
+          "key": "56922|When we called it \"Love\"",
+          "startMs": 56922,
+          "text": "When we called it \"Love\""
+        },
+        {
+          "key": "59604|But even the sun",
+          "startMs": 59604,
+          "text": "But even the sun"
+        },
+        {
+          "key": "62243|Sets in paradise",
+          "startMs": 62243,
+          "text": "Sets in paradise"
+        },
+        {
+          "key": "65890|I'm at a payphone tryin' to call home",
+          "startMs": 65890,
+          "text": "I'm at a payphone tryin' to call home"
+        },
+        {
+          "key": "71152|All of my change I spent on you",
+          "startMs": 71152,
+          "text": "All of my change I spent on you"
+        },
+        {
+          "key": "76624|Where have the times gone",
+          "startMs": 76624,
+          "text": "Where have the times gone"
+        },
+        {
+          "key": "79393|Baby it's all wrong",
+          "startMs": 79393,
+          "text": "Baby it's all wrong"
+        },
+        {
+          "key": "82081|Where are the plans we made for two",
+          "startMs": 82081,
+          "text": "Where are the plans we made for two"
+        },
+        {
+          "key": "87417|If happy-ever-after's did exist",
+          "startMs": 87417,
+          "text": "If happy-ever-after's did exist"
+        },
+        {
+          "key": "93017|I would still be holdin' you like this",
+          "startMs": 93017,
+          "text": "I would still be holdin' you like this"
+        },
+        {
+          "key": "98449|All those fairytales are full of ****",
+          "startMs": 98449,
+          "text": "All those fairytales are full of ****"
+        },
+        {
+          "key": "103857|One more ******* love song I'll be sick oh",
+          "startMs": 103857,
+          "text": "One more ******* love song I'll be sick oh"
+        },
+        {
+          "key": "111210|You turned your back on tomorrow",
+          "startMs": 111210,
+          "text": "You turned your back on tomorrow"
+        },
+        {
+          "key": "113937|'Cause you forgot yesterday",
+          "startMs": 113937,
+          "text": "'Cause you forgot yesterday"
+        },
+        {
+          "key": "116656|I gave you my love to borrow",
+          "startMs": 116656,
+          "text": "I gave you my love to borrow"
+        },
+        {
+          "key": "119336|But you just gave it away",
+          "startMs": 119336,
+          "text": "But you just gave it away"
+        },
+        {
+          "key": "122257|You can't expect me to be fine",
+          "startMs": 122257,
+          "text": "You can't expect me to be fine"
+        },
+        {
+          "key": "124156|Oh-oh",
+          "startMs": 124156,
+          "text": "Oh-oh"
+        },
+        {
+          "key": "124816|I don't expect you to care",
+          "startMs": 124816,
+          "text": "I don't expect you to care"
+        },
+        {
+          "key": "126802|Yeah",
+          "startMs": 126802,
+          "text": "Yeah"
+        },
+        {
+          "key": "127647|I know I said it before",
+          "startMs": 127647,
+          "text": "I know I said it before"
+        },
+        {
+          "key": "129527|But all of our bridges burned down",
+          "startMs": 129527,
+          "text": "But all of our bridges burned down"
+        },
+        {
+          "key": "133170|I've wasted my nights",
+          "startMs": 133170,
+          "text": "I've wasted my nights"
+        },
+        {
+          "key": "135794|You turned out the lights",
+          "startMs": 135794,
+          "text": "You turned out the lights"
+        },
+        {
+          "key": "138681|Now I'm paralyzed",
+          "startMs": 138681,
+          "text": "Now I'm paralyzed"
+        },
+        {
+          "key": "141648|Still stuck in that time",
+          "startMs": 141648,
+          "text": "Still stuck in that time"
+        },
+        {
+          "key": "144153|When we called it \"Love\"",
+          "startMs": 144153,
+          "text": "When we called it \"Love\""
+        },
+        {
+          "key": "146857|But even the sun",
+          "startMs": 146857,
+          "text": "But even the sun"
+        },
+        {
+          "key": "149641|Sets in paradise",
+          "startMs": 149641,
+          "text": "Sets in paradise"
+        },
+        {
+          "key": "153005|I'm at a payphone tryin' to call home",
+          "startMs": 153005,
+          "text": "I'm at a payphone tryin' to call home"
+        },
+        {
+          "key": "158406|All of my change I spent on you",
+          "startMs": 158406,
+          "text": "All of my change I spent on you"
+        },
+        {
+          "key": "162916|Oh oh-oh-oh",
+          "startMs": 162916,
+          "text": "Oh oh-oh-oh"
+        },
+        {
+          "key": "164283|Where have the times gone",
+          "startMs": 164283,
+          "text": "Where have the times gone"
+        },
+        {
+          "key": "166587|Baby it's all wrong",
+          "startMs": 166587,
+          "text": "Baby it's all wrong"
+        },
+        {
+          "key": "169308|Where are the plans we made for two",
+          "startMs": 169308,
+          "text": "Where are the plans we made for two"
+        },
+        {
+          "key": "174051|Yeah",
+          "startMs": 174051,
+          "text": "Yeah"
+        },
+        {
+          "key": "174763|If happy-ever-after's did exist",
+          "startMs": 174763,
+          "text": "If happy-ever-after's did exist"
+        },
+        {
+          "key": "180203|I would still be holdin' you like this",
+          "startMs": 180203,
+          "text": "I would still be holdin' you like this"
+        },
+        {
+          "key": "185539|And all those fairytales are full of ****",
+          "startMs": 185539,
+          "text": "And all those fairytales are full of ****"
+        },
+        {
+          "key": "191179|One more ******* love song I'll be sick",
+          "startMs": 191179,
+          "text": "One more ******* love song I'll be sick"
+        },
+        {
+          "key": "195622|Yeah uh",
+          "startMs": 195622,
+          "text": "Yeah uh"
+        },
+        {
+          "key": "196447|Now I'm at a payphone",
+          "startMs": 196447,
+          "text": "Now I'm at a payphone"
+        },
+        {
+          "key": "199078|Man **** that ****",
+          "startMs": 199078,
+          "text": "Man **** that ****"
+        },
+        {
+          "key": "200710|I'll be out spendin' all this money while you're sittin' 'round",
+          "startMs": 200710,
+          "text": "I'll be out spendin' all this money while you're sittin' 'round"
+        },
+        {
+          "key": "203457|Wondering why it wasn't you who came up from nothin'",
+          "startMs": 203457,
+          "text": "Wondering why it wasn't you who came up from nothin'"
+        },
+        {
+          "key": "206059|Made it from the bottom now when you see me I'm stuntin'",
+          "startMs": 206059,
+          "text": "Made it from the bottom now when you see me I'm stuntin'"
+        },
+        {
+          "key": "209123|And all of my cars start with the push of a button",
+          "startMs": 209123,
+          "text": "And all of my cars start with the push of a button"
+        },
+        {
+          "key": "211586|Telling me I changed since I blew up or whatever you call it",
+          "startMs": 211586,
+          "text": "Telling me I changed since I blew up or whatever you call it"
+        },
+        {
+          "key": "214622|Switched the number to my phone so you never could call it",
+          "startMs": 214622,
+          "text": "Switched the number to my phone so you never could call it"
+        },
+        {
+          "key": "217240|Don't need my name on my shirt you can tell that I'm ballin'",
+          "startMs": 217240,
+          "text": "Don't need my name on my shirt you can tell that I'm ballin'"
+        },
+        {
+          "key": "220090|Swish what a shame coulda got picked",
+          "startMs": 220090,
+          "text": "Swish what a shame coulda got picked"
+        },
+        {
+          "key": "222851|Had a really good game but you missed your last shot",
+          "startMs": 222851,
+          "text": "Had a really good game but you missed your last shot"
+        },
+        {
+          "key": "225628|So you talk about who you see at the top",
+          "startMs": 225628,
+          "text": "So you talk about who you see at the top"
+        },
+        {
+          "key": "227987|Or what you could've saw but sad to say it's over for",
+          "startMs": 227987,
+          "text": "Or what you could've saw but sad to say it's over for"
+        },
+        {
+          "key": "230983|Phantom pulled up valet open doors",
+          "startMs": 230983,
+          "text": "Phantom pulled up valet open doors"
+        },
+        {
+          "key": "233749|Wished I'd go away got what you was looking for",
+          "startMs": 233749,
+          "text": "Wished I'd go away got what you was looking for"
+        },
+        {
+          "key": "236510|Now it's me who they want",
+          "startMs": 236510,
+          "text": "Now it's me who they want"
+        },
+        {
+          "key": "237830|So you can go take that little piece of **** with you",
+          "startMs": 237830,
+          "text": "So you can go take that little piece of **** with you"
+        },
+        {
+          "key": "240406|Yeah",
+          "startMs": 240406,
+          "text": "Yeah"
+        },
+        {
+          "key": "240735|I'm at a payphone tryin' to call home",
+          "startMs": 240735,
+          "text": "I'm at a payphone tryin' to call home"
+        },
+        {
+          "key": "245703|All of my change I spent on you",
+          "startMs": 245703,
+          "text": "All of my change I spent on you"
+        },
+        {
+          "key": "251030|Woo",
+          "startMs": 251030,
+          "text": "Woo"
+        },
+        {
+          "key": "251294|Where have the times gone",
+          "startMs": 251294,
+          "text": "Where have the times gone"
+        },
+        {
+          "key": "253927|Baby it's all wrong",
+          "startMs": 253927,
+          "text": "Baby it's all wrong"
+        },
+        {
+          "key": "256487|Yeah",
+          "startMs": 256487,
+          "text": "Yeah"
+        },
+        {
+          "key": "256702|Where are the plans we made for two",
+          "startMs": 256702,
+          "text": "Where are the plans we made for two"
+        },
+        {
+          "key": "261350|Yeah",
+          "startMs": 261350,
+          "text": "Yeah"
+        },
+        {
+          "key": "261943|If happy-ever-after's did exist",
+          "startMs": 261943,
+          "text": "If happy-ever-after's did exist"
+        },
+        {
+          "key": "266731|Oh",
+          "startMs": 266731,
+          "text": "Oh"
+        },
+        {
+          "key": "267571|I would still be holdin' you like this",
+          "startMs": 267571,
+          "text": "I would still be holdin' you like this"
+        },
+        {
+          "key": "272651|And all these fairytales are full of ****",
+          "startMs": 272651,
+          "text": "And all these fairytales are full of ****"
+        },
+        {
+          "key": "278032|Yeah",
+          "startMs": 278032,
+          "text": "Yeah"
+        },
+        {
+          "key": "278391|One more ******* love song I'll be sick",
+          "startMs": 278391,
+          "text": "One more ******* love song I'll be sick"
+        },
+        {
+          "key": "283136|Yeah now I'm at a payphone",
+          "startMs": 283136,
+          "text": "Yeah now I'm at a payphone"
+        }
+      ]
+    },
+    {
+      "rank": 534,
+      "songKey": "online:kugou:f3d23b2d333632a11b60675013b155b1",
+      "name": "彩云追月 (Live)",
+      "artist": "苏妙玲",
+      "lines": [
+        {
+          "key": "20406|明月究竟在哪方白昼自潜藏",
+          "startMs": 20406,
+          "text": "明月究竟在哪方白昼自潜藏"
+        },
+        {
+          "key": "28428|夜晚露毫茫光辉普照世间上",
+          "startMs": 28428,
+          "text": "夜晚露毫茫光辉普照世间上"
+        },
+        {
+          "key": "36446|漫照着平阳又照着桥梁",
+          "startMs": 36446,
+          "text": "漫照着平阳又照着桥梁"
+        },
+        {
+          "key": "42017|皓影千家人共仰",
+          "startMs": 42017,
+          "text": "皓影千家人共仰"
+        },
+        {
+          "key": "47177|难逢今夕风光一片欢欣气象",
+          "startMs": 47177,
+          "text": "难逢今夕风光一片欢欣气象"
+        },
+        {
+          "key": "57843|月照彩云上熏风轻掠",
+          "startMs": 57843,
+          "text": "月照彩云上熏风轻掠"
+        },
+        {
+          "key": "63143|如入山荫心向往",
+          "startMs": 63143,
+          "text": "如入山荫心向往"
+        },
+        {
+          "key": "71172|人立晚风月照中",
+          "startMs": 71172,
+          "text": "人立晚风月照中"
+        },
+        {
+          "key": "76449|独散步长廊月浸在池塘",
+          "startMs": 76449,
+          "text": "独散步长廊月浸在池塘"
+        },
+        {
+          "key": "81858|欢欣充满了心上",
+          "startMs": 81858,
+          "text": "欢欣充满了心上"
+        },
+        {
+          "key": "87165|静听乐悠扬越觉乐洋洋",
+          "startMs": 87165,
+          "text": "静听乐悠扬越觉乐洋洋"
+        },
+        {
+          "key": "92477|夜鸟高枝齐和唱",
+          "startMs": 92477,
+          "text": "夜鸟高枝齐和唱"
+        },
+        {
+          "key": "97886|难逢今夕风光一片欢欣气象",
+          "startMs": 97886,
+          "text": "难逢今夕风光一片欢欣气象"
+        },
+        {
+          "key": "108555|月照彩云上熏风轻掠",
+          "startMs": 108555,
+          "text": "月照彩云上熏风轻掠"
+        },
+        {
+          "key": "114008|如入山荫心向往",
+          "startMs": 114008,
+          "text": "如入山荫心向往"
+        },
+        {
+          "key": "131714|明月究竟在哪方白昼自潜藏",
+          "startMs": 131714,
+          "text": "明月究竟在哪方白昼自潜藏"
+        },
+        {
+          "key": "139175|夜晚露毫茫光辉普照世间上",
+          "startMs": 139175,
+          "text": "夜晚露毫茫光辉普照世间上"
+        },
+        {
+          "key": "146591|漫照着平阳又照着桥梁",
+          "startMs": 146591,
+          "text": "漫照着平阳又照着桥梁"
+        },
+        {
+          "key": "151450|皓影千家人共仰",
+          "startMs": 151450,
+          "text": "皓影千家人共仰"
+        },
+        {
+          "key": "156508|难逢今夕风光一片欢欣气象",
+          "startMs": 156508,
+          "text": "难逢今夕风光一片欢欣气象"
+        },
+        {
+          "key": "166378|月照彩云上熏风轻掠",
+          "startMs": 166378,
+          "text": "月照彩云上熏风轻掠"
+        },
+        {
+          "key": "171319|如入山荫心向往",
+          "startMs": 171319,
+          "text": "如入山荫心向往"
+        },
+        {
+          "key": "176331|人立晚风月照中",
+          "startMs": 176331,
+          "text": "人立晚风月照中"
+        },
+        {
+          "key": "181191|独散步长廊月浸在池塘",
+          "startMs": 181191,
+          "text": "独散步长廊月浸在池塘"
+        },
+        {
+          "key": "186253|欢欣充满了心上",
+          "startMs": 186253,
+          "text": "欢欣充满了心上"
+        },
+        {
+          "key": "191110|静听乐悠扬越觉乐洋洋",
+          "startMs": 191110,
+          "text": "静听乐悠扬越觉乐洋洋"
+        },
+        {
+          "key": "196121|夜鸟高枝齐和唱",
+          "startMs": 196121,
+          "text": "夜鸟高枝齐和唱"
+        },
+        {
+          "key": "201031|难逢今夕风光一片欢欣气象",
+          "startMs": 201031,
+          "text": "难逢今夕风光一片欢欣气象"
+        },
+        {
+          "key": "210897|月照彩云上熏风轻掠",
+          "startMs": 210897,
+          "text": "月照彩云上熏风轻掠"
+        },
+        {
+          "key": "215867|如入山荫心向往",
+          "startMs": 215867,
+          "text": "如入山荫心向往"
+        }
+      ]
+    },
+    {
+      "rank": 535,
+      "songKey": "online:kugou:03542812844ee77a22e096a9d6974858",
+      "name": "爱如潮水",
+      "artist": "张信哲",
+      "lines": [
+        {
+          "key": "0|张信哲 (Jeff Chang) - 爱如潮水",
+          "startMs": 0,
+          "text": "张信哲 (Jeff Chang) - 爱如潮水"
+        },
+        {
+          "key": "17572|作词：李宗盛",
+          "startMs": 17572,
+          "text": "作词：李宗盛"
+        },
+        {
+          "key": "22156|作曲：黎沸挥",
+          "startMs": 22156,
+          "text": "作曲：黎沸挥"
+        },
+        {
+          "key": "26740|编曲：鲍比达",
+          "startMs": 26740,
+          "text": "编曲：鲍比达"
+        },
+        {
+          "key": "31324|不问你为何流眼泪",
+          "startMs": 31324,
+          "text": "不问你为何流眼泪"
+        },
+        {
+          "key": "38258|不在乎你心里还有谁",
+          "startMs": 38258,
+          "text": "不在乎你心里还有谁"
+        },
+        {
+          "key": "45400|且让我给你安慰",
+          "startMs": 45400,
+          "text": "且让我给你安慰"
+        },
+        {
+          "key": "49274|不论结局是喜是悲",
+          "startMs": 49274,
+          "text": "不论结局是喜是悲"
+        },
+        {
+          "key": "53074|走过千山万水",
+          "startMs": 53074,
+          "text": "走过千山万水"
+        },
+        {
+          "key": "56161|在我心里你永远是那么美",
+          "startMs": 56161,
+          "text": "在我心里你永远是那么美"
+        },
+        {
+          "key": "61361|Yeah yeah",
+          "startMs": 61361,
+          "text": "Yeah yeah"
+        },
+        {
+          "key": "63574|既然爱了就不后悔",
+          "startMs": 63574,
+          "text": "既然爱了就不后悔"
+        },
+        {
+          "key": "70724|再多的苦我也愿意背",
+          "startMs": 70724,
+          "text": "再多的苦我也愿意背"
+        },
+        {
+          "key": "77714|我的爱如潮水",
+          "startMs": 77714,
+          "text": "我的爱如潮水"
+        },
+        {
+          "key": "81564|爱如潮水将我向你推",
+          "startMs": 81564,
+          "text": "爱如潮水将我向你推"
+        },
+        {
+          "key": "85404|紧紧跟随",
+          "startMs": 85404,
+          "text": "紧紧跟随"
+        },
+        {
+          "key": "88274|爱如潮水它将你我包围",
+          "startMs": 88274,
+          "text": "爱如潮水它将你我包围"
+        },
+        {
+          "key": "94744|我再也不愿见你在深夜里买醉",
+          "startMs": 94744,
+          "text": "我再也不愿见你在深夜里买醉"
+        },
+        {
+          "key": "98554|不愿别的男人见识你的妩媚",
+          "startMs": 98554,
+          "text": "不愿别的男人见识你的妩媚"
+        },
+        {
+          "key": "102664|你该知道这样会让我心碎",
+          "startMs": 102664,
+          "text": "你该知道这样会让我心碎"
+        },
+        {
+          "key": "109334|答应我你从此不在深夜里徘徊",
+          "startMs": 109334,
+          "text": "答应我你从此不在深夜里徘徊"
+        },
+        {
+          "key": "113354|不要轻易尝试放纵的滋味",
+          "startMs": 113354,
+          "text": "不要轻易尝试放纵的滋味"
+        },
+        {
+          "key": "116974|你可知道这样会让我心碎",
+          "startMs": 116974,
+          "text": "你可知道这样会让我心碎"
+        },
+        {
+          "key": "153180|既然爱了就无怨无悔",
+          "startMs": 153180,
+          "text": "既然爱了就无怨无悔"
+        },
+        {
+          "key": "160360|再多的苦我也愿意背",
+          "startMs": 160360,
+          "text": "再多的苦我也愿意背"
+        },
+        {
+          "key": "167330|我的爱如潮水",
+          "startMs": 167330,
+          "text": "我的爱如潮水"
+        },
+        {
+          "key": "171128|爱如潮水将我向你推",
+          "startMs": 171128,
+          "text": "爱如潮水将我向你推"
+        },
+        {
+          "key": "174938|紧紧跟随",
+          "startMs": 174938,
+          "text": "紧紧跟随"
+        },
+        {
+          "key": "177858|爱如潮水它将你我包围",
+          "startMs": 177858,
+          "text": "爱如潮水它将你我包围"
+        },
+        {
+          "key": "184368|我再也不愿见你在深夜里买醉",
+          "startMs": 184368,
+          "text": "我再也不愿见你在深夜里买醉"
+        },
+        {
+          "key": "188168|不愿别的男人见识你的妩媚",
+          "startMs": 188168,
+          "text": "不愿别的男人见识你的妩媚"
+        },
+        {
+          "key": "192208|你该知道这样会让我心碎",
+          "startMs": 192208,
+          "text": "你该知道这样会让我心碎"
+        },
+        {
+          "key": "198898|答应我你从此不在深夜里徘徊",
+          "startMs": 198898,
+          "text": "答应我你从此不在深夜里徘徊"
+        },
+        {
+          "key": "202938|不要轻易尝试放纵的滋味",
+          "startMs": 202938,
+          "text": "不要轻易尝试放纵的滋味"
+        },
+        {
+          "key": "206508|你可知道这样会让我心碎",
+          "startMs": 206508,
+          "text": "你可知道这样会让我心碎"
+        },
+        {
+          "key": "213078|我再也不愿见你在深夜里买醉",
+          "startMs": 213078,
+          "text": "我再也不愿见你在深夜里买醉"
+        },
+        {
+          "key": "216828|不愿别的男人见识你的妩媚",
+          "startMs": 216828,
+          "text": "不愿别的男人见识你的妩媚"
+        },
+        {
+          "key": "220858|你该知道这样会让我心碎",
+          "startMs": 220858,
+          "text": "你该知道这样会让我心碎"
+        },
+        {
+          "key": "227598|答应我你从此不在深夜里徘徊",
+          "startMs": 227598,
+          "text": "答应我你从此不在深夜里徘徊"
+        },
+        {
+          "key": "231618|不要轻易尝试放纵的滋味",
+          "startMs": 231618,
+          "text": "不要轻易尝试放纵的滋味"
+        },
+        {
+          "key": "235188|你可知道这样会让我心碎",
+          "startMs": 235188,
+          "text": "你可知道这样会让我心碎"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:4a2a7260442b0a5d5f17295f1dd7241b",
+      "lines": [
+        {
+          "key": "0|愿与愁 - 林俊杰",
+          "text": "愿与愁 - 林俊杰",
+          "segments": [
+            "愿与愁 ",
+            "- ",
+            "林俊杰"
+          ]
+        },
+        {
+          "key": "1837|词：小寒",
+          "text": "词：小寒",
+          "segments": [
+            "词：",
+            "小寒"
+          ]
+        },
+        {
+          "key": "2579|曲：林俊杰",
+          "text": "曲：林俊杰",
+          "segments": [
+            "曲：",
+            "林俊杰"
+          ]
+        },
+        {
+          "key": "12962|岁月在默数三四五六 第六天以后",
+          "text": "岁月在默数三四五六 第六天以后",
+          "segments": [
+            "岁月",
+            "在",
+            "默",
+            "数",
+            "三",
+            "四",
+            "五",
+            "六 ",
+            "第六",
+            "天",
+            "以后"
+          ]
+        },
+        {
+          "key": "19795|人们开始存在宇宙 黑夜和白昼",
+          "text": "人们开始存在宇宙 黑夜和白昼",
+          "segments": [
+            "人们",
+            "开始",
+            "存在",
+            "宇宙 ",
+            "黑夜",
+            "和",
+            "白昼"
+          ]
+        },
+        {
+          "key": "27135|呼吸第一口气的咽喉 最怕命运小偷",
+          "text": "呼吸第一口气的咽喉 最怕命运小偷",
+          "segments": [
+            "呼吸",
+            "第一",
+            "口气",
+            "的",
+            "咽喉 ",
+            "最怕",
+            "命运",
+            "小偷"
+          ]
+        },
+        {
+          "key": "33019|坏和美好我用血肉 去感受",
+          "text": "坏和美好我用血肉 去感受",
+          "segments": [
+            "坏",
+            "和",
+            "美好",
+            "我",
+            "用",
+            "血肉 ",
+            "去",
+            "感受"
+          ]
+        },
+        {
+          "key": "39449|问宿命是否 再多久 再持久 再永久",
+          "text": "问宿命是否 再多久 再持久 再永久",
+          "segments": [
+            "问",
+            "宿命",
+            "是否 ",
+            "再",
+            "多久 ",
+            "再",
+            "持久 ",
+            "再",
+            "永久"
+          ]
+        },
+        {
+          "key": "42886|抵不了不朽",
+          "text": "抵不了不朽",
+          "segments": [
+            "抵",
+            "不了",
+            "不朽"
+          ]
+        },
+        {
+          "key": "46146|恋人从挥手 到牵手 到放手 到挥手",
+          "text": "恋人从挥手 到牵手 到放手 到挥手",
+          "segments": [
+            "恋人",
+            "从",
+            "挥手 ",
+            "到",
+            "牵手 ",
+            "到",
+            "放手 ",
+            "到",
+            "挥手"
+          ]
+        },
+        {
+          "key": "49550|就该足够",
+          "text": "就该足够",
+          "segments": [
+            "就",
+            "该",
+            "足够"
+          ]
+        },
+        {
+          "key": "52905|对夜的长吼 我胸口 的伤口 随风陈旧",
+          "text": "对夜的长吼 我胸口 的伤口 随风陈旧",
+          "segments": [
+            "对",
+            "夜",
+            "的",
+            "长",
+            "吼 ",
+            "我",
+            "胸口 ",
+            "的",
+            "伤口 ",
+            "随风",
+            "陈旧"
+          ]
+        },
+        {
+          "key": "57330|你我终会沦为尘埃漂流",
+          "text": "你我终会沦为尘埃漂流",
+          "segments": [
+            "你我",
+            "终",
+            "会",
+            "沦",
+            "为",
+            "尘埃",
+            "漂流"
+          ]
+        },
+        {
+          "key": "61547|等待花季烟雨稠",
+          "text": "等待花季烟雨稠",
+          "segments": [
+            "等待",
+            "花季",
+            "烟",
+            "雨",
+            "稠"
+          ]
+        },
+        {
+          "key": "65129|再化降水驻守",
+          "text": "再化降水驻守",
+          "segments": [
+            "再",
+            "化",
+            "降水",
+            "驻守"
+          ]
+        },
+        {
+          "key": "68334|属于你的愿与愁",
+          "text": "属于你的愿与愁",
+          "segments": [
+            "属于",
+            "你的",
+            "愿",
+            "与",
+            "愁"
+          ]
+        },
+        {
+          "key": "86262|时间在倒数你在左右 多想踩碎沙漏",
+          "text": "时间在倒数你在左右 多想踩碎沙漏",
+          "segments": [
+            "时间",
+            "在",
+            "倒数",
+            "你在",
+            "左右 ",
+            "多想",
+            "踩",
+            "碎",
+            "沙漏"
+          ]
+        },
+        {
+          "key": "92764|但能同时在同个宇宙 就不求滞留",
+          "text": "但能同时在同个宇宙 就不求滞留",
+          "segments": [
+            "但",
+            "能",
+            "同时",
+            "在",
+            "同",
+            "个",
+            "宇宙 ",
+            "就不",
+            "求",
+            "滞留"
+          ]
+        },
+        {
+          "key": "100593|呼吸下一口气的预谋 终究会被没收",
+          "text": "呼吸下一口气的预谋 终究会被没收",
+          "segments": [
+            "呼吸",
+            "下",
+            "一",
+            "口气",
+            "的",
+            "预谋 ",
+            "终究会",
+            "被",
+            "没收"
+          ]
+        },
+        {
+          "key": "107134|漫天风雪我陪你颤抖 我们别回头",
+          "text": "漫天风雪我陪你颤抖 我们别回头",
+          "segments": [
+            "漫天",
+            "风",
+            "雪",
+            "我",
+            "陪",
+            "你",
+            "颤抖 ",
+            "我们",
+            "别",
+            "回头"
+          ]
+        },
+        {
+          "key": "112909|问宿命是否 再多久 再持久 再永久",
+          "text": "问宿命是否 再多久 再持久 再永久",
+          "segments": [
+            "问",
+            "宿命",
+            "是否 ",
+            "再",
+            "多久 ",
+            "再",
+            "持久 ",
+            "再",
+            "永久"
+          ]
+        },
+        {
+          "key": "116257|抵不了不朽",
+          "text": "抵不了不朽",
+          "segments": [
+            "抵",
+            "不了",
+            "不朽"
+          ]
+        },
+        {
+          "key": "119578|恋人从挥手 到牵手 到放手 到挥手",
+          "text": "恋人从挥手 到牵手 到放手 到挥手",
+          "segments": [
+            "恋人",
+            "从",
+            "挥手 ",
+            "到",
+            "牵手 ",
+            "到",
+            "放手 ",
+            "到",
+            "挥手"
+          ]
+        },
+        {
+          "key": "122864|就该足够",
+          "text": "就该足够",
+          "segments": [
+            "就",
+            "该",
+            "足够"
+          ]
+        },
+        {
+          "key": "126222|对夜的长吼 我胸口 的伤口 随风陈旧",
+          "text": "对夜的长吼 我胸口 的伤口 随风陈旧",
+          "segments": [
+            "对",
+            "夜",
+            "的",
+            "长",
+            "吼 ",
+            "我",
+            "胸口 ",
+            "的",
+            "伤口 ",
+            "随风",
+            "陈旧"
+          ]
+        },
+        {
+          "key": "130458|你我终会沦为尘埃漂流",
+          "text": "你我终会沦为尘埃漂流",
+          "segments": [
+            "你我",
+            "终",
+            "会",
+            "沦",
+            "为",
+            "尘埃",
+            "漂流"
+          ]
+        },
+        {
+          "key": "134895|等待花季烟雨稠",
+          "text": "等待花季烟雨稠",
+          "segments": [
+            "等待",
+            "花季",
+            "烟",
+            "雨",
+            "稠"
+          ]
+        },
+        {
+          "key": "138328|再化降水驻守",
+          "text": "再化降水驻守",
+          "segments": [
+            "再",
+            "化",
+            "降水",
+            "驻守"
+          ]
+        },
+        {
+          "key": "141634|属于你的愿与愁",
+          "text": "属于你的愿与愁",
+          "segments": [
+            "属于",
+            "你的",
+            "愿",
+            "与",
+            "愁"
+          ]
+        },
+        {
+          "key": "146251|能爱多久 想多久 是多久 是永久",
+          "text": "能爱多久 想多久 是多久 是永久",
+          "segments": [
+            "能",
+            "爱",
+            "多久 ",
+            "想",
+            "多久 ",
+            "是",
+            "多久 ",
+            "是",
+            "永久"
+          ]
+        },
+        {
+          "key": "149494|爱过就不朽",
+          "text": "爱过就不朽",
+          "segments": [
+            "爱过",
+            "就",
+            "不朽"
+          ]
+        },
+        {
+          "key": "152890|那我不走 不分手 不放手 不挥手",
+          "text": "那我不走 不分手 不放手 不挥手",
+          "segments": [
+            "那",
+            "我",
+            "不走 ",
+            "不",
+            "分手 ",
+            "不",
+            "放手 ",
+            "不",
+            "挥手"
+          ]
+        },
+        {
+          "key": "156118|十指紧扣",
+          "text": "十指紧扣",
+          "segments": [
+            "十指",
+            "紧",
+            "扣"
+          ]
+        },
+        {
+          "key": "159694|分岔路口 我伤口 贪与渴求",
+          "text": "分岔路口 我伤口 贪与渴求",
+          "segments": [
+            "分岔",
+            "路口 ",
+            "我",
+            "伤口 ",
+            "贪",
+            "与",
+            "渴求"
+          ]
+        },
+        {
+          "key": "163966|渺小微弱像尘埃漂流",
+          "text": "渺小微弱像尘埃漂流",
+          "segments": [
+            "渺小",
+            "微弱",
+            "像",
+            "尘埃",
+            "漂流"
+          ]
+        },
+        {
+          "key": "168324|等待花季烟雨稠",
+          "text": "等待花季烟雨稠",
+          "segments": [
+            "等待",
+            "花季",
+            "烟",
+            "雨",
+            "稠"
+          ]
+        },
+        {
+          "key": "171590|再化降水驻守",
+          "text": "再化降水驻守",
+          "segments": [
+            "再",
+            "化",
+            "降水",
+            "驻守"
+          ]
+        },
+        {
+          "key": "174899|属于你的愿与愁",
+          "text": "属于你的愿与愁",
+          "segments": [
+            "属于",
+            "你的",
+            "愿",
+            "与",
+            "愁"
+          ]
+        },
+        {
+          "key": "179746|分岔路口 我胸口 的伤口 贪与渴求",
+          "text": "分岔路口 我胸口 的伤口 贪与渴求",
+          "segments": [
+            "分岔",
+            "路口 ",
+            "我",
+            "胸口 ",
+            "的",
+            "伤口 ",
+            "贪",
+            "与",
+            "渴求"
+          ]
+        },
+        {
+          "key": "183904|渺小微弱像尘埃漂流",
+          "text": "渺小微弱像尘埃漂流",
+          "segments": [
+            "渺小",
+            "微弱",
+            "像",
+            "尘埃",
+            "漂流"
+          ]
+        },
+        {
+          "key": "188234|等待花季烟雨稠",
+          "text": "等待花季烟雨稠",
+          "segments": [
+            "等待",
+            "花季",
+            "烟",
+            "雨",
+            "稠"
+          ]
+        },
+        {
+          "key": "191686|再化降水驻守",
+          "text": "再化降水驻守",
+          "segments": [
+            "再",
+            "化",
+            "降水",
+            "驻守"
+          ]
+        },
+        {
+          "key": "194974|只为重逢的时候",
+          "text": "只为重逢的时候",
+          "segments": [
+            "只为",
+            "重逢",
+            "的",
+            "时候"
+          ]
+        },
+        {
+          "key": "206057|制作人 PRODUCER：林俊杰 JJ LIN",
+          "text": "制作人 PRODUCER：林俊杰 JJ LIN",
+          "segments": [
+            "制作人 PRODUCER：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "207387|配唱制作 VOCAL PRODUCTION：许环良@奇大音乐",
+          "text": "配唱制作 VOCAL PRODUCTION：许环良@奇大音乐",
+          "segments": [
+            "配唱制作 VOCAL PRODUCTION：",
+            "许环良@奇大音乐"
+          ]
+        },
+        {
+          "key": "209348|制作协力 PRODUCTION ASSISTANCE：黄冠龙 ALEX.D/周信廷 SHiN CHOU/宋立伟 Robin Song/蔡宥绮 Patti Tsai/蔡凯升 Kai Tsai",
+          "text": "制作协力 PRODUCTION ASSISTANCE：黄冠龙 ALEX.D/周信廷 SHiN CHOU/宋立伟 Robin Song/蔡宥绮 Patti Tsai/蔡凯升 Kai Tsai",
+          "segments": [
+            "制作协力 PRODUCTION ASSISTANCE：",
+            "黄冠龙 ALEX.D",
+            "/",
+            "周信廷 SHiN CHOU",
+            "/",
+            "宋立伟 Robin Song",
+            "/",
+            "蔡宥绮 Patti Tsai",
+            "/",
+            "蔡凯升 Kai Tsai"
+          ]
+        },
+        {
+          "key": "213328|编曲 MUSIC ARRANGEMENT：林俊杰 JJ LIN/吴庆隆 Goh Kheng Long",
+          "text": "编曲 MUSIC ARRANGEMENT：林俊杰 JJ LIN/吴庆隆 Goh Kheng Long",
+          "segments": [
+            "编曲 MUSIC ARRANGEMENT：",
+            "林俊杰 JJ LIN",
+            "/",
+            "吴庆隆 Goh Kheng Long"
+          ]
+        },
+        {
+          "key": "215308|吉他 GUITAR：黄冠龙 ALEX.D",
+          "text": "吉他 GUITAR：黄冠龙 ALEX.D",
+          "segments": [
+            "吉他 GUITAR：",
+            "黄冠龙 ALEX.D"
+          ]
+        },
+        {
+          "key": "216253|弦乐 STRINGS：李琪弦乐团",
+          "text": "弦乐 STRINGS：李琪弦乐团",
+          "segments": [
+            "弦乐 STRINGS：",
+            "李琪弦乐团"
+          ]
+        },
+        {
+          "key": "217346|和声编写 BACKGROUND VOCAL ARRANGEMENT：Billy Koh/林俊杰 JJ LIN",
+          "text": "和声编写 BACKGROUND VOCAL ARRANGEMENT：Billy Koh/林俊杰 JJ LIN",
+          "segments": [
+            "和声编写 BACKGROUND VOCAL ARRANGEMENT：",
+            "Billy Koh",
+            "/",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "219288|和声 BACKGROUND VOCALS：林俊杰 JJ LIN",
+          "text": "和声 BACKGROUND VOCALS：林俊杰 JJ LIN",
+          "segments": [
+            "和声 BACKGROUND VOCALS：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "220495|录音室 RECORDING STUDIO：THE JFJ SINGULARITY（Taipei）",
+          "text": "录音室 RECORDING STUDIO：THE JFJ SINGULARITY（Taipei）",
+          "segments": [
+            "录音室 RECORDING STUDIO：",
+            "THE JFJ SINGULARITY（Taipei）"
+          ]
+        },
+        {
+          "key": "221835|录音师 RECORDING ENGINEER：Billy Koh",
+          "text": "录音师 RECORDING ENGINEER：Billy Koh",
+          "segments": [
+            "录音师 RECORDING ENGINEER：",
+            "Billy Koh"
+          ]
+        },
+        {
+          "key": "222848|混音室 MIXING STUDIO：mixHaus (Encino, CA)",
+          "text": "混音室 MIXING STUDIO：mixHaus (Encino, CA)",
+          "segments": [
+            "混音室 MIXING STUDIO：",
+            "mixHaus (Encino, CA)"
+          ]
+        },
+        {
+          "key": "223909|混音师 MIXING ENGINEER：Richard Furch",
+          "text": "混音师 MIXING ENGINEER：Richard Furch",
+          "segments": [
+            "混音师 MIXING ENGINEER：",
+            "Richard Furch"
+          ]
+        },
+        {
+          "key": "224946|后期母带处理制作人 MASTERING PRODUCER：林俊杰 JJ LIN",
+          "text": "后期母带处理制作人 MASTERING PRODUCER：林俊杰 JJ LIN",
+          "segments": [
+            "后期母带处理制作人 MASTERING PRODUCER：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "227143|后期母带处理录音室 MASTERING STUDIO：Bernie Grundman Mastering, LA",
+          "text": "后期母带处理录音室 MASTERING STUDIO：Bernie Grundman Mastering, LA",
+          "segments": [
+            "后期母带处理录音室 MASTERING STUDIO：",
+            "Bernie Grundman Mastering, LA"
+          ]
+        },
+        {
+          "key": "229120|后期母带处理录音师 MASTERING ENGINEER：Mike Bozzi",
+          "text": "后期母带处理录音师 MASTERING ENGINEER：Mike Bozzi",
+          "segments": [
+            "后期母带处理录音师 MASTERING ENGINEER：",
+            "Mike Bozzi"
+          ]
+        }
+      ]
+    }
+  ]
+}

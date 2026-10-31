@@ -1,0 +1,1043 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:c0e3dd71dbf95adbb128f09988ef8ba7",
+      "lines": [
+        {
+          "key": "0|Professor Green - In The Shadow Of The Sun",
+          "text": "Professor Green - In The Shadow Of The Sun",
+          "segments": [
+            "Professor Green",
+            " - ",
+            "In The Shadow Of The Sun"
+          ]
+        },
+        {
+          "key": "180|Composed by：Alex Schwar",
+          "text": "Composed by：Alex Schwar",
+          "segments": [
+            "Composed by：",
+            "Alex Schwar"
+          ]
+        },
+        {
+          "key": "379|Max Elto：",
+          "text": "Max Elto：",
+          "segments": [
+            "Max Elto",
+            "："
+          ]
+        },
+        {
+          "key": "443|They say that life is always easier",
+          "text": "They say that life is always easier",
+          "segments": [
+            "They ",
+            "say ",
+            "that ",
+            "life ",
+            "is ",
+            "always ",
+            "easier"
+          ]
+        },
+        {
+          "key": "5771|After you let yourself come undone",
+          "text": "After you let yourself come undone",
+          "segments": [
+            "After ",
+            "you ",
+            "let ",
+            "yourself ",
+            "come ",
+            "undone"
+          ]
+        },
+        {
+          "key": "11140|They say they'll give you whatever you want",
+          "text": "They say they'll give you whatever you want",
+          "segments": [
+            "They ",
+            "say ",
+            "they'll ",
+            "give ",
+            "you ",
+            "whatever ",
+            "you ",
+            "want"
+          ]
+        },
+        {
+          "key": "16061|And I'll be waiting in the shadow of the sun",
+          "text": "And I'll be waiting in the shadow of the sun",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "waiting ",
+            "in ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "sun"
+          ]
+        },
+        {
+          "key": "19473|Seizing time where no one's been before",
+          "text": "Seizing time where no one's been before",
+          "segments": [
+            "Seizing ",
+            "time ",
+            "where ",
+            "no ",
+            "one's ",
+            "been ",
+            "before"
+          ]
+        },
+        {
+          "key": "23252|Close the curtains what you waiting for",
+          "text": "Close the curtains what you waiting for",
+          "segments": [
+            "Close ",
+            "the ",
+            "curtains ",
+            "what ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "27236|And I'll be keeping secrets",
+          "text": "And I'll be keeping secrets",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "keeping ",
+            "secrets"
+          ]
+        },
+        {
+          "key": "31028|Till I'm in the ground",
+          "text": "Till I'm in the ground",
+          "segments": [
+            "Till ",
+            "I'm ",
+            "in ",
+            "the ",
+            "ground"
+          ]
+        },
+        {
+          "key": "33020|Professor Green：",
+          "text": "Professor Green：",
+          "segments": [
+            "Professor Green",
+            "："
+          ]
+        },
+        {
+          "key": "37438|Keep your past your own I don't care about before",
+          "text": "Keep your past your own I don't care about before",
+          "segments": [
+            "Keep ",
+            "your ",
+            "past ",
+            "your ",
+            "own ",
+            "I ",
+            "don't ",
+            "care ",
+            "about ",
+            "before"
+          ]
+        },
+        {
+          "key": "40865|I don't wanna know your secrets I wanna help you keep yours",
+          "text": "I don't wanna know your secrets I wanna help you keep yours",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "know ",
+            "your ",
+            "secrets ",
+            "I ",
+            "wanna ",
+            "help ",
+            "you ",
+            "keep ",
+            "yours"
+          ]
+        },
+        {
+          "key": "45187|No one needs to no one'll ever know what we do",
+          "text": "No one needs to no one'll ever know what we do",
+          "segments": [
+            "No ",
+            "one ",
+            "needs ",
+            "to ",
+            "no ",
+            "one'll ",
+            "ever ",
+            "know ",
+            "what ",
+            "we ",
+            "do"
+          ]
+        },
+        {
+          "key": "48175|Where we go why don't we go to a place where only we know",
+          "text": "Where we go why don't we go to a place where only we know",
+          "segments": [
+            "Where ",
+            "we ",
+            "go ",
+            "why ",
+            "don't ",
+            "we ",
+            "go ",
+            "to ",
+            "a ",
+            "place ",
+            "where ",
+            "only ",
+            "we ",
+            "know"
+          ]
+        },
+        {
+          "key": "51882|Where we escape from real life and it feels good and it feels nice",
+          "text": "Where we escape from real life and it feels good and it feels nice",
+          "segments": [
+            "Where ",
+            "we ",
+            "escape ",
+            "from ",
+            "real ",
+            "life ",
+            "and ",
+            "it ",
+            "feels ",
+            "good ",
+            "and ",
+            "it ",
+            "feels ",
+            "nice"
+          ]
+        },
+        {
+          "key": "55703|That we ain't yet but we still might",
+          "text": "That we ain't yet but we still might",
+          "segments": [
+            "That ",
+            "we ",
+            "ain't ",
+            "yet ",
+            "but ",
+            "we ",
+            "still ",
+            "might"
+          ]
+        },
+        {
+          "key": "57470|Cause we go with it if it feels right",
+          "text": "Cause we go with it if it feels right",
+          "segments": [
+            "Cause ",
+            "we ",
+            "go ",
+            "with ",
+            "it ",
+            "if ",
+            "it ",
+            "feels ",
+            "right"
+          ]
+        },
+        {
+          "key": "59599|And it feels feels amazing",
+          "text": "And it feels feels amazing",
+          "segments": [
+            "And ",
+            "it ",
+            "feels ",
+            "feels ",
+            "amazing"
+          ]
+        },
+        {
+          "key": "64495|We ain't ready to see the day",
+          "text": "We ain't ready to see the day",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ready ",
+            "to ",
+            "see ",
+            "the ",
+            "day"
+          ]
+        },
+        {
+          "key": "65640|Max Elto：",
+          "text": "Max Elto：",
+          "segments": [
+            "Max Elto",
+            "："
+          ]
+        },
+        {
+          "key": "65703|And I'll be waiting in the shadow of the sun",
+          "text": "And I'll be waiting in the shadow of the sun",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "waiting ",
+            "in ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "sun"
+          ]
+        },
+        {
+          "key": "68001|Seizing time where no one's been before",
+          "text": "Seizing time where no one's been before",
+          "segments": [
+            "Seizing ",
+            "time ",
+            "where ",
+            "no ",
+            "one's ",
+            "been ",
+            "before"
+          ]
+        },
+        {
+          "key": "71786|Close the curtains what you waiting for",
+          "text": "Close the curtains what you waiting for",
+          "segments": [
+            "Close ",
+            "the ",
+            "curtains ",
+            "what ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "75345|And I'll be keeping secrets",
+          "text": "And I'll be keeping secrets",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "keeping ",
+            "secrets"
+          ]
+        },
+        {
+          "key": "79394|And I'll be waiting in the shadow of the sun",
+          "text": "And I'll be waiting in the shadow of the sun",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "waiting ",
+            "in ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "sun"
+          ]
+        },
+        {
+          "key": "82897|Seizing time where no one's been before",
+          "text": "Seizing time where no one's been before",
+          "segments": [
+            "Seizing ",
+            "time ",
+            "where ",
+            "no ",
+            "one's ",
+            "been ",
+            "before"
+          ]
+        },
+        {
+          "key": "86618|Close the curtains what you waiting for",
+          "text": "Close the curtains what you waiting for",
+          "segments": [
+            "Close ",
+            "the ",
+            "curtains ",
+            "what ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "90017|And I'll be keeping secrets",
+          "text": "And I'll be keeping secrets",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "keeping ",
+            "secrets"
+          ]
+        },
+        {
+          "key": "94153|Till I'm in the ground",
+          "text": "Till I'm in the ground",
+          "segments": [
+            "Till ",
+            "I'm ",
+            "in ",
+            "the ",
+            "ground"
+          ]
+        },
+        {
+          "key": "96033|Professor Green：",
+          "text": "Professor Green：",
+          "segments": [
+            "Professor Green",
+            "："
+          ]
+        },
+        {
+          "key": "97153|Let go of fear",
+          "text": "Let go of fear",
+          "segments": [
+            "Let ",
+            "go ",
+            "of ",
+            "fear"
+          ]
+        },
+        {
+          "key": "98366|This can be a secret that we both keep that we both share",
+          "text": "This can be a secret that we both keep that we both share",
+          "segments": [
+            "This ",
+            "can ",
+            "be ",
+            "a ",
+            "secret ",
+            "that ",
+            "we ",
+            "both ",
+            "keep ",
+            "that ",
+            "we ",
+            "both ",
+            "share"
+          ]
+        },
+        {
+          "key": "100929|Hidden behind the smiles we both wear",
+          "text": "Hidden behind the smiles we both wear",
+          "segments": [
+            "Hidden ",
+            "behind ",
+            "the ",
+            "smiles ",
+            "we ",
+            "both ",
+            "wear"
+          ]
+        },
+        {
+          "key": "103570|As the sun creeps through the curtains",
+          "text": "As the sun creeps through the curtains",
+          "segments": [
+            "As ",
+            "the ",
+            "sun ",
+            "creeps ",
+            "through ",
+            "the ",
+            "curtains"
+          ]
+        },
+        {
+          "key": "105505|On the walls we become two silhouettes",
+          "text": "On the walls we become two silhouettes",
+          "segments": [
+            "On ",
+            "the ",
+            "walls ",
+            "we ",
+            "become ",
+            "two ",
+            "silhouettes"
+          ]
+        },
+        {
+          "key": "108265|As we close our eyes",
+          "text": "As we close our eyes",
+          "segments": [
+            "As ",
+            "we ",
+            "close ",
+            "our ",
+            "eyes"
+          ]
+        },
+        {
+          "key": "109337|Let go of the lies that fill our heads",
+          "text": "Let go of the lies that fill our heads",
+          "segments": [
+            "Let ",
+            "go ",
+            "of ",
+            "the ",
+            "lies ",
+            "that ",
+            "fill ",
+            "our ",
+            "heads"
+          ]
+        },
+        {
+          "key": "112129|Let's light it up live life in the moment",
+          "text": "Let's light it up live life in the moment",
+          "segments": [
+            "Let's ",
+            "light ",
+            "it ",
+            "up ",
+            "live ",
+            "life ",
+            "in ",
+            "the ",
+            "moment"
+          ]
+        },
+        {
+          "key": "114555|Why would we worry about where we might end up",
+          "text": "Why would we worry about where we might end up",
+          "segments": [
+            "Why ",
+            "would ",
+            "we ",
+            "worry ",
+            "about ",
+            "where ",
+            "we ",
+            "might ",
+            "end ",
+            "up"
+          ]
+        },
+        {
+          "key": "117301|They can't see us they can't judge us it's just us",
+          "text": "They can't see us they can't judge us it's just us",
+          "segments": [
+            "They ",
+            "can't ",
+            "see ",
+            "us ",
+            "they ",
+            "can't ",
+            "judge ",
+            "us ",
+            "it's ",
+            "just ",
+            "us"
+          ]
+        },
+        {
+          "key": "121027|They might wonder but only know where we go",
+          "text": "They might wonder but only know where we go",
+          "segments": [
+            "They ",
+            "might ",
+            "wonder ",
+            "but ",
+            "only ",
+            "know ",
+            "where ",
+            "we ",
+            "go"
+          ]
+        },
+        {
+          "key": "123905|When the sun comes up",
+          "text": "When the sun comes up",
+          "segments": [
+            "When ",
+            "the ",
+            "sun ",
+            "comes ",
+            "up"
+          ]
+        },
+        {
+          "key": "124664|Max Elto：",
+          "text": "Max Elto：",
+          "segments": [
+            "Max Elto",
+            "："
+          ]
+        },
+        {
+          "key": "124726|And I'll be waiting in the shadow of the sun",
+          "text": "And I'll be waiting in the shadow of the sun",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "waiting ",
+            "in ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "sun"
+          ]
+        },
+        {
+          "key": "127543|Seizing time where no one's been before",
+          "text": "Seizing time where no one's been before",
+          "segments": [
+            "Seizing ",
+            "time ",
+            "where ",
+            "no ",
+            "one's ",
+            "been ",
+            "before"
+          ]
+        },
+        {
+          "key": "131175|Close the curtains what you waiting for",
+          "text": "Close the curtains what you waiting for",
+          "segments": [
+            "Close ",
+            "the ",
+            "curtains ",
+            "what ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "134704|And I'll be keeping secrets",
+          "text": "And I'll be keeping secrets",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "keeping ",
+            "secrets"
+          ]
+        },
+        {
+          "key": "138632|And I'll be waiting in the shadow of the sun",
+          "text": "And I'll be waiting in the shadow of the sun",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "waiting ",
+            "in ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "sun"
+          ]
+        },
+        {
+          "key": "142449|Seizing time where no one's been before",
+          "text": "Seizing time where no one's been before",
+          "segments": [
+            "Seizing ",
+            "time ",
+            "where ",
+            "no ",
+            "one's ",
+            "been ",
+            "before"
+          ]
+        },
+        {
+          "key": "146050|Close the curtains what you waiting for",
+          "text": "Close the curtains what you waiting for",
+          "segments": [
+            "Close ",
+            "the ",
+            "curtains ",
+            "what ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "149554|And I'll be keeping secrets",
+          "text": "And I'll be keeping secrets",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "keeping ",
+            "secrets"
+          ]
+        },
+        {
+          "key": "153594|Till I'm in the ground",
+          "text": "Till I'm in the ground",
+          "segments": [
+            "Till ",
+            "I'm ",
+            "in ",
+            "the ",
+            "ground"
+          ]
+        },
+        {
+          "key": "156274|I'm in the shadow of the shadow of the sun",
+          "text": "I'm in the shadow of the shadow of the sun",
+          "segments": [
+            "I'm ",
+            "in ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "sun"
+          ]
+        },
+        {
+          "key": "159398|Where I belong girl there's something coming on",
+          "text": "Where I belong girl there's something coming on",
+          "segments": [
+            "Where ",
+            "I ",
+            "belong ",
+            "girl ",
+            "there's ",
+            "something ",
+            "coming ",
+            "on"
+          ]
+        },
+        {
+          "key": "163678|I'm in the shadow of the shadow of the sun",
+          "text": "I'm in the shadow of the shadow of the sun",
+          "segments": [
+            "I'm ",
+            "in ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "sun"
+          ]
+        },
+        {
+          "key": "167814|Oh and I need you",
+          "text": "Oh and I need you",
+          "segments": [
+            "Oh ",
+            "and ",
+            "I ",
+            "need ",
+            "you"
+          ]
+        },
+        {
+          "key": "170424|Professor Green：",
+          "text": "Professor Green：",
+          "segments": [
+            "Professor Green",
+            "："
+          ]
+        },
+        {
+          "key": "171024|Chasing it chasing it",
+          "text": "Chasing it chasing it",
+          "segments": [
+            "Chasing ",
+            "it ",
+            "chasing ",
+            "it"
+          ]
+        },
+        {
+          "key": "172642|I don't know what I'm chasing is",
+          "text": "I don't know what I'm chasing is",
+          "segments": [
+            "I ",
+            "don't ",
+            "know ",
+            "what ",
+            "I'm ",
+            "chasing ",
+            "is"
+          ]
+        },
+        {
+          "key": "174814|All I know is I've been craving it",
+          "text": "All I know is I've been craving it",
+          "segments": [
+            "All ",
+            "I ",
+            "know ",
+            "is ",
+            "I've ",
+            "been ",
+            "craving ",
+            "it"
+          ]
+        },
+        {
+          "key": "176630|Ever since I had a taste of it",
+          "text": "Ever since I had a taste of it",
+          "segments": [
+            "Ever ",
+            "since ",
+            "I ",
+            "had ",
+            "a ",
+            "taste ",
+            "of ",
+            "it"
+          ]
+        },
+        {
+          "key": "178382|Life is what you make of it",
+          "text": "Life is what you make of it",
+          "segments": [
+            "Life ",
+            "is ",
+            "what ",
+            "you ",
+            "make ",
+            "of ",
+            "it"
+          ]
+        },
+        {
+          "key": "180046|We're just here writing our own books",
+          "text": "We're just here writing our own books",
+          "segments": [
+            "We're ",
+            "just ",
+            "here ",
+            "writing ",
+            "our ",
+            "own ",
+            "books"
+          ]
+        },
+        {
+          "key": "182517|This is just a page of it",
+          "text": "This is just a page of it",
+          "segments": [
+            "This ",
+            "is ",
+            "just ",
+            "a ",
+            "page ",
+            "of ",
+            "it"
+          ]
+        },
+        {
+          "key": "183905|Before you wave your fingers at us",
+          "text": "Before you wave your fingers at us",
+          "segments": [
+            "Before ",
+            "you ",
+            "wave ",
+            "your ",
+            "fingers ",
+            "at ",
+            "us"
+          ]
+        },
+        {
+          "key": "185436|You better make sure your hands are clean",
+          "text": "You better make sure your hands are clean",
+          "segments": [
+            "You ",
+            "better ",
+            "make ",
+            "sure ",
+            "your ",
+            "hands ",
+            "are ",
+            "clean"
+          ]
+        },
+        {
+          "key": "187611|We all obey our hands are tied",
+          "text": "We all obey our hands are tied",
+          "segments": [
+            "We ",
+            "all ",
+            "obey ",
+            "our ",
+            "hands ",
+            "are ",
+            "tied"
+          ]
+        },
+        {
+          "key": "189677|And I don't wanna have to leave",
+          "text": "And I don't wanna have to leave",
+          "segments": [
+            "And ",
+            "I ",
+            "don't ",
+            "wanna ",
+            "have ",
+            "to ",
+            "leave"
+          ]
+        },
+        {
+          "key": "191637|I don't wanna say goodbye",
+          "text": "I don't wanna say goodbye",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "say ",
+            "goodbye"
+          ]
+        },
+        {
+          "key": "193821|They say life is always easier when you come undone",
+          "text": "They say life is always easier when you come undone",
+          "segments": [
+            "They ",
+            "say ",
+            "life ",
+            "is ",
+            "always ",
+            "easier ",
+            "when ",
+            "you ",
+            "come ",
+            "undone"
+          ]
+        },
+        {
+          "key": "197450|When I go you'll know where I've gone",
+          "text": "When I go you'll know where I've gone",
+          "segments": [
+            "When ",
+            "I ",
+            "go ",
+            "you'll ",
+            "know ",
+            "where ",
+            "I've ",
+            "gone"
+          ]
+        },
+        {
+          "key": "200156|And I'll be waiting in the shadow of the sun",
+          "text": "And I'll be waiting in the shadow of the sun",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "waiting ",
+            "in ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "sun"
+          ]
+        },
+        {
+          "key": "215208|I'll be waiting in the shadow of the sun",
+          "text": "I'll be waiting in the shadow of the sun",
+          "segments": [
+            "I'll ",
+            "be ",
+            "waiting ",
+            "in ",
+            "the ",
+            "shadow ",
+            "of ",
+            "the ",
+            "sun"
+          ]
+        },
+        {
+          "key": "218701|Seizing time where no one's been before",
+          "text": "Seizing time where no one's been before",
+          "segments": [
+            "Seizing ",
+            "time ",
+            "where ",
+            "no ",
+            "one's ",
+            "been ",
+            "before"
+          ]
+        },
+        {
+          "key": "222405|Close the curtains what you waiting for",
+          "text": "Close the curtains what you waiting for",
+          "segments": [
+            "Close ",
+            "the ",
+            "curtains ",
+            "what ",
+            "you ",
+            "waiting ",
+            "for"
+          ]
+        },
+        {
+          "key": "225901|And I'll be keeping secrets",
+          "text": "And I'll be keeping secrets",
+          "segments": [
+            "And ",
+            "I'll ",
+            "be ",
+            "keeping ",
+            "secrets"
+          ]
+        },
+        {
+          "key": "230070|Till I'm in the ground",
+          "text": "Till I'm in the ground",
+          "segments": [
+            "Till ",
+            "I'm ",
+            "in ",
+            "the ",
+            "ground"
+          ]
+        }
+      ]
+    }
+  ]
+}

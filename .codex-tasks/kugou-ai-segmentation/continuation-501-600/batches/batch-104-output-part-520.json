@@ -1,0 +1,866 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:9823a4e107ac76ad8b4934c89decb478",
+      "lines": [
+        {
+          "key": "0|Taylor Swift - Say Don't Go (Taylor's Version)",
+          "text": "Taylor Swift - Say Don't Go (Taylor's Version)",
+          "segments": [
+            "Taylor Swift ",
+            "- ",
+            "Say Don't Go (Taylor's Version)"
+          ]
+        },
+        {
+          "key": "1808|Lyrics by：Taylor Swift、Diane Warren",
+          "text": "Lyrics by：Taylor Swift、Diane Warren",
+          "segments": [
+            "Lyrics by：",
+            "Taylor Swift、",
+            "Diane Warren"
+          ]
+        },
+        {
+          "key": "3183|Composed by：Taylor Swift、Diane Warren",
+          "text": "Composed by：Taylor Swift、Diane Warren",
+          "segments": [
+            "Composed by：",
+            "Taylor Swift、",
+            "Diane Warren"
+          ]
+        },
+        {
+          "key": "4638|Produced by：Jack Antonoff、Taylor Swift",
+          "text": "Produced by：Jack Antonoff、Taylor Swift",
+          "segments": [
+            "Produced by：",
+            "Jack Antonoff、",
+            "Taylor Swift"
+          ]
+        },
+        {
+          "key": "6132|I've known it from the very start",
+          "text": "I've known it from the very start",
+          "segments": [
+            "I've ",
+            "known ",
+            "it ",
+            "from ",
+            "the ",
+            "very ",
+            "start"
+          ]
+        },
+        {
+          "key": "10202|We're a shot in the darkest dark",
+          "text": "We're a shot in the darkest dark",
+          "segments": [
+            "We're ",
+            "a ",
+            "shot ",
+            "in ",
+            "the ",
+            "darkest ",
+            "dark"
+          ]
+        },
+        {
+          "key": "13792|Oh no oh no I'm unarmed",
+          "text": "Oh no oh no I'm unarmed",
+          "segments": [
+            "Oh ",
+            "no ",
+            "oh ",
+            "no ",
+            "I'm ",
+            "unarmed"
+          ]
+        },
+        {
+          "key": "19242|The waiting is a sadness",
+          "text": "The waiting is a sadness",
+          "segments": [
+            "The ",
+            "waiting ",
+            "is ",
+            "a ",
+            "sadness"
+          ]
+        },
+        {
+          "key": "23782|Fading into madness",
+          "text": "Fading into madness",
+          "segments": [
+            "Fading ",
+            "into ",
+            "madness"
+          ]
+        },
+        {
+          "key": "26942|Oh no oh no it won't stop",
+          "text": "Oh no oh no it won't stop",
+          "segments": [
+            "Oh ",
+            "no ",
+            "oh ",
+            "no ",
+            "it ",
+            "won't ",
+            "stop"
+          ]
+        },
+        {
+          "key": "31552|I'm standin' on a tightrope alone",
+          "text": "I'm standin' on a tightrope alone",
+          "segments": [
+            "I'm ",
+            "standin' ",
+            "on ",
+            "a ",
+            "tightrope ",
+            "alone"
+          ]
+        },
+        {
+          "key": "36972|I hold my breath a little bit longer",
+          "text": "I hold my breath a little bit longer",
+          "segments": [
+            "I ",
+            "hold ",
+            "my ",
+            "breath ",
+            "a ",
+            "little ",
+            "bit ",
+            "longer"
+          ]
+        },
+        {
+          "key": "40532|Halfway out the door but it won't close",
+          "text": "Halfway out the door but it won't close",
+          "segments": [
+            "Halfway ",
+            "out ",
+            "the ",
+            "door ",
+            "but ",
+            "it ",
+            "won't ",
+            "close"
+          ]
+        },
+        {
+          "key": "45722|I'm holdin' out hope for you to say Don't go",
+          "text": "I'm holdin' out hope for you to say Don't go",
+          "segments": [
+            "I'm ",
+            "holdin' ",
+            "out ",
+            "hope ",
+            "for ",
+            "you ",
+            "to ",
+            "say ",
+            "Don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "54682|I would stay forever if you say Don't go",
+          "text": "I would stay forever if you say Don't go",
+          "segments": [
+            "I ",
+            "would ",
+            "stay ",
+            "forever ",
+            "if ",
+            "you ",
+            "say ",
+            "Don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "66112|Why'd you have to lead me on",
+          "text": "Why'd you have to lead me on",
+          "segments": [
+            "Why'd ",
+            "you ",
+            "have ",
+            "to ",
+            "lead ",
+            "me ",
+            "on"
+          ]
+        },
+        {
+          "key": "68352|Why you'd have to twist the knife",
+          "text": "Why you'd have to twist the knife",
+          "segments": [
+            "Why ",
+            "you'd ",
+            "have ",
+            "to ",
+            "twist ",
+            "the ",
+            "knife"
+          ]
+        },
+        {
+          "key": "70542|Walk away and leave me bleedin' bleedin'",
+          "text": "Walk away and leave me bleedin' bleedin'",
+          "segments": [
+            "Walk ",
+            "away ",
+            "and ",
+            "leave ",
+            "me ",
+            "bleedin' ",
+            "bleedin'"
+          ]
+        },
+        {
+          "key": "74832|Why'd you whisper in the dark",
+          "text": "Why'd you whisper in the dark",
+          "segments": [
+            "Why'd ",
+            "you ",
+            "whisper ",
+            "in ",
+            "the ",
+            "dark"
+          ]
+        },
+        {
+          "key": "77132|Just to leave me in the night",
+          "text": "Just to leave me in the night",
+          "segments": [
+            "Just ",
+            "to ",
+            "leave ",
+            "me ",
+            "in ",
+            "the ",
+            "night"
+          ]
+        },
+        {
+          "key": "79252|Now your silence has me screamin' screamin'",
+          "text": "Now your silence has me screamin' screamin'",
+          "segments": [
+            "Now ",
+            "your ",
+            "silence ",
+            "has ",
+            "me ",
+            "screamin' ",
+            "screamin'"
+          ]
+        },
+        {
+          "key": "83585|Say Say Don't Don't Go go",
+          "text": "Say Say Don't Don't Go go",
+          "segments": [
+            "Say ",
+            "Say ",
+            "Don't ",
+            "Don't ",
+            "Go ",
+            "go"
+          ]
+        },
+        {
+          "key": "89602|I would stay forever if you Say say",
+          "text": "I would stay forever if you Say say",
+          "segments": [
+            "I ",
+            "would ",
+            "stay ",
+            "forever ",
+            "if ",
+            "you ",
+            "Say ",
+            "say"
+          ]
+        },
+        {
+          "key": "94275|Don't Don't Go go",
+          "text": "Don't Don't Go go",
+          "segments": [
+            "Don't ",
+            "Don't ",
+            "Go ",
+            "go"
+          ]
+        },
+        {
+          "key": "98592|Say say say say",
+          "text": "Say say say say",
+          "segments": [
+            "Say ",
+            "say ",
+            "say ",
+            "say"
+          ]
+        },
+        {
+          "key": "101872|Now I'm pacin' on shaky ground",
+          "text": "Now I'm pacin' on shaky ground",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "pacin' ",
+            "on ",
+            "shaky ",
+            "ground"
+          ]
+        },
+        {
+          "key": "105822|Strike a match then you blow it out",
+          "text": "Strike a match then you blow it out",
+          "segments": [
+            "Strike ",
+            "a ",
+            "match ",
+            "then ",
+            "you ",
+            "blow ",
+            "it ",
+            "out"
+          ]
+        },
+        {
+          "key": "109812|Oh no oh no it's not fair",
+          "text": "Oh no oh no it's not fair",
+          "segments": [
+            "Oh ",
+            "no ",
+            "oh ",
+            "no ",
+            "it's ",
+            "not ",
+            "fair"
+          ]
+        },
+        {
+          "key": "114982|'Cause you kiss me and it stops time",
+          "text": "'Cause you kiss me and it stops time",
+          "segments": [
+            "'Cause ",
+            "you ",
+            "kiss ",
+            "me ",
+            "and ",
+            "it ",
+            "stops ",
+            "time"
+          ]
+        },
+        {
+          "key": "117582|And I'm yours but you're not mine",
+          "text": "And I'm yours but you're not mine",
+          "segments": [
+            "And ",
+            "I'm ",
+            "yours ",
+            "but ",
+            "you're ",
+            "not ",
+            "mine"
+          ]
+        },
+        {
+          "key": "122932|Oh no oh no you're not there",
+          "text": "Oh no oh no you're not there",
+          "segments": [
+            "Oh ",
+            "no ",
+            "oh ",
+            "no ",
+            "you're ",
+            "not ",
+            "there"
+          ]
+        },
+        {
+          "key": "127552|I'm standin' on the sidewalk alone",
+          "text": "I'm standin' on the sidewalk alone",
+          "segments": [
+            "I'm ",
+            "standin' ",
+            "on ",
+            "the ",
+            "sidewalk ",
+            "alone"
+          ]
+        },
+        {
+          "key": "132982|I wait for you to drive by",
+          "text": "I wait for you to drive by",
+          "segments": [
+            "I ",
+            "wait ",
+            "for ",
+            "you ",
+            "to ",
+            "drive ",
+            "by"
+          ]
+        },
+        {
+          "key": "136312|I'm tryna see the cards that you won't show",
+          "text": "I'm tryna see the cards that you won't show",
+          "segments": [
+            "I'm ",
+            "tryna ",
+            "see ",
+            "the ",
+            "cards ",
+            "that ",
+            "you ",
+            "won't ",
+            "show"
+          ]
+        },
+        {
+          "key": "141902|I'm about to fold unless you Say say",
+          "text": "I'm about to fold unless you Say say",
+          "segments": [
+            "I'm ",
+            "about ",
+            "to ",
+            "fold ",
+            "unless ",
+            "you ",
+            "Say ",
+            "say"
+          ]
+        },
+        {
+          "key": "146372|Don't Don't Go go",
+          "text": "Don't Don't Go go",
+          "segments": [
+            "Don't ",
+            "Don't ",
+            "Go ",
+            "go"
+          ]
+        },
+        {
+          "key": "150702|I would stay forever if you Say say",
+          "text": "I would stay forever if you Say say",
+          "segments": [
+            "I ",
+            "would ",
+            "stay ",
+            "forever ",
+            "if ",
+            "you ",
+            "Say ",
+            "say"
+          ]
+        },
+        {
+          "key": "155257|Don't Don't Go go",
+          "text": "Don't Don't Go go",
+          "segments": [
+            "Don't ",
+            "Don't ",
+            "Go ",
+            "go"
+          ]
+        },
+        {
+          "key": "162142|Why'd you have to lead me on",
+          "text": "Why'd you have to lead me on",
+          "segments": [
+            "Why'd ",
+            "you ",
+            "have ",
+            "to ",
+            "lead ",
+            "me ",
+            "on"
+          ]
+        },
+        {
+          "key": "164342|Why you'd have to twist the knife",
+          "text": "Why you'd have to twist the knife",
+          "segments": [
+            "Why ",
+            "you'd ",
+            "have ",
+            "to ",
+            "twist ",
+            "the ",
+            "knife"
+          ]
+        },
+        {
+          "key": "166532|Walk away and leave me bleedin' bleedin'",
+          "text": "Walk away and leave me bleedin' bleedin'",
+          "segments": [
+            "Walk ",
+            "away ",
+            "and ",
+            "leave ",
+            "me ",
+            "bleedin' ",
+            "bleedin'"
+          ]
+        },
+        {
+          "key": "170852|Why'd you whisper in the dark",
+          "text": "Why'd you whisper in the dark",
+          "segments": [
+            "Why'd ",
+            "you ",
+            "whisper ",
+            "in ",
+            "the ",
+            "dark"
+          ]
+        },
+        {
+          "key": "173122|Just to leave me in the night",
+          "text": "Just to leave me in the night",
+          "segments": [
+            "Just ",
+            "to ",
+            "leave ",
+            "me ",
+            "in ",
+            "the ",
+            "night"
+          ]
+        },
+        {
+          "key": "175282|Now your silence has me screamin' screamin'",
+          "text": "Now your silence has me screamin' screamin'",
+          "segments": [
+            "Now ",
+            "your ",
+            "silence ",
+            "has ",
+            "me ",
+            "screamin' ",
+            "screamin'"
+          ]
+        },
+        {
+          "key": "179202|Say Say Don't Don't Go go",
+          "text": "Say Say Don't Don't Go go",
+          "segments": [
+            "Say ",
+            "Say ",
+            "Don't ",
+            "Don't ",
+            "Go ",
+            "go"
+          ]
+        },
+        {
+          "key": "185612|I would stay forever if you Say say",
+          "text": "I would stay forever if you Say say",
+          "segments": [
+            "I ",
+            "would ",
+            "stay ",
+            "forever ",
+            "if ",
+            "you ",
+            "Say ",
+            "say"
+          ]
+        },
+        {
+          "key": "189972|Don't Don't Go go",
+          "text": "Don't Don't Go go",
+          "segments": [
+            "Don't ",
+            "Don't ",
+            "Go ",
+            "go"
+          ]
+        },
+        {
+          "key": "194602|Say say say say",
+          "text": "Say say say say",
+          "segments": [
+            "Say ",
+            "say ",
+            "say ",
+            "say"
+          ]
+        },
+        {
+          "key": "197086|Why'd you have to Why'd you have to",
+          "text": "Why'd you have to Why'd you have to",
+          "segments": [
+            "Why'd ",
+            "you ",
+            "have ",
+            "to ",
+            "Why'd ",
+            "you ",
+            "have ",
+            "to"
+          ]
+        },
+        {
+          "key": "199222|Make me want you Make me want you",
+          "text": "Make me want you Make me want you",
+          "segments": [
+            "Make ",
+            "me ",
+            "want ",
+            "you ",
+            "Make ",
+            "me ",
+            "want ",
+            "you"
+          ]
+        },
+        {
+          "key": "201694|Why'd you have to Why'd you have to",
+          "text": "Why'd you have to Why'd you have to",
+          "segments": [
+            "Why'd ",
+            "you ",
+            "have ",
+            "to ",
+            "Why'd ",
+            "you ",
+            "have ",
+            "to"
+          ]
+        },
+        {
+          "key": "203612|Give me nothin' back",
+          "text": "Give me nothin' back",
+          "segments": [
+            "Give ",
+            "me ",
+            "nothin' ",
+            "back"
+          ]
+        },
+        {
+          "key": "206020|Why'd you have to Why'd you have to",
+          "text": "Why'd you have to Why'd you have to",
+          "segments": [
+            "Why'd ",
+            "you ",
+            "have ",
+            "to ",
+            "Why'd ",
+            "you ",
+            "have ",
+            "to"
+          ]
+        },
+        {
+          "key": "208111|Make me love you Make me love you",
+          "text": "Make me love you Make me love you",
+          "segments": [
+            "Make ",
+            "me ",
+            "love ",
+            "you ",
+            "Make ",
+            "me ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "209994|I said I love you you say nothin' back",
+          "text": "I said I love you you say nothin' back",
+          "segments": [
+            "I ",
+            "said ",
+            "I ",
+            "love ",
+            "you ",
+            "you ",
+            "say ",
+            "nothin' ",
+            "back"
+          ]
+        },
+        {
+          "key": "216652|Why'd you have to lead me on Oh",
+          "text": "Why'd you have to lead me on Oh",
+          "segments": [
+            "Why'd ",
+            "you ",
+            "have ",
+            "to ",
+            "lead ",
+            "me ",
+            "on ",
+            "Oh"
+          ]
+        },
+        {
+          "key": "218912|Why you'd have to twist the knife",
+          "text": "Why you'd have to twist the knife",
+          "segments": [
+            "Why ",
+            "you'd ",
+            "have ",
+            "to ",
+            "twist ",
+            "the ",
+            "knife"
+          ]
+        },
+        {
+          "key": "221082|Walk away and leave me bleedin' bleedin'",
+          "text": "Walk away and leave me bleedin' bleedin'",
+          "segments": [
+            "Walk ",
+            "away ",
+            "and ",
+            "leave ",
+            "me ",
+            "bleedin' ",
+            "bleedin'"
+          ]
+        },
+        {
+          "key": "225412|Why'd you whisper in the dark",
+          "text": "Why'd you whisper in the dark",
+          "segments": [
+            "Why'd ",
+            "you ",
+            "whisper ",
+            "in ",
+            "the ",
+            "dark"
+          ]
+        },
+        {
+          "key": "227632|Just to leave me in the night",
+          "text": "Just to leave me in the night",
+          "segments": [
+            "Just ",
+            "to ",
+            "leave ",
+            "me ",
+            "in ",
+            "the ",
+            "night"
+          ]
+        },
+        {
+          "key": "229812|Now your silence has me screamin' screamin' Woah",
+          "text": "Now your silence has me screamin' screamin' Woah",
+          "segments": [
+            "Now ",
+            "your ",
+            "silence ",
+            "has ",
+            "me ",
+            "screamin' ",
+            "screamin' ",
+            "Woah"
+          ]
+        },
+        {
+          "key": "233732|Say Say Don't Don't Go go",
+          "text": "Say Say Don't Don't Go go",
+          "segments": [
+            "Say ",
+            "Say ",
+            "Don't ",
+            "Don't ",
+            "Go ",
+            "go"
+          ]
+        },
+        {
+          "key": "240172|I would stay forever if you Say say",
+          "text": "I would stay forever if you Say say",
+          "segments": [
+            "I ",
+            "would ",
+            "stay ",
+            "forever ",
+            "if ",
+            "you ",
+            "Say ",
+            "say"
+          ]
+        },
+        {
+          "key": "244522|Don't Don't Go go woah",
+          "text": "Don't Don't Go go woah",
+          "segments": [
+            "Don't ",
+            "Don't ",
+            "Go ",
+            "go ",
+            "woah"
+          ]
+        },
+        {
+          "key": "249272|Say say say say",
+          "text": "Say say say say",
+          "segments": [
+            "Say ",
+            "say ",
+            "say ",
+            "say"
+          ]
+        },
+        {
+          "key": "250612|But you won't but you won't but you won't",
+          "text": "But you won't but you won't but you won't",
+          "segments": [
+            "But ",
+            "you ",
+            "won't ",
+            "but ",
+            "you ",
+            "won't ",
+            "but ",
+            "you ",
+            "won't"
+          ]
+        },
+        {
+          "key": "257602|I would stay forever if you say Don't go",
+          "text": "I would stay forever if you say Don't go",
+          "segments": [
+            "I ",
+            "would ",
+            "stay ",
+            "forever ",
+            "if ",
+            "you ",
+            "say ",
+            "Don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "267992|But you won't but you won't but you won't",
+          "text": "But you won't but you won't but you won't",
+          "segments": [
+            "But ",
+            "you ",
+            "won't ",
+            "but ",
+            "you ",
+            "won't ",
+            "but ",
+            "you ",
+            "won't"
+          ]
+        }
+      ]
+    }
+  ]
+}
