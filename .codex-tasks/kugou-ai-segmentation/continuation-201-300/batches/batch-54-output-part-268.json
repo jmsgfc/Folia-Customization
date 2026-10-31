@@ -1,0 +1,437 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:8c273a503e7e3e49a822bd3c40c6b2ed",
+      "lines": [
+        {
+          "key": "0|Try - Andrea Santiago",
+          "text": "Try - Andrea Santiago",
+          "segments": [
+            "Try",
+            " - ",
+            "Andrea Santiago"
+          ]
+        },
+        {
+          "key": "4830|Written by：busbee/Ben West/Kurder King",
+          "text": "Written by：busbee/Ben West/Kurder King",
+          "segments": [
+            "Written by：",
+            "busbee",
+            "/",
+            "Ben West",
+            "/",
+            "Kurder King"
+          ]
+        },
+        {
+          "key": "9669|Ever wonder 'bout what he's doin'",
+          "text": "Ever wonder 'bout what he's doin'",
+          "segments": [
+            "Ever ",
+            "wonder ",
+            "'",
+            "bout ",
+            "what ",
+            "he's ",
+            "doin",
+            "'"
+          ]
+        },
+        {
+          "key": "14307|How it all turned to lies",
+          "text": "How it all turned to lies",
+          "segments": [
+            "How ",
+            "it ",
+            "all ",
+            "turned ",
+            "to ",
+            "lies"
+          ]
+        },
+        {
+          "key": "19313|Sometimes I think that it's better",
+          "text": "Sometimes I think that it's better",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "think ",
+            "that ",
+            "it's ",
+            "better"
+          ]
+        },
+        {
+          "key": "23248|To never ask why",
+          "text": "To never ask why",
+          "segments": [
+            "To ",
+            "never ",
+            "ask ",
+            "why"
+          ]
+        },
+        {
+          "key": "36444|Where there is desire there is gonna be a flame",
+          "text": "Where there is desire there is gonna be a flame",
+          "segments": [
+            "Where ",
+            "there ",
+            "is ",
+            "desire ",
+            "there ",
+            "is ",
+            "gonna ",
+            "be ",
+            "a ",
+            "flame"
+          ]
+        },
+        {
+          "key": "40853|Where there is a flame someone's bound to get burned",
+          "text": "Where there is a flame someone's bound to get burned",
+          "segments": [
+            "Where ",
+            "there ",
+            "is ",
+            "a ",
+            "flame ",
+            "someone's ",
+            "bound ",
+            "to ",
+            "get ",
+            "burned"
+          ]
+        },
+        {
+          "key": "45337|But just because it burns doesn't mean you're gonna die",
+          "text": "But just because it burns doesn't mean you're gonna die",
+          "segments": [
+            "But ",
+            "just ",
+            "because ",
+            "it ",
+            "burns ",
+            "doesn't ",
+            "mean ",
+            "you're ",
+            "gonna ",
+            "die"
+          ]
+        },
+        {
+          "key": "49818|You gotta get up and try try try",
+          "text": "You gotta get up and try try try",
+          "segments": [
+            "You ",
+            "gotta ",
+            "get ",
+            "up ",
+            "and ",
+            "try ",
+            "try ",
+            "try"
+          ]
+        },
+        {
+          "key": "54730|Gotta get up and try try try",
+          "text": "Gotta get up and try try try",
+          "segments": [
+            "Gotta ",
+            "get ",
+            "up ",
+            "and ",
+            "try ",
+            "try ",
+            "try"
+          ]
+        },
+        {
+          "key": "59040|You gotta get up and try try try",
+          "text": "You gotta get up and try try try",
+          "segments": [
+            "You ",
+            "gotta ",
+            "get ",
+            "up ",
+            "and ",
+            "try ",
+            "try ",
+            "try"
+          ]
+        },
+        {
+          "key": "67437|Funny how the heart can be deceiving",
+          "text": "Funny how the heart can be deceiving",
+          "segments": [
+            "Funny ",
+            "how ",
+            "the ",
+            "heart ",
+            "can ",
+            "be ",
+            "deceiving"
+          ]
+        },
+        {
+          "key": "72013|More than just a couple times",
+          "text": "More than just a couple times",
+          "segments": [
+            "More ",
+            "than ",
+            "just ",
+            "a ",
+            "couple ",
+            "times"
+          ]
+        },
+        {
+          "key": "76988|Why do we fall in love so easy",
+          "text": "Why do we fall in love so easy",
+          "segments": [
+            "Why ",
+            "do ",
+            "we ",
+            "fall ",
+            "in ",
+            "love ",
+            "so ",
+            "easy"
+          ]
+        },
+        {
+          "key": "81296|Even when it's not right",
+          "text": "Even when it's not right",
+          "segments": [
+            "Even ",
+            "when ",
+            "it's ",
+            "not ",
+            "right"
+          ]
+        },
+        {
+          "key": "84620|Where there is desire there is gonna be a flame",
+          "text": "Where there is desire there is gonna be a flame",
+          "segments": [
+            "Where ",
+            "there ",
+            "is ",
+            "desire ",
+            "there ",
+            "is ",
+            "gonna ",
+            "be ",
+            "a ",
+            "flame"
+          ]
+        },
+        {
+          "key": "89268|Where there is a flame someone's bound to get burned",
+          "text": "Where there is a flame someone's bound to get burned",
+          "segments": [
+            "Where ",
+            "there ",
+            "is ",
+            "a ",
+            "flame ",
+            "someone's ",
+            "bound ",
+            "to ",
+            "get ",
+            "burned"
+          ]
+        },
+        {
+          "key": "93635|But just because it burns doesn't mean you're gonna die",
+          "text": "But just because it burns doesn't mean you're gonna die",
+          "segments": [
+            "But ",
+            "just ",
+            "because ",
+            "it ",
+            "burns ",
+            "doesn't ",
+            "mean ",
+            "you're ",
+            "gonna ",
+            "die"
+          ]
+        },
+        {
+          "key": "98213|You gotta get up and try try try",
+          "text": "You gotta get up and try try try",
+          "segments": [
+            "You ",
+            "gotta ",
+            "get ",
+            "up ",
+            "and ",
+            "try ",
+            "try ",
+            "try"
+          ]
+        },
+        {
+          "key": "103182|Gotta get up and try try try",
+          "text": "Gotta get up and try try try",
+          "segments": [
+            "Gotta ",
+            "get ",
+            "up ",
+            "and ",
+            "try ",
+            "try ",
+            "try"
+          ]
+        },
+        {
+          "key": "107502|You gotta get up and try try try",
+          "text": "You gotta get up and try try try",
+          "segments": [
+            "You ",
+            "gotta ",
+            "get ",
+            "up ",
+            "and ",
+            "try ",
+            "try ",
+            "try"
+          ]
+        },
+        {
+          "key": "113601|When you're out there doin' what you're doin'",
+          "text": "When you're out there doin' what you're doin'",
+          "segments": [
+            "When ",
+            "you're ",
+            "out ",
+            "there ",
+            "doin",
+            "' ",
+            "what ",
+            "you're ",
+            "doin",
+            "'"
+          ]
+        },
+        {
+          "key": "118153|Are you just getting by",
+          "text": "Are you just getting by",
+          "segments": [
+            "Are ",
+            "you ",
+            "just ",
+            "getting ",
+            "by"
+          ]
+        },
+        {
+          "key": "122215|Tell me are you just getting by by by",
+          "text": "Tell me are you just getting by by by",
+          "segments": [
+            "Tell ",
+            "me ",
+            "are ",
+            "you ",
+            "just ",
+            "getting ",
+            "by ",
+            "by ",
+            "by"
+          ]
+        },
+        {
+          "key": "125950|Where there is desire there is gonna be a flame",
+          "text": "Where there is desire there is gonna be a flame",
+          "segments": [
+            "Where ",
+            "there ",
+            "is ",
+            "desire ",
+            "there ",
+            "is ",
+            "gonna ",
+            "be ",
+            "a ",
+            "flame"
+          ]
+        },
+        {
+          "key": "130845|Where there is a flame someone's bound to get burned",
+          "text": "Where there is a flame someone's bound to get burned",
+          "segments": [
+            "Where ",
+            "there ",
+            "is ",
+            "a ",
+            "flame ",
+            "someone's ",
+            "bound ",
+            "to ",
+            "get ",
+            "burned"
+          ]
+        },
+        {
+          "key": "135189|But just because it burns doesn't mean you're gonna die",
+          "text": "But just because it burns doesn't mean you're gonna die",
+          "segments": [
+            "But ",
+            "just ",
+            "because ",
+            "it ",
+            "burns ",
+            "doesn't ",
+            "mean ",
+            "you're ",
+            "gonna ",
+            "die"
+          ]
+        },
+        {
+          "key": "139831|You gotta get up and try try try",
+          "text": "You gotta get up and try try try",
+          "segments": [
+            "You ",
+            "gotta ",
+            "get ",
+            "up ",
+            "and ",
+            "try ",
+            "try ",
+            "try"
+          ]
+        },
+        {
+          "key": "144673|Gotta get up and try try try",
+          "text": "Gotta get up and try try try",
+          "segments": [
+            "Gotta ",
+            "get ",
+            "up ",
+            "and ",
+            "try ",
+            "try ",
+            "try"
+          ]
+        },
+        {
+          "key": "149040|You gotta get up and try try try",
+          "text": "You gotta get up and try try try",
+          "segments": [
+            "You ",
+            "gotta ",
+            "get ",
+            "up ",
+            "and ",
+            "try ",
+            "try ",
+            "try"
+          ]
+        }
+      ]
+    }
+  ]
+}

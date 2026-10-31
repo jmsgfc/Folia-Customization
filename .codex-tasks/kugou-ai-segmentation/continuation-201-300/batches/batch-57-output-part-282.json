@@ -1,0 +1,904 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:577aaa71a0ced6b490a1e7e6d9b4623d",
+      "lines": [
+        {
+          "key": "0|One Last Time -Ariana Grande ",
+          "text": "One Last Time -Ariana Grande ",
+          "segments": [
+            "One ",
+            "Last ",
+            "Time ",
+            "-",
+            "Ariana ",
+            "Grande "
+          ]
+        },
+        {
+          "key": "6930|Written by：David Guetta/Giorgio Tuinfort/Savan Kotecha/Carl Falk/Rami Yacoub ",
+          "text": "Written by：David Guetta/Giorgio Tuinfort/Savan Kotecha/Carl Falk/Rami Yacoub ",
+          "segments": [
+            "Written by：",
+            "David Guetta",
+            "/",
+            "Giorgio Tuinfort",
+            "/",
+            "Savan Kotecha",
+            "/",
+            "Carl Falk",
+            "/",
+            "Rami Yacoub "
+          ]
+        },
+        {
+          "key": "13860|I was a liar ",
+          "text": "I was a liar ",
+          "segments": [
+            "I ",
+            "was ",
+            "a ",
+            "liar "
+          ]
+        },
+        {
+          "key": "15240|I gave into the fire ",
+          "text": "I gave into the fire ",
+          "segments": [
+            "I ",
+            "gave ",
+            "into ",
+            "the ",
+            "fire "
+          ]
+        },
+        {
+          "key": "16980|I know I should've fought it ",
+          "text": "I know I should've fought it ",
+          "segments": [
+            "I ",
+            "know ",
+            "I ",
+            "should've ",
+            "fought ",
+            "it "
+          ]
+        },
+        {
+          "key": "18750|At least I'm being honest ",
+          "text": "At least I'm being honest ",
+          "segments": [
+            "At ",
+            "least ",
+            "I'm ",
+            "being ",
+            "honest "
+          ]
+        },
+        {
+          "key": "20820|Feel like a failure ",
+          "text": "Feel like a failure ",
+          "segments": [
+            "Feel ",
+            "like ",
+            "a ",
+            "failure "
+          ]
+        },
+        {
+          "key": "22050|Cause I know that I failed you ",
+          "text": "Cause I know that I failed you ",
+          "segments": [
+            "Cause ",
+            "I ",
+            "know ",
+            "that ",
+            "I ",
+            "failed ",
+            "you "
+          ]
+        },
+        {
+          "key": "23790|I should've done you better ",
+          "text": "I should've done you better ",
+          "segments": [
+            "I ",
+            "should've ",
+            "done ",
+            "you ",
+            "better "
+          ]
+        },
+        {
+          "key": "25590|Cause you don't want a liar come on ",
+          "text": "Cause you don't want a liar come on ",
+          "segments": [
+            "Cause ",
+            "you ",
+            "don't ",
+            "want ",
+            "a ",
+            "liar ",
+            "come ",
+            "on "
+          ]
+        },
+        {
+          "key": "27270|And I know and I know and I know ",
+          "text": "And I know and I know and I know ",
+          "segments": [
+            "And ",
+            "I ",
+            "know ",
+            "and ",
+            "I ",
+            "know ",
+            "and ",
+            "I ",
+            "know "
+          ]
+        },
+        {
+          "key": "28470|She gives you everything ",
+          "text": "She gives you everything ",
+          "segments": [
+            "She ",
+            "gives ",
+            "you ",
+            "everything "
+          ]
+        },
+        {
+          "key": "29850|But boy I couldn't give it to you ",
+          "text": "But boy I couldn't give it to you ",
+          "segments": [
+            "But ",
+            "boy ",
+            "I ",
+            "couldn't ",
+            "give ",
+            "it ",
+            "to ",
+            "you "
+          ]
+        },
+        {
+          "key": "34140|And I know and I know and I know ",
+          "text": "And I know and I know and I know ",
+          "segments": [
+            "And ",
+            "I ",
+            "know ",
+            "and ",
+            "I ",
+            "know ",
+            "and ",
+            "I ",
+            "know "
+          ]
+        },
+        {
+          "key": "35400|That you got everything ",
+          "text": "That you got everything ",
+          "segments": [
+            "That ",
+            "you ",
+            "got ",
+            "everything "
+          ]
+        },
+        {
+          "key": "36720|But I got nothing here without you ",
+          "text": "But I got nothing here without you ",
+          "segments": [
+            "But ",
+            "I ",
+            "got ",
+            "nothing ",
+            "here ",
+            "without ",
+            "you "
+          ]
+        },
+        {
+          "key": "40980|So one last time ",
+          "text": "So one last time ",
+          "segments": [
+            "So ",
+            "one ",
+            "last ",
+            "time "
+          ]
+        },
+        {
+          "key": "43380|I need to be the one ",
+          "text": "I need to be the one ",
+          "segments": [
+            "I ",
+            "need ",
+            "to ",
+            "be ",
+            "the ",
+            "one "
+          ]
+        },
+        {
+          "key": "46080|Who takes you home ",
+          "text": "Who takes you home ",
+          "segments": [
+            "Who ",
+            "takes ",
+            "you ",
+            "home "
+          ]
+        },
+        {
+          "key": "47970|One more time ",
+          "text": "One more time ",
+          "segments": [
+            "One ",
+            "more ",
+            "time "
+          ]
+        },
+        {
+          "key": "50280|I promise after that ",
+          "text": "I promise after that ",
+          "segments": [
+            "I ",
+            "promise ",
+            "after ",
+            "that "
+          ]
+        },
+        {
+          "key": "53100|I'll let you go ",
+          "text": "I'll let you go ",
+          "segments": [
+            "I'll ",
+            "let ",
+            "you ",
+            "go "
+          ]
+        },
+        {
+          "key": "55470|Baby I don't care ",
+          "text": "Baby I don't care ",
+          "segments": [
+            "Baby ",
+            "I ",
+            "don't ",
+            "care "
+          ]
+        },
+        {
+          "key": "56070|If you got her in your heart ",
+          "text": "If you got her in your heart ",
+          "segments": [
+            "If ",
+            "you ",
+            "got ",
+            "her ",
+            "in ",
+            "your ",
+            "heart "
+          ]
+        },
+        {
+          "key": "57960|All I really care is you ",
+          "text": "All I really care is you ",
+          "segments": [
+            "All ",
+            "I ",
+            "really ",
+            "care ",
+            "is ",
+            "you "
+          ]
+        },
+        {
+          "key": "59760|Wake up in my arms ",
+          "text": "Wake up in my arms ",
+          "segments": [
+            "Wake ",
+            "up ",
+            "in ",
+            "my ",
+            "arms "
+          ]
+        },
+        {
+          "key": "60900|One last time ",
+          "text": "One last time ",
+          "segments": [
+            "One ",
+            "last ",
+            "time "
+          ]
+        },
+        {
+          "key": "65610|I need to be the one ",
+          "text": "I need to be the one ",
+          "segments": [
+            "I ",
+            "need ",
+            "to ",
+            "be ",
+            "the ",
+            "one "
+          ]
+        },
+        {
+          "key": "66060|Who takes you home ",
+          "text": "Who takes you home ",
+          "segments": [
+            "Who ",
+            "takes ",
+            "you ",
+            "home "
+          ]
+        },
+        {
+          "key": "96150|I don't deserve it ",
+          "text": "I don't deserve it ",
+          "segments": [
+            "I ",
+            "don't ",
+            "deserve ",
+            "it "
+          ]
+        },
+        {
+          "key": "97290|I know I don't deserve it ",
+          "text": "I know I don't deserve it ",
+          "segments": [
+            "I ",
+            "know ",
+            "I ",
+            "don't ",
+            "deserve ",
+            "it "
+          ]
+        },
+        {
+          "key": "99210|But stay with me a minute ",
+          "text": "But stay with me a minute ",
+          "segments": [
+            "But ",
+            "stay ",
+            "with ",
+            "me ",
+            "a ",
+            "minute "
+          ]
+        },
+        {
+          "key": "100980|I'll swear I'll make it worth it ",
+          "text": "I'll swear I'll make it worth it ",
+          "segments": [
+            "I'll ",
+            "swear ",
+            "I'll ",
+            "make ",
+            "it ",
+            "worth ",
+            "it "
+          ]
+        },
+        {
+          "key": "103110|Can't you forgive me ",
+          "text": "Can't you forgive me ",
+          "segments": [
+            "Can't ",
+            "you ",
+            "forgive ",
+            "me "
+          ]
+        },
+        {
+          "key": "104340|At least just temporarily ",
+          "text": "At least just temporarily ",
+          "segments": [
+            "At ",
+            "least ",
+            "just ",
+            "temporarily "
+          ]
+        },
+        {
+          "key": "106140|I know that this is my fault ",
+          "text": "I know that this is my fault ",
+          "segments": [
+            "I ",
+            "know ",
+            "that ",
+            "this ",
+            "is ",
+            "my ",
+            "fault "
+          ]
+        },
+        {
+          "key": "107790|I should have been more careful ",
+          "text": "I should have been more careful ",
+          "segments": [
+            "I ",
+            "should ",
+            "have ",
+            "been ",
+            "more ",
+            "careful "
+          ]
+        },
+        {
+          "key": "109350|Come on ",
+          "text": "Come on ",
+          "segments": [
+            "Come ",
+            "on "
+          ]
+        },
+        {
+          "key": "109560|And I know and I know ",
+          "text": "And I know and I know ",
+          "segments": [
+            "And ",
+            "I ",
+            "know ",
+            "and ",
+            "I ",
+            "know "
+          ]
+        },
+        {
+          "key": "110490|And I know ",
+          "text": "And I know ",
+          "segments": [
+            "And ",
+            "I ",
+            "know "
+          ]
+        },
+        {
+          "key": "110760|She gives you everything ",
+          "text": "She gives you everything ",
+          "segments": [
+            "She ",
+            "gives ",
+            "you ",
+            "everything "
+          ]
+        },
+        {
+          "key": "112140|But boy I couldn't give it to you ",
+          "text": "But boy I couldn't give it to you ",
+          "segments": [
+            "But ",
+            "boy ",
+            "I ",
+            "couldn't ",
+            "give ",
+            "it ",
+            "to ",
+            "you "
+          ]
+        },
+        {
+          "key": "116430|And I know and I know and I know ",
+          "text": "And I know and I know and I know ",
+          "segments": [
+            "And ",
+            "I ",
+            "know ",
+            "and ",
+            "I ",
+            "know ",
+            "and ",
+            "I ",
+            "know "
+          ]
+        },
+        {
+          "key": "118110|That you got everything ",
+          "text": "That you got everything ",
+          "segments": [
+            "That ",
+            "you ",
+            "got ",
+            "everything "
+          ]
+        },
+        {
+          "key": "119010|But I got nothing here without you ",
+          "text": "But I got nothing here without you ",
+          "segments": [
+            "But ",
+            "I ",
+            "got ",
+            "nothing ",
+            "here ",
+            "without ",
+            "you "
+          ]
+        },
+        {
+          "key": "121470|Baby ",
+          "text": "Baby ",
+          "segments": [
+            "Baby "
+          ]
+        },
+        {
+          "key": "123270|So one last time ",
+          "text": "So one last time ",
+          "segments": [
+            "So ",
+            "one ",
+            "last ",
+            "time "
+          ]
+        },
+        {
+          "key": "125700|I need to be the one ",
+          "text": "I need to be the one ",
+          "segments": [
+            "I ",
+            "need ",
+            "to ",
+            "be ",
+            "the ",
+            "one "
+          ]
+        },
+        {
+          "key": "128370|Who takes you home ",
+          "text": "Who takes you home ",
+          "segments": [
+            "Who ",
+            "takes ",
+            "you ",
+            "home "
+          ]
+        },
+        {
+          "key": "130259|One more time ",
+          "text": "One more time ",
+          "segments": [
+            "One ",
+            "more ",
+            "time "
+          ]
+        },
+        {
+          "key": "132600|I promise after that ",
+          "text": "I promise after that ",
+          "segments": [
+            "I ",
+            "promise ",
+            "after ",
+            "that "
+          ]
+        },
+        {
+          "key": "135180|I'll let you go ",
+          "text": "I'll let you go ",
+          "segments": [
+            "I'll ",
+            "let ",
+            "you ",
+            "go "
+          ]
+        },
+        {
+          "key": "137310|Baby I don't care ",
+          "text": "Baby I don't care ",
+          "segments": [
+            "Baby ",
+            "I ",
+            "don't ",
+            "care "
+          ]
+        },
+        {
+          "key": "138330|If you got her in your heart ",
+          "text": "If you got her in your heart ",
+          "segments": [
+            "If ",
+            "you ",
+            "got ",
+            "her ",
+            "in ",
+            "your ",
+            "heart "
+          ]
+        },
+        {
+          "key": "140460|All I really care is you ",
+          "text": "All I really care is you ",
+          "segments": [
+            "All ",
+            "I ",
+            "really ",
+            "care ",
+            "is ",
+            "you "
+          ]
+        },
+        {
+          "key": "142200|Wake up in my arms ",
+          "text": "Wake up in my arms ",
+          "segments": [
+            "Wake ",
+            "up ",
+            "in ",
+            "my ",
+            "arms "
+          ]
+        },
+        {
+          "key": "144090|One last time ",
+          "text": "One last time ",
+          "segments": [
+            "One ",
+            "last ",
+            "time "
+          ]
+        },
+        {
+          "key": "146310|I need to be the one ",
+          "text": "I need to be the one ",
+          "segments": [
+            "I ",
+            "need ",
+            "to ",
+            "be ",
+            "the ",
+            "one "
+          ]
+        },
+        {
+          "key": "148980|Who takes you home ",
+          "text": "Who takes you home ",
+          "segments": [
+            "Who ",
+            "takes ",
+            "you ",
+            "home "
+          ]
+        },
+        {
+          "key": "150420|I know I shouldn't fight it ",
+          "text": "I know I shouldn't fight it ",
+          "segments": [
+            "I ",
+            "know ",
+            "I ",
+            "shouldn't ",
+            "fight ",
+            "it "
+          ]
+        },
+        {
+          "key": "151680|At least I'm being honest ",
+          "text": "At least I'm being honest ",
+          "segments": [
+            "At ",
+            "least ",
+            "I'm ",
+            "being ",
+            "honest "
+          ]
+        },
+        {
+          "key": "152250|Just stay with me a minute ",
+          "text": "Just stay with me a minute ",
+          "segments": [
+            "Just ",
+            "stay ",
+            "with ",
+            "me ",
+            "a ",
+            "minute "
+          ]
+        },
+        {
+          "key": "152850|I swear I'll make it worth ",
+          "text": "I swear I'll make it worth ",
+          "segments": [
+            "I ",
+            "swear ",
+            "I'll ",
+            "make ",
+            "it ",
+            "worth "
+          ]
+        },
+        {
+          "key": "153540|Cause I don't want to be with out you ",
+          "text": "Cause I don't want to be with out you ",
+          "segments": [
+            "Cause ",
+            "I ",
+            "don't ",
+            "want ",
+            "to ",
+            "be ",
+            "with ",
+            "out ",
+            "you "
+          ]
+        },
+        {
+          "key": "154950|So one last time ",
+          "text": "So one last time ",
+          "segments": [
+            "So ",
+            "one ",
+            "last ",
+            "time "
+          ]
+        },
+        {
+          "key": "155880|I need to be the one ",
+          "text": "I need to be the one ",
+          "segments": [
+            "I ",
+            "need ",
+            "to ",
+            "be ",
+            "the ",
+            "one "
+          ]
+        },
+        {
+          "key": "156570|Who takes you home ",
+          "text": "Who takes you home ",
+          "segments": [
+            "Who ",
+            "takes ",
+            "you ",
+            "home "
+          ]
+        },
+        {
+          "key": "158160|One more time ",
+          "text": "One more time ",
+          "segments": [
+            "One ",
+            "more ",
+            "time "
+          ]
+        },
+        {
+          "key": "159270|I promise after that ",
+          "text": "I promise after that ",
+          "segments": [
+            "I ",
+            "promise ",
+            "after ",
+            "that "
+          ]
+        },
+        {
+          "key": "162660|I'll let you go ",
+          "text": "I'll let you go ",
+          "segments": [
+            "I'll ",
+            "let ",
+            "you ",
+            "go "
+          ]
+        },
+        {
+          "key": "164790|Baby I don't care ",
+          "text": "Baby I don't care ",
+          "segments": [
+            "Baby ",
+            "I ",
+            "don't ",
+            "care "
+          ]
+        },
+        {
+          "key": "166230|If you got her in your heart ",
+          "text": "If you got her in your heart ",
+          "segments": [
+            "If ",
+            "you ",
+            "got ",
+            "her ",
+            "in ",
+            "your ",
+            "heart "
+          ]
+        },
+        {
+          "key": "167790|All I really care is you ",
+          "text": "All I really care is you ",
+          "segments": [
+            "All ",
+            "I ",
+            "really ",
+            "care ",
+            "is ",
+            "you "
+          ]
+        },
+        {
+          "key": "169440|Wake up in my arms ",
+          "text": "Wake up in my arms ",
+          "segments": [
+            "Wake ",
+            "up ",
+            "in ",
+            "my ",
+            "arms "
+          ]
+        },
+        {
+          "key": "173760|One last time ",
+          "text": "One last time ",
+          "segments": [
+            "One ",
+            "last ",
+            "time "
+          ]
+        },
+        {
+          "key": "174390|I need to be the one ",
+          "text": "I need to be the one ",
+          "segments": [
+            "I ",
+            "need ",
+            "to ",
+            "be ",
+            "the ",
+            "one "
+          ]
+        },
+        {
+          "key": "176580|Who takes you home yeah ",
+          "text": "Who takes you home yeah ",
+          "segments": [
+            "Who ",
+            "takes ",
+            "you ",
+            "home ",
+            "yeah "
+          ]
+        },
+        {
+          "key": "178350|One last time ",
+          "text": "One last time ",
+          "segments": [
+            "One ",
+            "last ",
+            "time "
+          ]
+        },
+        {
+          "key": "180540|I need to be the one ",
+          "text": "I need to be the one ",
+          "segments": [
+            "I ",
+            "need ",
+            "to ",
+            "be ",
+            "the ",
+            "one "
+          ]
+        },
+        {
+          "key": "183210|Who takes you home ",
+          "text": "Who takes you home ",
+          "segments": [
+            "Who ",
+            "takes ",
+            "you ",
+            "home "
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1470 @@
+{
+  "batchNumber": 52,
+  "songs": [
+    {
+      "rank": 256,
+      "songKey": "online:kugou:a424749a848617238047ce54ca826eda",
+      "name": "Try",
+      "artist": "Marlisa",
+      "lines": [
+        {
+          "key": "0|Marlisa - Try",
+          "startMs": 0,
+          "text": "Marlisa - Try"
+        },
+        {
+          "key": "23460|Ever wonder about what he's doing ",
+          "startMs": 23460,
+          "text": "Ever wonder about what he's doing "
+        },
+        {
+          "key": "27779|How it all turned to lies ",
+          "startMs": 27779,
+          "text": "How it all turned to lies "
+        },
+        {
+          "key": "32678|Sometimes I think that it's better",
+          "startMs": 32678,
+          "text": "Sometimes I think that it's better"
+        },
+        {
+          "key": "36648|To never ask why",
+          "startMs": 36648,
+          "text": "To never ask why"
+        },
+        {
+          "key": "49768|Where there is desire",
+          "startMs": 49768,
+          "text": "Where there is desire"
+        },
+        {
+          "key": "51628|There is gonna be a flame",
+          "startMs": 51628,
+          "text": "There is gonna be a flame"
+        },
+        {
+          "key": "54278|Where there is a flame",
+          "startMs": 54278,
+          "text": "Where there is a flame"
+        },
+        {
+          "key": "56088|Someone's bound to get burned",
+          "startMs": 56088,
+          "text": "Someone's bound to get burned"
+        },
+        {
+          "key": "58748|But just because it burns",
+          "startMs": 58748,
+          "text": "But just because it burns"
+        },
+        {
+          "key": "60697|Doesn't mean you're gonna die",
+          "startMs": 60697,
+          "text": "Doesn't mean you're gonna die"
+        },
+        {
+          "key": "63357|You've gotta get up and try  and try  and try",
+          "startMs": 63357,
+          "text": "You've gotta get up and try  and try  and try"
+        },
+        {
+          "key": "68235|Gotta get up and try  and try  and try",
+          "startMs": 68235,
+          "text": "Gotta get up and try  and try  and try"
+        },
+        {
+          "key": "72605|You gotta get up and try  and try  and try",
+          "startMs": 72605,
+          "text": "You gotta get up and try  and try  and try"
+        },
+        {
+          "key": "78785|You've get up and try",
+          "startMs": 78785,
+          "text": "You've get up and try"
+        },
+        {
+          "key": "85575|Funny how the heart can be deceiving",
+          "startMs": 85575,
+          "text": "Funny how the heart can be deceiving"
+        },
+        {
+          "key": "89965|More than just a couple times",
+          "startMs": 89965,
+          "text": "More than just a couple times"
+        },
+        {
+          "key": "95084|Why do we fall in love so easy ",
+          "startMs": 95084,
+          "text": "Why do we fall in love so easy "
+        },
+        {
+          "key": "99534|Even when it's not right",
+          "startMs": 99534,
+          "text": "Even when it's not right"
+        },
+        {
+          "key": "112164|Where there is desire",
+          "startMs": 112164,
+          "text": "Where there is desire"
+        },
+        {
+          "key": "113814|There is gonna be a flame",
+          "startMs": 113814,
+          "text": "There is gonna be a flame"
+        },
+        {
+          "key": "116544|Where there is a flame",
+          "startMs": 116544,
+          "text": "Where there is a flame"
+        },
+        {
+          "key": "118324|Someone's bound to get burned",
+          "startMs": 118324,
+          "text": "Someone's bound to get burned"
+        },
+        {
+          "key": "121024|But just because it burns",
+          "startMs": 121024,
+          "text": "But just because it burns"
+        },
+        {
+          "key": "122914|Doesn't mean you're gonna die",
+          "startMs": 122914,
+          "text": "Doesn't mean you're gonna die"
+        },
+        {
+          "key": "125614|You've gotta get up and try  and try  and try",
+          "startMs": 125614,
+          "text": "You've gotta get up and try  and try  and try"
+        },
+        {
+          "key": "130424|Gotta get up and try  and try  and try",
+          "startMs": 130424,
+          "text": "Gotta get up and try  and try  and try"
+        },
+        {
+          "key": "135003|You gotta get up and try  and try  and try",
+          "startMs": 135003,
+          "text": "You gotta get up and try  and try  and try"
+        },
+        {
+          "key": "140822|Gotta get up and try",
+          "startMs": 140822,
+          "text": "Gotta get up and try"
+        },
+        {
+          "key": "147992|Ever worry that it might be ruined",
+          "startMs": 147992,
+          "text": "Ever worry that it might be ruined"
+        },
+        {
+          "key": "152452|Does it make you wanna cry ",
+          "startMs": 152452,
+          "text": "Does it make you wanna cry "
+        },
+        {
+          "key": "156952|When you're out there doing what you're doing",
+          "startMs": 156952,
+          "text": "When you're out there doing what you're doing"
+        },
+        {
+          "key": "161642|Are you just getting by ",
+          "startMs": 161642,
+          "text": "Are you just getting by "
+        },
+        {
+          "key": "165631|Tell me are you just getting by  by  by ",
+          "startMs": 165631,
+          "text": "Tell me are you just getting by  by  by "
+        },
+        {
+          "key": "170020|Where there is desire",
+          "startMs": 170020,
+          "text": "Where there is desire"
+        },
+        {
+          "key": "171440|There is gonna be a flame",
+          "startMs": 171440,
+          "text": "There is gonna be a flame"
+        },
+        {
+          "key": "174230|Where there is a flame",
+          "startMs": 174230,
+          "text": "Where there is a flame"
+        },
+        {
+          "key": "176029|Someone's bound to get burned",
+          "startMs": 176029,
+          "text": "Someone's bound to get burned"
+        },
+        {
+          "key": "178729|But just because it burns",
+          "startMs": 178729,
+          "text": "But just because it burns"
+        },
+        {
+          "key": "180578|Doesn't mean you're gonna die",
+          "startMs": 180578,
+          "text": "Doesn't mean you're gonna die"
+        },
+        {
+          "key": "183328|You've gotta get up and try  and try  and try",
+          "startMs": 183328,
+          "text": "You've gotta get up and try  and try  and try"
+        },
+        {
+          "key": "187957|Where there is desire",
+          "startMs": 187957,
+          "text": "Where there is desire"
+        },
+        {
+          "key": "189747|There is gonna be a flame",
+          "startMs": 189747,
+          "text": "There is gonna be a flame"
+        },
+        {
+          "key": "192667|Where there is a flame",
+          "startMs": 192667,
+          "text": "Where there is a flame"
+        },
+        {
+          "key": "194447|Someone's bound to get burned",
+          "startMs": 194447,
+          "text": "Someone's bound to get burned"
+        },
+        {
+          "key": "197177|But just because it burns",
+          "startMs": 197177,
+          "text": "But just because it burns"
+        },
+        {
+          "key": "199086|Doesn't mean you're gonna die",
+          "startMs": 199086,
+          "text": "Doesn't mean you're gonna die"
+        },
+        {
+          "key": "201706|You've gotta get up and try  and try  and try",
+          "startMs": 201706,
+          "text": "You've gotta get up and try  and try  and try"
+        },
+        {
+          "key": "206575|Gotta get up and try  and try  and try",
+          "startMs": 206575,
+          "text": "Gotta get up and try  and try  and try"
+        },
+        {
+          "key": "211115|Gotta get up and try  and try  and try",
+          "startMs": 211115,
+          "text": "Gotta get up and try  and try  and try"
+        },
+        {
+          "key": "215915|Gotta get up and try  and try  and try",
+          "startMs": 215915,
+          "text": "Gotta get up and try  and try  and try"
+        },
+        {
+          "key": "220385|Gotta get up and try  and try  and try",
+          "startMs": 220385,
+          "text": "Gotta get up and try  and try  and try"
+        }
+      ]
+    },
+    {
+      "rank": 257,
+      "songKey": "online:kugou:7e977ad73c2e478ee6b5a654638cb6f9",
+      "name": "11",
+      "artist": "G.E.M.邓紫棋",
+      "lines": [
+        {
+          "key": "261|G.E.M. 邓紫棋 - 11",
+          "startMs": 261,
+          "text": "G.E.M. 邓紫棋 - 11"
+        },
+        {
+          "key": "1867|作词：队长、黄礼格",
+          "startMs": 1867,
+          "text": "作词：队长、黄礼格"
+        },
+        {
+          "key": "2082|作曲：队长、黄礼格",
+          "startMs": 2082,
+          "text": "作曲：队长、黄礼格"
+        },
+        {
+          "key": "2511|改编词曲：G.E.M. 邓紫棋",
+          "startMs": 2511,
+          "text": "改编词曲：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "5759|制作人：G.E.M. 邓紫棋、T-Ma马敬恒",
+          "startMs": 5759,
+          "text": "制作人：G.E.M. 邓紫棋、T-Ma马敬恒"
+        },
+        {
+          "key": "8175|编曲：T-Ma马敬恒",
+          "startMs": 8175,
+          "text": "编曲：T-Ma马敬恒"
+        },
+        {
+          "key": "13481|就把我爱意都掩埋",
+          "startMs": 13481,
+          "text": "就把我爱意都掩埋"
+        },
+        {
+          "key": "16729|但你能清楚的明白",
+          "startMs": 16729,
+          "text": "但你能清楚的明白"
+        },
+        {
+          "key": "20107|靠近我然后别离开",
+          "startMs": 20107,
+          "text": "靠近我然后别离开"
+        },
+        {
+          "key": "25262|可是难过的却不是回忆",
+          "startMs": 25262,
+          "text": "可是难过的却不是回忆"
+        },
+        {
+          "key": "28769|因为回忆里哭泣的你",
+          "startMs": 28769,
+          "text": "因为回忆里哭泣的你"
+        },
+        {
+          "key": "35681|Cause you know",
+          "startMs": 35681,
+          "text": "Cause you know"
+        },
+        {
+          "key": "38252|爱意就像大雨落下",
+          "startMs": 38252,
+          "text": "爱意就像大雨落下"
+        },
+        {
+          "key": "41484|怎么能让人不牵挂",
+          "startMs": 41484,
+          "text": "怎么能让人不牵挂"
+        },
+        {
+          "key": "45462|过得好吗",
+          "startMs": 45462,
+          "text": "过得好吗"
+        },
+        {
+          "key": "47078|想说的话你能听到吗",
+          "startMs": 47078,
+          "text": "想说的话你能听到吗"
+        },
+        {
+          "key": "51758|Oh没能陪你到最后",
+          "startMs": 51758,
+          "text": "Oh没能陪你到最后"
+        },
+        {
+          "key": "58058|别再叹息皱眉头",
+          "startMs": 58058,
+          "text": "别再叹息皱眉头"
+        },
+        {
+          "key": "61347|怎么能忘掉你所有",
+          "startMs": 61347,
+          "text": "怎么能忘掉你所有"
+        },
+        {
+          "key": "65346|寂寞的夜每一个夜",
+          "startMs": 65346,
+          "text": "寂寞的夜每一个夜"
+        },
+        {
+          "key": "67169|你总在眼前",
+          "startMs": 67169,
+          "text": "你总在眼前"
+        },
+        {
+          "key": "68458|度过的年错过的月",
+          "startMs": 68458,
+          "text": "度过的年错过的月"
+        },
+        {
+          "key": "70256|我都想纪念",
+          "startMs": 70256,
+          "text": "我都想纪念"
+        },
+        {
+          "key": "71842|好久不见",
+          "startMs": 71842,
+          "text": "好久不见"
+        },
+        {
+          "key": "73371|我有多恨我不在你的身边",
+          "startMs": 73371,
+          "text": "我有多恨我不在你的身边"
+        },
+        {
+          "key": "78225|能不能能不能",
+          "startMs": 78225,
+          "text": "能不能能不能"
+        },
+        {
+          "key": "79892|让眼泪留在昨天",
+          "startMs": 79892,
+          "text": "让眼泪留在昨天"
+        },
+        {
+          "key": "81696|能不能别把我丢在雨天",
+          "startMs": 81696,
+          "text": "能不能别把我丢在雨天"
+        },
+        {
+          "key": "87324|我不愿不在你的身边",
+          "startMs": 87324,
+          "text": "我不愿不在你的身边"
+        },
+        {
+          "key": "91087|一个人的凌晨时分",
+          "startMs": 91087,
+          "text": "一个人的凌晨时分"
+        },
+        {
+          "key": "94650|凌晨时分",
+          "startMs": 94650,
+          "text": "凌晨时分"
+        },
+        {
+          "key": "97534|谁没有个思念的人",
+          "startMs": 97534,
+          "text": "谁没有个思念的人"
+        },
+        {
+          "key": "104092|如果爱能够逆时针",
+          "startMs": 104092,
+          "text": "如果爱能够逆时针"
+        },
+        {
+          "key": "107544|逆时针",
+          "startMs": 107544,
+          "text": "逆时针"
+        },
+        {
+          "key": "110035|Cuz I'm mad for you sad for you I long for you",
+          "startMs": 110035,
+          "text": "Cuz I'm mad for you sad for you I long for you"
+        },
+        {
+          "key": "113317|Cause you know",
+          "startMs": 113317,
+          "text": "Cause you know"
+        },
+        {
+          "key": "115973|爱意就像大雨落下",
+          "startMs": 115973,
+          "text": "爱意就像大雨落下"
+        },
+        {
+          "key": "119269|怎么能让人不牵挂",
+          "startMs": 119269,
+          "text": "怎么能让人不牵挂"
+        },
+        {
+          "key": "123610|过得好吗想说的话你能听到吗",
+          "startMs": 123610,
+          "text": "过得好吗想说的话你能听到吗"
+        },
+        {
+          "key": "129572|Oh没能陪你到最后",
+          "startMs": 129572,
+          "text": "Oh没能陪你到最后"
+        },
+        {
+          "key": "135893|别再叹息皱眉头",
+          "startMs": 135893,
+          "text": "别再叹息皱眉头"
+        },
+        {
+          "key": "139160|怎么能忘掉你所有",
+          "startMs": 139160,
+          "text": "怎么能忘掉你所有"
+        },
+        {
+          "key": "143888|多想让大雨冲掉思念",
+          "startMs": 143888,
+          "text": "多想让大雨冲掉思念"
+        },
+        {
+          "key": "147513|让回忆不再闪现",
+          "startMs": 147513,
+          "text": "让回忆不再闪现"
+        },
+        {
+          "key": "149976|已经多少日夜",
+          "startMs": 149976,
+          "text": "已经多少日夜"
+        },
+        {
+          "key": "152699|你总会突然浮现眼前",
+          "startMs": 152699,
+          "text": "你总会突然浮现眼前"
+        },
+        {
+          "key": "156683|能否让眼泪留在昨天",
+          "startMs": 156683,
+          "text": "能否让眼泪留在昨天"
+        },
+        {
+          "key": "159786|留在昨天",
+          "startMs": 159786,
+          "text": "留在昨天"
+        },
+        {
+          "key": "162247|Cuz I'm mad for you sad for you I long for you",
+          "startMs": 162247,
+          "text": "Cuz I'm mad for you sad for you I long for you"
+        },
+        {
+          "key": "165537|Cause you know",
+          "startMs": 165537,
+          "text": "Cause you know"
+        },
+        {
+          "key": "167948|爱意就像大雨落下",
+          "startMs": 167948,
+          "text": "爱意就像大雨落下"
+        },
+        {
+          "key": "171328|怎么能让人不牵挂",
+          "startMs": 171328,
+          "text": "怎么能让人不牵挂"
+        },
+        {
+          "key": "175294|过得好吗",
+          "startMs": 175294,
+          "text": "过得好吗"
+        },
+        {
+          "key": "176889|想说的话你能听到吗",
+          "startMs": 176889,
+          "text": "想说的话你能听到吗"
+        },
+        {
+          "key": "182664|Oh没能陪你到最后",
+          "startMs": 182664,
+          "text": "Oh没能陪你到最后"
+        },
+        {
+          "key": "187851|别再叹息皱眉头",
+          "startMs": 187851,
+          "text": "别再叹息皱眉头"
+        },
+        {
+          "key": "190899|怎么能忘掉你所有",
+          "startMs": 190899,
+          "text": "怎么能忘掉你所有"
+        },
+        {
+          "key": "195825|没能陪你到最后",
+          "startMs": 195825,
+          "text": "没能陪你到最后"
+        },
+        {
+          "key": "199280|没能陪你到最后",
+          "startMs": 199280,
+          "text": "没能陪你到最后"
+        },
+        {
+          "key": "202361|因为你已不在",
+          "startMs": 202361,
+          "text": "因为你已不在"
+        },
+        {
+          "key": "204570|你已不在身边",
+          "startMs": 204570,
+          "text": "你已不在身边"
+        },
+        {
+          "key": "208823|我想陪你到最后",
+          "startMs": 208823,
+          "text": "我想陪你到最后"
+        },
+        {
+          "key": "212190|我想陪你到最后",
+          "startMs": 212190,
+          "text": "我想陪你到最后"
+        },
+        {
+          "key": "215290|可惜你已不在",
+          "startMs": 215290,
+          "text": "可惜你已不在"
+        },
+        {
+          "key": "217675|你已不在身边",
+          "startMs": 217675,
+          "text": "你已不在身边"
+        },
+        {
+          "key": "220436|混音：Matthew Sim",
+          "startMs": 220436,
+          "text": "混音：Matthew Sim"
+        },
+        {
+          "key": "221245|母带：Matthew Sim",
+          "startMs": 221245,
+          "text": "母带：Matthew Sim"
+        },
+        {
+          "key": "221950|OP：队长/黄礼格",
+          "startMs": 221950,
+          "text": "OP：队长/黄礼格"
+        },
+        {
+          "key": "222861|SP：索尼音乐版权代理（北京）有限公司",
+          "startMs": 222861,
+          "text": "SP：索尼音乐版权代理（北京）有限公司"
+        }
+      ]
+    },
+    {
+      "rank": 258,
+      "songKey": "online:kugou:1268b50913e8eef9dd6e376352e6af6b",
+      "name": "野心",
+      "artist": "薛之谦",
+      "lines": [
+        {
+          "key": "0|野心 (《缉魂》电影推广曲) - 薛之谦",
+          "startMs": 0,
+          "text": "野心 (《缉魂》电影推广曲) - 薛之谦"
+        },
+        {
+          "key": "2003|词：薛之谦",
+          "startMs": 2003,
+          "text": "词：薛之谦"
+        },
+        {
+          "key": "2131|曲：薛之谦",
+          "startMs": 2131,
+          "text": "曲：薛之谦"
+        },
+        {
+          "key": "16037|欢迎你误入这片狼藉的森林",
+          "startMs": 16037,
+          "text": "欢迎你误入这片狼藉的森林"
+        },
+        {
+          "key": "23120|规则是为了片净土去拼命",
+          "startMs": 23120,
+          "text": "规则是为了片净土去拼命"
+        },
+        {
+          "key": "30117|用纯白的纱 遮住扭捏的野心",
+          "startMs": 30117,
+          "text": "用纯白的纱 遮住扭捏的野心"
+        },
+        {
+          "key": "35824|看 过了河 有美丽的繁星",
+          "startMs": 35824,
+          "text": "看 过了河 有美丽的繁星"
+        },
+        {
+          "key": "44443|已交出我勇敢的皮肉作指引",
+          "startMs": 44443,
+          "text": "已交出我勇敢的皮肉作指引"
+        },
+        {
+          "key": "51571|求浑浊的泉水再赐我次生命",
+          "startMs": 51571,
+          "text": "求浑浊的泉水再赐我次生命"
+        },
+        {
+          "key": "59103|我们还算干净",
+          "startMs": 59103,
+          "text": "我们还算干净"
+        },
+        {
+          "key": "66536|至少都挥霍过良心",
+          "startMs": 66536,
+          "text": "至少都挥霍过良心"
+        },
+        {
+          "key": "71585|我望着你 不肯后退的眼睛",
+          "startMs": 71585,
+          "text": "我望着你 不肯后退的眼睛"
+        },
+        {
+          "key": "78603|也不确定 自己代表了光明",
+          "startMs": 78603,
+          "text": "也不确定 自己代表了光明"
+        },
+        {
+          "key": "85768|在黑暗里 我们不需要怜悯",
+          "startMs": 85768,
+          "text": "在黑暗里 我们不需要怜悯"
+        },
+        {
+          "key": "92828|在正义里 有回答不了的问题",
+          "startMs": 92828,
+          "text": "在正义里 有回答不了的问题"
+        },
+        {
+          "key": "105603|都想用迫切的心换片龙鳞",
+          "startMs": 105603,
+          "text": "都想用迫切的心换片龙鳞"
+        },
+        {
+          "key": "112479|越众矢之的越容易一举成名",
+          "startMs": 112479,
+          "text": "越众矢之的越容易一举成名"
+        },
+        {
+          "key": "119684|已看得见归途为何还要前进",
+          "startMs": 119684,
+          "text": "已看得见归途为何还要前进"
+        },
+        {
+          "key": "125395|再 切掉一点良心换一点野心",
+          "startMs": 125395,
+          "text": "再 切掉一点良心换一点野心"
+        },
+        {
+          "key": "132321|我望着你 走投无路的眼睛",
+          "startMs": 132321,
+          "text": "我望着你 走投无路的眼睛"
+        },
+        {
+          "key": "139408|也不确定 自己代表了光明",
+          "startMs": 139408,
+          "text": "也不确定 自己代表了光明"
+        },
+        {
+          "key": "146521|在黑暗里 都不需要怜悯",
+          "startMs": 146521,
+          "text": "在黑暗里 都不需要怜悯"
+        },
+        {
+          "key": "153718|在正义里 有回答不了的问题",
+          "startMs": 153718,
+          "text": "在正义里 有回答不了的问题"
+        },
+        {
+          "key": "168218|我怀疑你 熙熙攘攘的正义",
+          "startMs": 168218,
+          "text": "我怀疑你 熙熙攘攘的正义"
+        },
+        {
+          "key": "175140|却放过你 不再还手的身体",
+          "startMs": 175140,
+          "text": "却放过你 不再还手的身体"
+        },
+        {
+          "key": "182321|在原则里 我必须胜过你",
+          "startMs": 182321,
+          "text": "在原则里 我必须胜过你"
+        },
+        {
+          "key": "189442|在对手里 你算可敬的宿敌",
+          "startMs": 189442,
+          "text": "在对手里 你算可敬的宿敌"
+        },
+        {
+          "key": "196543|编曲：宋涛",
+          "startMs": 196543,
+          "text": "编曲：宋涛"
+        },
+        {
+          "key": "197156|制作人：宋涛",
+          "startMs": 197156,
+          "text": "制作人：宋涛"
+        },
+        {
+          "key": "197306|吉他：宋睿/宋涛",
+          "startMs": 197306,
+          "text": "吉他：宋睿/宋涛"
+        },
+        {
+          "key": "197540|贝斯：韩阳",
+          "startMs": 197540,
+          "text": "贝斯：韩阳"
+        },
+        {
+          "key": "197683|鼓：李彦超",
+          "startMs": 197683,
+          "text": "鼓：李彦超"
+        },
+        {
+          "key": "197817|和音：薛之谦/宋涛",
+          "startMs": 197817,
+          "text": "和音：薛之谦/宋涛"
+        },
+        {
+          "key": "198080|乐器录音：王辰@ShiCong Fatnunu Studio",
+          "startMs": 198080,
+          "text": "乐器录音：王辰@ShiCong Fatnunu Studio"
+        },
+        {
+          "key": "198371|录音助理：孙炜祁@ShiCong Fatnunu Studio",
+          "startMs": 198371,
+          "text": "录音助理：孙炜祁@ShiCong Fatnunu Studio"
+        },
+        {
+          "key": "198702|人声录音：汝文博@SBMS Beijing Studio",
+          "startMs": 198702,
+          "text": "人声录音：汝文博@SBMS Beijing Studio"
+        },
+        {
+          "key": "199036|混音：李军",
+          "startMs": 199036,
+          "text": "混音：李军"
+        },
+        {
+          "key": "199164|母带：全相彦",
+          "startMs": 199164,
+          "text": "母带：全相彦"
+        }
+      ]
+    },
+    {
+      "rank": 259,
+      "songKey": "online:kugou:97a454a69bdd603c129efb0404cf3aec",
+      "name": "无数",
+      "artist": "薛之谦",
+      "lines": [
+        {
+          "key": "0|无数 - 薛之谦",
+          "startMs": 0,
+          "text": "无数 - 薛之谦"
+        },
+        {
+          "key": "9583|词：薛之谦",
+          "startMs": 9583,
+          "text": "词：薛之谦"
+        },
+        {
+          "key": "15017|曲：薛之谦",
+          "startMs": 15017,
+          "text": "曲：薛之谦"
+        },
+        {
+          "key": "21002|有个地方真实存在",
+          "startMs": 21002,
+          "text": "有个地方真实存在"
+        },
+        {
+          "key": "31371|有着复眼能看到的色彩",
+          "startMs": 31371,
+          "text": "有着复眼能看到的色彩"
+        },
+        {
+          "key": "41691|人们身上都没有口袋",
+          "startMs": 41691,
+          "text": "人们身上都没有口袋"
+        },
+        {
+          "key": "52132|不用装下愤怒和悲哀",
+          "startMs": 52132,
+          "text": "不用装下愤怒和悲哀"
+        },
+        {
+          "key": "62464|快告诉我你真的存在",
+          "startMs": 62464,
+          "text": "快告诉我你真的存在"
+        },
+        {
+          "key": "72732|翻过山河让一切重来",
+          "startMs": 72732,
+          "text": "翻过山河让一切重来"
+        },
+        {
+          "key": "83060|请赐予我自由自在",
+          "startMs": 83060,
+          "text": "请赐予我自由自在"
+        },
+        {
+          "key": "93429|还能停止那该死的买卖",
+          "startMs": 93429,
+          "text": "还能停止那该死的买卖"
+        },
+        {
+          "key": "101112|在人们无数次沉没里",
+          "startMs": 101112,
+          "text": "在人们无数次沉没里"
+        },
+        {
+          "key": "103907|怎么还有条船不远万里",
+          "startMs": 103907,
+          "text": "怎么还有条船不远万里"
+        },
+        {
+          "key": "111491|它带着幼稚的真理",
+          "startMs": 111491,
+          "text": "它带着幼稚的真理"
+        },
+        {
+          "key": "114558|还背负着勇敢的罪名",
+          "startMs": 114558,
+          "text": "还背负着勇敢的罪名"
+        },
+        {
+          "key": "121761|在我无数次失败里",
+          "startMs": 121761,
+          "text": "在我无数次失败里"
+        },
+        {
+          "key": "124560|你凭什么陪我颠沛流离",
+          "startMs": 124560,
+          "text": "你凭什么陪我颠沛流离"
+        },
+        {
+          "key": "132122|在平行故事里 总会有个我没辜负你",
+          "startMs": 132122,
+          "text": "在平行故事里 总会有个我没辜负你"
+        },
+        {
+          "key": "145029|我拿什么证明我存在",
+          "startMs": 145029,
+          "text": "我拿什么证明我存在"
+        },
+        {
+          "key": "155327|能看肉眼禁锢的色彩",
+          "startMs": 155327,
+          "text": "能看肉眼禁锢的色彩"
+        },
+        {
+          "key": "165668|他们终将用一句活该",
+          "startMs": 165668,
+          "text": "他们终将用一句活该"
+        },
+        {
+          "key": "175988|来概括我们所有的无奈",
+          "startMs": 175988,
+          "text": "来概括我们所有的无奈"
+        },
+        {
+          "key": "183517|在人们无数次沉没里",
+          "startMs": 183517,
+          "text": "在人们无数次沉没里"
+        },
+        {
+          "key": "186508|怎么还有条船不远万里",
+          "startMs": 186508,
+          "text": "怎么还有条船不远万里"
+        },
+        {
+          "key": "193949|它带着幼稚的真理",
+          "startMs": 193949,
+          "text": "它带着幼稚的真理"
+        },
+        {
+          "key": "197112|还炫耀着徒手的正义",
+          "startMs": 197112,
+          "text": "还炫耀着徒手的正义"
+        },
+        {
+          "key": "204231|在我无数次失败里",
+          "startMs": 204231,
+          "text": "在我无数次失败里"
+        },
+        {
+          "key": "207109|你凭什么陪我颠沛流离",
+          "startMs": 207109,
+          "text": "你凭什么陪我颠沛流离"
+        },
+        {
+          "key": "214545|在平行故事里 总会有个我没辜负你",
+          "startMs": 214545,
+          "text": "在平行故事里 总会有个我没辜负你"
+        },
+        {
+          "key": "245578|在我们无数次沉没里",
+          "startMs": 245578,
+          "text": "在我们无数次沉没里"
+        },
+        {
+          "key": "248432|我原谅了你的不敢靠近",
+          "startMs": 248432,
+          "text": "我原谅了你的不敢靠近"
+        },
+        {
+          "key": "255908|要放下幼稚的真理",
+          "startMs": 255908,
+          "text": "要放下幼稚的真理"
+        },
+        {
+          "key": "259027|一遍遍的举起那白旗",
+          "startMs": 259027,
+          "text": "一遍遍的举起那白旗"
+        },
+        {
+          "key": "266164|在我无数次失败里",
+          "startMs": 266164,
+          "text": "在我无数次失败里"
+        },
+        {
+          "key": "269135|你为何要陪我颠沛流离",
+          "startMs": 269135,
+          "text": "你为何要陪我颠沛流离"
+        },
+        {
+          "key": "276435|在下个故事里 让我把世界给你",
+          "startMs": 276435,
+          "text": "在下个故事里 让我把世界给你"
+        },
+        {
+          "key": "284744|制作人/编曲：周以力",
+          "startMs": 284744,
+          "text": "制作人/编曲：周以力"
+        },
+        {
+          "key": "286379|吉他：张凇",
+          "startMs": 286379,
+          "text": "吉他：张凇"
+        },
+        {
+          "key": "287341|贝斯：陈然然",
+          "startMs": 287341,
+          "text": "贝斯：陈然然"
+        },
+        {
+          "key": "288565|鼓：李彦超",
+          "startMs": 288565,
+          "text": "鼓：李彦超"
+        },
+        {
+          "key": "289528|长号：杨明",
+          "startMs": 289528,
+          "text": "长号：杨明"
+        },
+        {
+          "key": "290690|和声：薛之谦",
+          "startMs": 290690,
+          "text": "和声：薛之谦"
+        },
+        {
+          "key": "292004|音频编辑：张森浩",
+          "startMs": 292004,
+          "text": "音频编辑：张森浩"
+        },
+        {
+          "key": "293896|人声录音：张森浩",
+          "startMs": 293896,
+          "text": "人声录音：张森浩"
+        },
+        {
+          "key": "295708|器乐录音：多斯@Studio 21A/于松@viking musical",
+          "startMs": 295708,
+          "text": "器乐录音：多斯@Studio 21A/于松@viking musical"
+        },
+        {
+          "key": "298545|混音/母带：全相彦@Ok master",
+          "startMs": 298545,
+          "text": "混音/母带：全相彦@Ok master"
+        }
+      ]
+    },
+    {
+      "rank": 260,
+      "songKey": "online:kugou:eb0b49398f16a2a9fee546fe5d838d8b",
+      "name": "光年之外 (Live)",
+      "artist": "华晨宇 / G.E.M.邓紫棋",
+      "lines": [
+        {
+          "key": "0|华晨宇、G.E.M. 邓紫棋 - 光年之外 (Live)",
+          "startMs": 0,
+          "text": "华晨宇、G.E.M. 邓紫棋 - 光年之外 (Live)"
+        },
+        {
+          "key": "780|词：G.E.M. 邓紫棋",
+          "startMs": 780,
+          "text": "词：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "1570|曲：G.E.M. 邓紫棋",
+          "startMs": 1570,
+          "text": "曲：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "2350|原唱：G.E.M. 邓紫棋",
+          "startMs": 2350,
+          "text": "原唱：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "3140|编曲：郑楠/华晨宇",
+          "startMs": 3140,
+          "text": "编曲：郑楠/华晨宇"
+        },
+        {
+          "key": "3920|Program：郑楠",
+          "startMs": 3920,
+          "text": "Program：郑楠"
+        },
+        {
+          "key": "4710|制作人：郑楠",
+          "startMs": 4710,
+          "text": "制作人：郑楠"
+        },
+        {
+          "key": "5490|音乐总监：梁翘柏",
+          "startMs": 5490,
+          "text": "音乐总监：梁翘柏"
+        },
+        {
+          "key": "6280|PGM：杨阳",
+          "startMs": 6280,
+          "text": "PGM：杨阳"
+        },
+        {
+          "key": "7060|键盘：达日丹/白宇軒",
+          "startMs": 7060,
+          "text": "键盘：达日丹/白宇軒"
+        },
+        {
+          "key": "7850|吉他：Tommy/黄仲贤",
+          "startMs": 7850,
+          "text": "吉他：Tommy/黄仲贤"
+        },
+        {
+          "key": "8630|贝斯：韩阳",
+          "startMs": 8630,
+          "text": "贝斯：韩阳"
+        },
+        {
+          "key": "9420|鼓手：郝稷伦",
+          "startMs": 9420,
+          "text": "鼓手：郝稷伦"
+        },
+        {
+          "key": "10200|打击乐：刘效松",
+          "startMs": 10200,
+          "text": "打击乐：刘效松"
+        },
+        {
+          "key": "10990|萨克斯/长笛：Charlie",
+          "startMs": 10990,
+          "text": "萨克斯/长笛：Charlie"
+        },
+        {
+          "key": "11770|萨克斯/单簧管：Miles",
+          "startMs": 11770,
+          "text": "萨克斯/单簧管：Miles"
+        },
+        {
+          "key": "12560|小号：Ray",
+          "startMs": 12560,
+          "text": "小号：Ray"
+        },
+        {
+          "key": "13340|长号：Anthony",
+          "startMs": 13340,
+          "text": "长号：Anthony"
+        },
+        {
+          "key": "14130|和声：爱之音合音组",
+          "startMs": 14130,
+          "text": "和声：爱之音合音组"
+        },
+        {
+          "key": "14910|弦乐：靳海音®弦乐团",
+          "startMs": 14910,
+          "text": "弦乐：靳海音®弦乐团"
+        },
+        {
+          "key": "15700|男：",
+          "startMs": 15700,
+          "text": "男："
+        },
+        {
+          "key": "16494|感受停在我发端的指尖",
+          "startMs": 16494,
+          "text": "感受停在我发端的指尖"
+        },
+        {
+          "key": "21574|如何瞬间冻结时间",
+          "startMs": 21574,
+          "text": "如何瞬间冻结时间"
+        },
+        {
+          "key": "27652|女：",
+          "startMs": 27652,
+          "text": "女："
+        },
+        {
+          "key": "29884|记住望着我坚定的双眼",
+          "startMs": 29884,
+          "text": "记住望着我坚定的双眼"
+        },
+        {
+          "key": "34988|也许已经没有明天",
+          "startMs": 34988,
+          "text": "也许已经没有明天"
+        },
+        {
+          "key": "65862|合：",
+          "startMs": 65862,
+          "text": "合："
+        },
+        {
+          "key": "68046|缘分让我们相遇乱世以外",
+          "startMs": 68046,
+          "text": "缘分让我们相遇乱世以外"
+        },
+        {
+          "key": "73710|命运却要我们危难中相爱",
+          "startMs": 73710,
+          "text": "命运却要我们危难中相爱"
+        },
+        {
+          "key": "79542|也许未来遥远在光年之外",
+          "startMs": 79542,
+          "text": "也许未来遥远在光年之外"
+        },
+        {
+          "key": "85414|我愿守候未知里为你等待",
+          "startMs": 85414,
+          "text": "我愿守候未知里为你等待"
+        },
+        {
+          "key": "89787|女：",
+          "startMs": 89787,
+          "text": "女："
+        },
+        {
+          "key": "89798|我没想到",
+          "startMs": 89798,
+          "text": "我没想到"
+        },
+        {
+          "key": "114182|男：",
+          "startMs": 114182,
+          "text": "男："
+        },
+        {
+          "key": "119222|一双围在我胸口的臂弯",
+          "startMs": 119222,
+          "text": "一双围在我胸口的臂弯"
+        },
+        {
+          "key": "123366|足够抵挡天旋地转",
+          "startMs": 123366,
+          "text": "足够抵挡天旋地转"
+        },
+        {
+          "key": "128506|女：",
+          "startMs": 128506,
+          "text": "女："
+        },
+        {
+          "key": "130130|一种执迷不放手的倔强",
+          "startMs": 130130,
+          "text": "一种执迷不放手的倔强"
+        },
+        {
+          "key": "134130|足以点燃所有希望",
+          "startMs": 134130,
+          "text": "足以点燃所有希望"
+        },
+        {
+          "key": "138970|合：",
+          "startMs": 138970,
+          "text": "合："
+        },
+        {
+          "key": "140642|缘分让我们相遇乱世以外",
+          "startMs": 140642,
+          "text": "缘分让我们相遇乱世以外"
+        },
+        {
+          "key": "146146|命运却要我们危难中相爱",
+          "startMs": 146146,
+          "text": "命运却要我们危难中相爱"
+        },
+        {
+          "key": "151666|也许未来遥远在光年之外",
+          "startMs": 151666,
+          "text": "也许未来遥远在光年之外"
+        },
+        {
+          "key": "156791|男：",
+          "startMs": 156791,
+          "text": "男："
+        },
+        {
+          "key": "157175|我愿守候未知里为你等待",
+          "startMs": 157175,
+          "text": "我愿守候未知里为你等待"
+        },
+        {
+          "key": "161127|我没想到",
+          "startMs": 161127,
+          "text": "我没想到"
+        },
+        {
+          "key": "162679|女：",
+          "startMs": 162679,
+          "text": "女："
+        },
+        {
+          "key": "162983|为了你我能疯狂到",
+          "startMs": 162983,
+          "text": "为了你我能疯狂到"
+        },
+        {
+          "key": "165290|男：",
+          "startMs": 165290,
+          "text": "男："
+        },
+        {
+          "key": "166338|山崩海啸",
+          "startMs": 166338,
+          "text": "山崩海啸"
+        },
+        {
+          "key": "167962|女：",
+          "startMs": 167962,
+          "text": "女："
+        },
+        {
+          "key": "168258|没有你根本不想逃",
+          "startMs": 168258,
+          "text": "没有你根本不想逃"
+        },
+        {
+          "key": "171018|男：",
+          "startMs": 171018,
+          "text": "男："
+        },
+        {
+          "key": "171938|我的大脑",
+          "startMs": 171938,
+          "text": "我的大脑"
+        },
+        {
+          "key": "173330|女：",
+          "startMs": 173330,
+          "text": "女："
+        },
+        {
+          "key": "173634|没有你根本不想逃",
+          "startMs": 173634,
+          "text": "没有你根本不想逃"
+        },
+        {
+          "key": "176224|男：",
+          "startMs": 176224,
+          "text": "男："
+        },
+        {
+          "key": "177480|脉搏心跳",
+          "startMs": 177480,
+          "text": "脉搏心跳"
+        },
+        {
+          "key": "178968|女：",
+          "startMs": 178968,
+          "text": "女："
+        },
+        {
+          "key": "179248|没有你根本不重要",
+          "startMs": 179248,
+          "text": "没有你根本不重要"
+        },
+        {
+          "key": "183248|我没想到",
+          "startMs": 183248,
+          "text": "我没想到"
+        },
+        {
+          "key": "204982|我没想到",
+          "startMs": 204982,
+          "text": "我没想到"
+        },
+        {
+          "key": "205783|男：",
+          "startMs": 205783,
+          "text": "男："
+        },
+        {
+          "key": "206063|缘分让我们相遇乱世以外",
+          "startMs": 206063,
+          "text": "缘分让我们相遇乱世以外"
+        },
+        {
+          "key": "207727|命运却要我们危难中相爱",
+          "startMs": 207727,
+          "text": "命运却要我们危难中相爱"
+        },
+        {
+          "key": "209767|也许未来遥远在光年之外",
+          "startMs": 209767,
+          "text": "也许未来遥远在光年之外"
+        },
+        {
+          "key": "211551|我愿守候未知里为你等待",
+          "startMs": 211551,
+          "text": "我愿守候未知里为你等待"
+        },
+        {
+          "key": "213311|我没想到为了你我能疯狂到",
+          "startMs": 213311,
+          "text": "我没想到为了你我能疯狂到"
+        },
+        {
+          "key": "215007|山崩海啸没有你根本不想逃",
+          "startMs": 215007,
+          "text": "山崩海啸没有你根本不想逃"
+        },
+        {
+          "key": "217119|我的大脑为了你已经疯狂到",
+          "startMs": 217119,
+          "text": "我的大脑为了你已经疯狂到"
+        },
+        {
+          "key": "219151|脉搏心跳没有你根本不重要",
+          "startMs": 219151,
+          "text": "脉搏心跳没有你根本不重要"
+        },
+        {
+          "key": "221279|也许航道以外是醒不来的梦",
+          "startMs": 221279,
+          "text": "也许航道以外是醒不来的梦"
+        },
+        {
+          "key": "223551|乱世以外是纯粹的相遇相拥",
+          "startMs": 223551,
+          "text": "乱世以外是纯粹的相遇相拥"
+        },
+        {
+          "key": "225455|危难中相爱",
+          "startMs": 225455,
+          "text": "危难中相爱"
+        },
+        {
+          "key": "226431|我没想到",
+          "startMs": 226431,
+          "text": "我没想到"
+        },
+        {
+          "key": "237415|我没想到",
+          "startMs": 237415,
+          "text": "我没想到"
+        },
+        {
+          "key": "255041|女：",
+          "startMs": 255041,
+          "text": "女："
+        },
+        {
+          "key": "260409|记住望着我坚定的双眼",
+          "startMs": 260409,
+          "text": "记住望着我坚定的双眼"
+        },
+        {
+          "key": "264457|合：",
+          "startMs": 264457,
+          "text": "合："
+        },
+        {
+          "key": "265241|也许已经没有明天",
+          "startMs": 265241,
+          "text": "也许已经没有明天"
+        }
+      ]
+    }
+  ]
+}

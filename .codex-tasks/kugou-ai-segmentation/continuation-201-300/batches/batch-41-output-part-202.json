@@ -1,0 +1,685 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:a43573d8b95aa638b80c2a34d93fa70c",
+      "lines": [
+        {
+          "key": "0|Ivory Tower - 任舒瞳",
+          "text": "Ivory Tower - 任舒瞳",
+          "segments": [
+            "Ivory ",
+            "Tower ",
+            "- ",
+            "任",
+            "舒",
+            "瞳"
+          ]
+        },
+        {
+          "key": "278|原唱：澤野弘之/SennaRin",
+          "text": "原唱：澤野弘之/SennaRin",
+          "segments": [
+            "原唱：",
+            "澤野弘之",
+            "/",
+            "SennaRin"
+          ]
+        },
+        {
+          "key": "528|Lyrics by：Benjamin/mpi",
+          "text": "Lyrics by：Benjamin/mpi",
+          "segments": [
+            "Lyrics by：",
+            "Benjamin",
+            "/",
+            "mpi"
+          ]
+        },
+        {
+          "key": "639|Composed by：泽野弘之",
+          "text": "Composed by：泽野弘之",
+          "segments": [
+            "Composed by：",
+            "泽野弘之"
+          ]
+        },
+        {
+          "key": "807|It's not easy lose my grip those dreams are calling me",
+          "text": "It's not easy lose my grip those dreams are calling me",
+          "segments": [
+            "It's ",
+            "not ",
+            "easy ",
+            "lose ",
+            "my ",
+            "grip ",
+            "those ",
+            "dreams ",
+            "are ",
+            "calling ",
+            "me"
+          ]
+        },
+        {
+          "key": "4747|Like a hermit used to find a reason not to be",
+          "text": "Like a hermit used to find a reason not to be",
+          "segments": [
+            "Like ",
+            "a ",
+            "hermit ",
+            "used ",
+            "to ",
+            "find ",
+            "a ",
+            "reason ",
+            "not ",
+            "to ",
+            "be"
+          ]
+        },
+        {
+          "key": "8734|You teach me about the history of our fallen heroes",
+          "text": "You teach me about the history of our fallen heroes",
+          "segments": [
+            "You ",
+            "teach ",
+            "me ",
+            "about ",
+            "the ",
+            "history ",
+            "of ",
+            "our ",
+            "fallen ",
+            "heroes"
+          ]
+        },
+        {
+          "key": "12666|Realize I have found a solid companion",
+          "text": "Realize I have found a solid companion",
+          "segments": [
+            "Realize ",
+            "I ",
+            "have ",
+            "found ",
+            "a ",
+            "solid ",
+            "companion"
+          ]
+        },
+        {
+          "key": "16162|Cos",
+          "text": "Cos",
+          "segments": [
+            "Cos"
+          ]
+        },
+        {
+          "key": "16433|I was afraid",
+          "text": "I was afraid",
+          "segments": [
+            "I ",
+            "was ",
+            "afraid"
+          ]
+        },
+        {
+          "key": "18200|Was alone",
+          "text": "Was alone",
+          "segments": [
+            "Was ",
+            "alone"
+          ]
+        },
+        {
+          "key": "19232|In a cave",
+          "text": "In a cave",
+          "segments": [
+            "In ",
+            "a ",
+            "cave"
+          ]
+        },
+        {
+          "key": "20242|Like a stone",
+          "text": "Like a stone",
+          "segments": [
+            "Like ",
+            "a ",
+            "stone"
+          ]
+        },
+        {
+          "key": "24273|This",
+          "text": "This",
+          "segments": [
+            "This"
+          ]
+        },
+        {
+          "key": "24405|Dance is so dangerous",
+          "text": "Dance is so dangerous",
+          "segments": [
+            "Dance ",
+            "is ",
+            "so ",
+            "dangerous"
+          ]
+        },
+        {
+          "key": "26232|So cryptic it changes us",
+          "text": "So cryptic it changes us",
+          "segments": [
+            "So ",
+            "cryptic ",
+            "it ",
+            "changes ",
+            "us"
+          ]
+        },
+        {
+          "key": "28092|But the secrets that we learn",
+          "text": "But the secrets that we learn",
+          "segments": [
+            "But ",
+            "the ",
+            "secrets ",
+            "that ",
+            "we ",
+            "learn"
+          ]
+        },
+        {
+          "key": "29957|Can give power to all of us",
+          "text": "Can give power to all of us",
+          "segments": [
+            "Can ",
+            "give ",
+            "power ",
+            "to ",
+            "all ",
+            "of ",
+            "us"
+          ]
+        },
+        {
+          "key": "32466|Dance shook me dangerous",
+          "text": "Dance shook me dangerous",
+          "segments": [
+            "Dance ",
+            "shook ",
+            "me ",
+            "dangerous"
+          ]
+        },
+        {
+          "key": "34143|So glad that you came to us",
+          "text": "So glad that you came to us",
+          "segments": [
+            "So ",
+            "glad ",
+            "that ",
+            "you ",
+            "came ",
+            "to ",
+            "us"
+          ]
+        },
+        {
+          "key": "36167|Can a lesson that we learn transform our view",
+          "text": "Can a lesson that we learn transform our view",
+          "segments": [
+            "Can ",
+            "a ",
+            "lesson ",
+            "that ",
+            "we ",
+            "learn ",
+            "transform ",
+            "our ",
+            "view"
+          ]
+        },
+        {
+          "key": "39587|Do you hear me",
+          "text": "Do you hear me",
+          "segments": [
+            "Do ",
+            "you ",
+            "hear ",
+            "me"
+          ]
+        },
+        {
+          "key": "40661|Destination I",
+          "text": "Destination I",
+          "segments": [
+            "Destination ",
+            "I"
+          ]
+        },
+        {
+          "key": "42087|Gotta invitation I",
+          "text": "Gotta invitation I",
+          "segments": [
+            "Gotta ",
+            "invitation ",
+            "I"
+          ]
+        },
+        {
+          "key": "43655|Gonna change all my sense",
+          "text": "Gonna change all my sense",
+          "segments": [
+            "Gonna ",
+            "change ",
+            "all ",
+            "my ",
+            "sense"
+          ]
+        },
+        {
+          "key": "44923|Of reality",
+          "text": "Of reality",
+          "segments": [
+            "Of ",
+            "reality"
+          ]
+        },
+        {
+          "key": "46299|Gonna change reality",
+          "text": "Gonna change reality",
+          "segments": [
+            "Gonna ",
+            "change ",
+            "reality"
+          ]
+        },
+        {
+          "key": "47849|Come on my",
+          "text": "Come on my",
+          "segments": [
+            "Come ",
+            "on ",
+            "my"
+          ]
+        },
+        {
+          "key": "48482|Destination I",
+          "text": "Destination I",
+          "segments": [
+            "Destination ",
+            "I"
+          ]
+        },
+        {
+          "key": "50172|Got my information I",
+          "text": "Got my information I",
+          "segments": [
+            "Got ",
+            "my ",
+            "information ",
+            "I"
+          ]
+        },
+        {
+          "key": "51737|Gonna change all my sense",
+          "text": "Gonna change all my sense",
+          "segments": [
+            "Gonna ",
+            "change ",
+            "all ",
+            "my ",
+            "sense"
+          ]
+        },
+        {
+          "key": "52953|Of reality",
+          "text": "Of reality",
+          "segments": [
+            "Of ",
+            "reality"
+          ]
+        },
+        {
+          "key": "54257|Gonna change reality",
+          "text": "Gonna change reality",
+          "segments": [
+            "Gonna ",
+            "change ",
+            "reality"
+          ]
+        },
+        {
+          "key": "56763|In too deep",
+          "text": "In too deep",
+          "segments": [
+            "In ",
+            "too ",
+            "deep"
+          ]
+        },
+        {
+          "key": "58063|When did we pass the point of no return",
+          "text": "When did we pass the point of no return",
+          "segments": [
+            "When ",
+            "did ",
+            "we ",
+            "pass ",
+            "the ",
+            "point ",
+            "of ",
+            "no ",
+            "return"
+          ]
+        },
+        {
+          "key": "60718|A new way to slay the beast",
+          "text": "A new way to slay the beast",
+          "segments": [
+            "A ",
+            "new ",
+            "way ",
+            "to ",
+            "slay ",
+            "the ",
+            "beast"
+          ]
+        },
+        {
+          "key": "63203|We're gonna beat the burn",
+          "text": "We're gonna beat the burn",
+          "segments": [
+            "We're ",
+            "gonna ",
+            "beat ",
+            "the ",
+            "burn"
+          ]
+        },
+        {
+          "key": "64664|Don't think twice keep on pounding on the wall till it shatters",
+          "text": "Don't think twice keep on pounding on the wall till it shatters",
+          "segments": [
+            "Don't ",
+            "think ",
+            "twice ",
+            "keep ",
+            "on ",
+            "pounding ",
+            "on ",
+            "the ",
+            "wall ",
+            "till ",
+            "it ",
+            "shatters"
+          ]
+        },
+        {
+          "key": "68651|Turn the tide",
+          "text": "Turn the tide",
+          "segments": [
+            "Turn ",
+            "the ",
+            "tide"
+          ]
+        },
+        {
+          "key": "69958|Gotta climb the ladder that matters",
+          "text": "Gotta climb the ladder that matters",
+          "segments": [
+            "Gotta ",
+            "climb ",
+            "the ",
+            "ladder ",
+            "that ",
+            "matters"
+          ]
+        },
+        {
+          "key": "72437|Cos",
+          "text": "Cos",
+          "segments": [
+            "Cos"
+          ]
+        },
+        {
+          "key": "72588|I was afraid",
+          "text": "I was afraid",
+          "segments": [
+            "I ",
+            "was ",
+            "afraid"
+          ]
+        },
+        {
+          "key": "74225|Was alone",
+          "text": "Was alone",
+          "segments": [
+            "Was ",
+            "alone"
+          ]
+        },
+        {
+          "key": "75261|In a cave",
+          "text": "In a cave",
+          "segments": [
+            "In ",
+            "a ",
+            "cave"
+          ]
+        },
+        {
+          "key": "76389|Like a stone",
+          "text": "Like a stone",
+          "segments": [
+            "Like ",
+            "a ",
+            "stone"
+          ]
+        },
+        {
+          "key": "80236|This",
+          "text": "This",
+          "segments": [
+            "This"
+          ]
+        },
+        {
+          "key": "80452|Dance is so dangerous",
+          "text": "Dance is so dangerous",
+          "segments": [
+            "Dance ",
+            "is ",
+            "so ",
+            "dangerous"
+          ]
+        },
+        {
+          "key": "82205|So cryptic it changes us",
+          "text": "So cryptic it changes us",
+          "segments": [
+            "So ",
+            "cryptic ",
+            "it ",
+            "changes ",
+            "us"
+          ]
+        },
+        {
+          "key": "84213|But the secrets that we learn",
+          "text": "But the secrets that we learn",
+          "segments": [
+            "But ",
+            "the ",
+            "secrets ",
+            "that ",
+            "we ",
+            "learn"
+          ]
+        },
+        {
+          "key": "85984|Can give power to all of us",
+          "text": "Can give power to all of us",
+          "segments": [
+            "Can ",
+            "give ",
+            "power ",
+            "to ",
+            "all ",
+            "of ",
+            "us"
+          ]
+        },
+        {
+          "key": "88480|Dance shook me dangerous",
+          "text": "Dance shook me dangerous",
+          "segments": [
+            "Dance ",
+            "shook ",
+            "me ",
+            "dangerous"
+          ]
+        },
+        {
+          "key": "90158|So glad that you came to us",
+          "text": "So glad that you came to us",
+          "segments": [
+            "So ",
+            "glad ",
+            "that ",
+            "you ",
+            "came ",
+            "to ",
+            "us"
+          ]
+        },
+        {
+          "key": "92341|Can a lesson that we learn transform our view",
+          "text": "Can a lesson that we learn transform our view",
+          "segments": [
+            "Can ",
+            "a ",
+            "lesson ",
+            "that ",
+            "we ",
+            "learn ",
+            "transform ",
+            "our ",
+            "view"
+          ]
+        },
+        {
+          "key": "95608|Do you hear me",
+          "text": "Do you hear me",
+          "segments": [
+            "Do ",
+            "you ",
+            "hear ",
+            "me"
+          ]
+        },
+        {
+          "key": "96640|Destination I",
+          "text": "Destination I",
+          "segments": [
+            "Destination ",
+            "I"
+          ]
+        },
+        {
+          "key": "98200|Gotta invitation I",
+          "text": "Gotta invitation I",
+          "segments": [
+            "Gotta ",
+            "invitation ",
+            "I"
+          ]
+        },
+        {
+          "key": "99752|Gonna change all my sense",
+          "text": "Gonna change all my sense",
+          "segments": [
+            "Gonna ",
+            "change ",
+            "all ",
+            "my ",
+            "sense"
+          ]
+        },
+        {
+          "key": "100900|Of reality",
+          "text": "Of reality",
+          "segments": [
+            "Of ",
+            "reality"
+          ]
+        },
+        {
+          "key": "102122|Gonna change reality",
+          "text": "Gonna change reality",
+          "segments": [
+            "Gonna ",
+            "change ",
+            "reality"
+          ]
+        },
+        {
+          "key": "103836|Come on my",
+          "text": "Come on my",
+          "segments": [
+            "Come ",
+            "on ",
+            "my"
+          ]
+        },
+        {
+          "key": "104459|Destination I",
+          "text": "Destination I",
+          "segments": [
+            "Destination ",
+            "I"
+          ]
+        },
+        {
+          "key": "106180|Got my information I",
+          "text": "Got my information I",
+          "segments": [
+            "Got ",
+            "my ",
+            "information ",
+            "I"
+          ]
+        },
+        {
+          "key": "107690|Gonna change all my sense",
+          "text": "Gonna change all my sense",
+          "segments": [
+            "Gonna ",
+            "change ",
+            "all ",
+            "my ",
+            "sense"
+          ]
+        },
+        {
+          "key": "108943|Of reality",
+          "text": "Of reality",
+          "segments": [
+            "Of ",
+            "reality"
+          ]
+        },
+        {
+          "key": "110172|Gonna change reality",
+          "text": "Gonna change reality",
+          "segments": [
+            "Gonna ",
+            "change ",
+            "reality"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1365 @@
+{
+  "batchNumber": 54,
+  "songs": [
+    {
+      "rank": 266,
+      "songKey": "online:kugou:2d0dca781b6b6c916accc18bd037cbb9",
+      "name": "云阁 (粤语版 | Cloud Pavilion CAN Ver.)",
+      "artist": "Simyee陈芯怡",
+      "lines": [
+        {
+          "key": "0|词Lyrics：Dickson ",
+          "startMs": 0,
+          "text": "词Lyrics：Dickson "
+        },
+        {
+          "key": "630|曲Composer：Kevin Bton/Simyee 陈芯怡",
+          "startMs": 630,
+          "text": "曲Composer：Kevin Bton/Simyee 陈芯怡"
+        },
+        {
+          "key": "1260|编曲Arrangement：Kevin ",
+          "startMs": 1260,
+          "text": "编曲Arrangement：Kevin "
+        },
+        {
+          "key": "1890|录音Record ：Simyee 陈芯怡",
+          "startMs": 1890,
+          "text": "录音Record ：Simyee 陈芯怡"
+        },
+        {
+          "key": "2520|和声编写Bvox：Simyee 陈芯怡",
+          "startMs": 2520,
+          "text": "和声编写Bvox：Simyee 陈芯怡"
+        },
+        {
+          "key": "3150|混音Mixing：Aech ",
+          "startMs": 3150,
+          "text": "混音Mixing：Aech "
+        },
+        {
+          "key": "3780|制作人Producer:Mr.16 罗隽永",
+          "startMs": 3780,
+          "text": "制作人Producer:Mr.16 罗隽永"
+        },
+        {
+          "key": "4410|出品OP/SP：独创娱乐OriGinal Entertainment ",
+          "startMs": 4410,
+          "text": "出品OP/SP：独创娱乐OriGinal Entertainment "
+        },
+        {
+          "key": "5040|细雨染透看似满布风铃",
+          "startMs": 5040,
+          "text": "细雨染透看似满布风铃"
+        },
+        {
+          "key": "7740|再去细听与你碰上的蝉鸣",
+          "startMs": 7740,
+          "text": "再去细听与你碰上的蝉鸣"
+        },
+        {
+          "key": "11850|哪里会有与你再次相遇",
+          "startMs": 11850,
+          "text": "哪里会有与你再次相遇"
+        },
+        {
+          "key": "18060|看过远处带上有你的缠绵",
+          "startMs": 18060,
+          "text": "看过远处带上有你的缠绵"
+        },
+        {
+          "key": "26370|过去你也会引我注意",
+          "startMs": 26370,
+          "text": "过去你也会引我注意"
+        },
+        {
+          "key": "28380|听你细语吻着青丝",
+          "startMs": 28380,
+          "text": "听你细语吻着青丝"
+        },
+        {
+          "key": "32790|山海中远远透过那深处是",
+          "startMs": 32790,
+          "text": "山海中远远透过那深处是"
+        },
+        {
+          "key": "38640|看似与世隔绝带着青烟",
+          "startMs": 38640,
+          "text": "看似与世隔绝带着青烟"
+        },
+        {
+          "key": "43020|能牵起你手攀山远走了千百转",
+          "startMs": 43020,
+          "text": "能牵起你手攀山远走了千百转"
+        },
+        {
+          "key": "46380|到这里见",
+          "startMs": 46380,
+          "text": "到这里见"
+        },
+        {
+          "key": "51780|Ah ",
+          "startMs": 51780,
+          "text": "Ah "
+        },
+        {
+          "key": "59010|今天花光一生都等你",
+          "startMs": 59010,
+          "text": "今天花光一生都等你"
+        },
+        {
+          "key": "62100|Ah ",
+          "startMs": 62100,
+          "text": "Ah "
+        },
+        {
+          "key": "68940|天边之中等你",
+          "startMs": 68940,
+          "text": "天边之中等你"
+        },
+        {
+          "key": "74040|看远处有落日坠下为你入眠",
+          "startMs": 74040,
+          "text": "看远处有落日坠下为你入眠"
+        },
+        {
+          "key": "79620|脑海里记住你的脸",
+          "startMs": 79620,
+          "text": "脑海里记住你的脸"
+        },
+        {
+          "key": "84450|处处看见落叶现已飘在面前",
+          "startMs": 84450,
+          "text": "处处看见落叶现已飘在面前"
+        },
+        {
+          "key": "89940|仿佛故意让你出现",
+          "startMs": 89940,
+          "text": "仿佛故意让你出现"
+        },
+        {
+          "key": "93450|这世外共你探险",
+          "startMs": 93450,
+          "text": "这世外共你探险"
+        },
+        {
+          "key": "96060|爱会在云阁之巅",
+          "startMs": 96060,
+          "text": "爱会在云阁之巅"
+        },
+        {
+          "key": "103800|这世外共你探险",
+          "startMs": 103800,
+          "text": "这世外共你探险"
+        },
+        {
+          "key": "106350|爱会在云阁之巅",
+          "startMs": 106350,
+          "text": "爱会在云阁之巅"
+        },
+        {
+          "key": "112800|Ah ",
+          "startMs": 112800,
+          "text": "Ah "
+        },
+        {
+          "key": "120930|今天花光一生都等你",
+          "startMs": 120930,
+          "text": "今天花光一生都等你"
+        },
+        {
+          "key": "123900|Ah ",
+          "startMs": 123900,
+          "text": "Ah "
+        },
+        {
+          "key": "130889|天边之中等你",
+          "startMs": 130889,
+          "text": "天边之中等你"
+        },
+        {
+          "key": "141240|Wu Ah ",
+          "startMs": 141240,
+          "text": "Wu Ah "
+        },
+        {
+          "key": "151680|Ah ",
+          "startMs": 151680,
+          "text": "Ah "
+        },
+        {
+          "key": "151920|今天花光一生都等你",
+          "startMs": 151920,
+          "text": "今天花光一生都等你"
+        },
+        {
+          "key": "154710|Ah ",
+          "startMs": 154710,
+          "text": "Ah "
+        },
+        {
+          "key": "161850|天边之中等你",
+          "startMs": 161850,
+          "text": "天边之中等你"
+        },
+        {
+          "key": "169560|Oh ",
+          "startMs": 169560,
+          "text": "Oh "
+        },
+        {
+          "key": "172230|花光一生等你",
+          "startMs": 172230,
+          "text": "花光一生等你"
+        }
+      ]
+    },
+    {
+      "rank": 267,
+      "songKey": "online:kugou:3545dd69f16c1fd5f7998ec8a31adac5",
+      "name": "Everywhere We Go",
+      "artist": "赵栖兑 / 励志豪",
+      "lines": [
+        {
+          "key": "0|Everywhere We Go-赵栖兑&励志豪",
+          "startMs": 0,
+          "text": "Everywhere We Go-赵栖兑&励志豪"
+        },
+        {
+          "key": "948|作词：陈冠希、MC 仁、厨房仔",
+          "startMs": 948,
+          "text": "作词：陈冠希、MC 仁、厨房仔"
+        },
+        {
+          "key": "1896|作曲：Wyshmaster ",
+          "startMs": 1896,
+          "text": "作曲：Wyshmaster "
+        },
+        {
+          "key": "2844|编曲：BDP ",
+          "startMs": 2844,
+          "text": "编曲：BDP "
+        },
+        {
+          "key": "3792|人声编辑：杨炫其",
+          "startMs": 3792,
+          "text": "人声编辑：杨炫其"
+        },
+        {
+          "key": "4740|混音、母带：励志豪",
+          "startMs": 4740,
+          "text": "混音、母带：励志豪"
+        },
+        {
+          "key": "5688|混音室：6am Studio ",
+          "startMs": 5688,
+          "text": "混音室：6am Studio "
+        },
+        {
+          "key": "6636|艺人统筹：阿豪",
+          "startMs": 6636,
+          "text": "艺人统筹：阿豪"
+        },
+        {
+          "key": "7462|封面设计：影子设计",
+          "startMs": 7462,
+          "text": "封面设计：影子设计"
+        },
+        {
+          "key": "8747|赵栖兑：",
+          "startMs": 8747,
+          "text": "赵栖兑："
+        },
+        {
+          "key": "9593|去到每一度 点解总会有得嘈",
+          "startMs": 9593,
+          "text": "去到每一度 点解总会有得嘈"
+        },
+        {
+          "key": "13710|难度继续困死阴湿小气岛",
+          "startMs": 13710,
+          "text": "难度继续困死阴湿小气岛"
+        },
+        {
+          "key": "19020|我有一路 清楚找我有幅图",
+          "startMs": 19020,
+          "text": "我有一路 清楚找我有幅图"
+        },
+        {
+          "key": "23460|闲话素来任你讲卡都好储",
+          "startMs": 23460,
+          "text": "闲话素来任你讲卡都好储"
+        },
+        {
+          "key": "26310|励志豪：",
+          "startMs": 26310,
+          "text": "励志豪："
+        },
+        {
+          "key": "28530|走 去一个冇压力嘅地方",
+          "startMs": 28530,
+          "text": "走 去一个冇压力嘅地方"
+        },
+        {
+          "key": "31230|尽情释放 唔驶理人哋眼光",
+          "startMs": 31230,
+          "text": "尽情释放 唔驶理人哋眼光"
+        },
+        {
+          "key": "33600|黑色白色 唔驶睇人面色",
+          "startMs": 33600,
+          "text": "黑色白色 唔驶睇人面色"
+        },
+        {
+          "key": "36000|意识空间 拥有无穷面积",
+          "startMs": 36000,
+          "text": "意识空间 拥有无穷面积"
+        },
+        {
+          "key": "38340|日出 日落 升空 降落",
+          "startMs": 38340,
+          "text": "日出 日落 升空 降落"
+        },
+        {
+          "key": "43080|一幕又一幕 如梦生命片段重现",
+          "startMs": 43080,
+          "text": "一幕又一幕 如梦生命片段重现"
+        },
+        {
+          "key": "45480|边一幕最值得回味快乐",
+          "startMs": 45480,
+          "text": "边一幕最值得回味快乐"
+        },
+        {
+          "key": "47850|世世代代 一个一个部落起落",
+          "startMs": 47850,
+          "text": "世世代代 一个一个部落起落"
+        },
+        {
+          "key": "50190|边度着落 降临福地",
+          "startMs": 50190,
+          "text": "边度着落 降临福地"
+        },
+        {
+          "key": "52650|地球人 已经忘记 幸福 气味",
+          "startMs": 52650,
+          "text": "地球人 已经忘记 幸福 气味"
+        },
+        {
+          "key": "56940|太空旅程 一步内 由呢度去到嗰度",
+          "startMs": 56940,
+          "text": "太空旅程 一步内 由呢度去到嗰度"
+        },
+        {
+          "key": "60030|两道光线引导 启动星际航道",
+          "startMs": 60030,
+          "text": "两道光线引导 启动星际航道"
+        },
+        {
+          "key": "62400|随意门 去边度就边度",
+          "startMs": 62400,
+          "text": "随意门 去边度就边度"
+        },
+        {
+          "key": "64470|感应天路 走佬",
+          "startMs": 64470,
+          "text": "感应天路 走佬"
+        },
+        {
+          "key": "66420|赵栖兑：",
+          "startMs": 66420,
+          "text": "赵栖兑："
+        },
+        {
+          "key": "66840|On a boat on a train or in an airplane ",
+          "startMs": 66840,
+          "text": "On a boat on a train or in an airplane "
+        },
+        {
+          "key": "71580|There's nothing I'd rather do ",
+          "startMs": 71580,
+          "text": "There's nothing I'd rather do "
+        },
+        {
+          "key": "76350|When we fly in the sky and we go so high ",
+          "startMs": 76350,
+          "text": "When we fly in the sky and we go so high "
+        },
+        {
+          "key": "81090|I've got the world with you ",
+          "startMs": 81090,
+          "text": "I've got the world with you "
+        },
+        {
+          "key": "85800|去到每一度 点解总会有得嘈",
+          "startMs": 85800,
+          "text": "去到每一度 点解总会有得嘈"
+        },
+        {
+          "key": "89730|难度继续困死阴湿小气岛",
+          "startMs": 89730,
+          "text": "难度继续困死阴湿小气岛"
+        },
+        {
+          "key": "95100|我有一路 清楚找我有幅图",
+          "startMs": 95100,
+          "text": "我有一路 清楚找我有幅图"
+        },
+        {
+          "key": "99480|闲话素来任你讲卡都好储",
+          "startMs": 99480,
+          "text": "闲话素来任你讲卡都好储"
+        },
+        {
+          "key": "102360|励志豪：",
+          "startMs": 102360,
+          "text": "励志豪："
+        },
+        {
+          "key": "104520|细个嗰阵时 日日喺度发梦",
+          "startMs": 104520,
+          "text": "细个嗰阵时 日日喺度发梦"
+        },
+        {
+          "key": "106710|老师话我长大之后一定冇用",
+          "startMs": 106710,
+          "text": "老师话我长大之后一定冇用"
+        },
+        {
+          "key": "109050|你咁嘅态度 我戥你老豆老母阴公",
+          "startMs": 109050,
+          "text": "你咁嘅态度 我戥你老豆老母阴公"
+        },
+        {
+          "key": "111990|但系今时今日 超西飞喺天空",
+          "startMs": 111990,
+          "text": "但系今时今日 超西飞喺天空"
+        },
+        {
+          "key": "114390|飞 飞到洛杉矶",
+          "startMs": 114390,
+          "text": "飞 飞到洛杉矶"
+        },
+        {
+          "key": "116160|飞飞飞 继续超越自己",
+          "startMs": 116160,
+          "text": "飞飞飞 继续超越自己"
+        },
+        {
+          "key": "118680|而家飞飞飞度边度都似我屋企",
+          "startMs": 118680,
+          "text": "而家飞飞飞度边度都似我屋企"
+        },
+        {
+          "key": "120960|同我之前啲老师",
+          "startMs": 120960,
+          "text": "同我之前啲老师"
+        },
+        {
+          "key": "122520|我而家举起我个杯",
+          "startMs": 122520,
+          "text": "我而家举起我个杯"
+        },
+        {
+          "key": "124590|我冇放喺心内向你敬礼",
+          "startMs": 124590,
+          "text": "我冇放喺心内向你敬礼"
+        },
+        {
+          "key": "126480|一齐猜猜个枚",
+          "startMs": 126480,
+          "text": "一齐猜猜个枚"
+        },
+        {
+          "key": "128610|247 玩成晚我同啲兄弟唔会嗌攰",
+          "startMs": 128610,
+          "text": "247 玩成晚我同啲兄弟唔会嗌攰"
+        },
+        {
+          "key": "131040|代表CLOT 你可以叫我地CLOT Crew ",
+          "startMs": 131040,
+          "text": "代表CLOT 你可以叫我地CLOT Crew "
+        },
+        {
+          "key": "134010|巴黎东京纽约马尔代夫",
+          "startMs": 134010,
+          "text": "巴黎东京纽约马尔代夫"
+        },
+        {
+          "key": "136380|感觉世界好闷",
+          "startMs": 136380,
+          "text": "感觉世界好闷"
+        },
+        {
+          "key": "138060|细个发啲梦开始变现实",
+          "startMs": 138060,
+          "text": "细个发啲梦开始变现实"
+        },
+        {
+          "key": "139950|除咗佢我个世界争咩 无乜",
+          "startMs": 139950,
+          "text": "除咗佢我个世界争咩 无乜"
+        },
+        {
+          "key": "142020|赵栖兑：",
+          "startMs": 142020,
+          "text": "赵栖兑："
+        },
+        {
+          "key": "142890|On a boat on a train or in an airplane ",
+          "startMs": 142890,
+          "text": "On a boat on a train or in an airplane "
+        },
+        {
+          "key": "147630|There's nothing I'd rather do ",
+          "startMs": 147630,
+          "text": "There's nothing I'd rather do "
+        },
+        {
+          "key": "152400|When we fly in the sky and we go so high ",
+          "startMs": 152400,
+          "text": "When we fly in the sky and we go so high "
+        },
+        {
+          "key": "157140|I've got the world with you ",
+          "startMs": 157140,
+          "text": "I've got the world with you "
+        },
+        {
+          "key": "161910|去到每一度 点解总会有得嘈",
+          "startMs": 161910,
+          "text": "去到每一度 点解总会有得嘈"
+        },
+        {
+          "key": "165780|难度继续困死阴湿小气岛",
+          "startMs": 165780,
+          "text": "难度继续困死阴湿小气岛"
+        },
+        {
+          "key": "171090|我有一路 清楚找我有幅图",
+          "startMs": 171090,
+          "text": "我有一路 清楚找我有幅图"
+        },
+        {
+          "key": "175560|闲话素来任你讲卡都好储",
+          "startMs": 175560,
+          "text": "闲话素来任你讲卡都好储"
+        },
+        {
+          "key": "180570|准备包袱走路 一步一步计算好",
+          "startMs": 180570,
+          "text": "准备包袱走路 一步一步计算好"
+        },
+        {
+          "key": "185250|冇最后说话 最后手稿",
+          "startMs": 185250,
+          "text": "冇最后说话 最后手稿"
+        },
+        {
+          "key": "187770|冇嘢要透露 冇人走宝",
+          "startMs": 187770,
+          "text": "冇嘢要透露 冇人走宝"
+        },
+        {
+          "key": "190140|掉埋包袱走佬",
+          "startMs": 190140,
+          "text": "掉埋包袱走佬"
+        },
+        {
+          "key": "192210|冇论乜嘢地步 不理疲劳",
+          "startMs": 192210,
+          "text": "冇论乜嘢地步 不理疲劳"
+        },
+        {
+          "key": "194850|天与地当被铺 冇任务 几咁好",
+          "startMs": 194850,
+          "text": "天与地当被铺 冇任务 几咁好"
+        },
+        {
+          "key": "199890|On a boat on a train or in an airplane ",
+          "startMs": 199890,
+          "text": "On a boat on a train or in an airplane "
+        },
+        {
+          "key": "204660|There's nothing I'd rather do ",
+          "startMs": 204660,
+          "text": "There's nothing I'd rather do "
+        },
+        {
+          "key": "209430|When we fly in the sky and we go so high ",
+          "startMs": 209430,
+          "text": "When we fly in the sky and we go so high "
+        },
+        {
+          "key": "214140|I've got the world with you ",
+          "startMs": 214140,
+          "text": "I've got the world with you "
+        },
+        {
+          "key": "218850|去到每一度 点解总会有得嘈",
+          "startMs": 218850,
+          "text": "去到每一度 点解总会有得嘈"
+        },
+        {
+          "key": "222780|难度继续困死阴湿小气岛",
+          "startMs": 222780,
+          "text": "难度继续困死阴湿小气岛"
+        },
+        {
+          "key": "228120|我有一路 清楚找我有幅图",
+          "startMs": 228120,
+          "text": "我有一路 清楚找我有幅图"
+        },
+        {
+          "key": "232620|闲话素来任你讲卡都好储",
+          "startMs": 232620,
+          "text": "闲话素来任你讲卡都好储"
+        },
+        {
+          "key": "237870|去到每一度 点解总会有得嘈",
+          "startMs": 237870,
+          "text": "去到每一度 点解总会有得嘈"
+        },
+        {
+          "key": "241800|难度继续困死阴湿小气岛",
+          "startMs": 241800,
+          "text": "难度继续困死阴湿小气岛"
+        },
+        {
+          "key": "247110|我有一路 清楚找我有幅图",
+          "startMs": 247110,
+          "text": "我有一路 清楚找我有幅图"
+        },
+        {
+          "key": "251640|闲话素来任你讲卡都好储",
+          "startMs": 251640,
+          "text": "闲话素来任你讲卡都好储"
+        }
+      ]
+    },
+    {
+      "rank": 268,
+      "songKey": "online:kugou:8c273a503e7e3e49a822bd3c40c6b2ed",
+      "name": "Try",
+      "artist": "Andrea Santiago",
+      "lines": [
+        {
+          "key": "0|Try - Andrea Santiago",
+          "startMs": 0,
+          "text": "Try - Andrea Santiago"
+        },
+        {
+          "key": "4830|Written by：busbee/Ben West/Kurder King",
+          "startMs": 4830,
+          "text": "Written by：busbee/Ben West/Kurder King"
+        },
+        {
+          "key": "9669|Ever wonder 'bout what he's doin'",
+          "startMs": 9669,
+          "text": "Ever wonder 'bout what he's doin'"
+        },
+        {
+          "key": "14307|How it all turned to lies",
+          "startMs": 14307,
+          "text": "How it all turned to lies"
+        },
+        {
+          "key": "19313|Sometimes I think that it's better",
+          "startMs": 19313,
+          "text": "Sometimes I think that it's better"
+        },
+        {
+          "key": "23248|To never ask why",
+          "startMs": 23248,
+          "text": "To never ask why"
+        },
+        {
+          "key": "36444|Where there is desire there is gonna be a flame",
+          "startMs": 36444,
+          "text": "Where there is desire there is gonna be a flame"
+        },
+        {
+          "key": "40853|Where there is a flame someone's bound to get burned",
+          "startMs": 40853,
+          "text": "Where there is a flame someone's bound to get burned"
+        },
+        {
+          "key": "45337|But just because it burns doesn't mean you're gonna die",
+          "startMs": 45337,
+          "text": "But just because it burns doesn't mean you're gonna die"
+        },
+        {
+          "key": "49818|You gotta get up and try try try",
+          "startMs": 49818,
+          "text": "You gotta get up and try try try"
+        },
+        {
+          "key": "54730|Gotta get up and try try try",
+          "startMs": 54730,
+          "text": "Gotta get up and try try try"
+        },
+        {
+          "key": "59040|You gotta get up and try try try",
+          "startMs": 59040,
+          "text": "You gotta get up and try try try"
+        },
+        {
+          "key": "67437|Funny how the heart can be deceiving",
+          "startMs": 67437,
+          "text": "Funny how the heart can be deceiving"
+        },
+        {
+          "key": "72013|More than just a couple times",
+          "startMs": 72013,
+          "text": "More than just a couple times"
+        },
+        {
+          "key": "76988|Why do we fall in love so easy",
+          "startMs": 76988,
+          "text": "Why do we fall in love so easy"
+        },
+        {
+          "key": "81296|Even when it's not right",
+          "startMs": 81296,
+          "text": "Even when it's not right"
+        },
+        {
+          "key": "84620|Where there is desire there is gonna be a flame",
+          "startMs": 84620,
+          "text": "Where there is desire there is gonna be a flame"
+        },
+        {
+          "key": "89268|Where there is a flame someone's bound to get burned",
+          "startMs": 89268,
+          "text": "Where there is a flame someone's bound to get burned"
+        },
+        {
+          "key": "93635|But just because it burns doesn't mean you're gonna die",
+          "startMs": 93635,
+          "text": "But just because it burns doesn't mean you're gonna die"
+        },
+        {
+          "key": "98213|You gotta get up and try try try",
+          "startMs": 98213,
+          "text": "You gotta get up and try try try"
+        },
+        {
+          "key": "103182|Gotta get up and try try try",
+          "startMs": 103182,
+          "text": "Gotta get up and try try try"
+        },
+        {
+          "key": "107502|You gotta get up and try try try",
+          "startMs": 107502,
+          "text": "You gotta get up and try try try"
+        },
+        {
+          "key": "113601|When you're out there doin' what you're doin'",
+          "startMs": 113601,
+          "text": "When you're out there doin' what you're doin'"
+        },
+        {
+          "key": "118153|Are you just getting by",
+          "startMs": 118153,
+          "text": "Are you just getting by"
+        },
+        {
+          "key": "122215|Tell me are you just getting by by by",
+          "startMs": 122215,
+          "text": "Tell me are you just getting by by by"
+        },
+        {
+          "key": "125950|Where there is desire there is gonna be a flame",
+          "startMs": 125950,
+          "text": "Where there is desire there is gonna be a flame"
+        },
+        {
+          "key": "130845|Where there is a flame someone's bound to get burned",
+          "startMs": 130845,
+          "text": "Where there is a flame someone's bound to get burned"
+        },
+        {
+          "key": "135189|But just because it burns doesn't mean you're gonna die",
+          "startMs": 135189,
+          "text": "But just because it burns doesn't mean you're gonna die"
+        },
+        {
+          "key": "139831|You gotta get up and try try try",
+          "startMs": 139831,
+          "text": "You gotta get up and try try try"
+        },
+        {
+          "key": "144673|Gotta get up and try try try",
+          "startMs": 144673,
+          "text": "Gotta get up and try try try"
+        },
+        {
+          "key": "149040|You gotta get up and try try try",
+          "startMs": 149040,
+          "text": "You gotta get up and try try try"
+        }
+      ]
+    },
+    {
+      "rank": 269,
+      "songKey": "online:kugou:271d3a0574425a445c3928ecee5c004a",
+      "name": "转身即心痛",
+      "artist": "吉星出租",
+      "lines": [
+        {
+          "key": "1283|吉星出租 - 转身即心痛",
+          "startMs": 1283,
+          "text": "吉星出租 - 转身即心痛"
+        },
+        {
+          "key": "9935|作词：T1",
+          "startMs": 9935,
+          "text": "作词：T1"
+        },
+        {
+          "key": "13300|作曲：T1",
+          "startMs": 13300,
+          "text": "作曲：T1"
+        },
+        {
+          "key": "16323|论我前世与你几次回眸",
+          "startMs": 16323,
+          "text": "论我前世与你几次回眸"
+        },
+        {
+          "key": "23163|今生是否还能厘清缘由",
+          "startMs": 23163,
+          "text": "今生是否还能厘清缘由"
+        },
+        {
+          "key": "29288|情是否依旧",
+          "startMs": 29288,
+          "text": "情是否依旧"
+        },
+        {
+          "key": "30862|心是否依旧",
+          "startMs": 30862,
+          "text": "心是否依旧"
+        },
+        {
+          "key": "32217|偏爱是否依旧",
+          "startMs": 32217,
+          "text": "偏爱是否依旧"
+        },
+        {
+          "key": "36264|我们却心照不宣都沉默了好久",
+          "startMs": 36264,
+          "text": "我们却心照不宣都沉默了好久"
+        },
+        {
+          "key": "44320|论我们这宿命要转多久",
+          "startMs": 44320,
+          "text": "论我们这宿命要转多久"
+        },
+        {
+          "key": "51071|来生是否还红着脸牵手",
+          "startMs": 51071,
+          "text": "来生是否还红着脸牵手"
+        },
+        {
+          "key": "57391|梦是否依旧",
+          "startMs": 57391,
+          "text": "梦是否依旧"
+        },
+        {
+          "key": "58637|你是否依旧",
+          "startMs": 58637,
+          "text": "你是否依旧"
+        },
+        {
+          "key": "60029|心境是否依旧",
+          "startMs": 60029,
+          "text": "心境是否依旧"
+        },
+        {
+          "key": "63436|分离时情人总絮絮叨叨好久",
+          "startMs": 63436,
+          "text": "分离时情人总絮絮叨叨好久"
+        },
+        {
+          "key": "67445|只求挥手告别无爱无怨无愁",
+          "startMs": 67445,
+          "text": "只求挥手告别无爱无怨无愁"
+        },
+        {
+          "key": "72913|怎么转身又是一阵心痛",
+          "startMs": 72913,
+          "text": "怎么转身又是一阵心痛"
+        },
+        {
+          "key": "79688|只好攥紧双手任泪横流",
+          "startMs": 79688,
+          "text": "只好攥紧双手任泪横流"
+        },
+        {
+          "key": "86292|你说往前走往前走别回头",
+          "startMs": 86292,
+          "text": "你说往前走往前走别回头"
+        },
+        {
+          "key": "93694|一瞬好短怎却望穿走马灯",
+          "startMs": 93694,
+          "text": "一瞬好短怎却望穿走马灯"
+        },
+        {
+          "key": "115180|论我们这宿命要转多久",
+          "startMs": 115180,
+          "text": "论我们这宿命要转多久"
+        },
+        {
+          "key": "122332|来生是否还红着脸牵手",
+          "startMs": 122332,
+          "text": "来生是否还红着脸牵手"
+        },
+        {
+          "key": "128594|梦是否依旧",
+          "startMs": 128594,
+          "text": "梦是否依旧"
+        },
+        {
+          "key": "129920|你是否依旧",
+          "startMs": 129920,
+          "text": "你是否依旧"
+        },
+        {
+          "key": "131289|心境是否依旧",
+          "startMs": 131289,
+          "text": "心境是否依旧"
+        },
+        {
+          "key": "134901|分离时情人总絮絮叨叨好久",
+          "startMs": 134901,
+          "text": "分离时情人总絮絮叨叨好久"
+        },
+        {
+          "key": "138735|只求挥手告别无爱无怨无愁",
+          "startMs": 138735,
+          "text": "只求挥手告别无爱无怨无愁"
+        },
+        {
+          "key": "144185|怎么转身又是一阵心痛",
+          "startMs": 144185,
+          "text": "怎么转身又是一阵心痛"
+        },
+        {
+          "key": "150895|只好攥紧双手任泪横流",
+          "startMs": 150895,
+          "text": "只好攥紧双手任泪横流"
+        },
+        {
+          "key": "157550|你说往前走往前走别回头",
+          "startMs": 157550,
+          "text": "你说往前走往前走别回头"
+        },
+        {
+          "key": "164818|一瞬好短怎却望穿走马灯",
+          "startMs": 164818,
+          "text": "一瞬好短怎却望穿走马灯"
+        }
+      ]
+    },
+    {
+      "rank": 270,
+      "songKey": "online:kugou:997f31985dddd0c353a0f680b7b95dfc",
+      "name": "暮色回响",
+      "artist": "张韶涵",
+      "lines": [
+        {
+          "key": "0|张韶涵 - 暮色回响",
+          "startMs": 0,
+          "text": "张韶涵 - 暮色回响"
+        },
+        {
+          "key": "416|作词：T1",
+          "startMs": 416,
+          "text": "作词：T1"
+        },
+        {
+          "key": "625|作曲：T1",
+          "startMs": 625,
+          "text": "作曲：T1"
+        },
+        {
+          "key": "833|制作人：Tim姜皓天",
+          "startMs": 833,
+          "text": "制作人：Tim姜皓天"
+        },
+        {
+          "key": "1250|编曲：Tim姜皓天",
+          "startMs": 1250,
+          "text": "编曲：Tim姜皓天"
+        },
+        {
+          "key": "1625|吉他：伍凌枫FlinWu",
+          "startMs": 1625,
+          "text": "吉他：伍凌枫FlinWu"
+        },
+        {
+          "key": "2125|贝斯：彭宏立Simon",
+          "startMs": 2125,
+          "text": "贝斯：彭宏立Simon"
+        },
+        {
+          "key": "2583|钢琴：Tim姜皓天/马乐",
+          "startMs": 2583,
+          "text": "钢琴：Tim姜皓天/马乐"
+        },
+        {
+          "key": "3083|和声：王子@Soulkidz",
+          "startMs": 3083,
+          "text": "和声：王子@Soulkidz"
+        },
+        {
+          "key": "3667|弦乐编写：何山/黄宇弘",
+          "startMs": 3667,
+          "text": "弦乐编写：何山/黄宇弘"
+        },
+        {
+          "key": "4125|弦乐监制：胡静成/黄宇弘",
+          "startMs": 4125,
+          "text": "弦乐监制：胡静成/黄宇弘"
+        },
+        {
+          "key": "4625|弦乐演奏：国际首席爱乐乐团",
+          "startMs": 4625,
+          "text": "弦乐演奏：国际首席爱乐乐团"
+        },
+        {
+          "key": "5167|弦乐录音：王小四@金田录音棚",
+          "startMs": 5167,
+          "text": "弦乐录音：王小四@金田录音棚"
+        },
+        {
+          "key": "5750|配唱制作：杨钧尧 Bryan Yang",
+          "startMs": 5750,
+          "text": "配唱制作：杨钧尧 Bryan Yang"
+        },
+        {
+          "key": "6542|人声录音：潘尧泓 Hendrik Pan",
+          "startMs": 6542,
+          "text": "人声录音：潘尧泓 Hendrik Pan"
+        },
+        {
+          "key": "7375|录音室：白金录音室 Platinum Studio",
+          "startMs": 7375,
+          "text": "录音室：白金录音室 Platinum Studio"
+        },
+        {
+          "key": "8417|音频编辑：李宗远@Studio21A",
+          "startMs": 8417,
+          "text": "音频编辑：李宗远@Studio21A"
+        },
+        {
+          "key": "9167|混音母带：周天澈@Studio21A",
+          "startMs": 9167,
+          "text": "混音母带：周天澈@Studio21A"
+        },
+        {
+          "key": "9918|项目支持：李金蕾/彭珂/雷宇/郑薇/万馨蔚/沈雯",
+          "startMs": 9918,
+          "text": "项目支持：李金蕾/彭珂/雷宇/郑薇/万馨蔚/沈雯"
+        },
+        {
+          "key": "12512|词曲OP：乐宣时代（西安）",
+          "startMs": 12512,
+          "text": "词曲OP：乐宣时代（西安）"
+        },
+        {
+          "key": "12972|营销策划：王淼",
+          "startMs": 12972,
+          "text": "营销策划：王淼"
+        },
+        {
+          "key": "13220|总企划：张馨艺 Summer",
+          "startMs": 13220,
+          "text": "总企划：张馨艺 Summer"
+        },
+        {
+          "key": "13715|监制：LSD/唐潇",
+          "startMs": 13715,
+          "text": "监制：LSD/唐潇"
+        },
+        {
+          "key": "14034|出品人：师晶",
+          "startMs": 14034,
+          "text": "出品人：师晶"
+        },
+        {
+          "key": "14246|鸣谢：猫眼宣传中心/猫眼阿尔法短视频工作室/猫眼物料营销团队",
+          "startMs": 14246,
+          "text": "鸣谢：猫眼宣传中心/猫眼阿尔法短视频工作室/猫眼物料营销团队"
+        },
+        {
+          "key": "15308|特别鸣谢：Angmuzik天涵有限公司/乐宣时代（西安）",
+          "startMs": 15308,
+          "text": "特别鸣谢：Angmuzik天涵有限公司/乐宣时代（西安）"
+        },
+        {
+          "key": "16300|传说浩瀚银河有颗星是他",
+          "startMs": 16300,
+          "text": "传说浩瀚银河有颗星是他"
+        },
+        {
+          "key": "19900|走出时间后仍然选择留下",
+          "startMs": 19900,
+          "text": "走出时间后仍然选择留下"
+        },
+        {
+          "key": "23440|漆昼中温柔的不像话",
+          "startMs": 23440,
+          "text": "漆昼中温柔的不像话"
+        },
+        {
+          "key": "26120|静守着他的遗憾啊",
+          "startMs": 26120,
+          "text": "静守着他的遗憾啊"
+        },
+        {
+          "key": "30530|旧的摇椅吱吱呀呀停不下",
+          "startMs": 30530,
+          "text": "旧的摇椅吱吱呀呀停不下"
+        },
+        {
+          "key": "34120|风卷走了满院的落叶落花",
+          "startMs": 34120,
+          "text": "风卷走了满院的落叶落花"
+        },
+        {
+          "key": "37720|邻居家小孩吵闹声好大",
+          "startMs": 37720,
+          "text": "邻居家小孩吵闹声好大"
+        },
+        {
+          "key": "40380|可为什么我总觉得那就是他",
+          "startMs": 40380,
+          "text": "可为什么我总觉得那就是他"
+        },
+        {
+          "key": "45420|或许你也听过他说话",
+          "startMs": 45420,
+          "text": "或许你也听过他说话"
+        },
+        {
+          "key": "47690|低沉或嘶哑",
+          "startMs": 47690,
+          "text": "低沉或嘶哑"
+        },
+        {
+          "key": "49280|那是他在倾诉他的牵挂",
+          "startMs": 49280,
+          "text": "那是他在倾诉他的牵挂"
+        },
+        {
+          "key": "52560|他也许在最后的地点",
+          "startMs": 52560,
+          "text": "他也许在最后的地点"
+        },
+        {
+          "key": "54800|在你的身边",
+          "startMs": 54800,
+          "text": "在你的身边"
+        },
+        {
+          "key": "56380|在你的梦魇",
+          "startMs": 56380,
+          "text": "在你的梦魇"
+        },
+        {
+          "key": "57740|如果看见他请别害怕",
+          "startMs": 57740,
+          "text": "如果看见他请别害怕"
+        },
+        {
+          "key": "59880|神啊",
+          "startMs": 59880,
+          "text": "神啊"
+        },
+        {
+          "key": "61690|可不可以让我感受一下",
+          "startMs": 61690,
+          "text": "可不可以让我感受一下"
+        },
+        {
+          "key": "65030|看在我们对彼此都放心不下",
+          "startMs": 65030,
+          "text": "看在我们对彼此都放心不下"
+        },
+        {
+          "key": "68590|就算一阵风一片叶一个眼神的触碰",
+          "startMs": 68590,
+          "text": "就算一阵风一片叶一个眼神的触碰"
+        },
+        {
+          "key": "72190|都好啊",
+          "startMs": 72190,
+          "text": "都好啊"
+        },
+        {
+          "key": "74180|而他",
+          "startMs": 74180,
+          "text": "而他"
+        },
+        {
+          "key": "75900|可不可以借你给我回答",
+          "startMs": 75900,
+          "text": "可不可以借你给我回答"
+        },
+        {
+          "key": "79260|只有被遗忘才算走到终点吗",
+          "startMs": 79260,
+          "text": "只有被遗忘才算走到终点吗"
+        },
+        {
+          "key": "82800|就算有遗憾也只能永远的留在昨天",
+          "startMs": 82800,
+          "text": "就算有遗憾也只能永远的留在昨天"
+        },
+        {
+          "key": "86790|怀念啊",
+          "startMs": 86790,
+          "text": "怀念啊"
+        },
+        {
+          "key": "95910|啊",
+          "startMs": 95910,
+          "text": "啊"
+        },
+        {
+          "key": "98240|啊",
+          "startMs": 98240,
+          "text": "啊"
+        },
+        {
+          "key": "103450|旧的摇椅吱吱呀呀停不下",
+          "startMs": 103450,
+          "text": "旧的摇椅吱吱呀呀停不下"
+        },
+        {
+          "key": "107010|风卷走了满院的落叶落花",
+          "startMs": 107010,
+          "text": "风卷走了满院的落叶落花"
+        },
+        {
+          "key": "110600|邻居家小孩吵闹声好大",
+          "startMs": 110600,
+          "text": "邻居家小孩吵闹声好大"
+        },
+        {
+          "key": "113240|可为什么我总觉得那就是他",
+          "startMs": 113240,
+          "text": "可为什么我总觉得那就是他"
+        },
+        {
+          "key": "116740|或许你也听过他说话",
+          "startMs": 116740,
+          "text": "或许你也听过他说话"
+        },
+        {
+          "key": "118810|低沉或嘶哑",
+          "startMs": 118810,
+          "text": "低沉或嘶哑"
+        },
+        {
+          "key": "120410|那是他在倾诉他的牵挂",
+          "startMs": 120410,
+          "text": "那是他在倾诉他的牵挂"
+        },
+        {
+          "key": "123680|他也许在最后的地点",
+          "startMs": 123680,
+          "text": "他也许在最后的地点"
+        },
+        {
+          "key": "125900|在你的身边",
+          "startMs": 125900,
+          "text": "在你的身边"
+        },
+        {
+          "key": "127490|在你的梦魇",
+          "startMs": 127490,
+          "text": "在你的梦魇"
+        },
+        {
+          "key": "128820|如果看见他请别害怕",
+          "startMs": 128820,
+          "text": "如果看见他请别害怕"
+        },
+        {
+          "key": "131120|神啊",
+          "startMs": 131120,
+          "text": "神啊"
+        },
+        {
+          "key": "132790|可不可以让我感受一下",
+          "startMs": 132790,
+          "text": "可不可以让我感受一下"
+        },
+        {
+          "key": "136160|看在我们对彼此都放心不下",
+          "startMs": 136160,
+          "text": "看在我们对彼此都放心不下"
+        },
+        {
+          "key": "139690|就算一阵风一片叶一个眼神的触碰",
+          "startMs": 139690,
+          "text": "就算一阵风一片叶一个眼神的触碰"
+        },
+        {
+          "key": "143290|都好啊",
+          "startMs": 143290,
+          "text": "都好啊"
+        },
+        {
+          "key": "145310|而他",
+          "startMs": 145310,
+          "text": "而他"
+        },
+        {
+          "key": "147060|可不可以借你给我回答",
+          "startMs": 147060,
+          "text": "可不可以借你给我回答"
+        },
+        {
+          "key": "150360|只有被遗忘才算走到终点吗",
+          "startMs": 150360,
+          "text": "只有被遗忘才算走到终点吗"
+        },
+        {
+          "key": "153930|就算有遗憾也只能永远的留在昨天",
+          "startMs": 153930,
+          "text": "就算有遗憾也只能永远的留在昨天"
+        },
+        {
+          "key": "157920|怀念啊",
+          "startMs": 157920,
+          "text": "怀念啊"
+        },
+        {
+          "key": "160420|那就等宇宙湮灭等黄泉搁浅我们会化作尘埃",
+          "startMs": 160420,
+          "text": "那就等宇宙湮灭等黄泉搁浅我们会化作尘埃"
+        },
+        {
+          "key": "165940|终将再见",
+          "startMs": 165940,
+          "text": "终将再见"
+        },
+        {
+          "key": "167490|等宇宙湮灭等黄泉搁浅我们会化作尘埃",
+          "startMs": 167490,
+          "text": "等宇宙湮灭等黄泉搁浅我们会化作尘埃"
+        },
+        {
+          "key": "173070|终将再见",
+          "startMs": 173070,
+          "text": "终将再见"
+        }
+      ]
+    }
+  ]
+}

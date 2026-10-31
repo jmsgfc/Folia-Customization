@@ -1,0 +1,1920 @@
+{
+  "batchNumber": 59,
+  "songs": [
+    {
+      "rank": 291,
+      "songKey": "online:kugou:63410f8bf655920fef97326dc22b8c32",
+      "name": "彩云追月 (CCTV音乐频道)",
+      "artist": "水晶灵乐团",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 292,
+      "songKey": "online:kugou:3514d26d3754faf4949a3c40f4bbda63",
+      "name": "Lonely",
+      "artist": "Nana",
+      "lines": [
+        {
+          "key": "100|Nana - Lonely",
+          "startMs": 100,
+          "text": "Nana - Lonely"
+        },
+        {
+          "key": "10119|作词：NANA",
+          "startMs": 10119,
+          "text": "作词：NANA"
+        },
+        {
+          "key": "10853|作曲：Tony Cottura、Bülent Aris、Nana Abrokwa",
+          "startMs": 10853,
+          "text": "作曲：Tony Cottura、Bülent Aris、Nana Abrokwa"
+        },
+        {
+          "key": "30208|I'm lonely lonely lonely",
+          "startMs": 30208,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "35268|I'm lonely lonely in my life",
+          "startMs": 35268,
+          "text": "I'm lonely lonely in my life"
+        },
+        {
+          "key": "40238|I'm lonely lonely lonely",
+          "startMs": 40238,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "45248|God help me help me to survive!",
+          "startMs": 45248,
+          "text": "God help me help me to survive!"
+        },
+        {
+          "key": "52958|Remember first time we met day one",
+          "startMs": 52958,
+          "text": "Remember first time we met day one"
+        },
+        {
+          "key": "55377|Kids in the garden playin' games heaven fun",
+          "startMs": 55377,
+          "text": "Kids in the garden playin' games heaven fun"
+        },
+        {
+          "key": "57955|Excitin' and amazin' havin' a real friend of mine",
+          "startMs": 57955,
+          "text": "Excitin' and amazin' havin' a real friend of mine"
+        },
+        {
+          "key": "60555|Feel my heartbeat and for real friend of mine",
+          "startMs": 60555,
+          "text": "Feel my heartbeat and for real friend of mine"
+        },
+        {
+          "key": "63035|Face to face and eye to eye",
+          "startMs": 63035,
+          "text": "Face to face and eye to eye"
+        },
+        {
+          "key": "65425|Usin' our hands to buy and supply",
+          "startMs": 65425,
+          "text": "Usin' our hands to buy and supply"
+        },
+        {
+          "key": "67974|Chillin' is cool from January to June",
+          "startMs": 67974,
+          "text": "Chillin' is cool from January to June"
+        },
+        {
+          "key": "70054|And we still stiked together like the glue",
+          "startMs": 70054,
+          "text": "And we still stiked together like the glue"
+        },
+        {
+          "key": "72203|You know the rules",
+          "startMs": 72203,
+          "text": "You know the rules"
+        },
+        {
+          "key": "73112|Forever you and I and believe it was clear",
+          "startMs": 73112,
+          "text": "Forever you and I and believe it was clear"
+        },
+        {
+          "key": "75112|If I ever should fall I could count on you with no fear",
+          "startMs": 75112,
+          "text": "If I ever should fall I could count on you with no fear"
+        },
+        {
+          "key": "77952|Runnin' out of time I see who's fake",
+          "startMs": 77952,
+          "text": "Runnin' out of time I see who's fake"
+        },
+        {
+          "key": "80301|Alone without protection from all them snakes",
+          "startMs": 80301,
+          "text": "Alone without protection from all them snakes"
+        },
+        {
+          "key": "82871|All for one one for all I was told",
+          "startMs": 82871,
+          "text": "All for one one for all I was told"
+        },
+        {
+          "key": "85421|Black white yellow no matter if your young or old",
+          "startMs": 85421,
+          "text": "Black white yellow no matter if your young or old"
+        },
+        {
+          "key": "87761|Nana's in the house to let you know",
+          "startMs": 87761,
+          "text": "Nana's in the house to let you know"
+        },
+        {
+          "key": "90201|What I see is how I feel and d**n",
+          "startMs": 90201,
+          "text": "What I see is how I feel and d**n"
+        },
+        {
+          "key": "92629|I'm lonely lonely lonely",
+          "startMs": 92629,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "97729|I'm lonely lonely in my life",
+          "startMs": 97729,
+          "text": "I'm lonely lonely in my life"
+        },
+        {
+          "key": "102709|I'm lonely lonely lonely",
+          "startMs": 102709,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "107639|God help me help me to survive!",
+          "startMs": 107639,
+          "text": "God help me help me to survive!"
+        },
+        {
+          "key": "113389|Everybody's trippin' on me",
+          "startMs": 113389,
+          "text": "Everybody's trippin' on me"
+        },
+        {
+          "key": "115669|Oh lord come help me please",
+          "startMs": 115669,
+          "text": "Oh lord come help me please"
+        },
+        {
+          "key": "118249|I did some bad things in my life",
+          "startMs": 118249,
+          "text": "I did some bad things in my life"
+        },
+        {
+          "key": "123318|Why can't you rescue me 'cause you've got all I need",
+          "startMs": 123318,
+          "text": "Why can't you rescue me 'cause you've got all I need"
+        },
+        {
+          "key": "128246|I know I got to pay the price",
+          "startMs": 128246,
+          "text": "I know I got to pay the price"
+        },
+        {
+          "key": "133446|That's why I am lonely lonely lonely",
+          "startMs": 133446,
+          "text": "That's why I am lonely lonely lonely"
+        },
+        {
+          "key": "138235|I am so lonely lonely",
+          "startMs": 138235,
+          "text": "I am so lonely lonely"
+        },
+        {
+          "key": "143245|That's why I am lonely lonely lonely",
+          "startMs": 143245,
+          "text": "That's why I am lonely lonely lonely"
+        },
+        {
+          "key": "153000|Cheepin' thru the streets at night after a fuss and fight",
+          "startMs": 153000,
+          "text": "Cheepin' thru the streets at night after a fuss and fight"
+        },
+        {
+          "key": "155440|Tears in my eyes I'm a man lookin' for the light",
+          "startMs": 155440,
+          "text": "Tears in my eyes I'm a man lookin' for the light"
+        },
+        {
+          "key": "157919|Dark is the path he will rescue me",
+          "startMs": 157919,
+          "text": "Dark is the path he will rescue me"
+        },
+        {
+          "key": "160279|The lord is my shephard I'm cool despite emergency",
+          "startMs": 160279,
+          "text": "The lord is my shephard I'm cool despite emergency"
+        },
+        {
+          "key": "162699|Whom shall I fear exept the god",
+          "startMs": 162699,
+          "text": "Whom shall I fear exept the god"
+        },
+        {
+          "key": "165399|Thank you for the blessin' and the skils on the mic",
+          "startMs": 165399,
+          "text": "Thank you for the blessin' and the skils on the mic"
+        },
+        {
+          "key": "167669|Five years we know there's no diggity",
+          "startMs": 167669,
+          "text": "Five years we know there's no diggity"
+        },
+        {
+          "key": "170429|Free at last see the light in me",
+          "startMs": 170429,
+          "text": "Free at last see the light in me"
+        },
+        {
+          "key": "172989|What goes up must come down",
+          "startMs": 172989,
+          "text": "What goes up must come down"
+        },
+        {
+          "key": "175358|I'll be around while you heading towards deathtown",
+          "startMs": 175358,
+          "text": "I'll be around while you heading towards deathtown"
+        },
+        {
+          "key": "177986|Always look forward hardly never look back",
+          "startMs": 177986,
+          "text": "Always look forward hardly never look back"
+        },
+        {
+          "key": "180395|So many tears and the snakes on my jock",
+          "startMs": 180395,
+          "text": "So many tears and the snakes on my jock"
+        },
+        {
+          "key": "182895|Now I'm riding in my big fat ride",
+          "startMs": 182895,
+          "text": "Now I'm riding in my big fat ride"
+        },
+        {
+          "key": "185435|Your a** is late so look for the line",
+          "startMs": 185435,
+          "text": "Your a** is late so look for the line"
+        },
+        {
+          "key": "187894|Nana in the house to let you know",
+          "startMs": 187894,
+          "text": "Nana in the house to let you know"
+        },
+        {
+          "key": "190113|What I see is how I feel so leave me alone",
+          "startMs": 190113,
+          "text": "What I see is how I feel so leave me alone"
+        },
+        {
+          "key": "192852|I'm lonely lonely lonely",
+          "startMs": 192852,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "197762|I'm lonely lonely in my life",
+          "startMs": 197762,
+          "text": "I'm lonely lonely in my life"
+        },
+        {
+          "key": "202752|I'm lonely lonely lonely",
+          "startMs": 202752,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "207702|God help me help me to survive!",
+          "startMs": 207702,
+          "text": "God help me help me to survive!"
+        },
+        {
+          "key": "213222|Everybody is trippin' on me",
+          "startMs": 213222,
+          "text": "Everybody is trippin' on me"
+        },
+        {
+          "key": "215671|Oh lord come help me please",
+          "startMs": 215671,
+          "text": "Oh lord come help me please"
+        },
+        {
+          "key": "218191|I did some bad things in my life",
+          "startMs": 218191,
+          "text": "I did some bad things in my life"
+        },
+        {
+          "key": "223161|Why can't you rescue me",
+          "startMs": 223161,
+          "text": "Why can't you rescue me"
+        },
+        {
+          "key": "225720|Cause you've got all I need",
+          "startMs": 225720,
+          "text": "Cause you've got all I need"
+        },
+        {
+          "key": "228200|I know I got to pay the price",
+          "startMs": 228200,
+          "text": "I know I got to pay the price"
+        },
+        {
+          "key": "233300|Knock on my door whom you lookin' for",
+          "startMs": 233300,
+          "text": "Knock on my door whom you lookin' for"
+        },
+        {
+          "key": "235500|A dream or reality enemies at my door",
+          "startMs": 235500,
+          "text": "A dream or reality enemies at my door"
+        },
+        {
+          "key": "237968|Eyes I realize it's fantasize I must be high",
+          "startMs": 237968,
+          "text": "Eyes I realize it's fantasize I must be high"
+        },
+        {
+          "key": "241258|So let me live before I die",
+          "startMs": 241258,
+          "text": "So let me live before I die"
+        },
+        {
+          "key": "243127|Once again grab the bottle twist the cap",
+          "startMs": 243127,
+          "text": "Once again grab the bottle twist the cap"
+        },
+        {
+          "key": "245447|To survive your life is yours my life is mine",
+          "startMs": 245447,
+          "text": "To survive your life is yours my life is mine"
+        },
+        {
+          "key": "248097|No emotions in this world full of lies",
+          "startMs": 248097,
+          "text": "No emotions in this world full of lies"
+        },
+        {
+          "key": "250446|Step my step and be versatile",
+          "startMs": 250446,
+          "text": "Step my step and be versatile"
+        },
+        {
+          "key": "252876|Love peace and crash that's what it's all about",
+          "startMs": 252876,
+          "text": "Love peace and crash that's what it's all about"
+        },
+        {
+          "key": "255465|Alone by yourself than you lack there's no doubt about",
+          "startMs": 255465,
+          "text": "Alone by yourself than you lack there's no doubt about"
+        },
+        {
+          "key": "257914|I'm always into something making moves to improve",
+          "startMs": 257914,
+          "text": "I'm always into something making moves to improve"
+        },
+        {
+          "key": "260413|What would you do if you where in my shoes",
+          "startMs": 260413,
+          "text": "What would you do if you where in my shoes"
+        },
+        {
+          "key": "262923|Boom a letter oops another suicide",
+          "startMs": 262923,
+          "text": "Boom a letter oops another suicide"
+        },
+        {
+          "key": "265512|Meet me for a ride at the boulevard",
+          "startMs": 265512,
+          "text": "Meet me for a ride at the boulevard"
+        },
+        {
+          "key": "267921|Nana's in the house to let you know",
+          "startMs": 267921,
+          "text": "Nana's in the house to let you know"
+        },
+        {
+          "key": "270180|What I see is how I feel and d**n",
+          "startMs": 270180,
+          "text": "What I see is how I feel and d**n"
+        },
+        {
+          "key": "272770|I'm lonely lonely lonely",
+          "startMs": 272770,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "277740|I'm lonely lonely in my life",
+          "startMs": 277740,
+          "text": "I'm lonely lonely in my life"
+        },
+        {
+          "key": "282730|I'm lonely lonely lonely",
+          "startMs": 282730,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "287700|God help me help me to survive!",
+          "startMs": 287700,
+          "text": "God help me help me to survive!"
+        },
+        {
+          "key": "293400|Everybody's trippin' on me",
+          "startMs": 293400,
+          "text": "Everybody's trippin' on me"
+        },
+        {
+          "key": "295720|Oh lord come help me please",
+          "startMs": 295720,
+          "text": "Oh lord come help me please"
+        },
+        {
+          "key": "298190|I did some bad things in my life",
+          "startMs": 298190,
+          "text": "I did some bad things in my life"
+        },
+        {
+          "key": "303370|Why can't you rescue me 'cause you've got all I need",
+          "startMs": 303370,
+          "text": "Why can't you rescue me 'cause you've got all I need"
+        },
+        {
+          "key": "308229|I know I got to pay the price",
+          "startMs": 308229,
+          "text": "I know I got to pay the price"
+        },
+        {
+          "key": "312689|I'm lonely lonely lonely",
+          "startMs": 312689,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "317649|I'm lonely lonely in my life",
+          "startMs": 317649,
+          "text": "I'm lonely lonely in my life"
+        },
+        {
+          "key": "322619|I'm lonely lonely lonely",
+          "startMs": 322619,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "327679|God help me help me to survive!",
+          "startMs": 327679,
+          "text": "God help me help me to survive!"
+        },
+        {
+          "key": "332929|I'm lonely lonely lonely",
+          "startMs": 332929,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "337559|I'm lonely lonely in my life",
+          "startMs": 337559,
+          "text": "I'm lonely lonely in my life"
+        },
+        {
+          "key": "342729|I'm lonely lonely lonely",
+          "startMs": 342729,
+          "text": "I'm lonely lonely lonely"
+        },
+        {
+          "key": "347599|God help me help me to survive!",
+          "startMs": 347599,
+          "text": "God help me help me to survive!"
+        },
+        {
+          "key": "353259|That's why I am lonely lonely lonely",
+          "startMs": 353259,
+          "text": "That's why I am lonely lonely lonely"
+        },
+        {
+          "key": "358259|I am so lonely lonely",
+          "startMs": 358259,
+          "text": "I am so lonely lonely"
+        },
+        {
+          "key": "363239|I am so lonely lonely lonely in my life",
+          "startMs": 363239,
+          "text": "I am so lonely lonely lonely in my life"
+        }
+      ]
+    },
+    {
+      "rank": 293,
+      "songKey": "online:kugou:effa4f46fa2bbf2ff76ec34e0a1d7de8",
+      "name": "Lonely (Remastered)",
+      "artist": "Nana / Booya Family",
+      "lines": [
+        {
+          "key": "109|Nana - Lonely (2021 Remastered Version)",
+          "startMs": 109,
+          "text": "Nana - Lonely (2021 Remastered Version)"
+        },
+        {
+          "key": "7490|Lyrics by：Bülent Aris/Toni Cottura/Nana Abrokwa",
+          "startMs": 7490,
+          "text": "Lyrics by：Bülent Aris/Toni Cottura/Nana Abrokwa"
+        },
+        {
+          "key": "14990|Composed by：Bülent Aris/Toni Cottura/Nana Abrokwa",
+          "startMs": 14990,
+          "text": "Composed by：Bülent Aris/Toni Cottura/Nana Abrokwa"
+        },
+        {
+          "key": "22490|Produced by：Bülent Aris/Toni Cottura",
+          "startMs": 22490,
+          "text": "Produced by：Bülent Aris/Toni Cottura"
+        },
+        {
+          "key": "29995|I am lonely lonely lonely",
+          "startMs": 29995,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "34963|I am lonely lonely in my life",
+          "startMs": 34963,
+          "text": "I am lonely lonely in my life"
+        },
+        {
+          "key": "39715|I am lonely lonely lonely",
+          "startMs": 39715,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "44875|God help me help me to survive",
+          "startMs": 44875,
+          "text": "God help me help me to survive"
+        },
+        {
+          "key": "52747|Remember first time we met day one",
+          "startMs": 52747,
+          "text": "Remember first time we met day one"
+        },
+        {
+          "key": "55027|Kids in the garden' playin' games havin' fun",
+          "startMs": 55027,
+          "text": "Kids in the garden' playin' games havin' fun"
+        },
+        {
+          "key": "57699|Excitin' and amazin' havin' a real friend of mine",
+          "startMs": 57699,
+          "text": "Excitin' and amazin' havin' a real friend of mine"
+        },
+        {
+          "key": "60371|Feel my heart and real I am glad",
+          "startMs": 60371,
+          "text": "Feel my heart and real I am glad"
+        },
+        {
+          "key": "62755|Face to face and eye to eye",
+          "startMs": 62755,
+          "text": "Face to face and eye to eye"
+        },
+        {
+          "key": "65019|Usin' our hands to buy and supply",
+          "startMs": 65019,
+          "text": "Usin' our hands to buy and supply"
+        },
+        {
+          "key": "67631|Chillin' is cool from January to June",
+          "startMs": 67631,
+          "text": "Chillin' is cool from January to June"
+        },
+        {
+          "key": "69752|And we still sticked together like the glue",
+          "startMs": 69752,
+          "text": "And we still sticked together like the glue"
+        },
+        {
+          "key": "72080|You know the rules",
+          "startMs": 72080,
+          "text": "You know the rules"
+        },
+        {
+          "key": "72764|Forever you and I and believe it was clear",
+          "startMs": 72764,
+          "text": "Forever you and I and believe it was clear"
+        },
+        {
+          "key": "74924|If I ever should fall",
+          "startMs": 74924,
+          "text": "If I ever should fall"
+        },
+        {
+          "key": "76036|I could count on you with no fear",
+          "startMs": 76036,
+          "text": "I could count on you with no fear"
+        },
+        {
+          "key": "77780|Runnin' out of time I see who's fake",
+          "startMs": 77780,
+          "text": "Runnin' out of time I see who's fake"
+        },
+        {
+          "key": "79862|Alone without protection from all them snakes",
+          "startMs": 79862,
+          "text": "Alone without protection from all them snakes"
+        },
+        {
+          "key": "82350|All for one one for all I was told",
+          "startMs": 82350,
+          "text": "All for one one for all I was told"
+        },
+        {
+          "key": "84942|Black white yellow if your young or old",
+          "startMs": 84942,
+          "text": "Black white yellow if your young or old"
+        },
+        {
+          "key": "87366|Nana's in the house to let you know",
+          "startMs": 87366,
+          "text": "Nana's in the house to let you know"
+        },
+        {
+          "key": "89838|What I see is how I feel and d**n",
+          "startMs": 89838,
+          "text": "What I see is how I feel and d**n"
+        },
+        {
+          "key": "92360|I'm alone",
+          "startMs": 92360,
+          "text": "I'm alone"
+        },
+        {
+          "key": "92713|I am lonely lonely lonely",
+          "startMs": 92713,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "97432|I am lonely lonely in my life",
+          "startMs": 97432,
+          "text": "I am lonely lonely in my life"
+        },
+        {
+          "key": "102440|I am lonely lonely lonely",
+          "startMs": 102440,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "107424|God help me help me to survive",
+          "startMs": 107424,
+          "text": "God help me help me to survive"
+        },
+        {
+          "key": "113192|Everybody's trippin' on me",
+          "startMs": 113192,
+          "text": "Everybody's trippin' on me"
+        },
+        {
+          "key": "115485|Oh Lord come help me please",
+          "startMs": 115485,
+          "text": "Oh Lord come help me please"
+        },
+        {
+          "key": "117997|I did some bad things in my life",
+          "startMs": 117997,
+          "text": "I did some bad things in my life"
+        },
+        {
+          "key": "123101|Why can't you rescue me 'cause you've got all I need",
+          "startMs": 123101,
+          "text": "Why can't you rescue me 'cause you've got all I need"
+        },
+        {
+          "key": "127981|I know I got to pay the price",
+          "startMs": 127981,
+          "text": "I know I got to pay the price"
+        },
+        {
+          "key": "133029|That's why I am lonely lonely lonely",
+          "startMs": 133029,
+          "text": "That's why I am lonely lonely lonely"
+        },
+        {
+          "key": "138037|I am so lonely lonely",
+          "startMs": 138037,
+          "text": "I am so lonely lonely"
+        },
+        {
+          "key": "143045|That's why I am lonely lonely lonely",
+          "startMs": 143045,
+          "text": "That's why I am lonely lonely lonely"
+        },
+        {
+          "key": "147869|Hey hey yeah",
+          "startMs": 147869,
+          "text": "Hey hey yeah"
+        },
+        {
+          "key": "152765|Creepin' thru the streets at night after a fuss and fight",
+          "startMs": 152765,
+          "text": "Creepin' thru the streets at night after a fuss and fight"
+        },
+        {
+          "key": "155357|Tears in my eyes I'm a man lookin' for the light",
+          "startMs": 155357,
+          "text": "Tears in my eyes I'm a man lookin' for the light"
+        },
+        {
+          "key": "157717|Dark is the path he will rescue me",
+          "startMs": 157717,
+          "text": "Dark is the path he will rescue me"
+        },
+        {
+          "key": "160132|The lord is my shephard I'm cool despite emergency",
+          "startMs": 160132,
+          "text": "The lord is my shephard I'm cool despite emergency"
+        },
+        {
+          "key": "162652|Whom shall I fear exept the GOD",
+          "startMs": 162652,
+          "text": "Whom shall I fear exept the GOD"
+        },
+        {
+          "key": "165100|Thank you for the blessin' and the skills on the MIC",
+          "startMs": 165100,
+          "text": "Thank you for the blessin' and the skills on the MIC"
+        },
+        {
+          "key": "167532|Five years we know there's no diggity",
+          "startMs": 167532,
+          "text": "Five years we know there's no diggity"
+        },
+        {
+          "key": "170052|Free at last see the light in me",
+          "startMs": 170052,
+          "text": "Free at last see the light in me"
+        },
+        {
+          "key": "172844|What goes up must come down",
+          "startMs": 172844,
+          "text": "What goes up must come down"
+        },
+        {
+          "key": "175036|I'll be around while you heading towards deathtown",
+          "startMs": 175036,
+          "text": "I'll be around while you heading towards deathtown"
+        },
+        {
+          "key": "177596|Always look forward hardly never look back",
+          "startMs": 177596,
+          "text": "Always look forward hardly never look back"
+        },
+        {
+          "key": "179812|So many tears and the snakes on my jack",
+          "startMs": 179812,
+          "text": "So many tears and the snakes on my jack"
+        },
+        {
+          "key": "182756|Now I'm riding in my big fat ride",
+          "startMs": 182756,
+          "text": "Now I'm riding in my big fat ride"
+        },
+        {
+          "key": "185148|Your a*s is late so look for the line",
+          "startMs": 185148,
+          "text": "Your a*s is late so look for the line"
+        },
+        {
+          "key": "187644|Nana in the house to let you know",
+          "startMs": 187644,
+          "text": "Nana in the house to let you know"
+        },
+        {
+          "key": "189836|What I see is how I feel so leave me alone",
+          "startMs": 189836,
+          "text": "What I see is how I feel so leave me alone"
+        },
+        {
+          "key": "192540|I am lonely lonely lonely",
+          "startMs": 192540,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "197452|I am lonely lonely in my life",
+          "startMs": 197452,
+          "text": "I am lonely lonely in my life"
+        },
+        {
+          "key": "202547|I am lonely lonely lonely",
+          "startMs": 202547,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "207451|God help me help me to survive",
+          "startMs": 207451,
+          "text": "God help me help me to survive"
+        },
+        {
+          "key": "213011|Everybody's trippin' on me",
+          "startMs": 213011,
+          "text": "Everybody's trippin' on me"
+        },
+        {
+          "key": "215323|Oh lord come help me please",
+          "startMs": 215323,
+          "text": "Oh lord come help me please"
+        },
+        {
+          "key": "217963|I did some bad things in my life",
+          "startMs": 217963,
+          "text": "I did some bad things in my life"
+        },
+        {
+          "key": "222923|Why can't you rescue me 'cause you've got all I need",
+          "startMs": 222923,
+          "text": "Why can't you rescue me 'cause you've got all I need"
+        },
+        {
+          "key": "228035|I know I got to pay the price",
+          "startMs": 228035,
+          "text": "I know I got to pay the price"
+        },
+        {
+          "key": "232979|Knock on my door whom you lookin' for",
+          "startMs": 232979,
+          "text": "Knock on my door whom you lookin' for"
+        },
+        {
+          "key": "235243|A dream or reality enemies at the door",
+          "startMs": 235243,
+          "text": "A dream or reality enemies at the door"
+        },
+        {
+          "key": "237755|Eyes I realize it's fantasize I must be high",
+          "startMs": 237755,
+          "text": "Eyes I realize it's fantasize I must be high"
+        },
+        {
+          "key": "241123|So let me live before I die",
+          "startMs": 241123,
+          "text": "So let me live before I die"
+        },
+        {
+          "key": "242931|Grab the bottle by cap and survive",
+          "startMs": 242931,
+          "text": "Grab the bottle by cap and survive"
+        },
+        {
+          "key": "245107|Your life is yours and my life is mine",
+          "startMs": 245107,
+          "text": "Your life is yours and my life is mine"
+        },
+        {
+          "key": "247651|No emotions in world full of lies",
+          "startMs": 247651,
+          "text": "No emotions in world full of lies"
+        },
+        {
+          "key": "250131|Step my step and be versatile",
+          "startMs": 250131,
+          "text": "Step my step and be versatile"
+        },
+        {
+          "key": "252723|Love peace and cab that's what it's all about",
+          "startMs": 252723,
+          "text": "Love peace and cab that's what it's all about"
+        },
+        {
+          "key": "255187|Alone by yourself than you lack there's no doubt about",
+          "startMs": 255187,
+          "text": "Alone by yourself than you lack there's no doubt about"
+        },
+        {
+          "key": "257859|I'm always into something making moves to improve",
+          "startMs": 257859,
+          "text": "I'm always into something making moves to improve"
+        },
+        {
+          "key": "259971|What would you do if you were in my shoes",
+          "startMs": 259971,
+          "text": "What would you do if you were in my shoes"
+        },
+        {
+          "key": "262667|Boom a letter oops another suicide",
+          "startMs": 262667,
+          "text": "Boom a letter oops another suicide"
+        },
+        {
+          "key": "265216|Meet me for a ride on the boulevard",
+          "startMs": 265216,
+          "text": "Meet me for a ride on the boulevard"
+        },
+        {
+          "key": "267826|Nana's in the house to let you know",
+          "startMs": 267826,
+          "text": "Nana's in the house to let you know"
+        },
+        {
+          "key": "269928|What I see is how I feel and d**n",
+          "startMs": 269928,
+          "text": "What I see is how I feel and d**n"
+        },
+        {
+          "key": "272351|I'm alone",
+          "startMs": 272351,
+          "text": "I'm alone"
+        },
+        {
+          "key": "272702|I am lonely lonely lonely",
+          "startMs": 272702,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "277458|I am lonely lonely in my life",
+          "startMs": 277458,
+          "text": "I am lonely lonely in my life"
+        },
+        {
+          "key": "282294|I am lonely lonely lonely",
+          "startMs": 282294,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "287462|God help me help me to survive",
+          "startMs": 287462,
+          "text": "God help me help me to survive"
+        },
+        {
+          "key": "293174|Everybody's trippin' on me",
+          "startMs": 293174,
+          "text": "Everybody's trippin' on me"
+        },
+        {
+          "key": "295477|Oh Lord come help me please",
+          "startMs": 295477,
+          "text": "Oh Lord come help me please"
+        },
+        {
+          "key": "297997|I did some bad things in my life",
+          "startMs": 297997,
+          "text": "I did some bad things in my life"
+        },
+        {
+          "key": "303101|Why can't you rescue me 'cause you've got all I need",
+          "startMs": 303101,
+          "text": "Why can't you rescue me 'cause you've got all I need"
+        },
+        {
+          "key": "307990|I know I got to pay the price",
+          "startMs": 307990,
+          "text": "I know I got to pay the price"
+        },
+        {
+          "key": "312734|I am lonely lonely lonely",
+          "startMs": 312734,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "317453|I am lonely lonely in my life",
+          "startMs": 317453,
+          "text": "I am lonely lonely in my life"
+        },
+        {
+          "key": "322501|I am lonely lonely lonely",
+          "startMs": 322501,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "327406|God help me help me to survive",
+          "startMs": 327406,
+          "text": "God help me help me to survive"
+        },
+        {
+          "key": "332757|I am lonely lonely lonely",
+          "startMs": 332757,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "337509|I am lonely lonely in my life",
+          "startMs": 337509,
+          "text": "I am lonely lonely in my life"
+        },
+        {
+          "key": "342533|I am lonely lonely lonely",
+          "startMs": 342533,
+          "text": "I am lonely lonely lonely"
+        },
+        {
+          "key": "347469|God help me help me to survive",
+          "startMs": 347469,
+          "text": "God help me help me to survive"
+        },
+        {
+          "key": "353061|That's why I am lonely lonely lonely",
+          "startMs": 353061,
+          "text": "That's why I am lonely lonely lonely"
+        },
+        {
+          "key": "357997|I am so lonely lonely",
+          "startMs": 357997,
+          "text": "I am so lonely lonely"
+        },
+        {
+          "key": "362968|I am so lonely lonely lonely in my life",
+          "startMs": 362968,
+          "text": "I am so lonely lonely lonely in my life"
+        },
+        {
+          "key": "368073|Aah",
+          "startMs": 368073,
+          "text": "Aah"
+        }
+      ]
+    },
+    {
+      "rank": 294,
+      "songKey": "online:kugou:062ea07bb74a381c54524c9f91714d81",
+      "name": "Angel",
+      "artist": "尹美莱 / Tiger JK / Bizzy",
+      "lines": [
+        {
+          "key": "819|ANGEL (天使) - 尹美莱/Tiger JK/Bizzy",
+          "startMs": 819,
+          "text": "ANGEL (天使) - 尹美莱/Tiger JK/Bizzy"
+        },
+        {
+          "key": "3835|词：Tiger JK/윤미래/Bizzy",
+          "startMs": 3835,
+          "text": "词：Tiger JK/윤미래/Bizzy"
+        },
+        {
+          "key": "5119|曲：박재선(Jason Park)/윤미래",
+          "startMs": 5119,
+          "text": "曲：박재선(Jason Park)/윤미래"
+        },
+        {
+          "key": "15670|You will always be my",
+          "startMs": 15670,
+          "text": "You will always be my"
+        },
+        {
+          "key": "22238|You will always be my",
+          "startMs": 22238,
+          "text": "You will always be my"
+        },
+        {
+          "key": "26495|넌 나의 A N G E L",
+          "startMs": 26495,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "28793|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 28793,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "31911|누가 뭐라 해도",
+          "startMs": 31911,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "33055|You you",
+          "startMs": 33055,
+          "text": "You you"
+        },
+        {
+          "key": "34583|내 맘을 녹여 너의",
+          "startMs": 34583,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "35491|I Love you you",
+          "startMs": 35491,
+          "text": "I Love you you"
+        },
+        {
+          "key": "37791|Cause you will always be my",
+          "startMs": 37791,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "39364|넌 나의 A N G E L",
+          "startMs": 39364,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "41437|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 41437,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "44698|누가 뭐라 해도",
+          "startMs": 44698,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "45833|You you",
+          "startMs": 45833,
+          "text": "You you"
+        },
+        {
+          "key": "47388|내 맘을 녹여 너의",
+          "startMs": 47388,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "48450|I Love you you",
+          "startMs": 48450,
+          "text": "I Love you you"
+        },
+        {
+          "key": "50716|Cause you will always be my",
+          "startMs": 50716,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "52539|윤달에 생일은 여덟 번",
+          "startMs": 52539,
+          "text": "윤달에 생일은 여덟 번"
+        },
+        {
+          "key": "53900|내 생에 위기는 여러 번",
+          "startMs": 53900,
+          "text": "내 생에 위기는 여러 번"
+        },
+        {
+          "key": "55537|굽혀진 팔자로 걸었던",
+          "startMs": 55537,
+          "text": "굽혀진 팔자로 걸었던"
+        },
+        {
+          "key": "57191|걷고 걷고 걸었던",
+          "startMs": 57191,
+          "text": "걷고 걷고 걸었던"
+        },
+        {
+          "key": "58755|취해 하늘에 말을 걸어",
+          "startMs": 58755,
+          "text": "취해 하늘에 말을 걸어"
+        },
+        {
+          "key": "60443|신에게 시비를 걸었던",
+          "startMs": 60443,
+          "text": "신에게 시비를 걸었던"
+        },
+        {
+          "key": "61970|막막한 앞날에 막말해",
+          "startMs": 61970,
+          "text": "막막한 앞날에 막말해"
+        },
+        {
+          "key": "63482|솔직히 몰래 떨었던",
+          "startMs": 63482,
+          "text": "솔직히 몰래 떨었던"
+        },
+        {
+          "key": "65147|철없던 그랬던",
+          "startMs": 65147,
+          "text": "철없던 그랬던"
+        },
+        {
+          "key": "66757|꿈은 아주 멀었던 꿈일 뿐",
+          "startMs": 66757,
+          "text": "꿈은 아주 멀었던 꿈일 뿐"
+        },
+        {
+          "key": "69220|무일푼 내게는 사치일 뿐",
+          "startMs": 69220,
+          "text": "무일푼 내게는 사치일 뿐"
+        },
+        {
+          "key": "71595|그러던 내게 다가와",
+          "startMs": 71595,
+          "text": "그러던 내게 다가와"
+        },
+        {
+          "key": "73451|넌 내게 다가와",
+          "startMs": 73451,
+          "text": "넌 내게 다가와"
+        },
+        {
+          "key": "74946|마치 내가 태양인 듯",
+          "startMs": 74946,
+          "text": "마치 내가 태양인 듯"
+        },
+        {
+          "key": "76699|나 너만 바라봐",
+          "startMs": 76699,
+          "text": "나 너만 바라봐"
+        },
+        {
+          "key": "79076|넌 나만 바라봐",
+          "startMs": 79076,
+          "text": "넌 나만 바라봐"
+        },
+        {
+          "key": "80900|넌 나의 A N G E L",
+          "startMs": 80900,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "83155|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 83155,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "86315|누가 뭐라 해도",
+          "startMs": 86315,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "87402|You you",
+          "startMs": 87402,
+          "text": "You you"
+        },
+        {
+          "key": "89027|내 맘을 녹여 너의",
+          "startMs": 89027,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "90160|I Love you you",
+          "startMs": 90160,
+          "text": "I Love you you"
+        },
+        {
+          "key": "92177|Cause you will always be my",
+          "startMs": 92177,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "93835|넌 나의 A N G E L",
+          "startMs": 93835,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "95888|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 95888,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "99144|누가 뭐라 해도",
+          "startMs": 99144,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "100079|You you",
+          "startMs": 100079,
+          "text": "You you"
+        },
+        {
+          "key": "101875|내 맘을 녹여 너의",
+          "startMs": 101875,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "102915|I Love you you",
+          "startMs": 102915,
+          "text": "I Love you you"
+        },
+        {
+          "key": "105003|Cause you will always be my",
+          "startMs": 105003,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "106817|1 2 3 4 5 6 7",
+          "startMs": 106817,
+          "text": "1 2 3 4 5 6 7"
+        },
+        {
+          "key": "108367|칠전팔기 오르막길",
+          "startMs": 108367,
+          "text": "칠전팔기 오르막길"
+        },
+        {
+          "key": "109938|올라가다 곤두박질",
+          "startMs": 109938,
+          "text": "올라가다 곤두박질"
+        },
+        {
+          "key": "111551|친구라는 무리들의",
+          "startMs": 111551,
+          "text": "친구라는 무리들의"
+        },
+        {
+          "key": "113089|비웃는 손가락질 하는",
+          "startMs": 113089,
+          "text": "비웃는 손가락질 하는"
+        },
+        {
+          "key": "115087|잘난 이들을 보며",
+          "startMs": 115087,
+          "text": "잘난 이들을 보며"
+        },
+        {
+          "key": "116370|난 내 이를 갈았지",
+          "startMs": 116370,
+          "text": "난 내 이를 갈았지"
+        },
+        {
+          "key": "117845|나 그렇게 살았지",
+          "startMs": 117845,
+          "text": "나 그렇게 살았지"
+        },
+        {
+          "key": "119529|내 영혼도 눈감았지",
+          "startMs": 119529,
+          "text": "내 영혼도 눈감았지"
+        },
+        {
+          "key": "121087|내 그림자도 귀찮아진",
+          "startMs": 121087,
+          "text": "내 그림자도 귀찮아진"
+        },
+        {
+          "key": "122683|혹시 그때 내 맘 알어",
+          "startMs": 122683,
+          "text": "혹시 그때 내 맘 알어"
+        },
+        {
+          "key": "124332|그때 넌 날 감싸 안어",
+          "startMs": 124332,
+          "text": "그때 넌 날 감싸 안어"
+        },
+        {
+          "key": "125920|Angel My Angel",
+          "startMs": 125920,
+          "text": "Angel My Angel"
+        },
+        {
+          "key": "127085|나 미소 짓게 해",
+          "startMs": 127085,
+          "text": "나 미소 짓게 해"
+        },
+        {
+          "key": "128821|널 위해 모든 할 수 있어",
+          "startMs": 128821,
+          "text": "널 위해 모든 할 수 있어"
+        },
+        {
+          "key": "130737|집도 짓게 돼",
+          "startMs": 130737,
+          "text": "집도 짓게 돼"
+        },
+        {
+          "key": "132264|My Angel My Angel",
+          "startMs": 132264,
+          "text": "My Angel My Angel"
+        },
+        {
+          "key": "133590|나 미소 짓게 해",
+          "startMs": 133590,
+          "text": "나 미소 짓게 해"
+        },
+        {
+          "key": "135428|널 위해 모든 할 수 있어",
+          "startMs": 135428,
+          "text": "널 위해 모든 할 수 있어"
+        },
+        {
+          "key": "137110|집도 짓게 돼",
+          "startMs": 137110,
+          "text": "집도 짓게 돼"
+        },
+        {
+          "key": "138231|넌 나의 A N G E L",
+          "startMs": 138231,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "140681|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 140681,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "144023|누가 뭐라 해도",
+          "startMs": 144023,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "145009|You you",
+          "startMs": 145009,
+          "text": "You you"
+        },
+        {
+          "key": "146617|내 맘을 녹여 너의",
+          "startMs": 146617,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "147747|I Love you you",
+          "startMs": 147747,
+          "text": "I Love you you"
+        },
+        {
+          "key": "149832|Cause you will always be my",
+          "startMs": 149832,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "151399|넌 나의 A N G E L",
+          "startMs": 151399,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "153489|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 153489,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "156826|누가 뭐라 해도",
+          "startMs": 156826,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "157748|You you",
+          "startMs": 157748,
+          "text": "You you"
+        },
+        {
+          "key": "159417|내 맘을 녹여 너의",
+          "startMs": 159417,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "160520|I Love you you",
+          "startMs": 160520,
+          "text": "I Love you you"
+        },
+        {
+          "key": "162610|Cause you will always be my",
+          "startMs": 162610,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "164471|웃음이 번져 내 입가에 넘쳐",
+          "startMs": 164471,
+          "text": "웃음이 번져 내 입가에 넘쳐"
+        },
+        {
+          "key": "167853|No matter what they say",
+          "startMs": 167853,
+          "text": "No matter what they say"
+        },
+        {
+          "key": "169238|Imma hold you closer",
+          "startMs": 169238,
+          "text": "Imma hold you closer"
+        },
+        {
+          "key": "171142|웃음이 번져 내 입가에 넘쳐",
+          "startMs": 171142,
+          "text": "웃음이 번져 내 입가에 넘쳐"
+        },
+        {
+          "key": "174270|No matter what they say",
+          "startMs": 174270,
+          "text": "No matter what they say"
+        },
+        {
+          "key": "175686|Imma hold you closer",
+          "startMs": 175686,
+          "text": "Imma hold you closer"
+        },
+        {
+          "key": "177269|Used to be a silly bum",
+          "startMs": 177269,
+          "text": "Used to be a silly bum"
+        },
+        {
+          "key": "178812|지칠 때로 지쳤던",
+          "startMs": 178812,
+          "text": "지칠 때로 지쳤던"
+        },
+        {
+          "key": "180324|힘들어 쓰러졌던",
+          "startMs": 180324,
+          "text": "힘들어 쓰러졌던"
+        },
+        {
+          "key": "181469|내게 날개를 달아줘",
+          "startMs": 181469,
+          "text": "내게 날개를 달아줘"
+        },
+        {
+          "key": "183595|Used to be a silly bum",
+          "startMs": 183595,
+          "text": "Used to be a silly bum"
+        },
+        {
+          "key": "185219|지칠 때로 지쳤던",
+          "startMs": 185219,
+          "text": "지칠 때로 지쳤던"
+        },
+        {
+          "key": "186712|힘들어 쓰러졌던",
+          "startMs": 186712,
+          "text": "힘들어 쓰러졌던"
+        },
+        {
+          "key": "187959|내게 날개를 달아줘",
+          "startMs": 187959,
+          "text": "내게 날개를 달아줘"
+        },
+        {
+          "key": "189793|넌 나의 A N G E L",
+          "startMs": 189793,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "191913|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 191913,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "195201|누가 뭐라 해도",
+          "startMs": 195201,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "196318|You you",
+          "startMs": 196318,
+          "text": "You you"
+        },
+        {
+          "key": "197865|내 맘을 녹여 너의",
+          "startMs": 197865,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "198862|I Love you you",
+          "startMs": 198862,
+          "text": "I Love you you"
+        },
+        {
+          "key": "201100|Cause you will always be my",
+          "startMs": 201100,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "202422|넌 나의 A N G E L",
+          "startMs": 202422,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "204762|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 204762,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "208006|누가 뭐라 해도",
+          "startMs": 208006,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "209065|You you",
+          "startMs": 209065,
+          "text": "You you"
+        },
+        {
+          "key": "210704|내 맘을 녹여 너의",
+          "startMs": 210704,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "211794|I Love you you",
+          "startMs": 211794,
+          "text": "I Love you you"
+        },
+        {
+          "key": "213857|Cause you will always be my",
+          "startMs": 213857,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "215358|넌 나의 A N G E L",
+          "startMs": 215358,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "217529|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 217529,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "220745|누가 뭐라 해도",
+          "startMs": 220745,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "221839|You you",
+          "startMs": 221839,
+          "text": "You you"
+        },
+        {
+          "key": "223376|내 맘을 녹여 너의",
+          "startMs": 223376,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "224411|I Love you you",
+          "startMs": 224411,
+          "text": "I Love you you"
+        },
+        {
+          "key": "226531|Cause you will always be my",
+          "startMs": 226531,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "228313|넌 나의 A N G E L",
+          "startMs": 228313,
+          "text": "넌 나의 A N G E L"
+        },
+        {
+          "key": "230330|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 230330,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "233578|누가 뭐라 해도",
+          "startMs": 233578,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "234577|You you",
+          "startMs": 234577,
+          "text": "You you"
+        },
+        {
+          "key": "236189|내 맘을 녹여 너의",
+          "startMs": 236189,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "237254|I Love you you",
+          "startMs": 237254,
+          "text": "I Love you you"
+        },
+        {
+          "key": "239515|Cause you will always be my",
+          "startMs": 239515,
+          "text": "Cause you will always be my"
+        }
+      ]
+    },
+    {
+      "rank": 295,
+      "songKey": "online:kugou:7ca1234b850a8e39925b453bd6e459a0",
+      "name": "Angel (吉他版)",
+      "artist": "回憶日記本",
+      "lines": [
+        {
+          "key": "0|Angel (吉他版) - 回憶日記本",
+          "startMs": 0,
+          "text": "Angel (吉他版) - 回憶日記本"
+        },
+        {
+          "key": "135|原唱：尹美莱 (윤미래)/Tiger JK (타이거 JK)/Bizzy (비지)",
+          "startMs": 135,
+          "text": "原唱：尹美莱 (윤미래)/Tiger JK (타이거 JK)/Bizzy (비지)"
+        },
+        {
+          "key": "404|词：Tiger JK/윤미래/Bizzy",
+          "startMs": 404,
+          "text": "词：Tiger JK/윤미래/Bizzy"
+        },
+        {
+          "key": "494|曲：박재선(Jason Park)/윤미래",
+          "startMs": 494,
+          "text": "曲：박재선(Jason Park)/윤미래"
+        },
+        {
+          "key": "585|Angel My Angel",
+          "startMs": 585,
+          "text": "Angel My Angel"
+        },
+        {
+          "key": "2059|나 미소 짓게 해",
+          "startMs": 2059,
+          "text": "나 미소 짓게 해"
+        },
+        {
+          "key": "3474|널 위해 모든 할 수 있어",
+          "startMs": 3474,
+          "text": "널 위해 모든 할 수 있어"
+        },
+        {
+          "key": "5169|집도 짓게 돼",
+          "startMs": 5169,
+          "text": "집도 짓게 돼"
+        },
+        {
+          "key": "6369|A N G E L",
+          "startMs": 6369,
+          "text": "A N G E L"
+        },
+        {
+          "key": "8825|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 8825,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "12137|누가 뭐라 해도",
+          "startMs": 12137,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "13075|You you",
+          "startMs": 13075,
+          "text": "You you"
+        },
+        {
+          "key": "14674|내 맘을 녹여 너의",
+          "startMs": 14674,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "15575|I Love you you you you",
+          "startMs": 15575,
+          "text": "I Love you you you you"
+        },
+        {
+          "key": "18405|Cause you will always be my",
+          "startMs": 18405,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "19622|Angel My Angel",
+          "startMs": 19622,
+          "text": "Angel My Angel"
+        },
+        {
+          "key": "21226|나 미소 짓게 해",
+          "startMs": 21226,
+          "text": "나 미소 짓게 해"
+        },
+        {
+          "key": "22998|널 위해 모든 할 수 있어",
+          "startMs": 22998,
+          "text": "널 위해 모든 할 수 있어"
+        },
+        {
+          "key": "24677|집도 짓게 돼",
+          "startMs": 24677,
+          "text": "집도 짓게 돼"
+        },
+        {
+          "key": "25963|A N G E L",
+          "startMs": 25963,
+          "text": "A N G E L"
+        },
+        {
+          "key": "28332|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 28332,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "31602|누가 뭐라 해도",
+          "startMs": 31602,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "32578|You you",
+          "startMs": 32578,
+          "text": "You you"
+        },
+        {
+          "key": "34090|내 맘을 녹여 너의",
+          "startMs": 34090,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "35435|I Love you you you you",
+          "startMs": 35435,
+          "text": "I Love you you you you"
+        },
+        {
+          "key": "37316|Cause you will always be my",
+          "startMs": 37316,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "39131|Angel My Angel",
+          "startMs": 39131,
+          "text": "Angel My Angel"
+        },
+        {
+          "key": "40729|나 미소 짓게 해",
+          "startMs": 40729,
+          "text": "나 미소 짓게 해"
+        },
+        {
+          "key": "42601|널 위해 모든 할 수 있어",
+          "startMs": 42601,
+          "text": "널 위해 모든 할 수 있어"
+        },
+        {
+          "key": "44273|집도 짓게 돼",
+          "startMs": 44273,
+          "text": "집도 짓게 돼"
+        },
+        {
+          "key": "45512|A N G E L",
+          "startMs": 45512,
+          "text": "A N G E L"
+        },
+        {
+          "key": "47918|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 47918,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "51158|누가 뭐라 해도",
+          "startMs": 51158,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "52161|You you",
+          "startMs": 52161,
+          "text": "You you"
+        },
+        {
+          "key": "53776|내 맘을 녹여 너의",
+          "startMs": 53776,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "54861|I Love you you you you",
+          "startMs": 54861,
+          "text": "I Love you you you you"
+        },
+        {
+          "key": "56973|Cause you will always be my",
+          "startMs": 56973,
+          "text": "Cause you will always be my"
+        },
+        {
+          "key": "58787|Angel My Angel",
+          "startMs": 58787,
+          "text": "Angel My Angel"
+        },
+        {
+          "key": "60358|나 미소 짓게 해",
+          "startMs": 60358,
+          "text": "나 미소 짓게 해"
+        },
+        {
+          "key": "62201|널 위해 모든 할 수 있어",
+          "startMs": 62201,
+          "text": "널 위해 모든 할 수 있어"
+        },
+        {
+          "key": "63825|집도 짓게 돼",
+          "startMs": 63825,
+          "text": "집도 짓게 돼"
+        },
+        {
+          "key": "65396|A N G E L",
+          "startMs": 65396,
+          "text": "A N G E L"
+        },
+        {
+          "key": "67499|슬픈 나를 항상 미소 짓게 해",
+          "startMs": 67499,
+          "text": "슬픈 나를 항상 미소 짓게 해"
+        },
+        {
+          "key": "70659|누가 뭐라 해도",
+          "startMs": 70659,
+          "text": "누가 뭐라 해도"
+        },
+        {
+          "key": "71691|You you",
+          "startMs": 71691,
+          "text": "You you"
+        },
+        {
+          "key": "73342|내 맘을 녹여 너의",
+          "startMs": 73342,
+          "text": "내 맘을 녹여 너의"
+        },
+        {
+          "key": "74483|I Love you you you you",
+          "startMs": 74483,
+          "text": "I Love you you you you"
+        },
+        {
+          "key": "76653|Cause you will always be my",
+          "startMs": 76653,
+          "text": "Cause you will always be my"
+        }
+      ]
+    }
+  ]
+}

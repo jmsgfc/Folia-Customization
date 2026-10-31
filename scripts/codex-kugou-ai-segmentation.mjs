@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 const originalRoot = path.resolve('.codex-tasks/kugou-ai-segmentation');
@@ -143,35 +143,75 @@ const init = async () => {
   console.log(`Saved ${songs.length} songs to ${manifestPath}`);
 };
 
+// Combine every completed 100-song manifest so the next batch is anchored after the actual last rank.
+const readHistory = async () => {
+  const manifestFiles = [path.join(originalRoot, 'manifest.json')];
+  for (const entry of await readdir(originalRoot, { withFileTypes: true })) {
+    if (entry.isDirectory()) manifestFiles.push(path.join(originalRoot, entry.name, 'manifest.json'));
+  }
+  const manifests = [];
+  for (const file of manifestFiles) {
+    if (path.resolve(file) === manifestPath) continue;
+    const manifest = await readJsonIfExists(file);
+    if (!manifest?.songs?.length) continue;
+    const startRank = Number(manifest.startRank || manifest.songs[0]?.rank || 1);
+    const finalStatuses = manifest.songs.every(song => ['done', 'no-lyrics'].includes(song.status));
+    const contiguous = manifest.songs.every((song, index) => song.rank === startRank + index);
+    if (manifest.targetCount !== 100 || manifest.songs.length !== 100 || !finalStatuses || !contiguous) {
+      throw new Error(`History manifest is incomplete or invalid: ${file}`);
+    }
+    manifests.push(manifest);
+  }
+  const songsByRank = new Map();
+  for (const manifest of manifests) {
+    for (const song of manifest.songs) {
+      const existing = songsByRank.get(song.rank);
+      if (existing && String(existing.id).toLowerCase() !== String(song.id).toLowerCase()) {
+        throw new Error(`Conflicting history at rank ${song.rank}`);
+      }
+      songsByRank.set(song.rank, song);
+    }
+  }
+  const songs = Array.from(songsByRank.values()).sort((left, right) => left.rank - right.rank);
+  if (!songs.length || songs.some((song, index) => song.rank !== index + 1)) {
+    throw new Error('Segmentation history is not contiguous from rank 1');
+  }
+  return songs;
+};
+
 const nextSnapshot = async () => {
-  const previous = await readJson(path.join(originalRoot, 'manifest.json'));
-  const anchor = previous.songs.at(-1);
-  if (!anchor || previous.songs.length !== 100) throw new Error('Original 100-song manifest is incomplete');
+  const history = await readHistory();
+  const anchor = history.at(-1);
+  if (!anchor) throw new Error('Segmentation history is empty');
   const rawSongs = await getLikedSongs();
   const newestFirst = rawSongs.slice().reverse();
   const anchorIndex = newestFirst.findIndex(song => String(song.id).toLowerCase() === String(anchor.id).toLowerCase());
-  if (anchorIndex < 0) throw new Error('Previous rank-100 anchor is no longer in the liked playlist');
+  if (anchorIndex < 0) throw new Error(`Previous rank-${anchor.rank} anchor is no longer in the liked playlist`);
   const next = newestFirst.slice(anchorIndex + 1, anchorIndex + 101);
-  if (next.length !== 100) throw new Error(`Only ${next.length} songs remain after the rank-100 anchor`);
-  const previousIds = new Set(previous.songs.map(song => String(song.id).toLowerCase()));
+  if (next.length !== 100) throw new Error(`Only ${next.length} songs remain after the rank-${anchor.rank} anchor`);
+  const previousIds = new Set(history.map(song => String(song.id).toLowerCase()));
   const duplicates = next.filter(song => previousIds.has(String(song.id).toLowerCase()));
-  if (duplicates.length) throw new Error(`${duplicates.length} songs after the anchor overlap the original 100`);
+  if (duplicates.length) throw new Error(`${duplicates.length} songs after the anchor overlap the saved history`);
   const beforeAnchor = newestFirst.slice(0, anchorIndex + 1)
     .filter(song => previousIds.has(String(song.id).toLowerCase()))
     .map(song => String(song.id).toLowerCase());
-  const previousOrder = previous.songs.map(song => String(song.id).toLowerCase());
+  const previousOrder = history.map(song => String(song.id).toLowerCase());
   const orderUnchanged = JSON.stringify(beforeAnchor) === JSON.stringify(previousOrder);
-  return { rawSongs, next, anchor, anchorIndex, orderUnchanged };
+  return { rawSongs, next, anchor, anchorIndex, orderUnchanged, historyCount: history.length };
 };
 
 const initNext = async ({ preview = false } = {}) => {
-  if (root === originalRoot) throw new Error('Use --root with a new continuation directory');
+  if (path.dirname(root) !== originalRoot || !path.basename(root).startsWith('continuation-')) {
+    throw new Error('Use --root with a direct continuation-* directory under the task root');
+  }
   const snapshot = await nextSnapshot();
   const summary = {
     currentPlaylistCount: snapshot.rawSongs.length,
-    originalRank100: snapshot.anchor.name,
+    savedHistoryCount: snapshot.historyCount,
+    previousAnchorRank: snapshot.anchor.rank,
+    previousAnchorName: snapshot.anchor.name,
     currentAnchorPosition: snapshot.anchorIndex + 1,
-    originalFirst100OrderUnchanged: snapshot.orderUnchanged,
+    savedHistoryOrderUnchanged: snapshot.orderUnchanged,
     nextFirst: snapshot.next[0]?.name,
     nextLast: snapshot.next.at(-1)?.name,
   };
@@ -180,10 +220,11 @@ const initNext = async ({ preview = false } = {}) => {
   if (!snapshot.orderUnchanged) throw new Error('Original first-100 order changed; review the continuation boundary');
   if (await readJsonIfExists(manifestPath)) throw new Error(`Manifest already exists: ${manifestPath}`);
   const completed = new Set(await existingSegmentationKeys());
+  const startRank = snapshot.anchor.rank + 1;
   const songs = snapshot.next.map((song, index) => {
     const songKey = songKeyOf(song);
     return {
-      rank: 101 + index,
+      rank: startRank + index,
       songKey,
       id: song.id,
       hash: song.hash || song.id,
@@ -201,8 +242,8 @@ const initNext = async ({ preview = false } = {}) => {
     version: 1,
     createdAt: new Date().toISOString(),
     playlistCountAtStart: snapshot.rawSongs.length,
-    order: 'kugou-provider-client-order-newest-first-after-original-rank-100-anchor',
-    startRank: 101,
+    order: `kugou-provider-client-order-newest-first-after-rank-${snapshot.anchor.rank}-anchor`,
+    startRank,
     targetCount: songs.length,
     batchSize: 5,
     songs,
@@ -245,6 +286,17 @@ const fetchBatch = async (batchNumber, { retryNoLyrics = false } = {}) => {
   for (const song of selected) {
     song.attempts += 1;
     try {
+      const savedInput = outputBySongKey.get(song.songKey);
+      if (savedInput) {
+        if (savedInput.rank !== song.rank || !Array.isArray(savedInput.lines) || savedInput.lines.length === 0) {
+          throw new Error(`Saved lyric input is invalid for rank ${song.rank}`);
+        }
+        song.status = 'lyrics-ready';
+        song.lineCount = savedInput.lines.length;
+        delete song.lastError;
+        await writeJson(manifestPath, manifest);
+        continue;
+      }
       const search = await requestFolia({
         provider: 'kugou',
         operation: 'search_lyric',
@@ -292,8 +344,8 @@ const fetchBatch = async (batchNumber, { retryNoLyrics = false } = {}) => {
         artist: song.artist,
         lines,
       });
-      // The immutable source payload must land before the manifest advertises lyrics-ready.
-      // If the process stops between these writes, the old pending/failed status safely retries.
+      // The immutable source payload lands before the manifest advertises lyrics-ready. A restart
+      // reuses this saved payload and repairs the manifest instead of requesting different lyrics.
       const checkpoint = Array.from(outputBySongKey.values()).sort((left, right) => left.rank - right.rank);
       await writeJson(batchPath, { batchNumber, songs: checkpoint });
       song.status = 'lyrics-ready';
@@ -451,7 +503,7 @@ const exportLrc = async () => {
       '[by:Folia Codex AI segmentation backup]',
       '',
     ];
-    const body = inputSong.lines.map(line => `${formatLrcTimestamp(line.startMs)}${String(line.text || '').trimEnd()}`);
+    const body = inputSong.lines.map(line => `${formatLrcTimestamp(line.startMs)}${String(line.text || '')}`);
     const hashSuffix = String(song.id || '').slice(0, 8);
     const baseName = [
       String(song.rank).padStart(3, '0'),
@@ -474,7 +526,7 @@ const exportLrc = async () => {
     '- 时间戳精度：毫秒（`[mm:ss.mmm]`）',
     `- 无歌词：${missing.map(song => `${song.rank}. ${song.name}`).join('；') || '无'}`,
     '',
-    '这些文件由已保存的酷狗逐行歌词生成，导出时去掉行尾空白以便通用播放器读取。原文和 AI 分词边界完整保存在同级 `batches/` 的输入及输出 JSON 中。',
+    '这些文件由已保存的酷狗逐行歌词生成，并保留原文空白。AI 分词边界完整保存在同级 `batches/` 的输出 JSON 中。',
     '',
   ].join('\n'), 'utf8');
   console.log(`Exported ${exported} LRC files with ${lyricLines} lyric lines`);

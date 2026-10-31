@@ -1,0 +1,1350 @@
+{
+  "batchNumber": 57,
+  "songs": [
+    {
+      "rank": 281,
+      "songKey": "online:kugou:a4a144fe0da9b36a3966c1f127fde3f4",
+      "name": "最佳损友",
+      "artist": "张叔公emo了",
+      "lines": [
+        {
+          "key": "305|最佳损友 - 张叔公emo了",
+          "startMs": 305,
+          "text": "最佳损友 - 张叔公emo了"
+        },
+        {
+          "key": "980|词：黄伟文",
+          "startMs": 980,
+          "text": "词：黄伟文"
+        },
+        {
+          "key": "1039|曲：郭伟亮",
+          "startMs": 1039,
+          "text": "曲：郭伟亮"
+        },
+        {
+          "key": "1097|编曲：李健宇",
+          "startMs": 1097,
+          "text": "编曲：李健宇"
+        },
+        {
+          "key": "1167|吉他：李健宇",
+          "startMs": 1167,
+          "text": "吉他：李健宇"
+        },
+        {
+          "key": "1237|混音/母带：黄慰强",
+          "startMs": 1237,
+          "text": "混音/母带：黄慰强"
+        },
+        {
+          "key": "1343|录音：熊臣熙",
+          "startMs": 1343,
+          "text": "录音：熊臣熙"
+        },
+        {
+          "key": "1413|和声编写/和声：IAN",
+          "startMs": 1413,
+          "text": "和声编写/和声：IAN"
+        },
+        {
+          "key": "1518|制作：M.A.STUDIO",
+          "startMs": 1518,
+          "text": "制作：M.A.STUDIO"
+        },
+        {
+          "key": "1588|音乐统筹：莫梓艺",
+          "startMs": 1588,
+          "text": "音乐统筹：莫梓艺"
+        },
+        {
+          "key": "1681|监制/统筹：颖儿lam wing",
+          "startMs": 1681,
+          "text": "监制/统筹：颖儿lam wing"
+        },
+        {
+          "key": "1798|出品：星戈音乐/云中科技",
+          "startMs": 1798,
+          "text": "出品：星戈音乐/云中科技"
+        },
+        {
+          "key": "1938|发行：蛋壳音乐",
+          "startMs": 1938,
+          "text": "发行：蛋壳音乐"
+        },
+        {
+          "key": "2020|（未经许可，翻唱翻录必究）",
+          "startMs": 2020,
+          "text": "（未经许可，翻唱翻录必究）"
+        },
+        {
+          "key": "2171|很多东西今生只可给你",
+          "startMs": 2171,
+          "text": "很多东西今生只可给你"
+        },
+        {
+          "key": "4759|保守至到永久",
+          "startMs": 4759,
+          "text": "保守至到永久"
+        },
+        {
+          "key": "6393|别人如何明白透",
+          "startMs": 6393,
+          "text": "别人如何明白透"
+        },
+        {
+          "key": "8892|实实在在踏入过我宇宙",
+          "startMs": 8892,
+          "text": "实实在在踏入过我宇宙"
+        },
+        {
+          "key": "11439|即使相处到有个裂口",
+          "startMs": 11439,
+          "text": "即使相处到有个裂口"
+        },
+        {
+          "key": "14692|命运决定了以后再没法聚头",
+          "startMs": 14692,
+          "text": "命运决定了以后再没法聚头"
+        },
+        {
+          "key": "18337|但说过去却那样厚",
+          "startMs": 18337,
+          "text": "但说过去却那样厚"
+        },
+        {
+          "key": "31773|朋友我当你一秒朋友",
+          "startMs": 31773,
+          "text": "朋友我当你一秒朋友"
+        },
+        {
+          "key": "38534|朋友我当你一世朋友",
+          "startMs": 38534,
+          "text": "朋友我当你一世朋友"
+        },
+        {
+          "key": "45012|奇怪过去再不堪回首",
+          "startMs": 45012,
+          "text": "奇怪过去再不堪回首"
+        },
+        {
+          "key": "51748|怀缅时时其实还有",
+          "startMs": 51748,
+          "text": "怀缅时时其实还有"
+        },
+        {
+          "key": "58329|朋友你试过将我营救",
+          "startMs": 58329,
+          "text": "朋友你试过将我营救"
+        },
+        {
+          "key": "65150|朋友你试过把我批斗",
+          "startMs": 65150,
+          "text": "朋友你试过把我批斗"
+        },
+        {
+          "key": "71784|无法再与你交心联手",
+          "startMs": 71784,
+          "text": "无法再与你交心联手"
+        },
+        {
+          "key": "77603|毕竟难得有个最佳损友",
+          "startMs": 77603,
+          "text": "毕竟难得有个最佳损友"
+        },
+        {
+          "key": "83387|从前共你促膝把酒",
+          "startMs": 83387,
+          "text": "从前共你促膝把酒"
+        },
+        {
+          "key": "86365|倾通宵都不够",
+          "startMs": 86365,
+          "text": "倾通宵都不够"
+        },
+        {
+          "key": "87974|我有痛快过你有没有",
+          "startMs": 87974,
+          "text": "我有痛快过你有没有"
+        },
+        {
+          "key": "92148|很多东西今生只可给你",
+          "startMs": 92148,
+          "text": "很多东西今生只可给你"
+        },
+        {
+          "key": "94670|保守至到永久",
+          "startMs": 94670,
+          "text": "保守至到永久"
+        },
+        {
+          "key": "96284|别人如何明白透",
+          "startMs": 96284,
+          "text": "别人如何明白透"
+        },
+        {
+          "key": "98864|实实在在踏入过我宇宙",
+          "startMs": 98864,
+          "text": "实实在在踏入过我宇宙"
+        },
+        {
+          "key": "101375|即使相处到有个裂口",
+          "startMs": 101375,
+          "text": "即使相处到有个裂口"
+        },
+        {
+          "key": "104609|命运决定了以后再没法聚头",
+          "startMs": 104609,
+          "text": "命运决定了以后再没法聚头"
+        },
+        {
+          "key": "108221|但说过去却那样厚",
+          "startMs": 108221,
+          "text": "但说过去却那样厚"
+        },
+        {
+          "key": "111061|问我有没有",
+          "startMs": 111061,
+          "text": "问我有没有"
+        },
+        {
+          "key": "113069|确实也没有一直躲避的借口",
+          "startMs": 113069,
+          "text": "确实也没有一直躲避的借口"
+        },
+        {
+          "key": "116359|非什么大仇",
+          "startMs": 116359,
+          "text": "非什么大仇"
+        },
+        {
+          "key": "117663|为何旧知己在最后变不到老友",
+          "startMs": 117663,
+          "text": "为何旧知己在最后变不到老友"
+        },
+        {
+          "key": "124243|不知你是我敌友",
+          "startMs": 124243,
+          "text": "不知你是我敌友"
+        },
+        {
+          "key": "126349|已没法望透",
+          "startMs": 126349,
+          "text": "已没法望透"
+        },
+        {
+          "key": "128048|被推着走跟着生活流",
+          "startMs": 128048,
+          "text": "被推着走跟着生活流"
+        },
+        {
+          "key": "131006|来年陌生的是昨日",
+          "startMs": 131006,
+          "text": "来年陌生的是昨日"
+        },
+        {
+          "key": "134225|最亲的某某",
+          "startMs": 134225,
+          "text": "最亲的某某"
+        },
+        {
+          "key": "142162|生死之交 当天不知罕有",
+          "startMs": 142162,
+          "text": "生死之交 当天不知罕有"
+        },
+        {
+          "key": "144676|到你变节了 至觉未够",
+          "startMs": 144676,
+          "text": "到你变节了 至觉未够"
+        },
+        {
+          "key": "148819|多想一天 彼此都不追究",
+          "startMs": 148819,
+          "text": "多想一天 彼此都不追究"
+        },
+        {
+          "key": "151314|相邀再次喝酒 待葡萄成熟透",
+          "startMs": 151314,
+          "text": "相邀再次喝酒 待葡萄成熟透"
+        },
+        {
+          "key": "155483|但是命运入面每个邂逅",
+          "startMs": 155483,
+          "text": "但是命运入面每个邂逅"
+        },
+        {
+          "key": "157961|一起走到了 某个路口",
+          "startMs": 157961,
+          "text": "一起走到了 某个路口"
+        },
+        {
+          "key": "161296|是敌与是友",
+          "startMs": 161296,
+          "text": "是敌与是友"
+        },
+        {
+          "key": "162528|各自也没有自由",
+          "startMs": 162528,
+          "text": "各自也没有自由"
+        },
+        {
+          "key": "164922|位置变了 各有队友",
+          "startMs": 164922,
+          "text": "位置变了 各有队友"
+        },
+        {
+          "key": "167642|问我有没有 确实也没有",
+          "startMs": 167642,
+          "text": "问我有没有 确实也没有"
+        },
+        {
+          "key": "171062|一直躲避的借口",
+          "startMs": 171062,
+          "text": "一直躲避的借口"
+        },
+        {
+          "key": "172940|非什么大仇",
+          "startMs": 172940,
+          "text": "非什么大仇"
+        },
+        {
+          "key": "174292|为何旧知己 在最后",
+          "startMs": 174292,
+          "text": "为何旧知己 在最后"
+        },
+        {
+          "key": "177544|变不到老友",
+          "startMs": 177544,
+          "text": "变不到老友"
+        },
+        {
+          "key": "180879|不知你是我敌友",
+          "startMs": 180879,
+          "text": "不知你是我敌友"
+        },
+        {
+          "key": "183006|已没法望透",
+          "startMs": 183006,
+          "text": "已没法望透"
+        },
+        {
+          "key": "184758|被推着走 跟着生活流",
+          "startMs": 184758,
+          "text": "被推着走 跟着生活流"
+        },
+        {
+          "key": "187684|来年陌生的是昨日",
+          "startMs": 187684,
+          "text": "来年陌生的是昨日"
+        },
+        {
+          "key": "190888|最亲的某某",
+          "startMs": 190888,
+          "text": "最亲的某某"
+        },
+        {
+          "key": "192988|早知解散后 各自有",
+          "startMs": 192988,
+          "text": "早知解散后 各自有"
+        },
+        {
+          "key": "196304|际遇作导游",
+          "startMs": 196304,
+          "text": "际遇作导游"
+        },
+        {
+          "key": "197640|奇就奇在 接受了",
+          "startMs": 197640,
+          "text": "奇就奇在 接受了"
+        },
+        {
+          "key": "199583|各自有路走",
+          "startMs": 199583,
+          "text": "各自有路走"
+        },
+        {
+          "key": "200921|却无人像 你让我",
+          "startMs": 200921,
+          "text": "却无人像 你让我"
+        },
+        {
+          "key": "202984|眼泪背着流",
+          "startMs": 202984,
+          "text": "眼泪背着流"
+        },
+        {
+          "key": "204356|严重似情侣 讲分手",
+          "startMs": 204356,
+          "text": "严重似情侣 讲分手"
+        },
+        {
+          "key": "221799|有没有 挂念这旧友",
+          "startMs": 221799,
+          "text": "有没有 挂念这旧友"
+        },
+        {
+          "key": "224671|或者自己 早就想通透",
+          "startMs": 224671,
+          "text": "或者自己 早就想通透"
+        },
+        {
+          "key": "227643|来年陌生的 是昨日",
+          "startMs": 227643,
+          "text": "来年陌生的 是昨日"
+        },
+        {
+          "key": "230914|最亲的某某",
+          "startMs": 230914,
+          "text": "最亲的某某"
+        },
+        {
+          "key": "233046|总好于 那日我 没有",
+          "startMs": 233046,
+          "text": "总好于 那日我 没有"
+        },
+        {
+          "key": "238050|没有 遇过某某",
+          "startMs": 238050,
+          "text": "没有 遇过某某"
+        }
+      ]
+    },
+    {
+      "rank": 282,
+      "songKey": "online:kugou:577aaa71a0ced6b490a1e7e6d9b4623d",
+      "name": "One Last Time (Remix)",
+      "artist": "WilliamHenRy",
+      "lines": [
+        {
+          "key": "0|One Last Time -Ariana Grande ",
+          "startMs": 0,
+          "text": "One Last Time -Ariana Grande "
+        },
+        {
+          "key": "6930|Written by：David Guetta/Giorgio Tuinfort/Savan Kotecha/Carl Falk/Rami Yacoub ",
+          "startMs": 6930,
+          "text": "Written by：David Guetta/Giorgio Tuinfort/Savan Kotecha/Carl Falk/Rami Yacoub "
+        },
+        {
+          "key": "13860|I was a liar ",
+          "startMs": 13860,
+          "text": "I was a liar "
+        },
+        {
+          "key": "15240|I gave into the fire ",
+          "startMs": 15240,
+          "text": "I gave into the fire "
+        },
+        {
+          "key": "16980|I know I should've fought it ",
+          "startMs": 16980,
+          "text": "I know I should've fought it "
+        },
+        {
+          "key": "18750|At least I'm being honest ",
+          "startMs": 18750,
+          "text": "At least I'm being honest "
+        },
+        {
+          "key": "20820|Feel like a failure ",
+          "startMs": 20820,
+          "text": "Feel like a failure "
+        },
+        {
+          "key": "22050|Cause I know that I failed you ",
+          "startMs": 22050,
+          "text": "Cause I know that I failed you "
+        },
+        {
+          "key": "23790|I should've done you better ",
+          "startMs": 23790,
+          "text": "I should've done you better "
+        },
+        {
+          "key": "25590|Cause you don't want a liar come on ",
+          "startMs": 25590,
+          "text": "Cause you don't want a liar come on "
+        },
+        {
+          "key": "27270|And I know and I know and I know ",
+          "startMs": 27270,
+          "text": "And I know and I know and I know "
+        },
+        {
+          "key": "28470|She gives you everything ",
+          "startMs": 28470,
+          "text": "She gives you everything "
+        },
+        {
+          "key": "29850|But boy I couldn't give it to you ",
+          "startMs": 29850,
+          "text": "But boy I couldn't give it to you "
+        },
+        {
+          "key": "34140|And I know and I know and I know ",
+          "startMs": 34140,
+          "text": "And I know and I know and I know "
+        },
+        {
+          "key": "35400|That you got everything ",
+          "startMs": 35400,
+          "text": "That you got everything "
+        },
+        {
+          "key": "36720|But I got nothing here without you ",
+          "startMs": 36720,
+          "text": "But I got nothing here without you "
+        },
+        {
+          "key": "40980|So one last time ",
+          "startMs": 40980,
+          "text": "So one last time "
+        },
+        {
+          "key": "43380|I need to be the one ",
+          "startMs": 43380,
+          "text": "I need to be the one "
+        },
+        {
+          "key": "46080|Who takes you home ",
+          "startMs": 46080,
+          "text": "Who takes you home "
+        },
+        {
+          "key": "47970|One more time ",
+          "startMs": 47970,
+          "text": "One more time "
+        },
+        {
+          "key": "50280|I promise after that ",
+          "startMs": 50280,
+          "text": "I promise after that "
+        },
+        {
+          "key": "53100|I'll let you go ",
+          "startMs": 53100,
+          "text": "I'll let you go "
+        },
+        {
+          "key": "55470|Baby I don't care ",
+          "startMs": 55470,
+          "text": "Baby I don't care "
+        },
+        {
+          "key": "56070|If you got her in your heart ",
+          "startMs": 56070,
+          "text": "If you got her in your heart "
+        },
+        {
+          "key": "57960|All I really care is you ",
+          "startMs": 57960,
+          "text": "All I really care is you "
+        },
+        {
+          "key": "59760|Wake up in my arms ",
+          "startMs": 59760,
+          "text": "Wake up in my arms "
+        },
+        {
+          "key": "60900|One last time ",
+          "startMs": 60900,
+          "text": "One last time "
+        },
+        {
+          "key": "65610|I need to be the one ",
+          "startMs": 65610,
+          "text": "I need to be the one "
+        },
+        {
+          "key": "66060|Who takes you home ",
+          "startMs": 66060,
+          "text": "Who takes you home "
+        },
+        {
+          "key": "96150|I don't deserve it ",
+          "startMs": 96150,
+          "text": "I don't deserve it "
+        },
+        {
+          "key": "97290|I know I don't deserve it ",
+          "startMs": 97290,
+          "text": "I know I don't deserve it "
+        },
+        {
+          "key": "99210|But stay with me a minute ",
+          "startMs": 99210,
+          "text": "But stay with me a minute "
+        },
+        {
+          "key": "100980|I'll swear I'll make it worth it ",
+          "startMs": 100980,
+          "text": "I'll swear I'll make it worth it "
+        },
+        {
+          "key": "103110|Can't you forgive me ",
+          "startMs": 103110,
+          "text": "Can't you forgive me "
+        },
+        {
+          "key": "104340|At least just temporarily ",
+          "startMs": 104340,
+          "text": "At least just temporarily "
+        },
+        {
+          "key": "106140|I know that this is my fault ",
+          "startMs": 106140,
+          "text": "I know that this is my fault "
+        },
+        {
+          "key": "107790|I should have been more careful ",
+          "startMs": 107790,
+          "text": "I should have been more careful "
+        },
+        {
+          "key": "109350|Come on ",
+          "startMs": 109350,
+          "text": "Come on "
+        },
+        {
+          "key": "109560|And I know and I know ",
+          "startMs": 109560,
+          "text": "And I know and I know "
+        },
+        {
+          "key": "110490|And I know ",
+          "startMs": 110490,
+          "text": "And I know "
+        },
+        {
+          "key": "110760|She gives you everything ",
+          "startMs": 110760,
+          "text": "She gives you everything "
+        },
+        {
+          "key": "112140|But boy I couldn't give it to you ",
+          "startMs": 112140,
+          "text": "But boy I couldn't give it to you "
+        },
+        {
+          "key": "116430|And I know and I know and I know ",
+          "startMs": 116430,
+          "text": "And I know and I know and I know "
+        },
+        {
+          "key": "118110|That you got everything ",
+          "startMs": 118110,
+          "text": "That you got everything "
+        },
+        {
+          "key": "119010|But I got nothing here without you ",
+          "startMs": 119010,
+          "text": "But I got nothing here without you "
+        },
+        {
+          "key": "121470|Baby ",
+          "startMs": 121470,
+          "text": "Baby "
+        },
+        {
+          "key": "123270|So one last time ",
+          "startMs": 123270,
+          "text": "So one last time "
+        },
+        {
+          "key": "125700|I need to be the one ",
+          "startMs": 125700,
+          "text": "I need to be the one "
+        },
+        {
+          "key": "128370|Who takes you home ",
+          "startMs": 128370,
+          "text": "Who takes you home "
+        },
+        {
+          "key": "130259|One more time ",
+          "startMs": 130259,
+          "text": "One more time "
+        },
+        {
+          "key": "132600|I promise after that ",
+          "startMs": 132600,
+          "text": "I promise after that "
+        },
+        {
+          "key": "135180|I'll let you go ",
+          "startMs": 135180,
+          "text": "I'll let you go "
+        },
+        {
+          "key": "137310|Baby I don't care ",
+          "startMs": 137310,
+          "text": "Baby I don't care "
+        },
+        {
+          "key": "138330|If you got her in your heart ",
+          "startMs": 138330,
+          "text": "If you got her in your heart "
+        },
+        {
+          "key": "140460|All I really care is you ",
+          "startMs": 140460,
+          "text": "All I really care is you "
+        },
+        {
+          "key": "142200|Wake up in my arms ",
+          "startMs": 142200,
+          "text": "Wake up in my arms "
+        },
+        {
+          "key": "144090|One last time ",
+          "startMs": 144090,
+          "text": "One last time "
+        },
+        {
+          "key": "146310|I need to be the one ",
+          "startMs": 146310,
+          "text": "I need to be the one "
+        },
+        {
+          "key": "148980|Who takes you home ",
+          "startMs": 148980,
+          "text": "Who takes you home "
+        },
+        {
+          "key": "150420|I know I shouldn't fight it ",
+          "startMs": 150420,
+          "text": "I know I shouldn't fight it "
+        },
+        {
+          "key": "151680|At least I'm being honest ",
+          "startMs": 151680,
+          "text": "At least I'm being honest "
+        },
+        {
+          "key": "152250|Just stay with me a minute ",
+          "startMs": 152250,
+          "text": "Just stay with me a minute "
+        },
+        {
+          "key": "152850|I swear I'll make it worth ",
+          "startMs": 152850,
+          "text": "I swear I'll make it worth "
+        },
+        {
+          "key": "153540|Cause I don't want to be with out you ",
+          "startMs": 153540,
+          "text": "Cause I don't want to be with out you "
+        },
+        {
+          "key": "154950|So one last time ",
+          "startMs": 154950,
+          "text": "So one last time "
+        },
+        {
+          "key": "155880|I need to be the one ",
+          "startMs": 155880,
+          "text": "I need to be the one "
+        },
+        {
+          "key": "156570|Who takes you home ",
+          "startMs": 156570,
+          "text": "Who takes you home "
+        },
+        {
+          "key": "158160|One more time ",
+          "startMs": 158160,
+          "text": "One more time "
+        },
+        {
+          "key": "159270|I promise after that ",
+          "startMs": 159270,
+          "text": "I promise after that "
+        },
+        {
+          "key": "162660|I'll let you go ",
+          "startMs": 162660,
+          "text": "I'll let you go "
+        },
+        {
+          "key": "164790|Baby I don't care ",
+          "startMs": 164790,
+          "text": "Baby I don't care "
+        },
+        {
+          "key": "166230|If you got her in your heart ",
+          "startMs": 166230,
+          "text": "If you got her in your heart "
+        },
+        {
+          "key": "167790|All I really care is you ",
+          "startMs": 167790,
+          "text": "All I really care is you "
+        },
+        {
+          "key": "169440|Wake up in my arms ",
+          "startMs": 169440,
+          "text": "Wake up in my arms "
+        },
+        {
+          "key": "173760|One last time ",
+          "startMs": 173760,
+          "text": "One last time "
+        },
+        {
+          "key": "174390|I need to be the one ",
+          "startMs": 174390,
+          "text": "I need to be the one "
+        },
+        {
+          "key": "176580|Who takes you home yeah ",
+          "startMs": 176580,
+          "text": "Who takes you home yeah "
+        },
+        {
+          "key": "178350|One last time ",
+          "startMs": 178350,
+          "text": "One last time "
+        },
+        {
+          "key": "180540|I need to be the one ",
+          "startMs": 180540,
+          "text": "I need to be the one "
+        },
+        {
+          "key": "183210|Who takes you home ",
+          "startMs": 183210,
+          "text": "Who takes you home "
+        }
+      ]
+    },
+    {
+      "rank": 283,
+      "songKey": "online:kugou:82d044abd4c9bcbba6d43b72e09f9645",
+      "name": "Cry For U (宿命版)",
+      "artist": "EMOWZ",
+      "lines": [
+        {
+          "key": "280|Cry For U (宿命版) - EMOWZ",
+          "startMs": 280,
+          "text": "Cry For U (宿命版) - EMOWZ"
+        },
+        {
+          "key": "11535|词：欢枫原云奈",
+          "startMs": 11535,
+          "text": "词：欢枫原云奈"
+        },
+        {
+          "key": "17806|この橋の向こうに",
+          "startMs": 17806,
+          "text": "この橋の向こうに"
+        },
+        {
+          "key": "22966|喜びが あ なつのなら あ",
+          "startMs": 22966,
+          "text": "喜びが あ なつのなら あ"
+        },
+        {
+          "key": "28441|風縁(にふかれ) 痛みは感じて",
+          "startMs": 28441,
+          "text": "風縁(にふかれ) 痛みは感じて"
+        },
+        {
+          "key": "33455|今は泣いてもいい",
+          "startMs": 33455,
+          "text": "今は泣いてもいい"
+        },
+        {
+          "key": "36929|Cry for me",
+          "startMs": 36929,
+          "text": "Cry for me"
+        },
+        {
+          "key": "38699|この橋の向こうに",
+          "startMs": 38699,
+          "text": "この橋の向こうに"
+        },
+        {
+          "key": "49372|喜びが あ なつのなら あ",
+          "startMs": 49372,
+          "text": "喜びが あ なつのなら あ"
+        },
+        {
+          "key": "56423|Just for me",
+          "startMs": 56423,
+          "text": "Just for me"
+        }
+      ]
+    },
+    {
+      "rank": 284,
+      "songKey": "online:kugou:38a6c13f5a1a4ac97ebae2185507715c",
+      "name": "Cry For Me (feat. Ami)",
+      "artist": "Michita (ミチタ)",
+      "lines": [
+        {
+          "key": "477|Cry For Me (feat. Ami) - Michita (ミチタ)",
+          "startMs": 477,
+          "text": "Cry For Me (feat. Ami) - Michita (ミチタ)"
+        },
+        {
+          "key": "2496|词：Michita (ミチタ)",
+          "startMs": 2496,
+          "text": "词：Michita (ミチタ)"
+        },
+        {
+          "key": "3813|曲：Michita (ミチタ)",
+          "startMs": 3813,
+          "text": "曲：Michita (ミチタ)"
+        },
+        {
+          "key": "5124|推广：璀璨星河",
+          "startMs": 5124,
+          "text": "推广：璀璨星河"
+        },
+        {
+          "key": "6678|SP：鲸鱼向海（海南）文化有限公司",
+          "startMs": 6678,
+          "text": "SP：鲸鱼向海（海南）文化有限公司"
+        },
+        {
+          "key": "9968|OP：鲸鱼向海（海南）文化有限公司",
+          "startMs": 9968,
+          "text": "OP：鲸鱼向海（海南）文化有限公司"
+        },
+        {
+          "key": "13446|『听歌就在中国酷狗*星曜计划』",
+          "startMs": 13446,
+          "text": "『听歌就在中国酷狗*星曜计划』"
+        },
+        {
+          "key": "43394|この橋の向こうに",
+          "startMs": 43394,
+          "text": "この橋の向こうに"
+        },
+        {
+          "key": "48633|喜びが あ なつのなら あ",
+          "startMs": 48633,
+          "text": "喜びが あ なつのなら あ"
+        },
+        {
+          "key": "53942|風縁 痛みは感じて",
+          "startMs": 53942,
+          "text": "風縁 痛みは感じて"
+        },
+        {
+          "key": "59074|今は泣いてもいい",
+          "startMs": 59074,
+          "text": "今は泣いてもいい"
+        },
+        {
+          "key": "62362|Cry for me",
+          "startMs": 62362,
+          "text": "Cry for me"
+        },
+        {
+          "key": "64323|Time goes though",
+          "startMs": 64323,
+          "text": "Time goes though"
+        },
+        {
+          "key": "66968|痛みは次々と",
+          "startMs": 66968,
+          "text": "痛みは次々と"
+        },
+        {
+          "key": "69546|私の胸を裂いてゆくの",
+          "startMs": 69546,
+          "text": "私の胸を裂いてゆくの"
+        },
+        {
+          "key": "74896|ふもう根羽のを 失った希望を",
+          "startMs": 74896,
+          "text": "ふもう根羽のを 失った希望を"
+        },
+        {
+          "key": "80038|ただ未来は違う私でいたい",
+          "startMs": 80038,
+          "text": "ただ未来は違う私でいたい"
+        },
+        {
+          "key": "84968|孤独を背負い 心に自らかけた鍵",
+          "startMs": 84968,
+          "text": "孤独を背負い 心に自らかけた鍵"
+        },
+        {
+          "key": "89328|何か失い 得ることに怯える私",
+          "startMs": 89328,
+          "text": "何か失い 得ることに怯える私"
+        },
+        {
+          "key": "94595|辿る雫の音",
+          "startMs": 94595,
+          "text": "辿る雫の音"
+        },
+        {
+          "key": "97209|本当の私の笑顔があること",
+          "startMs": 97209,
+          "text": "本当の私の笑顔があること"
+        },
+        {
+          "key": "102369|それだけが私の方",
+          "startMs": 102369,
+          "text": "それだけが私の方"
+        },
+        {
+          "key": "106396|この橋の向こうに",
+          "startMs": 106396,
+          "text": "この橋の向こうに"
+        },
+        {
+          "key": "111597|喜びが あ なつのなら あ",
+          "startMs": 111597,
+          "text": "喜びが あ なつのなら あ"
+        },
+        {
+          "key": "117008|風縁 痛みは感じて",
+          "startMs": 117008,
+          "text": "風縁 痛みは感じて"
+        },
+        {
+          "key": "122125|今は泣いてもいい",
+          "startMs": 122125,
+          "text": "今は泣いてもいい"
+        },
+        {
+          "key": "125429|Cry for me",
+          "startMs": 125429,
+          "text": "Cry for me"
+        },
+        {
+          "key": "127318|愛しき人を思い",
+          "startMs": 127318,
+          "text": "愛しき人を思い"
+        },
+        {
+          "key": "132470|死亡を老化が去り泣き",
+          "startMs": 132470,
+          "text": "死亡を老化が去り泣き"
+        },
+        {
+          "key": "137866|寂しいくて泣きいい",
+          "startMs": 137866,
+          "text": "寂しいくて泣きいい"
+        },
+        {
+          "key": "140434|嬉しいくて泣きいい",
+          "startMs": 140434,
+          "text": "嬉しいくて泣きいい"
+        },
+        {
+          "key": "143138|私は 私のために泣く",
+          "startMs": 143138,
+          "text": "私は 私のために泣く"
+        },
+        {
+          "key": "148464|滴る涙が未来に語る",
+          "startMs": 148464,
+          "text": "滴る涙が未来に語る"
+        },
+        {
+          "key": "153616|溢れる思いが花を咲かせる",
+          "startMs": 153616,
+          "text": "溢れる思いが花を咲かせる"
+        },
+        {
+          "key": "158963|その日まで 飛ばあげ",
+          "startMs": 158963,
+          "text": "その日まで 飛ばあげ"
+        },
+        {
+          "key": "164834|嵐がさわってゆくまで",
+          "startMs": 164834,
+          "text": "嵐がさわってゆくまで"
+        },
+        {
+          "key": "190378|この橋の向こうに",
+          "startMs": 190378,
+          "text": "この橋の向こうに"
+        },
+        {
+          "key": "195723|喜びが あ なつのなら あ",
+          "startMs": 195723,
+          "text": "喜びが あ なつのなら あ"
+        },
+        {
+          "key": "201034|風縁 痛みは感じて",
+          "startMs": 201034,
+          "text": "風縁 痛みは感じて"
+        },
+        {
+          "key": "206131|今は泣いてもいい",
+          "startMs": 206131,
+          "text": "今は泣いてもいい"
+        },
+        {
+          "key": "209363|Cry for me",
+          "startMs": 209363,
+          "text": "Cry for me"
+        },
+        {
+          "key": "211421|この橋の向こうに",
+          "startMs": 211421,
+          "text": "この橋の向こうに"
+        },
+        {
+          "key": "221830|喜びが あ なつのなら",
+          "startMs": 221830,
+          "text": "喜びが あ なつのなら"
+        },
+        {
+          "key": "229251|Just for me",
+          "startMs": 229251,
+          "text": "Just for me"
+        }
+      ]
+    },
+    {
+      "rank": 285,
+      "songKey": "online:kugou:6a1f7bcd5966929861583b2f45ed5b69",
+      "name": "芦苇飞",
+      "artist": "泡芙芙Scarlett",
+      "lines": [
+        {
+          "key": "0|芦苇飞 - 泡芙芙Scarlett",
+          "startMs": 0,
+          "text": "芦苇飞 - 泡芙芙Scarlett"
+        },
+        {
+          "key": "247|词：石见",
+          "startMs": 247,
+          "text": "词：石见"
+        },
+        {
+          "key": "494|曲：朱登煜",
+          "startMs": 494,
+          "text": "曲：朱登煜"
+        },
+        {
+          "key": "741|演唱：泡芙芙Scarlett ",
+          "startMs": 741,
+          "text": "演唱：泡芙芙Scarlett "
+        },
+        {
+          "key": "988|统筹：邢树杰",
+          "startMs": 988,
+          "text": "统筹：邢树杰"
+        },
+        {
+          "key": "1235|监制：艾一音",
+          "startMs": 1235,
+          "text": "监制：艾一音"
+        },
+        {
+          "key": "1445|出品人：逯文堂",
+          "startMs": 1445,
+          "text": "出品人：逯文堂"
+        },
+        {
+          "key": "1482|OP/SP：深蓝乐海",
+          "startMs": 1482,
+          "text": "OP/SP：深蓝乐海"
+        },
+        {
+          "key": "1729|『听歌就在中国酷狗*星曜计划』",
+          "startMs": 1729,
+          "text": "『听歌就在中国酷狗*星曜计划』"
+        },
+        {
+          "key": "1980|芦苇飞天涯",
+          "startMs": 1980,
+          "text": "芦苇飞天涯"
+        },
+        {
+          "key": "7140|似雪非雪花",
+          "startMs": 7140,
+          "text": "似雪非雪花"
+        },
+        {
+          "key": "11850|霜下谁家泥娃娃",
+          "startMs": 11850,
+          "text": "霜下谁家泥娃娃"
+        },
+        {
+          "key": "16890|没人爱没牵挂",
+          "startMs": 16890,
+          "text": "没人爱没牵挂"
+        },
+        {
+          "key": "22230|我有时像一捧沙",
+          "startMs": 22230,
+          "text": "我有时像一捧沙"
+        },
+        {
+          "key": "23640|经不得风吹雨打",
+          "startMs": 23640,
+          "text": "经不得风吹雨打"
+        },
+        {
+          "key": "24990|我有时又顽强到可怕",
+          "startMs": 24990,
+          "text": "我有时又顽强到可怕"
+        },
+        {
+          "key": "27420|可月牙点不亮灯塔",
+          "startMs": 27420,
+          "text": "可月牙点不亮灯塔"
+        },
+        {
+          "key": "28950|影子没陪我说话",
+          "startMs": 28950,
+          "text": "影子没陪我说话"
+        },
+        {
+          "key": "30300|才明白我多孤单多傻",
+          "startMs": 30300,
+          "text": "才明白我多孤单多傻"
+        },
+        {
+          "key": "32250|才明白",
+          "startMs": 32250,
+          "text": "才明白"
+        },
+        {
+          "key": "33270|时光它轮番轰炸",
+          "startMs": 33270,
+          "text": "时光它轮番轰炸"
+        },
+        {
+          "key": "35220|拆散曾经拥抱的人啊",
+          "startMs": 35220,
+          "text": "拆散曾经拥抱的人啊"
+        },
+        {
+          "key": "37800|深埋我们天真的想法",
+          "startMs": 37800,
+          "text": "深埋我们天真的想法"
+        },
+        {
+          "key": "40290|却禁止发芽",
+          "startMs": 40290,
+          "text": "却禁止发芽"
+        },
+        {
+          "key": "42270|我像一根呐芦苇飞天涯",
+          "startMs": 42270,
+          "text": "我像一根呐芦苇飞天涯"
+        },
+        {
+          "key": "48180|谁的发似雪非雪花",
+          "startMs": 48180,
+          "text": "谁的发似雪非雪花"
+        },
+        {
+          "key": "53550|可怜白霜下谁家泥娃娃",
+          "startMs": 53550,
+          "text": "可怜白霜下谁家泥娃娃"
+        },
+        {
+          "key": "59520|没人爱没牵挂",
+          "startMs": 59520,
+          "text": "没人爱没牵挂"
+        },
+        {
+          "key": "64260|人都像芦苇飞天涯",
+          "startMs": 64260,
+          "text": "人都像芦苇飞天涯"
+        },
+        {
+          "key": "69510|脆弱但关上了嘴巴",
+          "startMs": 69510,
+          "text": "脆弱但关上了嘴巴"
+        },
+        {
+          "key": "74880|漂完那韶华剩下半句话",
+          "startMs": 74880,
+          "text": "漂完那韶华剩下半句话"
+        },
+        {
+          "key": "80910|就往心里咽吧",
+          "startMs": 80910,
+          "text": "就往心里咽吧"
+        },
+        {
+          "key": "107540|我有时像一捧沙",
+          "startMs": 107540,
+          "text": "我有时像一捧沙"
+        },
+        {
+          "key": "108960|经不得风吹雨打",
+          "startMs": 108960,
+          "text": "经不得风吹雨打"
+        },
+        {
+          "key": "110310|我有时又顽强到可怕",
+          "startMs": 110310,
+          "text": "我有时又顽强到可怕"
+        },
+        {
+          "key": "112770|可月牙点不亮灯塔",
+          "startMs": 112770,
+          "text": "可月牙点不亮灯塔"
+        },
+        {
+          "key": "114270|影子没陪我说话",
+          "startMs": 114270,
+          "text": "影子没陪我说话"
+        },
+        {
+          "key": "115650|才明白我多孤单多傻",
+          "startMs": 115650,
+          "text": "才明白我多孤单多傻"
+        },
+        {
+          "key": "117540|才明白",
+          "startMs": 117540,
+          "text": "才明白"
+        },
+        {
+          "key": "118590|时光它轮番轰炸",
+          "startMs": 118590,
+          "text": "时光它轮番轰炸"
+        },
+        {
+          "key": "120540|拆散曾经拥抱的人啊",
+          "startMs": 120540,
+          "text": "拆散曾经拥抱的人啊"
+        },
+        {
+          "key": "123150|深埋我们天真的想法",
+          "startMs": 123150,
+          "text": "深埋我们天真的想法"
+        },
+        {
+          "key": "125610|却禁止发芽",
+          "startMs": 125610,
+          "text": "却禁止发芽"
+        },
+        {
+          "key": "127680|我像一根呐芦苇飞天涯",
+          "startMs": 127680,
+          "text": "我像一根呐芦苇飞天涯"
+        },
+        {
+          "key": "133530|谁的发似雪非雪花",
+          "startMs": 133530,
+          "text": "谁的发似雪非雪花"
+        },
+        {
+          "key": "138870|可怜白霜下谁家泥娃娃",
+          "startMs": 138870,
+          "text": "可怜白霜下谁家泥娃娃"
+        },
+        {
+          "key": "144870|没人爱没牵挂",
+          "startMs": 144870,
+          "text": "没人爱没牵挂"
+        }
+      ]
+    }
+  ]
+}

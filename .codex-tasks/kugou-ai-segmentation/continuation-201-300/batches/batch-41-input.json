@@ -1,0 +1,1980 @@
+{
+  "batchNumber": 41,
+  "songs": [
+    {
+      "rank": 201,
+      "songKey": "online:kugou:73bfa06bb0d52fac8f8fbcc40f10d854",
+      "name": "IVORY TOWER (feat. SennaRin)",
+      "artist": "澤野弘之 / SennaRin",
+      "lines": [
+        {
+          "key": "107|澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin)",
+          "startMs": 107,
+          "text": "澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin)"
+        },
+        {
+          "key": "505|作词：Benjamin、mpi",
+          "startMs": 505,
+          "text": "作词：Benjamin、mpi"
+        },
+        {
+          "key": "703|作曲：泽野弘之",
+          "startMs": 703,
+          "text": "作曲：泽野弘之"
+        },
+        {
+          "key": "967|编曲：泽野弘之",
+          "startMs": 967,
+          "text": "编曲：泽野弘之"
+        },
+        {
+          "key": "1298|音乐协力：LUNA KINGDOM株式会社",
+          "startMs": 1298,
+          "text": "音乐协力：LUNA KINGDOM株式会社"
+        },
+        {
+          "key": "8478|It's not easy lose my grip those dreams are calling me",
+          "startMs": 8478,
+          "text": "It's not easy lose my grip those dreams are calling me"
+        },
+        {
+          "key": "12452|Like a hermit used to find a reason not to be",
+          "startMs": 12452,
+          "text": "Like a hermit used to find a reason not to be"
+        },
+        {
+          "key": "16334|You teach me about the history of our fallen heroes",
+          "startMs": 16334,
+          "text": "You teach me about the history of our fallen heroes"
+        },
+        {
+          "key": "20571|Realize I have found a solid companion",
+          "startMs": 20571,
+          "text": "Realize I have found a solid companion"
+        },
+        {
+          "key": "23940|Cos",
+          "startMs": 23940,
+          "text": "Cos"
+        },
+        {
+          "key": "24203|I was afraid",
+          "startMs": 24203,
+          "text": "I was afraid"
+        },
+        {
+          "key": "26046|Was alone",
+          "startMs": 26046,
+          "text": "Was alone"
+        },
+        {
+          "key": "26904|In a cave",
+          "startMs": 26904,
+          "text": "In a cave"
+        },
+        {
+          "key": "27895|Like a stone",
+          "startMs": 27895,
+          "text": "Like a stone"
+        },
+        {
+          "key": "32031|This",
+          "startMs": 32031,
+          "text": "This"
+        },
+        {
+          "key": "32360|Dance is so dangerous",
+          "startMs": 32360,
+          "text": "Dance is so dangerous"
+        },
+        {
+          "key": "34077|So cryptic it changes us",
+          "startMs": 34077,
+          "text": "So cryptic it changes us"
+        },
+        {
+          "key": "35921|But the secrets that we learn",
+          "startMs": 35921,
+          "text": "But the secrets that we learn"
+        },
+        {
+          "key": "37700|Can give power to all of us",
+          "startMs": 37700,
+          "text": "Can give power to all of us"
+        },
+        {
+          "key": "40180|Dance shook me dangerous",
+          "startMs": 40180,
+          "text": "Dance shook me dangerous"
+        },
+        {
+          "key": "42058|So glad that you came to us",
+          "startMs": 42058,
+          "text": "So glad that you came to us"
+        },
+        {
+          "key": "43984|Can a lesson that we learn transform our view",
+          "startMs": 43984,
+          "text": "Can a lesson that we learn transform our view"
+        },
+        {
+          "key": "47559|Do you hear me",
+          "startMs": 47559,
+          "text": "Do you hear me"
+        },
+        {
+          "key": "48387|Destination I",
+          "startMs": 48387,
+          "text": "Destination I"
+        },
+        {
+          "key": "49968|Gotta invitation I",
+          "startMs": 49968,
+          "text": "Gotta invitation I"
+        },
+        {
+          "key": "51432|Gonna change all my sense",
+          "startMs": 51432,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "52690|Of reality",
+          "startMs": 52690,
+          "text": "Of reality"
+        },
+        {
+          "key": "53900|Gonna change reality",
+          "startMs": 53900,
+          "text": "Gonna change reality"
+        },
+        {
+          "key": "55583|Come on my",
+          "startMs": 55583,
+          "text": "Come on my"
+        },
+        {
+          "key": "56309|Destination I",
+          "startMs": 56309,
+          "text": "Destination I"
+        },
+        {
+          "key": "57948|Got my information I",
+          "startMs": 57948,
+          "text": "Got my information I"
+        },
+        {
+          "key": "59474|Gonna change all my sense",
+          "startMs": 59474,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "60686|Of reality",
+          "startMs": 60686,
+          "text": "Of reality"
+        },
+        {
+          "key": "61996|Gonna change reality",
+          "startMs": 61996,
+          "text": "Gonna change reality"
+        },
+        {
+          "key": "64402|In too deep",
+          "startMs": 64402,
+          "text": "In too deep"
+        },
+        {
+          "key": "65708|When did we pass the point of no return",
+          "startMs": 65708,
+          "text": "When did we pass the point of no return"
+        },
+        {
+          "key": "68508|A new way to slay the beast",
+          "startMs": 68508,
+          "text": "A new way to slay the beast"
+        },
+        {
+          "key": "70951|We're gonna beat the burn",
+          "startMs": 70951,
+          "text": "We're gonna beat the burn"
+        },
+        {
+          "key": "72400|Don't think twice keep on pounding on the wall till it shatters",
+          "startMs": 72400,
+          "text": "Don't think twice keep on pounding on the wall till it shatters"
+        },
+        {
+          "key": "76423|Turn the tide",
+          "startMs": 76423,
+          "text": "Turn the tide"
+        },
+        {
+          "key": "77757|Gotta climb the ladder that matters",
+          "startMs": 77757,
+          "text": "Gotta climb the ladder that matters"
+        },
+        {
+          "key": "79977|Cos",
+          "startMs": 79977,
+          "text": "Cos"
+        },
+        {
+          "key": "80243|I was afraid",
+          "startMs": 80243,
+          "text": "I was afraid"
+        },
+        {
+          "key": "82036|Was alone",
+          "startMs": 82036,
+          "text": "Was alone"
+        },
+        {
+          "key": "82896|In a cave",
+          "startMs": 82896,
+          "text": "In a cave"
+        },
+        {
+          "key": "83886|Like a stone",
+          "startMs": 83886,
+          "text": "Like a stone"
+        },
+        {
+          "key": "87984|This",
+          "startMs": 87984,
+          "text": "This"
+        },
+        {
+          "key": "88250|Dance is so dangerous",
+          "startMs": 88250,
+          "text": "Dance is so dangerous"
+        },
+        {
+          "key": "89968|So cryptic it changes us",
+          "startMs": 89968,
+          "text": "So cryptic it changes us"
+        },
+        {
+          "key": "91900|But the secrets that we learn",
+          "startMs": 91900,
+          "text": "But the secrets that we learn"
+        },
+        {
+          "key": "93730|Can give power to all of us",
+          "startMs": 93730,
+          "text": "Can give power to all of us"
+        },
+        {
+          "key": "96198|Dance shook me dangerous",
+          "startMs": 96198,
+          "text": "Dance shook me dangerous"
+        },
+        {
+          "key": "98040|So glad that you came to us",
+          "startMs": 98040,
+          "text": "So glad that you came to us"
+        },
+        {
+          "key": "99964|Can a lesson that we learn transform our view",
+          "startMs": 99964,
+          "text": "Can a lesson that we learn transform our view"
+        },
+        {
+          "key": "103411|Do you hear me",
+          "startMs": 103411,
+          "text": "Do you hear me"
+        },
+        {
+          "key": "104331|Destination I",
+          "startMs": 104331,
+          "text": "Destination I"
+        },
+        {
+          "key": "105977|Gotta invitation I",
+          "startMs": 105977,
+          "text": "Gotta invitation I"
+        },
+        {
+          "key": "107504|Gonna change all my sense",
+          "startMs": 107504,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "108759|Of reality",
+          "startMs": 108759,
+          "text": "Of reality"
+        },
+        {
+          "key": "109887|Gonna change reality",
+          "startMs": 109887,
+          "text": "Gonna change reality"
+        },
+        {
+          "key": "111528|Come on my",
+          "startMs": 111528,
+          "text": "Come on my"
+        },
+        {
+          "key": "112249|Destination I",
+          "startMs": 112249,
+          "text": "Destination I"
+        },
+        {
+          "key": "113893|Got my information I",
+          "startMs": 113893,
+          "text": "Got my information I"
+        },
+        {
+          "key": "115403|Gonna change all my sense",
+          "startMs": 115403,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "116558|Of reality",
+          "startMs": 116558,
+          "text": "Of reality"
+        },
+        {
+          "key": "117880|Gonna change reality",
+          "startMs": 117880,
+          "text": "Gonna change reality"
+        },
+        {
+          "key": "123552|Can hear them calling",
+          "startMs": 123552,
+          "text": "Can hear them calling"
+        },
+        {
+          "key": "125533|Can hear them calling",
+          "startMs": 125533,
+          "text": "Can hear them calling"
+        },
+        {
+          "key": "131533|Can hear them calling",
+          "startMs": 131533,
+          "text": "Can hear them calling"
+        },
+        {
+          "key": "133572|Can hear them…",
+          "startMs": 133572,
+          "text": "Can hear them…"
+        },
+        {
+          "key": "137504|Fight for us",
+          "startMs": 137504,
+          "text": "Fight for us"
+        },
+        {
+          "key": "138955|Can hear them calling from towers that we trust",
+          "startMs": 138955,
+          "text": "Can hear them calling from towers that we trust"
+        },
+        {
+          "key": "142954|Can feel the legacy grow and",
+          "startMs": 142954,
+          "text": "Can feel the legacy grow and"
+        },
+        {
+          "key": "145783|So we must",
+          "startMs": 145783,
+          "text": "So we must"
+        },
+        {
+          "key": "146731|Stand together",
+          "startMs": 146731,
+          "text": "Stand together"
+        },
+        {
+          "key": "147390|Be tight",
+          "startMs": 147390,
+          "text": "Be tight"
+        },
+        {
+          "key": "148501|Making everything right",
+          "startMs": 148501,
+          "text": "Making everything right"
+        },
+        {
+          "key": "151008|Empowers you to be strong",
+          "startMs": 151008,
+          "text": "Empowers you to be strong"
+        },
+        {
+          "key": "153544|Do you hear me",
+          "startMs": 153544,
+          "text": "Do you hear me"
+        },
+        {
+          "key": "154346|Destination I",
+          "startMs": 154346,
+          "text": "Destination I"
+        },
+        {
+          "key": "155927|Gotta invitation I",
+          "startMs": 155927,
+          "text": "Gotta invitation I"
+        },
+        {
+          "key": "157503|Gonna change all my sense",
+          "startMs": 157503,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "158693|Of reality",
+          "startMs": 158693,
+          "text": "Of reality"
+        },
+        {
+          "key": "159946|Gonna change reality",
+          "startMs": 159946,
+          "text": "Gonna change reality"
+        },
+        {
+          "key": "161523|Come on my",
+          "startMs": 161523,
+          "text": "Come on my"
+        },
+        {
+          "key": "162247|Destination I",
+          "startMs": 162247,
+          "text": "Destination I"
+        },
+        {
+          "key": "163888|Got my information I",
+          "startMs": 163888,
+          "text": "Got my information I"
+        },
+        {
+          "key": "165395|Gonna change all my sense",
+          "startMs": 165395,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "166698|Of reality",
+          "startMs": 166698,
+          "text": "Of reality"
+        },
+        {
+          "key": "167950|Gonna change reality",
+          "startMs": 167950,
+          "text": "Gonna change reality"
+        }
+      ]
+    },
+    {
+      "rank": 202,
+      "songKey": "online:kugou:a43573d8b95aa638b80c2a34d93fa70c",
+      "name": "Ivory Tower",
+      "artist": "任舒瞳",
+      "lines": [
+        {
+          "key": "0|Ivory Tower - 任舒瞳",
+          "startMs": 0,
+          "text": "Ivory Tower - 任舒瞳"
+        },
+        {
+          "key": "278|原唱：澤野弘之/SennaRin",
+          "startMs": 278,
+          "text": "原唱：澤野弘之/SennaRin"
+        },
+        {
+          "key": "528|Lyrics by：Benjamin/mpi",
+          "startMs": 528,
+          "text": "Lyrics by：Benjamin/mpi"
+        },
+        {
+          "key": "639|Composed by：泽野弘之",
+          "startMs": 639,
+          "text": "Composed by：泽野弘之"
+        },
+        {
+          "key": "807|It's not easy lose my grip those dreams are calling me",
+          "startMs": 807,
+          "text": "It's not easy lose my grip those dreams are calling me"
+        },
+        {
+          "key": "4747|Like a hermit used to find a reason not to be",
+          "startMs": 4747,
+          "text": "Like a hermit used to find a reason not to be"
+        },
+        {
+          "key": "8734|You teach me about the history of our fallen heroes",
+          "startMs": 8734,
+          "text": "You teach me about the history of our fallen heroes"
+        },
+        {
+          "key": "12666|Realize I have found a solid companion",
+          "startMs": 12666,
+          "text": "Realize I have found a solid companion"
+        },
+        {
+          "key": "16162|Cos",
+          "startMs": 16162,
+          "text": "Cos"
+        },
+        {
+          "key": "16433|I was afraid",
+          "startMs": 16433,
+          "text": "I was afraid"
+        },
+        {
+          "key": "18200|Was alone",
+          "startMs": 18200,
+          "text": "Was alone"
+        },
+        {
+          "key": "19232|In a cave",
+          "startMs": 19232,
+          "text": "In a cave"
+        },
+        {
+          "key": "20242|Like a stone",
+          "startMs": 20242,
+          "text": "Like a stone"
+        },
+        {
+          "key": "24273|This",
+          "startMs": 24273,
+          "text": "This"
+        },
+        {
+          "key": "24405|Dance is so dangerous",
+          "startMs": 24405,
+          "text": "Dance is so dangerous"
+        },
+        {
+          "key": "26232|So cryptic it changes us",
+          "startMs": 26232,
+          "text": "So cryptic it changes us"
+        },
+        {
+          "key": "28092|But the secrets that we learn",
+          "startMs": 28092,
+          "text": "But the secrets that we learn"
+        },
+        {
+          "key": "29957|Can give power to all of us",
+          "startMs": 29957,
+          "text": "Can give power to all of us"
+        },
+        {
+          "key": "32466|Dance shook me dangerous",
+          "startMs": 32466,
+          "text": "Dance shook me dangerous"
+        },
+        {
+          "key": "34143|So glad that you came to us",
+          "startMs": 34143,
+          "text": "So glad that you came to us"
+        },
+        {
+          "key": "36167|Can a lesson that we learn transform our view",
+          "startMs": 36167,
+          "text": "Can a lesson that we learn transform our view"
+        },
+        {
+          "key": "39587|Do you hear me",
+          "startMs": 39587,
+          "text": "Do you hear me"
+        },
+        {
+          "key": "40661|Destination I",
+          "startMs": 40661,
+          "text": "Destination I"
+        },
+        {
+          "key": "42087|Gotta invitation I",
+          "startMs": 42087,
+          "text": "Gotta invitation I"
+        },
+        {
+          "key": "43655|Gonna change all my sense",
+          "startMs": 43655,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "44923|Of reality",
+          "startMs": 44923,
+          "text": "Of reality"
+        },
+        {
+          "key": "46299|Gonna change reality",
+          "startMs": 46299,
+          "text": "Gonna change reality"
+        },
+        {
+          "key": "47849|Come on my",
+          "startMs": 47849,
+          "text": "Come on my"
+        },
+        {
+          "key": "48482|Destination I",
+          "startMs": 48482,
+          "text": "Destination I"
+        },
+        {
+          "key": "50172|Got my information I",
+          "startMs": 50172,
+          "text": "Got my information I"
+        },
+        {
+          "key": "51737|Gonna change all my sense",
+          "startMs": 51737,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "52953|Of reality",
+          "startMs": 52953,
+          "text": "Of reality"
+        },
+        {
+          "key": "54257|Gonna change reality",
+          "startMs": 54257,
+          "text": "Gonna change reality"
+        },
+        {
+          "key": "56763|In too deep",
+          "startMs": 56763,
+          "text": "In too deep"
+        },
+        {
+          "key": "58063|When did we pass the point of no return",
+          "startMs": 58063,
+          "text": "When did we pass the point of no return"
+        },
+        {
+          "key": "60718|A new way to slay the beast",
+          "startMs": 60718,
+          "text": "A new way to slay the beast"
+        },
+        {
+          "key": "63203|We're gonna beat the burn",
+          "startMs": 63203,
+          "text": "We're gonna beat the burn"
+        },
+        {
+          "key": "64664|Don't think twice keep on pounding on the wall till it shatters",
+          "startMs": 64664,
+          "text": "Don't think twice keep on pounding on the wall till it shatters"
+        },
+        {
+          "key": "68651|Turn the tide",
+          "startMs": 68651,
+          "text": "Turn the tide"
+        },
+        {
+          "key": "69958|Gotta climb the ladder that matters",
+          "startMs": 69958,
+          "text": "Gotta climb the ladder that matters"
+        },
+        {
+          "key": "72437|Cos",
+          "startMs": 72437,
+          "text": "Cos"
+        },
+        {
+          "key": "72588|I was afraid",
+          "startMs": 72588,
+          "text": "I was afraid"
+        },
+        {
+          "key": "74225|Was alone",
+          "startMs": 74225,
+          "text": "Was alone"
+        },
+        {
+          "key": "75261|In a cave",
+          "startMs": 75261,
+          "text": "In a cave"
+        },
+        {
+          "key": "76389|Like a stone",
+          "startMs": 76389,
+          "text": "Like a stone"
+        },
+        {
+          "key": "80236|This",
+          "startMs": 80236,
+          "text": "This"
+        },
+        {
+          "key": "80452|Dance is so dangerous",
+          "startMs": 80452,
+          "text": "Dance is so dangerous"
+        },
+        {
+          "key": "82205|So cryptic it changes us",
+          "startMs": 82205,
+          "text": "So cryptic it changes us"
+        },
+        {
+          "key": "84213|But the secrets that we learn",
+          "startMs": 84213,
+          "text": "But the secrets that we learn"
+        },
+        {
+          "key": "85984|Can give power to all of us",
+          "startMs": 85984,
+          "text": "Can give power to all of us"
+        },
+        {
+          "key": "88480|Dance shook me dangerous",
+          "startMs": 88480,
+          "text": "Dance shook me dangerous"
+        },
+        {
+          "key": "90158|So glad that you came to us",
+          "startMs": 90158,
+          "text": "So glad that you came to us"
+        },
+        {
+          "key": "92341|Can a lesson that we learn transform our view",
+          "startMs": 92341,
+          "text": "Can a lesson that we learn transform our view"
+        },
+        {
+          "key": "95608|Do you hear me",
+          "startMs": 95608,
+          "text": "Do you hear me"
+        },
+        {
+          "key": "96640|Destination I",
+          "startMs": 96640,
+          "text": "Destination I"
+        },
+        {
+          "key": "98200|Gotta invitation I",
+          "startMs": 98200,
+          "text": "Gotta invitation I"
+        },
+        {
+          "key": "99752|Gonna change all my sense",
+          "startMs": 99752,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "100900|Of reality",
+          "startMs": 100900,
+          "text": "Of reality"
+        },
+        {
+          "key": "102122|Gonna change reality",
+          "startMs": 102122,
+          "text": "Gonna change reality"
+        },
+        {
+          "key": "103836|Come on my",
+          "startMs": 103836,
+          "text": "Come on my"
+        },
+        {
+          "key": "104459|Destination I",
+          "startMs": 104459,
+          "text": "Destination I"
+        },
+        {
+          "key": "106180|Got my information I",
+          "startMs": 106180,
+          "text": "Got my information I"
+        },
+        {
+          "key": "107690|Gonna change all my sense",
+          "startMs": 107690,
+          "text": "Gonna change all my sense"
+        },
+        {
+          "key": "108943|Of reality",
+          "startMs": 108943,
+          "text": "Of reality"
+        },
+        {
+          "key": "110172|Gonna change reality",
+          "startMs": 110172,
+          "text": "Gonna change reality"
+        }
+      ]
+    },
+    {
+      "rank": 203,
+      "songKey": "online:kugou:f7efefaae7cbc945b51398046861033f",
+      "name": "失眠的夜 (女版)",
+      "artist": "韩可可",
+      "lines": [
+        {
+          "key": "0|失眠的夜 (女版) - 韩可可",
+          "startMs": 0,
+          "text": "失眠的夜 (女版) - 韩可可"
+        },
+        {
+          "key": "4166|词：宋孟君",
+          "startMs": 4166,
+          "text": "词：宋孟君"
+        },
+        {
+          "key": "4298|曲：宋孟君",
+          "startMs": 4298,
+          "text": "曲：宋孟君"
+        },
+        {
+          "key": "4536|编曲：啤雄",
+          "startMs": 4536,
+          "text": "编曲：啤雄"
+        },
+        {
+          "key": "5278|混音：张可人",
+          "startMs": 5278,
+          "text": "混音：张可人"
+        },
+        {
+          "key": "6326|总监制：刘浩航",
+          "startMs": 6326,
+          "text": "总监制：刘浩航"
+        },
+        {
+          "key": "6519|首席宣传官：刘林遥",
+          "startMs": 6519,
+          "text": "首席宣传官：刘林遥"
+        },
+        {
+          "key": "7830|商务统筹：姚姝",
+          "startMs": 7830,
+          "text": "商务统筹：姚姝"
+        },
+        {
+          "key": "8030|制作人：宋孟君",
+          "startMs": 8030,
+          "text": "制作人：宋孟君"
+        },
+        {
+          "key": "8505|OP：In Move 云猫",
+          "startMs": 8505,
+          "text": "OP：In Move 云猫"
+        },
+        {
+          "key": "9674|联合出品：In Move 云猫/元淦音乐/柳丁音乐",
+          "startMs": 9674,
+          "text": "联合出品：In Move 云猫/元淦音乐/柳丁音乐"
+        },
+        {
+          "key": "15643|今夜我又失眠",
+          "startMs": 15643,
+          "text": "今夜我又失眠"
+        },
+        {
+          "key": "17786|一个人 的房间",
+          "startMs": 17786,
+          "text": "一个人 的房间"
+        },
+        {
+          "key": "19742|我把灯光都熄灭",
+          "startMs": 19742,
+          "text": "我把灯光都熄灭"
+        },
+        {
+          "key": "21628|熬着最难熬的夜",
+          "startMs": 21628,
+          "text": "熬着最难熬的夜"
+        },
+        {
+          "key": "23576|你不在身边",
+          "startMs": 23576,
+          "text": "你不在身边"
+        },
+        {
+          "key": "25551|孤单从不停歇",
+          "startMs": 25551,
+          "text": "孤单从不停歇"
+        },
+        {
+          "key": "27677|枕头又湿了一遍",
+          "startMs": 27677,
+          "text": "枕头又湿了一遍"
+        },
+        {
+          "key": "31217|今夜我又失眠",
+          "startMs": 31217,
+          "text": "今夜我又失眠"
+        },
+        {
+          "key": "33294|一个人的房间",
+          "startMs": 33294,
+          "text": "一个人的房间"
+        },
+        {
+          "key": "35173|我的心里下着雪",
+          "startMs": 35173,
+          "text": "我的心里下着雪"
+        },
+        {
+          "key": "37090|望着最寂寞的天",
+          "startMs": 37090,
+          "text": "望着最寂寞的天"
+        },
+        {
+          "key": "39020|还翻着从前你和我的聊天",
+          "startMs": 39020,
+          "text": "还翻着从前你和我的聊天"
+        },
+        {
+          "key": "43289|和你所有一切也停在从前",
+          "startMs": 43289,
+          "text": "和你所有一切也停在从前"
+        },
+        {
+          "key": "47933|我一个人生活",
+          "startMs": 47933,
+          "text": "我一个人生活"
+        },
+        {
+          "key": "51086|不会再对谁去诉说",
+          "startMs": 51086,
+          "text": "不会再对谁去诉说"
+        },
+        {
+          "key": "55506|失望疲惫软弱",
+          "startMs": 55506,
+          "text": "失望疲惫软弱"
+        },
+        {
+          "key": "58843|就是现在的我",
+          "startMs": 58843,
+          "text": "就是现在的我"
+        },
+        {
+          "key": "63274|我所有心痛的理由",
+          "startMs": 63274,
+          "text": "我所有心痛的理由"
+        },
+        {
+          "key": "66134|在别人看来",
+          "startMs": 66134,
+          "text": "在别人看来"
+        },
+        {
+          "key": "68067|都是小题大做",
+          "startMs": 68067,
+          "text": "都是小题大做"
+        },
+        {
+          "key": "71080|我心痛的沉默",
+          "startMs": 71080,
+          "text": "我心痛的沉默"
+        },
+        {
+          "key": "73346|对于你来说",
+          "startMs": 73346,
+          "text": "对于你来说"
+        },
+        {
+          "key": "74967|是我不值一提的难过",
+          "startMs": 74967,
+          "text": "是我不值一提的难过"
+        },
+        {
+          "key": "77727|今夜我又失眠",
+          "startMs": 77727,
+          "text": "今夜我又失眠"
+        },
+        {
+          "key": "79798|一个人 的房间",
+          "startMs": 79798,
+          "text": "一个人 的房间"
+        },
+        {
+          "key": "81663|我把灯光都熄灭",
+          "startMs": 81663,
+          "text": "我把灯光都熄灭"
+        },
+        {
+          "key": "83535|熬着最难熬的夜",
+          "startMs": 83535,
+          "text": "熬着最难熬的夜"
+        },
+        {
+          "key": "85507|你不在身边",
+          "startMs": 85507,
+          "text": "你不在身边"
+        },
+        {
+          "key": "87499|孤单从不停歇",
+          "startMs": 87499,
+          "text": "孤单从不停歇"
+        },
+        {
+          "key": "89705|枕头又湿了一遍",
+          "startMs": 89705,
+          "text": "枕头又湿了一遍"
+        },
+        {
+          "key": "93184|今夜我又失眠",
+          "startMs": 93184,
+          "text": "今夜我又失眠"
+        },
+        {
+          "key": "95189|一个人的房间",
+          "startMs": 95189,
+          "text": "一个人的房间"
+        },
+        {
+          "key": "97152|我的心里下着雪",
+          "startMs": 97152,
+          "text": "我的心里下着雪"
+        },
+        {
+          "key": "99071|望着最寂寞的天",
+          "startMs": 99071,
+          "text": "望着最寂寞的天"
+        },
+        {
+          "key": "100976|还翻着从前你和我的聊天",
+          "startMs": 100976,
+          "text": "还翻着从前你和我的聊天"
+        },
+        {
+          "key": "105172|和你所有一切也停在从前",
+          "startMs": 105172,
+          "text": "和你所有一切也停在从前"
+        },
+        {
+          "key": "125440|我一个人生活",
+          "startMs": 125440,
+          "text": "我一个人生活"
+        },
+        {
+          "key": "128482|不会再对谁去诉说",
+          "startMs": 128482,
+          "text": "不会再对谁去诉说"
+        },
+        {
+          "key": "132875|失望疲惫软弱",
+          "startMs": 132875,
+          "text": "失望疲惫软弱"
+        },
+        {
+          "key": "136212|就是现在的我",
+          "startMs": 136212,
+          "text": "就是现在的我"
+        },
+        {
+          "key": "140754|我所有心痛的理由",
+          "startMs": 140754,
+          "text": "我所有心痛的理由"
+        },
+        {
+          "key": "143392|在别人看来",
+          "startMs": 143392,
+          "text": "在别人看来"
+        },
+        {
+          "key": "145447|都是小题大做",
+          "startMs": 145447,
+          "text": "都是小题大做"
+        },
+        {
+          "key": "148374|我心痛的沉默",
+          "startMs": 148374,
+          "text": "我心痛的沉默"
+        },
+        {
+          "key": "150806|对于你来说",
+          "startMs": 150806,
+          "text": "对于你来说"
+        },
+        {
+          "key": "152282|是我不值一提的难过",
+          "startMs": 152282,
+          "text": "是我不值一提的难过"
+        },
+        {
+          "key": "155080|今夜我又失眠",
+          "startMs": 155080,
+          "text": "今夜我又失眠"
+        },
+        {
+          "key": "157135|一个人 的房间",
+          "startMs": 157135,
+          "text": "一个人 的房间"
+        },
+        {
+          "key": "159061|我把灯光都熄灭",
+          "startMs": 159061,
+          "text": "我把灯光都熄灭"
+        },
+        {
+          "key": "160971|熬着最难熬的夜",
+          "startMs": 160971,
+          "text": "熬着最难熬的夜"
+        },
+        {
+          "key": "162897|你不在身边",
+          "startMs": 162897,
+          "text": "你不在身边"
+        },
+        {
+          "key": "164902|孤单从不停歇",
+          "startMs": 164902,
+          "text": "孤单从不停歇"
+        },
+        {
+          "key": "166996|枕头又湿了一遍",
+          "startMs": 166996,
+          "text": "枕头又湿了一遍"
+        },
+        {
+          "key": "170601|今夜我又失眠",
+          "startMs": 170601,
+          "text": "今夜我又失眠"
+        },
+        {
+          "key": "172627|一个人的房间",
+          "startMs": 172627,
+          "text": "一个人的房间"
+        },
+        {
+          "key": "174524|我的心里下着雪",
+          "startMs": 174524,
+          "text": "我的心里下着雪"
+        },
+        {
+          "key": "176481|望着最寂寞的天",
+          "startMs": 176481,
+          "text": "望着最寂寞的天"
+        },
+        {
+          "key": "178434|还翻着从前你和我的聊天",
+          "startMs": 178434,
+          "text": "还翻着从前你和我的聊天"
+        },
+        {
+          "key": "182544|和你所有一切也停在从前",
+          "startMs": 182544,
+          "text": "和你所有一切也停在从前"
+        }
+      ]
+    },
+    {
+      "rank": 204,
+      "songKey": "online:kugou:16834aea9d4b9928060dd6df8d5dbcfc",
+      "name": "樱花草 (Live)",
+      "artist": "王北车 / 王靖雯",
+      "lines": [
+        {
+          "key": "0|樱花草 (Live) - 王北车/王靖雯",
+          "startMs": 0,
+          "text": "樱花草 (Live) - 王北车/王靖雯"
+        },
+        {
+          "key": "1621|词：李天龙",
+          "startMs": 1621,
+          "text": "词：李天龙"
+        },
+        {
+          "key": "2296|曲：李天龙",
+          "startMs": 2296,
+          "text": "曲：李天龙"
+        },
+        {
+          "key": "2971|原唱：Sweety",
+          "startMs": 2971,
+          "text": "原唱：Sweety"
+        },
+        {
+          "key": "3512|SP：丰华音乐经纪股份有限公司",
+          "startMs": 3512,
+          "text": "SP：丰华音乐经纪股份有限公司"
+        },
+        {
+          "key": "5268|音乐总监：闫泽欢",
+          "startMs": 5268,
+          "text": "音乐总监：闫泽欢"
+        },
+        {
+          "key": "6348|编曲：郑载烨(JYMON)",
+          "startMs": 6348,
+          "text": "编曲：郑载烨(JYMON)"
+        },
+        {
+          "key": "7429|制作人：闫泽欢/石家豪",
+          "startMs": 7429,
+          "text": "制作人：闫泽欢/石家豪"
+        },
+        {
+          "key": "8914|制作助理：王琦@DPSTEAM",
+          "startMs": 8914,
+          "text": "制作助理：王琦@DPSTEAM"
+        },
+        {
+          "key": "10130|乐队总监：闫泽欢@DPSTEAM",
+          "startMs": 10130,
+          "text": "乐队总监：闫泽欢@DPSTEAM"
+        },
+        {
+          "key": "11481|鼓：申岚@DPSTEAM",
+          "startMs": 11481,
+          "text": "鼓：申岚@DPSTEAM"
+        },
+        {
+          "key": "12291|贝斯：阚东军@DPSTEAM",
+          "startMs": 12291,
+          "text": "贝斯：阚东军@DPSTEAM"
+        },
+        {
+          "key": "13372|吉他：刘嘉琳@DPSTEAM/周意@DPSTEAM",
+          "startMs": 13372,
+          "text": "吉他：刘嘉琳@DPSTEAM/周意@DPSTEAM"
+        },
+        {
+          "key": "14992|PGM：孙少天@DPSTEAM",
+          "startMs": 14992,
+          "text": "PGM：孙少天@DPSTEAM"
+        },
+        {
+          "key": "15803|键盘：郝知了@DPSTEAM",
+          "startMs": 15803,
+          "text": "键盘：郝知了@DPSTEAM"
+        },
+        {
+          "key": "16883|和声：冯甜甜/徐正/馨月",
+          "startMs": 16883,
+          "text": "和声：冯甜甜/徐正/馨月"
+        },
+        {
+          "key": "18504|音响总监：李震震@C.T.P.S",
+          "startMs": 18504,
+          "text": "音响总监：李震震@C.T.P.S"
+        },
+        {
+          "key": "20260|音乐监制：闫泽欢@DPSTEAM",
+          "startMs": 20260,
+          "text": "音乐监制：闫泽欢@DPSTEAM"
+        },
+        {
+          "key": "21611|混音总监：一丁@DPSTEAM",
+          "startMs": 21611,
+          "text": "混音总监：一丁@DPSTEAM"
+        },
+        {
+          "key": "22826|混音：袁栋@DPSTEAM",
+          "startMs": 22826,
+          "text": "混音：袁栋@DPSTEAM"
+        },
+        {
+          "key": "23772|音乐统筹：蒲家辉@DPSTEAM",
+          "startMs": 23772,
+          "text": "音乐统筹：蒲家辉@DPSTEAM"
+        },
+        {
+          "key": "25122|音乐解决方案：DPSTEAM",
+          "startMs": 25122,
+          "text": "音乐解决方案：DPSTEAM"
+        },
+        {
+          "key": "26203|音乐团队助理：齐羽@DPSTEAM",
+          "startMs": 26203,
+          "text": "音乐团队助理：齐羽@DPSTEAM"
+        },
+        {
+          "key": "27689|王北车：",
+          "startMs": 27689,
+          "text": "王北车："
+        },
+        {
+          "key": "28230|晚风吹动着竹林",
+          "startMs": 28230,
+          "text": "晚风吹动着竹林"
+        },
+        {
+          "key": "31141|月光拉长了身影",
+          "startMs": 31141,
+          "text": "月光拉长了身影"
+        },
+        {
+          "key": "34341|萤火虫 一闪闪",
+          "startMs": 34341,
+          "text": "萤火虫 一闪闪"
+        },
+        {
+          "key": "37901|满山飞舞的钱币",
+          "startMs": 37901,
+          "text": "满山飞舞的钱币"
+        },
+        {
+          "key": "40094|王靖雯：",
+          "startMs": 40094,
+          "text": "王靖雯："
+        },
+        {
+          "key": "40737|天上银河在发光",
+          "startMs": 40737,
+          "text": "天上银河在发光"
+        },
+        {
+          "key": "43750|地上风铃来歌唱",
+          "startMs": 43750,
+          "text": "地上风铃来歌唱"
+        },
+        {
+          "key": "46878|织女星 在远方",
+          "startMs": 46878,
+          "text": "织女星 在远方"
+        },
+        {
+          "key": "50590|古老浪漫的神话",
+          "startMs": 50590,
+          "text": "古老浪漫的神话"
+        },
+        {
+          "key": "52837|王北车：",
+          "startMs": 52837,
+          "text": "王北车："
+        },
+        {
+          "key": "53736|流水 走过",
+          "startMs": 53736,
+          "text": "流水 走过"
+        },
+        {
+          "key": "56798|就像四季的变换",
+          "startMs": 56798,
+          "text": "就像四季的变换"
+        },
+        {
+          "key": "59144|王靖雯：",
+          "startMs": 59144,
+          "text": "王靖雯："
+        },
+        {
+          "key": "60007|幸福 在蔓延",
+          "startMs": 60007,
+          "text": "幸福 在蔓延"
+        },
+        {
+          "key": "63116|爱你永恒不孤单",
+          "startMs": 63116,
+          "text": "爱你永恒不孤单"
+        },
+        {
+          "key": "65600|合：",
+          "startMs": 65600,
+          "text": "合："
+        },
+        {
+          "key": "65871|恋人手中樱花草",
+          "startMs": 65871,
+          "text": "恋人手中樱花草"
+        },
+        {
+          "key": "68988|春彩漫步的微笑",
+          "startMs": 68988,
+          "text": "春彩漫步的微笑"
+        },
+        {
+          "key": "72155|种下了 一朵朵",
+          "startMs": 72155,
+          "text": "种下了 一朵朵"
+        },
+        {
+          "key": "75313|青春璀璨的年少",
+          "startMs": 75313,
+          "text": "青春璀璨的年少"
+        },
+        {
+          "key": "78476|恋人怀中樱花草",
+          "startMs": 78476,
+          "text": "恋人怀中樱花草"
+        },
+        {
+          "key": "81642|听见胸膛心在跳",
+          "startMs": 81642,
+          "text": "听见胸膛心在跳"
+        },
+        {
+          "key": "84758|偷偷的 在思念",
+          "startMs": 84758,
+          "text": "偷偷的 在思念"
+        },
+        {
+          "key": "87976|那是我们相爱的记号",
+          "startMs": 87976,
+          "text": "那是我们相爱的记号"
+        },
+        {
+          "key": "92121|La la la la la la la",
+          "startMs": 92121,
+          "text": "La la la la la la la"
+        },
+        {
+          "key": "95122|La la la la la",
+          "startMs": 95122,
+          "text": "La la la la la"
+        },
+        {
+          "key": "98306|La la la la la la la la",
+          "startMs": 98306,
+          "text": "La la la la la la la la"
+        },
+        {
+          "key": "103199|王靖雯：",
+          "startMs": 103199,
+          "text": "王靖雯："
+        },
+        {
+          "key": "103874|天上银河在发光",
+          "startMs": 103874,
+          "text": "天上银河在发光"
+        },
+        {
+          "key": "106896|蛙鸣唱起摇篮曲",
+          "startMs": 106896,
+          "text": "蛙鸣唱起摇篮曲"
+        },
+        {
+          "key": "110111|白沙滩 月弯弯",
+          "startMs": 110111,
+          "text": "白沙滩 月弯弯"
+        },
+        {
+          "key": "113718|爱你香甜的梦里",
+          "startMs": 113718,
+          "text": "爱你香甜的梦里"
+        },
+        {
+          "key": "116103|王北车：",
+          "startMs": 116103,
+          "text": "王北车："
+        },
+        {
+          "key": "116576|天上银河在发光",
+          "startMs": 116576,
+          "text": "天上银河在发光"
+        },
+        {
+          "key": "119537|地上风铃在歌唱",
+          "startMs": 119537,
+          "text": "地上风铃在歌唱"
+        },
+        {
+          "key": "122763|织女星 在远方",
+          "startMs": 122763,
+          "text": "织女星 在远方"
+        },
+        {
+          "key": "126292|许下浪漫的愿望",
+          "startMs": 126292,
+          "text": "许下浪漫的愿望"
+        },
+        {
+          "key": "129176|合：",
+          "startMs": 129176,
+          "text": "合："
+        },
+        {
+          "key": "129510|流水 走过",
+          "startMs": 129510,
+          "text": "流水 走过"
+        },
+        {
+          "key": "132146|王北车：",
+          "startMs": 132146,
+          "text": "王北车："
+        },
+        {
+          "key": "132739|就像四季的变换",
+          "startMs": 132739,
+          "text": "就像四季的变换"
+        },
+        {
+          "key": "135435|合：",
+          "startMs": 135435,
+          "text": "合："
+        },
+        {
+          "key": "135760|幸福 在蔓延",
+          "startMs": 135760,
+          "text": "幸福 在蔓延"
+        },
+        {
+          "key": "138541|王靖雯：",
+          "startMs": 138541,
+          "text": "王靖雯："
+        },
+        {
+          "key": "139070|爱你永恒不孤单",
+          "startMs": 139070,
+          "text": "爱你永恒不孤单"
+        },
+        {
+          "key": "141627|合：",
+          "startMs": 141627,
+          "text": "合："
+        },
+        {
+          "key": "141800|恋人手中樱花草",
+          "startMs": 141800,
+          "text": "恋人手中樱花草"
+        },
+        {
+          "key": "144804|春彩漫步的微笑",
+          "startMs": 144804,
+          "text": "春彩漫步的微笑"
+        },
+        {
+          "key": "147938|种下了 一朵朵",
+          "startMs": 147938,
+          "text": "种下了 一朵朵"
+        },
+        {
+          "key": "151135|青春璀璨的年少",
+          "startMs": 151135,
+          "text": "青春璀璨的年少"
+        },
+        {
+          "key": "154278|恋人怀中樱花草",
+          "startMs": 154278,
+          "text": "恋人怀中樱花草"
+        },
+        {
+          "key": "157419|听见胸膛心在跳",
+          "startMs": 157419,
+          "text": "听见胸膛心在跳"
+        },
+        {
+          "key": "160549|偷偷的 在思念",
+          "startMs": 160549,
+          "text": "偷偷的 在思念"
+        },
+        {
+          "key": "163758|那是我们相爱的味道",
+          "startMs": 163758,
+          "text": "那是我们相爱的味道"
+        },
+        {
+          "key": "181236|恋人手中樱花草",
+          "startMs": 181236,
+          "text": "恋人手中樱花草"
+        },
+        {
+          "key": "184303|春彩漫步的微笑",
+          "startMs": 184303,
+          "text": "春彩漫步的微笑"
+        },
+        {
+          "key": "187433|种下了 一朵朵",
+          "startMs": 187433,
+          "text": "种下了 一朵朵"
+        },
+        {
+          "key": "190584|青春璀璨的年少",
+          "startMs": 190584,
+          "text": "青春璀璨的年少"
+        },
+        {
+          "key": "193719|恋人怀中樱花草",
+          "startMs": 193719,
+          "text": "恋人怀中樱花草"
+        },
+        {
+          "key": "196964|听见胸膛心在跳",
+          "startMs": 196964,
+          "text": "听见胸膛心在跳"
+        },
+        {
+          "key": "200055|偷偷的 在思念",
+          "startMs": 200055,
+          "text": "偷偷的 在思念"
+        },
+        {
+          "key": "203257|那是我们相爱的 味道",
+          "startMs": 203257,
+          "text": "那是我们相爱的 味道"
+        },
+        {
+          "key": "207250|恋人手中樱花草",
+          "startMs": 207250,
+          "text": "恋人手中樱花草"
+        },
+        {
+          "key": "209593|春彩漫步的微笑",
+          "startMs": 209593,
+          "text": "春彩漫步的微笑"
+        },
+        {
+          "key": "212652|种下了 一朵朵",
+          "startMs": 212652,
+          "text": "种下了 一朵朵"
+        },
+        {
+          "key": "215918|青春璀璨的年少",
+          "startMs": 215918,
+          "text": "青春璀璨的年少"
+        },
+        {
+          "key": "218998|恋人怀中樱花草",
+          "startMs": 218998,
+          "text": "恋人怀中樱花草"
+        },
+        {
+          "key": "222196|听见胸膛心在跳",
+          "startMs": 222196,
+          "text": "听见胸膛心在跳"
+        },
+        {
+          "key": "225263|偷偷的 在思念",
+          "startMs": 225263,
+          "text": "偷偷的 在思念"
+        },
+        {
+          "key": "228441|那是我们相爱的味道",
+          "startMs": 228441,
+          "text": "那是我们相爱的味道"
+        }
+      ]
+    },
+    {
+      "rank": 205,
+      "songKey": "online:kugou:3614f7ee3134db0a56a981e1928ec9d3",
+      "name": "不如 (说唱版)",
+      "artist": "歪歪超 / 橘子妹",
+      "lines": [
+        {
+          "key": "0|不如(说唱版)-歪歪超/橘子妹",
+          "startMs": 0,
+          "text": "不如(说唱版)-歪歪超/橘子妹"
+        },
+        {
+          "key": "73|词：周林",
+          "startMs": 73,
+          "text": "词：周林"
+        },
+        {
+          "key": "146|曲：周林",
+          "startMs": 146,
+          "text": "曲：周林"
+        },
+        {
+          "key": "219|词曲协力：歪歪超",
+          "startMs": 219,
+          "text": "词曲协力：歪歪超"
+        },
+        {
+          "key": "292|编曲：Cluz/歪歪超",
+          "startMs": 292,
+          "text": "编曲：Cluz/歪歪超"
+        },
+        {
+          "key": "365|混音：Cluz/歪歪超",
+          "startMs": 365,
+          "text": "混音：Cluz/歪歪超"
+        },
+        {
+          "key": "438|监制：芥子",
+          "startMs": 438,
+          "text": "监制：芥子"
+        },
+        {
+          "key": "511|出品：白夜极光",
+          "startMs": 511,
+          "text": "出品：白夜极光"
+        },
+        {
+          "key": "584|【未经著作权人许可不得翻唱翻录或使用】",
+          "startMs": 584,
+          "text": "【未经著作权人许可不得翻唱翻录或使用】"
+        },
+        {
+          "key": "660|不如我们拥抱后分手",
+          "startMs": 660,
+          "text": "不如我们拥抱后分手"
+        },
+        {
+          "key": "3840|不如眼泪有空偷偷流",
+          "startMs": 3840,
+          "text": "不如眼泪有空偷偷流"
+        },
+        {
+          "key": "6930|不如这次就还你自由",
+          "startMs": 6930,
+          "text": "不如这次就还你自由"
+        },
+        {
+          "key": "9990|不如擦肩而过别回头",
+          "startMs": 9990,
+          "text": "不如擦肩而过别回头"
+        },
+        {
+          "key": "13020|不如我们就断了联系",
+          "startMs": 13020,
+          "text": "不如我们就断了联系"
+        },
+        {
+          "key": "14760|别把思念停在原地",
+          "startMs": 14760,
+          "text": "别把思念停在原地"
+        },
+        {
+          "key": "16260|给予对方向往自由的权力",
+          "startMs": 16260,
+          "text": "给予对方向往自由的权力"
+        },
+        {
+          "key": "18090|忘掉所谓的嫌弃",
+          "startMs": 18090,
+          "text": "忘掉所谓的嫌弃"
+        },
+        {
+          "key": "19350|没了质疑的声讨",
+          "startMs": 19350,
+          "text": "没了质疑的声讨"
+        },
+        {
+          "key": "20910|这样就可以少了争吵",
+          "startMs": 20910,
+          "text": "这样就可以少了争吵"
+        },
+        {
+          "key": "22440|大可不必把EMO 的情绪",
+          "startMs": 22440,
+          "text": "大可不必把EMO 的情绪"
+        },
+        {
+          "key": "24210|浪费在夜晚的分秒",
+          "startMs": 24210,
+          "text": "浪费在夜晚的分秒"
+        },
+        {
+          "key": "25530|你编织的谎言我不愿再听到",
+          "startMs": 25530,
+          "text": "你编织的谎言我不愿再听到"
+        },
+        {
+          "key": "27510|尽管你伪装的再精妙",
+          "startMs": 27510,
+          "text": "尽管你伪装的再精妙"
+        },
+        {
+          "key": "29040|你的拥抱 假面的笑",
+          "startMs": 29040,
+          "text": "你的拥抱 假面的笑"
+        },
+        {
+          "key": "30540|也不会让我再心跳",
+          "startMs": 30540,
+          "text": "也不会让我再心跳"
+        },
+        {
+          "key": "32430|失落的泪水我宁可躲在角落偷偷流",
+          "startMs": 32430,
+          "text": "失落的泪水我宁可躲在角落偷偷流"
+        },
+        {
+          "key": "35160|就算哭红双眸 也不会对你再哀求",
+          "startMs": 35160,
+          "text": "就算哭红双眸 也不会对你再哀求"
+        },
+        {
+          "key": "37920|不如我们拥抱后分手",
+          "startMs": 37920,
+          "text": "不如我们拥抱后分手"
+        },
+        {
+          "key": "40710|不如眼泪有空偷偷流",
+          "startMs": 40710,
+          "text": "不如眼泪有空偷偷流"
+        },
+        {
+          "key": "43800|不如这次就还你自由",
+          "startMs": 43800,
+          "text": "不如这次就还你自由"
+        },
+        {
+          "key": "46860|不如擦肩而过别回头",
+          "startMs": 46860,
+          "text": "不如擦肩而过别回头"
+        },
+        {
+          "key": "49950|不如这次你说对不起",
+          "startMs": 49950,
+          "text": "不如这次你说对不起"
+        },
+        {
+          "key": "53010|我一定告诉你没关系",
+          "startMs": 53010,
+          "text": "我一定告诉你没关系"
+        },
+        {
+          "key": "56070|不如回到最初的相遇",
+          "startMs": 56070,
+          "text": "不如回到最初的相遇"
+        },
+        {
+          "key": "59160|把爱藏在相遇的缝隙",
+          "startMs": 59160,
+          "text": "把爱藏在相遇的缝隙"
+        },
+        {
+          "key": "75690|不如放过你",
+          "startMs": 75690,
+          "text": "不如放过你"
+        },
+        {
+          "key": "76680|其实是放过我自己",
+          "startMs": 76680,
+          "text": "其实是放过我自己"
+        },
+        {
+          "key": "78240|不如让感情自由落体",
+          "startMs": 78240,
+          "text": "不如让感情自由落体"
+        },
+        {
+          "key": "79800|何必拉扯纠缠还在一起",
+          "startMs": 79800,
+          "text": "何必拉扯纠缠还在一起"
+        },
+        {
+          "key": "81690|不如就变得陌生",
+          "startMs": 81690,
+          "text": "不如就变得陌生"
+        },
+        {
+          "key": "83220|不如就默不作声",
+          "startMs": 83220,
+          "text": "不如就默不作声"
+        },
+        {
+          "key": "84750|只怕你想的太多把你想像的想的太真",
+          "startMs": 84750,
+          "text": "只怕你想的太多把你想像的想的太真"
+        },
+        {
+          "key": "87270|可我看到他们说有一对模范情侣",
+          "startMs": 87270,
+          "text": "可我看到他们说有一对模范情侣"
+        },
+        {
+          "key": "90690|不如我和你",
+          "startMs": 90690,
+          "text": "不如我和你"
+        },
+        {
+          "key": "93180|可你说没有真正感同身受爱情",
+          "startMs": 93180,
+          "text": "可你说没有真正感同身受爱情"
+        },
+        {
+          "key": "96870|不如就放弃",
+          "startMs": 96870,
+          "text": "不如就放弃"
+        },
+        {
+          "key": "99150|不如我们拥抱后分手",
+          "startMs": 99150,
+          "text": "不如我们拥抱后分手"
+        },
+        {
+          "key": "102270|不如眼泪有空偷偷流",
+          "startMs": 102270,
+          "text": "不如眼泪有空偷偷流"
+        },
+        {
+          "key": "105330|不如这次就还你自由",
+          "startMs": 105330,
+          "text": "不如这次就还你自由"
+        },
+        {
+          "key": "108420|不如擦肩而过别回头",
+          "startMs": 108420,
+          "text": "不如擦肩而过别回头"
+        },
+        {
+          "key": "111450|不如这次你说对不起",
+          "startMs": 111450,
+          "text": "不如这次你说对不起"
+        },
+        {
+          "key": "114540|我一定告诉你没关系",
+          "startMs": 114540,
+          "text": "我一定告诉你没关系"
+        },
+        {
+          "key": "117630|不如回到最初的相遇",
+          "startMs": 117630,
+          "text": "不如回到最初的相遇"
+        },
+        {
+          "key": "120690|把爱藏在相遇的缝隙",
+          "startMs": 120690,
+          "text": "把爱藏在相遇的缝隙"
+        },
+        {
+          "key": "123810|不如含着眼泪说你好",
+          "startMs": 123810,
+          "text": "不如含着眼泪说你好"
+        },
+        {
+          "key": "126870|你好不好再也不重要",
+          "startMs": 126870,
+          "text": "你好不好再也不重要"
+        },
+        {
+          "key": "129930|不如将过去统统丢掉",
+          "startMs": 129930,
+          "text": "不如将过去统统丢掉"
+        },
+        {
+          "key": "133020|留在记忆最美的一角",
+          "startMs": 133020,
+          "text": "留在记忆最美的一角"
+        },
+        {
+          "key": "135900|不如掉进爱情的游戏",
+          "startMs": 135900,
+          "text": "不如掉进爱情的游戏"
+        },
+        {
+          "key": "136500|就把你刻在回忆",
+          "startMs": 136500,
+          "text": "就把你刻在回忆"
+        },
+        {
+          "key": "137970|就算思念也不用回避",
+          "startMs": 137970,
+          "text": "就算思念也不用回避"
+        },
+        {
+          "key": "139260|反正主角已不再是你",
+          "startMs": 139260,
+          "text": "反正主角已不再是你"
+        },
+        {
+          "key": "140340|毕竟从今往后的关系",
+          "startMs": 140340,
+          "text": "毕竟从今往后的关系"
+        },
+        {
+          "key": "141300|无需费力的小心维系",
+          "startMs": 141300,
+          "text": "无需费力的小心维系"
+        },
+        {
+          "key": "142710|不如偶尔相聚在梦里",
+          "startMs": 142710,
+          "text": "不如偶尔相聚在梦里"
+        },
+        {
+          "key": "143430|与其因为爱像忽明忽暗的火焰留下泪滴",
+          "startMs": 143430,
+          "text": "与其因为爱像忽明忽暗的火焰留下泪滴"
+        },
+        {
+          "key": "145530|就算流泪也别把我吵醒",
+          "startMs": 145530,
+          "text": "就算流泪也别把我吵醒"
+        },
+        {
+          "key": "146340|不如就把未燃尽的蜡烛主动选择吹熄",
+          "startMs": 146340,
+          "text": "不如就把未燃尽的蜡烛主动选择吹熄"
+        }
+      ]
+    }
+  ]
+}

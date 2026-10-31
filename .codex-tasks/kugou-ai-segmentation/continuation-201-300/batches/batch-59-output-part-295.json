@@ -1,0 +1,509 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:7ca1234b850a8e39925b453bd6e459a0",
+      "lines": [
+        {
+          "key": "0|Angel (吉他版) - 回憶日記本",
+          "text": "Angel (吉他版) - 回憶日記本",
+          "segments": [
+            "Angel",
+            " (吉他版)",
+            " - ",
+            "回憶日記本"
+          ]
+        },
+        {
+          "key": "135|原唱：尹美莱 (윤미래)/Tiger JK (타이거 JK)/Bizzy (비지)",
+          "text": "原唱：尹美莱 (윤미래)/Tiger JK (타이거 JK)/Bizzy (비지)",
+          "segments": [
+            "原唱：",
+            "尹美莱 (윤미래)",
+            "/",
+            "Tiger JK (타이거 JK)",
+            "/",
+            "Bizzy (비지)"
+          ]
+        },
+        {
+          "key": "404|词：Tiger JK/윤미래/Bizzy",
+          "text": "词：Tiger JK/윤미래/Bizzy",
+          "segments": [
+            "词：",
+            "Tiger JK",
+            "/",
+            "윤미래",
+            "/",
+            "Bizzy"
+          ]
+        },
+        {
+          "key": "494|曲：박재선(Jason Park)/윤미래",
+          "text": "曲：박재선(Jason Park)/윤미래",
+          "segments": [
+            "曲：",
+            "박재선(Jason Park)",
+            "/",
+            "윤미래"
+          ]
+        },
+        {
+          "key": "585|Angel My Angel",
+          "text": "Angel My Angel",
+          "segments": [
+            "Angel ",
+            "My ",
+            "Angel"
+          ]
+        },
+        {
+          "key": "2059|나 미소 짓게 해",
+          "text": "나 미소 짓게 해",
+          "segments": [
+            "나 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "3474|널 위해 모든 할 수 있어",
+          "text": "널 위해 모든 할 수 있어",
+          "segments": [
+            "널 ",
+            "위해 ",
+            "모든 ",
+            "할 ",
+            "수 ",
+            "있어"
+          ]
+        },
+        {
+          "key": "5169|집도 짓게 돼",
+          "text": "집도 짓게 돼",
+          "segments": [
+            "집도 ",
+            "짓게 ",
+            "돼"
+          ]
+        },
+        {
+          "key": "6369|A N G E L",
+          "text": "A N G E L",
+          "segments": [
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "8825|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "12137|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "13075|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "14674|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "15575|I Love you you you you",
+          "text": "I Love you you you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "18405|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "19622|Angel My Angel",
+          "text": "Angel My Angel",
+          "segments": [
+            "Angel ",
+            "My ",
+            "Angel"
+          ]
+        },
+        {
+          "key": "21226|나 미소 짓게 해",
+          "text": "나 미소 짓게 해",
+          "segments": [
+            "나 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "22998|널 위해 모든 할 수 있어",
+          "text": "널 위해 모든 할 수 있어",
+          "segments": [
+            "널 ",
+            "위해 ",
+            "모든 ",
+            "할 ",
+            "수 ",
+            "있어"
+          ]
+        },
+        {
+          "key": "24677|집도 짓게 돼",
+          "text": "집도 짓게 돼",
+          "segments": [
+            "집도 ",
+            "짓게 ",
+            "돼"
+          ]
+        },
+        {
+          "key": "25963|A N G E L",
+          "text": "A N G E L",
+          "segments": [
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "28332|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "31602|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "32578|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "34090|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "35435|I Love you you you you",
+          "text": "I Love you you you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "37316|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "39131|Angel My Angel",
+          "text": "Angel My Angel",
+          "segments": [
+            "Angel ",
+            "My ",
+            "Angel"
+          ]
+        },
+        {
+          "key": "40729|나 미소 짓게 해",
+          "text": "나 미소 짓게 해",
+          "segments": [
+            "나 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "42601|널 위해 모든 할 수 있어",
+          "text": "널 위해 모든 할 수 있어",
+          "segments": [
+            "널 ",
+            "위해 ",
+            "모든 ",
+            "할 ",
+            "수 ",
+            "있어"
+          ]
+        },
+        {
+          "key": "44273|집도 짓게 돼",
+          "text": "집도 짓게 돼",
+          "segments": [
+            "집도 ",
+            "짓게 ",
+            "돼"
+          ]
+        },
+        {
+          "key": "45512|A N G E L",
+          "text": "A N G E L",
+          "segments": [
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "47918|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "51158|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "52161|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "53776|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "54861|I Love you you you you",
+          "text": "I Love you you you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "56973|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "58787|Angel My Angel",
+          "text": "Angel My Angel",
+          "segments": [
+            "Angel ",
+            "My ",
+            "Angel"
+          ]
+        },
+        {
+          "key": "60358|나 미소 짓게 해",
+          "text": "나 미소 짓게 해",
+          "segments": [
+            "나 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "62201|널 위해 모든 할 수 있어",
+          "text": "널 위해 모든 할 수 있어",
+          "segments": [
+            "널 ",
+            "위해 ",
+            "모든 ",
+            "할 ",
+            "수 ",
+            "있어"
+          ]
+        },
+        {
+          "key": "63825|집도 짓게 돼",
+          "text": "집도 짓게 돼",
+          "segments": [
+            "집도 ",
+            "짓게 ",
+            "돼"
+          ]
+        },
+        {
+          "key": "65396|A N G E L",
+          "text": "A N G E L",
+          "segments": [
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "67499|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "70659|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "71691|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "73342|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "74483|I Love you you you you",
+          "text": "I Love you you you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "76653|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        }
+      ]
+    }
+  ]
+}

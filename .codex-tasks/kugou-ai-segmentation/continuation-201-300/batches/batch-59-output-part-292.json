@@ -1,0 +1,1295 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:3514d26d3754faf4949a3c40f4bbda63",
+      "lines": [
+        {
+          "key": "100|Nana - Lonely",
+          "text": "Nana - Lonely",
+          "segments": [
+            "Nana",
+            " - ",
+            "Lonely"
+          ]
+        },
+        {
+          "key": "10119|作词：NANA",
+          "text": "作词：NANA",
+          "segments": [
+            "作词：",
+            "NANA"
+          ]
+        },
+        {
+          "key": "10853|作曲：Tony Cottura、Bülent Aris、Nana Abrokwa",
+          "text": "作曲：Tony Cottura、Bülent Aris、Nana Abrokwa",
+          "segments": [
+            "作曲：",
+            "Tony Cottura",
+            "、",
+            "Bülent Aris",
+            "、",
+            "Nana Abrokwa"
+          ]
+        },
+        {
+          "key": "30208|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "35268|I'm lonely lonely in my life",
+          "text": "I'm lonely lonely in my life",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "40238|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "45248|God help me help me to survive!",
+          "text": "God help me help me to survive!",
+          "segments": [
+            "God ",
+            "help ",
+            "me ",
+            "help ",
+            "me ",
+            "to ",
+            "survive!"
+          ]
+        },
+        {
+          "key": "52958|Remember first time we met day one",
+          "text": "Remember first time we met day one",
+          "segments": [
+            "Remember ",
+            "first ",
+            "time ",
+            "we ",
+            "met ",
+            "day ",
+            "one"
+          ]
+        },
+        {
+          "key": "55377|Kids in the garden playin' games heaven fun",
+          "text": "Kids in the garden playin' games heaven fun",
+          "segments": [
+            "Kids ",
+            "in ",
+            "the ",
+            "garden ",
+            "playin' ",
+            "games ",
+            "heaven ",
+            "fun"
+          ]
+        },
+        {
+          "key": "57955|Excitin' and amazin' havin' a real friend of mine",
+          "text": "Excitin' and amazin' havin' a real friend of mine",
+          "segments": [
+            "Excitin' ",
+            "and ",
+            "amazin' ",
+            "havin' ",
+            "a ",
+            "real ",
+            "friend ",
+            "of ",
+            "mine"
+          ]
+        },
+        {
+          "key": "60555|Feel my heartbeat and for real friend of mine",
+          "text": "Feel my heartbeat and for real friend of mine",
+          "segments": [
+            "Feel ",
+            "my ",
+            "heartbeat ",
+            "and ",
+            "for ",
+            "real ",
+            "friend ",
+            "of ",
+            "mine"
+          ]
+        },
+        {
+          "key": "63035|Face to face and eye to eye",
+          "text": "Face to face and eye to eye",
+          "segments": [
+            "Face ",
+            "to ",
+            "face ",
+            "and ",
+            "eye ",
+            "to ",
+            "eye"
+          ]
+        },
+        {
+          "key": "65425|Usin' our hands to buy and supply",
+          "text": "Usin' our hands to buy and supply",
+          "segments": [
+            "Usin' ",
+            "our ",
+            "hands ",
+            "to ",
+            "buy ",
+            "and ",
+            "supply"
+          ]
+        },
+        {
+          "key": "67974|Chillin' is cool from January to June",
+          "text": "Chillin' is cool from January to June",
+          "segments": [
+            "Chillin' ",
+            "is ",
+            "cool ",
+            "from ",
+            "January ",
+            "to ",
+            "June"
+          ]
+        },
+        {
+          "key": "70054|And we still stiked together like the glue",
+          "text": "And we still stiked together like the glue",
+          "segments": [
+            "And ",
+            "we ",
+            "still ",
+            "stiked ",
+            "together ",
+            "like ",
+            "the ",
+            "glue"
+          ]
+        },
+        {
+          "key": "72203|You know the rules",
+          "text": "You know the rules",
+          "segments": [
+            "You ",
+            "know ",
+            "the ",
+            "rules"
+          ]
+        },
+        {
+          "key": "73112|Forever you and I and believe it was clear",
+          "text": "Forever you and I and believe it was clear",
+          "segments": [
+            "Forever ",
+            "you ",
+            "and ",
+            "I ",
+            "and ",
+            "believe ",
+            "it ",
+            "was ",
+            "clear"
+          ]
+        },
+        {
+          "key": "75112|If I ever should fall I could count on you with no fear",
+          "text": "If I ever should fall I could count on you with no fear",
+          "segments": [
+            "If ",
+            "I ",
+            "ever ",
+            "should ",
+            "fall ",
+            "I ",
+            "could ",
+            "count ",
+            "on ",
+            "you ",
+            "with ",
+            "no ",
+            "fear"
+          ]
+        },
+        {
+          "key": "77952|Runnin' out of time I see who's fake",
+          "text": "Runnin' out of time I see who's fake",
+          "segments": [
+            "Runnin' ",
+            "out ",
+            "of ",
+            "time ",
+            "I ",
+            "see ",
+            "who's ",
+            "fake"
+          ]
+        },
+        {
+          "key": "80301|Alone without protection from all them snakes",
+          "text": "Alone without protection from all them snakes",
+          "segments": [
+            "Alone ",
+            "without ",
+            "protection ",
+            "from ",
+            "all ",
+            "them ",
+            "snakes"
+          ]
+        },
+        {
+          "key": "82871|All for one one for all I was told",
+          "text": "All for one one for all I was told",
+          "segments": [
+            "All ",
+            "for ",
+            "one ",
+            "one ",
+            "for ",
+            "all ",
+            "I ",
+            "was ",
+            "told"
+          ]
+        },
+        {
+          "key": "85421|Black white yellow no matter if your young or old",
+          "text": "Black white yellow no matter if your young or old",
+          "segments": [
+            "Black ",
+            "white ",
+            "yellow ",
+            "no ",
+            "matter ",
+            "if ",
+            "your ",
+            "young ",
+            "or ",
+            "old"
+          ]
+        },
+        {
+          "key": "87761|Nana's in the house to let you know",
+          "text": "Nana's in the house to let you know",
+          "segments": [
+            "Nana's ",
+            "in ",
+            "the ",
+            "house ",
+            "to ",
+            "let ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "90201|What I see is how I feel and d**n",
+          "text": "What I see is how I feel and d**n",
+          "segments": [
+            "What ",
+            "I ",
+            "see ",
+            "is ",
+            "how ",
+            "I ",
+            "feel ",
+            "and ",
+            "d**n"
+          ]
+        },
+        {
+          "key": "92629|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "97729|I'm lonely lonely in my life",
+          "text": "I'm lonely lonely in my life",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "102709|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "107639|God help me help me to survive!",
+          "text": "God help me help me to survive!",
+          "segments": [
+            "God ",
+            "help ",
+            "me ",
+            "help ",
+            "me ",
+            "to ",
+            "survive!"
+          ]
+        },
+        {
+          "key": "113389|Everybody's trippin' on me",
+          "text": "Everybody's trippin' on me",
+          "segments": [
+            "Everybody's ",
+            "trippin' ",
+            "on ",
+            "me"
+          ]
+        },
+        {
+          "key": "115669|Oh lord come help me please",
+          "text": "Oh lord come help me please",
+          "segments": [
+            "Oh ",
+            "lord ",
+            "come ",
+            "help ",
+            "me ",
+            "please"
+          ]
+        },
+        {
+          "key": "118249|I did some bad things in my life",
+          "text": "I did some bad things in my life",
+          "segments": [
+            "I ",
+            "did ",
+            "some ",
+            "bad ",
+            "things ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "123318|Why can't you rescue me 'cause you've got all I need",
+          "text": "Why can't you rescue me 'cause you've got all I need",
+          "segments": [
+            "Why ",
+            "can't ",
+            "you ",
+            "rescue ",
+            "me ",
+            "'cause ",
+            "you've ",
+            "got ",
+            "all ",
+            "I ",
+            "need"
+          ]
+        },
+        {
+          "key": "128246|I know I got to pay the price",
+          "text": "I know I got to pay the price",
+          "segments": [
+            "I ",
+            "know ",
+            "I ",
+            "got ",
+            "to ",
+            "pay ",
+            "the ",
+            "price"
+          ]
+        },
+        {
+          "key": "133446|That's why I am lonely lonely lonely",
+          "text": "That's why I am lonely lonely lonely",
+          "segments": [
+            "That's ",
+            "why ",
+            "I ",
+            "am ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "138235|I am so lonely lonely",
+          "text": "I am so lonely lonely",
+          "segments": [
+            "I ",
+            "am ",
+            "so ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "143245|That's why I am lonely lonely lonely",
+          "text": "That's why I am lonely lonely lonely",
+          "segments": [
+            "That's ",
+            "why ",
+            "I ",
+            "am ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "153000|Cheepin' thru the streets at night after a fuss and fight",
+          "text": "Cheepin' thru the streets at night after a fuss and fight",
+          "segments": [
+            "Cheepin' ",
+            "thru ",
+            "the ",
+            "streets ",
+            "at ",
+            "night ",
+            "after ",
+            "a ",
+            "fuss ",
+            "and ",
+            "fight"
+          ]
+        },
+        {
+          "key": "155440|Tears in my eyes I'm a man lookin' for the light",
+          "text": "Tears in my eyes I'm a man lookin' for the light",
+          "segments": [
+            "Tears ",
+            "in ",
+            "my ",
+            "eyes ",
+            "I'm ",
+            "a ",
+            "man ",
+            "lookin' ",
+            "for ",
+            "the ",
+            "light"
+          ]
+        },
+        {
+          "key": "157919|Dark is the path he will rescue me",
+          "text": "Dark is the path he will rescue me",
+          "segments": [
+            "Dark ",
+            "is ",
+            "the ",
+            "path ",
+            "he ",
+            "will ",
+            "rescue ",
+            "me"
+          ]
+        },
+        {
+          "key": "160279|The lord is my shephard I'm cool despite emergency",
+          "text": "The lord is my shephard I'm cool despite emergency",
+          "segments": [
+            "The ",
+            "lord ",
+            "is ",
+            "my ",
+            "shephard ",
+            "I'm ",
+            "cool ",
+            "despite ",
+            "emergency"
+          ]
+        },
+        {
+          "key": "162699|Whom shall I fear exept the god",
+          "text": "Whom shall I fear exept the god",
+          "segments": [
+            "Whom ",
+            "shall ",
+            "I ",
+            "fear ",
+            "exept ",
+            "the ",
+            "god"
+          ]
+        },
+        {
+          "key": "165399|Thank you for the blessin' and the skils on the mic",
+          "text": "Thank you for the blessin' and the skils on the mic",
+          "segments": [
+            "Thank ",
+            "you ",
+            "for ",
+            "the ",
+            "blessin' ",
+            "and ",
+            "the ",
+            "skils ",
+            "on ",
+            "the ",
+            "mic"
+          ]
+        },
+        {
+          "key": "167669|Five years we know there's no diggity",
+          "text": "Five years we know there's no diggity",
+          "segments": [
+            "Five ",
+            "years ",
+            "we ",
+            "know ",
+            "there's ",
+            "no ",
+            "diggity"
+          ]
+        },
+        {
+          "key": "170429|Free at last see the light in me",
+          "text": "Free at last see the light in me",
+          "segments": [
+            "Free ",
+            "at ",
+            "last ",
+            "see ",
+            "the ",
+            "light ",
+            "in ",
+            "me"
+          ]
+        },
+        {
+          "key": "172989|What goes up must come down",
+          "text": "What goes up must come down",
+          "segments": [
+            "What ",
+            "goes ",
+            "up ",
+            "must ",
+            "come ",
+            "down"
+          ]
+        },
+        {
+          "key": "175358|I'll be around while you heading towards deathtown",
+          "text": "I'll be around while you heading towards deathtown",
+          "segments": [
+            "I'll ",
+            "be ",
+            "around ",
+            "while ",
+            "you ",
+            "heading ",
+            "towards ",
+            "deathtown"
+          ]
+        },
+        {
+          "key": "177986|Always look forward hardly never look back",
+          "text": "Always look forward hardly never look back",
+          "segments": [
+            "Always ",
+            "look ",
+            "forward ",
+            "hardly ",
+            "never ",
+            "look ",
+            "back"
+          ]
+        },
+        {
+          "key": "180395|So many tears and the snakes on my jock",
+          "text": "So many tears and the snakes on my jock",
+          "segments": [
+            "So ",
+            "many ",
+            "tears ",
+            "and ",
+            "the ",
+            "snakes ",
+            "on ",
+            "my ",
+            "jock"
+          ]
+        },
+        {
+          "key": "182895|Now I'm riding in my big fat ride",
+          "text": "Now I'm riding in my big fat ride",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "riding ",
+            "in ",
+            "my ",
+            "big ",
+            "fat ",
+            "ride"
+          ]
+        },
+        {
+          "key": "185435|Your a** is late so look for the line",
+          "text": "Your a** is late so look for the line",
+          "segments": [
+            "Your ",
+            "a** ",
+            "is ",
+            "late ",
+            "so ",
+            "look ",
+            "for ",
+            "the ",
+            "line"
+          ]
+        },
+        {
+          "key": "187894|Nana in the house to let you know",
+          "text": "Nana in the house to let you know",
+          "segments": [
+            "Nana ",
+            "in ",
+            "the ",
+            "house ",
+            "to ",
+            "let ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "190113|What I see is how I feel so leave me alone",
+          "text": "What I see is how I feel so leave me alone",
+          "segments": [
+            "What ",
+            "I ",
+            "see ",
+            "is ",
+            "how ",
+            "I ",
+            "feel ",
+            "so ",
+            "leave ",
+            "me ",
+            "alone"
+          ]
+        },
+        {
+          "key": "192852|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "197762|I'm lonely lonely in my life",
+          "text": "I'm lonely lonely in my life",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "202752|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "207702|God help me help me to survive!",
+          "text": "God help me help me to survive!",
+          "segments": [
+            "God ",
+            "help ",
+            "me ",
+            "help ",
+            "me ",
+            "to ",
+            "survive!"
+          ]
+        },
+        {
+          "key": "213222|Everybody is trippin' on me",
+          "text": "Everybody is trippin' on me",
+          "segments": [
+            "Everybody ",
+            "is ",
+            "trippin' ",
+            "on ",
+            "me"
+          ]
+        },
+        {
+          "key": "215671|Oh lord come help me please",
+          "text": "Oh lord come help me please",
+          "segments": [
+            "Oh ",
+            "lord ",
+            "come ",
+            "help ",
+            "me ",
+            "please"
+          ]
+        },
+        {
+          "key": "218191|I did some bad things in my life",
+          "text": "I did some bad things in my life",
+          "segments": [
+            "I ",
+            "did ",
+            "some ",
+            "bad ",
+            "things ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "223161|Why can't you rescue me",
+          "text": "Why can't you rescue me",
+          "segments": [
+            "Why ",
+            "can't ",
+            "you ",
+            "rescue ",
+            "me"
+          ]
+        },
+        {
+          "key": "225720|Cause you've got all I need",
+          "text": "Cause you've got all I need",
+          "segments": [
+            "Cause ",
+            "you've ",
+            "got ",
+            "all ",
+            "I ",
+            "need"
+          ]
+        },
+        {
+          "key": "228200|I know I got to pay the price",
+          "text": "I know I got to pay the price",
+          "segments": [
+            "I ",
+            "know ",
+            "I ",
+            "got ",
+            "to ",
+            "pay ",
+            "the ",
+            "price"
+          ]
+        },
+        {
+          "key": "233300|Knock on my door whom you lookin' for",
+          "text": "Knock on my door whom you lookin' for",
+          "segments": [
+            "Knock ",
+            "on ",
+            "my ",
+            "door ",
+            "whom ",
+            "you ",
+            "lookin' ",
+            "for"
+          ]
+        },
+        {
+          "key": "235500|A dream or reality enemies at my door",
+          "text": "A dream or reality enemies at my door",
+          "segments": [
+            "A ",
+            "dream ",
+            "or ",
+            "reality ",
+            "enemies ",
+            "at ",
+            "my ",
+            "door"
+          ]
+        },
+        {
+          "key": "237968|Eyes I realize it's fantasize I must be high",
+          "text": "Eyes I realize it's fantasize I must be high",
+          "segments": [
+            "Eyes ",
+            "I ",
+            "realize ",
+            "it's ",
+            "fantasize ",
+            "I ",
+            "must ",
+            "be ",
+            "high"
+          ]
+        },
+        {
+          "key": "241258|So let me live before I die",
+          "text": "So let me live before I die",
+          "segments": [
+            "So ",
+            "let ",
+            "me ",
+            "live ",
+            "before ",
+            "I ",
+            "die"
+          ]
+        },
+        {
+          "key": "243127|Once again grab the bottle twist the cap",
+          "text": "Once again grab the bottle twist the cap",
+          "segments": [
+            "Once ",
+            "again ",
+            "grab ",
+            "the ",
+            "bottle ",
+            "twist ",
+            "the ",
+            "cap"
+          ]
+        },
+        {
+          "key": "245447|To survive your life is yours my life is mine",
+          "text": "To survive your life is yours my life is mine",
+          "segments": [
+            "To ",
+            "survive ",
+            "your ",
+            "life ",
+            "is ",
+            "yours ",
+            "my ",
+            "life ",
+            "is ",
+            "mine"
+          ]
+        },
+        {
+          "key": "248097|No emotions in this world full of lies",
+          "text": "No emotions in this world full of lies",
+          "segments": [
+            "No ",
+            "emotions ",
+            "in ",
+            "this ",
+            "world ",
+            "full ",
+            "of ",
+            "lies"
+          ]
+        },
+        {
+          "key": "250446|Step my step and be versatile",
+          "text": "Step my step and be versatile",
+          "segments": [
+            "Step ",
+            "my ",
+            "step ",
+            "and ",
+            "be ",
+            "versatile"
+          ]
+        },
+        {
+          "key": "252876|Love peace and crash that's what it's all about",
+          "text": "Love peace and crash that's what it's all about",
+          "segments": [
+            "Love ",
+            "peace ",
+            "and ",
+            "crash ",
+            "that's ",
+            "what ",
+            "it's ",
+            "all ",
+            "about"
+          ]
+        },
+        {
+          "key": "255465|Alone by yourself than you lack there's no doubt about",
+          "text": "Alone by yourself than you lack there's no doubt about",
+          "segments": [
+            "Alone ",
+            "by ",
+            "yourself ",
+            "than ",
+            "you ",
+            "lack ",
+            "there's ",
+            "no ",
+            "doubt ",
+            "about"
+          ]
+        },
+        {
+          "key": "257914|I'm always into something making moves to improve",
+          "text": "I'm always into something making moves to improve",
+          "segments": [
+            "I'm ",
+            "always ",
+            "into ",
+            "something ",
+            "making ",
+            "moves ",
+            "to ",
+            "improve"
+          ]
+        },
+        {
+          "key": "260413|What would you do if you where in my shoes",
+          "text": "What would you do if you where in my shoes",
+          "segments": [
+            "What ",
+            "would ",
+            "you ",
+            "do ",
+            "if ",
+            "you ",
+            "where ",
+            "in ",
+            "my ",
+            "shoes"
+          ]
+        },
+        {
+          "key": "262923|Boom a letter oops another suicide",
+          "text": "Boom a letter oops another suicide",
+          "segments": [
+            "Boom ",
+            "a ",
+            "letter ",
+            "oops ",
+            "another ",
+            "suicide"
+          ]
+        },
+        {
+          "key": "265512|Meet me for a ride at the boulevard",
+          "text": "Meet me for a ride at the boulevard",
+          "segments": [
+            "Meet ",
+            "me ",
+            "for ",
+            "a ",
+            "ride ",
+            "at ",
+            "the ",
+            "boulevard"
+          ]
+        },
+        {
+          "key": "267921|Nana's in the house to let you know",
+          "text": "Nana's in the house to let you know",
+          "segments": [
+            "Nana's ",
+            "in ",
+            "the ",
+            "house ",
+            "to ",
+            "let ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "270180|What I see is how I feel and d**n",
+          "text": "What I see is how I feel and d**n",
+          "segments": [
+            "What ",
+            "I ",
+            "see ",
+            "is ",
+            "how ",
+            "I ",
+            "feel ",
+            "and ",
+            "d**n"
+          ]
+        },
+        {
+          "key": "272770|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "277740|I'm lonely lonely in my life",
+          "text": "I'm lonely lonely in my life",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "282730|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "287700|God help me help me to survive!",
+          "text": "God help me help me to survive!",
+          "segments": [
+            "God ",
+            "help ",
+            "me ",
+            "help ",
+            "me ",
+            "to ",
+            "survive!"
+          ]
+        },
+        {
+          "key": "293400|Everybody's trippin' on me",
+          "text": "Everybody's trippin' on me",
+          "segments": [
+            "Everybody's ",
+            "trippin' ",
+            "on ",
+            "me"
+          ]
+        },
+        {
+          "key": "295720|Oh lord come help me please",
+          "text": "Oh lord come help me please",
+          "segments": [
+            "Oh ",
+            "lord ",
+            "come ",
+            "help ",
+            "me ",
+            "please"
+          ]
+        },
+        {
+          "key": "298190|I did some bad things in my life",
+          "text": "I did some bad things in my life",
+          "segments": [
+            "I ",
+            "did ",
+            "some ",
+            "bad ",
+            "things ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "303370|Why can't you rescue me 'cause you've got all I need",
+          "text": "Why can't you rescue me 'cause you've got all I need",
+          "segments": [
+            "Why ",
+            "can't ",
+            "you ",
+            "rescue ",
+            "me ",
+            "'cause ",
+            "you've ",
+            "got ",
+            "all ",
+            "I ",
+            "need"
+          ]
+        },
+        {
+          "key": "308229|I know I got to pay the price",
+          "text": "I know I got to pay the price",
+          "segments": [
+            "I ",
+            "know ",
+            "I ",
+            "got ",
+            "to ",
+            "pay ",
+            "the ",
+            "price"
+          ]
+        },
+        {
+          "key": "312689|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "317649|I'm lonely lonely in my life",
+          "text": "I'm lonely lonely in my life",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "322619|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "327679|God help me help me to survive!",
+          "text": "God help me help me to survive!",
+          "segments": [
+            "God ",
+            "help ",
+            "me ",
+            "help ",
+            "me ",
+            "to ",
+            "survive!"
+          ]
+        },
+        {
+          "key": "332929|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "337559|I'm lonely lonely in my life",
+          "text": "I'm lonely lonely in my life",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "342729|I'm lonely lonely lonely",
+          "text": "I'm lonely lonely lonely",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "347599|God help me help me to survive!",
+          "text": "God help me help me to survive!",
+          "segments": [
+            "God ",
+            "help ",
+            "me ",
+            "help ",
+            "me ",
+            "to ",
+            "survive!"
+          ]
+        },
+        {
+          "key": "353259|That's why I am lonely lonely lonely",
+          "text": "That's why I am lonely lonely lonely",
+          "segments": [
+            "That's ",
+            "why ",
+            "I ",
+            "am ",
+            "lonely ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "358259|I am so lonely lonely",
+          "text": "I am so lonely lonely",
+          "segments": [
+            "I ",
+            "am ",
+            "so ",
+            "lonely ",
+            "lonely"
+          ]
+        },
+        {
+          "key": "363239|I am so lonely lonely lonely in my life",
+          "text": "I am so lonely lonely lonely in my life",
+          "segments": [
+            "I ",
+            "am ",
+            "so ",
+            "lonely ",
+            "lonely ",
+            "lonely ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        }
+      ]
+    }
+  ]
+}

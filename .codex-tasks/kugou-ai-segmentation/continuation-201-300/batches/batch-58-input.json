@@ -1,0 +1,1485 @@
+{
+  "batchNumber": 58,
+  "songs": [
+    {
+      "rank": 286,
+      "songKey": "online:kugou:2270847219d8515ebaa1d8e5b430d21f",
+      "name": "Watch Me Work (Explicit)",
+      "artist": "Tinashe",
+      "lines": [
+        {
+          "key": "0|Watch Me Work (Explicit) - Tinashe",
+          "startMs": 0,
+          "text": "Watch Me Work (Explicit) - Tinashe"
+        },
+        {
+          "key": "5550|Written by：Tinashe Kachingwe/Matthew Samuels/Allen Ritter/Anderson Hernandez/Jacques Webster",
+          "startMs": 5550,
+          "text": "Written by：Tinashe Kachingwe/Matthew Samuels/Allen Ritter/Anderson Hernandez/Jacques Webster"
+        },
+        {
+          "key": "11103|I believe you'll be somebody",
+          "startMs": 11103,
+          "text": "I believe you'll be somebody"
+        },
+        {
+          "key": "15144|Someone I can call the one",
+          "startMs": 15144,
+          "text": "Someone I can call the one"
+        },
+        {
+          "key": "17532|You gon' be my only only",
+          "startMs": 17532,
+          "text": "You gon' be my only only"
+        },
+        {
+          "key": "20650|I can see that you were watchin'",
+          "startMs": 20650,
+          "text": "I can see that you were watchin'"
+        },
+        {
+          "key": "24875|I'mma make you fall in love",
+          "startMs": 24875,
+          "text": "I'mma make you fall in love"
+        },
+        {
+          "key": "27227|Just step back and watch me work work work daddy",
+          "startMs": 27227,
+          "text": "Just step back and watch me work work work daddy"
+        },
+        {
+          "key": "32675|Watch me while I work work work",
+          "startMs": 32675,
+          "text": "Watch me while I work work work"
+        },
+        {
+          "key": "36659|Yeah let me do my work work work daddy",
+          "startMs": 36659,
+          "text": "Yeah let me do my work work work daddy"
+        },
+        {
+          "key": "42290|Watch me while I work work work daddy",
+          "startMs": 42290,
+          "text": "Watch me while I work work work daddy"
+        },
+        {
+          "key": "47520|Tell me that you want it",
+          "startMs": 47520,
+          "text": "Tell me that you want it"
+        },
+        {
+          "key": "50056|I've been waitin' on it",
+          "startMs": 50056,
+          "text": "I've been waitin' on it"
+        },
+        {
+          "key": "52240|You a real a** ni**a",
+          "startMs": 52240,
+          "text": "You a real a** ni**a"
+        },
+        {
+          "key": "54784|Baby come and get it",
+          "startMs": 54784,
+          "text": "Baby come and get it"
+        },
+        {
+          "key": "57016|Yeah baby come get it",
+          "startMs": 57016,
+          "text": "Yeah baby come get it"
+        },
+        {
+          "key": "59288|You know I've been waiting",
+          "startMs": 59288,
+          "text": "You know I've been waiting"
+        },
+        {
+          "key": "61748|Wanna feel it while I feel it",
+          "startMs": 61748,
+          "text": "Wanna feel it while I feel it"
+        },
+        {
+          "key": "64228|You know you're takin' too long",
+          "startMs": 64228,
+          "text": "You know you're takin' too long"
+        },
+        {
+          "key": "66827|Uh oh bottles low before you know",
+          "startMs": 66827,
+          "text": "Uh oh bottles low before you know"
+        },
+        {
+          "key": "71947|Uh oh good to go uh oh",
+          "startMs": 71947,
+          "text": "Uh oh good to go uh oh"
+        },
+        {
+          "key": "76609|Uh oh I'm ready now I'm on the floor",
+          "startMs": 76609,
+          "text": "Uh oh I'm ready now I'm on the floor"
+        },
+        {
+          "key": "81187|Uh oh uh oh",
+          "startMs": 81187,
+          "text": "Uh oh uh oh"
+        },
+        {
+          "key": "84879|Ooh I'm ready now I'm ready",
+          "startMs": 84879,
+          "text": "Ooh I'm ready now I'm ready"
+        },
+        {
+          "key": "87911|I believe you'll be somebody",
+          "startMs": 87911,
+          "text": "I believe you'll be somebody"
+        },
+        {
+          "key": "91967|Someone I can call the one",
+          "startMs": 91967,
+          "text": "Someone I can call the one"
+        },
+        {
+          "key": "94337|You gon' be my only only",
+          "startMs": 94337,
+          "text": "You gon' be my only only"
+        },
+        {
+          "key": "97489|I can see that you were watchin'",
+          "startMs": 97489,
+          "text": "I can see that you were watchin'"
+        },
+        {
+          "key": "101722|I'mma make you fall in love",
+          "startMs": 101722,
+          "text": "I'mma make you fall in love"
+        },
+        {
+          "key": "103986|Just step back and watch me work work work daddy",
+          "startMs": 103986,
+          "text": "Just step back and watch me work work work daddy"
+        },
+        {
+          "key": "109482|Watch me while I work work work",
+          "startMs": 109482,
+          "text": "Watch me while I work work work"
+        },
+        {
+          "key": "113337|Yeah now let me do my work work work daddy",
+          "startMs": 113337,
+          "text": "Yeah now let me do my work work work daddy"
+        },
+        {
+          "key": "119130|Watch me while I work work work daddy",
+          "startMs": 119130,
+          "text": "Watch me while I work work work daddy"
+        },
+        {
+          "key": "124295|Tell me that you need it",
+          "startMs": 124295,
+          "text": "Tell me that you need it"
+        },
+        {
+          "key": "126887|Only if you mean it",
+          "startMs": 126887,
+          "text": "Only if you mean it"
+        },
+        {
+          "key": "128944|You a real a** ni**a",
+          "startMs": 128944,
+          "text": "You a real a** ni**a"
+        },
+        {
+          "key": "131660|Baby f**k with it",
+          "startMs": 131660,
+          "text": "Baby f**k with it"
+        },
+        {
+          "key": "133780|Yeah baby f**k with it",
+          "startMs": 133780,
+          "text": "Yeah baby f**k with it"
+        },
+        {
+          "key": "136078|You know I've been waitin'",
+          "startMs": 136078,
+          "text": "You know I've been waitin'"
+        },
+        {
+          "key": "138452|If you sleepin' then you're sippin'",
+          "startMs": 138452,
+          "text": "If you sleepin' then you're sippin'"
+        },
+        {
+          "key": "141053|You know you're taking too long",
+          "startMs": 141053,
+          "text": "You know you're taking too long"
+        },
+        {
+          "key": "143788|Uh oh bottles low before you know",
+          "startMs": 143788,
+          "text": "Uh oh bottles low before you know"
+        },
+        {
+          "key": "148236|Uh oh good to go uh oh",
+          "startMs": 148236,
+          "text": "Uh oh good to go uh oh"
+        },
+        {
+          "key": "153473|Uh oh I'm ready now I'm on the floor",
+          "startMs": 153473,
+          "text": "Uh oh I'm ready now I'm on the floor"
+        },
+        {
+          "key": "158192|Uh oh uh oh",
+          "startMs": 158192,
+          "text": "Uh oh uh oh"
+        },
+        {
+          "key": "161412|Ooh I'm ready now I'm ready",
+          "startMs": 161412,
+          "text": "Ooh I'm ready now I'm ready"
+        },
+        {
+          "key": "164709|I believe you'll be somebody",
+          "startMs": 164709,
+          "text": "I believe you'll be somebody"
+        },
+        {
+          "key": "168780|Someone I can call the one",
+          "startMs": 168780,
+          "text": "Someone I can call the one"
+        },
+        {
+          "key": "171261|You gon' be my only only",
+          "startMs": 171261,
+          "text": "You gon' be my only only"
+        },
+        {
+          "key": "174146|I can see that you were watchin'",
+          "startMs": 174146,
+          "text": "I can see that you were watchin'"
+        },
+        {
+          "key": "178547|I'mma make you fall in love",
+          "startMs": 178547,
+          "text": "I'mma make you fall in love"
+        },
+        {
+          "key": "180827|Just step back and watch me work work work daddy",
+          "startMs": 180827,
+          "text": "Just step back and watch me work work work daddy"
+        },
+        {
+          "key": "186299|Watch me while I work work work",
+          "startMs": 186299,
+          "text": "Watch me while I work work work"
+        },
+        {
+          "key": "190179|Yeah now let me do my work work work daddy",
+          "startMs": 190179,
+          "text": "Yeah now let me do my work work work daddy"
+        },
+        {
+          "key": "195909|Watch me while I work work work daddy",
+          "startMs": 195909,
+          "text": "Watch me while I work work work daddy"
+        },
+        {
+          "key": "202837|The night is young",
+          "startMs": 202837,
+          "text": "The night is young"
+        },
+        {
+          "key": "205477|Baby baby",
+          "startMs": 205477,
+          "text": "Baby baby"
+        },
+        {
+          "key": "207385|Where we headed right now",
+          "startMs": 207385,
+          "text": "Where we headed right now"
+        },
+        {
+          "key": "212045|If you're really down",
+          "startMs": 212045,
+          "text": "If you're really down"
+        },
+        {
+          "key": "215085|Ready ready",
+          "startMs": 215085,
+          "text": "Ready ready"
+        },
+        {
+          "key": "216845|I can make your whole life worthwhile",
+          "startMs": 216845,
+          "text": "I can make your whole life worthwhile"
+        },
+        {
+          "key": "222389|I believe you'll be somebody",
+          "startMs": 222389,
+          "text": "I believe you'll be somebody"
+        },
+        {
+          "key": "226343|Someone I can call the one",
+          "startMs": 226343,
+          "text": "Someone I can call the one"
+        },
+        {
+          "key": "228578|You gon' be my only only",
+          "startMs": 228578,
+          "text": "You gon' be my only only"
+        },
+        {
+          "key": "231906|I can see that you were watchin'",
+          "startMs": 231906,
+          "text": "I can see that you were watchin'"
+        },
+        {
+          "key": "235857|I'mma make you fall in love",
+          "startMs": 235857,
+          "text": "I'mma make you fall in love"
+        },
+        {
+          "key": "238144|Just step back and watch me work work work daddy",
+          "startMs": 238144,
+          "text": "Just step back and watch me work work work daddy"
+        },
+        {
+          "key": "243897|Watch me while I work work work",
+          "startMs": 243897,
+          "text": "Watch me while I work work work"
+        },
+        {
+          "key": "247809|Yeah now let me do my work work work daddy",
+          "startMs": 247809,
+          "text": "Yeah now let me do my work work work daddy"
+        },
+        {
+          "key": "253348|Watch me while I work work work daddy",
+          "startMs": 253348,
+          "text": "Watch me while I work work work daddy"
+        }
+      ]
+    },
+    {
+      "rank": 287,
+      "songKey": "online:kugou:699f4499119d9ba1487d178468c099a4",
+      "name": "花雨弄 (粤语版)(Rain And U Can Ver.)",
+      "artist": "Mr.16罗隽永 / 李俊毅JY",
+      "lines": [
+        {
+          "key": "0|花雨弄(粤语版)(Rain And U Can Ver.) - Mr.16罗隽永、李俊毅JY",
+          "startMs": 0,
+          "text": "花雨弄(粤语版)(Rain And U Can Ver.) - Mr.16罗隽永、李俊毅JY"
+        },
+        {
+          "key": "0|词Lyrics：陈迪琛/李俊毅天庥",
+          "startMs": 0,
+          "text": "词Lyrics：陈迪琛/李俊毅天庥"
+        },
+        {
+          "key": "0|曲Composer：Mr16罗隽永/Simyee陈芯怡/李俊毅天庥",
+          "startMs": 0,
+          "text": "曲Composer：Mr16罗隽永/Simyee陈芯怡/李俊毅天庥"
+        },
+        {
+          "key": "0|编曲Arrangermet:SuperJump",
+          "startMs": 0,
+          "text": "编曲Arrangermet:SuperJump"
+        },
+        {
+          "key": "0|录音Record ：Mr16 罗隽永",
+          "startMs": 0,
+          "text": "录音Record ：Mr16 罗隽永"
+        },
+        {
+          "key": "0|混音Mixing：Simyee 陈芯怡",
+          "startMs": 0,
+          "text": "混音Mixing：Simyee 陈芯怡"
+        },
+        {
+          "key": "0|出品：腾讯音乐人 Nevermind Studio",
+          "startMs": 0,
+          "text": "出品：腾讯音乐人 Nevermind Studio"
+        },
+        {
+          "key": "0|出品人：凌联兴/苏琦惠",
+          "startMs": 0,
+          "text": "出品人：凌联兴/苏琦惠"
+        },
+        {
+          "key": "0|统筹：燕子GEM@腾讯音乐人",
+          "startMs": 0,
+          "text": "统筹：燕子GEM@腾讯音乐人"
+        },
+        {
+          "key": "0|宣推：林雨晨",
+          "startMs": 0,
+          "text": "宣推：林雨晨"
+        },
+        {
+          "key": "595|未经许可，不得翻唱或使用",
+          "startMs": 595,
+          "text": "未经许可，不得翻唱或使用"
+        },
+        {
+          "key": "1967|只想跟你花雨中可抱拥",
+          "startMs": 1967,
+          "text": "只想跟你花雨中可抱拥"
+        },
+        {
+          "key": "7195|能同在这天里跟你心声接通",
+          "startMs": 7195,
+          "text": "能同在这天里跟你心声接通"
+        },
+        {
+          "key": "12568|只想跟你执手让此生可到终",
+          "startMs": 12568,
+          "text": "只想跟你执手让此生可到终"
+        },
+        {
+          "key": "17661|遥遥万里共你于心中",
+          "startMs": 17661,
+          "text": "遥遥万里共你于心中"
+        },
+        {
+          "key": "24554|细细绵雨流进发端",
+          "startMs": 24554,
+          "text": "细细绵雨流进发端"
+        },
+        {
+          "key": "29920|与你云山里遇见",
+          "startMs": 29920,
+          "text": "与你云山里遇见"
+        },
+        {
+          "key": "35149|长裙似盛放的春意",
+          "startMs": 35149,
+          "text": "长裙似盛放的春意"
+        },
+        {
+          "key": "39986|河旁你奏起五音线",
+          "startMs": 39986,
+          "text": "河旁你奏起五音线"
+        },
+        {
+          "key": "45573|与你四月盼",
+          "startMs": 45573,
+          "text": "与你四月盼"
+        },
+        {
+          "key": "46901|爱意看旧花瓣",
+          "startMs": 46901,
+          "text": "爱意看旧花瓣"
+        },
+        {
+          "key": "48176|与你五月挽",
+          "startMs": 48176,
+          "text": "与你五月挽"
+        },
+        {
+          "key": "49398|醉意送夜燕翻",
+          "startMs": 49398,
+          "text": "醉意送夜燕翻"
+        },
+        {
+          "key": "50823|青草山中间",
+          "startMs": 50823,
+          "text": "青草山中间"
+        },
+        {
+          "key": "52103|过去也知不晚",
+          "startMs": 52103,
+          "text": "过去也知不晚"
+        },
+        {
+          "key": "53485|想起春花间",
+          "startMs": 53485,
+          "text": "想起春花间"
+        },
+        {
+          "key": "54705|我也最终惊叹",
+          "startMs": 54705,
+          "text": "我也最终惊叹"
+        },
+        {
+          "key": "56188|等她秋色渐晚",
+          "startMs": 56188,
+          "text": "等她秋色渐晚"
+        },
+        {
+          "key": "58932|等她一生没晚",
+          "startMs": 58932,
+          "text": "等她一生没晚"
+        },
+        {
+          "key": "61531|等她走到风雨间",
+          "startMs": 61531,
+          "text": "等她走到风雨间"
+        },
+        {
+          "key": "64132|总有我的扶挽",
+          "startMs": 64132,
+          "text": "总有我的扶挽"
+        },
+        {
+          "key": "66176|只想跟你花雨中可抱拥",
+          "startMs": 66176,
+          "text": "只想跟你花雨中可抱拥"
+        },
+        {
+          "key": "70872|能同在这天里跟你心声接通",
+          "startMs": 70872,
+          "text": "能同在这天里跟你心声接通"
+        },
+        {
+          "key": "76177|只想跟你执手让此生可到终",
+          "startMs": 76177,
+          "text": "只想跟你执手让此生可到终"
+        },
+        {
+          "key": "81632|遥遥万里共你于心中",
+          "startMs": 81632,
+          "text": "遥遥万里共你于心中"
+        },
+        {
+          "key": "88116|数百次回头数千次回眸",
+          "startMs": 88116,
+          "text": "数百次回头数千次回眸"
+        },
+        {
+          "key": "90928|至等到今世擦身而过停留",
+          "startMs": 90928,
+          "text": "至等到今世擦身而过停留"
+        },
+        {
+          "key": "93477|愿已作祈求愿化作蜉蝣",
+          "startMs": 93477,
+          "text": "愿已作祈求愿化作蜉蝣"
+        },
+        {
+          "key": "96229|愿等到他世长发为我而留",
+          "startMs": 96229,
+          "text": "愿等到他世长发为我而留"
+        },
+        {
+          "key": "98823|山伯逝去亦作化蝶飞舞",
+          "startMs": 98823,
+          "text": "山伯逝去亦作化蝶飞舞"
+        },
+        {
+          "key": "101423|织女为爱日盼七夕拥抱",
+          "startMs": 101423,
+          "text": "织女为爱日盼七夕拥抱"
+        },
+        {
+          "key": "104119|许仙素贞对天也不会惊",
+          "startMs": 104119,
+          "text": "许仙素贞对天也不会惊"
+        },
+        {
+          "key": "106716|卓君以心对所有的处境",
+          "startMs": 106716,
+          "text": "卓君以心对所有的处境"
+        },
+        {
+          "key": "109518|太多往昔爱恋故事像你",
+          "startMs": 109518,
+          "text": "太多往昔爱恋故事像你"
+        },
+        {
+          "key": "112216|也许往昔故事就是我共你",
+          "startMs": 112216,
+          "text": "也许往昔故事就是我共你"
+        },
+        {
+          "key": "114816|往世是否遇过",
+          "startMs": 114816,
+          "text": "往世是否遇过"
+        },
+        {
+          "key": "117466|往世是否略过",
+          "startMs": 117466,
+          "text": "往世是否略过"
+        },
+        {
+          "key": "120263|有缘千里一线牵",
+          "startMs": 120263,
+          "text": "有缘千里一线牵"
+        },
+        {
+          "key": "125511|今世带你走过水浸街",
+          "startMs": 125511,
+          "text": "今世带你走过水浸街"
+        },
+        {
+          "key": "128210|我要把你称作我太太",
+          "startMs": 128210,
+          "text": "我要把你称作我太太"
+        },
+        {
+          "key": "130095|只想跟你花雨中可抱拥",
+          "startMs": 130095,
+          "text": "只想跟你花雨中可抱拥"
+        },
+        {
+          "key": "134887|能同在这天里跟你心声接通",
+          "startMs": 134887,
+          "text": "能同在这天里跟你心声接通"
+        },
+        {
+          "key": "140131|只想跟你执手让此生可到终",
+          "startMs": 140131,
+          "text": "只想跟你执手让此生可到终"
+        },
+        {
+          "key": "145528|遥遥万里共你于心中",
+          "startMs": 145528,
+          "text": "遥遥万里共你于心中"
+        },
+        {
+          "key": "150789|只想跟你花雨中可抱拥",
+          "startMs": 150789,
+          "text": "只想跟你花雨中可抱拥"
+        },
+        {
+          "key": "156089|能同在这天里跟你心声接通",
+          "startMs": 156089,
+          "text": "能同在这天里跟你心声接通"
+        },
+        {
+          "key": "161489|只想跟你执手让此生可到终",
+          "startMs": 161489,
+          "text": "只想跟你执手让此生可到终"
+        },
+        {
+          "key": "166733|遥遥万里共你于心中",
+          "startMs": 166733,
+          "text": "遥遥万里共你于心中"
+        }
+      ]
+    },
+    {
+      "rank": 288,
+      "songKey": "online:kugou:8558dedcb1eb2ae62584c13e85e3df1f",
+      "name": "能不能让我回到最初的",
+      "artist": "奕sir / O泡果奶",
+      "lines": [
+        {
+          "key": "0|能不能让我回到最初的 - 奕sir、O泡果奶",
+          "startMs": 0,
+          "text": "能不能让我回到最初的 - 奕sir、O泡果奶"
+        },
+        {
+          "key": "329|词：菠萝橙ccc/孙艺澄",
+          "startMs": 329,
+          "text": "词：菠萝橙ccc/孙艺澄"
+        },
+        {
+          "key": "635|曲：菠萝橙ccc ",
+          "startMs": 635,
+          "text": "曲：菠萝橙ccc "
+        },
+        {
+          "key": "864|能不能让我回到最初的记忆",
+          "startMs": 864,
+          "text": "能不能让我回到最初的记忆"
+        },
+        {
+          "key": "7609|一直到最后都我还相信你",
+          "startMs": 7609,
+          "text": "一直到最后都我还相信你"
+        },
+        {
+          "key": "10305|才明白这一切都只是曾经",
+          "startMs": 10305,
+          "text": "才明白这一切都只是曾经"
+        },
+        {
+          "key": "12876|我的心陪着你把自己关紧",
+          "startMs": 12876,
+          "text": "我的心陪着你把自己关紧"
+        },
+        {
+          "key": "18219|不要说你还在我不会相信",
+          "startMs": 18219,
+          "text": "不要说你还在我不会相信"
+        },
+        {
+          "key": "20812|只好等所有的情绪都稳定",
+          "startMs": 20812,
+          "text": "只好等所有的情绪都稳定"
+        },
+        {
+          "key": "23155|爱情本来就想起",
+          "startMs": 23155,
+          "text": "爱情本来就想起"
+        },
+        {
+          "key": "39391|原来爱情就像一场梦境",
+          "startMs": 39391,
+          "text": "原来爱情就像一场梦境"
+        },
+        {
+          "key": "41178|分不清是缘分还是天意",
+          "startMs": 41178,
+          "text": "分不清是缘分还是天意"
+        },
+        {
+          "key": "43988|这是我们一直都想要的一种结局",
+          "startMs": 43988,
+          "text": "这是我们一直都想要的一种结局"
+        },
+        {
+          "key": "46480|梦醒之后你却早无消息",
+          "startMs": 46480,
+          "text": "梦醒之后你却早无消息"
+        },
+        {
+          "key": "49239|我也曾迷失在茫茫人海",
+          "startMs": 49239,
+          "text": "我也曾迷失在茫茫人海"
+        },
+        {
+          "key": "50916|只为找到你",
+          "startMs": 50916,
+          "text": "只为找到你"
+        },
+        {
+          "key": "51940|但我不知应该去向哪里",
+          "startMs": 51940,
+          "text": "但我不知应该去向哪里"
+        },
+        {
+          "key": "54423|最后只能偷偷潜入梦里和你相遇",
+          "startMs": 54423,
+          "text": "最后只能偷偷潜入梦里和你相遇"
+        },
+        {
+          "key": "56920|闭眼幻想你的熟悉气息",
+          "startMs": 56920,
+          "text": "闭眼幻想你的熟悉气息"
+        },
+        {
+          "key": "60083|我很安静陪着你",
+          "startMs": 60083,
+          "text": "我很安静陪着你"
+        },
+        {
+          "key": "63695|有些怀疑",
+          "startMs": 63695,
+          "text": "有些怀疑"
+        },
+        {
+          "key": "66292|能不能陪我到最终目的",
+          "startMs": 66292,
+          "text": "能不能陪我到最终目的"
+        },
+        {
+          "key": "70671|我的安静不怀疑",
+          "startMs": 70671,
+          "text": "我的安静不怀疑"
+        },
+        {
+          "key": "74243|就别再提",
+          "startMs": 74243,
+          "text": "就别再提"
+        },
+        {
+          "key": "76891|能不能让我回到最初的记忆",
+          "startMs": 76891,
+          "text": "能不能让我回到最初的记忆"
+        },
+        {
+          "key": "81174|你说想要离开",
+          "startMs": 81174,
+          "text": "你说想要离开"
+        },
+        {
+          "key": "82240|新欢也能够变旧 爱",
+          "startMs": 82240,
+          "text": "新欢也能够变旧 爱"
+        },
+        {
+          "key": "83517|哪怕十年等待",
+          "startMs": 83517,
+          "text": "哪怕十年等待"
+        },
+        {
+          "key": "84634|也不过一场旧 债",
+          "startMs": 84634,
+          "text": "也不过一场旧 债"
+        },
+        {
+          "key": "85905|拿什么抵抗伤 害",
+          "startMs": 85905,
+          "text": "拿什么抵抗伤 害"
+        },
+        {
+          "key": "87228|曾拥有那些愉 快",
+          "startMs": 87228,
+          "text": "曾拥有那些愉 快"
+        },
+        {
+          "key": "88602|如今 只能 偷偷 摸摸",
+          "startMs": 88602,
+          "text": "如今 只能 偷偷 摸摸"
+        },
+        {
+          "key": "89954|把爱装进口袋",
+          "startMs": 89954,
+          "text": "把爱装进口袋"
+        },
+        {
+          "key": "91208|我知道悲伤故事结局总被",
+          "startMs": 91208,
+          "text": "我知道悲伤故事结局总被"
+        },
+        {
+          "key": "93088|时间晾晒",
+          "startMs": 93088,
+          "text": "时间晾晒"
+        },
+        {
+          "key": "93962|就像 风干后的我们",
+          "startMs": 93962,
+          "text": "就像 风干后的我们"
+        },
+        {
+          "key": "95336|只剩一段空白",
+          "startMs": 95336,
+          "text": "只剩一段空白"
+        },
+        {
+          "key": "96507|回不去的期待",
+          "startMs": 96507,
+          "text": "回不去的期待"
+        },
+        {
+          "key": "97737|还有那些得不到的爱",
+          "startMs": 97737,
+          "text": "还有那些得不到的爱"
+        },
+        {
+          "key": "101659|就像是每条鱼",
+          "startMs": 101659,
+          "text": "就像是每条鱼"
+        },
+        {
+          "key": "102880|最后都想游回大海",
+          "startMs": 102880,
+          "text": "最后都想游回大海"
+        },
+        {
+          "key": "104454|有些回忆和往事",
+          "startMs": 104454,
+          "text": "有些回忆和往事"
+        },
+        {
+          "key": "105724|它总是百无聊赖",
+          "startMs": 105724,
+          "text": "它总是百无聊赖"
+        },
+        {
+          "key": "107100|我呆呆望着窗外",
+          "startMs": 107100,
+          "text": "我呆呆望着窗外"
+        },
+        {
+          "key": "108378|多想一切能重来",
+          "startMs": 108378,
+          "text": "多想一切能重来"
+        },
+        {
+          "key": "109853|这感觉有点幼稚",
+          "startMs": 109853,
+          "text": "这感觉有点幼稚"
+        },
+        {
+          "key": "110971|早已经被生活打败",
+          "startMs": 110971,
+          "text": "早已经被生活打败"
+        },
+        {
+          "key": "112400|你有了新的交代",
+          "startMs": 112400,
+          "text": "你有了新的交代"
+        },
+        {
+          "key": "113671|我世界只剩无奈",
+          "startMs": 113671,
+          "text": "我世界只剩无奈"
+        },
+        {
+          "key": "115178|梦醒来发现你却不在",
+          "startMs": 115178,
+          "text": "梦醒来发现你却不在"
+        },
+        {
+          "key": "117167|就让我忘掉旧爱 如果一切",
+          "startMs": 117167,
+          "text": "就让我忘掉旧爱 如果一切"
+        },
+        {
+          "key": "119461|能够再重来",
+          "startMs": 119461,
+          "text": "能够再重来"
+        },
+        {
+          "key": "120709|我还是只能选择释怀",
+          "startMs": 120709,
+          "text": "我还是只能选择释怀"
+        },
+        {
+          "key": "123356|我很安静陪着你",
+          "startMs": 123356,
+          "text": "我很安静陪着你"
+        },
+        {
+          "key": "126967|有些怀疑",
+          "startMs": 126967,
+          "text": "有些怀疑"
+        },
+        {
+          "key": "129613|能不能陪我到最终目的",
+          "startMs": 129613,
+          "text": "能不能陪我到最终目的"
+        },
+        {
+          "key": "133893|我的安静不怀疑",
+          "startMs": 133893,
+          "text": "我的安静不怀疑"
+        },
+        {
+          "key": "137512|就别再提",
+          "startMs": 137512,
+          "text": "就别再提"
+        },
+        {
+          "key": "140106|能不能让我回到最初的记忆",
+          "startMs": 140106,
+          "text": "能不能让我回到最初的记忆"
+        },
+        {
+          "key": "144327|你说想要离开",
+          "startMs": 144327,
+          "text": "你说想要离开"
+        },
+        {
+          "key": "145315|新欢也能变旧 爱",
+          "startMs": 145315,
+          "text": "新欢也能变旧 爱"
+        },
+        {
+          "key": "146830|哪怕十年等待",
+          "startMs": 146830,
+          "text": "哪怕十年等待"
+        },
+        {
+          "key": "147797|也不过是一场旧 债",
+          "startMs": 147797,
+          "text": "也不过是一场旧 债"
+        },
+        {
+          "key": "149327|拿什么抵抗伤 害",
+          "startMs": 149327,
+          "text": "拿什么抵抗伤 害"
+        },
+        {
+          "key": "150520|曾拥有那些愉 快",
+          "startMs": 150520,
+          "text": "曾拥有那些愉 快"
+        },
+        {
+          "key": "151842|如今 只能 偷偷 摸摸",
+          "startMs": 151842,
+          "text": "如今 只能 偷偷 摸摸"
+        },
+        {
+          "key": "153268|把爱都装进口袋",
+          "startMs": 153268,
+          "text": "把爱都装进口袋"
+        },
+        {
+          "key": "154642|我知道悲伤故事结局总被",
+          "startMs": 154642,
+          "text": "我知道悲伤故事结局总被"
+        },
+        {
+          "key": "156371|时间晾晒",
+          "startMs": 156371,
+          "text": "时间晾晒"
+        },
+        {
+          "key": "157399|就像 风干后的我们",
+          "startMs": 157399,
+          "text": "就像 风干后的我们"
+        },
+        {
+          "key": "158716|只剩一段空白",
+          "startMs": 158716,
+          "text": "只剩一段空白"
+        },
+        {
+          "key": "159890|回不去的期待",
+          "startMs": 159890,
+          "text": "回不去的期待"
+        },
+        {
+          "key": "161162|还有那些得不到的爱",
+          "startMs": 161162,
+          "text": "还有那些得不到的爱"
+        }
+      ]
+    },
+    {
+      "rank": 289,
+      "songKey": "online:kugou:751497eafa9af3d1f50b4496b9010b3d",
+      "name": "青丝",
+      "artist": "时光胶囊",
+      "lines": [
+        {
+          "key": "153|青丝 - 时光胶囊 (Time Capsule)",
+          "startMs": 153,
+          "text": "青丝 - 时光胶囊 (Time Capsule)"
+        },
+        {
+          "key": "455|词：徐东徽/孙义勇",
+          "startMs": 455,
+          "text": "词：徐东徽/孙义勇"
+        },
+        {
+          "key": "658|曲：徐东徽",
+          "startMs": 658,
+          "text": "曲：徐东徽"
+        },
+        {
+          "key": "811|编曲：时光胶囊",
+          "startMs": 811,
+          "text": "编曲：时光胶囊"
+        },
+        {
+          "key": "21426|烟花 纷飞 飘散",
+          "startMs": 21426,
+          "text": "烟花 纷飞 飘散"
+        },
+        {
+          "key": "25084|迷乱我双眼",
+          "startMs": 25084,
+          "text": "迷乱我双眼"
+        },
+        {
+          "key": "31801|烟波 江畔 渔船",
+          "startMs": 31801,
+          "text": "烟波 江畔 渔船"
+        },
+        {
+          "key": "35513|今宵灯火阑珊",
+          "startMs": 35513,
+          "text": "今宵灯火阑珊"
+        },
+        {
+          "key": "41211|我依然 醉生梦死般",
+          "startMs": 41211,
+          "text": "我依然 醉生梦死般"
+        },
+        {
+          "key": "46997|笑看世事似水变迁",
+          "startMs": 46997,
+          "text": "笑看世事似水变迁"
+        },
+        {
+          "key": "51573|伊人叹",
+          "startMs": 51573,
+          "text": "伊人叹"
+        },
+        {
+          "key": "53811|叹不尽相思苦 忆华年",
+          "startMs": 53811,
+          "text": "叹不尽相思苦 忆华年"
+        },
+        {
+          "key": "61857|君不见",
+          "startMs": 61857,
+          "text": "君不见"
+        },
+        {
+          "key": "64096|妾起舞翩翩",
+          "startMs": 64096,
+          "text": "妾起舞翩翩"
+        },
+        {
+          "key": "66996|君不见",
+          "startMs": 66996,
+          "text": "君不见"
+        },
+        {
+          "key": "69139|妾鼓瑟绵绵",
+          "startMs": 69139,
+          "text": "妾鼓瑟绵绵"
+        },
+        {
+          "key": "72144|君不见",
+          "startMs": 72144,
+          "text": "君不见"
+        },
+        {
+          "key": "74431|妾嫣然一笑醉人容颜",
+          "startMs": 74431,
+          "text": "妾嫣然一笑醉人容颜"
+        },
+        {
+          "key": "82425|君不见",
+          "startMs": 82425,
+          "text": "君不见"
+        },
+        {
+          "key": "84668|妾醉消红减",
+          "startMs": 84668,
+          "text": "妾醉消红减"
+        },
+        {
+          "key": "87619|君不见",
+          "startMs": 87619,
+          "text": "君不见"
+        },
+        {
+          "key": "89812|妾泣涕涟涟",
+          "startMs": 89812,
+          "text": "妾泣涕涟涟"
+        },
+        {
+          "key": "92764|君不见",
+          "startMs": 92764,
+          "text": "君不见"
+        },
+        {
+          "key": "95611|一缕青丝 一声叹",
+          "startMs": 95611,
+          "text": "一缕青丝 一声叹"
+        },
+        {
+          "key": "103967|不知 不觉 时光",
+          "startMs": 103967,
+          "text": "不知 不觉 时光"
+        },
+        {
+          "key": "107475|流转又一年",
+          "startMs": 107475,
+          "text": "流转又一年"
+        },
+        {
+          "key": "114095|烟花 为谁 绚烂",
+          "startMs": 114095,
+          "text": "烟花 为谁 绚烂"
+        },
+        {
+          "key": "117912|今夜依旧无眠",
+          "startMs": 117912,
+          "text": "今夜依旧无眠"
+        },
+        {
+          "key": "123605|我轻叹 世人都沉醉",
+          "startMs": 123605,
+          "text": "我轻叹 世人都沉醉"
+        },
+        {
+          "key": "129592|窗外风景随心变幻",
+          "startMs": 129592,
+          "text": "窗外风景随心变幻"
+        },
+        {
+          "key": "134026|灯火闪",
+          "startMs": 134026,
+          "text": "灯火闪"
+        },
+        {
+          "key": "136323|邀明月共举杯话从前",
+          "startMs": 136323,
+          "text": "邀明月共举杯话从前"
+        },
+        {
+          "key": "144268|君不见",
+          "startMs": 144268,
+          "text": "君不见"
+        },
+        {
+          "key": "146612|妾起舞翩翩",
+          "startMs": 146612,
+          "text": "妾起舞翩翩"
+        },
+        {
+          "key": "149412|君不见",
+          "startMs": 149412,
+          "text": "君不见"
+        },
+        {
+          "key": "151657|妾鼓瑟绵绵",
+          "startMs": 151657,
+          "text": "妾鼓瑟绵绵"
+        },
+        {
+          "key": "154659|君不见",
+          "startMs": 154659,
+          "text": "君不见"
+        },
+        {
+          "key": "157106|妾嫣然一笑醉人容颜",
+          "startMs": 157106,
+          "text": "妾嫣然一笑醉人容颜"
+        },
+        {
+          "key": "164938|君不见",
+          "startMs": 164938,
+          "text": "君不见"
+        },
+        {
+          "key": "167179|妾翠消红减",
+          "startMs": 167179,
+          "text": "妾翠消红减"
+        },
+        {
+          "key": "170026|君不见",
+          "startMs": 170026,
+          "text": "君不见"
+        },
+        {
+          "key": "172218|妾泣涕涟涟",
+          "startMs": 172218,
+          "text": "妾泣涕涟涟"
+        },
+        {
+          "key": "175225|君不见",
+          "startMs": 175225,
+          "text": "君不见"
+        },
+        {
+          "key": "178074|一缕青丝 一声叹",
+          "startMs": 178074,
+          "text": "一缕青丝 一声叹"
+        }
+      ]
+    },
+    {
+      "rank": 290,
+      "songKey": "online:kugou:65fdd559fa5c11ed1c20fc23d124d1a1",
+      "name": "一个人想着一个人",
+      "artist": "汪东城",
+      "lines": [
+        {
+          "key": "0|一个人想着一个人-汪东城",
+          "startMs": 0,
+          "text": "一个人想着一个人-汪东城"
+        },
+        {
+          "key": "3666|词/Lyricist：张简君伟",
+          "startMs": 3666,
+          "text": "词/Lyricist：张简君伟"
+        },
+        {
+          "key": "5499|曲/Composer：张简君伟",
+          "startMs": 5499,
+          "text": "曲/Composer：张简君伟"
+        },
+        {
+          "key": "7332|原唱：曾沛慈",
+          "startMs": 7332,
+          "text": "原唱：曾沛慈"
+        },
+        {
+          "key": "9165|出品：郑思蔺",
+          "startMs": 9165,
+          "text": "出品：郑思蔺"
+        },
+        {
+          "key": "10998|统筹：大伟",
+          "startMs": 10998,
+          "text": "统筹：大伟"
+        },
+        {
+          "key": "12831|监制：肇洪章",
+          "startMs": 12831,
+          "text": "监制：肇洪章"
+        },
+        {
+          "key": "14664|封面画师：晋北君",
+          "startMs": 14664,
+          "text": "封面画师：晋北君"
+        },
+        {
+          "key": "16500|你离开的那一天 天空有点灰",
+          "startMs": 16500,
+          "text": "你离开的那一天 天空有点灰"
+        },
+        {
+          "key": "23220|见不着 你最爱的蓝天",
+          "startMs": 23220,
+          "text": "见不着 你最爱的蓝天"
+        },
+        {
+          "key": "29820|少了一个人斗嘴",
+          "startMs": 29820,
+          "text": "少了一个人斗嘴"
+        },
+        {
+          "key": "33300|多些朋友的安慰",
+          "startMs": 33300,
+          "text": "多些朋友的安慰"
+        },
+        {
+          "key": "36570|一切 都不是错觉",
+          "startMs": 36570,
+          "text": "一切 都不是错觉"
+        },
+        {
+          "key": "43260|来不及道声感谢 故事已结尾",
+          "startMs": 43260,
+          "text": "来不及道声感谢 故事已结尾"
+        },
+        {
+          "key": "49860|太多事情 来不及后悔",
+          "startMs": 49860,
+          "text": "太多事情 来不及后悔"
+        },
+        {
+          "key": "56430|我还有太多心愿 太多梦没有实现",
+          "startMs": 56430,
+          "text": "我还有太多心愿 太多梦没有实现"
+        },
+        {
+          "key": "63210|桌上还留着 过去的照片",
+          "startMs": 63210,
+          "text": "桌上还留着 过去的照片"
+        },
+        {
+          "key": "68880|我一个人的失眠 一个人的空间",
+          "startMs": 68880,
+          "text": "我一个人的失眠 一个人的空间"
+        },
+        {
+          "key": "72420|一个人的想念 两个人的画面",
+          "startMs": 72420,
+          "text": "一个人的想念 两个人的画面"
+        },
+        {
+          "key": "76350|是谁的眼泪 是谁的憔悴",
+          "startMs": 76350,
+          "text": "是谁的眼泪 是谁的憔悴"
+        },
+        {
+          "key": "79410|洒满地的 心碎",
+          "startMs": 79410,
+          "text": "洒满地的 心碎"
+        },
+        {
+          "key": "82230|我一个人的冒险 一个人的座位",
+          "startMs": 82230,
+          "text": "我一个人的冒险 一个人的座位"
+        },
+        {
+          "key": "86010|一个人想着一个人",
+          "startMs": 86010,
+          "text": "一个人想着一个人"
+        },
+        {
+          "key": "89460|眼角的泪 这不是错觉",
+          "startMs": 89460,
+          "text": "眼角的泪 这不是错觉"
+        },
+        {
+          "key": "106620|来不及道声感谢 故事已结尾",
+          "startMs": 106620,
+          "text": "来不及道声感谢 故事已结尾"
+        },
+        {
+          "key": "113190|太多事情 来不及后悔",
+          "startMs": 113190,
+          "text": "太多事情 来不及后悔"
+        },
+        {
+          "key": "119790|我还有太多心愿 太多梦没有实现",
+          "startMs": 119790,
+          "text": "我还有太多心愿 太多梦没有实现"
+        },
+        {
+          "key": "126570|桌上还留着 过去的照片",
+          "startMs": 126570,
+          "text": "桌上还留着 过去的照片"
+        },
+        {
+          "key": "133260|那些年 那几天 那一夜",
+          "startMs": 133260,
+          "text": "那些年 那几天 那一夜"
+        },
+        {
+          "key": "135780|都恍如昨天",
+          "startMs": 135780,
+          "text": "都恍如昨天"
+        },
+        {
+          "key": "139890|这些年 这几天 这一夜",
+          "startMs": 139890,
+          "text": "这些年 这几天 这一夜"
+        },
+        {
+          "key": "142440|你让我失眠",
+          "startMs": 142440,
+          "text": "你让我失眠"
+        },
+        {
+          "key": "147180|我一个人的失眠",
+          "startMs": 147180,
+          "text": "我一个人的失眠"
+        },
+        {
+          "key": "149100|一个人的空间",
+          "startMs": 149100,
+          "text": "一个人的空间"
+        },
+        {
+          "key": "150780|一个人的想念",
+          "startMs": 150780,
+          "text": "一个人的想念"
+        },
+        {
+          "key": "152430|两个人的画面",
+          "startMs": 152430,
+          "text": "两个人的画面"
+        },
+        {
+          "key": "154800|是谁的眼泪",
+          "startMs": 154800,
+          "text": "是谁的眼泪"
+        },
+        {
+          "key": "156150|是谁的憔悴",
+          "startMs": 156150,
+          "text": "是谁的憔悴"
+        },
+        {
+          "key": "157740|洒满地的心碎",
+          "startMs": 157740,
+          "text": "洒满地的心碎"
+        },
+        {
+          "key": "160560|我一个人的冒险",
+          "startMs": 160560,
+          "text": "我一个人的冒险"
+        },
+        {
+          "key": "162420|一个人的座位",
+          "startMs": 162420,
+          "text": "一个人的座位"
+        },
+        {
+          "key": "164340|一个人想着一个人",
+          "startMs": 164340,
+          "text": "一个人想着一个人"
+        },
+        {
+          "key": "167820|眼角的泪这不是错觉",
+          "startMs": 167820,
+          "text": "眼角的泪这不是错觉"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # 酷狗“我喜欢”AI 分词备份
 
-此目录记录 2026-10-31 对酷狗“我喜欢”中第 1–200 首歌曲执行的分词任务，供设备恢复和后续增量处理。前 100 首与续批 101–200 首分别保存，互不覆盖。
+此目录记录 2026-10-31 对酷狗“我喜欢”中第 1–300 首歌曲执行的分词任务，供设备恢复和后续增量处理。每 100 首分别保存，互不覆盖。
 
 ## 首批：第 1–100 首
 
@@ -42,6 +42,25 @@ node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kug
 ```
 
 审计通过时应得到：`done=97`、`noLyrics=3`、`unfinished=0`、`missing=0`、`mismatched=0`、`invalidOutputs=0`、`missingAliases=0`、`mismatchedAliases=0`。
+
+## 续批：第 201–300 首
+
+此批以第 200 首《年少的你啊》为锚点；重新读取收藏时总数仍为 915，锚点仍在第 200 位，已保存的前 200 首顺序未变。
+
+- 目标：100 首；已写回 Folia 并读回验证：99 首。
+- 无可用歌词：1 首（第 297 首《星の消えた夜に_-rit._ver.-_-》）。
+- 原始歌词与分词：各 5,853 行；分词片段：25,901 个。
+- 标准 LRC：99 个，5,853 行，毫秒级时间戳并保留原文空白。
+- 设备审计：未完成、缺失、内容错配、无效输出及大小写别名问题均为 0。
+- 质量复核：跨歌曲相同文本的分词边界冲突为 0；中、英、日、韩、粤语样本均已复核。
+
+文件位于 `.codex-tasks/kugou-ai-segmentation/continuation-201-300/`。恢复这一批时执行：
+
+```powershell
+node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-201-300
+```
+
+审计通过时应得到：`done=99`、`noLyrics=1`、`unfinished=0`、`missing=0`、`mismatched=0`、`invalidOutputs=0`、`missingAliases=0`、`mismatchedAliases=0`。
 
 ## 恢复到 Android 设备
 

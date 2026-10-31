@@ -1,0 +1,900 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:0c74ad40f2df08f2bb4b78b9ba7383e1",
+      "lines": [
+        {
+          "key": "0|Month - NINEONE #",
+          "text": "Month - NINEONE #",
+          "segments": [
+            "Month",
+            " - ",
+            "NINEONE #"
+          ]
+        },
+        {
+          "key": "4016|词：NINEONE赵馨玥",
+          "text": "词：NINEONE赵馨玥",
+          "segments": [
+            "词：",
+            "NINEONE赵馨玥"
+          ]
+        },
+        {
+          "key": "9036|曲：NINEONE赵馨玥",
+          "text": "曲：NINEONE赵馨玥",
+          "segments": [
+            "曲：",
+            "NINEONE赵馨玥"
+          ]
+        },
+        {
+          "key": "14061|绵密地想",
+          "text": "绵密地想",
+          "segments": [
+            "绵密地",
+            "想"
+          ]
+        },
+        {
+          "key": "15114|你甜腻地讲",
+          "text": "你甜腻地讲",
+          "segments": [
+            "你",
+            "甜腻地",
+            "讲"
+          ]
+        },
+        {
+          "key": "16371|The summer night",
+          "text": "The summer night",
+          "segments": [
+            "The ",
+            "summer ",
+            "night"
+          ]
+        },
+        {
+          "key": "17395|专心的样",
+          "text": "专心的样",
+          "segments": [
+            "专心",
+            "的",
+            "样"
+          ]
+        },
+        {
+          "key": "18515|你安静地躺",
+          "text": "你安静地躺",
+          "segments": [
+            "你",
+            "安静地",
+            "躺"
+          ]
+        },
+        {
+          "key": "19832|The starry sky",
+          "text": "The starry sky",
+          "segments": [
+            "The ",
+            "starry ",
+            "sky"
+          ]
+        },
+        {
+          "key": "20897|可能的阀",
+          "text": "可能的阀",
+          "segments": [
+            "可能",
+            "的",
+            "阀"
+          ]
+        },
+        {
+          "key": "21913|不可能的匣",
+          "text": "不可能的匣",
+          "segments": [
+            "不可能",
+            "的",
+            "匣"
+          ]
+        },
+        {
+          "key": "23220|从哪边打开",
+          "text": "从哪边打开",
+          "segments": [
+            "从",
+            "哪",
+            "边",
+            "打开"
+          ]
+        },
+        {
+          "key": "27149|我看你总有说法",
+          "text": "我看你总有说法",
+          "segments": [
+            "我看",
+            "你",
+            "总",
+            "有",
+            "说法"
+          ]
+        },
+        {
+          "key": "28772|像你的号码",
+          "text": "像你的号码",
+          "segments": [
+            "像",
+            "你的",
+            "号码"
+          ]
+        },
+        {
+          "key": "30123|变那么快",
+          "text": "变那么快",
+          "segments": [
+            "变",
+            "那么",
+            "快"
+          ]
+        },
+        {
+          "key": "31173|泪要落下",
+          "text": "泪要落下",
+          "segments": [
+            "泪",
+            "要",
+            "落下"
+          ]
+        },
+        {
+          "key": "32224|在我的脸颊",
+          "text": "在我的脸颊",
+          "segments": [
+            "在",
+            "我的",
+            "脸颊"
+          ]
+        },
+        {
+          "key": "33517|你才说爱",
+          "text": "你才说爱",
+          "segments": [
+            "你",
+            "才",
+            "说",
+            "爱"
+          ]
+        },
+        {
+          "key": "34583|可以的话",
+          "text": "可以的话",
+          "segments": [
+            "可以",
+            "的话"
+          ]
+        },
+        {
+          "key": "35645|不可以的bug",
+          "text": "不可以的bug",
+          "segments": [
+            "不",
+            "可以",
+            "的",
+            "bug"
+          ]
+        },
+        {
+          "key": "36984|从哪里卸载",
+          "text": "从哪里卸载",
+          "segments": [
+            "从",
+            "哪里",
+            "卸",
+            "载"
+          ]
+        },
+        {
+          "key": "41035|突然就无影无踪",
+          "text": "突然就无影无踪",
+          "segments": [
+            "突然",
+            "就",
+            "无影无踪"
+          ]
+        },
+        {
+          "key": "43999|怎么做 你也无动于衷",
+          "text": "怎么做 你也无动于衷",
+          "segments": [
+            "怎么",
+            "做 ",
+            "你",
+            "也",
+            "无动于衷"
+          ]
+        },
+        {
+          "key": "47431|我以为爱也愈挫愈勇",
+          "text": "我以为爱也愈挫愈勇",
+          "segments": [
+            "我",
+            "以为",
+            "爱",
+            "也",
+            "愈挫愈勇"
+          ]
+        },
+        {
+          "key": "50884|越长情",
+          "text": "越长情",
+          "segments": [
+            "越",
+            "长情"
+          ]
+        },
+        {
+          "key": "51468|越汹涌",
+          "text": "越汹涌",
+          "segments": [
+            "越",
+            "汹涌"
+          ]
+        },
+        {
+          "key": "52596|越长情",
+          "text": "越长情",
+          "segments": [
+            "越",
+            "长情"
+          ]
+        },
+        {
+          "key": "53245|越汹涌",
+          "text": "越汹涌",
+          "segments": [
+            "越",
+            "汹涌"
+          ]
+        },
+        {
+          "key": "54747|Baby maybe I should go",
+          "text": "Baby maybe I should go",
+          "segments": [
+            "Baby ",
+            "maybe ",
+            "I ",
+            "should ",
+            "go"
+          ]
+        },
+        {
+          "key": "56427|It's too hard to turn around",
+          "text": "It's too hard to turn around",
+          "segments": [
+            "It's ",
+            "too ",
+            "hard ",
+            "to ",
+            "turn ",
+            "around"
+          ]
+        },
+        {
+          "key": "58609|Stare into the flashback",
+          "text": "Stare into the flashback",
+          "segments": [
+            "Stare ",
+            "into ",
+            "the ",
+            "flashback"
+          ]
+        },
+        {
+          "key": "59757|Trying not to make a sound",
+          "text": "Trying not to make a sound",
+          "segments": [
+            "Trying ",
+            "not ",
+            "to ",
+            "make ",
+            "a ",
+            "sound"
+          ]
+        },
+        {
+          "key": "61433|I'm gonna get you out of my head",
+          "text": "I'm gonna get you out of my head",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "get ",
+            "you ",
+            "out ",
+            "of ",
+            "my ",
+            "head"
+          ]
+        },
+        {
+          "key": "63297|Cause I haven't seen you for a month",
+          "text": "Cause I haven't seen you for a month",
+          "segments": [
+            "Cause ",
+            "I ",
+            "haven't ",
+            "seen ",
+            "you ",
+            "for ",
+            "a ",
+            "month"
+          ]
+        },
+        {
+          "key": "68666|Don't wanna know",
+          "text": "Don't wanna know",
+          "segments": [
+            "Don't ",
+            "wanna ",
+            "know"
+          ]
+        },
+        {
+          "key": "69530|Why did you lie to me for so long",
+          "text": "Why did you lie to me for so long",
+          "segments": [
+            "Why ",
+            "did ",
+            "you ",
+            "lie ",
+            "to ",
+            "me ",
+            "for ",
+            "so ",
+            "long"
+          ]
+        },
+        {
+          "key": "72029|I know you're not that one",
+          "text": "I know you're not that one",
+          "segments": [
+            "I ",
+            "know ",
+            "you're ",
+            "not ",
+            "that ",
+            "one"
+          ]
+        },
+        {
+          "key": "73390|Who lead me where I belong",
+          "text": "Who lead me where I belong",
+          "segments": [
+            "Who ",
+            "lead ",
+            "me ",
+            "where ",
+            "I ",
+            "belong"
+          ]
+        },
+        {
+          "key": "75488|I've gotten used to life without you",
+          "text": "I've gotten used to life without you",
+          "segments": [
+            "I've ",
+            "gotten ",
+            "used ",
+            "to ",
+            "life ",
+            "without ",
+            "you"
+          ]
+        },
+        {
+          "key": "77470|And it's just for a month",
+          "text": "And it's just for a month",
+          "segments": [
+            "And ",
+            "it's ",
+            "just ",
+            "for ",
+            "a ",
+            "month"
+          ]
+        },
+        {
+          "key": "82591|梦把计划丢进了郊外呢",
+          "text": "梦把计划丢进了郊外呢",
+          "segments": [
+            "梦",
+            "把",
+            "计划",
+            "丢",
+            "进",
+            "了",
+            "郊外",
+            "呢"
+          ]
+        },
+        {
+          "key": "85987|惩罚一下又不算教坏了",
+          "text": "惩罚一下又不算教坏了",
+          "segments": [
+            "惩罚",
+            "一下",
+            "又",
+            "不算",
+            "教坏",
+            "了"
+          ]
+        },
+        {
+          "key": "89197|坚持和决定",
+          "text": "坚持和决定",
+          "segments": [
+            "坚持",
+            "和",
+            "决定"
+          ]
+        },
+        {
+          "key": "90549|偏执和约定",
+          "text": "偏执和约定",
+          "segments": [
+            "偏执",
+            "和",
+            "约定"
+          ]
+        },
+        {
+          "key": "91846|被什么吓坏",
+          "text": "被什么吓坏",
+          "segments": [
+            "被",
+            "什么",
+            "吓坏"
+          ]
+        },
+        {
+          "key": "96306|联系不到没联系的爱",
+          "text": "联系不到没联系的爱",
+          "segments": [
+            "联系不到",
+            "没",
+            "联系",
+            "的",
+            "爱"
+          ]
+        },
+        {
+          "key": "99310|建立你的城堡需要多少块",
+          "text": "建立你的城堡需要多少块",
+          "segments": [
+            "建立",
+            "你的",
+            "城堡",
+            "需要",
+            "多少",
+            "块"
+          ]
+        },
+        {
+          "key": "102695|So",
+          "text": "So",
+          "segments": [
+            "So"
+          ]
+        },
+        {
+          "key": "102965|年轻的我们",
+          "text": "年轻的我们",
+          "segments": [
+            "年轻",
+            "的",
+            "我们"
+          ]
+        },
+        {
+          "key": "104212|眼睛的默认",
+          "text": "眼睛的默认",
+          "segments": [
+            "眼睛",
+            "的",
+            "默认"
+          ]
+        },
+        {
+          "key": "105542|被什么打败",
+          "text": "被什么打败",
+          "segments": [
+            "被",
+            "什么",
+            "打败"
+          ]
+        },
+        {
+          "key": "109654|突然就无影无踪",
+          "text": "突然就无影无踪",
+          "segments": [
+            "突然",
+            "就",
+            "无影无踪"
+          ]
+        },
+        {
+          "key": "112588|怎么做 你也无动于衷",
+          "text": "怎么做 你也无动于衷",
+          "segments": [
+            "怎么",
+            "做 ",
+            "你",
+            "也",
+            "无动于衷"
+          ]
+        },
+        {
+          "key": "115987|我以为爱也愈挫愈勇",
+          "text": "我以为爱也愈挫愈勇",
+          "segments": [
+            "我",
+            "以为",
+            "爱",
+            "也",
+            "愈挫愈勇"
+          ]
+        },
+        {
+          "key": "119388|越长情",
+          "text": "越长情",
+          "segments": [
+            "越",
+            "长情"
+          ]
+        },
+        {
+          "key": "120082|越汹涌",
+          "text": "越汹涌",
+          "segments": [
+            "越",
+            "汹涌"
+          ]
+        },
+        {
+          "key": "121143|越长情",
+          "text": "越长情",
+          "segments": [
+            "越",
+            "长情"
+          ]
+        },
+        {
+          "key": "121836|越汹涌",
+          "text": "越汹涌",
+          "segments": [
+            "越",
+            "汹涌"
+          ]
+        },
+        {
+          "key": "123205|Baby maybe I should go",
+          "text": "Baby maybe I should go",
+          "segments": [
+            "Baby ",
+            "maybe ",
+            "I ",
+            "should ",
+            "go"
+          ]
+        },
+        {
+          "key": "125044|It's too hard to turn around",
+          "text": "It's too hard to turn around",
+          "segments": [
+            "It's ",
+            "too ",
+            "hard ",
+            "to ",
+            "turn ",
+            "around"
+          ]
+        },
+        {
+          "key": "127135|Stare into the flashback",
+          "text": "Stare into the flashback",
+          "segments": [
+            "Stare ",
+            "into ",
+            "the ",
+            "flashback"
+          ]
+        },
+        {
+          "key": "128409|Trying not to make a sound",
+          "text": "Trying not to make a sound",
+          "segments": [
+            "Trying ",
+            "not ",
+            "to ",
+            "make ",
+            "a ",
+            "sound"
+          ]
+        },
+        {
+          "key": "129928|I'm gonna get you out of my head",
+          "text": "I'm gonna get you out of my head",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "get ",
+            "you ",
+            "out ",
+            "of ",
+            "my ",
+            "head"
+          ]
+        },
+        {
+          "key": "131819|Cause I haven't seen you for a month",
+          "text": "Cause I haven't seen you for a month",
+          "segments": [
+            "Cause ",
+            "I ",
+            "haven't ",
+            "seen ",
+            "you ",
+            "for ",
+            "a ",
+            "month"
+          ]
+        },
+        {
+          "key": "137224|Don't wanna know",
+          "text": "Don't wanna know",
+          "segments": [
+            "Don't ",
+            "wanna ",
+            "know"
+          ]
+        },
+        {
+          "key": "138088|Why did you lie to me for so long",
+          "text": "Why did you lie to me for so long",
+          "segments": [
+            "Why ",
+            "did ",
+            "you ",
+            "lie ",
+            "to ",
+            "me ",
+            "for ",
+            "so ",
+            "long"
+          ]
+        },
+        {
+          "key": "140631|I know you're not that one",
+          "text": "I know you're not that one",
+          "segments": [
+            "I ",
+            "know ",
+            "you're ",
+            "not ",
+            "that ",
+            "one"
+          ]
+        },
+        {
+          "key": "141957|Who lead me where I belong",
+          "text": "Who lead me where I belong",
+          "segments": [
+            "Who ",
+            "lead ",
+            "me ",
+            "where ",
+            "I ",
+            "belong"
+          ]
+        },
+        {
+          "key": "144050|I've gotten used to life without you",
+          "text": "I've gotten used to life without you",
+          "segments": [
+            "I've ",
+            "gotten ",
+            "used ",
+            "to ",
+            "life ",
+            "without ",
+            "you"
+          ]
+        },
+        {
+          "key": "146054|And it's just for a month",
+          "text": "And it's just for a month",
+          "segments": [
+            "And ",
+            "it's ",
+            "just ",
+            "for ",
+            "a ",
+            "month"
+          ]
+        },
+        {
+          "key": "154661|Why am I feeling this way",
+          "text": "Why am I feeling this way",
+          "segments": [
+            "Why ",
+            "am ",
+            "I ",
+            "feeling ",
+            "this ",
+            "way"
+          ]
+        },
+        {
+          "key": "161452|Don't let me feel this way",
+          "text": "Don't let me feel this way",
+          "segments": [
+            "Don't ",
+            "let ",
+            "me ",
+            "feel ",
+            "this ",
+            "way"
+          ]
+        },
+        {
+          "key": "164392|Baby maybe I should go",
+          "text": "Baby maybe I should go",
+          "segments": [
+            "Baby ",
+            "maybe ",
+            "I ",
+            "should ",
+            "go"
+          ]
+        },
+        {
+          "key": "171697|Get you out of my head",
+          "text": "Get you out of my head",
+          "segments": [
+            "Get ",
+            "you ",
+            "out ",
+            "of ",
+            "my ",
+            "head"
+          ]
+        },
+        {
+          "key": "178365|Don't wanna know",
+          "text": "Don't wanna know",
+          "segments": [
+            "Don't ",
+            "wanna ",
+            "know"
+          ]
+        },
+        {
+          "key": "179226|Why did you lie to me for so long",
+          "text": "Why did you lie to me for so long",
+          "segments": [
+            "Why ",
+            "did ",
+            "you ",
+            "lie ",
+            "to ",
+            "me ",
+            "for ",
+            "so ",
+            "long"
+          ]
+        },
+        {
+          "key": "181828|I know you're not that one",
+          "text": "I know you're not that one",
+          "segments": [
+            "I ",
+            "know ",
+            "you're ",
+            "not ",
+            "that ",
+            "one"
+          ]
+        },
+        {
+          "key": "183066|Who lead me where I belong",
+          "text": "Who lead me where I belong",
+          "segments": [
+            "Who ",
+            "lead ",
+            "me ",
+            "where ",
+            "I ",
+            "belong"
+          ]
+        },
+        {
+          "key": "185158|I've gotten used to life without you",
+          "text": "I've gotten used to life without you",
+          "segments": [
+            "I've ",
+            "gotten ",
+            "used ",
+            "to ",
+            "life ",
+            "without ",
+            "you"
+          ]
+        },
+        {
+          "key": "187184|And it's just for a month",
+          "text": "And it's just for a month",
+          "segments": [
+            "And ",
+            "it's ",
+            "just ",
+            "for ",
+            "a ",
+            "month"
+          ]
+        },
+        {
+          "key": "190438|制作人：King80/周天澈/NINEONE赵馨玥",
+          "text": "制作人：King80/周天澈/NINEONE赵馨玥",
+          "segments": [
+            "制作人：",
+            "King80",
+            "/",
+            "周天澈",
+            "/",
+            "NINEONE赵馨玥"
+          ]
+        },
+        {
+          "key": "192273|艺人统筹：NINEONE赵馨玥工作室",
+          "text": "艺人统筹：NINEONE赵馨玥工作室",
+          "segments": [
+            "艺人统筹：",
+            "NINEONE赵馨玥工作室"
+          ]
+        },
+        {
+          "key": "193725|项目统筹：杰森",
+          "text": "项目统筹：杰森",
+          "segments": [
+            "项目统筹：",
+            "杰森"
+          ]
+        },
+        {
+          "key": "194460|营销推广：心心向上x大声密谋",
+          "text": "营销推广：心心向上x大声密谋",
+          "segments": [
+            "营销推广：",
+            "心心向上x大声密谋"
+          ]
+        },
+        {
+          "key": "195453|出品：索尼音乐 x INDECAA",
+          "text": "出品：索尼音乐 x INDECAA",
+          "segments": [
+            "出品：",
+            "索尼音乐 x INDECAA"
+          ]
+        },
+        {
+          "key": "196444|出品人：陈国威Andrew Chan@索尼音乐",
+          "text": "出品人：陈国威Andrew Chan@索尼音乐",
+          "segments": [
+            "出品人：",
+            "陈国威Andrew Chan@索尼音乐"
+          ]
+        }
+      ]
+    }
+  ]
+}

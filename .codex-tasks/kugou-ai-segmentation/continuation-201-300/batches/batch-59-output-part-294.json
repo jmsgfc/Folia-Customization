@@ -1,0 +1,1293 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:062ea07bb74a381c54524c9f91714d81",
+      "lines": [
+        {
+          "key": "819|ANGEL (天使) - 尹美莱/Tiger JK/Bizzy",
+          "text": "ANGEL (天使) - 尹美莱/Tiger JK/Bizzy",
+          "segments": [
+            "ANGEL",
+            " (天使)",
+            " - ",
+            "尹美莱",
+            "/",
+            "Tiger JK",
+            "/",
+            "Bizzy"
+          ]
+        },
+        {
+          "key": "3835|词：Tiger JK/윤미래/Bizzy",
+          "text": "词：Tiger JK/윤미래/Bizzy",
+          "segments": [
+            "词：",
+            "Tiger JK",
+            "/",
+            "윤미래",
+            "/",
+            "Bizzy"
+          ]
+        },
+        {
+          "key": "5119|曲：박재선(Jason Park)/윤미래",
+          "text": "曲：박재선(Jason Park)/윤미래",
+          "segments": [
+            "曲：",
+            "박재선(Jason Park)",
+            "/",
+            "윤미래"
+          ]
+        },
+        {
+          "key": "15670|You will always be my",
+          "text": "You will always be my",
+          "segments": [
+            "You ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "22238|You will always be my",
+          "text": "You will always be my",
+          "segments": [
+            "You ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "26495|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "28793|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "31911|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "33055|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "34583|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "35491|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "37791|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "39364|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "41437|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "44698|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "45833|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "47388|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "48450|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "50716|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "52539|윤달에 생일은 여덟 번",
+          "text": "윤달에 생일은 여덟 번",
+          "segments": [
+            "윤달에 ",
+            "생일은 ",
+            "여덟 ",
+            "번"
+          ]
+        },
+        {
+          "key": "53900|내 생에 위기는 여러 번",
+          "text": "내 생에 위기는 여러 번",
+          "segments": [
+            "내 ",
+            "생에 ",
+            "위기는 ",
+            "여러 ",
+            "번"
+          ]
+        },
+        {
+          "key": "55537|굽혀진 팔자로 걸었던",
+          "text": "굽혀진 팔자로 걸었던",
+          "segments": [
+            "굽혀진 ",
+            "팔자로 ",
+            "걸었던"
+          ]
+        },
+        {
+          "key": "57191|걷고 걷고 걸었던",
+          "text": "걷고 걷고 걸었던",
+          "segments": [
+            "걷고 ",
+            "걷고 ",
+            "걸었던"
+          ]
+        },
+        {
+          "key": "58755|취해 하늘에 말을 걸어",
+          "text": "취해 하늘에 말을 걸어",
+          "segments": [
+            "취해 ",
+            "하늘에 ",
+            "말을 ",
+            "걸어"
+          ]
+        },
+        {
+          "key": "60443|신에게 시비를 걸었던",
+          "text": "신에게 시비를 걸었던",
+          "segments": [
+            "신에게 ",
+            "시비를 ",
+            "걸었던"
+          ]
+        },
+        {
+          "key": "61970|막막한 앞날에 막말해",
+          "text": "막막한 앞날에 막말해",
+          "segments": [
+            "막막한 ",
+            "앞날에 ",
+            "막말해"
+          ]
+        },
+        {
+          "key": "63482|솔직히 몰래 떨었던",
+          "text": "솔직히 몰래 떨었던",
+          "segments": [
+            "솔직히 ",
+            "몰래 ",
+            "떨었던"
+          ]
+        },
+        {
+          "key": "65147|철없던 그랬던",
+          "text": "철없던 그랬던",
+          "segments": [
+            "철없던 ",
+            "그랬던"
+          ]
+        },
+        {
+          "key": "66757|꿈은 아주 멀었던 꿈일 뿐",
+          "text": "꿈은 아주 멀었던 꿈일 뿐",
+          "segments": [
+            "꿈은 ",
+            "아주 ",
+            "멀었던 ",
+            "꿈일 ",
+            "뿐"
+          ]
+        },
+        {
+          "key": "69220|무일푼 내게는 사치일 뿐",
+          "text": "무일푼 내게는 사치일 뿐",
+          "segments": [
+            "무일푼 ",
+            "내게는 ",
+            "사치일 ",
+            "뿐"
+          ]
+        },
+        {
+          "key": "71595|그러던 내게 다가와",
+          "text": "그러던 내게 다가와",
+          "segments": [
+            "그러던 ",
+            "내게 ",
+            "다가와"
+          ]
+        },
+        {
+          "key": "73451|넌 내게 다가와",
+          "text": "넌 내게 다가와",
+          "segments": [
+            "넌 ",
+            "내게 ",
+            "다가와"
+          ]
+        },
+        {
+          "key": "74946|마치 내가 태양인 듯",
+          "text": "마치 내가 태양인 듯",
+          "segments": [
+            "마치 ",
+            "내가 ",
+            "태양인 ",
+            "듯"
+          ]
+        },
+        {
+          "key": "76699|나 너만 바라봐",
+          "text": "나 너만 바라봐",
+          "segments": [
+            "나 ",
+            "너만 ",
+            "바라봐"
+          ]
+        },
+        {
+          "key": "79076|넌 나만 바라봐",
+          "text": "넌 나만 바라봐",
+          "segments": [
+            "넌 ",
+            "나만 ",
+            "바라봐"
+          ]
+        },
+        {
+          "key": "80900|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "83155|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "86315|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "87402|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "89027|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "90160|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "92177|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "93835|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "95888|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "99144|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "100079|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "101875|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "102915|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "105003|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "106817|1 2 3 4 5 6 7",
+          "text": "1 2 3 4 5 6 7",
+          "segments": [
+            "1 ",
+            "2 ",
+            "3 ",
+            "4 ",
+            "5 ",
+            "6 ",
+            "7"
+          ]
+        },
+        {
+          "key": "108367|칠전팔기 오르막길",
+          "text": "칠전팔기 오르막길",
+          "segments": [
+            "칠전팔기 ",
+            "오르막길"
+          ]
+        },
+        {
+          "key": "109938|올라가다 곤두박질",
+          "text": "올라가다 곤두박질",
+          "segments": [
+            "올라가다 ",
+            "곤두박질"
+          ]
+        },
+        {
+          "key": "111551|친구라는 무리들의",
+          "text": "친구라는 무리들의",
+          "segments": [
+            "친구라는 ",
+            "무리들의"
+          ]
+        },
+        {
+          "key": "113089|비웃는 손가락질 하는",
+          "text": "비웃는 손가락질 하는",
+          "segments": [
+            "비웃는 ",
+            "손가락질 ",
+            "하는"
+          ]
+        },
+        {
+          "key": "115087|잘난 이들을 보며",
+          "text": "잘난 이들을 보며",
+          "segments": [
+            "잘난 ",
+            "이들을 ",
+            "보며"
+          ]
+        },
+        {
+          "key": "116370|난 내 이를 갈았지",
+          "text": "난 내 이를 갈았지",
+          "segments": [
+            "난 ",
+            "내 ",
+            "이를 ",
+            "갈았지"
+          ]
+        },
+        {
+          "key": "117845|나 그렇게 살았지",
+          "text": "나 그렇게 살았지",
+          "segments": [
+            "나 ",
+            "그렇게 ",
+            "살았지"
+          ]
+        },
+        {
+          "key": "119529|내 영혼도 눈감았지",
+          "text": "내 영혼도 눈감았지",
+          "segments": [
+            "내 ",
+            "영혼도 ",
+            "눈감았지"
+          ]
+        },
+        {
+          "key": "121087|내 그림자도 귀찮아진",
+          "text": "내 그림자도 귀찮아진",
+          "segments": [
+            "내 ",
+            "그림자도 ",
+            "귀찮아진"
+          ]
+        },
+        {
+          "key": "122683|혹시 그때 내 맘 알어",
+          "text": "혹시 그때 내 맘 알어",
+          "segments": [
+            "혹시 ",
+            "그때 ",
+            "내 ",
+            "맘 ",
+            "알어"
+          ]
+        },
+        {
+          "key": "124332|그때 넌 날 감싸 안어",
+          "text": "그때 넌 날 감싸 안어",
+          "segments": [
+            "그때 ",
+            "넌 ",
+            "날 ",
+            "감싸 ",
+            "안어"
+          ]
+        },
+        {
+          "key": "125920|Angel My Angel",
+          "text": "Angel My Angel",
+          "segments": [
+            "Angel ",
+            "My ",
+            "Angel"
+          ]
+        },
+        {
+          "key": "127085|나 미소 짓게 해",
+          "text": "나 미소 짓게 해",
+          "segments": [
+            "나 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "128821|널 위해 모든 할 수 있어",
+          "text": "널 위해 모든 할 수 있어",
+          "segments": [
+            "널 ",
+            "위해 ",
+            "모든 ",
+            "할 ",
+            "수 ",
+            "있어"
+          ]
+        },
+        {
+          "key": "130737|집도 짓게 돼",
+          "text": "집도 짓게 돼",
+          "segments": [
+            "집도 ",
+            "짓게 ",
+            "돼"
+          ]
+        },
+        {
+          "key": "132264|My Angel My Angel",
+          "text": "My Angel My Angel",
+          "segments": [
+            "My ",
+            "Angel ",
+            "My ",
+            "Angel"
+          ]
+        },
+        {
+          "key": "133590|나 미소 짓게 해",
+          "text": "나 미소 짓게 해",
+          "segments": [
+            "나 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "135428|널 위해 모든 할 수 있어",
+          "text": "널 위해 모든 할 수 있어",
+          "segments": [
+            "널 ",
+            "위해 ",
+            "모든 ",
+            "할 ",
+            "수 ",
+            "있어"
+          ]
+        },
+        {
+          "key": "137110|집도 짓게 돼",
+          "text": "집도 짓게 돼",
+          "segments": [
+            "집도 ",
+            "짓게 ",
+            "돼"
+          ]
+        },
+        {
+          "key": "138231|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "140681|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "144023|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "145009|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "146617|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "147747|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "149832|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "151399|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "153489|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "156826|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "157748|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "159417|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "160520|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "162610|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "164471|웃음이 번져 내 입가에 넘쳐",
+          "text": "웃음이 번져 내 입가에 넘쳐",
+          "segments": [
+            "웃음이 ",
+            "번져 ",
+            "내 ",
+            "입가에 ",
+            "넘쳐"
+          ]
+        },
+        {
+          "key": "167853|No matter what they say",
+          "text": "No matter what they say",
+          "segments": [
+            "No ",
+            "matter ",
+            "what ",
+            "they ",
+            "say"
+          ]
+        },
+        {
+          "key": "169238|Imma hold you closer",
+          "text": "Imma hold you closer",
+          "segments": [
+            "Imma ",
+            "hold ",
+            "you ",
+            "closer"
+          ]
+        },
+        {
+          "key": "171142|웃음이 번져 내 입가에 넘쳐",
+          "text": "웃음이 번져 내 입가에 넘쳐",
+          "segments": [
+            "웃음이 ",
+            "번져 ",
+            "내 ",
+            "입가에 ",
+            "넘쳐"
+          ]
+        },
+        {
+          "key": "174270|No matter what they say",
+          "text": "No matter what they say",
+          "segments": [
+            "No ",
+            "matter ",
+            "what ",
+            "they ",
+            "say"
+          ]
+        },
+        {
+          "key": "175686|Imma hold you closer",
+          "text": "Imma hold you closer",
+          "segments": [
+            "Imma ",
+            "hold ",
+            "you ",
+            "closer"
+          ]
+        },
+        {
+          "key": "177269|Used to be a silly bum",
+          "text": "Used to be a silly bum",
+          "segments": [
+            "Used ",
+            "to ",
+            "be ",
+            "a ",
+            "silly ",
+            "bum"
+          ]
+        },
+        {
+          "key": "178812|지칠 때로 지쳤던",
+          "text": "지칠 때로 지쳤던",
+          "segments": [
+            "지칠 ",
+            "때로 ",
+            "지쳤던"
+          ]
+        },
+        {
+          "key": "180324|힘들어 쓰러졌던",
+          "text": "힘들어 쓰러졌던",
+          "segments": [
+            "힘들어 ",
+            "쓰러졌던"
+          ]
+        },
+        {
+          "key": "181469|내게 날개를 달아줘",
+          "text": "내게 날개를 달아줘",
+          "segments": [
+            "내게 ",
+            "날개를 ",
+            "달아줘"
+          ]
+        },
+        {
+          "key": "183595|Used to be a silly bum",
+          "text": "Used to be a silly bum",
+          "segments": [
+            "Used ",
+            "to ",
+            "be ",
+            "a ",
+            "silly ",
+            "bum"
+          ]
+        },
+        {
+          "key": "185219|지칠 때로 지쳤던",
+          "text": "지칠 때로 지쳤던",
+          "segments": [
+            "지칠 ",
+            "때로 ",
+            "지쳤던"
+          ]
+        },
+        {
+          "key": "186712|힘들어 쓰러졌던",
+          "text": "힘들어 쓰러졌던",
+          "segments": [
+            "힘들어 ",
+            "쓰러졌던"
+          ]
+        },
+        {
+          "key": "187959|내게 날개를 달아줘",
+          "text": "내게 날개를 달아줘",
+          "segments": [
+            "내게 ",
+            "날개를 ",
+            "달아줘"
+          ]
+        },
+        {
+          "key": "189793|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "191913|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "195201|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "196318|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "197865|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "198862|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "201100|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "202422|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "204762|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "208006|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "209065|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "210704|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "211794|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "213857|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "215358|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "217529|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "220745|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "221839|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "223376|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "224411|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "226531|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        },
+        {
+          "key": "228313|넌 나의 A N G E L",
+          "text": "넌 나의 A N G E L",
+          "segments": [
+            "넌 ",
+            "나의 ",
+            "A ",
+            "N ",
+            "G ",
+            "E ",
+            "L"
+          ]
+        },
+        {
+          "key": "230330|슬픈 나를 항상 미소 짓게 해",
+          "text": "슬픈 나를 항상 미소 짓게 해",
+          "segments": [
+            "슬픈 ",
+            "나를 ",
+            "항상 ",
+            "미소 ",
+            "짓게 ",
+            "해"
+          ]
+        },
+        {
+          "key": "233578|누가 뭐라 해도",
+          "text": "누가 뭐라 해도",
+          "segments": [
+            "누가 ",
+            "뭐라 ",
+            "해도"
+          ]
+        },
+        {
+          "key": "234577|You you",
+          "text": "You you",
+          "segments": [
+            "You ",
+            "you"
+          ]
+        },
+        {
+          "key": "236189|내 맘을 녹여 너의",
+          "text": "내 맘을 녹여 너의",
+          "segments": [
+            "내 ",
+            "맘을 ",
+            "녹여 ",
+            "너의"
+          ]
+        },
+        {
+          "key": "237254|I Love you you",
+          "text": "I Love you you",
+          "segments": [
+            "I ",
+            "Love ",
+            "you ",
+            "you"
+          ]
+        },
+        {
+          "key": "239515|Cause you will always be my",
+          "text": "Cause you will always be my",
+          "segments": [
+            "Cause ",
+            "you ",
+            "will ",
+            "always ",
+            "be ",
+            "my"
+          ]
+        }
+      ]
+    }
+  ]
+}

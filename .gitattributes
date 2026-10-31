@@ -9,6 +9,9 @@
 # "exec /usr/local/bin/...: no such file or directory"。
 *.sh text eol=lf
 
+# Lyrics may intentionally carry trailing spaces from the provider payload.
+*.lrc whitespace=-trailing-space
+
 # Signed mods and fixtures: the signature covers exact bytes, so no line-ending conversion.
 mods/** -text
 test/fixtures/folium-signature/** -text

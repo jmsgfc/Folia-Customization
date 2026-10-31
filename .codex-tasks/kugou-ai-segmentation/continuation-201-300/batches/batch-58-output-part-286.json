@@ -1,0 +1,878 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:2270847219d8515ebaa1d8e5b430d21f",
+      "lines": [
+        {
+          "key": "0|Watch Me Work (Explicit) - Tinashe",
+          "text": "Watch Me Work (Explicit) - Tinashe",
+          "segments": [
+            "Watch Me Work",
+            " (Explicit)",
+            " - ",
+            "Tinashe"
+          ]
+        },
+        {
+          "key": "5550|Written by：Tinashe Kachingwe/Matthew Samuels/Allen Ritter/Anderson Hernandez/Jacques Webster",
+          "text": "Written by：Tinashe Kachingwe/Matthew Samuels/Allen Ritter/Anderson Hernandez/Jacques Webster",
+          "segments": [
+            "Written by：",
+            "Tinashe Kachingwe",
+            "/",
+            "Matthew Samuels",
+            "/",
+            "Allen Ritter",
+            "/",
+            "Anderson Hernandez",
+            "/",
+            "Jacques Webster"
+          ]
+        },
+        {
+          "key": "11103|I believe you'll be somebody",
+          "text": "I believe you'll be somebody",
+          "segments": [
+            "I ",
+            "believe ",
+            "you'll ",
+            "be ",
+            "somebody"
+          ]
+        },
+        {
+          "key": "15144|Someone I can call the one",
+          "text": "Someone I can call the one",
+          "segments": [
+            "Someone ",
+            "I ",
+            "can ",
+            "call ",
+            "the ",
+            "one"
+          ]
+        },
+        {
+          "key": "17532|You gon' be my only only",
+          "text": "You gon' be my only only",
+          "segments": [
+            "You ",
+            "gon' ",
+            "be ",
+            "my ",
+            "only ",
+            "only"
+          ]
+        },
+        {
+          "key": "20650|I can see that you were watchin'",
+          "text": "I can see that you were watchin'",
+          "segments": [
+            "I ",
+            "can ",
+            "see ",
+            "that ",
+            "you ",
+            "were ",
+            "watchin'"
+          ]
+        },
+        {
+          "key": "24875|I'mma make you fall in love",
+          "text": "I'mma make you fall in love",
+          "segments": [
+            "I'mma ",
+            "make ",
+            "you ",
+            "fall ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "27227|Just step back and watch me work work work daddy",
+          "text": "Just step back and watch me work work work daddy",
+          "segments": [
+            "Just ",
+            "step ",
+            "back ",
+            "and ",
+            "watch ",
+            "me ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "32675|Watch me while I work work work",
+          "text": "Watch me while I work work work",
+          "segments": [
+            "Watch ",
+            "me ",
+            "while ",
+            "I ",
+            "work ",
+            "work ",
+            "work"
+          ]
+        },
+        {
+          "key": "36659|Yeah let me do my work work work daddy",
+          "text": "Yeah let me do my work work work daddy",
+          "segments": [
+            "Yeah ",
+            "let ",
+            "me ",
+            "do ",
+            "my ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "42290|Watch me while I work work work daddy",
+          "text": "Watch me while I work work work daddy",
+          "segments": [
+            "Watch ",
+            "me ",
+            "while ",
+            "I ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "47520|Tell me that you want it",
+          "text": "Tell me that you want it",
+          "segments": [
+            "Tell ",
+            "me ",
+            "that ",
+            "you ",
+            "want ",
+            "it"
+          ]
+        },
+        {
+          "key": "50056|I've been waitin' on it",
+          "text": "I've been waitin' on it",
+          "segments": [
+            "I've ",
+            "been ",
+            "waitin' ",
+            "on ",
+            "it"
+          ]
+        },
+        {
+          "key": "52240|You a real a** ni**a",
+          "text": "You a real a** ni**a",
+          "segments": [
+            "You ",
+            "a ",
+            "real ",
+            "a** ",
+            "ni**a"
+          ]
+        },
+        {
+          "key": "54784|Baby come and get it",
+          "text": "Baby come and get it",
+          "segments": [
+            "Baby ",
+            "come ",
+            "and ",
+            "get ",
+            "it"
+          ]
+        },
+        {
+          "key": "57016|Yeah baby come get it",
+          "text": "Yeah baby come get it",
+          "segments": [
+            "Yeah ",
+            "baby ",
+            "come ",
+            "get ",
+            "it"
+          ]
+        },
+        {
+          "key": "59288|You know I've been waiting",
+          "text": "You know I've been waiting",
+          "segments": [
+            "You ",
+            "know ",
+            "I've ",
+            "been ",
+            "waiting"
+          ]
+        },
+        {
+          "key": "61748|Wanna feel it while I feel it",
+          "text": "Wanna feel it while I feel it",
+          "segments": [
+            "Wanna ",
+            "feel ",
+            "it ",
+            "while ",
+            "I ",
+            "feel ",
+            "it"
+          ]
+        },
+        {
+          "key": "64228|You know you're takin' too long",
+          "text": "You know you're takin' too long",
+          "segments": [
+            "You ",
+            "know ",
+            "you're ",
+            "takin' ",
+            "too ",
+            "long"
+          ]
+        },
+        {
+          "key": "66827|Uh oh bottles low before you know",
+          "text": "Uh oh bottles low before you know",
+          "segments": [
+            "Uh ",
+            "oh ",
+            "bottles ",
+            "low ",
+            "before ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "71947|Uh oh good to go uh oh",
+          "text": "Uh oh good to go uh oh",
+          "segments": [
+            "Uh ",
+            "oh ",
+            "good ",
+            "to ",
+            "go ",
+            "uh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "76609|Uh oh I'm ready now I'm on the floor",
+          "text": "Uh oh I'm ready now I'm on the floor",
+          "segments": [
+            "Uh ",
+            "oh ",
+            "I'm ",
+            "ready ",
+            "now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "floor"
+          ]
+        },
+        {
+          "key": "81187|Uh oh uh oh",
+          "text": "Uh oh uh oh",
+          "segments": [
+            "Uh ",
+            "oh ",
+            "uh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "84879|Ooh I'm ready now I'm ready",
+          "text": "Ooh I'm ready now I'm ready",
+          "segments": [
+            "Ooh ",
+            "I'm ",
+            "ready ",
+            "now ",
+            "I'm ",
+            "ready"
+          ]
+        },
+        {
+          "key": "87911|I believe you'll be somebody",
+          "text": "I believe you'll be somebody",
+          "segments": [
+            "I ",
+            "believe ",
+            "you'll ",
+            "be ",
+            "somebody"
+          ]
+        },
+        {
+          "key": "91967|Someone I can call the one",
+          "text": "Someone I can call the one",
+          "segments": [
+            "Someone ",
+            "I ",
+            "can ",
+            "call ",
+            "the ",
+            "one"
+          ]
+        },
+        {
+          "key": "94337|You gon' be my only only",
+          "text": "You gon' be my only only",
+          "segments": [
+            "You ",
+            "gon' ",
+            "be ",
+            "my ",
+            "only ",
+            "only"
+          ]
+        },
+        {
+          "key": "97489|I can see that you were watchin'",
+          "text": "I can see that you were watchin'",
+          "segments": [
+            "I ",
+            "can ",
+            "see ",
+            "that ",
+            "you ",
+            "were ",
+            "watchin'"
+          ]
+        },
+        {
+          "key": "101722|I'mma make you fall in love",
+          "text": "I'mma make you fall in love",
+          "segments": [
+            "I'mma ",
+            "make ",
+            "you ",
+            "fall ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "103986|Just step back and watch me work work work daddy",
+          "text": "Just step back and watch me work work work daddy",
+          "segments": [
+            "Just ",
+            "step ",
+            "back ",
+            "and ",
+            "watch ",
+            "me ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "109482|Watch me while I work work work",
+          "text": "Watch me while I work work work",
+          "segments": [
+            "Watch ",
+            "me ",
+            "while ",
+            "I ",
+            "work ",
+            "work ",
+            "work"
+          ]
+        },
+        {
+          "key": "113337|Yeah now let me do my work work work daddy",
+          "text": "Yeah now let me do my work work work daddy",
+          "segments": [
+            "Yeah ",
+            "now ",
+            "let ",
+            "me ",
+            "do ",
+            "my ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "119130|Watch me while I work work work daddy",
+          "text": "Watch me while I work work work daddy",
+          "segments": [
+            "Watch ",
+            "me ",
+            "while ",
+            "I ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "124295|Tell me that you need it",
+          "text": "Tell me that you need it",
+          "segments": [
+            "Tell ",
+            "me ",
+            "that ",
+            "you ",
+            "need ",
+            "it"
+          ]
+        },
+        {
+          "key": "126887|Only if you mean it",
+          "text": "Only if you mean it",
+          "segments": [
+            "Only ",
+            "if ",
+            "you ",
+            "mean ",
+            "it"
+          ]
+        },
+        {
+          "key": "128944|You a real a** ni**a",
+          "text": "You a real a** ni**a",
+          "segments": [
+            "You ",
+            "a ",
+            "real ",
+            "a** ",
+            "ni**a"
+          ]
+        },
+        {
+          "key": "131660|Baby f**k with it",
+          "text": "Baby f**k with it",
+          "segments": [
+            "Baby ",
+            "f**k ",
+            "with ",
+            "it"
+          ]
+        },
+        {
+          "key": "133780|Yeah baby f**k with it",
+          "text": "Yeah baby f**k with it",
+          "segments": [
+            "Yeah ",
+            "baby ",
+            "f**k ",
+            "with ",
+            "it"
+          ]
+        },
+        {
+          "key": "136078|You know I've been waitin'",
+          "text": "You know I've been waitin'",
+          "segments": [
+            "You ",
+            "know ",
+            "I've ",
+            "been ",
+            "waitin'"
+          ]
+        },
+        {
+          "key": "138452|If you sleepin' then you're sippin'",
+          "text": "If you sleepin' then you're sippin'",
+          "segments": [
+            "If ",
+            "you ",
+            "sleepin' ",
+            "then ",
+            "you're ",
+            "sippin'"
+          ]
+        },
+        {
+          "key": "141053|You know you're taking too long",
+          "text": "You know you're taking too long",
+          "segments": [
+            "You ",
+            "know ",
+            "you're ",
+            "taking ",
+            "too ",
+            "long"
+          ]
+        },
+        {
+          "key": "143788|Uh oh bottles low before you know",
+          "text": "Uh oh bottles low before you know",
+          "segments": [
+            "Uh ",
+            "oh ",
+            "bottles ",
+            "low ",
+            "before ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "148236|Uh oh good to go uh oh",
+          "text": "Uh oh good to go uh oh",
+          "segments": [
+            "Uh ",
+            "oh ",
+            "good ",
+            "to ",
+            "go ",
+            "uh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "153473|Uh oh I'm ready now I'm on the floor",
+          "text": "Uh oh I'm ready now I'm on the floor",
+          "segments": [
+            "Uh ",
+            "oh ",
+            "I'm ",
+            "ready ",
+            "now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "floor"
+          ]
+        },
+        {
+          "key": "158192|Uh oh uh oh",
+          "text": "Uh oh uh oh",
+          "segments": [
+            "Uh ",
+            "oh ",
+            "uh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "161412|Ooh I'm ready now I'm ready",
+          "text": "Ooh I'm ready now I'm ready",
+          "segments": [
+            "Ooh ",
+            "I'm ",
+            "ready ",
+            "now ",
+            "I'm ",
+            "ready"
+          ]
+        },
+        {
+          "key": "164709|I believe you'll be somebody",
+          "text": "I believe you'll be somebody",
+          "segments": [
+            "I ",
+            "believe ",
+            "you'll ",
+            "be ",
+            "somebody"
+          ]
+        },
+        {
+          "key": "168780|Someone I can call the one",
+          "text": "Someone I can call the one",
+          "segments": [
+            "Someone ",
+            "I ",
+            "can ",
+            "call ",
+            "the ",
+            "one"
+          ]
+        },
+        {
+          "key": "171261|You gon' be my only only",
+          "text": "You gon' be my only only",
+          "segments": [
+            "You ",
+            "gon' ",
+            "be ",
+            "my ",
+            "only ",
+            "only"
+          ]
+        },
+        {
+          "key": "174146|I can see that you were watchin'",
+          "text": "I can see that you were watchin'",
+          "segments": [
+            "I ",
+            "can ",
+            "see ",
+            "that ",
+            "you ",
+            "were ",
+            "watchin'"
+          ]
+        },
+        {
+          "key": "178547|I'mma make you fall in love",
+          "text": "I'mma make you fall in love",
+          "segments": [
+            "I'mma ",
+            "make ",
+            "you ",
+            "fall ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "180827|Just step back and watch me work work work daddy",
+          "text": "Just step back and watch me work work work daddy",
+          "segments": [
+            "Just ",
+            "step ",
+            "back ",
+            "and ",
+            "watch ",
+            "me ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "186299|Watch me while I work work work",
+          "text": "Watch me while I work work work",
+          "segments": [
+            "Watch ",
+            "me ",
+            "while ",
+            "I ",
+            "work ",
+            "work ",
+            "work"
+          ]
+        },
+        {
+          "key": "190179|Yeah now let me do my work work work daddy",
+          "text": "Yeah now let me do my work work work daddy",
+          "segments": [
+            "Yeah ",
+            "now ",
+            "let ",
+            "me ",
+            "do ",
+            "my ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "195909|Watch me while I work work work daddy",
+          "text": "Watch me while I work work work daddy",
+          "segments": [
+            "Watch ",
+            "me ",
+            "while ",
+            "I ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "202837|The night is young",
+          "text": "The night is young",
+          "segments": [
+            "The ",
+            "night ",
+            "is ",
+            "young"
+          ]
+        },
+        {
+          "key": "205477|Baby baby",
+          "text": "Baby baby",
+          "segments": [
+            "Baby ",
+            "baby"
+          ]
+        },
+        {
+          "key": "207385|Where we headed right now",
+          "text": "Where we headed right now",
+          "segments": [
+            "Where ",
+            "we ",
+            "headed ",
+            "right ",
+            "now"
+          ]
+        },
+        {
+          "key": "212045|If you're really down",
+          "text": "If you're really down",
+          "segments": [
+            "If ",
+            "you're ",
+            "really ",
+            "down"
+          ]
+        },
+        {
+          "key": "215085|Ready ready",
+          "text": "Ready ready",
+          "segments": [
+            "Ready ",
+            "ready"
+          ]
+        },
+        {
+          "key": "216845|I can make your whole life worthwhile",
+          "text": "I can make your whole life worthwhile",
+          "segments": [
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "whole ",
+            "life ",
+            "worthwhile"
+          ]
+        },
+        {
+          "key": "222389|I believe you'll be somebody",
+          "text": "I believe you'll be somebody",
+          "segments": [
+            "I ",
+            "believe ",
+            "you'll ",
+            "be ",
+            "somebody"
+          ]
+        },
+        {
+          "key": "226343|Someone I can call the one",
+          "text": "Someone I can call the one",
+          "segments": [
+            "Someone ",
+            "I ",
+            "can ",
+            "call ",
+            "the ",
+            "one"
+          ]
+        },
+        {
+          "key": "228578|You gon' be my only only",
+          "text": "You gon' be my only only",
+          "segments": [
+            "You ",
+            "gon' ",
+            "be ",
+            "my ",
+            "only ",
+            "only"
+          ]
+        },
+        {
+          "key": "231906|I can see that you were watchin'",
+          "text": "I can see that you were watchin'",
+          "segments": [
+            "I ",
+            "can ",
+            "see ",
+            "that ",
+            "you ",
+            "were ",
+            "watchin'"
+          ]
+        },
+        {
+          "key": "235857|I'mma make you fall in love",
+          "text": "I'mma make you fall in love",
+          "segments": [
+            "I'mma ",
+            "make ",
+            "you ",
+            "fall ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "238144|Just step back and watch me work work work daddy",
+          "text": "Just step back and watch me work work work daddy",
+          "segments": [
+            "Just ",
+            "step ",
+            "back ",
+            "and ",
+            "watch ",
+            "me ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "243897|Watch me while I work work work",
+          "text": "Watch me while I work work work",
+          "segments": [
+            "Watch ",
+            "me ",
+            "while ",
+            "I ",
+            "work ",
+            "work ",
+            "work"
+          ]
+        },
+        {
+          "key": "247809|Yeah now let me do my work work work daddy",
+          "text": "Yeah now let me do my work work work daddy",
+          "segments": [
+            "Yeah ",
+            "now ",
+            "let ",
+            "me ",
+            "do ",
+            "my ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        },
+        {
+          "key": "253348|Watch me while I work work work daddy",
+          "text": "Watch me while I work work work daddy",
+          "segments": [
+            "Watch ",
+            "me ",
+            "while ",
+            "I ",
+            "work ",
+            "work ",
+            "work ",
+            "daddy"
+          ]
+        }
+      ]
+    }
+  ]
+}
