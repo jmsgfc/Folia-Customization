@@ -1,0 +1,1480 @@
+{
+  "batchNumber": 79,
+  "songs": [
+    {
+      "rank": 391,
+      "songKey": "online:kugou:9ad80ad4ff01a70ea0875e245ed23410",
+      "name": "猜不透 (说唱版)",
+      "artist": "X.Y.L / 覆予 / 歪歪超",
+      "lines": [
+        {
+          "key": "88|X.Y.L、覆予、歪歪超 - 猜不透 (说唱版)",
+          "startMs": 88,
+          "text": "X.Y.L、覆予、歪歪超 - 猜不透 (说唱版)"
+        },
+        {
+          "key": "469|作词：黄婷",
+          "startMs": 469,
+          "text": "作词：黄婷"
+        },
+        {
+          "key": "621|作曲：林迈可",
+          "startMs": 621,
+          "text": "作曲：林迈可"
+        },
+        {
+          "key": "774|原唱：丁当",
+          "startMs": 774,
+          "text": "原唱：丁当"
+        },
+        {
+          "key": "1067|如果忽远忽近的洒脱",
+          "startMs": 1067,
+          "text": "如果忽远忽近的洒脱"
+        },
+        {
+          "key": "4835|是你要的自由",
+          "startMs": 4835,
+          "text": "是你要的自由"
+        },
+        {
+          "key": "7277|那我宁愿回到一个人生活",
+          "startMs": 7277,
+          "text": "那我宁愿回到一个人生活"
+        },
+        {
+          "key": "13659|Yeah ",
+          "startMs": 13659,
+          "text": "Yeah "
+        },
+        {
+          "key": "13966|我也不知道我到底该怎么做",
+          "startMs": 13966,
+          "text": "我也不知道我到底该怎么做"
+        },
+        {
+          "key": "16005|才能在你眼里不算错",
+          "startMs": 16005,
+          "text": "才能在你眼里不算错"
+        },
+        {
+          "key": "17455|为什么后来感觉你对我的",
+          "startMs": 17455,
+          "text": "为什么后来感觉你对我的"
+        },
+        {
+          "key": "19037|爱意渐强渐弱",
+          "startMs": 19037,
+          "text": "爱意渐强渐弱"
+        },
+        {
+          "key": "20553|反复的忽冷忽热",
+          "startMs": 20553,
+          "text": "反复的忽冷忽热"
+        },
+        {
+          "key": "22026|又对我无声无色",
+          "startMs": 22026,
+          "text": "又对我无声无色"
+        },
+        {
+          "key": "23599|热恋到冷漠又到我们",
+          "startMs": 23599,
+          "text": "热恋到冷漠又到我们"
+        },
+        {
+          "key": "25127|互相闷闷不乐",
+          "startMs": 25127,
+          "text": "互相闷闷不乐"
+        },
+        {
+          "key": "26043|变得束手无策",
+          "startMs": 26043,
+          "text": "变得束手无策"
+        },
+        {
+          "key": "27409|黑夜的寂静总是打扰了",
+          "startMs": 27409,
+          "text": "黑夜的寂静总是打扰了"
+        },
+        {
+          "key": "29537|我让我胡思乱想",
+          "startMs": 29537,
+          "text": "我让我胡思乱想"
+        },
+        {
+          "key": "30878|想到碎裂的爱情",
+          "startMs": 30878,
+          "text": "想到碎裂的爱情"
+        },
+        {
+          "key": "32097|总是自言自语在乱讲",
+          "startMs": 32097,
+          "text": "总是自言自语在乱讲"
+        },
+        {
+          "key": "33979|或许我埋怨着埋怨你欺骗了",
+          "startMs": 33979,
+          "text": "或许我埋怨着埋怨你欺骗了"
+        },
+        {
+          "key": "36719|还原了每天夜里",
+          "startMs": 36719,
+          "text": "还原了每天夜里"
+        },
+        {
+          "key": "37845|你对我爱又不爱的现场",
+          "startMs": 37845,
+          "text": "你对我爱又不爱的现场"
+        },
+        {
+          "key": "39832|Wu ",
+          "startMs": 39832,
+          "text": "Wu "
+        },
+        {
+          "key": "40378|或许我早不配和你",
+          "startMs": 40378,
+          "text": "或许我早不配和你"
+        },
+        {
+          "key": "41959|谈论这爱了",
+          "startMs": 41959,
+          "text": "谈论这爱了"
+        },
+        {
+          "key": "43384|或许我早该猜到",
+          "startMs": 43384,
+          "text": "或许我早该猜到"
+        },
+        {
+          "key": "44867|我们会分开的",
+          "startMs": 44867,
+          "text": "我们会分开的"
+        },
+        {
+          "key": "47696|你喜欢自由自在",
+          "startMs": 47696,
+          "text": "你喜欢自由自在"
+        },
+        {
+          "key": "49174|所以全都不意外",
+          "startMs": 49174,
+          "text": "所以全都不意外"
+        },
+        {
+          "key": "50806|或许我离开你会更快乐",
+          "startMs": 50806,
+          "text": "或许我离开你会更快乐"
+        },
+        {
+          "key": "53713|在傍晚聆听着乌鸦的叫声",
+          "startMs": 53713,
+          "text": "在傍晚聆听着乌鸦的叫声"
+        },
+        {
+          "key": "55498|和晚风的怒吼",
+          "startMs": 55498,
+          "text": "和晚风的怒吼"
+        },
+        {
+          "key": "56522|时间终于等到了我",
+          "startMs": 56522,
+          "text": "时间终于等到了我"
+        },
+        {
+          "key": "57845|该面临选择的岔路口",
+          "startMs": 57845,
+          "text": "该面临选择的岔路口"
+        },
+        {
+          "key": "59677|也不再做感情上",
+          "startMs": 59677,
+          "text": "也不再做感情上"
+        },
+        {
+          "key": "60899|被操控的木偶",
+          "startMs": 60899,
+          "text": "被操控的木偶"
+        },
+        {
+          "key": "62074|只想要留下尊严足够",
+          "startMs": 62074,
+          "text": "只想要留下尊严足够"
+        },
+        {
+          "key": "63602|能够把自己从中赎救",
+          "startMs": 63602,
+          "text": "能够把自己从中赎救"
+        },
+        {
+          "key": "65330|就当我们幸福后",
+          "startMs": 65330,
+          "text": "就当我们幸福后"
+        },
+        {
+          "key": "66447|还是缘分不够",
+          "startMs": 66447,
+          "text": "还是缘分不够"
+        },
+        {
+          "key": "67413|对你永远猜不透",
+          "startMs": 67413,
+          "text": "对你永远猜不透"
+        },
+        {
+          "key": "68585|如果忽远忽近的洒脱",
+          "startMs": 68585,
+          "text": "如果忽远忽近的洒脱"
+        },
+        {
+          "key": "71890|是你要的自由",
+          "startMs": 71890,
+          "text": "是你要的自由"
+        },
+        {
+          "key": "74540|那我宁愿回到一个人生活",
+          "startMs": 74540,
+          "text": "那我宁愿回到一个人生活"
+        },
+        {
+          "key": "80954|如果忽冷忽热的温柔",
+          "startMs": 80954,
+          "text": "如果忽冷忽热的温柔"
+        },
+        {
+          "key": "84773|是你的借口",
+          "startMs": 84773,
+          "text": "是你的借口"
+        },
+        {
+          "key": "87265|那我宁愿对你从没认真过",
+          "startMs": 87265,
+          "text": "那我宁愿对你从没认真过"
+        },
+        {
+          "key": "106717|猜不透",
+          "startMs": 106717,
+          "text": "猜不透"
+        },
+        {
+          "key": "110575|相处会比分开还寂寞",
+          "startMs": 110575,
+          "text": "相处会比分开还寂寞"
+        },
+        {
+          "key": "116531|两个人都只是得过且过",
+          "startMs": 116531,
+          "text": "两个人都只是得过且过"
+        },
+        {
+          "key": "123456|无法感受每次触摸",
+          "startMs": 123456,
+          "text": "无法感受每次触摸"
+        },
+        {
+          "key": "128515|是真的是热的",
+          "startMs": 128515,
+          "text": "是真的是热的"
+        },
+        {
+          "key": "135399|如果忽远忽近的洒脱",
+          "startMs": 135399,
+          "text": "如果忽远忽近的洒脱"
+        },
+        {
+          "key": "139165|是你要的自由",
+          "startMs": 139165,
+          "text": "是你要的自由"
+        },
+        {
+          "key": "141706|那我宁愿回到一个人生活",
+          "startMs": 141706,
+          "text": "那我宁愿回到一个人生活"
+        },
+        {
+          "key": "148113|如果忽冷忽热的温柔",
+          "startMs": 148113,
+          "text": "如果忽冷忽热的温柔"
+        },
+        {
+          "key": "152034|是你的借口",
+          "startMs": 152034,
+          "text": "是你的借口"
+        },
+        {
+          "key": "154528|那我宁愿对你从没认真过",
+          "startMs": 154528,
+          "text": "那我宁愿对你从没认真过"
+        },
+        {
+          "key": "161153|如果忽远忽近的洒脱",
+          "startMs": 161153,
+          "text": "如果忽远忽近的洒脱"
+        },
+        {
+          "key": "164661|是你要的自由",
+          "startMs": 164661,
+          "text": "是你要的自由"
+        },
+        {
+          "key": "167303|那我宁愿回到一个人生活",
+          "startMs": 167303,
+          "text": "那我宁愿回到一个人生活"
+        },
+        {
+          "key": "173841|如果忽冷忽热的温柔",
+          "startMs": 173841,
+          "text": "如果忽冷忽热的温柔"
+        },
+        {
+          "key": "177606|是你的借口",
+          "startMs": 177606,
+          "text": "是你的借口"
+        },
+        {
+          "key": "180257|那我宁愿对你从没认真过",
+          "startMs": 180257,
+          "text": "那我宁愿对你从没认真过"
+        },
+        {
+          "key": "186840|到底这感觉谁对谁错",
+          "startMs": 186840,
+          "text": "到底这感觉谁对谁错"
+        },
+        {
+          "key": "190402|我已不想追究",
+          "startMs": 190402,
+          "text": "我已不想追究"
+        },
+        {
+          "key": "192947|越是在乎的人越是猜不透",
+          "startMs": 192947,
+          "text": "越是在乎的人越是猜不透"
+        }
+      ]
+    },
+    {
+      "rank": 392,
+      "songKey": "online:kugou:8e65c56a89074e860041bcc135e97c93",
+      "name": "曾经你说 (说唱版)",
+      "artist": "赵乃吉 / 刘兆宇",
+      "lines": [
+        {
+          "key": "0|曾经你说（说唱版）-赵乃吉/刘兆宇",
+          "startMs": 0,
+          "text": "曾经你说（说唱版）-赵乃吉/刘兆宇"
+        },
+        {
+          "key": "297|词：李师珏/张博文/刘兆宇",
+          "startMs": 297,
+          "text": "词：李师珏/张博文/刘兆宇"
+        },
+        {
+          "key": "594|曲：李师珏/张博文/刘兆宇",
+          "startMs": 594,
+          "text": "曲：李师珏/张博文/刘兆宇"
+        },
+        {
+          "key": "891|音乐制作人：楠哈哈",
+          "startMs": 891,
+          "text": "音乐制作人：楠哈哈"
+        },
+        {
+          "key": "1188|编曲：楠哈哈",
+          "startMs": 1188,
+          "text": "编曲：楠哈哈"
+        },
+        {
+          "key": "1485|吉他：Tommy Wu ",
+          "startMs": 1485,
+          "text": "吉他：Tommy Wu "
+        },
+        {
+          "key": "1782|混音/母带：张海庚",
+          "startMs": 1782,
+          "text": "混音/母带：张海庚"
+        },
+        {
+          "key": "2079|制作统筹：刘思萌",
+          "startMs": 2079,
+          "text": "制作统筹：刘思萌"
+        },
+        {
+          "key": "2376|监制：张博文/涂涂/李师珏",
+          "startMs": 2376,
+          "text": "监制：张博文/涂涂/李师珏"
+        },
+        {
+          "key": "2673|营销推广：奇点万音@华声时代",
+          "startMs": 2673,
+          "text": "营销推广：奇点万音@华声时代"
+        },
+        {
+          "key": "2970|制作/OP：天津华昇集团有限公司",
+          "startMs": 2970,
+          "text": "制作/OP：天津华昇集团有限公司"
+        },
+        {
+          "key": "3267|出品/发行：华声时代",
+          "startMs": 3267,
+          "text": "出品/发行：华声时代"
+        },
+        {
+          "key": "3570|赵乃吉：",
+          "startMs": 3570,
+          "text": "赵乃吉："
+        },
+        {
+          "key": "4230|你说看星空看日落",
+          "startMs": 4230,
+          "text": "你说看星空看日落"
+        },
+        {
+          "key": "5580|不如看我的眼眸",
+          "startMs": 5580,
+          "text": "不如看我的眼眸"
+        },
+        {
+          "key": "9450|用尽每一分每一秒",
+          "startMs": 9450,
+          "text": "用尽每一分每一秒"
+        },
+        {
+          "key": "12000|在身旁为我停留",
+          "startMs": 12000,
+          "text": "在身旁为我停留"
+        },
+        {
+          "key": "14010|刘兆宇：",
+          "startMs": 14010,
+          "text": "刘兆宇："
+        },
+        {
+          "key": "17910|一个人看日落",
+          "startMs": 17910,
+          "text": "一个人看日落"
+        },
+        {
+          "key": "19020|难免还是有些不习惯",
+          "startMs": 19020,
+          "text": "难免还是有些不习惯"
+        },
+        {
+          "key": "20940|无言的晚风",
+          "startMs": 20940,
+          "text": "无言的晚风"
+        },
+        {
+          "key": "21990|能否带走我们的遗憾",
+          "startMs": 21990,
+          "text": "能否带走我们的遗憾"
+        },
+        {
+          "key": "23760|“她还好吗”",
+          "startMs": 23760,
+          "text": "“她还好吗”"
+        },
+        {
+          "key": "24930|是我向朋友打听过最多的问题",
+          "startMs": 24930,
+          "text": "是我向朋友打听过最多的问题"
+        },
+        {
+          "key": "27360|回不去的曾经",
+          "startMs": 27360,
+          "text": "回不去的曾经"
+        },
+        {
+          "key": "28560|和早已无法越过的距离",
+          "startMs": 28560,
+          "text": "和早已无法越过的距离"
+        },
+        {
+          "key": "30600|你的声音围绕耳边",
+          "startMs": 30600,
+          "text": "你的声音围绕耳边"
+        },
+        {
+          "key": "32130|熟悉又陌生的画面",
+          "startMs": 32130,
+          "text": "熟悉又陌生的画面"
+        },
+        {
+          "key": "33750|我自以为很懂深情",
+          "startMs": 33750,
+          "text": "我自以为很懂深情"
+        },
+        {
+          "key": "35130|却最先退出你的世界",
+          "startMs": 35130,
+          "text": "却最先退出你的世界"
+        },
+        {
+          "key": "36960|没有了你的关心",
+          "startMs": 36960,
+          "text": "没有了你的关心"
+        },
+        {
+          "key": "38160|恍惚间总不知所措",
+          "startMs": 38160,
+          "text": "恍惚间总不知所措"
+        },
+        {
+          "key": "40140|照顾好自己忘掉过去",
+          "startMs": 40140,
+          "text": "照顾好自己忘掉过去"
+        },
+        {
+          "key": "41760|当我从没来过",
+          "startMs": 41760,
+          "text": "当我从没来过"
+        },
+        {
+          "key": "43110|赵乃吉：",
+          "startMs": 43110,
+          "text": "赵乃吉："
+        },
+        {
+          "key": "43410|你说那暖风那云朵",
+          "startMs": 43410,
+          "text": "你说那暖风那云朵"
+        },
+        {
+          "key": "45570|都不及你的深情",
+          "startMs": 45570,
+          "text": "都不及你的深情"
+        },
+        {
+          "key": "49380|哪怕某一年某一天",
+          "startMs": 49380,
+          "text": "哪怕某一年某一天"
+        },
+        {
+          "key": "51870|时光会慢慢倒流",
+          "startMs": 51870,
+          "text": "时光会慢慢倒流"
+        },
+        {
+          "key": "55890|转身的时候忍不住想把你挽留",
+          "startMs": 55890,
+          "text": "转身的时候忍不住想把你挽留"
+        },
+        {
+          "key": "61530|可最后你还是要走",
+          "startMs": 61530,
+          "text": "可最后你还是要走"
+        },
+        {
+          "key": "67500|刘兆宇：",
+          "startMs": 67500,
+          "text": "刘兆宇："
+        },
+        {
+          "key": "68160|我必须要走",
+          "startMs": 68160,
+          "text": "我必须要走"
+        },
+        {
+          "key": "69420|卡在喉咙的话",
+          "startMs": 69420,
+          "text": "卡在喉咙的话"
+        },
+        {
+          "key": "70560|我偷偷讲给风听",
+          "startMs": 70560,
+          "text": "我偷偷讲给风听"
+        },
+        {
+          "key": "72570|明明无法做到",
+          "startMs": 72570,
+          "text": "明明无法做到"
+        },
+        {
+          "key": "73560|旁人口中的云淡风轻",
+          "startMs": 73560,
+          "text": "旁人口中的云淡风轻"
+        },
+        {
+          "key": "75390|你最近怎么样",
+          "startMs": 75390,
+          "text": "你最近怎么样"
+        },
+        {
+          "key": "76530|熟悉的号码无法再去联系",
+          "startMs": 76530,
+          "text": "熟悉的号码无法再去联系"
+        },
+        {
+          "key": "78570|两个人的天秤却要靠彼此沉默去维系",
+          "startMs": 78570,
+          "text": "两个人的天秤却要靠彼此沉默去维系"
+        },
+        {
+          "key": "81330|赵乃吉/刘兆宇：",
+          "startMs": 81330,
+          "text": "赵乃吉/刘兆宇："
+        },
+        {
+          "key": "81870|不是我的身边多了她是不是你的身边多了一个她",
+          "startMs": 81870,
+          "text": "不是我的身边多了她是不是你的身边多了一个她"
+        },
+        {
+          "key": "84660|而是我的回避隔开了我们",
+          "startMs": 84660,
+          "text": "而是我的回避隔开了我们"
+        },
+        {
+          "key": "85560|怪我忽视了你的付出",
+          "startMs": 85560,
+          "text": "怪我忽视了你的付出"
+        },
+        {
+          "key": "86610|让你眼中的我判若两人",
+          "startMs": 86610,
+          "text": "让你眼中的我判若两人"
+        },
+        {
+          "key": "88560|其实是我能够给的不多是不是我能给的还是不够多",
+          "startMs": 88560,
+          "text": "其实是我能够给的不多是不是我能给的还是不够多"
+        },
+        {
+          "key": "91230|才让你的失望加深",
+          "startMs": 91230,
+          "text": "才让你的失望加深"
+        },
+        {
+          "key": "91890|或许我的离开",
+          "startMs": 91890,
+          "text": "或许我的离开"
+        },
+        {
+          "key": "92760|才能平抚你内心的伤痕",
+          "startMs": 92760,
+          "text": "才能平抚你内心的伤痕"
+        },
+        {
+          "key": "94560|我什么都不要你要什么",
+          "startMs": 94560,
+          "text": "我什么都不要你要什么"
+        },
+        {
+          "key": "95790|偏偏差你离别的拥抱曾经",
+          "startMs": 95790,
+          "text": "偏偏差你离别的拥抱曾经"
+        },
+        {
+          "key": "97560|你说看星空看日落",
+          "startMs": 97560,
+          "text": "你说看星空看日落"
+        },
+        {
+          "key": "99960|不如看我的眼眸我记得",
+          "startMs": 99960,
+          "text": "不如看我的眼眸我记得"
+        },
+        {
+          "key": "103860|用尽每一分每一秒",
+          "startMs": 103860,
+          "text": "用尽每一分每一秒"
+        },
+        {
+          "key": "106380|在身旁为我停留在身旁为你停留",
+          "startMs": 106380,
+          "text": "在身旁为我停留在身旁为你停留"
+        },
+        {
+          "key": "110310|我信以为真一句句刻在我心头",
+          "startMs": 110310,
+          "text": "我信以为真一句句刻在我心头"
+        },
+        {
+          "key": "115920|换来了忘不掉的痛换来了忘不掉的痛",
+          "startMs": 115920,
+          "text": "换来了忘不掉的痛换来了忘不掉的痛"
+        },
+        {
+          "key": "121440|曾经",
+          "startMs": 121440,
+          "text": "曾经"
+        },
+        {
+          "key": "123090|你说那暖风那云朵",
+          "startMs": 123090,
+          "text": "你说那暖风那云朵"
+        },
+        {
+          "key": "125580|都不及你的深情又怎会忘",
+          "startMs": 125580,
+          "text": "都不及你的深情又怎会忘"
+        },
+        {
+          "key": "129390|哪怕某一年某一天",
+          "startMs": 129390,
+          "text": "哪怕某一年某一天"
+        },
+        {
+          "key": "131940|时光会慢慢倒流时光会慢慢倒流",
+          "startMs": 131940,
+          "text": "时光会慢慢倒流时光会慢慢倒流"
+        },
+        {
+          "key": "135930|转身的时候忍不住想把你挽留",
+          "startMs": 135930,
+          "text": "转身的时候忍不住想把你挽留"
+        },
+        {
+          "key": "141480|可最后你还是要走对不起我还是要走",
+          "startMs": 141480,
+          "text": "可最后你还是要走对不起我还是要走"
+        },
+        {
+          "key": "159690|我记得所有给你的承诺曾经你说那暖风那云朵都不及你的深情",
+          "startMs": 159690,
+          "text": "我记得所有给你的承诺曾经你说那暖风那云朵都不及你的深情"
+        },
+        {
+          "key": "163020|刻在脑海又怎会忘",
+          "startMs": 163020,
+          "text": "刻在脑海又怎会忘"
+        },
+        {
+          "key": "164340|没能力给你想要的生活",
+          "startMs": 164340,
+          "text": "没能力给你想要的生活"
+        },
+        {
+          "key": "166200|不如不在你身旁",
+          "startMs": 166200,
+          "text": "不如不在你身旁"
+        },
+        {
+          "key": "167370|说好一辈子挽着手臂哪怕某一年某一天时光会慢慢倒流",
+          "startMs": 167370,
+          "text": "说好一辈子挽着手臂哪怕某一年某一天时光会慢慢倒流"
+        },
+        {
+          "key": "170190|后悔当初是我没勇气",
+          "startMs": 170190,
+          "text": "后悔当初是我没勇气"
+        },
+        {
+          "key": "170790|希望某年某月时光倒流",
+          "startMs": 170790,
+          "text": "希望某年某月时光倒流"
+        },
+        {
+          "key": "172380|这次的我一定不躲避",
+          "startMs": 172380,
+          "text": "这次的我一定不躲避"
+        },
+        {
+          "key": "173760|我不愿转身转身的时候忍不住想把你挽留",
+          "startMs": 173760,
+          "text": "我不愿转身转身的时候忍不住想把你挽留"
+        },
+        {
+          "key": "175500|生怕这眼泪会停不住",
+          "startMs": 175500,
+          "text": "生怕这眼泪会停不住"
+        },
+        {
+          "key": "176970|这答卷你满分",
+          "startMs": 176970,
+          "text": "这答卷你满分"
+        },
+        {
+          "key": "178140|最后却依然被辜负",
+          "startMs": 178140,
+          "text": "最后却依然被辜负"
+        },
+        {
+          "key": "180210|空荡的双人床可最后你还是要走",
+          "startMs": 180210,
+          "text": "空荡的双人床可最后你还是要走"
+        },
+        {
+          "key": "181380|如今不会有人将我再抱起",
+          "startMs": 181380,
+          "text": "如今不会有人将我再抱起"
+        },
+        {
+          "key": "183570|对你的思念",
+          "startMs": 183570,
+          "text": "对你的思念"
+        },
+        {
+          "key": "184350|永久保存在你没带走的外套里",
+          "startMs": 184350,
+          "text": "永久保存在你没带走的外套里"
+        },
+        {
+          "key": "186600|可最后你还是要走我走了",
+          "startMs": 186600,
+          "text": "可最后你还是要走我走了"
+        }
+      ]
+    },
+    {
+      "rank": 393,
+      "songKey": "online:kugou:843eee8d9373bc81c8fb5fd9955beca8",
+      "name": "Starry Skies",
+      "artist": "The Darkmaker / GY",
+      "lines": [
+        {
+          "key": "0|The Darkmaker、GY - Starry Skies",
+          "startMs": 0,
+          "text": "The Darkmaker、GY - Starry Skies"
+        },
+        {
+          "key": "868|Lyric by：The Darkmaker",
+          "startMs": 868,
+          "text": "Lyric by：The Darkmaker"
+        },
+        {
+          "key": "873|Composed by：The Darkmaker",
+          "startMs": 873,
+          "text": "Composed by：The Darkmaker"
+        },
+        {
+          "key": "5833|GY：",
+          "startMs": 5833,
+          "text": "GY："
+        },
+        {
+          "key": "11045|Another star getting darker",
+          "startMs": 11045,
+          "text": "Another star getting darker"
+        },
+        {
+          "key": "13996|The sky was grey",
+          "startMs": 13996,
+          "text": "The sky was grey"
+        },
+        {
+          "key": "15511|What if my life slipped away oh",
+          "startMs": 15511,
+          "text": "What if my life slipped away oh"
+        },
+        {
+          "key": "20060|Sometimes I feel I'm hangovers",
+          "startMs": 20060,
+          "text": "Sometimes I feel I'm hangovers"
+        },
+        {
+          "key": "23023|Then fear remains",
+          "startMs": 23023,
+          "text": "Then fear remains"
+        },
+        {
+          "key": "24602|Too many things to face can't take the pain",
+          "startMs": 24602,
+          "text": "Too many things to face can't take the pain"
+        },
+        {
+          "key": "29029|When I heard someone who",
+          "startMs": 29029,
+          "text": "When I heard someone who"
+        },
+        {
+          "key": "33193|Couldn't hold on to life oh",
+          "startMs": 33193,
+          "text": "Couldn't hold on to life oh"
+        },
+        {
+          "key": "37877|I'd look up to the sky it's big and wide",
+          "startMs": 37877,
+          "text": "I'd look up to the sky it's big and wide"
+        },
+        {
+          "key": "42095|Then for this tiny heart it gives me comfort all the time",
+          "startMs": 42095,
+          "text": "Then for this tiny heart it gives me comfort all the time"
+        },
+        {
+          "key": "46811|There're starry skies and meteors shining bright",
+          "startMs": 46811,
+          "text": "There're starry skies and meteors shining bright"
+        },
+        {
+          "key": "51427|They brought us light in every darkest night",
+          "startMs": 51427,
+          "text": "They brought us light in every darkest night"
+        },
+        {
+          "key": "55486|Who's gonna watch them coming up and they faded out",
+          "startMs": 55486,
+          "text": "Who's gonna watch them coming up and they faded out"
+        },
+        {
+          "key": "60432|They still cheer me up but always in the silence",
+          "startMs": 60432,
+          "text": "They still cheer me up but always in the silence"
+        },
+        {
+          "key": "78830|The Darkmaker：",
+          "startMs": 78830,
+          "text": "The Darkmaker："
+        },
+        {
+          "key": "84221|I could never let you down",
+          "startMs": 84221,
+          "text": "I could never let you down"
+        },
+        {
+          "key": "87042|My love is here and for you now",
+          "startMs": 87042,
+          "text": "My love is here and for you now"
+        },
+        {
+          "key": "89125|It's been long just when you said",
+          "startMs": 89125,
+          "text": "It's been long just when you said"
+        },
+        {
+          "key": "91283|So hard to express your heart",
+          "startMs": 91283,
+          "text": "So hard to express your heart"
+        },
+        {
+          "key": "93282|If you're lonely you can try to call my phone",
+          "startMs": 93282,
+          "text": "If you're lonely you can try to call my phone"
+        },
+        {
+          "key": "95267|Or to send a message I'll be at your home",
+          "startMs": 95267,
+          "text": "Or to send a message I'll be at your home"
+        },
+        {
+          "key": "97902|Cause in no cases can I just have you alone oh",
+          "startMs": 97902,
+          "text": "Cause in no cases can I just have you alone oh"
+        },
+        {
+          "key": "102522|We're in the times when negatives all around",
+          "startMs": 102522,
+          "text": "We're in the times when negatives all around"
+        },
+        {
+          "key": "106565|But we are still in need of shining light that's from the sun",
+          "startMs": 106565,
+          "text": "But we are still in need of shining light that's from the sun"
+        },
+        {
+          "key": "110495|So get it out of mind and live your life just from now",
+          "startMs": 110495,
+          "text": "So get it out of mind and live your life just from now"
+        },
+        {
+          "key": "115294|If you search you will see the good things never getting down",
+          "startMs": 115294,
+          "text": "If you search you will see the good things never getting down"
+        },
+        {
+          "key": "119315|Both：",
+          "startMs": 119315,
+          "text": "Both："
+        },
+        {
+          "key": "120079|There're starry skies and meteors shining bright",
+          "startMs": 120079,
+          "text": "There're starry skies and meteors shining bright"
+        },
+        {
+          "key": "124573|They brought us light in every darkest night",
+          "startMs": 124573,
+          "text": "They brought us light in every darkest night"
+        },
+        {
+          "key": "128561|Who's gonna watch them coming up and they faded out",
+          "startMs": 128561,
+          "text": "Who's gonna watch them coming up and they faded out"
+        },
+        {
+          "key": "133176|They still cheer me up but always in the silence",
+          "startMs": 133176,
+          "text": "They still cheer me up but always in the silence"
+        }
+      ]
+    },
+    {
+      "rank": 394,
+      "songKey": "online:kugou:e04c20971c8a581c35333990de5683d7",
+      "name": "I Really Like You",
+      "artist": "Sabrina(萨布丽娜·萨勒诺)",
+      "lines": [
+        {
+          "key": "0|I Really Like You - Sabrina",
+          "startMs": 0,
+          "text": "I Really Like You - Sabrina"
+        },
+        {
+          "key": "910|I really wanna stop",
+          "startMs": 910,
+          "text": "I really wanna stop"
+        },
+        {
+          "key": "2270|But I just gotta taste for it",
+          "startMs": 2270,
+          "text": "But I just gotta taste for it"
+        },
+        {
+          "key": "4789|I feel like I could fly with the ball on the moon",
+          "startMs": 4789,
+          "text": "I feel like I could fly with the ball on the moon"
+        },
+        {
+          "key": "8599|So honey hold my hand you like making me wait for it",
+          "startMs": 8599,
+          "text": "So honey hold my hand you like making me wait for it"
+        },
+        {
+          "key": "12639|I feel I could die walking up to the room oh yeah",
+          "startMs": 12639,
+          "text": "I feel I could die walking up to the room oh yeah"
+        },
+        {
+          "key": "17888|Late night watching television",
+          "startMs": 17888,
+          "text": "Late night watching television"
+        },
+        {
+          "key": "21698|But how we get in this position",
+          "startMs": 21698,
+          "text": "But how we get in this position"
+        },
+        {
+          "key": "25588|It's way too soon I know this isn't love",
+          "startMs": 25588,
+          "text": "It's way too soon I know this isn't love"
+        },
+        {
+          "key": "32068|But I need to tell you something",
+          "startMs": 32068,
+          "text": "But I need to tell you something"
+        },
+        {
+          "key": "34057|I really really really really really really like you",
+          "startMs": 34057,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "38576|And I want you do you want me do you want me too",
+          "startMs": 38576,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "42105|I really really really really really really like you",
+          "startMs": 42105,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "46555|And I want you do you want me do you want me too",
+          "startMs": 46555,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "50005|Oh did I say too much",
+          "startMs": 50005,
+          "text": "Oh did I say too much"
+        },
+        {
+          "key": "53155|I'm so in my head",
+          "startMs": 53155,
+          "text": "I'm so in my head"
+        },
+        {
+          "key": "55045|When we're out of touch",
+          "startMs": 55045,
+          "text": "When we're out of touch"
+        },
+        {
+          "key": "57785|I really really really really really really like you",
+          "startMs": 57785,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "62565|And I want you do you want me do you want me too",
+          "startMs": 62565,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "66275|It's like everything you say is a sweet revelation",
+          "startMs": 66275,
+          "text": "It's like everything you say is a sweet revelation"
+        },
+        {
+          "key": "70795|All I wanna do is get into your head",
+          "startMs": 70795,
+          "text": "All I wanna do is get into your head"
+        },
+        {
+          "key": "74695|Yeah we could stay alone you and me and this temptation",
+          "startMs": 74695,
+          "text": "Yeah we could stay alone you and me and this temptation"
+        },
+        {
+          "key": "78605|Sipping on your lips hanging on by thread baby",
+          "startMs": 78605,
+          "text": "Sipping on your lips hanging on by thread baby"
+        },
+        {
+          "key": "83825|Late night watching television",
+          "startMs": 83825,
+          "text": "Late night watching television"
+        },
+        {
+          "key": "87685|But how we get in this position",
+          "startMs": 87685,
+          "text": "But how we get in this position"
+        },
+        {
+          "key": "91715|It's way too soon I know this isn't love",
+          "startMs": 91715,
+          "text": "It's way too soon I know this isn't love"
+        },
+        {
+          "key": "98065|But I need to tell you something",
+          "startMs": 98065,
+          "text": "But I need to tell you something"
+        },
+        {
+          "key": "99875|I really really really really really really like you",
+          "startMs": 99875,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "104655|And I want you do you want me do you want me too",
+          "startMs": 104655,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "108135|I really really really really really really like you",
+          "startMs": 108135,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "112525|And I want you do you want me do you want me too",
+          "startMs": 112525,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "116095|Oh did I say too much",
+          "startMs": 116095,
+          "text": "Oh did I say too much"
+        },
+        {
+          "key": "119185|I'm so in my head",
+          "startMs": 119185,
+          "text": "I'm so in my head"
+        },
+        {
+          "key": "121135|When we're out of touch",
+          "startMs": 121135,
+          "text": "When we're out of touch"
+        },
+        {
+          "key": "124005|I really really really really really really like you",
+          "startMs": 124005,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "128494|And I want you do you want me do you want me too",
+          "startMs": 128494,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "132164|Who gave you eyes like that",
+          "startMs": 132164,
+          "text": "Who gave you eyes like that"
+        },
+        {
+          "key": "134284|Said you could keep them",
+          "startMs": 134284,
+          "text": "Said you could keep them"
+        },
+        {
+          "key": "136103|I don't know how to act",
+          "startMs": 136103,
+          "text": "I don't know how to act"
+        },
+        {
+          "key": "137633|The way I should be leaving",
+          "startMs": 137633,
+          "text": "The way I should be leaving"
+        },
+        {
+          "key": "140013|I'm running out of time",
+          "startMs": 140013,
+          "text": "I'm running out of time"
+        },
+        {
+          "key": "142013|Going out of my mind",
+          "startMs": 142013,
+          "text": "Going out of my mind"
+        },
+        {
+          "key": "144003|I need to tell you something",
+          "startMs": 144003,
+          "text": "I need to tell you something"
+        },
+        {
+          "key": "145993|I'm pregnant Just kidding",
+          "startMs": 145993,
+          "text": "I'm pregnant Just kidding"
+        },
+        {
+          "key": "148082|Yeah I really really really really really really like you",
+          "startMs": 148082,
+          "text": "Yeah I really really really really really really like you"
+        },
+        {
+          "key": "152971|And I want you do you want me do you want me too",
+          "startMs": 152971,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "156511|I really really really really really really like you",
+          "startMs": 156511,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "161031|And I want you do you want me do you want me too",
+          "startMs": 161031,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "164190|Oh did I say too much",
+          "startMs": 164190,
+          "text": "Oh did I say too much"
+        },
+        {
+          "key": "167400|I'm so in my head",
+          "startMs": 167400,
+          "text": "I'm so in my head"
+        },
+        {
+          "key": "169620|When we're out of touch",
+          "startMs": 169620,
+          "text": "When we're out of touch"
+        },
+        {
+          "key": "172520|I really really really really really really like you",
+          "startMs": 172520,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "177060|And I want you do you want me do you want me too",
+          "startMs": 177060,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "180600|I really really really really really really like you",
+          "startMs": 180600,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "184990|And I want you do you want me do you want me too",
+          "startMs": 184990,
+          "text": "And I want you do you want me do you want me too"
+        },
+        {
+          "key": "188550|I really really really really really really like you",
+          "startMs": 188550,
+          "text": "I really really really really really really like you"
+        },
+        {
+          "key": "193010|And I want you do you want me do you want me too",
+          "startMs": 193010,
+          "text": "And I want you do you want me do you want me too"
+        }
+      ]
+    },
+    {
+      "rank": 395,
+      "songKey": "online:kugou:dfbdb95efdc613442b8e06cc8f5c9cd5",
+      "name": "golden hour",
+      "artist": "JVKE",
+      "lines": [
+        {
+          "key": "0|JVKE - golden hour",
+          "startMs": 0,
+          "text": "JVKE - golden hour"
+        },
+        {
+          "key": "414|Lyrics by：Jake Lawson、Zac Lawson",
+          "startMs": 414,
+          "text": "Lyrics by：Jake Lawson、Zac Lawson"
+        },
+        {
+          "key": "821|Composed by：Jake Lawson、Zac Lawson",
+          "startMs": 821,
+          "text": "Composed by：Jake Lawson、Zac Lawson"
+        },
+        {
+          "key": "15765|It was just two lovers",
+          "startMs": 15765,
+          "text": "It was just two lovers"
+        },
+        {
+          "key": "17631|Sittin' in the car listening to Blonde fallin' for each other",
+          "startMs": 17631,
+          "text": "Sittin' in the car listening to Blonde fallin' for each other"
+        },
+        {
+          "key": "21347|Pink and orange skies feelin' super childish no Donald Glover",
+          "startMs": 21347,
+          "text": "Pink and orange skies feelin' super childish no Donald Glover"
+        },
+        {
+          "key": "25178|Missed call from my mother",
+          "startMs": 25178,
+          "text": "Missed call from my mother"
+        },
+        {
+          "key": "27020|Like where you at tonight",
+          "startMs": 27020,
+          "text": "Like where you at tonight"
+        },
+        {
+          "key": "28079|Got no alibi I was all alone",
+          "startMs": 28079,
+          "text": "Got no alibi I was all alone"
+        },
+        {
+          "key": "30360|With the love of my life",
+          "startMs": 30360,
+          "text": "With the love of my life"
+        },
+        {
+          "key": "33945|She's got glitter for skin",
+          "startMs": 33945,
+          "text": "She's got glitter for skin"
+        },
+        {
+          "key": "36388|My radiant beam in the night",
+          "startMs": 36388,
+          "text": "My radiant beam in the night"
+        },
+        {
+          "key": "41044|I don't need no light to see you",
+          "startMs": 41044,
+          "text": "I don't need no light to see you"
+        },
+        {
+          "key": "46098|Shine",
+          "startMs": 46098,
+          "text": "Shine"
+        },
+        {
+          "key": "50296|It's your golden hour",
+          "startMs": 50296,
+          "text": "It's your golden hour"
+        },
+        {
+          "key": "58866|You slow down time",
+          "startMs": 58866,
+          "text": "You slow down time"
+        },
+        {
+          "key": "65464|In your golden hour",
+          "startMs": 65464,
+          "text": "In your golden hour"
+        },
+        {
+          "key": "76912|We were just two lovers",
+          "startMs": 76912,
+          "text": "We were just two lovers"
+        },
+        {
+          "key": "78410|Feet up on the dash drivin' nowhere fast burnin' through the summer",
+          "startMs": 78410,
+          "text": "Feet up on the dash drivin' nowhere fast burnin' through the summer"
+        },
+        {
+          "key": "82388|Radio on blast make the moment last she got solar power",
+          "startMs": 82388,
+          "text": "Radio on blast make the moment last she got solar power"
+        },
+        {
+          "key": "86140|Minutes feel like hours",
+          "startMs": 86140,
+          "text": "Minutes feel like hours"
+        },
+        {
+          "key": "88203|She knew she was the baddest",
+          "startMs": 88203,
+          "text": "She knew she was the baddest"
+        },
+        {
+          "key": "89347|Can you even imagine fallin' like I did",
+          "startMs": 89347,
+          "text": "Can you even imagine fallin' like I did"
+        },
+        {
+          "key": "91345|For the love of my life",
+          "startMs": 91345,
+          "text": "For the love of my life"
+        },
+        {
+          "key": "95139|She's got glow on her face",
+          "startMs": 95139,
+          "text": "She's got glow on her face"
+        },
+        {
+          "key": "97583|A glorious look in her eyes",
+          "startMs": 97583,
+          "text": "A glorious look in her eyes"
+        },
+        {
+          "key": "101948|My angel of light",
+          "startMs": 101948,
+          "text": "My angel of light"
+        },
+        {
+          "key": "105429|I was all alone with the love of my life",
+          "startMs": 105429,
+          "text": "I was all alone with the love of my life"
+        },
+        {
+          "key": "110403|She's got glitter for skin",
+          "startMs": 110403,
+          "text": "She's got glitter for skin"
+        },
+        {
+          "key": "112846|My radiant beam in the night",
+          "startMs": 112846,
+          "text": "My radiant beam in the night"
+        },
+        {
+          "key": "117283|I don't need no light to see you",
+          "startMs": 117283,
+          "text": "I don't need no light to see you"
+        },
+        {
+          "key": "122376|Shine",
+          "startMs": 122376,
+          "text": "Shine"
+        },
+        {
+          "key": "126451|It's your golden hour",
+          "startMs": 126451,
+          "text": "It's your golden hour"
+        },
+        {
+          "key": "135066|You slow down time",
+          "startMs": 135066,
+          "text": "You slow down time"
+        },
+        {
+          "key": "141713|In your golden hour",
+          "startMs": 141713,
+          "text": "In your golden hour"
+        }
+      ]
+    }
+  ]
+}

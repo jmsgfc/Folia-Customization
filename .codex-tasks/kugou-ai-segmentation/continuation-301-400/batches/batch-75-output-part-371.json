@@ -1,0 +1,369 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:d982aa787f6b8649607df1fbafc6cbe5",
+      "lines": [
+        {
+          "key": "0|光良、刘若英、五月天 - 童话 (Live)",
+          "text": "光良、刘若英、五月天 - 童话 (Live)",
+          "segments": [
+            "光良",
+            "、",
+            "刘若英",
+            "、",
+            "五月天",
+            " - ",
+            "童话",
+            " (Live)"
+          ]
+        },
+        {
+          "key": "0|作词 Lyricist：光良 Michael Wong/OP 星娱音乐有限公司 XYmusic Ltd.",
+          "text": "作词 Lyricist：光良 Michael Wong/OP 星娱音乐有限公司 XYmusic Ltd.",
+          "segments": [
+            "作词 Lyricist：",
+            "光良 Michael Wong",
+            "/",
+            "OP 星娱音乐有限公司 XYmusic Ltd."
+          ]
+        },
+        {
+          "key": "0|作曲 Composer：光良 Michael Wong/OP 星娱音乐有限公司 XYmusic Ltd.",
+          "text": "作曲 Composer：光良 Michael Wong/OP 星娱音乐有限公司 XYmusic Ltd.",
+          "segments": [
+            "作曲 Composer：",
+            "光良 Michael Wong",
+            "/",
+            "OP 星娱音乐有限公司 XYmusic Ltd."
+          ]
+        },
+        {
+          "key": "2257|编曲 Arranger：谢明祥 Shawn Xie",
+          "text": "编曲 Arranger：谢明祥 Shawn Xie",
+          "segments": [
+            "编曲 Arranger：",
+            "谢明祥 Shawn Xie"
+          ]
+        },
+        {
+          "key": "2517|制作人 Producer：光良 Michael Wong/陈建良 Eric Chen",
+          "text": "制作人 Producer：光良 Michael Wong/陈建良 Eric Chen",
+          "segments": [
+            "制作人 Producer：",
+            "光良 Michael Wong",
+            "/",
+            "陈建良 Eric Chen"
+          ]
+        },
+        {
+          "key": "2939|吉他 Guitar：钟承洋 Chung Cheng-Yang",
+          "text": "吉他 Guitar：钟承洋 Chung Cheng-Yang",
+          "segments": [
+            "吉他 Guitar：",
+            "钟承洋 Chung Cheng-Yang"
+          ]
+        },
+        {
+          "key": "3182|和声编写 Backing Vocal Arrangement：光良 Michael Wong",
+          "text": "和声编写 Backing Vocal Arrangement：光良 Michael Wong",
+          "segments": [
+            "和声",
+            "编写 ",
+            "Backing ",
+            "Vocal ",
+            "Arrangement",
+            "：",
+            "光良 ",
+            "Michael ",
+            "Wong"
+          ]
+        },
+        {
+          "key": "3554|和声 Backing Voca：光良 Michael Wong",
+          "text": "和声 Backing Voca：光良 Michael Wong",
+          "segments": [
+            "和声 Backing Voca：",
+            "光良 Michael Wong"
+          ]
+        },
+        {
+          "key": "3795|录音师 Recording Engineer：陈建良 Eric Chen",
+          "text": "录音师 Recording Engineer：陈建良 Eric Chen",
+          "segments": [
+            "录音师 Recording Engineer：",
+            "陈建良 Eric Chen"
+          ]
+        },
+        {
+          "key": "4146|混音师 Mixing Engineer：陈建良 Eric Chen",
+          "text": "混音师 Mixing Engineer：陈建良 Eric Chen",
+          "segments": [
+            "混音师 Mixing Engineer：",
+            "陈建良 Eric Chen"
+          ]
+        },
+        {
+          "key": "7716|我愿变成童话里 你爱的那个天使",
+          "text": "我愿变成童话里 你爱的那个天使",
+          "segments": [
+            "我",
+            "愿",
+            "变成",
+            "童话",
+            "里 ",
+            "你爱",
+            "的",
+            "那个",
+            "天使"
+          ]
+        },
+        {
+          "key": "14751|张开双手 变成翅膀守护你",
+          "text": "张开双手 变成翅膀守护你",
+          "segments": [
+            "张开",
+            "双手 ",
+            "变成",
+            "翅膀",
+            "守护",
+            "你"
+          ]
+        },
+        {
+          "key": "21517|你要相信 相信我们会像童话故事里",
+          "text": "你要相信 相信我们会像童话故事里",
+          "segments": [
+            "你要",
+            "相信 ",
+            "相信",
+            "我们",
+            "会",
+            "像",
+            "童话故事",
+            "里"
+          ]
+        },
+        {
+          "key": "29076|幸福和快乐是结局",
+          "text": "幸福和快乐是结局",
+          "segments": [
+            "幸福",
+            "和",
+            "快乐",
+            "是",
+            "结局"
+          ]
+        },
+        {
+          "key": "45990|忘了有多久 再没听到你",
+          "text": "忘了有多久 再没听到你",
+          "segments": [
+            "忘了",
+            "有",
+            "多久 ",
+            "再没",
+            "听到",
+            "你"
+          ]
+        },
+        {
+          "key": "52961|对我说你 最爱的故事",
+          "text": "对我说你 最爱的故事",
+          "segments": [
+            "对",
+            "我",
+            "说",
+            "你 ",
+            "最",
+            "爱的",
+            "故事"
+          ]
+        },
+        {
+          "key": "59831|我想了很久 我开始慌了",
+          "text": "我想了很久 我开始慌了",
+          "segments": [
+            "我想",
+            "了",
+            "很久 ",
+            "我",
+            "开始",
+            "慌了"
+          ]
+        },
+        {
+          "key": "66744|是不是我又做错了什么",
+          "text": "是不是我又做错了什么",
+          "segments": [
+            "是不是",
+            "我又",
+            "做",
+            "错",
+            "了",
+            "什么"
+          ]
+        },
+        {
+          "key": "73742|你哭着对我说 童话里都是骗人的",
+          "text": "你哭着对我说 童话里都是骗人的",
+          "segments": [
+            "你",
+            "哭着",
+            "对我说 ",
+            "童话里",
+            "都是",
+            "骗人的"
+          ]
+        },
+        {
+          "key": "80813|我不可能 是你的王子",
+          "text": "我不可能 是你的王子",
+          "segments": [
+            "我",
+            "不可能 ",
+            "是",
+            "你的",
+            "王子"
+          ]
+        },
+        {
+          "key": "87547|也许你不会懂 从你说爱我以后",
+          "text": "也许你不会懂 从你说爱我以后",
+          "segments": [
+            "也许",
+            "你",
+            "不会懂 ",
+            "从",
+            "你说爱我",
+            "以后"
+          ]
+        },
+        {
+          "key": "94996|我的天空 星星都亮了",
+          "text": "我的天空 星星都亮了",
+          "segments": [
+            "我的",
+            "天空 ",
+            "星星",
+            "都",
+            "亮了"
+          ]
+        },
+        {
+          "key": "101526|我愿变成童话里 你爱的那个天使",
+          "text": "我愿变成童话里 你爱的那个天使",
+          "segments": [
+            "我",
+            "愿",
+            "变成",
+            "童话",
+            "里 ",
+            "你爱",
+            "的",
+            "那个",
+            "天使"
+          ]
+        },
+        {
+          "key": "108515|张开双手 变成翅膀守护你",
+          "text": "张开双手 变成翅膀守护你",
+          "segments": [
+            "张开",
+            "双手 ",
+            "变成",
+            "翅膀",
+            "守护",
+            "你"
+          ]
+        },
+        {
+          "key": "115456|你要相信 相信我们会像童话故事里",
+          "text": "你要相信 相信我们会像童话故事里",
+          "segments": [
+            "你要",
+            "相信 ",
+            "相信",
+            "我们",
+            "会",
+            "像",
+            "童话故事",
+            "里"
+          ]
+        },
+        {
+          "key": "122834|幸福和快乐是结局",
+          "text": "幸福和快乐是结局",
+          "segments": [
+            "幸福",
+            "和",
+            "快乐",
+            "是",
+            "结局"
+          ]
+        },
+        {
+          "key": "129396|我要变成童话里 你爱的那个天使",
+          "text": "我要变成童话里 你爱的那个天使",
+          "segments": [
+            "我要",
+            "变成",
+            "童话",
+            "里 ",
+            "你爱",
+            "的",
+            "那个",
+            "天使"
+          ]
+        },
+        {
+          "key": "136389|张开双手 变成翅膀守护你",
+          "text": "张开双手 变成翅膀守护你",
+          "segments": [
+            "张开",
+            "双手 ",
+            "变成",
+            "翅膀",
+            "守护",
+            "你"
+          ]
+        },
+        {
+          "key": "143310|你要相信 相信我们会像童话故事里",
+          "text": "你要相信 相信我们会像童话故事里",
+          "segments": [
+            "你要",
+            "相信 ",
+            "相信",
+            "我们",
+            "会",
+            "像",
+            "童话故事",
+            "里"
+          ]
+        },
+        {
+          "key": "150679|幸福和快乐是结局",
+          "text": "幸福和快乐是结局",
+          "segments": [
+            "幸福",
+            "和",
+            "快乐",
+            "是",
+            "结局"
+          ]
+        },
+        {
+          "key": "161286|一起写我们的结局",
+          "text": "一起写我们的结局",
+          "segments": [
+            "一起",
+            "写",
+            "我们",
+            "的",
+            "结局"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1330 @@
+{
+  "batchNumber": 67,
+  "songs": [
+    {
+      "rank": 331,
+      "songKey": "online:kugou:2eefff98a4f19d945bba7c78fb2079c0",
+      "name": "下完这场雨",
+      "artist": "后弦",
+      "lines": [
+        {
+          "key": "439|后弦 - 下完这场雨",
+          "startMs": 439,
+          "text": "后弦 - 下完这场雨"
+        },
+        {
+          "key": "4084|作词：后弦、李叔同",
+          "startMs": 4084,
+          "text": "作词：后弦、李叔同"
+        },
+        {
+          "key": "7331|作曲：后弦",
+          "startMs": 7331,
+          "text": "作曲：后弦"
+        },
+        {
+          "key": "20083|念旧的皮箱装着",
+          "startMs": 20083,
+          "text": "念旧的皮箱装着"
+        },
+        {
+          "key": "23404|爱没放完的烟火",
+          "startMs": 23404,
+          "text": "爱没放完的烟火"
+        },
+        {
+          "key": "26704|我提着寂寞撑伞穿过夜色",
+          "startMs": 26704,
+          "text": "我提着寂寞撑伞穿过夜色"
+        },
+        {
+          "key": "33183|悲伤湿透了领口",
+          "startMs": 33183,
+          "text": "悲伤湿透了领口"
+        },
+        {
+          "key": "36521|别说破且当作梅雨曾来过",
+          "startMs": 36521,
+          "text": "别说破且当作梅雨曾来过"
+        },
+        {
+          "key": "45096|雨滴下鼓槌落",
+          "startMs": 45096,
+          "text": "雨滴下鼓槌落"
+        },
+        {
+          "key": "48490|伞下路退却不能",
+          "startMs": 48490,
+          "text": "伞下路退却不能"
+        },
+        {
+          "key": "52328|衣襟还残留",
+          "startMs": 52328,
+          "text": "衣襟还残留"
+        },
+        {
+          "key": "54503|那句手写的珍重",
+          "startMs": 54503,
+          "text": "那句手写的珍重"
+        },
+        {
+          "key": "57994|哦那年长亭你的背影亮了",
+          "startMs": 57994,
+          "text": "哦那年长亭你的背影亮了"
+        },
+        {
+          "key": "64798|雨中我燃一束挽歌",
+          "startMs": 64798,
+          "text": "雨中我燃一束挽歌"
+        },
+        {
+          "key": "70973|我在等你等下完这场雨",
+          "startMs": 70973,
+          "text": "我在等你等下完这场雨"
+        },
+        {
+          "key": "77608|满城涓涤净此生的别离",
+          "startMs": 77608,
+          "text": "满城涓涤净此生的别离"
+        },
+        {
+          "key": "84108|心太入戏梦流转四季",
+          "startMs": 84108,
+          "text": "心太入戏梦流转四季"
+        },
+        {
+          "key": "88559|只是回忆",
+          "startMs": 88559,
+          "text": "只是回忆"
+        },
+        {
+          "key": "91853|手中焰火向谁泣",
+          "startMs": 91853,
+          "text": "手中焰火向谁泣"
+        },
+        {
+          "key": "97269|如果可以别下完这场雨",
+          "startMs": 97269,
+          "text": "如果可以别下完这场雨"
+        },
+        {
+          "key": "103828|放慢朝夕拾与你的点滴",
+          "startMs": 103828,
+          "text": "放慢朝夕拾与你的点滴"
+        },
+        {
+          "key": "110372|怕来不及回眸再重温",
+          "startMs": 110372,
+          "text": "怕来不及回眸再重温"
+        },
+        {
+          "key": "114878|此刻如往昔",
+          "startMs": 114878,
+          "text": "此刻如往昔"
+        },
+        {
+          "key": "118322|伞外朦胧可是你",
+          "startMs": 118322,
+          "text": "伞外朦胧可是你"
+        },
+        {
+          "key": "125270|那年我烟花为序",
+          "startMs": 125270,
+          "text": "那年我烟花为序"
+        },
+        {
+          "key": "127868|光芒逆雨而上",
+          "startMs": 127868,
+          "text": "光芒逆雨而上"
+        },
+        {
+          "key": "129436|画下故事终句",
+          "startMs": 129436,
+          "text": "画下故事终句"
+        },
+        {
+          "key": "131053|守一纸立秋的期许",
+          "startMs": 131053,
+          "text": "守一纸立秋的期许"
+        },
+        {
+          "key": "133026|说好等你",
+          "startMs": 133026,
+          "text": "说好等你"
+        },
+        {
+          "key": "133887|远去的时光列车",
+          "startMs": 133887,
+          "text": "远去的时光列车"
+        },
+        {
+          "key": "136010|满载我今生几多孤寂",
+          "startMs": 136010,
+          "text": "满载我今生几多孤寂"
+        },
+        {
+          "key": "138084|夕阳西下故人长城外",
+          "startMs": 138084,
+          "text": "夕阳西下故人长城外"
+        },
+        {
+          "key": "140573|顷刻间滂沱大雨",
+          "startMs": 140573,
+          "text": "顷刻间滂沱大雨"
+        },
+        {
+          "key": "142247|浇不灭余念仍在",
+          "startMs": 142247,
+          "text": "浇不灭余念仍在"
+        },
+        {
+          "key": "144225|帷幕落秋雨",
+          "startMs": 144225,
+          "text": "帷幕落秋雨"
+        },
+        {
+          "key": "145696|霖伞下人哼泣",
+          "startMs": 145696,
+          "text": "霖伞下人哼泣"
+        },
+        {
+          "key": "147422|最后再重温那首",
+          "startMs": 147422,
+          "text": "最后再重温那首"
+        },
+        {
+          "key": "148835|与你送别的旋律",
+          "startMs": 148835,
+          "text": "与你送别的旋律"
+        },
+        {
+          "key": "150355|我在等你等下完这场雨",
+          "startMs": 150355,
+          "text": "我在等你等下完这场雨"
+        },
+        {
+          "key": "156478|满城涓涤净此生的别离",
+          "startMs": 156478,
+          "text": "满城涓涤净此生的别离"
+        },
+        {
+          "key": "162972|心太入戏梦流转四季",
+          "startMs": 162972,
+          "text": "心太入戏梦流转四季"
+        },
+        {
+          "key": "167458|只是回忆",
+          "startMs": 167458,
+          "text": "只是回忆"
+        },
+        {
+          "key": "170802|手中焰火向谁泣",
+          "startMs": 170802,
+          "text": "手中焰火向谁泣"
+        },
+        {
+          "key": "176188|如果可以别下完这场雨",
+          "startMs": 176188,
+          "text": "如果可以别下完这场雨"
+        },
+        {
+          "key": "182776|放慢朝夕拾与你的点滴",
+          "startMs": 182776,
+          "text": "放慢朝夕拾与你的点滴"
+        },
+        {
+          "key": "189298|怕来不及回眸再重温",
+          "startMs": 189298,
+          "text": "怕来不及回眸再重温"
+        },
+        {
+          "key": "193747|此刻如往昔",
+          "startMs": 193747,
+          "text": "此刻如往昔"
+        },
+        {
+          "key": "197154|伞外朦胧可是你",
+          "startMs": 197154,
+          "text": "伞外朦胧可是你"
+        },
+        {
+          "key": "203684|长亭外 古道边",
+          "startMs": 203684,
+          "text": "长亭外 古道边"
+        },
+        {
+          "key": "210319|芳草碧连天",
+          "startMs": 210319,
+          "text": "芳草碧连天"
+        },
+        {
+          "key": "216845|晚风拂柳笛声残",
+          "startMs": 216845,
+          "text": "晚风拂柳笛声残"
+        },
+        {
+          "key": "223484|夕阳送别山外山",
+          "startMs": 223484,
+          "text": "夕阳送别山外山"
+        },
+        {
+          "key": "228805|我在等你等下完这场雨",
+          "startMs": 228805,
+          "text": "我在等你等下完这场雨"
+        },
+        {
+          "key": "235382|满城涓涤净此生的别离",
+          "startMs": 235382,
+          "text": "满城涓涤净此生的别离"
+        },
+        {
+          "key": "241924|怕来不及回眸再重温",
+          "startMs": 241924,
+          "text": "怕来不及回眸再重温"
+        },
+        {
+          "key": "246380|此刻如往昔",
+          "startMs": 246380,
+          "text": "此刻如往昔"
+        },
+        {
+          "key": "249730|伞外朦胧可是你",
+          "startMs": 249730,
+          "text": "伞外朦胧可是你"
+        }
+      ]
+    },
+    {
+      "rank": 332,
+      "songKey": "online:kugou:2eef99ac81bfc698668891fa60c4af29",
+      "name": "fallin (变速)",
+      "artist": "林上思",
+      "lines": [
+        {
+          "key": "275|혼자라면 lonely",
+          "startMs": 275,
+          "text": "혼자라면 lonely"
+        },
+        {
+          "key": "2497|이제는 멀어진 lonely",
+          "startMs": 2497,
+          "text": "이제는 멀어진 lonely"
+        },
+        {
+          "key": "5223|달콤한 이 dreaming",
+          "startMs": 5223,
+          "text": "달콤한 이 dreaming"
+        },
+        {
+          "key": "7796|널 바라볼래 온종일",
+          "startMs": 7796,
+          "text": "널 바라볼래 온종일"
+        },
+        {
+          "key": "10982|서로의 눈에 담긴 채로 falling",
+          "startMs": 10982,
+          "text": "서로의 눈에 담긴 채로 falling"
+        },
+        {
+          "key": "15856|하루의 모든 순간에",
+          "startMs": 15856,
+          "text": "하루의 모든 순간에"
+        },
+        {
+          "key": "19321|I'm falling",
+          "startMs": 19321,
+          "text": "I'm falling"
+        },
+        {
+          "key": "21954|손 끝에 닿으면",
+          "startMs": 21954,
+          "text": "손 끝에 닿으면"
+        },
+        {
+          "key": "24285|내 이름 불러줄래",
+          "startMs": 24285,
+          "text": "내 이름 불러줄래"
+        },
+        {
+          "key": "27150|예쁘게 너를 그릴 수 있게",
+          "startMs": 27150,
+          "text": "예쁘게 너를 그릴 수 있게"
+        },
+        {
+          "key": "32015|색이 다 바래 빛을 잃어도",
+          "startMs": 32015,
+          "text": "색이 다 바래 빛을 잃어도"
+        },
+        {
+          "key": "37176|I'm falling",
+          "startMs": 37176,
+          "text": "I'm falling"
+        },
+        {
+          "key": "38715|네가 마지막 이길 yeah",
+          "startMs": 38715,
+          "text": "네가 마지막 이길 yeah"
+        },
+        {
+          "key": "44272|기도가 이뤄지길",
+          "startMs": 44272,
+          "text": "기도가 이뤄지길"
+        },
+        {
+          "key": "48159|작은 상처까지도 눈물까지도",
+          "startMs": 48159,
+          "text": "작은 상처까지도 눈물까지도"
+        },
+        {
+          "key": "51186|가끔 있을 다툼도 말이야",
+          "startMs": 51186,
+          "text": "가끔 있을 다툼도 말이야"
+        },
+        {
+          "key": "53725|모두 다 stop 결국 지나가는 걸",
+          "startMs": 53725,
+          "text": "모두 다 stop 결국 지나가는 걸"
+        },
+        {
+          "key": "57504|혼자라면 lonely",
+          "startMs": 57504,
+          "text": "혼자라면 lonely"
+        },
+        {
+          "key": "60243|이제는 멀어진 lonely",
+          "startMs": 60243,
+          "text": "이제는 멀어진 lonely"
+        },
+        {
+          "key": "62914|달콤한 이 dreaming",
+          "startMs": 62914,
+          "text": "달콤한 이 dreaming"
+        },
+        {
+          "key": "65527|널 바라볼래 온종일",
+          "startMs": 65527,
+          "text": "널 바라볼래 온종일"
+        },
+        {
+          "key": "68591|서로의 눈에 담긴 채로 falling",
+          "startMs": 68591,
+          "text": "서로의 눈에 담긴 채로 falling"
+        },
+        {
+          "key": "73800|하루의 모든 순간에",
+          "startMs": 73800,
+          "text": "하루의 모든 순간에"
+        },
+        {
+          "key": "77257|I'm falling",
+          "startMs": 77257,
+          "text": "I'm falling"
+        },
+        {
+          "key": "79848|손 끝에 닿으면",
+          "startMs": 79848,
+          "text": "손 끝에 닿으면"
+        },
+        {
+          "key": "81574|내 이름 불러줄래",
+          "startMs": 81574,
+          "text": "내 이름 불러줄래"
+        },
+        {
+          "key": "85017|예쁘게 너를 그릴 수 있게",
+          "startMs": 85017,
+          "text": "예쁘게 너를 그릴 수 있게"
+        },
+        {
+          "key": "89877|색이 다 바래 빛을 잃어도",
+          "startMs": 89877,
+          "text": "색이 다 바래 빛을 잃어도"
+        },
+        {
+          "key": "95453|I'm falling",
+          "startMs": 95453,
+          "text": "I'm falling"
+        },
+        {
+          "key": "96933|매일 처음이고 싶어",
+          "startMs": 96933,
+          "text": "매일 처음이고 싶어"
+        },
+        {
+          "key": "99144|편해지고 무뎌진대도",
+          "startMs": 99144,
+          "text": "편해지고 무뎌진대도"
+        },
+        {
+          "key": "102623|첫사랑의 그 느낌 간직해",
+          "startMs": 102623,
+          "text": "첫사랑의 그 느낌 간직해"
+        },
+        {
+          "key": "107146|너라면 너라면",
+          "startMs": 107146,
+          "text": "너라면 너라면"
+        },
+        {
+          "key": "109535|전부 다 자신 있어",
+          "startMs": 109535,
+          "text": "전부 다 자신 있어"
+        },
+        {
+          "key": "112240|변함없이 언제까지나",
+          "startMs": 112240,
+          "text": "변함없이 언제까지나"
+        },
+        {
+          "key": "118425|서로의 눈에 담긴 채로 falling",
+          "startMs": 118425,
+          "text": "서로의 눈에 담긴 채로 falling"
+        },
+        {
+          "key": "124575|하루의 모든 순간에",
+          "startMs": 124575,
+          "text": "하루의 모든 순간에"
+        },
+        {
+          "key": "127343|I'm falling",
+          "startMs": 127343,
+          "text": "I'm falling"
+        },
+        {
+          "key": "129957|손 끝에 닿으면",
+          "startMs": 129957,
+          "text": "손 끝에 닿으면"
+        },
+        {
+          "key": "132191|내 이름 불러줄래",
+          "startMs": 132191,
+          "text": "내 이름 불러줄래"
+        },
+        {
+          "key": "135082|예쁘게 너를 그릴 수 있게",
+          "startMs": 135082,
+          "text": "예쁘게 너를 그릴 수 있게"
+        },
+        {
+          "key": "140451|색이 다 바래 빛을 잃어도",
+          "startMs": 140451,
+          "text": "색이 다 바래 빛을 잃어도"
+        },
+        {
+          "key": "143889|I'll be there",
+          "startMs": 143889,
+          "text": "I'll be there"
+        },
+        {
+          "key": "147184|항상 곁에 있을게",
+          "startMs": 147184,
+          "text": "항상 곁에 있을게"
+        },
+        {
+          "key": "150502|I'm falling",
+          "startMs": 150502,
+          "text": "I'm falling"
+        }
+      ]
+    },
+    {
+      "rank": 333,
+      "songKey": "online:kugou:35b31d20f605215c25b5c7f2ee8717c3",
+      "name": "That Girl (1.1x)",
+      "artist": "小郭不吃早饭",
+      "lines": [
+        {
+          "key": "0|小郭不吃早饭 - That Girl (1.1x)",
+          "startMs": 0,
+          "text": "小郭不吃早饭 - That Girl (1.1x)"
+        },
+        {
+          "key": "70|Lyrics by：Olly Murs、Claude Kelly、Steve Robson",
+          "startMs": 70,
+          "text": "Lyrics by：Olly Murs、Claude Kelly、Steve Robson"
+        },
+        {
+          "key": "147|Composed by：Claude Kelly、Olly Murs、Steve Robson",
+          "startMs": 147,
+          "text": "Composed by：Claude Kelly、Olly Murs、Steve Robson"
+        },
+        {
+          "key": "626|Oh",
+          "startMs": 626,
+          "text": "Oh"
+        },
+        {
+          "key": "1577|You don't wanna lose that love",
+          "startMs": 1577,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "3308|It's only gonna hurt too much",
+          "startMs": 3308,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "4878|I'm telling you",
+          "startMs": 4878,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "6361|You don't wanna lose that love",
+          "startMs": 6361,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "8162|It's only gonna hurt too much",
+          "startMs": 8162,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "9914|I'm telling you",
+          "startMs": 9914,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "11278|You don't wanna lose that love",
+          "startMs": 11278,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "13112|Cause there's no home for the broken about",
+          "startMs": 13112,
+          "text": "Cause there's no home for the broken about"
+        },
+        {
+          "key": "15186|That girl",
+          "startMs": 15186,
+          "text": "That girl"
+        },
+        {
+          "key": "16805|The one I let get away",
+          "startMs": 16805,
+          "text": "The one I let get away"
+        },
+        {
+          "key": "19843|So you better",
+          "startMs": 19843,
+          "text": "So you better"
+        },
+        {
+          "key": "20579|Speak up if you want somebody",
+          "startMs": 20579,
+          "text": "Speak up if you want somebody"
+        },
+        {
+          "key": "23948|You can't let them get away no no",
+          "startMs": 23948,
+          "text": "You can't let them get away no no"
+        },
+        {
+          "key": "26717|You don't wanna end up sorry",
+          "startMs": 26717,
+          "text": "You don't wanna end up sorry"
+        },
+        {
+          "key": "29524|The way that I'm feeling every day",
+          "startMs": 29524,
+          "text": "The way that I'm feeling every day"
+        },
+        {
+          "key": "31361|Don't you know",
+          "startMs": 31361,
+          "text": "Don't you know"
+        },
+        {
+          "key": "32402|No no no no",
+          "startMs": 32402,
+          "text": "No no no no"
+        },
+        {
+          "key": "34991|There's no home for the broken heart",
+          "startMs": 34991,
+          "text": "There's no home for the broken heart"
+        },
+        {
+          "key": "36948|Don't you know",
+          "startMs": 36948,
+          "text": "Don't you know"
+        },
+        {
+          "key": "37902|No no no no",
+          "startMs": 37902,
+          "text": "No no no no"
+        },
+        {
+          "key": "40508|There's no home for the broken",
+          "startMs": 40508,
+          "text": "There's no home for the broken"
+        },
+        {
+          "key": "42174|Oh",
+          "startMs": 42174,
+          "text": "Oh"
+        },
+        {
+          "key": "43596|You don't wanna lose that love",
+          "startMs": 43596,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "45756|It's only gonna hurt too much",
+          "startMs": 45756,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "47443|I'm telling you",
+          "startMs": 47443,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "48944|You don't wanna lose that love",
+          "startMs": 48944,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "51147|It's only gonna hurt too much",
+          "startMs": 51147,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "53247|I'm telling you",
+          "startMs": 53247,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "54372|You don't wanna lose that love",
+          "startMs": 54372,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "56755|Cause there's no home for the broken about",
+          "startMs": 56755,
+          "text": "Cause there's no home for the broken about"
+        },
+        {
+          "key": "58917|That girl",
+          "startMs": 58917,
+          "text": "That girl"
+        },
+        {
+          "key": "60496|The one I let get away",
+          "startMs": 60496,
+          "text": "The one I let get away"
+        }
+      ]
+    },
+    {
+      "rank": 334,
+      "songKey": "online:kugou:880c40f4e9fcda34c0fcdf849956c8ad",
+      "name": "That Girl 1.1x",
+      "artist": "Jcchen",
+      "lines": [
+        {
+          "key": "0|Jcchen - That Girl 1.1x",
+          "startMs": 0,
+          "text": "Jcchen - That Girl 1.1x"
+        },
+        {
+          "key": "0|Lyrics by：Olly Murs/Claude Kelly/Steve Robson",
+          "startMs": 0,
+          "text": "Lyrics by：Olly Murs/Claude Kelly/Steve Robson"
+        },
+        {
+          "key": "0|Composed by：Claude Kelly/Olly Murs/Steve Robson",
+          "startMs": 0,
+          "text": "Composed by：Claude Kelly/Olly Murs/Steve Robson"
+        },
+        {
+          "key": "250|Oh",
+          "startMs": 250,
+          "text": "Oh"
+        },
+        {
+          "key": "1461|You don't wanna lose that love",
+          "startMs": 1461,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "3211|It's only gonna hurt too much",
+          "startMs": 3211,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "5400|I'm telling you",
+          "startMs": 5400,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "6304|You don't wanna lose that love",
+          "startMs": 6304,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "8230|It's only gonna hurt too much",
+          "startMs": 8230,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "10038|I'm telling you",
+          "startMs": 10038,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "11143|You don't wanna lose that love",
+          "startMs": 11143,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "13009|Cause there's no home for the broken about",
+          "startMs": 13009,
+          "text": "Cause there's no home for the broken about"
+        },
+        {
+          "key": "15609|That girl",
+          "startMs": 15609,
+          "text": "That girl"
+        },
+        {
+          "key": "16598|The one I let get away",
+          "startMs": 16598,
+          "text": "The one I let get away"
+        },
+        {
+          "key": "19298|Oh",
+          "startMs": 19298,
+          "text": "Oh"
+        },
+        {
+          "key": "20086|You don't wanna lose that love",
+          "startMs": 20086,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "21829|It's only gonna hurt too much",
+          "startMs": 21829,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "23884|I'm telling you",
+          "startMs": 23884,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "25113|You don't wanna lose that love",
+          "startMs": 25113,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "26827|It's only gonna hurt too much",
+          "startMs": 26827,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "28543|I'm telling you",
+          "startMs": 28543,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "29610|You don't wanna lose that love",
+          "startMs": 29610,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "31586|Cause there's no home for the broken about",
+          "startMs": 31586,
+          "text": "Cause there's no home for the broken about"
+        },
+        {
+          "key": "34207|That girl",
+          "startMs": 34207,
+          "text": "That girl"
+        },
+        {
+          "key": "35158|The one I let get away",
+          "startMs": 35158,
+          "text": "The one I let get away"
+        },
+        {
+          "key": "37493|Oh",
+          "startMs": 37493,
+          "text": "Oh"
+        },
+        {
+          "key": "38760|You don't wanna lose that love",
+          "startMs": 38760,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "40513|It's only gonna hurt too much",
+          "startMs": 40513,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "42553|I'm telling you",
+          "startMs": 42553,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "43459|You don't wanna lose that love",
+          "startMs": 43459,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "45405|It's only gonna hurt too much",
+          "startMs": 45405,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "47189|I'm telling you",
+          "startMs": 47189,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "48394|You don't wanna lose that love",
+          "startMs": 48394,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "50176|Cause there's no home for the broken about",
+          "startMs": 50176,
+          "text": "Cause there's no home for the broken about"
+        },
+        {
+          "key": "52778|That girl",
+          "startMs": 52778,
+          "text": "That girl"
+        },
+        {
+          "key": "53850|The one I let get away",
+          "startMs": 53850,
+          "text": "The one I let get away"
+        },
+        {
+          "key": "55964|Oh",
+          "startMs": 55964,
+          "text": "Oh"
+        },
+        {
+          "key": "57349|You don't wanna lose that love",
+          "startMs": 57349,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "59121|It's only gonna hurt too much",
+          "startMs": 59121,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "61226|I'm telling you",
+          "startMs": 61226,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "62142|You don't wanna lose that love",
+          "startMs": 62142,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "64055|It's only gonna hurt too much",
+          "startMs": 64055,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "65838|I'm telling you",
+          "startMs": 65838,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "67112|You don't wanna lose that love",
+          "startMs": 67112,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "68778|Cause there's no home for the broken about",
+          "startMs": 68778,
+          "text": "Cause there's no home for the broken about"
+        },
+        {
+          "key": "71549|That girl",
+          "startMs": 71549,
+          "text": "That girl"
+        },
+        {
+          "key": "72555|The one I let get away",
+          "startMs": 72555,
+          "text": "The one I let get away"
+        },
+        {
+          "key": "74877|Oh",
+          "startMs": 74877,
+          "text": "Oh"
+        },
+        {
+          "key": "75955|You don't wanna lose that love",
+          "startMs": 75955,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "77869|It's only gonna hurt too much",
+          "startMs": 77869,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "79893|I'm telling you",
+          "startMs": 79893,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "80765|You don't wanna lose that love",
+          "startMs": 80765,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "82779|It's only gonna hurt too much",
+          "startMs": 82779,
+          "text": "It's only gonna hurt too much"
+        },
+        {
+          "key": "84426|I'm telling you",
+          "startMs": 84426,
+          "text": "I'm telling you"
+        },
+        {
+          "key": "85630|You don't wanna lose that love",
+          "startMs": 85630,
+          "text": "You don't wanna lose that love"
+        },
+        {
+          "key": "87511|Cause there's no home for the broken about",
+          "startMs": 87511,
+          "text": "Cause there's no home for the broken about"
+        },
+        {
+          "key": "90025|That girl",
+          "startMs": 90025,
+          "text": "That girl"
+        },
+        {
+          "key": "91146|The one I let get away",
+          "startMs": 91146,
+          "text": "The one I let get away"
+        }
+      ]
+    },
+    {
+      "rank": 335,
+      "songKey": "online:kugou:a98005646b7bb19ed0069e909d259469",
+      "name": "我想念 (Live)",
+      "artist": "汪苏泷 / 王赫野",
+      "lines": [
+        {
+          "key": "0|汪苏泷、王赫野 - 我想念 (Live)",
+          "startMs": 0,
+          "text": "汪苏泷、王赫野 - 我想念 (Live)"
+        },
+        {
+          "key": "2046|词：汪苏泷",
+          "startMs": 2046,
+          "text": "词：汪苏泷"
+        },
+        {
+          "key": "2790|曲：汪苏泷",
+          "startMs": 2790,
+          "text": "曲：汪苏泷"
+        },
+        {
+          "key": "3534|编曲：韦星弟/金若晨",
+          "startMs": 3534,
+          "text": "编曲：韦星弟/金若晨"
+        },
+        {
+          "key": "5208|原唱：金志文",
+          "startMs": 5208,
+          "text": "原唱：金志文"
+        },
+        {
+          "key": "6138|制作人：汪苏泷/金若晨",
+          "startMs": 6138,
+          "text": "制作人：汪苏泷/金若晨"
+        },
+        {
+          "key": "7998|合音编写：汪苏泷/徐杰/姜糖Shirley",
+          "startMs": 7998,
+          "text": "合音编写：汪苏泷/徐杰/姜糖Shirley"
+        },
+        {
+          "key": "10602|和声：汪苏泷/金若晨/徐杰/姜糖Shirley",
+          "startMs": 10602,
+          "text": "和声：汪苏泷/金若晨/徐杰/姜糖Shirley"
+        },
+        {
+          "key": "13578|吉他：张楚弦",
+          "startMs": 13578,
+          "text": "吉他：张楚弦"
+        },
+        {
+          "key": "14508|弦乐：国际首席爱乐",
+          "startMs": 14508,
+          "text": "弦乐：国际首席爱乐"
+        },
+        {
+          "key": "15996|音乐总监：彭程@金牛studio",
+          "startMs": 15996,
+          "text": "音乐总监：彭程@金牛studio"
+        },
+        {
+          "key": "17856|音响总监：何飚",
+          "startMs": 17856,
+          "text": "音响总监：何飚"
+        },
+        {
+          "key": "18972|乐队队长/键盘1：董音@牛班NEWBAND",
+          "startMs": 18972,
+          "text": "乐队队长/键盘1：董音@牛班NEWBAND"
+        },
+        {
+          "key": "21576|键盘2：叶霖@牛班NEWBAND",
+          "startMs": 21576,
+          "text": "键盘2：叶霖@牛班NEWBAND"
+        },
+        {
+          "key": "23250|吉他1：黄仲贤@牛班NEWBAND",
+          "startMs": 23250,
+          "text": "吉他1：黄仲贤@牛班NEWBAND"
+        },
+        {
+          "key": "25110|吉他2：倪伟恩@牛班NEWBAND",
+          "startMs": 25110,
+          "text": "吉他2：倪伟恩@牛班NEWBAND"
+        },
+        {
+          "key": "26970|贝斯：宣一亨@牛班NEWBAND",
+          "startMs": 26970,
+          "text": "贝斯：宣一亨@牛班NEWBAND"
+        },
+        {
+          "key": "28644|鼓：Chris Trzcinski@牛班NEWBAND",
+          "startMs": 28644,
+          "text": "鼓：Chris Trzcinski@牛班NEWBAND"
+        },
+        {
+          "key": "29760|和音：张恋歌/鱼椒盐/谭佩莹/叶俊",
+          "startMs": 29760,
+          "text": "和音：张恋歌/鱼椒盐/谭佩莹/叶俊"
+        },
+        {
+          "key": "32736|PGM：章谋杰",
+          "startMs": 32736,
+          "text": "PGM：章谋杰"
+        },
+        {
+          "key": "33480|音乐混音：林梦洋",
+          "startMs": 33480,
+          "text": "音乐混音：林梦洋"
+        },
+        {
+          "key": "34834|人声编辑：顾雄",
+          "startMs": 34834,
+          "text": "人声编辑：顾雄"
+        },
+        {
+          "key": "37788|樱花覆盖地面",
+          "startMs": 37788,
+          "text": "樱花覆盖地面"
+        },
+        {
+          "key": "41556|放映黑白默片",
+          "startMs": 41556,
+          "text": "放映黑白默片"
+        },
+        {
+          "key": "45001|我终于懂了别人口中说的那种思念",
+          "startMs": 45001,
+          "text": "我终于懂了别人口中说的那种思念"
+        },
+        {
+          "key": "53221|凌晨过12点",
+          "startMs": 53221,
+          "text": "凌晨过12点"
+        },
+        {
+          "key": "57068|熄灯的便利店",
+          "startMs": 57068,
+          "text": "熄灯的便利店"
+        },
+        {
+          "key": "60468|你的外套还留在我家的客厅里面",
+          "startMs": 60468,
+          "text": "你的外套还留在我家的客厅里面"
+        },
+        {
+          "key": "67494|我想念那个不下雪的冬天",
+          "startMs": 67494,
+          "text": "我想念那个不下雪的冬天"
+        },
+        {
+          "key": "71338|我想念你躲在我围巾里面",
+          "startMs": 71338,
+          "text": "我想念你躲在我围巾里面"
+        },
+        {
+          "key": "75286|我想念我们取暖的咖啡店",
+          "startMs": 75286,
+          "text": "我想念我们取暖的咖啡店"
+        },
+        {
+          "key": "78994|想念你一切",
+          "startMs": 78994,
+          "text": "想念你一切"
+        },
+        {
+          "key": "82936|我想念那个不太热的夏天",
+          "startMs": 82936,
+          "text": "我想念那个不太热的夏天"
+        },
+        {
+          "key": "86886|我想念两人牵着手的大街",
+          "startMs": 86886,
+          "text": "我想念两人牵着手的大街"
+        },
+        {
+          "key": "90802|我想念你说过的那种永远",
+          "startMs": 90802,
+          "text": "我想念你说过的那种永远"
+        },
+        {
+          "key": "94543|离我有多远",
+          "startMs": 94543,
+          "text": "离我有多远"
+        },
+        {
+          "key": "111317|无人的斑马线",
+          "startMs": 111317,
+          "text": "无人的斑马线"
+        },
+        {
+          "key": "115229|夜空繁星点点",
+          "startMs": 115229,
+          "text": "夜空繁星点点"
+        },
+        {
+          "key": "118544|你说看到流星就要懂得许下心愿",
+          "startMs": 118544,
+          "text": "你说看到流星就要懂得许下心愿"
+        },
+        {
+          "key": "126805|如果愿望能实现",
+          "startMs": 126805,
+          "text": "如果愿望能实现"
+        },
+        {
+          "key": "130360|再看你任性一遍",
+          "startMs": 130360,
+          "text": "再看你任性一遍"
+        },
+        {
+          "key": "133914|亲爱的你是唯一让我如此难以入眠",
+          "startMs": 133914,
+          "text": "亲爱的你是唯一让我如此难以入眠"
+        },
+        {
+          "key": "141051|我想念那个不下雪的冬天",
+          "startMs": 141051,
+          "text": "我想念那个不下雪的冬天"
+        },
+        {
+          "key": "144856|我想念你躲在我围巾里面",
+          "startMs": 144856,
+          "text": "我想念你躲在我围巾里面"
+        },
+        {
+          "key": "148869|我想念我们取暖的咖啡店",
+          "startMs": 148869,
+          "text": "我想念我们取暖的咖啡店"
+        },
+        {
+          "key": "152579|想念你一切",
+          "startMs": 152579,
+          "text": "想念你一切"
+        },
+        {
+          "key": "156463|我想念那个不太热的夏天",
+          "startMs": 156463,
+          "text": "我想念那个不太热的夏天"
+        },
+        {
+          "key": "160335|我想念两人牵着手的大街",
+          "startMs": 160335,
+          "text": "我想念两人牵着手的大街"
+        },
+        {
+          "key": "164243|我想念你说过的那种永远",
+          "startMs": 164243,
+          "text": "我想念你说过的那种永远"
+        },
+        {
+          "key": "168028|离我有多远",
+          "startMs": 168028,
+          "text": "离我有多远"
+        },
+        {
+          "key": "176853|我想念着你的一切",
+          "startMs": 176853,
+          "text": "我想念着你的一切"
+        },
+        {
+          "key": "179205|想念着你一切",
+          "startMs": 179205,
+          "text": "想念着你一切"
+        },
+        {
+          "key": "181180|想你在我身边",
+          "startMs": 181180,
+          "text": "想你在我身边"
+        },
+        {
+          "key": "191373|我想念那个不下雪的冬天",
+          "startMs": 191373,
+          "text": "我想念那个不下雪的冬天"
+        },
+        {
+          "key": "195198|我想念你躲在我围巾里面",
+          "startMs": 195198,
+          "text": "我想念你躲在我围巾里面"
+        },
+        {
+          "key": "199160|我想念我们取暖的咖啡店",
+          "startMs": 199160,
+          "text": "我想念我们取暖的咖啡店"
+        },
+        {
+          "key": "202877|想念你一切",
+          "startMs": 202877,
+          "text": "想念你一切"
+        },
+        {
+          "key": "206813|我想念那个不太热的夏天",
+          "startMs": 206813,
+          "text": "我想念那个不太热的夏天"
+        },
+        {
+          "key": "210663|我想念两人牵着手的大街",
+          "startMs": 210663,
+          "text": "我想念两人牵着手的大街"
+        },
+        {
+          "key": "214455|我想念你说过的那种永远",
+          "startMs": 214455,
+          "text": "我想念你说过的那种永远"
+        },
+        {
+          "key": "218350|离我有多远",
+          "startMs": 218350,
+          "text": "离我有多远"
+        }
+      ]
+    }
+  ]
+}

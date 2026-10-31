@@ -1,0 +1,620 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:6c11d9e32f143844e12898126339e603",
+      "lines": [
+        {
+          "key": "0|交换余生 (No Turning Back) - 林俊杰 (JJ Lin)",
+          "text": "交换余生 (No Turning Back) - 林俊杰 (JJ Lin)",
+          "segments": [
+            "交换余生",
+            " (No Turning Back)",
+            " - ",
+            "林俊杰",
+            " (JJ Lin)"
+          ]
+        },
+        {
+          "key": "1323|词：易家扬",
+          "text": "词：易家扬",
+          "segments": [
+            "词：",
+            "易家扬"
+          ]
+        },
+        {
+          "key": "1911|曲：林俊杰 JJ LIN",
+          "text": "曲：林俊杰 JJ LIN",
+          "segments": [
+            "曲：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "2793|编曲 & 键盘 MUSIC ARRANGEMENT & KEYBOARDS：简道生Dawson Chien/蔡政勋 Andy Tsai",
+          "text": "编曲 & 键盘 MUSIC ARRANGEMENT & KEYBOARDS：简道生Dawson Chien/蔡政勋 Andy Tsai",
+          "segments": [
+            "编曲 ",
+            "& ",
+            "键盘 ",
+            "MUSIC ",
+            "ARRANGEMENT ",
+            "& ",
+            "KEYBOARDS",
+            "：",
+            "简",
+            "道生",
+            "Dawson ",
+            "Chien",
+            "/",
+            "蔡",
+            "政",
+            "勋 ",
+            "Andy ",
+            "Tsai"
+          ]
+        },
+        {
+          "key": "5586|制作人 PRODUCER：林俊杰 JJ LIN",
+          "text": "制作人 PRODUCER：林俊杰 JJ LIN",
+          "segments": [
+            "制作人 PRODUCER：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "6909|配唱制作 VOCAL PRODUCTION：林俊杰 JJ LIN",
+          "text": "配唱制作 VOCAL PRODUCTION：林俊杰 JJ LIN",
+          "segments": [
+            "配唱制作 VOCAL PRODUCTION：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "8526|制作协力 PRODUCTION ASSISTANCE：黄冠龙 ALEX.D/周信廷 SHiN CHOU/蔡沛蓁",
+          "text": "制作协力 PRODUCTION ASSISTANCE：黄冠龙 ALEX.D/周信廷 SHiN CHOU/蔡沛蓁",
+          "segments": [
+            "制作协力 PRODUCTION ASSISTANCE：",
+            "黄冠龙 ALEX.D",
+            "/",
+            "周信廷 SHiN CHOU",
+            "/",
+            "蔡沛蓁"
+          ]
+        },
+        {
+          "key": "11172|弦乐编写 STRINGS ARRANGEMENT：王韵筑 Liv Wang",
+          "text": "弦乐编写 STRINGS ARRANGEMENT：王韵筑 Liv Wang",
+          "segments": [
+            "弦乐编写 STRINGS ARRANGEMENT：",
+            "王韵筑 Liv Wang"
+          ]
+        },
+        {
+          "key": "12789|弦乐 STRINGS：李琪弦乐团",
+          "text": "弦乐 STRINGS：李琪弦乐团",
+          "segments": [
+            "弦乐 STRINGS：",
+            "李琪弦乐团"
+          ]
+        },
+        {
+          "key": "13965|吉他 GUITAR：黄冠龙 ALEX.D",
+          "text": "吉他 GUITAR：黄冠龙 ALEX.D",
+          "segments": [
+            "吉他 GUITAR：",
+            "黄冠龙 ALEX.D"
+          ]
+        },
+        {
+          "key": "14994|低音吉他 BASS GUITAR：寗子达",
+          "text": "低音吉他 BASS GUITAR：寗子达",
+          "segments": [
+            "低音吉他 BASS GUITAR：",
+            "寗子达"
+          ]
+        },
+        {
+          "key": "16317|鼓 DRUMS：Brendan Buckley",
+          "text": "鼓 DRUMS：Brendan Buckley",
+          "segments": [
+            "鼓 DRUMS：",
+            "Brendan Buckley"
+          ]
+        },
+        {
+          "key": "16905|和声编写 BACKGROUND VOCAL ARRANGEMENT：林俊杰 JJ LIN",
+          "text": "和声编写 BACKGROUND VOCAL ARRANGEMENT：林俊杰 JJ LIN",
+          "segments": [
+            "和声",
+            "编写 ",
+            "BACKGROUND ",
+            "VOCAL ",
+            "ARRANGEMENT",
+            "：",
+            "林",
+            "俊",
+            "杰 ",
+            "JJ ",
+            "LIN"
+          ]
+        },
+        {
+          "key": "18669|和声 BACKGROUND VOCALS：林俊杰 JJ LIN",
+          "text": "和声 BACKGROUND VOCALS：林俊杰 JJ LIN",
+          "segments": [
+            "和声 BACKGROUND VOCALS：",
+            "林俊杰 JJ LIN"
+          ]
+        },
+        {
+          "key": "19992|录音室 RECORDING STUDIOS：JFJ SANCTUARY (Taipei)/THE JFJ LAB (Taipei)/Smile录音棚 (Beijing)/East West Studios (Los Angeles)",
+          "text": "录音室 RECORDING STUDIOS：JFJ SANCTUARY (Taipei)/THE JFJ LAB (Taipei)/Smile录音棚 (Beijing)/East West Studios (Los Angeles)",
+          "segments": [
+            "录音室 RECORDING STUDIOS：",
+            "JFJ SANCTUARY (Taipei)",
+            "/",
+            "THE JFJ LAB (Taipei)",
+            "/",
+            "Smile录音棚 (Beijing)",
+            "/",
+            "East West Studios (Los Angeles)"
+          ]
+        },
+        {
+          "key": "21903|录音师 RECORDING ENGINEERS：林俊杰 JJ LIN/周信廷 SHiN CHOU/李杰汇/Wil Anspach",
+          "text": "录音师 RECORDING ENGINEERS：林俊杰 JJ LIN/周信廷 SHiN CHOU/李杰汇/Wil Anspach",
+          "segments": [
+            "录音师 RECORDING ENGINEERS：",
+            "林俊杰 JJ LIN",
+            "/",
+            "周信廷 SHiN CHOU",
+            "/",
+            "李杰汇",
+            "/",
+            "Wil Anspach"
+          ]
+        },
+        {
+          "key": "24843|鼓组音频编辑 ADDITIONAL DRUMS ENGINEERING：Buckley Buckley",
+          "text": "鼓组音频编辑 ADDITIONAL DRUMS ENGINEERING：Buckley Buckley",
+          "segments": [
+            "鼓",
+            "组",
+            "音频编辑 ",
+            "ADDITIONAL ",
+            "DRUMS ",
+            "ENGINEERING",
+            "：",
+            "Buckley ",
+            "Buckley"
+          ]
+        },
+        {
+          "key": "26460|混音室 MIXING STUDIO：mixHaus (Encino, CA)",
+          "text": "混音室 MIXING STUDIO：mixHaus (Encino, CA)",
+          "segments": [
+            "混音室 MIXING STUDIO：",
+            "mixHaus (Encino, CA)"
+          ]
+        },
+        {
+          "key": "27489|混音师 MIXING ENGINEER：Richard Furch",
+          "text": "混音师 MIXING ENGINEER：Richard Furch",
+          "segments": [
+            "混音师 MIXING ENGINEER：",
+            "Richard Furch"
+          ]
+        },
+        {
+          "key": "28518|后期母带处理制作人 MASTERING PRODUCER：林俊杰 JJ LIN",
+          "text": "后期母带处理制作人 MASTERING PRODUCER：林俊杰 JJ LIN",
+          "segments": [
+            "后期",
+            "母",
+            "带",
+            "处理",
+            "制作人 ",
+            "MASTERING ",
+            "PRODUCER",
+            "：",
+            "林",
+            "俊",
+            "杰 ",
+            "JJ ",
+            "LIN"
+          ]
+        },
+        {
+          "key": "30870|后期母带处理录音室 MASTERING STUDIO：Bernie Grundman Mastering, LA",
+          "text": "后期母带处理录音室 MASTERING STUDIO：Bernie Grundman Mastering, LA",
+          "segments": [
+            "后期",
+            "母",
+            "带",
+            "处理",
+            "录音",
+            "室 ",
+            "MASTERING ",
+            "STUDIO",
+            "：",
+            "Bernie ",
+            "Grundman ",
+            "Mastering",
+            ", ",
+            "LA"
+          ]
+        },
+        {
+          "key": "33075|后期母带处理录音师 MASTERING ENGINEER：Mike Bozzi",
+          "text": "后期母带处理录音师 MASTERING ENGINEER：Mike Bozzi",
+          "segments": [
+            "后期",
+            "母",
+            "带",
+            "处理",
+            "录音",
+            "师 ",
+            "MASTERING ",
+            "ENGINEER",
+            "：",
+            "Mike ",
+            "Bozzi"
+          ]
+        },
+        {
+          "key": "34997|孤单听雨的猫",
+          "text": "孤单听雨的猫",
+          "segments": [
+            "孤单",
+            "听",
+            "雨",
+            "的",
+            "猫"
+          ]
+        },
+        {
+          "key": "37355|往时间裂缝里看到了我",
+          "text": "往时间裂缝里看到了我",
+          "segments": [
+            "往",
+            "时间",
+            "裂缝",
+            "里",
+            "看到",
+            "了",
+            "我"
+          ]
+        },
+        {
+          "key": "42710|雷电交加之外的另一些我",
+          "text": "雷电交加之外的另一些我",
+          "segments": [
+            "雷电交加",
+            "之外",
+            "的",
+            "另",
+            "一些",
+            "我"
+          ]
+        },
+        {
+          "key": "50074|乌云静止以后 跳进平行时空",
+          "text": "乌云静止以后 跳进平行时空",
+          "segments": [
+            "乌云",
+            "静止",
+            "以后 ",
+            "跳进",
+            "平行",
+            "时空"
+          ]
+        },
+        {
+          "key": "56291|那些我 旅行中的你我",
+          "text": "那些我 旅行中的你我",
+          "segments": [
+            "那些",
+            "我 ",
+            "旅行",
+            "中的",
+            "你我"
+          ]
+        },
+        {
+          "key": "60253|回忆胡乱穿梭 坠落",
+          "text": "回忆胡乱穿梭 坠落",
+          "segments": [
+            "回忆",
+            "胡乱",
+            "穿梭 ",
+            "坠落"
+          ]
+        },
+        {
+          "key": "69409|交换余生 是我 非我 苦与乐",
+          "text": "交换余生 是我 非我 苦与乐",
+          "segments": [
+            "交换余生 ",
+            "是",
+            "我 ",
+            "非我 ",
+            "苦",
+            "与",
+            "乐"
+          ]
+        },
+        {
+          "key": "76870|阴天之后总有续命的晴空",
+          "text": "阴天之后总有续命的晴空",
+          "segments": [
+            "阴天之后",
+            "总有",
+            "续命的",
+            "晴空"
+          ]
+        },
+        {
+          "key": "83988|如果我们几经转折 结局一样不动",
+          "text": "如果我们几经转折 结局一样不动",
+          "segments": [
+            "如果",
+            "我们",
+            "几",
+            "经",
+            "转折 ",
+            "结局",
+            "一样",
+            "不动"
+          ]
+        },
+        {
+          "key": "91600|也才算无愧这分合",
+          "text": "也才算无愧这分合",
+          "segments": [
+            "也",
+            "才算",
+            "无愧",
+            "这",
+            "分合"
+          ]
+        },
+        {
+          "key": "125541|定位心海的锚",
+          "text": "定位心海的锚",
+          "segments": [
+            "定位",
+            "心",
+            "海",
+            "的",
+            "锚"
+          ]
+        },
+        {
+          "key": "127874|让时间停顿的像慢动作",
+          "text": "让时间停顿的像慢动作",
+          "segments": [
+            "让",
+            "时间",
+            "停顿",
+            "的",
+            "像",
+            "慢动作"
+          ]
+        },
+        {
+          "key": "133195|你说命运很坏吧幸好有我",
+          "text": "你说命运很坏吧幸好有我",
+          "segments": [
+            "你",
+            "说",
+            "命运",
+            "很",
+            "坏",
+            "吧",
+            "幸好",
+            "有",
+            "我"
+          ]
+        },
+        {
+          "key": "140171|如果没有以后 如果平行失控",
+          "text": "如果没有以后 如果平行失控",
+          "segments": [
+            "如果",
+            "没有",
+            "以后 ",
+            "如果",
+            "平行",
+            "失控"
+          ]
+        },
+        {
+          "key": "146810|那些我 不同人生的我",
+          "text": "那些我 不同人生的我",
+          "segments": [
+            "那些",
+            "我 ",
+            "不同",
+            "人生",
+            "的",
+            "我"
+          ]
+        },
+        {
+          "key": "150613|会以什么方式 哭过",
+          "text": "会以什么方式 哭过",
+          "segments": [
+            "会",
+            "以",
+            "什么",
+            "方式 ",
+            "哭过"
+          ]
+        },
+        {
+          "key": "157807|交换余生 是我 非我 苦与乐",
+          "text": "交换余生 是我 非我 苦与乐",
+          "segments": [
+            "交换余生 ",
+            "是",
+            "我 ",
+            "非我 ",
+            "苦",
+            "与",
+            "乐"
+          ]
+        },
+        {
+          "key": "165508|阴天之后总有续命的晴空",
+          "text": "阴天之后总有续命的晴空",
+          "segments": [
+            "阴天之后",
+            "总有",
+            "续命的",
+            "晴空"
+          ]
+        },
+        {
+          "key": "172754|如果我们几经转折 结局一样不动",
+          "text": "如果我们几经转折 结局一样不动",
+          "segments": [
+            "如果",
+            "我们",
+            "几",
+            "经",
+            "转折 ",
+            "结局",
+            "一样",
+            "不动"
+          ]
+        },
+        {
+          "key": "180386|也才算无愧这分合",
+          "text": "也才算无愧这分合",
+          "segments": [
+            "也",
+            "才算",
+            "无愧",
+            "这",
+            "分合"
+          ]
+        },
+        {
+          "key": "187773|云等风 人等梦 爱辗过时光等什么",
+          "text": "云等风 人等梦 爱辗过时光等什么",
+          "segments": [
+            "云等风 ",
+            "人等梦 ",
+            "爱",
+            "辗过",
+            "时光",
+            "等什么"
+          ]
+        },
+        {
+          "key": "195441|记不住 认不出 泪眼中谁一样脸红",
+          "text": "记不住 认不出 泪眼中谁一样脸红",
+          "segments": [
+            "记不住 ",
+            "认",
+            "不出 ",
+            "泪",
+            "眼中",
+            "谁",
+            "一样",
+            "脸红"
+          ]
+        },
+        {
+          "key": "202501|等你说 等我说 一等就是一个宇宙",
+          "text": "等你说 等我说 一等就是一个宇宙",
+          "segments": [
+            "等你",
+            "说 ",
+            "等",
+            "我",
+            "说 ",
+            "一等",
+            "就是",
+            "一个",
+            "宇宙"
+          ]
+        },
+        {
+          "key": "209400|日升换月落 真爱换寂寞",
+          "text": "日升换月落 真爱换寂寞",
+          "segments": [
+            "日升",
+            "换",
+            "月落 ",
+            "真爱",
+            "换",
+            "寂寞"
+          ]
+        },
+        {
+          "key": "217128|交换余生 也许 忘了 第几梦",
+          "text": "交换余生 也许 忘了 第几梦",
+          "segments": [
+            "交换余生 ",
+            "也许 ",
+            "忘了 ",
+            "第几",
+            "梦"
+          ]
+        },
+        {
+          "key": "224204|那时我们身处第几号时空",
+          "text": "那时我们身处第几号时空",
+          "segments": [
+            "那时",
+            "我们",
+            "身",
+            "处",
+            "第几",
+            "号",
+            "时空"
+          ]
+        },
+        {
+          "key": "231962|因为我们手心紧握 记忆也能紧扣",
+          "text": "因为我们手心紧握 记忆也能紧扣",
+          "segments": [
+            "因为",
+            "我们",
+            "手心",
+            "紧握 ",
+            "记忆",
+            "也能",
+            "紧",
+            "扣"
+          ]
+        },
+        {
+          "key": "239657|可不怕前方的虫洞",
+          "text": "可不怕前方的虫洞",
+          "segments": [
+            "可",
+            "不怕",
+            "前方",
+            "的",
+            "虫",
+            "洞"
+          ]
+        },
+        {
+          "key": "247312|爱是时间的古董",
+          "text": "爱是时间的古董",
+          "segments": [
+            "爱",
+            "是",
+            "时间",
+            "的",
+            "古董"
+          ]
+        }
+      ]
+    }
+  ]
+}

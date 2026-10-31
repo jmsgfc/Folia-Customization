@@ -1,0 +1,18 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:c089d6a99c9ea4f7a84201138e2eeebd",
+      "lines": [
+        {
+          "key": "920|酷狗音乐  就是歌多",
+          "text": "酷狗音乐  就是歌多",
+          "segments": [
+            "酷狗音乐  ",
+            "就是",
+            "歌多"
+          ]
+        }
+      ]
+    }
+  ]
+}

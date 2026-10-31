@@ -1,0 +1,419 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:dfbdb95efdc613442b8e06cc8f5c9cd5",
+      "lines": [
+        {
+          "key": "0|JVKE - golden hour",
+          "text": "JVKE - golden hour",
+          "segments": [
+            "JVKE",
+            " - ",
+            "golden hour"
+          ]
+        },
+        {
+          "key": "414|Lyrics by：Jake Lawson、Zac Lawson",
+          "text": "Lyrics by：Jake Lawson、Zac Lawson",
+          "segments": [
+            "Lyrics by：",
+            "Jake Lawson、",
+            "Zac Lawson"
+          ]
+        },
+        {
+          "key": "821|Composed by：Jake Lawson、Zac Lawson",
+          "text": "Composed by：Jake Lawson、Zac Lawson",
+          "segments": [
+            "Composed by：",
+            "Jake Lawson、",
+            "Zac Lawson"
+          ]
+        },
+        {
+          "key": "15765|It was just two lovers",
+          "text": "It was just two lovers",
+          "segments": [
+            "It ",
+            "was ",
+            "just ",
+            "two ",
+            "lovers"
+          ]
+        },
+        {
+          "key": "17631|Sittin' in the car listening to Blonde fallin' for each other",
+          "text": "Sittin' in the car listening to Blonde fallin' for each other",
+          "segments": [
+            "Sittin' ",
+            "in ",
+            "the ",
+            "car ",
+            "listening ",
+            "to ",
+            "Blonde ",
+            "fallin' ",
+            "for ",
+            "each ",
+            "other"
+          ]
+        },
+        {
+          "key": "21347|Pink and orange skies feelin' super childish no Donald Glover",
+          "text": "Pink and orange skies feelin' super childish no Donald Glover",
+          "segments": [
+            "Pink ",
+            "and ",
+            "orange ",
+            "skies ",
+            "feelin' ",
+            "super ",
+            "childish ",
+            "no ",
+            "Donald ",
+            "Glover"
+          ]
+        },
+        {
+          "key": "25178|Missed call from my mother",
+          "text": "Missed call from my mother",
+          "segments": [
+            "Missed ",
+            "call ",
+            "from ",
+            "my ",
+            "mother"
+          ]
+        },
+        {
+          "key": "27020|Like where you at tonight",
+          "text": "Like where you at tonight",
+          "segments": [
+            "Like ",
+            "where ",
+            "you ",
+            "at ",
+            "tonight"
+          ]
+        },
+        {
+          "key": "28079|Got no alibi I was all alone",
+          "text": "Got no alibi I was all alone",
+          "segments": [
+            "Got ",
+            "no ",
+            "alibi ",
+            "I ",
+            "was ",
+            "all ",
+            "alone"
+          ]
+        },
+        {
+          "key": "30360|With the love of my life",
+          "text": "With the love of my life",
+          "segments": [
+            "With ",
+            "the ",
+            "love ",
+            "of ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "33945|She's got glitter for skin",
+          "text": "She's got glitter for skin",
+          "segments": [
+            "She's ",
+            "got ",
+            "glitter ",
+            "for ",
+            "skin"
+          ]
+        },
+        {
+          "key": "36388|My radiant beam in the night",
+          "text": "My radiant beam in the night",
+          "segments": [
+            "My ",
+            "radiant ",
+            "beam ",
+            "in ",
+            "the ",
+            "night"
+          ]
+        },
+        {
+          "key": "41044|I don't need no light to see you",
+          "text": "I don't need no light to see you",
+          "segments": [
+            "I ",
+            "don't ",
+            "need ",
+            "no ",
+            "light ",
+            "to ",
+            "see ",
+            "you"
+          ]
+        },
+        {
+          "key": "46098|Shine",
+          "text": "Shine",
+          "segments": [
+            "Shine"
+          ]
+        },
+        {
+          "key": "50296|It's your golden hour",
+          "text": "It's your golden hour",
+          "segments": [
+            "It's ",
+            "your ",
+            "golden ",
+            "hour"
+          ]
+        },
+        {
+          "key": "58866|You slow down time",
+          "text": "You slow down time",
+          "segments": [
+            "You ",
+            "slow ",
+            "down ",
+            "time"
+          ]
+        },
+        {
+          "key": "65464|In your golden hour",
+          "text": "In your golden hour",
+          "segments": [
+            "In ",
+            "your ",
+            "golden ",
+            "hour"
+          ]
+        },
+        {
+          "key": "76912|We were just two lovers",
+          "text": "We were just two lovers",
+          "segments": [
+            "We ",
+            "were ",
+            "just ",
+            "two ",
+            "lovers"
+          ]
+        },
+        {
+          "key": "78410|Feet up on the dash drivin' nowhere fast burnin' through the summer",
+          "text": "Feet up on the dash drivin' nowhere fast burnin' through the summer",
+          "segments": [
+            "Feet ",
+            "up ",
+            "on ",
+            "the ",
+            "dash ",
+            "drivin' ",
+            "nowhere ",
+            "fast ",
+            "burnin' ",
+            "through ",
+            "the ",
+            "summer"
+          ]
+        },
+        {
+          "key": "82388|Radio on blast make the moment last she got solar power",
+          "text": "Radio on blast make the moment last she got solar power",
+          "segments": [
+            "Radio ",
+            "on ",
+            "blast ",
+            "make ",
+            "the ",
+            "moment ",
+            "last ",
+            "she ",
+            "got ",
+            "solar ",
+            "power"
+          ]
+        },
+        {
+          "key": "86140|Minutes feel like hours",
+          "text": "Minutes feel like hours",
+          "segments": [
+            "Minutes ",
+            "feel ",
+            "like ",
+            "hours"
+          ]
+        },
+        {
+          "key": "88203|She knew she was the baddest",
+          "text": "She knew she was the baddest",
+          "segments": [
+            "She ",
+            "knew ",
+            "she ",
+            "was ",
+            "the ",
+            "baddest"
+          ]
+        },
+        {
+          "key": "89347|Can you even imagine fallin' like I did",
+          "text": "Can you even imagine fallin' like I did",
+          "segments": [
+            "Can ",
+            "you ",
+            "even ",
+            "imagine ",
+            "fallin' ",
+            "like ",
+            "I ",
+            "did"
+          ]
+        },
+        {
+          "key": "91345|For the love of my life",
+          "text": "For the love of my life",
+          "segments": [
+            "For ",
+            "the ",
+            "love ",
+            "of ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "95139|She's got glow on her face",
+          "text": "She's got glow on her face",
+          "segments": [
+            "She's ",
+            "got ",
+            "glow ",
+            "on ",
+            "her ",
+            "face"
+          ]
+        },
+        {
+          "key": "97583|A glorious look in her eyes",
+          "text": "A glorious look in her eyes",
+          "segments": [
+            "A ",
+            "glorious ",
+            "look ",
+            "in ",
+            "her ",
+            "eyes"
+          ]
+        },
+        {
+          "key": "101948|My angel of light",
+          "text": "My angel of light",
+          "segments": [
+            "My ",
+            "angel ",
+            "of ",
+            "light"
+          ]
+        },
+        {
+          "key": "105429|I was all alone with the love of my life",
+          "text": "I was all alone with the love of my life",
+          "segments": [
+            "I ",
+            "was ",
+            "all ",
+            "alone ",
+            "with ",
+            "the ",
+            "love ",
+            "of ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "110403|She's got glitter for skin",
+          "text": "She's got glitter for skin",
+          "segments": [
+            "She's ",
+            "got ",
+            "glitter ",
+            "for ",
+            "skin"
+          ]
+        },
+        {
+          "key": "112846|My radiant beam in the night",
+          "text": "My radiant beam in the night",
+          "segments": [
+            "My ",
+            "radiant ",
+            "beam ",
+            "in ",
+            "the ",
+            "night"
+          ]
+        },
+        {
+          "key": "117283|I don't need no light to see you",
+          "text": "I don't need no light to see you",
+          "segments": [
+            "I ",
+            "don't ",
+            "need ",
+            "no ",
+            "light ",
+            "to ",
+            "see ",
+            "you"
+          ]
+        },
+        {
+          "key": "122376|Shine",
+          "text": "Shine",
+          "segments": [
+            "Shine"
+          ]
+        },
+        {
+          "key": "126451|It's your golden hour",
+          "text": "It's your golden hour",
+          "segments": [
+            "It's ",
+            "your ",
+            "golden ",
+            "hour"
+          ]
+        },
+        {
+          "key": "135066|You slow down time",
+          "text": "You slow down time",
+          "segments": [
+            "You ",
+            "slow ",
+            "down ",
+            "time"
+          ]
+        },
+        {
+          "key": "141713|In your golden hour",
+          "text": "In your golden hour",
+          "segments": [
+            "In ",
+            "your ",
+            "golden ",
+            "hour"
+          ]
+        }
+      ]
+    }
+  ]
+}

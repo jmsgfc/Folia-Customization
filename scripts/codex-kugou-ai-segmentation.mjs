@@ -489,12 +489,11 @@ const exportLrc = async () => {
     const inputSong = input.songs.find(item => item.songKey === song.songKey);
     if (!inputSong?.lines?.length) throw new Error(`Lyrics missing for rank ${song.rank}`);
 
-    let previousStart = -1;
-    for (const line of inputSong.lines) {
-      if (!Number.isFinite(Number(line.startMs)) || Number(line.startMs) < previousStart) {
-        throw new Error(`Lyric timestamps are not ordered for rank ${song.rank}`);
-      }
-      previousStart = Number(line.startMs);
+    const orderedLines = inputSong.lines
+      .map((line, index) => ({ line, index, startMs: Number(line.startMs) }))
+      .sort((left, right) => left.startMs - right.startMs || left.index - right.index);
+    if (orderedLines.some(item => !Number.isFinite(item.startMs) || item.startMs < 0)) {
+      throw new Error(`Invalid lyric timestamp for rank ${song.rank}`);
     }
 
     const header = [
@@ -503,7 +502,8 @@ const exportLrc = async () => {
       '[by:Folia Codex AI segmentation backup]',
       '',
     ];
-    const body = inputSong.lines.map(line => `${formatLrcTimestamp(line.startMs)}${String(line.text || '')}`);
+    // Provider credits can arrive slightly out of order; LRC consumers expect chronological rows.
+    const body = orderedLines.map(({ line }) => `${formatLrcTimestamp(line.startMs)}${String(line.text || '')}`);
     const hashSuffix = String(song.id || '').slice(0, 8);
     const baseName = [
       String(song.rank).padStart(3, '0'),
@@ -526,7 +526,7 @@ const exportLrc = async () => {
     '- 时间戳精度：毫秒（`[mm:ss.mmm]`）',
     `- 无歌词：${missing.map(song => `${song.rank}. ${song.name}`).join('；') || '无'}`,
     '',
-    '这些文件由已保存的酷狗逐行歌词生成，并保留原文空白。AI 分词边界完整保存在同级 `batches/` 的输出 JSON 中。',
+    '这些文件由已保存的酷狗逐行歌词生成，并保留原文空白；若上游行序与时间戳不一致，仅在 LRC 导出时按时间戳稳定排序。AI 分词边界完整保存在同级 `batches/` 的输出 JSON 中。',
     '',
   ].join('\n'), 'utf8');
   console.log(`Exported ${exported} LRC files with ${lyricLines} lyric lines`);

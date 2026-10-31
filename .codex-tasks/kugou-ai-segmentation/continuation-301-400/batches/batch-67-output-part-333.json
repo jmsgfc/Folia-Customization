@@ -1,0 +1,401 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:35b31d20f605215c25b5c7f2ee8717c3",
+      "lines": [
+        {
+          "key": "0|小郭不吃早饭 - That Girl (1.1x)",
+          "text": "小郭不吃早饭 - That Girl (1.1x)",
+          "segments": [
+            "小郭不吃早饭",
+            " - ",
+            "That ",
+            "Girl ",
+            "(1.1x)"
+          ]
+        },
+        {
+          "key": "70|Lyrics by：Olly Murs、Claude Kelly、Steve Robson",
+          "text": "Lyrics by：Olly Murs、Claude Kelly、Steve Robson",
+          "segments": [
+            "Lyrics by：",
+            "Olly Murs、",
+            "Claude Kelly、",
+            "Steve Robson"
+          ]
+        },
+        {
+          "key": "147|Composed by：Claude Kelly、Olly Murs、Steve Robson",
+          "text": "Composed by：Claude Kelly、Olly Murs、Steve Robson",
+          "segments": [
+            "Composed by：",
+            "Claude Kelly、",
+            "Olly Murs、",
+            "Steve Robson"
+          ]
+        },
+        {
+          "key": "626|Oh",
+          "text": "Oh",
+          "segments": [
+            "Oh"
+          ]
+        },
+        {
+          "key": "1577|You don't wanna lose that love",
+          "text": "You don't wanna lose that love",
+          "segments": [
+            "You ",
+            "don't ",
+            "wanna ",
+            "lose ",
+            "that ",
+            "love"
+          ]
+        },
+        {
+          "key": "3308|It's only gonna hurt too much",
+          "text": "It's only gonna hurt too much",
+          "segments": [
+            "It's ",
+            "only ",
+            "gonna ",
+            "hurt ",
+            "too ",
+            "much"
+          ]
+        },
+        {
+          "key": "4878|I'm telling you",
+          "text": "I'm telling you",
+          "segments": [
+            "I'm ",
+            "telling ",
+            "you"
+          ]
+        },
+        {
+          "key": "6361|You don't wanna lose that love",
+          "text": "You don't wanna lose that love",
+          "segments": [
+            "You ",
+            "don't ",
+            "wanna ",
+            "lose ",
+            "that ",
+            "love"
+          ]
+        },
+        {
+          "key": "8162|It's only gonna hurt too much",
+          "text": "It's only gonna hurt too much",
+          "segments": [
+            "It's ",
+            "only ",
+            "gonna ",
+            "hurt ",
+            "too ",
+            "much"
+          ]
+        },
+        {
+          "key": "9914|I'm telling you",
+          "text": "I'm telling you",
+          "segments": [
+            "I'm ",
+            "telling ",
+            "you"
+          ]
+        },
+        {
+          "key": "11278|You don't wanna lose that love",
+          "text": "You don't wanna lose that love",
+          "segments": [
+            "You ",
+            "don't ",
+            "wanna ",
+            "lose ",
+            "that ",
+            "love"
+          ]
+        },
+        {
+          "key": "13112|Cause there's no home for the broken about",
+          "text": "Cause there's no home for the broken about",
+          "segments": [
+            "Cause ",
+            "there's ",
+            "no ",
+            "home ",
+            "for ",
+            "the ",
+            "broken ",
+            "about"
+          ]
+        },
+        {
+          "key": "15186|That girl",
+          "text": "That girl",
+          "segments": [
+            "That ",
+            "girl"
+          ]
+        },
+        {
+          "key": "16805|The one I let get away",
+          "text": "The one I let get away",
+          "segments": [
+            "The ",
+            "one ",
+            "I ",
+            "let ",
+            "get ",
+            "away"
+          ]
+        },
+        {
+          "key": "19843|So you better",
+          "text": "So you better",
+          "segments": [
+            "So ",
+            "you ",
+            "better"
+          ]
+        },
+        {
+          "key": "20579|Speak up if you want somebody",
+          "text": "Speak up if you want somebody",
+          "segments": [
+            "Speak ",
+            "up ",
+            "if ",
+            "you ",
+            "want ",
+            "somebody"
+          ]
+        },
+        {
+          "key": "23948|You can't let them get away no no",
+          "text": "You can't let them get away no no",
+          "segments": [
+            "You ",
+            "can't ",
+            "let ",
+            "them ",
+            "get ",
+            "away ",
+            "no ",
+            "no"
+          ]
+        },
+        {
+          "key": "26717|You don't wanna end up sorry",
+          "text": "You don't wanna end up sorry",
+          "segments": [
+            "You ",
+            "don't ",
+            "wanna ",
+            "end ",
+            "up ",
+            "sorry"
+          ]
+        },
+        {
+          "key": "29524|The way that I'm feeling every day",
+          "text": "The way that I'm feeling every day",
+          "segments": [
+            "The ",
+            "way ",
+            "that ",
+            "I'm ",
+            "feeling ",
+            "every ",
+            "day"
+          ]
+        },
+        {
+          "key": "31361|Don't you know",
+          "text": "Don't you know",
+          "segments": [
+            "Don't ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "32402|No no no no",
+          "text": "No no no no",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no"
+          ]
+        },
+        {
+          "key": "34991|There's no home for the broken heart",
+          "text": "There's no home for the broken heart",
+          "segments": [
+            "There's ",
+            "no ",
+            "home ",
+            "for ",
+            "the ",
+            "broken ",
+            "heart"
+          ]
+        },
+        {
+          "key": "36948|Don't you know",
+          "text": "Don't you know",
+          "segments": [
+            "Don't ",
+            "you ",
+            "know"
+          ]
+        },
+        {
+          "key": "37902|No no no no",
+          "text": "No no no no",
+          "segments": [
+            "No ",
+            "no ",
+            "no ",
+            "no"
+          ]
+        },
+        {
+          "key": "40508|There's no home for the broken",
+          "text": "There's no home for the broken",
+          "segments": [
+            "There's ",
+            "no ",
+            "home ",
+            "for ",
+            "the ",
+            "broken"
+          ]
+        },
+        {
+          "key": "42174|Oh",
+          "text": "Oh",
+          "segments": [
+            "Oh"
+          ]
+        },
+        {
+          "key": "43596|You don't wanna lose that love",
+          "text": "You don't wanna lose that love",
+          "segments": [
+            "You ",
+            "don't ",
+            "wanna ",
+            "lose ",
+            "that ",
+            "love"
+          ]
+        },
+        {
+          "key": "45756|It's only gonna hurt too much",
+          "text": "It's only gonna hurt too much",
+          "segments": [
+            "It's ",
+            "only ",
+            "gonna ",
+            "hurt ",
+            "too ",
+            "much"
+          ]
+        },
+        {
+          "key": "47443|I'm telling you",
+          "text": "I'm telling you",
+          "segments": [
+            "I'm ",
+            "telling ",
+            "you"
+          ]
+        },
+        {
+          "key": "48944|You don't wanna lose that love",
+          "text": "You don't wanna lose that love",
+          "segments": [
+            "You ",
+            "don't ",
+            "wanna ",
+            "lose ",
+            "that ",
+            "love"
+          ]
+        },
+        {
+          "key": "51147|It's only gonna hurt too much",
+          "text": "It's only gonna hurt too much",
+          "segments": [
+            "It's ",
+            "only ",
+            "gonna ",
+            "hurt ",
+            "too ",
+            "much"
+          ]
+        },
+        {
+          "key": "53247|I'm telling you",
+          "text": "I'm telling you",
+          "segments": [
+            "I'm ",
+            "telling ",
+            "you"
+          ]
+        },
+        {
+          "key": "54372|You don't wanna lose that love",
+          "text": "You don't wanna lose that love",
+          "segments": [
+            "You ",
+            "don't ",
+            "wanna ",
+            "lose ",
+            "that ",
+            "love"
+          ]
+        },
+        {
+          "key": "56755|Cause there's no home for the broken about",
+          "text": "Cause there's no home for the broken about",
+          "segments": [
+            "Cause ",
+            "there's ",
+            "no ",
+            "home ",
+            "for ",
+            "the ",
+            "broken ",
+            "about"
+          ]
+        },
+        {
+          "key": "58917|That girl",
+          "text": "That girl",
+          "segments": [
+            "That ",
+            "girl"
+          ]
+        },
+        {
+          "key": "60496|The one I let get away",
+          "text": "The one I let get away",
+          "segments": [
+            "The ",
+            "one ",
+            "I ",
+            "let ",
+            "get ",
+            "away"
+          ]
+        }
+      ]
+    }
+  ]
+}

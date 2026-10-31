@@ -1,0 +1,827 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:e04c20971c8a581c35333990de5683d7",
+      "lines": [
+        {
+          "key": "0|I Really Like You - Sabrina",
+          "text": "I Really Like You - Sabrina",
+          "segments": [
+            "I Really Like You",
+            " - ",
+            "Sabrina"
+          ]
+        },
+        {
+          "key": "910|I really wanna stop",
+          "text": "I really wanna stop",
+          "segments": [
+            "I ",
+            "really ",
+            "wanna ",
+            "stop"
+          ]
+        },
+        {
+          "key": "2270|But I just gotta taste for it",
+          "text": "But I just gotta taste for it",
+          "segments": [
+            "But ",
+            "I ",
+            "just ",
+            "gotta ",
+            "taste ",
+            "for ",
+            "it"
+          ]
+        },
+        {
+          "key": "4789|I feel like I could fly with the ball on the moon",
+          "text": "I feel like I could fly with the ball on the moon",
+          "segments": [
+            "I ",
+            "feel ",
+            "like ",
+            "I ",
+            "could ",
+            "fly ",
+            "with ",
+            "the ",
+            "ball ",
+            "on ",
+            "the ",
+            "moon"
+          ]
+        },
+        {
+          "key": "8599|So honey hold my hand you like making me wait for it",
+          "text": "So honey hold my hand you like making me wait for it",
+          "segments": [
+            "So ",
+            "honey ",
+            "hold ",
+            "my ",
+            "hand ",
+            "you ",
+            "like ",
+            "making ",
+            "me ",
+            "wait ",
+            "for ",
+            "it"
+          ]
+        },
+        {
+          "key": "12639|I feel I could die walking up to the room oh yeah",
+          "text": "I feel I could die walking up to the room oh yeah",
+          "segments": [
+            "I ",
+            "feel ",
+            "I ",
+            "could ",
+            "die ",
+            "walking ",
+            "up ",
+            "to ",
+            "the ",
+            "room ",
+            "oh ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "17888|Late night watching television",
+          "text": "Late night watching television",
+          "segments": [
+            "Late ",
+            "night ",
+            "watching ",
+            "television"
+          ]
+        },
+        {
+          "key": "21698|But how we get in this position",
+          "text": "But how we get in this position",
+          "segments": [
+            "But ",
+            "how ",
+            "we ",
+            "get ",
+            "in ",
+            "this ",
+            "position"
+          ]
+        },
+        {
+          "key": "25588|It's way too soon I know this isn't love",
+          "text": "It's way too soon I know this isn't love",
+          "segments": [
+            "It's ",
+            "way ",
+            "too ",
+            "soon ",
+            "I ",
+            "know ",
+            "this ",
+            "isn't ",
+            "love"
+          ]
+        },
+        {
+          "key": "32068|But I need to tell you something",
+          "text": "But I need to tell you something",
+          "segments": [
+            "But ",
+            "I ",
+            "need ",
+            "to ",
+            "tell ",
+            "you ",
+            "something"
+          ]
+        },
+        {
+          "key": "34057|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "38576|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "42105|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "46555|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "50005|Oh did I say too much",
+          "text": "Oh did I say too much",
+          "segments": [
+            "Oh ",
+            "did ",
+            "I ",
+            "say ",
+            "too ",
+            "much"
+          ]
+        },
+        {
+          "key": "53155|I'm so in my head",
+          "text": "I'm so in my head",
+          "segments": [
+            "I'm ",
+            "so ",
+            "in ",
+            "my ",
+            "head"
+          ]
+        },
+        {
+          "key": "55045|When we're out of touch",
+          "text": "When we're out of touch",
+          "segments": [
+            "When ",
+            "we're ",
+            "out ",
+            "of ",
+            "touch"
+          ]
+        },
+        {
+          "key": "57785|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "62565|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "66275|It's like everything you say is a sweet revelation",
+          "text": "It's like everything you say is a sweet revelation",
+          "segments": [
+            "It's ",
+            "like ",
+            "everything ",
+            "you ",
+            "say ",
+            "is ",
+            "a ",
+            "sweet ",
+            "revelation"
+          ]
+        },
+        {
+          "key": "70795|All I wanna do is get into your head",
+          "text": "All I wanna do is get into your head",
+          "segments": [
+            "All ",
+            "I ",
+            "wanna ",
+            "do ",
+            "is ",
+            "get ",
+            "into ",
+            "your ",
+            "head"
+          ]
+        },
+        {
+          "key": "74695|Yeah we could stay alone you and me and this temptation",
+          "text": "Yeah we could stay alone you and me and this temptation",
+          "segments": [
+            "Yeah ",
+            "we ",
+            "could ",
+            "stay ",
+            "alone ",
+            "you ",
+            "and ",
+            "me ",
+            "and ",
+            "this ",
+            "temptation"
+          ]
+        },
+        {
+          "key": "78605|Sipping on your lips hanging on by thread baby",
+          "text": "Sipping on your lips hanging on by thread baby",
+          "segments": [
+            "Sipping ",
+            "on ",
+            "your ",
+            "lips ",
+            "hanging ",
+            "on ",
+            "by ",
+            "thread ",
+            "baby"
+          ]
+        },
+        {
+          "key": "83825|Late night watching television",
+          "text": "Late night watching television",
+          "segments": [
+            "Late ",
+            "night ",
+            "watching ",
+            "television"
+          ]
+        },
+        {
+          "key": "87685|But how we get in this position",
+          "text": "But how we get in this position",
+          "segments": [
+            "But ",
+            "how ",
+            "we ",
+            "get ",
+            "in ",
+            "this ",
+            "position"
+          ]
+        },
+        {
+          "key": "91715|It's way too soon I know this isn't love",
+          "text": "It's way too soon I know this isn't love",
+          "segments": [
+            "It's ",
+            "way ",
+            "too ",
+            "soon ",
+            "I ",
+            "know ",
+            "this ",
+            "isn't ",
+            "love"
+          ]
+        },
+        {
+          "key": "98065|But I need to tell you something",
+          "text": "But I need to tell you something",
+          "segments": [
+            "But ",
+            "I ",
+            "need ",
+            "to ",
+            "tell ",
+            "you ",
+            "something"
+          ]
+        },
+        {
+          "key": "99875|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "104655|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "108135|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "112525|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "116095|Oh did I say too much",
+          "text": "Oh did I say too much",
+          "segments": [
+            "Oh ",
+            "did ",
+            "I ",
+            "say ",
+            "too ",
+            "much"
+          ]
+        },
+        {
+          "key": "119185|I'm so in my head",
+          "text": "I'm so in my head",
+          "segments": [
+            "I'm ",
+            "so ",
+            "in ",
+            "my ",
+            "head"
+          ]
+        },
+        {
+          "key": "121135|When we're out of touch",
+          "text": "When we're out of touch",
+          "segments": [
+            "When ",
+            "we're ",
+            "out ",
+            "of ",
+            "touch"
+          ]
+        },
+        {
+          "key": "124005|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "128494|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "132164|Who gave you eyes like that",
+          "text": "Who gave you eyes like that",
+          "segments": [
+            "Who ",
+            "gave ",
+            "you ",
+            "eyes ",
+            "like ",
+            "that"
+          ]
+        },
+        {
+          "key": "134284|Said you could keep them",
+          "text": "Said you could keep them",
+          "segments": [
+            "Said ",
+            "you ",
+            "could ",
+            "keep ",
+            "them"
+          ]
+        },
+        {
+          "key": "136103|I don't know how to act",
+          "text": "I don't know how to act",
+          "segments": [
+            "I ",
+            "don't ",
+            "know ",
+            "how ",
+            "to ",
+            "act"
+          ]
+        },
+        {
+          "key": "137633|The way I should be leaving",
+          "text": "The way I should be leaving",
+          "segments": [
+            "The ",
+            "way ",
+            "I ",
+            "should ",
+            "be ",
+            "leaving"
+          ]
+        },
+        {
+          "key": "140013|I'm running out of time",
+          "text": "I'm running out of time",
+          "segments": [
+            "I'm ",
+            "running ",
+            "out ",
+            "of ",
+            "time"
+          ]
+        },
+        {
+          "key": "142013|Going out of my mind",
+          "text": "Going out of my mind",
+          "segments": [
+            "Going ",
+            "out ",
+            "of ",
+            "my ",
+            "mind"
+          ]
+        },
+        {
+          "key": "144003|I need to tell you something",
+          "text": "I need to tell you something",
+          "segments": [
+            "I ",
+            "need ",
+            "to ",
+            "tell ",
+            "you ",
+            "something"
+          ]
+        },
+        {
+          "key": "145993|I'm pregnant Just kidding",
+          "text": "I'm pregnant Just kidding",
+          "segments": [
+            "I'm ",
+            "pregnant ",
+            "Just ",
+            "kidding"
+          ]
+        },
+        {
+          "key": "148082|Yeah I really really really really really really like you",
+          "text": "Yeah I really really really really really really like you",
+          "segments": [
+            "Yeah ",
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "152971|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "156511|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "161031|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "164190|Oh did I say too much",
+          "text": "Oh did I say too much",
+          "segments": [
+            "Oh ",
+            "did ",
+            "I ",
+            "say ",
+            "too ",
+            "much"
+          ]
+        },
+        {
+          "key": "167400|I'm so in my head",
+          "text": "I'm so in my head",
+          "segments": [
+            "I'm ",
+            "so ",
+            "in ",
+            "my ",
+            "head"
+          ]
+        },
+        {
+          "key": "169620|When we're out of touch",
+          "text": "When we're out of touch",
+          "segments": [
+            "When ",
+            "we're ",
+            "out ",
+            "of ",
+            "touch"
+          ]
+        },
+        {
+          "key": "172520|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "177060|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "180600|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "184990|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        },
+        {
+          "key": "188550|I really really really really really really like you",
+          "text": "I really really really really really really like you",
+          "segments": [
+            "I ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "really ",
+            "like ",
+            "you"
+          ]
+        },
+        {
+          "key": "193010|And I want you do you want me do you want me too",
+          "text": "And I want you do you want me do you want me too",
+          "segments": [
+            "And ",
+            "I ",
+            "want ",
+            "you ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "do ",
+            "you ",
+            "want ",
+            "me ",
+            "too"
+          ]
+        }
+      ]
+    }
+  ]
+}
