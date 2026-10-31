@@ -1,0 +1,494 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:8e8acb50e7c7ecc96bf0ebc70934d6a2",
+      "lines": [
+        {
+          "key": "0|Cry For Me（英文版）-七元",
+          "text": "Cry For Me（英文版）-七元",
+          "segments": [
+            "Cry ",
+            "For ",
+            "Me",
+            "（英文版）",
+            "-",
+            "七元"
+          ]
+        },
+        {
+          "key": "1822|词：Michita (ミチタ)",
+          "text": "词：Michita (ミチタ)",
+          "segments": [
+            "词：",
+            "Michita (ミチタ)"
+          ]
+        },
+        {
+          "key": "3340|曲：Michita (ミチタ)",
+          "text": "曲：Michita (ミチタ)",
+          "segments": [
+            "曲：",
+            "Michita (ミチタ)"
+          ]
+        },
+        {
+          "key": "4859|原唱：Michita (ミチタ)",
+          "text": "原唱：Michita (ミチタ)",
+          "segments": [
+            "原唱：",
+            "Michita (ミチタ)"
+          ]
+        },
+        {
+          "key": "6479|英文改编：虞绮",
+          "text": "英文改编：虞绮",
+          "segments": [
+            "英文改编：",
+            "虞绮"
+          ]
+        },
+        {
+          "key": "7187|制作人：Eric-4z0y",
+          "text": "制作人：Eric-4z0y",
+          "segments": [
+            "制作人：",
+            "Eric-4z0y"
+          ]
+        },
+        {
+          "key": "8504|编曲：Eric-4z0y",
+          "text": "编曲：Eric-4z0y",
+          "segments": [
+            "编曲：",
+            "Eric-4z0y"
+          ]
+        },
+        {
+          "key": "9718|和声：MAD",
+          "text": "和声：MAD",
+          "segments": [
+            "和声：",
+            "MAD"
+          ]
+        },
+        {
+          "key": "10326|鼓：Eric-4z0y",
+          "text": "鼓：Eric-4z0y",
+          "segments": [
+            "鼓：",
+            "Eric-4z0y"
+          ]
+        },
+        {
+          "key": "11440|混音母带：谁扔的香蕉皮",
+          "text": "混音母带：谁扔的香蕉皮",
+          "segments": [
+            "混音母带：",
+            "谁扔的香蕉皮"
+          ]
+        },
+        {
+          "key": "12553|音频编辑：陈潇",
+          "text": "音频编辑：陈潇",
+          "segments": [
+            "音频编辑：",
+            "陈潇"
+          ]
+        },
+        {
+          "key": "13262|录音：Deepain",
+          "text": "录音：Deepain",
+          "segments": [
+            "录音：",
+            "Deepain"
+          ]
+        },
+        {
+          "key": "14274|录音棚：文弘音乐",
+          "text": "录音棚：文弘音乐",
+          "segments": [
+            "录音棚：",
+            "文弘音乐"
+          ]
+        },
+        {
+          "key": "15084|制作团队：YU.Music",
+          "text": "制作团队：YU.Music",
+          "segments": [
+            "制作团队：",
+            "YU.Music"
+          ]
+        },
+        {
+          "key": "16400|封面：左意辰",
+          "text": "封面：左意辰",
+          "segments": [
+            "封面：",
+            "左意辰"
+          ]
+        },
+        {
+          "key": "17008|宣传：阿飞@喜烁文化",
+          "text": "宣传：阿飞@喜烁文化",
+          "segments": [
+            "宣传：",
+            "阿飞@",
+            "喜烁文化"
+          ]
+        },
+        {
+          "key": "18020|企划：泽源屿",
+          "text": "企划：泽源屿",
+          "segments": [
+            "企划：",
+            "泽源屿"
+          ]
+        },
+        {
+          "key": "18627|出品：易燃易爆",
+          "text": "出品：易燃易爆",
+          "segments": [
+            "出品：",
+            "易燃易爆"
+          ]
+        },
+        {
+          "key": "19336|【本音乐作品已获得正版授权】",
+          "text": "【本音乐作品已获得正版授权】",
+          "segments": [
+            "【本音乐作品已获得正版授权】"
+          ]
+        },
+        {
+          "key": "20754|If I had never owned anything",
+          "text": "If I had never owned anything",
+          "segments": [
+            "If I had never owned anything"
+          ]
+        },
+        {
+          "key": "44664|I wouldn't have lost it",
+          "text": "I wouldn't have lost it",
+          "segments": [
+            "I wouldn't have lost it"
+          ]
+        },
+        {
+          "key": "51104|I would have lost nothing",
+          "text": "I would have lost nothing",
+          "segments": [
+            "I would have lost nothing"
+          ]
+        },
+        {
+          "key": "53744|If all is bound to be",
+          "text": "If all is bound to be",
+          "segments": [
+            "If all is bound to be"
+          ]
+        },
+        {
+          "key": "56344|Why not go with destiny",
+          "text": "Why not go with destiny",
+          "segments": [
+            "Why not go with destiny"
+          ]
+        },
+        {
+          "key": "59014|Now I won't cry for anybody",
+          "text": "Now I won't cry for anybody",
+          "segments": [
+            "Now I won't cry for anybody"
+          ]
+        },
+        {
+          "key": "62224|Cry for me",
+          "text": "Cry for me",
+          "segments": [
+            "Cry for me"
+          ]
+        },
+        {
+          "key": "64354|Time goes though",
+          "text": "Time goes though",
+          "segments": [
+            "Time goes though"
+          ]
+        },
+        {
+          "key": "66874|lasting pain just won't let me go",
+          "text": "lasting pain just won't let me go",
+          "segments": [
+            "lasting pain just won't let me go"
+          ]
+        },
+        {
+          "key": "69474|Having been abandoned I was totally a joke",
+          "text": "Having been abandoned I was totally a joke",
+          "segments": [
+            "Having been abandoned I was totally a joke"
+          ]
+        },
+        {
+          "key": "74734|The stronger my heart grows",
+          "text": "The stronger my heart grows",
+          "segments": [
+            "The stronger my heart grows"
+          ]
+        },
+        {
+          "key": "77374|The more intense the pain grows",
+          "text": "The more intense the pain grows",
+          "segments": [
+            "The more intense the pain grows"
+          ]
+        },
+        {
+          "key": "79994|How I wanna know when I can stop enduring this sorrow",
+          "text": "How I wanna know when I can stop enduring this sorrow",
+          "segments": [
+            "How I wanna know when I can stop enduring this sorrow"
+          ]
+        },
+        {
+          "key": "84784|Maybe forever lonely",
+          "text": "Maybe forever lonely",
+          "segments": [
+            "Maybe forever lonely"
+          ]
+        },
+        {
+          "key": "86554|But it doesn't matter all is what I chose to be",
+          "text": "But it doesn't matter all is what I chose to be",
+          "segments": [
+            "But it doesn't matter all is what I chose to be"
+          ]
+        },
+        {
+          "key": "89234|After I had lost something",
+          "text": "After I had lost something",
+          "segments": [
+            "After I had lost something"
+          ]
+        },
+        {
+          "key": "91664|Then I become afraid of having everything",
+          "text": "Then I become afraid of having everything",
+          "segments": [
+            "Then I become afraid of having everything"
+          ]
+        },
+        {
+          "key": "94464|I tried my best to forget my past",
+          "text": "I tried my best to forget my past",
+          "segments": [
+            "I tried my best to forget my past"
+          ]
+        },
+        {
+          "key": "97104|Memories are all about ya",
+          "text": "Memories are all about ya",
+          "segments": [
+            "Memories are all about ya"
+          ]
+        },
+        {
+          "key": "99714|And they've become one of my part",
+          "text": "And they've become one of my part",
+          "segments": [
+            "And they've become one of my part"
+          ]
+        },
+        {
+          "key": "102324|That's why when night falls by them I got caught",
+          "text": "That's why when night falls by them I got caught",
+          "segments": [
+            "That's why when night falls by them I got caught"
+          ]
+        },
+        {
+          "key": "106284|If I had never owned anything",
+          "text": "If I had never owned anything",
+          "segments": [
+            "If I had never owned anything"
+          ]
+        },
+        {
+          "key": "111534|I wouldn't have lost it",
+          "text": "I wouldn't have lost it",
+          "segments": [
+            "I wouldn't have lost it"
+          ]
+        },
+        {
+          "key": "114144|I would have lost nothing",
+          "text": "I would have lost nothing",
+          "segments": [
+            "I would have lost nothing"
+          ]
+        },
+        {
+          "key": "116784|If all is bound to be",
+          "text": "If all is bound to be",
+          "segments": [
+            "If all is bound to be"
+          ]
+        },
+        {
+          "key": "119384|Why not go with destiny",
+          "text": "Why not go with destiny",
+          "segments": [
+            "Why not go with destiny"
+          ]
+        },
+        {
+          "key": "122044|Now I won't cry for anybody",
+          "text": "Now I won't cry for anybody",
+          "segments": [
+            "Now I won't cry for anybody"
+          ]
+        },
+        {
+          "key": "125304|Cry for me",
+          "text": "Cry for me",
+          "segments": [
+            "Cry for me"
+          ]
+        },
+        {
+          "key": "127354|Once my tears for the one I love",
+          "text": "Once my tears for the one I love",
+          "segments": [
+            "Once my tears for the one I love"
+          ]
+        },
+        {
+          "key": "132544|But the one gave me the deepest cut",
+          "text": "But the one gave me the deepest cut",
+          "segments": [
+            "But the one gave me the deepest cut"
+          ]
+        },
+        {
+          "key": "137794|Now you're no longer my lust",
+          "text": "Now you're no longer my lust",
+          "segments": [
+            "Now you're no longer my lust"
+          ]
+        },
+        {
+          "key": "140414|Also no longer the must",
+          "text": "Also no longer the must",
+          "segments": [
+            "Also no longer the must"
+          ]
+        },
+        {
+          "key": "143024|I decide to remove you thoroughly from my heart",
+          "text": "I decide to remove you thoroughly from my heart",
+          "segments": [
+            "I decide to remove you thoroughly from my heart"
+          ]
+        },
+        {
+          "key": "148144|So this time I won't cry except for the future me",
+          "text": "So this time I won't cry except for the future me",
+          "segments": [
+            "So this time I won't cry except for the future me"
+          ]
+        },
+        {
+          "key": "153514|Overflowing missing turns sadness into a hollow seed",
+          "text": "Overflowing missing turns sadness into a hollow seed",
+          "segments": [
+            "Overflowing missing turns sadness into a hollow seed"
+          ]
+        },
+        {
+          "key": "158724|Feel relived and numb about your French leave",
+          "text": "Feel relived and numb about your French leave",
+          "segments": [
+            "Feel relived and numb about your French leave"
+          ]
+        },
+        {
+          "key": "164684|Had enough so it's time to set myself free",
+          "text": "Had enough so it's time to set myself free",
+          "segments": [
+            "Had enough so it's time to set myself free"
+          ]
+        },
+        {
+          "key": "189214|If I had never owned anything",
+          "text": "If I had never owned anything",
+          "segments": [
+            "If I had never owned anything"
+          ]
+        },
+        {
+          "key": "195544|I wouldn't have lost it",
+          "text": "I wouldn't have lost it",
+          "segments": [
+            "I wouldn't have lost it"
+          ]
+        },
+        {
+          "key": "198144|I would have lost nothing",
+          "text": "I would have lost nothing",
+          "segments": [
+            "I would have lost nothing"
+          ]
+        },
+        {
+          "key": "200784|If all is bound to be",
+          "text": "If all is bound to be",
+          "segments": [
+            "If all is bound to be"
+          ]
+        },
+        {
+          "key": "203394|Why not go with destiny",
+          "text": "Why not go with destiny",
+          "segments": [
+            "Why not go with destiny"
+          ]
+        },
+        {
+          "key": "206064|Now I won't cry for anybody",
+          "text": "Now I won't cry for anybody",
+          "segments": [
+            "Now I won't cry for anybody"
+          ]
+        },
+        {
+          "key": "209344|Cry for me",
+          "text": "Cry for me",
+          "segments": [
+            "Cry for me"
+          ]
+        },
+        {
+          "key": "211394|Used to cry for you but it's not worth it",
+          "text": "Used to cry for you but it's not worth it",
+          "segments": [
+            "Used to cry for you but it's not worth it"
+          ]
+        },
+        {
+          "key": "233554|Now I won't cry for anyone anything",
+          "text": "Now I won't cry for anyone anything",
+          "segments": [
+            "Now I won't cry for anyone anything"
+          ]
+        },
+        {
+          "key": "283546|Just for me",
+          "text": "Just for me",
+          "segments": [
+            "Just for me"
+          ]
+        }
+      ]
+    }
+  ]
+}

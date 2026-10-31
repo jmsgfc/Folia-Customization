@@ -1,0 +1,744 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:14d7b0b12f97e2878666da4cceb67b2d",
+      "lines": [
+        {
+          "key": "0|The Cure - Lady Gaga",
+          "text": "The Cure - Lady Gaga",
+          "segments": [
+            "The ",
+            "Cure ",
+            "- ",
+            "Lady ",
+            "Gaga"
+          ]
+        },
+        {
+          "key": "2214|Written by：Lady Gaga/Lukas Nelson/Nick Monson/Mark Nilan/Paul Blair",
+          "text": "Written by：Lady Gaga/Lukas Nelson/Nick Monson/Mark Nilan/Paul Blair",
+          "segments": [
+            "Written ",
+            "by：",
+            "Lady ",
+            "Gaga/",
+            "Lukas ",
+            "Nelson/",
+            "Nick ",
+            "Monson/",
+            "Mark ",
+            "Nilan/",
+            "Paul ",
+            "Blair"
+          ]
+        },
+        {
+          "key": "9634|I'll undress you 'cause you're tired",
+          "text": "I'll undress you 'cause you're tired",
+          "segments": [
+            "I'll ",
+            "undress ",
+            "you ",
+            "'cause ",
+            "you're ",
+            "tired"
+          ]
+        },
+        {
+          "key": "11994|Cover you as you desire",
+          "text": "Cover you as you desire",
+          "segments": [
+            "Cover ",
+            "you ",
+            "as ",
+            "you ",
+            "desire"
+          ]
+        },
+        {
+          "key": "14424|When you fall asleep inside my arms",
+          "text": "When you fall asleep inside my arms",
+          "segments": [
+            "When ",
+            "you ",
+            "fall ",
+            "asleep ",
+            "inside ",
+            "my ",
+            "arms"
+          ]
+        },
+        {
+          "key": "19194|May not have the fancy things",
+          "text": "May not have the fancy things",
+          "segments": [
+            "May ",
+            "not ",
+            "have ",
+            "the ",
+            "fancy ",
+            "things"
+          ]
+        },
+        {
+          "key": "21614|But I'll give you everything",
+          "text": "But I'll give you everything",
+          "segments": [
+            "But ",
+            "I'll ",
+            "give ",
+            "you ",
+            "everything"
+          ]
+        },
+        {
+          "key": "24024|You could ever want it's in my arms",
+          "text": "You could ever want it's in my arms",
+          "segments": [
+            "You ",
+            "could ",
+            "ever ",
+            "want ",
+            "it's ",
+            "in ",
+            "my ",
+            "arms"
+          ]
+        },
+        {
+          "key": "29074|So baby tell me yes",
+          "text": "So baby tell me yes",
+          "segments": [
+            "So ",
+            "baby ",
+            "tell ",
+            "me ",
+            "yes"
+          ]
+        },
+        {
+          "key": "31224|And I will give you everything",
+          "text": "And I will give you everything",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "give ",
+            "you ",
+            "everything"
+          ]
+        },
+        {
+          "key": "33994|So baby tell me yes",
+          "text": "So baby tell me yes",
+          "segments": [
+            "So ",
+            "baby ",
+            "tell ",
+            "me ",
+            "yes"
+          ]
+        },
+        {
+          "key": "36024|And I will be all yours tonight",
+          "text": "And I will be all yours tonight",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "be ",
+            "all ",
+            "yours ",
+            "tonight"
+          ]
+        },
+        {
+          "key": "38674|So baby tell me yes",
+          "text": "So baby tell me yes",
+          "segments": [
+            "So ",
+            "baby ",
+            "tell ",
+            "me ",
+            "yes"
+          ]
+        },
+        {
+          "key": "40834|And I will give you everything",
+          "text": "And I will give you everything",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "give ",
+            "you ",
+            "everything"
+          ]
+        },
+        {
+          "key": "45624|I will be right by your side",
+          "text": "I will be right by your side",
+          "segments": [
+            "I ",
+            "will ",
+            "be ",
+            "right ",
+            "by ",
+            "your ",
+            "side"
+          ]
+        },
+        {
+          "key": "48324|If I can't find the cure I'll",
+          "text": "If I can't find the cure I'll",
+          "segments": [
+            "If ",
+            "I ",
+            "can't ",
+            "find ",
+            "the ",
+            "cure ",
+            "I'll"
+          ]
+        },
+        {
+          "key": "50734|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "53074|No matter what you know I'll",
+          "text": "No matter what you know I'll",
+          "segments": [
+            "No ",
+            "matter ",
+            "what ",
+            "you ",
+            "know ",
+            "I'll"
+          ]
+        },
+        {
+          "key": "55524|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "57634|And if you say you're okay",
+          "text": "And if you say you're okay",
+          "segments": [
+            "And ",
+            "if ",
+            "you ",
+            "say ",
+            "you're ",
+            "okay"
+          ]
+        },
+        {
+          "key": "60024|I'm gonna heal you anyway",
+          "text": "I'm gonna heal you anyway",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "heal ",
+            "you ",
+            "anyway"
+          ]
+        },
+        {
+          "key": "62694|Promise I'll always be there",
+          "text": "Promise I'll always be there",
+          "segments": [
+            "Promise ",
+            "I'll ",
+            "always ",
+            "be ",
+            "there"
+          ]
+        },
+        {
+          "key": "65114|Promise I'll be the cure",
+          "text": "Promise I'll be the cure",
+          "segments": [
+            "Promise ",
+            "I'll ",
+            "be ",
+            "the ",
+            "cure"
+          ]
+        },
+        {
+          "key": "70864|Be the cure",
+          "text": "Be the cure",
+          "segments": [
+            "Be ",
+            "the ",
+            "cure"
+          ]
+        },
+        {
+          "key": "76794|Rub your feet your hands your legs",
+          "text": "Rub your feet your hands your legs",
+          "segments": [
+            "Rub ",
+            "your ",
+            "feet ",
+            "your ",
+            "hands ",
+            "your ",
+            "legs"
+          ]
+        },
+        {
+          "key": "79234|Let me take care of it babe",
+          "text": "Let me take care of it babe",
+          "segments": [
+            "Let ",
+            "me ",
+            "take ",
+            "care ",
+            "of ",
+            "it ",
+            "babe"
+          ]
+        },
+        {
+          "key": "81594|Close your eyes I'll sing your favorite song",
+          "text": "Close your eyes I'll sing your favorite song",
+          "segments": [
+            "Close ",
+            "your ",
+            "eyes ",
+            "I'll ",
+            "sing ",
+            "your ",
+            "favorite ",
+            "song"
+          ]
+        },
+        {
+          "key": "86424|I wrote you this lullaby",
+          "text": "I wrote you this lullaby",
+          "segments": [
+            "I ",
+            "wrote ",
+            "you ",
+            "this ",
+            "lullaby"
+          ]
+        },
+        {
+          "key": "88784|Hush now baby don't you cry",
+          "text": "Hush now baby don't you cry",
+          "segments": [
+            "Hush ",
+            "now ",
+            "baby ",
+            "don't ",
+            "you ",
+            "cry"
+          ]
+        },
+        {
+          "key": "91234|Anything you want could not be wrong",
+          "text": "Anything you want could not be wrong",
+          "segments": [
+            "Anything ",
+            "you ",
+            "want ",
+            "could ",
+            "not ",
+            "be ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "96284|So baby tell me yes",
+          "text": "So baby tell me yes",
+          "segments": [
+            "So ",
+            "baby ",
+            "tell ",
+            "me ",
+            "yes"
+          ]
+        },
+        {
+          "key": "98424|And I will give you everything",
+          "text": "And I will give you everything",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "give ",
+            "you ",
+            "everything"
+          ]
+        },
+        {
+          "key": "101204|So baby tell me yes",
+          "text": "So baby tell me yes",
+          "segments": [
+            "So ",
+            "baby ",
+            "tell ",
+            "me ",
+            "yes"
+          ]
+        },
+        {
+          "key": "103224|And I will be all yours tonight",
+          "text": "And I will be all yours tonight",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "be ",
+            "all ",
+            "yours ",
+            "tonight"
+          ]
+        },
+        {
+          "key": "105884|So baby tell me yes",
+          "text": "So baby tell me yes",
+          "segments": [
+            "So ",
+            "baby ",
+            "tell ",
+            "me ",
+            "yes"
+          ]
+        },
+        {
+          "key": "108024|And I will give you everything",
+          "text": "And I will give you everything",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "give ",
+            "you ",
+            "everything"
+          ]
+        },
+        {
+          "key": "112834|I will be right by your side",
+          "text": "I will be right by your side",
+          "segments": [
+            "I ",
+            "will ",
+            "be ",
+            "right ",
+            "by ",
+            "your ",
+            "side"
+          ]
+        },
+        {
+          "key": "115534|If I can't find the cure I'll",
+          "text": "If I can't find the cure I'll",
+          "segments": [
+            "If ",
+            "I ",
+            "can't ",
+            "find ",
+            "the ",
+            "cure ",
+            "I'll"
+          ]
+        },
+        {
+          "key": "117934|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "120274|No matter what you know I'll",
+          "text": "No matter what you know I'll",
+          "segments": [
+            "No ",
+            "matter ",
+            "what ",
+            "you ",
+            "know ",
+            "I'll"
+          ]
+        },
+        {
+          "key": "122724|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "124834|And if you say you're okay",
+          "text": "And if you say you're okay",
+          "segments": [
+            "And ",
+            "if ",
+            "you ",
+            "say ",
+            "you're ",
+            "okay"
+          ]
+        },
+        {
+          "key": "127244|I'm gonna heal you anyway",
+          "text": "I'm gonna heal you anyway",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "heal ",
+            "you ",
+            "anyway"
+          ]
+        },
+        {
+          "key": "129904|Promise I'll always be there",
+          "text": "Promise I'll always be there",
+          "segments": [
+            "Promise ",
+            "I'll ",
+            "always ",
+            "be ",
+            "there"
+          ]
+        },
+        {
+          "key": "132314|Promise I'll be the cure",
+          "text": "Promise I'll be the cure",
+          "segments": [
+            "Promise ",
+            "I'll ",
+            "be ",
+            "the ",
+            "cure"
+          ]
+        },
+        {
+          "key": "138064|Be the cure",
+          "text": "Be the cure",
+          "segments": [
+            "Be ",
+            "the ",
+            "cure"
+          ]
+        },
+        {
+          "key": "144344|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "148274|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "153954|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "158754|I'll fix you with my love love love",
+          "text": "I'll fix you with my love love love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love ",
+            "love ",
+            "love"
+          ]
+        },
+        {
+          "key": "163524|If I can't find the cure I'll",
+          "text": "If I can't find the cure I'll",
+          "segments": [
+            "If ",
+            "I ",
+            "can't ",
+            "find ",
+            "the ",
+            "cure ",
+            "I'll"
+          ]
+        },
+        {
+          "key": "165934|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "168284|No matter what you know I'll",
+          "text": "No matter what you know I'll",
+          "segments": [
+            "No ",
+            "matter ",
+            "what ",
+            "you ",
+            "know ",
+            "I'll"
+          ]
+        },
+        {
+          "key": "170724|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        },
+        {
+          "key": "172834|And if you say you're okay",
+          "text": "And if you say you're okay",
+          "segments": [
+            "And ",
+            "if ",
+            "you ",
+            "say ",
+            "you're ",
+            "okay"
+          ]
+        },
+        {
+          "key": "175224|I'm gonna heal you anyway",
+          "text": "I'm gonna heal you anyway",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "heal ",
+            "you ",
+            "anyway"
+          ]
+        },
+        {
+          "key": "177904|Promise I'll always be there",
+          "text": "Promise I'll always be there",
+          "segments": [
+            "Promise ",
+            "I'll ",
+            "always ",
+            "be ",
+            "there"
+          ]
+        },
+        {
+          "key": "180314|Promise I'll be the cure",
+          "text": "Promise I'll be the cure",
+          "segments": [
+            "Promise ",
+            "I'll ",
+            "be ",
+            "the ",
+            "cure"
+          ]
+        },
+        {
+          "key": "186064|Be the cure",
+          "text": "Be the cure",
+          "segments": [
+            "Be ",
+            "the ",
+            "cure"
+          ]
+        },
+        {
+          "key": "189914|Promise I'll be the cure",
+          "text": "Promise I'll be the cure",
+          "segments": [
+            "Promise ",
+            "I'll ",
+            "be ",
+            "the ",
+            "cure"
+          ]
+        },
+        {
+          "key": "195674|Be the cure",
+          "text": "Be the cure",
+          "segments": [
+            "Be ",
+            "the ",
+            "cure"
+          ]
+        },
+        {
+          "key": "200164|I'll fix you with my love",
+          "text": "I'll fix you with my love",
+          "segments": [
+            "I'll ",
+            "fix ",
+            "you ",
+            "with ",
+            "my ",
+            "love"
+          ]
+        }
+      ]
+    }
+  ]
+}

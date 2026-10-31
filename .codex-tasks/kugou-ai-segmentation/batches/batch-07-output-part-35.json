@@ -1,0 +1,15 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:7048fbe36fab2b49cbc23f29fd179024",
+      "lines": [
+        { "key": "720|本作品为纯音乐暂无歌词请欣赏", "text": "本作品为纯音乐暂无歌词请欣赏", "segments": ["本", "作品", "为", "纯音乐", "暂无", "歌词", "请", "欣赏"] },
+        { "key": "20940|This piece is purely instrumental and currently has no lyrics. ", "text": "This piece is purely instrumental and currently has no lyrics. ", "segments": ["This ", "piece ", "is ", "purely ", "instrumental ", "and ", "currently ", "has ", "no ", "lyrics. "] },
+        { "key": "64230|本作品为纯音乐暂无歌词请欣赏", "text": "本作品为纯音乐暂无歌词请欣赏", "segments": ["本", "作品", "为", "纯音乐", "暂无", "歌词", "请", "欣赏"] },
+        { "key": "77880|This piece is purely instrumental and currently has no lyrics. ", "text": "This piece is purely instrumental and currently has no lyrics. ", "segments": ["This ", "piece ", "is ", "purely ", "instrumental ", "and ", "currently ", "has ", "no ", "lyrics. "] },
+        { "key": "98430|本作品为纯音乐暂无歌词请欣赏", "text": "本作品为纯音乐暂无歌词请欣赏", "segments": ["本", "作品", "为", "纯音乐", "暂无", "歌词", "请", "欣赏"] },
+        { "key": "111120|This piece is purely instrumental and currently has no lyrics. ", "text": "This piece is purely instrumental and currently has no lyrics. ", "segments": ["This ", "piece ", "is ", "purely ", "instrumental ", "and ", "currently ", "has ", "no ", "lyrics. "] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:a2f8a7267e0639bf08fcc5fa3b2bcace",
+      "lines": [
+        { "key": "0|Slow Motion - Marshmello/Jonas Brothers", "text": "Slow Motion - Marshmello/Jonas Brothers", "segments": ["Slow ", "Motion ", "- ", "Marshmello/", "Jonas ", "Brothers"] },
+        { "key": "819|Lyrics by：Marshmello/Earwulf/Connor McDonough/CASTLE/Jake Torrey/Nick Gale/Riley McDonough", "text": "Lyrics by：Marshmello/Earwulf/Connor McDonough/CASTLE/Jake Torrey/Nick Gale/Riley McDonough", "segments": ["Lyrics ", "by：", "Marshmello/", "Earwulf/", "Connor ", "McDonough/", "CASTLE/", "Jake ", "Torrey/", "Nick ", "Gale/", "Riley ", "McDonough"] },
+        { "key": "2994|Composed by：Marshmello/Earwulf/Connor McDonough/CASTLE/Jake Torrey/Nick Gale/Riley McDonough", "text": "Composed by：Marshmello/Earwulf/Connor McDonough/CASTLE/Jake Torrey/Nick Gale/Riley McDonough", "segments": ["Composed ", "by：", "Marshmello/", "Earwulf/", "Connor ", "McDonough/", "CASTLE/", "Jake ", "Torrey/", "Nick ", "Gale/", "Riley ", "McDonough"] },
+        { "key": "5334|Produced by：Marshmello/Digital Farm Animals/Earwulf/Connor McDonough", "text": "Produced by：Marshmello/Digital Farm Animals/Earwulf/Connor McDonough", "segments": ["Produced ", "by：", "Marshmello/", "Digital ", "Farm ", "Animals/", "Earwulf/", "Connor ", "McDonough"] },
+        { "key": "9170|Usually not the type to keep 'em waiting", "text": "Usually not the type to keep 'em waiting", "segments": ["Usually ", "not ", "the ", "type ", "to ", "keep ", "'em ", "waiting"] },
+        { "key": "13770|Usually like to love and leave 'em fast", "text": "Usually like to love and leave 'em fast", "segments": ["Usually ", "like ", "to ", "love ", "and ", "leave ", "'em ", "fast"] },
+        { "key": "18327|Something that you doing got me thinking", "text": "Something that you doing got me thinking", "segments": ["Something ", "that ", "you ", "doing ", "got ", "me ", "thinking"] },
+        { "key": "22997|I'ma take my foot up off the gas", "text": "I'ma take my foot up off the gas", "segments": ["I'ma ", "take ", "my ", "foot ", "up ", "off ", "the ", "gas"] },
+        { "key": "26722|She said \"Hey I like where this is going", "text": "She said \"Hey I like where this is going", "segments": ["She ", "said ", "\"Hey ", "I ", "like ", "where ", "this ", "is ", "going"] },
+        { "key": "30866|So let's just take it slow slow motion\"", "text": "So let's just take it slow slow motion\"", "segments": ["So ", "let's ", "just ", "take ", "it ", "slow ", "slow ", "motion\""] },
+        { "key": "35453|Been waiting all day to get you in this moment", "text": "Been waiting all day to get you in this moment", "segments": ["Been ", "waiting ", "all ", "day ", "to ", "get ", "you ", "in ", "this ", "moment"] },
+        { "key": "40035|So let's just take it slow slow motion", "text": "So let's just take it slow slow motion", "segments": ["So ", "let's ", "just ", "take ", "it ", "slow ", "slow ", "motion"] },
+        { "key": "44772|Oh yeah oh yeah oh yeah alright alright alright", "text": "Oh yeah oh yeah oh yeah alright alright alright", "segments": ["Oh ", "yeah ", "oh ", "yeah ", "oh ", "yeah ", "alright ", "alright ", "alright"] },
+        { "key": "49254|So let's just take it slow slow motion", "text": "So let's just take it slow slow motion", "segments": ["So ", "let's ", "just ", "take ", "it ", "slow ", "slow ", "motion"] },
+        { "key": "53893|All day all day all day all night all night all night", "text": "All day all day all day all night all night all night", "segments": ["All ", "day ", "all ", "day ", "all ", "day ", "all ", "night ", "all ", "night ", "all ", "night"] },
+        { "key": "58430|Yeah I'ma take it slow slow motion", "text": "Yeah I'ma take it slow slow motion", "segments": ["Yeah ", "I'ma ", "take ", "it ", "slow ", "slow ", "motion"] },
+        { "key": "67819|Yeah I'ma take it slow slow motion", "text": "Yeah I'ma take it slow slow motion", "segments": ["Yeah ", "I'ma ", "take ", "it ", "slow ", "slow ", "motion"] },
+        { "key": "73912|She don't need a guy to buy a bottle", "text": "She don't need a guy to buy a bottle", "segments": ["She ", "don't ", "need ", "a ", "guy ", "to ", "buy ", "a ", "bottle"] },
+        { "key": "78224|Just someone to spend a little time", "text": "Just someone to spend a little time", "segments": ["Just ", "someone ", "to ", "spend ", "a ", "little ", "time"] },
+        { "key": "82958|Baby I can't promise I'll still be here by tomorrow", "text": "Baby I can't promise I'll still be here by tomorrow", "segments": ["Baby ", "I ", "can't ", "promise ", "I'll ", "still ", "be ", "here ", "by ", "tomorrow"] },
+        { "key": "87540|But I can give you all of me tonight", "text": "But I can give you all of me tonight", "segments": ["But ", "I ", "can ", "give ", "you ", "all ", "of ", "me ", "tonight"] },
+        { "key": "91371|She said \"Hey I like where this is going", "text": "She said \"Hey I like where this is going", "segments": ["She ", "said ", "\"Hey ", "I ", "like ", "where ", "this ", "is ", "going"] },
+        { "key": "95420|So let's just take it slow slow motion\"", "text": "So let's just take it slow slow motion\"", "segments": ["So ", "let's ", "just ", "take ", "it ", "slow ", "slow ", "motion\""] },
+        { "key": "100213|Been waiting all day to get you in this moment", "text": "Been waiting all day to get you in this moment", "segments": ["Been ", "waiting ", "all ", "day ", "to ", "get ", "you ", "in ", "this ", "moment"] },
+        { "key": "104630|So let's just take it slow slow motion", "text": "So let's just take it slow slow motion", "segments": ["So ", "let's ", "just ", "take ", "it ", "slow ", "slow ", "motion"] },
+        { "key": "109285|Oh yeah oh yeah oh yeah alright alright alright", "text": "Oh yeah oh yeah oh yeah alright alright alright", "segments": ["Oh ", "yeah ", "oh ", "yeah ", "oh ", "yeah ", "alright ", "alright ", "alright"] },
+        { "key": "113865|So let's just take it slow slow motion", "text": "So let's just take it slow slow motion", "segments": ["So ", "let's ", "just ", "take ", "it ", "slow ", "slow ", "motion"] },
+        { "key": "118480|All day all day all day all night all night all night", "text": "All day all day all day all night all night all night", "segments": ["All ", "day ", "all ", "day ", "all ", "day ", "all ", "night ", "all ", "night ", "all ", "night"] },
+        { "key": "123073|Yeah I'ma take it slow slow motion", "text": "Yeah I'ma take it slow slow motion", "segments": ["Yeah ", "I'ma ", "take ", "it ", "slow ", "slow ", "motion"] },
+        { "key": "127865|Oh yeah oh yeah oh yeah", "text": "Oh yeah oh yeah oh yeah", "segments": ["Oh ", "yeah ", "oh ", "yeah ", "oh ", "yeah"] },
+        { "key": "130077|Oh yeah yeah yeah", "text": "Oh yeah yeah yeah", "segments": ["Oh ", "yeah ", "yeah ", "yeah"] },
+        { "key": "133822|Slow slow motion", "text": "Slow slow motion", "segments": ["Slow ", "slow ", "motion"] },
+        { "key": "137032|All day all day all day", "text": "All day all day all day", "segments": ["All ", "day ", "all ", "day ", "all ", "day"] },
+        { "key": "142089|I'ma take it slow slow motion", "text": "I'ma take it slow slow motion", "segments": ["I'ma ", "take ", "it ", "slow ", "slow ", "motion"] }
+      ]
+    }
+  ]
+}

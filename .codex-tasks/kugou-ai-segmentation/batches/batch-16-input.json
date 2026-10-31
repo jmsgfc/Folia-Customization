@@ -1,0 +1,1495 @@
+{
+  "batchNumber": 16,
+  "songs": [
+    {
+      "rank": 76,
+      "songKey": "online:kugou:14d7b0b12f97e2878666da4cceb67b2d",
+      "name": "The Cure",
+      "artist": "Lady Gaga",
+      "lines": [
+        {
+          "key": "0|The Cure - Lady Gaga",
+          "startMs": 0,
+          "text": "The Cure - Lady Gaga"
+        },
+        {
+          "key": "2214|Written by：Lady Gaga/Lukas Nelson/Nick Monson/Mark Nilan/Paul Blair",
+          "startMs": 2214,
+          "text": "Written by：Lady Gaga/Lukas Nelson/Nick Monson/Mark Nilan/Paul Blair"
+        },
+        {
+          "key": "9634|I'll undress you 'cause you're tired",
+          "startMs": 9634,
+          "text": "I'll undress you 'cause you're tired"
+        },
+        {
+          "key": "11994|Cover you as you desire",
+          "startMs": 11994,
+          "text": "Cover you as you desire"
+        },
+        {
+          "key": "14424|When you fall asleep inside my arms",
+          "startMs": 14424,
+          "text": "When you fall asleep inside my arms"
+        },
+        {
+          "key": "19194|May not have the fancy things",
+          "startMs": 19194,
+          "text": "May not have the fancy things"
+        },
+        {
+          "key": "21614|But I'll give you everything",
+          "startMs": 21614,
+          "text": "But I'll give you everything"
+        },
+        {
+          "key": "24024|You could ever want it's in my arms",
+          "startMs": 24024,
+          "text": "You could ever want it's in my arms"
+        },
+        {
+          "key": "29074|So baby tell me yes",
+          "startMs": 29074,
+          "text": "So baby tell me yes"
+        },
+        {
+          "key": "31224|And I will give you everything",
+          "startMs": 31224,
+          "text": "And I will give you everything"
+        },
+        {
+          "key": "33994|So baby tell me yes",
+          "startMs": 33994,
+          "text": "So baby tell me yes"
+        },
+        {
+          "key": "36024|And I will be all yours tonight",
+          "startMs": 36024,
+          "text": "And I will be all yours tonight"
+        },
+        {
+          "key": "38674|So baby tell me yes",
+          "startMs": 38674,
+          "text": "So baby tell me yes"
+        },
+        {
+          "key": "40834|And I will give you everything",
+          "startMs": 40834,
+          "text": "And I will give you everything"
+        },
+        {
+          "key": "45624|I will be right by your side",
+          "startMs": 45624,
+          "text": "I will be right by your side"
+        },
+        {
+          "key": "48324|If I can't find the cure I'll",
+          "startMs": 48324,
+          "text": "If I can't find the cure I'll"
+        },
+        {
+          "key": "50734|I'll fix you with my love",
+          "startMs": 50734,
+          "text": "I'll fix you with my love"
+        },
+        {
+          "key": "53074|No matter what you know I'll",
+          "startMs": 53074,
+          "text": "No matter what you know I'll"
+        },
+        {
+          "key": "55524|I'll fix you with my love",
+          "startMs": 55524,
+          "text": "I'll fix you with my love"
+        },
+        {
+          "key": "57634|And if you say you're okay",
+          "startMs": 57634,
+          "text": "And if you say you're okay"
+        },
+        {
+          "key": "60024|I'm gonna heal you anyway",
+          "startMs": 60024,
+          "text": "I'm gonna heal you anyway"
+        },
+        {
+          "key": "62694|Promise I'll always be there",
+          "startMs": 62694,
+          "text": "Promise I'll always be there"
+        },
+        {
+          "key": "65114|Promise I'll be the cure",
+          "startMs": 65114,
+          "text": "Promise I'll be the cure"
+        },
+        {
+          "key": "70864|Be the cure",
+          "startMs": 70864,
+          "text": "Be the cure"
+        },
+        {
+          "key": "76794|Rub your feet your hands your legs",
+          "startMs": 76794,
+          "text": "Rub your feet your hands your legs"
+        },
+        {
+          "key": "79234|Let me take care of it babe",
+          "startMs": 79234,
+          "text": "Let me take care of it babe"
+        },
+        {
+          "key": "81594|Close your eyes I'll sing your favorite song",
+          "startMs": 81594,
+          "text": "Close your eyes I'll sing your favorite song"
+        },
+        {
+          "key": "86424|I wrote you this lullaby",
+          "startMs": 86424,
+          "text": "I wrote you this lullaby"
+        },
+        {
+          "key": "88784|Hush now baby don't you cry",
+          "startMs": 88784,
+          "text": "Hush now baby don't you cry"
+        },
+        {
+          "key": "91234|Anything you want could not be wrong",
+          "startMs": 91234,
+          "text": "Anything you want could not be wrong"
+        },
+        {
+          "key": "96284|So baby tell me yes",
+          "startMs": 96284,
+          "text": "So baby tell me yes"
+        },
+        {
+          "key": "98424|And I will give you everything",
+          "startMs": 98424,
+          "text": "And I will give you everything"
+        },
+        {
+          "key": "101204|So baby tell me yes",
+          "startMs": 101204,
+          "text": "So baby tell me yes"
+        },
+        {
+          "key": "103224|And I will be all yours tonight",
+          "startMs": 103224,
+          "text": "And I will be all yours tonight"
+        },
+        {
+          "key": "105884|So baby tell me yes",
+          "startMs": 105884,
+          "text": "So baby tell me yes"
+        },
+        {
+          "key": "108024|And I will give you everything",
+          "startMs": 108024,
+          "text": "And I will give you everything"
+        },
+        {
+          "key": "112834|I will be right by your side",
+          "startMs": 112834,
+          "text": "I will be right by your side"
+        },
+        {
+          "key": "115534|If I can't find the cure I'll",
+          "startMs": 115534,
+          "text": "If I can't find the cure I'll"
+        },
+        {
+          "key": "117934|I'll fix you with my love",
+          "startMs": 117934,
+          "text": "I'll fix you with my love"
+        },
+        {
+          "key": "120274|No matter what you know I'll",
+          "startMs": 120274,
+          "text": "No matter what you know I'll"
+        },
+        {
+          "key": "122724|I'll fix you with my love",
+          "startMs": 122724,
+          "text": "I'll fix you with my love"
+        },
+        {
+          "key": "124834|And if you say you're okay",
+          "startMs": 124834,
+          "text": "And if you say you're okay"
+        },
+        {
+          "key": "127244|I'm gonna heal you anyway",
+          "startMs": 127244,
+          "text": "I'm gonna heal you anyway"
+        },
+        {
+          "key": "129904|Promise I'll always be there",
+          "startMs": 129904,
+          "text": "Promise I'll always be there"
+        },
+        {
+          "key": "132314|Promise I'll be the cure",
+          "startMs": 132314,
+          "text": "Promise I'll be the cure"
+        },
+        {
+          "key": "138064|Be the cure",
+          "startMs": 138064,
+          "text": "Be the cure"
+        },
+        {
+          "key": "144344|I'll fix you with my love",
+          "startMs": 144344,
+          "text": "I'll fix you with my love"
+        },
+        {
+          "key": "148274|I'll fix you with my love",
+          "startMs": 148274,
+          "text": "I'll fix you with my love"
+        },
+        {
+          "key": "153954|I'll fix you with my love",
+          "startMs": 153954,
+          "text": "I'll fix you with my love"
+        },
+        {
+          "key": "158754|I'll fix you with my love love love",
+          "startMs": 158754,
+          "text": "I'll fix you with my love love love"
+        },
+        {
+          "key": "163524|If I can't find the cure I'll",
+          "startMs": 163524,
+          "text": "If I can't find the cure I'll"
+        },
+        {
+          "key": "165934|I'll fix you with my love",
+          "startMs": 165934,
+          "text": "I'll fix you with my love"
+        },
+        {
+          "key": "168284|No matter what you know I'll",
+          "startMs": 168284,
+          "text": "No matter what you know I'll"
+        },
+        {
+          "key": "170724|I'll fix you with my love",
+          "startMs": 170724,
+          "text": "I'll fix you with my love"
+        },
+        {
+          "key": "172834|And if you say you're okay",
+          "startMs": 172834,
+          "text": "And if you say you're okay"
+        },
+        {
+          "key": "175224|I'm gonna heal you anyway",
+          "startMs": 175224,
+          "text": "I'm gonna heal you anyway"
+        },
+        {
+          "key": "177904|Promise I'll always be there",
+          "startMs": 177904,
+          "text": "Promise I'll always be there"
+        },
+        {
+          "key": "180314|Promise I'll be the cure",
+          "startMs": 180314,
+          "text": "Promise I'll be the cure"
+        },
+        {
+          "key": "186064|Be the cure",
+          "startMs": 186064,
+          "text": "Be the cure"
+        },
+        {
+          "key": "189914|Promise I'll be the cure",
+          "startMs": 189914,
+          "text": "Promise I'll be the cure"
+        },
+        {
+          "key": "195674|Be the cure",
+          "startMs": 195674,
+          "text": "Be the cure"
+        },
+        {
+          "key": "200164|I'll fix you with my love",
+          "startMs": 200164,
+          "text": "I'll fix you with my love"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "songKey": "online:kugou:f30159634f735880b16a2e4e44485cf5",
+      "name": "거짓말 (谎言)",
+      "artist": "BIGBANG",
+      "lines": [
+        {
+          "key": "49|거짓말 (谎言) - BIGBANG",
+          "startMs": 49,
+          "text": "거짓말 (谎言) - BIGBANG"
+        },
+        {
+          "key": "4583|词：G-DRAGON",
+          "startMs": 4583,
+          "text": "词：G-DRAGON"
+        },
+        {
+          "key": "5487|曲：G-DRAGON",
+          "startMs": 5487,
+          "text": "曲：G-DRAGON"
+        },
+        {
+          "key": "6331|编曲：용감한 형제",
+          "startMs": 6331,
+          "text": "编曲：용감한 형제"
+        },
+        {
+          "key": "18310|Ye love is pain",
+          "startMs": 18310,
+          "text": "Ye love is pain"
+        },
+        {
+          "key": "20581|To all my brokenhearted people",
+          "startMs": 20581,
+          "text": "To all my brokenhearted people"
+        },
+        {
+          "key": "23244|One's old a flame",
+          "startMs": 23244,
+          "text": "One's old a flame"
+        },
+        {
+          "key": "24953|Scream my name",
+          "startMs": 24953,
+          "text": "Scream my name"
+        },
+        {
+          "key": "26426|And I'm so sick of love songs",
+          "startMs": 26426,
+          "text": "And I'm so sick of love songs"
+        },
+        {
+          "key": "28999|Ye I hate damn love song",
+          "startMs": 28999,
+          "text": "Ye I hate damn love song"
+        },
+        {
+          "key": "30767|Memento of ours",
+          "startMs": 30767,
+          "text": "Memento of ours"
+        },
+        {
+          "key": "32030|거짓말",
+          "startMs": 32030,
+          "text": "거짓말"
+        },
+        {
+          "key": "33457|늦은 밤 비가 내려와",
+          "startMs": 33457,
+          "text": "늦은 밤 비가 내려와"
+        },
+        {
+          "key": "34769|널 데려와",
+          "startMs": 34769,
+          "text": "널 데려와"
+        },
+        {
+          "key": "35710|젖은 기억 끝에 뒤척여 나",
+          "startMs": 35710,
+          "text": "젖은 기억 끝에 뒤척여 나"
+        },
+        {
+          "key": "37753|너 없이 잘 살 수 있다고",
+          "startMs": 37753,
+          "text": "너 없이 잘 살 수 있다고"
+        },
+        {
+          "key": "39621|다짐 해봐도 어쩔 수 없다고",
+          "startMs": 39621,
+          "text": "다짐 해봐도 어쩔 수 없다고"
+        },
+        {
+          "key": "41549|못하는 술도 마시고",
+          "startMs": 41549,
+          "text": "못하는 술도 마시고"
+        },
+        {
+          "key": "42957|속타는 맘 밤새 채워봐도",
+          "startMs": 42957,
+          "text": "속타는 맘 밤새 채워봐도"
+        },
+        {
+          "key": "44918|싫어 너 없는 하루는 길어 빌어",
+          "startMs": 44918,
+          "text": "싫어 너 없는 하루는 길어 빌어"
+        },
+        {
+          "key": "47373|제발 잊게 해달라고",
+          "startMs": 47373,
+          "text": "제발 잊게 해달라고"
+        },
+        {
+          "key": "49223|너 없는 내겐 웃음이 보이지 않아",
+          "startMs": 49223,
+          "text": "너 없는 내겐 웃음이 보이지 않아"
+        },
+        {
+          "key": "52161|눈물조차 고이지 않아",
+          "startMs": 52161,
+          "text": "눈물조차 고이지 않아"
+        },
+        {
+          "key": "54163|더는 살고 싶지 않아",
+          "startMs": 54163,
+          "text": "더는 살고 싶지 않아"
+        },
+        {
+          "key": "56961|엿같애 열받게",
+          "startMs": 56961,
+          "text": "엿같애 열받게"
+        },
+        {
+          "key": "58792|니 생각에 돌아버릴것 같애",
+          "startMs": 58792,
+          "text": "니 생각에 돌아버릴것 같애"
+        },
+        {
+          "key": "60775|보고 싶은데 볼 수가 없대",
+          "startMs": 60775,
+          "text": "보고 싶은데 볼 수가 없대"
+        },
+        {
+          "key": "62693|모두 끝났대",
+          "startMs": 62693,
+          "text": "모두 끝났대"
+        },
+        {
+          "key": "63447|I'll be right there",
+          "startMs": 63447,
+          "text": "I'll be right there"
+        },
+        {
+          "key": "64194|I'm so sorry but I love you",
+          "startMs": 64194,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "65703|다 거짓말 이야 몰랐어",
+          "startMs": 65703,
+          "text": "다 거짓말 이야 몰랐어"
+        },
+        {
+          "key": "69006|이제야 알았어",
+          "startMs": 69006,
+          "text": "이제야 알았어"
+        },
+        {
+          "key": "70836|네가 필요해",
+          "startMs": 70836,
+          "text": "네가 필요해"
+        },
+        {
+          "key": "71839|I'm so sorry but I love you",
+          "startMs": 71839,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "73454|날카로운 말",
+          "startMs": 73454,
+          "text": "날카로운 말"
+        },
+        {
+          "key": "75280|홧김에 나도 모르게",
+          "startMs": 75280,
+          "text": "홧김에 나도 모르게"
+        },
+        {
+          "key": "77037|널 떠나보냈지만",
+          "startMs": 77037,
+          "text": "널 떠나보냈지만"
+        },
+        {
+          "key": "79512|I'm so sorry but I love you",
+          "startMs": 79512,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "81046|다 거짓말",
+          "startMs": 81046,
+          "text": "다 거짓말"
+        },
+        {
+          "key": "83086|I'm so sorry",
+          "startMs": 83086,
+          "text": "I'm so sorry"
+        },
+        {
+          "key": "84860|But I love you",
+          "startMs": 84860,
+          "text": "But I love you"
+        },
+        {
+          "key": "87069|I'm so sorry but I love you",
+          "startMs": 87069,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "88755|나를 떠나",
+          "startMs": 88755,
+          "text": "나를 떠나"
+        },
+        {
+          "key": "90588|천천히 잊어줄래",
+          "startMs": 90588,
+          "text": "천천히 잊어줄래"
+        },
+        {
+          "key": "92493|내가 아파할 수 있게",
+          "startMs": 92493,
+          "text": "내가 아파할 수 있게"
+        },
+        {
+          "key": "95228|그댈 위해서 불러왔던",
+          "startMs": 95228,
+          "text": "그댈 위해서 불러왔던"
+        },
+        {
+          "key": "96754|내 모든 걸 다 바친 노래",
+          "startMs": 96754,
+          "text": "내 모든 걸 다 바친 노래"
+        },
+        {
+          "key": "100832|사람들은 모르겠죠",
+          "startMs": 100832,
+          "text": "사람들은 모르겠죠"
+        },
+        {
+          "key": "102848|난 혼자 그 아무도 아무도 몰래",
+          "startMs": 102848,
+          "text": "난 혼자 그 아무도 아무도 몰래"
+        },
+        {
+          "key": "108471|그래 내가 했던 말은 거짓말",
+          "startMs": 108471,
+          "text": "그래 내가 했던 말은 거짓말"
+        },
+        {
+          "key": "110594|홀로 남겨진 외톨이",
+          "startMs": 110594,
+          "text": "홀로 남겨진 외톨이"
+        },
+        {
+          "key": "112182|그 속에 헤매는 내 꼴이",
+          "startMs": 112182,
+          "text": "그 속에 헤매는 내 꼴이"
+        },
+        {
+          "key": "114126|주머니 속에 꼬깃꼬깃",
+          "startMs": 114126,
+          "text": "주머니 속에 꼬깃꼬깃"
+        },
+        {
+          "key": "116053|접어둔 이별을 향한 쪽지",
+          "startMs": 116053,
+          "text": "접어둔 이별을 향한 쪽지"
+        },
+        {
+          "key": "118422|넌 어딨나요 널 부르는 습관도",
+          "startMs": 118422,
+          "text": "넌 어딨나요 널 부르는 습관도"
+        },
+        {
+          "key": "122245|난 달라질래",
+          "startMs": 122245,
+          "text": "난 달라질래"
+        },
+        {
+          "key": "123709|이젠 다 웃어넘길게",
+          "startMs": 123709,
+          "text": "이젠 다 웃어넘길게"
+        },
+        {
+          "key": "125532|I'm so sorry but I love you",
+          "startMs": 125532,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "127166|다 거짓말 이야 몰랐어",
+          "startMs": 127166,
+          "text": "다 거짓말 이야 몰랐어"
+        },
+        {
+          "key": "130441|이제야 알았어",
+          "startMs": 130441,
+          "text": "이제야 알았어"
+        },
+        {
+          "key": "132281|네가 필요해",
+          "startMs": 132281,
+          "text": "네가 필요해"
+        },
+        {
+          "key": "133336|I'm so sorry but I love you",
+          "startMs": 133336,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "134863|날카로운 말",
+          "startMs": 134863,
+          "text": "날카로운 말"
+        },
+        {
+          "key": "136676|홧김에 나도 모르게",
+          "startMs": 136676,
+          "text": "홧김에 나도 모르게"
+        },
+        {
+          "key": "138517|널 떠나보냈지만",
+          "startMs": 138517,
+          "text": "널 떠나보냈지만"
+        },
+        {
+          "key": "140847|I'm so sorry but I love you",
+          "startMs": 140847,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "142428|다 거짓말",
+          "startMs": 142428,
+          "text": "다 거짓말"
+        },
+        {
+          "key": "144276|I'm so sorry",
+          "startMs": 144276,
+          "text": "I'm so sorry"
+        },
+        {
+          "key": "146284|But I love you",
+          "startMs": 146284,
+          "text": "But I love you"
+        },
+        {
+          "key": "148484|I'm so sorry but I love you",
+          "startMs": 148484,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "150200|나를 떠나",
+          "startMs": 150200,
+          "text": "나를 떠나"
+        },
+        {
+          "key": "151998|천천히 잊어줄래",
+          "startMs": 151998,
+          "text": "천천히 잊어줄래"
+        },
+        {
+          "key": "153921|내가 아파할 수 있게",
+          "startMs": 153921,
+          "text": "내가 아파할 수 있게"
+        },
+        {
+          "key": "162864|모든게 꿈이길",
+          "startMs": 162864,
+          "text": "모든게 꿈이길"
+        },
+        {
+          "key": "167490|이것밖에 안되는 나라서",
+          "startMs": 167490,
+          "text": "이것밖에 안되는 나라서"
+        },
+        {
+          "key": "172249|아직도 너를 못 잊어",
+          "startMs": 172249,
+          "text": "아직도 너를 못 잊어"
+        },
+        {
+          "key": "175005|아니 평생을 가도 죽어서까지도",
+          "startMs": 175005,
+          "text": "아니 평생을 가도 죽어서까지도"
+        },
+        {
+          "key": "179889|내가 준 상처 아물었는지",
+          "startMs": 179889,
+          "text": "내가 준 상처 아물었는지"
+        },
+        {
+          "key": "182718|미안해",
+          "startMs": 182718,
+          "text": "미안해"
+        },
+        {
+          "key": "183760|아무것도 해준게 없는 나라서",
+          "startMs": 183760,
+          "text": "아무것도 해준게 없는 나라서"
+        },
+        {
+          "key": "186937|I'm so sorry but I love you",
+          "startMs": 186937,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "188618|다 거짓말 이야 몰랐어",
+          "startMs": 188618,
+          "text": "다 거짓말 이야 몰랐어"
+        },
+        {
+          "key": "191906|이제야 알았어 네가 필요해",
+          "startMs": 191906,
+          "text": "이제야 알았어 네가 필요해"
+        },
+        {
+          "key": "194702|I'm so sorry but I love you",
+          "startMs": 194702,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "196264|날카로운 말",
+          "startMs": 196264,
+          "text": "날카로운 말"
+        },
+        {
+          "key": "198131|홧김에 나도 모르게",
+          "startMs": 198131,
+          "text": "홧김에 나도 모르게"
+        },
+        {
+          "key": "199928|널 떠나보냈지만",
+          "startMs": 199928,
+          "text": "널 떠나보냈지만"
+        },
+        {
+          "key": "202262|I'm so sorry but I love you",
+          "startMs": 202262,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "203864|다 거짓말",
+          "startMs": 203864,
+          "text": "다 거짓말"
+        },
+        {
+          "key": "205904|I'm so sorry",
+          "startMs": 205904,
+          "text": "I'm so sorry"
+        },
+        {
+          "key": "207697|But I love you",
+          "startMs": 207697,
+          "text": "But I love you"
+        },
+        {
+          "key": "210017|I'm so sorry but I love you",
+          "startMs": 210017,
+          "text": "I'm so sorry but I love you"
+        },
+        {
+          "key": "211521|나를 떠나",
+          "startMs": 211521,
+          "text": "나를 떠나"
+        },
+        {
+          "key": "213458|천천히 잊어줄래",
+          "startMs": 213458,
+          "text": "천천히 잊어줄래"
+        },
+        {
+          "key": "215360|내가 아파할 수 있게",
+          "startMs": 215360,
+          "text": "내가 아파할 수 있게"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "songKey": "online:kugou:8e8acb50e7c7ecc96bf0ebc70934d6a2",
+      "name": "Cry For Me (英文版)",
+      "artist": "七元",
+      "lines": [
+        {
+          "key": "0|Cry For Me（英文版）-七元",
+          "startMs": 0,
+          "text": "Cry For Me（英文版）-七元"
+        },
+        {
+          "key": "1822|词：Michita (ミチタ)",
+          "startMs": 1822,
+          "text": "词：Michita (ミチタ)"
+        },
+        {
+          "key": "3340|曲：Michita (ミチタ)",
+          "startMs": 3340,
+          "text": "曲：Michita (ミチタ)"
+        },
+        {
+          "key": "4859|原唱：Michita (ミチタ)",
+          "startMs": 4859,
+          "text": "原唱：Michita (ミチタ)"
+        },
+        {
+          "key": "6479|英文改编：虞绮",
+          "startMs": 6479,
+          "text": "英文改编：虞绮"
+        },
+        {
+          "key": "7187|制作人：Eric-4z0y",
+          "startMs": 7187,
+          "text": "制作人：Eric-4z0y"
+        },
+        {
+          "key": "8504|编曲：Eric-4z0y",
+          "startMs": 8504,
+          "text": "编曲：Eric-4z0y"
+        },
+        {
+          "key": "9718|和声：MAD",
+          "startMs": 9718,
+          "text": "和声：MAD"
+        },
+        {
+          "key": "10326|鼓：Eric-4z0y",
+          "startMs": 10326,
+          "text": "鼓：Eric-4z0y"
+        },
+        {
+          "key": "11440|混音母带：谁扔的香蕉皮",
+          "startMs": 11440,
+          "text": "混音母带：谁扔的香蕉皮"
+        },
+        {
+          "key": "12553|音频编辑：陈潇",
+          "startMs": 12553,
+          "text": "音频编辑：陈潇"
+        },
+        {
+          "key": "13262|录音：Deepain",
+          "startMs": 13262,
+          "text": "录音：Deepain"
+        },
+        {
+          "key": "14274|录音棚：文弘音乐",
+          "startMs": 14274,
+          "text": "录音棚：文弘音乐"
+        },
+        {
+          "key": "15084|制作团队：YU.Music",
+          "startMs": 15084,
+          "text": "制作团队：YU.Music"
+        },
+        {
+          "key": "16400|封面：左意辰",
+          "startMs": 16400,
+          "text": "封面：左意辰"
+        },
+        {
+          "key": "17008|宣传：阿飞@喜烁文化",
+          "startMs": 17008,
+          "text": "宣传：阿飞@喜烁文化"
+        },
+        {
+          "key": "18020|企划：泽源屿",
+          "startMs": 18020,
+          "text": "企划：泽源屿"
+        },
+        {
+          "key": "18627|出品：易燃易爆",
+          "startMs": 18627,
+          "text": "出品：易燃易爆"
+        },
+        {
+          "key": "19336|【本音乐作品已获得正版授权】",
+          "startMs": 19336,
+          "text": "【本音乐作品已获得正版授权】"
+        },
+        {
+          "key": "20754|If I had never owned anything",
+          "startMs": 20754,
+          "text": "If I had never owned anything"
+        },
+        {
+          "key": "44664|I wouldn't have lost it",
+          "startMs": 44664,
+          "text": "I wouldn't have lost it"
+        },
+        {
+          "key": "51104|I would have lost nothing",
+          "startMs": 51104,
+          "text": "I would have lost nothing"
+        },
+        {
+          "key": "53744|If all is bound to be",
+          "startMs": 53744,
+          "text": "If all is bound to be"
+        },
+        {
+          "key": "56344|Why not go with destiny",
+          "startMs": 56344,
+          "text": "Why not go with destiny"
+        },
+        {
+          "key": "59014|Now I won't cry for anybody",
+          "startMs": 59014,
+          "text": "Now I won't cry for anybody"
+        },
+        {
+          "key": "62224|Cry for me",
+          "startMs": 62224,
+          "text": "Cry for me"
+        },
+        {
+          "key": "64354|Time goes though",
+          "startMs": 64354,
+          "text": "Time goes though"
+        },
+        {
+          "key": "66874|lasting pain just won't let me go",
+          "startMs": 66874,
+          "text": "lasting pain just won't let me go"
+        },
+        {
+          "key": "69474|Having been abandoned I was totally a joke",
+          "startMs": 69474,
+          "text": "Having been abandoned I was totally a joke"
+        },
+        {
+          "key": "74734|The stronger my heart grows",
+          "startMs": 74734,
+          "text": "The stronger my heart grows"
+        },
+        {
+          "key": "77374|The more intense the pain grows",
+          "startMs": 77374,
+          "text": "The more intense the pain grows"
+        },
+        {
+          "key": "79994|How I wanna know when I can stop enduring this sorrow",
+          "startMs": 79994,
+          "text": "How I wanna know when I can stop enduring this sorrow"
+        },
+        {
+          "key": "84784|Maybe forever lonely",
+          "startMs": 84784,
+          "text": "Maybe forever lonely"
+        },
+        {
+          "key": "86554|But it doesn't matter all is what I chose to be",
+          "startMs": 86554,
+          "text": "But it doesn't matter all is what I chose to be"
+        },
+        {
+          "key": "89234|After I had lost something",
+          "startMs": 89234,
+          "text": "After I had lost something"
+        },
+        {
+          "key": "91664|Then I become afraid of having everything",
+          "startMs": 91664,
+          "text": "Then I become afraid of having everything"
+        },
+        {
+          "key": "94464|I tried my best to forget my past",
+          "startMs": 94464,
+          "text": "I tried my best to forget my past"
+        },
+        {
+          "key": "97104|Memories are all about ya",
+          "startMs": 97104,
+          "text": "Memories are all about ya"
+        },
+        {
+          "key": "99714|And they've become one of my part",
+          "startMs": 99714,
+          "text": "And they've become one of my part"
+        },
+        {
+          "key": "102324|That's why when night falls by them I got caught",
+          "startMs": 102324,
+          "text": "That's why when night falls by them I got caught"
+        },
+        {
+          "key": "106284|If I had never owned anything",
+          "startMs": 106284,
+          "text": "If I had never owned anything"
+        },
+        {
+          "key": "111534|I wouldn't have lost it",
+          "startMs": 111534,
+          "text": "I wouldn't have lost it"
+        },
+        {
+          "key": "114144|I would have lost nothing",
+          "startMs": 114144,
+          "text": "I would have lost nothing"
+        },
+        {
+          "key": "116784|If all is bound to be",
+          "startMs": 116784,
+          "text": "If all is bound to be"
+        },
+        {
+          "key": "119384|Why not go with destiny",
+          "startMs": 119384,
+          "text": "Why not go with destiny"
+        },
+        {
+          "key": "122044|Now I won't cry for anybody",
+          "startMs": 122044,
+          "text": "Now I won't cry for anybody"
+        },
+        {
+          "key": "125304|Cry for me",
+          "startMs": 125304,
+          "text": "Cry for me"
+        },
+        {
+          "key": "127354|Once my tears for the one I love",
+          "startMs": 127354,
+          "text": "Once my tears for the one I love"
+        },
+        {
+          "key": "132544|But the one gave me the deepest cut",
+          "startMs": 132544,
+          "text": "But the one gave me the deepest cut"
+        },
+        {
+          "key": "137794|Now you're no longer my lust",
+          "startMs": 137794,
+          "text": "Now you're no longer my lust"
+        },
+        {
+          "key": "140414|Also no longer the must",
+          "startMs": 140414,
+          "text": "Also no longer the must"
+        },
+        {
+          "key": "143024|I decide to remove you thoroughly from my heart",
+          "startMs": 143024,
+          "text": "I decide to remove you thoroughly from my heart"
+        },
+        {
+          "key": "148144|So this time I won't cry except for the future me",
+          "startMs": 148144,
+          "text": "So this time I won't cry except for the future me"
+        },
+        {
+          "key": "153514|Overflowing missing turns sadness into a hollow seed",
+          "startMs": 153514,
+          "text": "Overflowing missing turns sadness into a hollow seed"
+        },
+        {
+          "key": "158724|Feel relived and numb about your French leave",
+          "startMs": 158724,
+          "text": "Feel relived and numb about your French leave"
+        },
+        {
+          "key": "164684|Had enough so it's time to set myself free",
+          "startMs": 164684,
+          "text": "Had enough so it's time to set myself free"
+        },
+        {
+          "key": "189214|If I had never owned anything",
+          "startMs": 189214,
+          "text": "If I had never owned anything"
+        },
+        {
+          "key": "195544|I wouldn't have lost it",
+          "startMs": 195544,
+          "text": "I wouldn't have lost it"
+        },
+        {
+          "key": "198144|I would have lost nothing",
+          "startMs": 198144,
+          "text": "I would have lost nothing"
+        },
+        {
+          "key": "200784|If all is bound to be",
+          "startMs": 200784,
+          "text": "If all is bound to be"
+        },
+        {
+          "key": "203394|Why not go with destiny",
+          "startMs": 203394,
+          "text": "Why not go with destiny"
+        },
+        {
+          "key": "206064|Now I won't cry for anybody",
+          "startMs": 206064,
+          "text": "Now I won't cry for anybody"
+        },
+        {
+          "key": "209344|Cry for me",
+          "startMs": 209344,
+          "text": "Cry for me"
+        },
+        {
+          "key": "211394|Used to cry for you but it's not worth it",
+          "startMs": 211394,
+          "text": "Used to cry for you but it's not worth it"
+        },
+        {
+          "key": "233554|Now I won't cry for anyone anything",
+          "startMs": 233554,
+          "text": "Now I won't cry for anyone anything"
+        },
+        {
+          "key": "283546|Just for me",
+          "startMs": 283546,
+          "text": "Just for me"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "songKey": "online:kugou:696cbc01c22e339bbc55e258a55c8b0a",
+      "name": "谁 (钢琴版)",
+      "artist": "Ben George",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "songKey": "online:kugou:d0ddf1578eea0d08ec086f339442151d",
+      "name": "记·念 (Live)",
+      "artist": "周深",
+      "lines": [
+        {
+          "key": "562|周深 - 记·念 (Live)",
+          "startMs": 562,
+          "text": "周深 - 记·念 (Live)"
+        },
+        {
+          "key": "1269|作词：蒋思涵、雷雨心",
+          "startMs": 1269,
+          "text": "作词：蒋思涵、雷雨心"
+        },
+        {
+          "key": "1522|作曲：雷雨心",
+          "startMs": 1522,
+          "text": "作曲：雷雨心"
+        },
+        {
+          "key": "1674|编曲：弋洋",
+          "startMs": 1674,
+          "text": "编曲：弋洋"
+        },
+        {
+          "key": "1825|原唱：雷雨心",
+          "startMs": 1825,
+          "text": "原唱：雷雨心"
+        },
+        {
+          "key": "1977|制作人：陈稷坤JKun",
+          "startMs": 1977,
+          "text": "制作人：陈稷坤JKun"
+        },
+        {
+          "key": "2230|音乐总监：郑楠@SBMS Beijing",
+          "startMs": 2230,
+          "text": "音乐总监：郑楠@SBMS Beijing"
+        },
+        {
+          "key": "2484|键盘：吴桐",
+          "startMs": 2484,
+          "text": "键盘：吴桐"
+        },
+        {
+          "key": "2637|吉他：劳国贤、牛子健@SBMS Beijing",
+          "startMs": 2637,
+          "text": "吉他：劳国贤、牛子健@SBMS Beijing"
+        },
+        {
+          "key": "2992|鼓：肖博文",
+          "startMs": 2992,
+          "text": "鼓：肖博文"
+        },
+        {
+          "key": "3093|贝斯：韩久强",
+          "startMs": 3093,
+          "text": "贝斯：韩久强"
+        },
+        {
+          "key": "3295|和声编写：张义欣",
+          "startMs": 3295,
+          "text": "和声编写：张义欣"
+        },
+        {
+          "key": "3498|和声：张恋歌、张义欣、张嫚宸、费瀚林、陈抒妮、路默依、Eileen Shan Zou、谢思琪、阿如汉、陈稷坤、杨新浩、江小天",
+          "startMs": 3498,
+          "text": "和声：张恋歌、张义欣、张嫚宸、费瀚林、陈抒妮、路默依、Eileen Shan Zou、谢思琪、阿如汉、陈稷坤、杨新浩、江小天"
+        },
+        {
+          "key": "4763|PGM：郭舒文@SBMS Beijing",
+          "startMs": 4763,
+          "text": "PGM：郭舒文@SBMS Beijing"
+        },
+        {
+          "key": "4964|混音：赵靖@SBMS Beijing",
+          "startMs": 4964,
+          "text": "混音：赵靖@SBMS Beijing"
+        },
+        {
+          "key": "5216|音乐统筹：吕易秋@SBMS Beijing、朱思梦@SBMS Beijing",
+          "startMs": 5216,
+          "text": "音乐统筹：吕易秋@SBMS Beijing、朱思梦@SBMS Beijing"
+        },
+        {
+          "key": "5671|制作团队：SPEEDBUMPS MUSIC BEIJING",
+          "startMs": 5671,
+          "text": "制作团队：SPEEDBUMPS MUSIC BEIJING"
+        },
+        {
+          "key": "21030|时间一转眼就过去了三年",
+          "startMs": 21030,
+          "text": "时间一转眼就过去了三年"
+        },
+        {
+          "key": "25438|一切在我心里开的好皎洁",
+          "startMs": 25438,
+          "text": "一切在我心里开的好皎洁"
+        },
+        {
+          "key": "29851|现在倒计时也不剩几天",
+          "startMs": 29851,
+          "text": "现在倒计时也不剩几天"
+        },
+        {
+          "key": "34101|脚边的纸片",
+          "startMs": 34101,
+          "text": "脚边的纸片"
+        },
+        {
+          "key": "36379|来不及去捡",
+          "startMs": 36379,
+          "text": "来不及去捡"
+        },
+        {
+          "key": "38965|仿佛是快要冲破压力的茧",
+          "startMs": 38965,
+          "text": "仿佛是快要冲破压力的茧"
+        },
+        {
+          "key": "43320|离校后大家又各自熬夜",
+          "startMs": 43320,
+          "text": "离校后大家又各自熬夜"
+        },
+        {
+          "key": "47929|早上的黑眼圈",
+          "startMs": 47929,
+          "text": "早上的黑眼圈"
+        },
+        {
+          "key": "50059|课上的小困倦",
+          "startMs": 50059,
+          "text": "课上的小困倦"
+        },
+        {
+          "key": "52285|一天一天又一天",
+          "startMs": 52285,
+          "text": "一天一天又一天"
+        },
+        {
+          "key": "57950|我只想要拉住流年",
+          "startMs": 57950,
+          "text": "我只想要拉住流年"
+        },
+        {
+          "key": "61036|好好的说声再见",
+          "startMs": 61036,
+          "text": "好好的说声再见"
+        },
+        {
+          "key": "63513|遗憾感谢都回不去昨天",
+          "startMs": 63513,
+          "text": "遗憾感谢都回不去昨天"
+        },
+        {
+          "key": "67109|我只想铭记这瞬间",
+          "startMs": 67109,
+          "text": "我只想铭记这瞬间"
+        },
+        {
+          "key": "71066|我们一起走过的光年",
+          "startMs": 71066,
+          "text": "我们一起走过的光年"
+        },
+        {
+          "key": "76712|六月后 光年成纪念",
+          "startMs": 76712,
+          "text": "六月后 光年成纪念"
+        },
+        {
+          "key": "89310|这个班级太傲娇",
+          "startMs": 89310,
+          "text": "这个班级太傲娇"
+        },
+        {
+          "key": "91286|什么课都不发言",
+          "startMs": 91286,
+          "text": "什么课都不发言"
+        },
+        {
+          "key": "93462|但是还是很温暖",
+          "startMs": 93462,
+          "text": "但是还是很温暖"
+        },
+        {
+          "key": "96192|同学之间的寒暄",
+          "startMs": 96192,
+          "text": "同学之间的寒暄"
+        },
+        {
+          "key": "98676|压着课本抄作业",
+          "startMs": 98676,
+          "text": "压着课本抄作业"
+        },
+        {
+          "key": "100853|考试上的看一眼",
+          "startMs": 100853,
+          "text": "考试上的看一眼"
+        },
+        {
+          "key": "103079|现在想起来",
+          "startMs": 103079,
+          "text": "现在想起来"
+        },
+        {
+          "key": "104252|会不会觉得很亲切",
+          "startMs": 104252,
+          "text": "会不会觉得很亲切"
+        },
+        {
+          "key": "110982|我只想要拉住流年",
+          "startMs": 110982,
+          "text": "我只想要拉住流年"
+        },
+        {
+          "key": "113918|好好的说声再见",
+          "startMs": 113918,
+          "text": "好好的说声再见"
+        },
+        {
+          "key": "116343|遗憾感谢都回不去昨天",
+          "startMs": 116343,
+          "text": "遗憾感谢都回不去昨天"
+        },
+        {
+          "key": "120357|我只想铭记这瞬间",
+          "startMs": 120357,
+          "text": "我只想铭记这瞬间"
+        },
+        {
+          "key": "123808|我们一起走过的光年",
+          "startMs": 123808,
+          "text": "我们一起走过的光年"
+        },
+        {
+          "key": "128488|我只想要拉住流年",
+          "startMs": 128488,
+          "text": "我只想要拉住流年"
+        },
+        {
+          "key": "131663|好好的说声再见",
+          "startMs": 131663,
+          "text": "好好的说声再见"
+        },
+        {
+          "key": "133952|心中刻下你们的笑脸",
+          "startMs": 133952,
+          "text": "心中刻下你们的笑脸"
+        },
+        {
+          "key": "137293|当流星划过天边",
+          "startMs": 137293,
+          "text": "当流星划过天边"
+        },
+        {
+          "key": "141113|许下我们的心愿",
+          "startMs": 141113,
+          "text": "许下我们的心愿"
+        },
+        {
+          "key": "146292|让现在成为永远",
+          "startMs": 146292,
+          "text": "让现在成为永远"
+        },
+        {
+          "key": "158507|我们的从前 成为永远",
+          "startMs": 158507,
+          "text": "我们的从前 成为永远"
+        },
+        {
+          "key": "174396|我只想要拉住流年",
+          "startMs": 174396,
+          "text": "我只想要拉住流年"
+        },
+        {
+          "key": "177224|好好的说声再见",
+          "startMs": 177224,
+          "text": "好好的说声再见"
+        },
+        {
+          "key": "179653|遗憾感谢都回不去昨天",
+          "startMs": 179653,
+          "text": "遗憾感谢都回不去昨天"
+        },
+        {
+          "key": "183094|我只想铭记这瞬间",
+          "startMs": 183094,
+          "text": "我只想铭记这瞬间"
+        },
+        {
+          "key": "186997|我们一起走过的光年",
+          "startMs": 186997,
+          "text": "我们一起走过的光年"
+        },
+        {
+          "key": "191814|我只想要拉住流年",
+          "startMs": 191814,
+          "text": "我只想要拉住流年"
+        },
+        {
+          "key": "194651|好好的说声再见",
+          "startMs": 194651,
+          "text": "好好的说声再见"
+        },
+        {
+          "key": "196979|在心中刻下你们的笑脸",
+          "startMs": 196979,
+          "text": "在心中刻下你们的笑脸"
+        },
+        {
+          "key": "200903|当流星划过天边",
+          "startMs": 200903,
+          "text": "当流星划过天边"
+        },
+        {
+          "key": "204705|许下我们的心愿",
+          "startMs": 204705,
+          "text": "许下我们的心愿"
+        },
+        {
+          "key": "209463|让现在成为永远",
+          "startMs": 209463,
+          "text": "让现在成为永远"
+        },
+        {
+          "key": "222848|永远 啦啦啦",
+          "startMs": 222848,
+          "text": "永远 啦啦啦"
+        },
+        {
+          "key": "230253|是永远",
+          "startMs": 230253,
+          "text": "是永远"
+        }
+      ]
+    }
+  ]
+}

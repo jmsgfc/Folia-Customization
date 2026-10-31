@@ -1,0 +1,1365 @@
+{
+  "batchNumber": 2,
+  "songs": [
+    {
+      "rank": 6,
+      "songKey": "online:kugou:79827f013b9aa1afe8cdd547d2026989",
+      "name": "Baby, Don't Cry (인어의 눈물) (人鱼的眼泪)",
+      "artist": "EXO",
+      "lines": [
+        {
+          "key": "0|Baby, Don't Cry (인어의 눈물) - EXO",
+          "startMs": 0,
+          "text": "Baby, Don't Cry (인어의 눈물) - EXO"
+        },
+        {
+          "key": "6085|词：조윤경",
+          "startMs": 6085,
+          "text": "词：조윤경"
+        },
+        {
+          "key": "7689|曲：임광욱(Devine Kei)/앤드류 최/Tesung Kim/Kalle Engstrom",
+          "startMs": 7689,
+          "text": "曲：임광욱(Devine Kei)/앤드류 최/Tesung Kim/Kalle Engstrom"
+        },
+        {
+          "key": "12321|编曲：Kei Lim",
+          "startMs": 12321,
+          "text": "编曲：Kei Lim"
+        },
+        {
+          "key": "14329|더는 망설이지 마 제발",
+          "startMs": 14329,
+          "text": "더는 망설이지 마 제발"
+        },
+        {
+          "key": "18025|내 심장을 거두어 가",
+          "startMs": 18025,
+          "text": "내 심장을 거두어 가"
+        },
+        {
+          "key": "21426|그래 날카로울수록 좋아",
+          "startMs": 21426,
+          "text": "그래 날카로울수록 좋아"
+        },
+        {
+          "key": "25025|달빛 조차도 눈을 감은 밤",
+          "startMs": 25025,
+          "text": "달빛 조차도 눈을 감은 밤"
+        },
+        {
+          "key": "28200|나 아닌 다른 남자였다면",
+          "startMs": 28200,
+          "text": "나 아닌 다른 남자였다면"
+        },
+        {
+          "key": "31640|희극 안의 한 구절이었더라면",
+          "startMs": 31640,
+          "text": "희극 안의 한 구절이었더라면"
+        },
+        {
+          "key": "35559|너의 그 사랑과 바꾼 상처",
+          "startMs": 35559,
+          "text": "너의 그 사랑과 바꾼 상처"
+        },
+        {
+          "key": "39497|모두 태워버려",
+          "startMs": 39497,
+          "text": "모두 태워버려"
+        },
+        {
+          "key": "41871|Baby don't cry tonight",
+          "startMs": 41871,
+          "text": "Baby don't cry tonight"
+        },
+        {
+          "key": "45927|어둠이 걷히고 나면",
+          "startMs": 45927,
+          "text": "어둠이 걷히고 나면"
+        },
+        {
+          "key": "48541|Baby don't cry tonight",
+          "startMs": 48541,
+          "text": "Baby don't cry tonight"
+        },
+        {
+          "key": "52807|없었던 일이 될 거야",
+          "startMs": 52807,
+          "text": "없었던 일이 될 거야"
+        },
+        {
+          "key": "56142|물거품이 되는 것은 네가 아니야",
+          "startMs": 56142,
+          "text": "물거품이 되는 것은 네가 아니야"
+        },
+        {
+          "key": "59415|끝내 몰라야 했던",
+          "startMs": 59415,
+          "text": "끝내 몰라야 했던"
+        },
+        {
+          "key": "62389|So baby don't cry cry",
+          "startMs": 62389,
+          "text": "So baby don't cry cry"
+        },
+        {
+          "key": "66671|내 사랑이 널 지킬 테니",
+          "startMs": 66671,
+          "text": "내 사랑이 널 지킬 테니"
+        },
+        {
+          "key": "77006|오직 서로를 향해있는 운명을",
+          "startMs": 77006,
+          "text": "오직 서로를 향해있는 운명을"
+        },
+        {
+          "key": "81246|주고 받아",
+          "startMs": 81246,
+          "text": "주고 받아"
+        },
+        {
+          "key": "83737|엇갈릴 수 밖에 없는 그 만큼",
+          "startMs": 83737,
+          "text": "엇갈릴 수 밖에 없는 그 만큼"
+        },
+        {
+          "key": "86458|더 사랑했음을 난 알아",
+          "startMs": 86458,
+          "text": "더 사랑했음을 난 알아"
+        },
+        {
+          "key": "90853|When you smile sun shines",
+          "startMs": 90853,
+          "text": "When you smile sun shines"
+        },
+        {
+          "key": "94629|언어란 틀엔 채 못 담을 찬란",
+          "startMs": 94629,
+          "text": "언어란 틀엔 채 못 담을 찬란"
+        },
+        {
+          "key": "97902|온 맘에 파도 쳐",
+          "startMs": 97902,
+          "text": "온 맘에 파도 쳐"
+        },
+        {
+          "key": "102053|부서져 내리잖아 oh",
+          "startMs": 102053,
+          "text": "부서져 내리잖아 oh"
+        },
+        {
+          "key": "104695|Baby don't cry tonight",
+          "startMs": 104695,
+          "text": "Baby don't cry tonight"
+        },
+        {
+          "key": "108525|폭풍이 몰아치는 밤",
+          "startMs": 108525,
+          "text": "폭풍이 몰아치는 밤"
+        },
+        {
+          "key": "110574|하늘이 무너질 듯",
+          "startMs": 110574,
+          "text": "하늘이 무너질 듯"
+        },
+        {
+          "key": "111758|Baby don't cry tonight",
+          "startMs": 111758,
+          "text": "Baby don't cry tonight"
+        },
+        {
+          "key": "115167|조금은 어울리잖아",
+          "startMs": 115167,
+          "text": "조금은 어울리잖아"
+        },
+        {
+          "key": "118774|눈물보다 찬란히 빛나는 이 순간",
+          "startMs": 118774,
+          "text": "눈물보다 찬란히 빛나는 이 순간"
+        },
+        {
+          "key": "122182|너를 보내야 했던",
+          "startMs": 122182,
+          "text": "너를 보내야 했던"
+        },
+        {
+          "key": "125022|So baby don't cry cry",
+          "startMs": 125022,
+          "text": "So baby don't cry cry"
+        },
+        {
+          "key": "129311|내 사랑이 기억될 테니",
+          "startMs": 129311,
+          "text": "내 사랑이 기억될 테니"
+        },
+        {
+          "key": "132992|어두컴컴한 고통의 그늘 위",
+          "startMs": 132992,
+          "text": "어두컴컴한 고통의 그늘 위"
+        },
+        {
+          "key": "134609|이별의 문턱에 내가 무참히",
+          "startMs": 134609,
+          "text": "이별의 문턱에 내가 무참히"
+        },
+        {
+          "key": "136371|넘어져도",
+          "startMs": 136371,
+          "text": "넘어져도"
+        },
+        {
+          "key": "137171|그마저도",
+          "startMs": 137171,
+          "text": "그마저도"
+        },
+        {
+          "key": "137939|널 위해서라면 감당할 테니",
+          "startMs": 137939,
+          "text": "널 위해서라면 감당할 테니"
+        },
+        {
+          "key": "139768|Uh 대신 나를 줄게",
+          "startMs": 139768,
+          "text": "Uh 대신 나를 줄게"
+        },
+        {
+          "key": "141608|비록 날 모르는 너에게",
+          "startMs": 141608,
+          "text": "비록 날 모르는 너에게"
+        },
+        {
+          "key": "143282|Don't cry",
+          "startMs": 143282,
+          "text": "Don't cry"
+        },
+        {
+          "key": "144189|뜨거운 눈물보단",
+          "startMs": 144189,
+          "text": "뜨거운 눈물보단"
+        },
+        {
+          "key": "145152|차디찬 웃음을 보여줘 baby",
+          "startMs": 145152,
+          "text": "차디찬 웃음을 보여줘 baby"
+        },
+        {
+          "key": "146521|Say no more",
+          "startMs": 146521,
+          "text": "Say no more"
+        },
+        {
+          "key": "147894|Baby no more don't cry",
+          "startMs": 147894,
+          "text": "Baby no more don't cry"
+        },
+        {
+          "key": "150075|제발 망설이지는 말아줘",
+          "startMs": 150075,
+          "text": "제발 망설이지는 말아줘"
+        },
+        {
+          "key": "151953|물거품이 될 그 찰나",
+          "startMs": 151953,
+          "text": "물거품이 될 그 찰나"
+        },
+        {
+          "key": "153530|Say no more",
+          "startMs": 153530,
+          "text": "Say no more"
+        },
+        {
+          "key": "154691|Baby no more don't cry",
+          "startMs": 154691,
+          "text": "Baby no more don't cry"
+        },
+        {
+          "key": "157186|눈부신 사람으로 남을 수 있게",
+          "startMs": 157186,
+          "text": "눈부신 사람으로 남을 수 있게"
+        },
+        {
+          "key": "159419|차라리 그 칼로 날 태워줘",
+          "startMs": 159419,
+          "text": "차라리 그 칼로 날 태워줘"
+        },
+        {
+          "key": "161538|네 눈 속에 가득 차 오르는 달빛",
+          "startMs": 161538,
+          "text": "네 눈 속에 가득 차 오르는 달빛"
+        },
+        {
+          "key": "166958|Woo",
+          "startMs": 166958,
+          "text": "Woo"
+        },
+        {
+          "key": "168651|소리 없이 고통 속에",
+          "startMs": 168651,
+          "text": "소리 없이 고통 속에"
+        },
+        {
+          "key": "171141|흘러 넘치는 이 밤",
+          "startMs": 171141,
+          "text": "흘러 넘치는 이 밤"
+        },
+        {
+          "key": "173934|Baby don't cry tonight",
+          "startMs": 173934,
+          "text": "Baby don't cry tonight"
+        },
+        {
+          "key": "177871|어둠이 걷히고 나면",
+          "startMs": 177871,
+          "text": "어둠이 걷히고 나면"
+        },
+        {
+          "key": "180864|Baby don't cry tonight",
+          "startMs": 180864,
+          "text": "Baby don't cry tonight"
+        },
+        {
+          "key": "184655|없었던 일이 될 거야",
+          "startMs": 184655,
+          "text": "없었던 일이 될 거야"
+        },
+        {
+          "key": "188281|물거품이 되는 것은 네가 아니야",
+          "startMs": 188281,
+          "text": "물거품이 되는 것은 네가 아니야"
+        },
+        {
+          "key": "191640|끝내 몰라야 했던",
+          "startMs": 191640,
+          "text": "끝내 몰라야 했던"
+        },
+        {
+          "key": "194639|So baby don't cry cry",
+          "startMs": 194639,
+          "text": "So baby don't cry cry"
+        },
+        {
+          "key": "198936|내 사랑이 널 지킬 테니",
+          "startMs": 198936,
+          "text": "내 사랑이 널 지킬 테니"
+        },
+        {
+          "key": "203719|이른 햇살이 녹아 내린다",
+          "startMs": 203719,
+          "text": "이른 햇살이 녹아 내린다"
+        },
+        {
+          "key": "207243|너를 닮은 눈부심이 내린다",
+          "startMs": 207243,
+          "text": "너를 닮은 눈부심이 내린다"
+        },
+        {
+          "key": "210817|길을 잃은 내 눈은 이제야",
+          "startMs": 210817,
+          "text": "길을 잃은 내 눈은 이제야"
+        },
+        {
+          "key": "214581|Cry cry cry",
+          "startMs": 214581,
+          "text": "Cry cry cry"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "songKey": "online:kugou:a90499446a78e4d6bf444fa5a97911b7",
+      "name": "비밀 (秘密)(Insane)",
+      "artist": "BTOB",
+      "lines": [
+        {
+          "key": "100|비밀 (Insane) - BTOB",
+          "startMs": 100,
+          "text": "비밀 (Insane) - BTOB"
+        },
+        {
+          "key": "200|词：서재우/서용배/이민혁/정일훈",
+          "startMs": 200,
+          "text": "词：서재우/서용배/이민혁/정일훈"
+        },
+        {
+          "key": "300|曲：서재우/서용배",
+          "startMs": 300,
+          "text": "曲：서재우/서용배"
+        },
+        {
+          "key": "400|编曲：서재우/서용배",
+          "startMs": 400,
+          "text": "编曲：서재우/서용배"
+        },
+        {
+          "key": "24229|Oh oh oh oh oh oh oh Baby without you",
+          "startMs": 24229,
+          "text": "Oh oh oh oh oh oh oh Baby without you"
+        },
+        {
+          "key": "31278|널 데려다 줬던 집도 다른 남자의 집이었고",
+          "startMs": 31278,
+          "text": "널 데려다 줬던 집도 다른 남자의 집이었고"
+        },
+        {
+          "key": "34277|사람 많은 곳에선 좀 떨어져 걷는 느낌이었어",
+          "startMs": 34277,
+          "text": "사람 많은 곳에선 좀 떨어져 걷는 느낌이었어"
+        },
+        {
+          "key": "38027|우린 커다랗게 부풀었던 풍선이 쪼그라들 듯 식었지",
+          "startMs": 38027,
+          "text": "우린 커다랗게 부풀었던 풍선이 쪼그라들 듯 식었지"
+        },
+        {
+          "key": "41903|답답한 마음을 감출 수가 없어 난",
+          "startMs": 41903,
+          "text": "답답한 마음을 감출 수가 없어 난"
+        },
+        {
+          "key": "44271|뭐가 잘못된 거지",
+          "startMs": 44271,
+          "text": "뭐가 잘못된 거지"
+        },
+        {
+          "key": "45650|지난 밤과 항상 똑같아 너는 외면하고",
+          "startMs": 45650,
+          "text": "지난 밤과 항상 똑같아 너는 외면하고"
+        },
+        {
+          "key": "48840|나만 매달리는 사이는 이젠 지쳤다고",
+          "startMs": 48840,
+          "text": "나만 매달리는 사이는 이젠 지쳤다고"
+        },
+        {
+          "key": "52709|항상 난 너였기에 너를 믿었던 나기에",
+          "startMs": 52709,
+          "text": "항상 난 너였기에 너를 믿었던 나기에"
+        },
+        {
+          "key": "56206|매일 밤 외로워 괴로워 지겨워",
+          "startMs": 56206,
+          "text": "매일 밤 외로워 괴로워 지겨워"
+        },
+        {
+          "key": "59471|내가 떠나줄게 니가 싫어지게",
+          "startMs": 59471,
+          "text": "내가 떠나줄게 니가 싫어지게"
+        },
+        {
+          "key": "63161|이제 더는 귀찮게 매달리지 않게",
+          "startMs": 63161,
+          "text": "이제 더는 귀찮게 매달리지 않게"
+        },
+        {
+          "key": "66847|I'm gonna be better 차라리 없는 게 더",
+          "startMs": 66847,
+          "text": "I'm gonna be better 차라리 없는 게 더"
+        },
+        {
+          "key": "70614|오늘따라 비밀이 너무 많은 너",
+          "startMs": 70614,
+          "text": "오늘따라 비밀이 너무 많은 너"
+        },
+        {
+          "key": "74176|You make me go insane",
+          "startMs": 74176,
+          "text": "You make me go insane"
+        },
+        {
+          "key": "76175|She gives me so much pain",
+          "startMs": 76175,
+          "text": "She gives me so much pain"
+        },
+        {
+          "key": "77969|I won't be back again I wanna hate you",
+          "startMs": 77969,
+          "text": "I won't be back again I wanna hate you"
+        },
+        {
+          "key": "82091|You make me go insane",
+          "startMs": 82091,
+          "text": "You make me go insane"
+        },
+        {
+          "key": "83551|She gives me so much pain",
+          "startMs": 83551,
+          "text": "She gives me so much pain"
+        },
+        {
+          "key": "85435|I won't be back again",
+          "startMs": 85435,
+          "text": "I won't be back again"
+        },
+        {
+          "key": "90505|매일 밤 똑같이 넌 외면하지만",
+          "startMs": 90505,
+          "text": "매일 밤 똑같이 넌 외면하지만"
+        },
+        {
+          "key": "94829|널 만나기 전으로 Ridin' now… Say goodbye",
+          "startMs": 94829,
+          "text": "널 만나기 전으로 Ridin' now… Say goodbye"
+        },
+        {
+          "key": "97719|후회 없이 보내는 게 힘들지만",
+          "startMs": 97719,
+          "text": "후회 없이 보내는 게 힘들지만"
+        },
+        {
+          "key": "104316|네 모습이 아직 잘 실감이 나질 않아 난",
+          "startMs": 104316,
+          "text": "네 모습이 아직 잘 실감이 나질 않아 난"
+        },
+        {
+          "key": "106964|우리 한 약속은 바람과 함께 사라졌어",
+          "startMs": 106964,
+          "text": "우리 한 약속은 바람과 함께 사라졌어"
+        },
+        {
+          "key": "109779|남은 건 너의 차가운 시선",
+          "startMs": 109779,
+          "text": "남은 건 너의 차가운 시선"
+        },
+        {
+          "key": "111799|거지 같이 여전히 네 미소를 그리워하는",
+          "startMs": 111799,
+          "text": "거지 같이 여전히 네 미소를 그리워하는"
+        },
+        {
+          "key": "114356|내가 미워 이젠 정말 너와는",
+          "startMs": 114356,
+          "text": "내가 미워 이젠 정말 너와는"
+        },
+        {
+          "key": "116170|끝이란 걸 인정 못해 죽겠어",
+          "startMs": 116170,
+          "text": "끝이란 걸 인정 못해 죽겠어"
+        },
+        {
+          "key": "118689|내가 떠나줄게 니가 싫어지게",
+          "startMs": 118689,
+          "text": "내가 떠나줄게 니가 싫어지게"
+        },
+        {
+          "key": "122187|이제 더는 귀찮게 매달리지 않게",
+          "startMs": 122187,
+          "text": "이제 더는 귀찮게 매달리지 않게"
+        },
+        {
+          "key": "125774|I'm gonna be better 차라리 없는 게 더",
+          "startMs": 125774,
+          "text": "I'm gonna be better 차라리 없는 게 더"
+        },
+        {
+          "key": "129710|오늘따라 비밀이 너무 많은 너",
+          "startMs": 129710,
+          "text": "오늘따라 비밀이 너무 많은 너"
+        },
+        {
+          "key": "133286|You make me go insane",
+          "startMs": 133286,
+          "text": "You make me go insane"
+        },
+        {
+          "key": "135155|She gives me so much pain",
+          "startMs": 135155,
+          "text": "She gives me so much pain"
+        },
+        {
+          "key": "137039|I won't be back again I wanna hate you",
+          "startMs": 137039,
+          "text": "I won't be back again I wanna hate you"
+        },
+        {
+          "key": "141132|You make me go insane",
+          "startMs": 141132,
+          "text": "You make me go insane"
+        },
+        {
+          "key": "142638|She gives me so much pain",
+          "startMs": 142638,
+          "text": "She gives me so much pain"
+        },
+        {
+          "key": "144447|I won't be back again",
+          "startMs": 144447,
+          "text": "I won't be back again"
+        },
+        {
+          "key": "148991|널 첨 본 기억은 흐릿하고",
+          "startMs": 148991,
+          "text": "널 첨 본 기억은 흐릿하고"
+        },
+        {
+          "key": "152320|사랑이란 그네는 멈췄고",
+          "startMs": 152320,
+          "text": "사랑이란 그네는 멈췄고"
+        },
+        {
+          "key": "155945|다신 돌아오지 않을 기찰 타고",
+          "startMs": 155945,
+          "text": "다신 돌아오지 않을 기찰 타고"
+        },
+        {
+          "key": "159832|I'll let you go I'll let you go…",
+          "startMs": 159832,
+          "text": "I'll let you go I'll let you go…"
+        },
+        {
+          "key": "163114|내가 다 버릴게 이젠 다 놓을게",
+          "startMs": 163114,
+          "text": "내가 다 버릴게 이젠 다 놓을게"
+        },
+        {
+          "key": "166560|그만 떠나도 돼",
+          "startMs": 166560,
+          "text": "그만 떠나도 돼"
+        },
+        {
+          "key": "170301|다신 날 찾지마 마음은 아프지만",
+          "startMs": 170301,
+          "text": "다신 날 찾지마 마음은 아프지만"
+        },
+        {
+          "key": "174002|잊어버릴 수 있게",
+          "startMs": 174002,
+          "text": "잊어버릴 수 있게"
+        },
+        {
+          "key": "179633|내가 떠나줄게 니가 싫어지게",
+          "startMs": 179633,
+          "text": "내가 떠나줄게 니가 싫어지게"
+        },
+        {
+          "key": "183145|이제 더는 귀찮게 매달리지 않게",
+          "startMs": 183145,
+          "text": "이제 더는 귀찮게 매달리지 않게"
+        },
+        {
+          "key": "186645|I'm gonna be better 차라리 없는 게 더",
+          "startMs": 186645,
+          "text": "I'm gonna be better 차라리 없는 게 더"
+        },
+        {
+          "key": "190627|오늘따라 비밀이 너무 많은 너",
+          "startMs": 190627,
+          "text": "오늘따라 비밀이 너무 많은 너"
+        },
+        {
+          "key": "194319|You make me go insane",
+          "startMs": 194319,
+          "text": "You make me go insane"
+        },
+        {
+          "key": "196133|She gives me so much pain",
+          "startMs": 196133,
+          "text": "She gives me so much pain"
+        },
+        {
+          "key": "198008|I won't be back again I wanna hate you",
+          "startMs": 198008,
+          "text": "I won't be back again I wanna hate you"
+        },
+        {
+          "key": "201496|You make me go insane",
+          "startMs": 201496,
+          "text": "You make me go insane"
+        },
+        {
+          "key": "203496|She gives me so much pain",
+          "startMs": 203496,
+          "text": "She gives me so much pain"
+        },
+        {
+          "key": "205374|I won't be back again",
+          "startMs": 205374,
+          "text": "I won't be back again"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "songKey": "online:kugou:e9162845326da3ab5fc99a7fc1c52f24",
+      "name": "花雨弄 (粤语女生版)(Rain And U Can Ver.)",
+      "artist": "Simyee陈芯怡 / Mr.16罗隽永",
+      "lines": [
+        {
+          "key": "422|花雨弄 (女生版)(Rain And U Can Ver.) - Simyee陈芯怡、Mr.16罗隽永",
+          "startMs": 422,
+          "text": "花雨弄 (女生版)(Rain And U Can Ver.) - Simyee陈芯怡、Mr.16罗隽永"
+        },
+        {
+          "key": "1421|词Lyrics：陈迪琛/oda",
+          "startMs": 1421,
+          "text": "词Lyrics：陈迪琛/oda"
+        },
+        {
+          "key": "1434|曲Composer：Mr16罗隽永/Simyee陈芯怡",
+          "startMs": 1434,
+          "text": "曲Composer：Mr16罗隽永/Simyee陈芯怡"
+        },
+        {
+          "key": "1457|编曲Arrangermet：SuperJump",
+          "startMs": 1457,
+          "text": "编曲Arrangermet：SuperJump"
+        },
+        {
+          "key": "1464|出品Produce：腾讯音乐人·顶顶工作室 x Nevermind Studio",
+          "startMs": 1464,
+          "text": "出品Produce：腾讯音乐人·顶顶工作室 x Nevermind Studio"
+        },
+        {
+          "key": "1498|和声/和声编写Bvox：Mr16罗隽永/Simyee陈芯怡",
+          "startMs": 1498,
+          "text": "和声/和声编写Bvox：Mr16罗隽永/Simyee陈芯怡"
+        },
+        {
+          "key": "1532|录音Record：Simyee 陈芯怡",
+          "startMs": 1532,
+          "text": "录音Record：Simyee 陈芯怡"
+        },
+        {
+          "key": "1545|混音Mixing：Simyee 陈芯怡",
+          "startMs": 1545,
+          "text": "混音Mixing：Simyee 陈芯怡"
+        },
+        {
+          "key": "1558|制作人Producer：Mr.16罗隽永",
+          "startMs": 1558,
+          "text": "制作人Producer：Mr.16罗隽永"
+        },
+        {
+          "key": "1573|出品人：凌联兴/沈峻峻/苏琦惠",
+          "startMs": 1573,
+          "text": "出品人：凌联兴/沈峻峻/苏琦惠"
+        },
+        {
+          "key": "1601|监制/宣发：羊晃橙/赵越",
+          "startMs": 1601,
+          "text": "监制/宣发：羊晃橙/赵越"
+        },
+        {
+          "key": "1624|OP：独创娱乐",
+          "startMs": 1624,
+          "text": "OP：独创娱乐"
+        },
+        {
+          "key": "1634|只想跟你花雨中可抱拥",
+          "startMs": 1634,
+          "text": "只想跟你花雨中可抱拥"
+        },
+        {
+          "key": "7113|能同在这天里跟你心声接通",
+          "startMs": 7113,
+          "text": "能同在这天里跟你心声接通"
+        },
+        {
+          "key": "12486|只想跟你执手让此生可到终",
+          "startMs": 12486,
+          "text": "只想跟你执手让此生可到终"
+        },
+        {
+          "key": "17750|遥遥万里共你于心中",
+          "startMs": 17750,
+          "text": "遥遥万里共你于心中"
+        },
+        {
+          "key": "24407|细细绵雨流进发端",
+          "startMs": 24407,
+          "text": "细细绵雨流进发端"
+        },
+        {
+          "key": "29683|与你云山里遇见",
+          "startMs": 29683,
+          "text": "与你云山里遇见"
+        },
+        {
+          "key": "35141|长袍里盛放的春意",
+          "startMs": 35141,
+          "text": "长袍里盛放的春意"
+        },
+        {
+          "key": "40342|河旁你撑起了纸伞",
+          "startMs": 40342,
+          "text": "河旁你撑起了纸伞"
+        },
+        {
+          "key": "45687|与你四月盼",
+          "startMs": 45687,
+          "text": "与你四月盼"
+        },
+        {
+          "key": "46733|爱意看旧花瓣",
+          "startMs": 46733,
+          "text": "爱意看旧花瓣"
+        },
+        {
+          "key": "48361|与你五月挽",
+          "startMs": 48361,
+          "text": "与你五月挽"
+        },
+        {
+          "key": "49417|醉意送夜燕翻",
+          "startMs": 49417,
+          "text": "醉意送夜燕翻"
+        },
+        {
+          "key": "50861|青草山中间",
+          "startMs": 50861,
+          "text": "青草山中间"
+        },
+        {
+          "key": "52068|过去也知不晚",
+          "startMs": 52068,
+          "text": "过去也知不晚"
+        },
+        {
+          "key": "53568|想起春花间",
+          "startMs": 53568,
+          "text": "想起春花间"
+        },
+        {
+          "key": "54721|我也最终惊叹",
+          "startMs": 54721,
+          "text": "我也最终惊叹"
+        },
+        {
+          "key": "56206|等他春分未晚",
+          "startMs": 56206,
+          "text": "等他春分未晚"
+        },
+        {
+          "key": "58874|等他一生没晚",
+          "startMs": 58874,
+          "text": "等他一生没晚"
+        },
+        {
+          "key": "61538|等他走到风雨间总会两手扶挽",
+          "startMs": 61538,
+          "text": "等他走到风雨间总会两手扶挽"
+        },
+        {
+          "key": "65715|只想跟你花雨中可抱拥",
+          "startMs": 65715,
+          "text": "只想跟你花雨中可抱拥"
+        },
+        {
+          "key": "71099|能同在这天里跟你心声接通",
+          "startMs": 71099,
+          "text": "能同在这天里跟你心声接通"
+        },
+        {
+          "key": "76296|只想跟你执手让此生可到终",
+          "startMs": 76296,
+          "text": "只想跟你执手让此生可到终"
+        },
+        {
+          "key": "81678|遥遥万里共你于心中",
+          "startMs": 81678,
+          "text": "遥遥万里共你于心中"
+        },
+        {
+          "key": "88288|赋词自书中自有黄金屋",
+          "startMs": 88288,
+          "text": "赋词自书中自有黄金屋"
+        },
+        {
+          "key": "90877|接通文书中自有颜如玉",
+          "startMs": 90877,
+          "text": "接通文书中自有颜如玉"
+        },
+        {
+          "key": "93536|烟柳青云情缘未断再续",
+          "startMs": 93536,
+          "text": "烟柳青云情缘未断再续"
+        },
+        {
+          "key": "96307|窈窕淑女沉鱼落雁柳木",
+          "startMs": 96307,
+          "text": "窈窕淑女沉鱼落雁柳木"
+        },
+        {
+          "key": "98962|此情曲琵琶韵律由吾弹素",
+          "startMs": 98962,
+          "text": "此情曲琵琶韵律由吾弹素"
+        },
+        {
+          "key": "101633|漓江道婀娜身姿若有若无",
+          "startMs": 101633,
+          "text": "漓江道婀娜身姿若有若无"
+        },
+        {
+          "key": "104262|思念是春去秋来的变季",
+          "startMs": 104262,
+          "text": "思念是春去秋来的变季"
+        },
+        {
+          "key": "106600|恍然在桃花树间你我相互依偎",
+          "startMs": 106600,
+          "text": "恍然在桃花树间你我相互依偎"
+        },
+        {
+          "key": "109627|与你四月盼",
+          "startMs": 109627,
+          "text": "与你四月盼"
+        },
+        {
+          "key": "110638|爱意看旧花瓣",
+          "startMs": 110638,
+          "text": "爱意看旧花瓣"
+        },
+        {
+          "key": "112400|与你五月挽",
+          "startMs": 112400,
+          "text": "与你五月挽"
+        },
+        {
+          "key": "113404|醉意送夜燕翻",
+          "startMs": 113404,
+          "text": "醉意送夜燕翻"
+        },
+        {
+          "key": "114897|青草山中间",
+          "startMs": 114897,
+          "text": "青草山中间"
+        },
+        {
+          "key": "116002|过去也知不晚",
+          "startMs": 116002,
+          "text": "过去也知不晚"
+        },
+        {
+          "key": "117445|想起春花间",
+          "startMs": 117445,
+          "text": "想起春花间"
+        },
+        {
+          "key": "118618|我也最终惊叹",
+          "startMs": 118618,
+          "text": "我也最终惊叹"
+        },
+        {
+          "key": "120235|等他春分未晚",
+          "startMs": 120235,
+          "text": "等他春分未晚"
+        },
+        {
+          "key": "123006|等他一生没晚",
+          "startMs": 123006,
+          "text": "等他一生没晚"
+        },
+        {
+          "key": "125651|等他走到风雨间总会两手扶挽",
+          "startMs": 125651,
+          "text": "等他走到风雨间总会两手扶挽"
+        },
+        {
+          "key": "129902|只想跟你花雨中可抱拥",
+          "startMs": 129902,
+          "text": "只想跟你花雨中可抱拥"
+        },
+        {
+          "key": "135079|能同在这天里跟你心声接通",
+          "startMs": 135079,
+          "text": "能同在这天里跟你心声接通"
+        },
+        {
+          "key": "140314|只想跟你执手让此生可到终",
+          "startMs": 140314,
+          "text": "只想跟你执手让此生可到终"
+        },
+        {
+          "key": "145657|遥遥万里共你于心中",
+          "startMs": 145657,
+          "text": "遥遥万里共你于心中"
+        },
+        {
+          "key": "151108|只想跟你花雨中可抱拥",
+          "startMs": 151108,
+          "text": "只想跟你花雨中可抱拥"
+        },
+        {
+          "key": "156310|能同在这天里跟你心声接通",
+          "startMs": 156310,
+          "text": "能同在这天里跟你心声接通"
+        },
+        {
+          "key": "161699|只想跟你执手让此生可到终",
+          "startMs": 161699,
+          "text": "只想跟你执手让此生可到终"
+        },
+        {
+          "key": "167075|遥遥万里共你于心中",
+          "startMs": 167075,
+          "text": "遥遥万里共你于心中"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "songKey": "online:kugou:3a30486d470d73aa4d4de854d0cb666c",
+      "name": "红色高跟鞋 (释怀版)",
+      "artist": "苏星婕",
+      "lines": [
+        {
+          "key": "0|苏星婕 - 红色高跟鞋 (释怀版)",
+          "startMs": 0,
+          "text": "苏星婕 - 红色高跟鞋 (释怀版)"
+        },
+        {
+          "key": "0|作词：蔡健雅",
+          "startMs": 0,
+          "text": "作词：蔡健雅"
+        },
+        {
+          "key": "90|作曲：蔡健雅",
+          "startMs": 90,
+          "text": "作曲：蔡健雅"
+        },
+        {
+          "key": "180|原唱：蔡健雅",
+          "startMs": 180,
+          "text": "原唱：蔡健雅"
+        },
+        {
+          "key": "270|OP：TANGY MUSIC PUBLISHING(Warner Chappell Music, Hong Kong Limited Taiwan Branch)",
+          "startMs": 270,
+          "text": "OP：TANGY MUSIC PUBLISHING(Warner Chappell Music, Hong Kong Limited Taiwan Branch)"
+        },
+        {
+          "key": "360|出品：腾讯音乐人",
+          "startMs": 360,
+          "text": "出品：腾讯音乐人"
+        },
+        {
+          "key": "450|编曲：贺翔基",
+          "startMs": 450,
+          "text": "编曲：贺翔基"
+        },
+        {
+          "key": "540|吉他：刘博洋",
+          "startMs": 540,
+          "text": "吉他：刘博洋"
+        },
+        {
+          "key": "630|录音师：无机草莓",
+          "startMs": 630,
+          "text": "录音师：无机草莓"
+        },
+        {
+          "key": "720|录音棚：莫非录音棚（成都）",
+          "startMs": 720,
+          "text": "录音棚：莫非录音棚（成都）"
+        },
+        {
+          "key": "810|混音/母带：TuJay ",
+          "startMs": 810,
+          "text": "混音/母带：TuJay "
+        },
+        {
+          "key": "900|制作人：莫非",
+          "startMs": 900,
+          "text": "制作人：莫非"
+        },
+        {
+          "key": "990|出品人：凌联兴",
+          "startMs": 990,
+          "text": "出品人：凌联兴"
+        },
+        {
+          "key": "1080|监制：沈峻峻",
+          "startMs": 1080,
+          "text": "监制：沈峻峻"
+        },
+        {
+          "key": "1170|统筹：单荛/朱鹏辉",
+          "startMs": 1170,
+          "text": "统筹：单荛/朱鹏辉"
+        },
+        {
+          "key": "1260|SP：Warner Chappell Music Publishing Agency (Beijing)Ltd ",
+          "startMs": 1260,
+          "text": "SP：Warner Chappell Music Publishing Agency (Beijing)Ltd "
+        },
+        {
+          "key": "3930|制作团队：慕乐事务所",
+          "startMs": 3930,
+          "text": "制作团队：慕乐事务所"
+        },
+        {
+          "key": "4627|已通过「腾讯音乐·启明星」获得官方翻唱授权",
+          "startMs": 4627,
+          "text": "已通过「腾讯音乐·启明星」获得官方翻唱授权"
+        },
+        {
+          "key": "5499|未经许可,不得翻唱或使用",
+          "startMs": 5499,
+          "text": "未经许可,不得翻唱或使用"
+        },
+        {
+          "key": "22530|你的不凡让世界听见",
+          "startMs": 22530,
+          "text": "你的不凡让世界听见"
+        },
+        {
+          "key": "22530|该怎么去形容你最贴切",
+          "startMs": 22530,
+          "text": "该怎么去形容你最贴切"
+        },
+        {
+          "key": "27960|拿什么跟你作比较才算特别",
+          "startMs": 27960,
+          "text": "拿什么跟你作比较才算特别"
+        },
+        {
+          "key": "33420|对你的感觉强烈",
+          "startMs": 33420,
+          "text": "对你的感觉强烈"
+        },
+        {
+          "key": "36090|却又不太了解只凭直觉",
+          "startMs": 36090,
+          "text": "却又不太了解只凭直觉"
+        },
+        {
+          "key": "42330|你像窝在被子里的舒服",
+          "startMs": 42330,
+          "text": "你像窝在被子里的舒服"
+        },
+        {
+          "key": "47670|却又像风捉摸不住",
+          "startMs": 47670,
+          "text": "却又像风捉摸不住"
+        },
+        {
+          "key": "52800|像手腕上散发的香水味",
+          "startMs": 52800,
+          "text": "像手腕上散发的香水味"
+        },
+        {
+          "key": "58552|像爱不释手的红色高跟鞋",
+          "startMs": 58552,
+          "text": "像爱不释手的红色高跟鞋"
+        },
+        {
+          "key": "77040|该怎么去形容你最贴切",
+          "startMs": 77040,
+          "text": "该怎么去形容你最贴切"
+        },
+        {
+          "key": "82470|拿什么跟你作比较才算特别",
+          "startMs": 82470,
+          "text": "拿什么跟你作比较才算特别"
+        },
+        {
+          "key": "87990|对你的感觉强烈",
+          "startMs": 87990,
+          "text": "对你的感觉强烈"
+        },
+        {
+          "key": "90660|却又不太了解只凭直觉",
+          "startMs": 90660,
+          "text": "却又不太了解只凭直觉"
+        },
+        {
+          "key": "96870|你像窝在被子里的舒服",
+          "startMs": 96870,
+          "text": "你像窝在被子里的舒服"
+        },
+        {
+          "key": "102180|却又像风捉摸不住",
+          "startMs": 102180,
+          "text": "却又像风捉摸不住"
+        },
+        {
+          "key": "107340|像手腕上散发的香水味",
+          "startMs": 107340,
+          "text": "像手腕上散发的香水味"
+        },
+        {
+          "key": "112950|像爱不释手的",
+          "startMs": 112950,
+          "text": "像爱不释手的"
+        },
+        {
+          "key": "117930|我爱你有种左灯右行的冲突",
+          "startMs": 117930,
+          "text": "我爱你有种左灯右行的冲突"
+        },
+        {
+          "key": "123990|疯狂却怕没有退路",
+          "startMs": 123990,
+          "text": "疯狂却怕没有退路"
+        },
+        {
+          "key": "129210|你能否让我停止这种追逐",
+          "startMs": 129210,
+          "text": "你能否让我停止这种追逐"
+        },
+        {
+          "key": "135480|就当那双最后唯一的",
+          "startMs": 135480,
+          "text": "就当那双最后唯一的"
+        },
+        {
+          "key": "140310|红色高跟鞋",
+          "startMs": 140310,
+          "text": "红色高跟鞋"
+        },
+        {
+          "key": "141750|腾讯音乐人·哆咪嗦工作室",
+          "startMs": 141750,
+          "text": "腾讯音乐人·哆咪嗦工作室"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "songKey": "online:kugou:055a804b8a3ccc05240d08f8ff1f7de8",
+      "name": "红色高跟鞋",
+      "artist": "蔡健雅",
+      "lines": [
+        {
+          "key": "0|蔡健雅 - 红色高跟鞋",
+          "startMs": 0,
+          "text": "蔡健雅 - 红色高跟鞋"
+        },
+        {
+          "key": "11821|词：蔡健雅",
+          "startMs": 11821,
+          "text": "词：蔡健雅"
+        },
+        {
+          "key": "17194|曲：蔡健雅",
+          "startMs": 17194,
+          "text": "曲：蔡健雅"
+        },
+        {
+          "key": "22568|该怎么去形容你最贴切",
+          "startMs": 22568,
+          "text": "该怎么去形容你最贴切"
+        },
+        {
+          "key": "27928|拿什么跟你作比较才算特别",
+          "startMs": 27928,
+          "text": "拿什么跟你作比较才算特别"
+        },
+        {
+          "key": "33378|对你的感觉 强烈",
+          "startMs": 33378,
+          "text": "对你的感觉 强烈"
+        },
+        {
+          "key": "36108|却又不太了解 只凭直觉",
+          "startMs": 36108,
+          "text": "却又不太了解 只凭直觉"
+        },
+        {
+          "key": "42298|你像窝在被子里的舒服",
+          "startMs": 42298,
+          "text": "你像窝在被子里的舒服"
+        },
+        {
+          "key": "47708|却又像风捉摸不住",
+          "startMs": 47708,
+          "text": "却又像风捉摸不住"
+        },
+        {
+          "key": "52798|像手腕上散发的香水味",
+          "startMs": 52798,
+          "text": "像手腕上散发的香水味"
+        },
+        {
+          "key": "58468|像爱不释手的 红色高跟鞋",
+          "startMs": 58468,
+          "text": "像爱不释手的 红色高跟鞋"
+        },
+        {
+          "key": "77092|该怎么去形容你最贴切",
+          "startMs": 77092,
+          "text": "该怎么去形容你最贴切"
+        },
+        {
+          "key": "82482|拿什么跟你作比较才算特别",
+          "startMs": 82482,
+          "text": "拿什么跟你作比较才算特别"
+        },
+        {
+          "key": "87942|对你的感觉 强烈",
+          "startMs": 87942,
+          "text": "对你的感觉 强烈"
+        },
+        {
+          "key": "90642|却又不太了解 只凭直觉",
+          "startMs": 90642,
+          "text": "却又不太了解 只凭直觉"
+        },
+        {
+          "key": "96852|你像窝在被子里的舒服",
+          "startMs": 96852,
+          "text": "你像窝在被子里的舒服"
+        },
+        {
+          "key": "102272|却又像风捉摸不住",
+          "startMs": 102272,
+          "text": "却又像风捉摸不住"
+        },
+        {
+          "key": "107372|像手腕上散发的香水味",
+          "startMs": 107372,
+          "text": "像手腕上散发的香水味"
+        },
+        {
+          "key": "113002|像爱不释手的 红色高跟鞋",
+          "startMs": 113002,
+          "text": "像爱不释手的 红色高跟鞋"
+        },
+        {
+          "key": "134994|你像窝在被子里的舒服",
+          "startMs": 134994,
+          "text": "你像窝在被子里的舒服"
+        },
+        {
+          "key": "140464|却又像风 捉摸不住",
+          "startMs": 140464,
+          "text": "却又像风 捉摸不住"
+        },
+        {
+          "key": "145544|像手腕上散发的香水味",
+          "startMs": 145544,
+          "text": "像手腕上散发的香水味"
+        },
+        {
+          "key": "151184|像爱不释手的",
+          "startMs": 151184,
+          "text": "像爱不释手的"
+        },
+        {
+          "key": "156194|我爱你有种左灯右行的冲突",
+          "startMs": 156194,
+          "text": "我爱你有种左灯右行的冲突"
+        },
+        {
+          "key": "162284|疯狂却怕没有退路",
+          "startMs": 162284,
+          "text": "疯狂却怕没有退路"
+        },
+        {
+          "key": "167394|你能否让我停止这种追逐",
+          "startMs": 167394,
+          "text": "你能否让我停止这种追逐"
+        },
+        {
+          "key": "173704|就当那双 最后唯一的",
+          "startMs": 173704,
+          "text": "就当那双 最后唯一的"
+        },
+        {
+          "key": "178284|红色高跟鞋",
+          "startMs": 178284,
+          "text": "红色高跟鞋"
+        }
+      ]
+    }
+  ]
+}

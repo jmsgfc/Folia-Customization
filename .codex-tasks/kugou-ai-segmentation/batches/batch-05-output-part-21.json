@@ -1,0 +1,53 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:b94449145e217316d46e462ef7af4724",
+      "lines": [
+        { "key": "0|I hate me - Lily.μ (リリー･ミュー)", "text": "I hate me - Lily.μ (リリー･ミュー)", "segments": ["I ", "hate ", "me ", "- ", "Lily.μ ", "(リリー･ミュー)"] },
+        { "key": "7070|作詞：D-TRI", "text": "作詞：D-TRI", "segments": ["作詞：", "D-TRI"] },
+        { "key": "14150|作曲：D-TRI", "text": "作曲：D-TRI", "segments": ["作曲：", "D-TRI"] },
+        { "key": "21229|何気ない時間を一人で過ごした", "text": "何気ない時間を一人で過ごした", "segments": ["何気ない", "時間を", "一人で", "過ごした"] },
+        { "key": "25980|もう寂しさなんて…", "text": "もう寂しさなんて…", "segments": ["もう", "寂しさなんて…"] },
+        { "key": "29854|忘れてるよね? もう大丈夫でしょ?", "text": "忘れてるよね? もう大丈夫でしょ?", "segments": ["忘れてるよね? ", "もう", "大丈夫でしょ?"] },
+        { "key": "36417|そう言い聞かせていたんだ でも", "text": "そう言い聞かせていたんだ でも", "segments": ["そう", "言い聞かせていたんだ ", "でも"] },
+        { "key": "41229|時が過ぎれば 軽い擦り傷は", "text": "時が過ぎれば 軽い擦り傷は", "segments": ["時が", "過ぎれば ", "軽い", "擦り傷は"] },
+        { "key": "46977|癒えると思ってたのに", "text": "癒えると思ってたのに", "segments": ["癒えると", "思ってたのに"] },
+        { "key": "51417|その存在は 心をえぐってた", "text": "その存在は 心をえぐってた", "segments": ["その", "存在は ", "心を", "えぐってた"] },
+        { "key": "56481|一年経っても癒えない それなのに", "text": "一年経っても癒えない それなのに", "segments": ["一年", "経っても", "癒えない ", "それなのに"] },
+        { "key": "61229|I keep saying hate you through the night.", "text": "I keep saying hate you through the night.", "segments": ["I ", "keep ", "saying ", "hate ", "you ", "through ", "the ", "night."] },
+        { "key": "64041|Like I used to say love you that night.", "text": "Like I used to say love you that night.", "segments": ["Like ", "I ", "used ", "to ", "say ", "love ", "you ", "that ", "night."] },
+        { "key": "66418|涙はこぼれてしまうのに", "text": "涙はこぼれてしまうのに", "segments": ["涙は", "こぼれてしまうのに"] },
+        { "key": "71419|I keep saying hate you through the night.", "text": "I keep saying hate you through the night.", "segments": ["I ", "keep ", "saying ", "hate ", "you ", "through ", "the ", "night."] },
+        { "key": "73979|Like I used to say love you that night.", "text": "Like I used to say love you that night.", "segments": ["Like ", "I ", "used ", "to ", "say ", "love ", "you ", "that ", "night."] },
+        { "key": "76606|何よりも一番 “I hate me”", "text": "何よりも一番 “I hate me”", "segments": ["何よりも", "一番 ", "“I hate me”"] },
+        { "key": "91670|ケンカの時も どう考えても私が悪くても", "text": "ケンカの時も どう考えても私が悪くても", "segments": ["ケンカの", "時も ", "どう", "考えても", "私が", "悪くても"] },
+        { "key": "101670|絶対に先に謝るでしょ?", "text": "絶対に先に謝るでしょ?", "segments": ["絶対に", "先に", "謝るでしょ?"] },
+        { "key": "106794|その優しさが痛かったの", "text": "その優しさが痛かったの", "segments": ["その", "優しさが", "痛かったの"] },
+        { "key": "112168|今は何処かで知らない誰かと", "text": "今は何処かで知らない誰かと", "segments": ["今は", "何処かで", "知らない", "誰かと"] },
+        { "key": "117734|笑い合っているのね", "text": "笑い合っているのね", "segments": ["笑い合っているのね"] },
+        { "key": "121980|好きにすれば? もう他人だから", "text": "好きにすれば? もう他人だから", "segments": ["好きに", "すれば? ", "もう", "他人だから"] },
+        { "key": "127172|想ったりはしない それなのに", "text": "想ったりはしない それなのに", "segments": ["想ったりは", "しない ", "それなのに"] },
+        { "key": "132108|I keep saying hate you through the night.", "text": "I keep saying hate you through the night.", "segments": ["I ", "keep ", "saying ", "hate ", "you ", "through ", "the ", "night."] },
+        { "key": "134732|Like I used to say love you that night.", "text": "Like I used to say love you that night.", "segments": ["Like ", "I ", "used ", "to ", "say ", "love ", "you ", "that ", "night."] },
+        { "key": "137355|頭では分かってるのに", "text": "頭では分かってるのに", "segments": ["頭では", "分かってるのに"] },
+        { "key": "142359|I keep saying hate you through the night.", "text": "I keep saying hate you through the night.", "segments": ["I ", "keep ", "saying ", "hate ", "you ", "through ", "the ", "night."] },
+        { "key": "144859|Like I used to say love you that night.", "text": "Like I used to say love you that night.", "segments": ["Like ", "I ", "used ", "to ", "say ", "love ", "you ", "that ", "night."] },
+        { "key": "147357|誰よりも一番 “I hate me”", "text": "誰よりも一番 “I hate me”", "segments": ["誰よりも", "一番 ", "“I hate me”"] },
+        { "key": "172189|最後のサヨナラを交わした時も笑ったでしょ?", "text": "最後のサヨナラを交わした時も笑ったでしょ?", "segments": ["最後の", "サヨナラを", "交わした", "時も", "笑ったでしょ?"] },
+        { "key": "181815|記憶から消えない 今も", "text": "記憶から消えない 今も", "segments": ["記憶から", "消えない ", "今も"] },
+        { "key": "192940|I keep saying hate you through the night.", "text": "I keep saying hate you through the night.", "segments": ["I ", "keep ", "saying ", "hate ", "you ", "through ", "the ", "night."] },
+        { "key": "195316|Like I used to say love you that night.", "text": "Like I used to say love you that night.", "segments": ["Like ", "I ", "used ", "to ", "say ", "love ", "you ", "that ", "night."] },
+        { "key": "197752|涙はこぼれてしまうのに", "text": "涙はこぼれてしまうのに", "segments": ["涙は", "こぼれてしまうのに"] },
+        { "key": "202938|I keep saying hate you through the night.", "text": "I keep saying hate you through the night.", "segments": ["I ", "keep ", "saying ", "hate ", "you ", "through ", "the ", "night."] },
+        { "key": "205379|Like I used to say love you that night.", "text": "Like I used to say love you that night.", "segments": ["Like ", "I ", "used ", "to ", "say ", "love ", "you ", "that ", "night."] },
+        { "key": "207879|何よりも一番 “I hate me”", "text": "何よりも一番 “I hate me”", "segments": ["何よりも", "一番 ", "“I hate me”"] },
+        { "key": "213502|I keep saying hate you through the night.", "text": "I keep saying hate you through the night.", "segments": ["I ", "keep ", "saying ", "hate ", "you ", "through ", "the ", "night."] },
+        { "key": "215504|Like I used to say love you that night.", "text": "Like I used to say love you that night.", "segments": ["Like ", "I ", "used ", "to ", "say ", "love ", "you ", "that ", "night."] },
+        { "key": "218067|頭では分かってる 分かってるのに", "text": "頭では分かってる 分かってるのに", "segments": ["頭では", "分かってる ", "分かってるのに"] },
+        { "key": "223316|I keep saying hate you through the night.", "text": "I keep saying hate you through the night.", "segments": ["I ", "keep ", "saying ", "hate ", "you ", "through ", "the ", "night."] },
+        { "key": "225692|Like I used to say love you that night.", "text": "Like I used to say love you that night.", "segments": ["Like ", "I ", "used ", "to ", "say ", "love ", "you ", "that ", "night."] },
+        { "key": "228130|誰よりも一番 “I hate me”", "text": "誰よりも一番 “I hate me”", "segments": ["誰よりも", "一番 ", "“I hate me”"] }
+      ]
+    }
+  ]
+}

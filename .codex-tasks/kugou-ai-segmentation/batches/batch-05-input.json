@@ -1,0 +1,1445 @@
+{
+  "batchNumber": 5,
+  "songs": [
+    {
+      "rank": 21,
+      "songKey": "online:kugou:b94449145e217316d46e462ef7af4724",
+      "name": "I hate me",
+      "artist": "Lily.μ",
+      "lines": [
+        {
+          "key": "0|I hate me - Lily.μ (リリー･ミュー)",
+          "startMs": 0,
+          "text": "I hate me - Lily.μ (リリー･ミュー)"
+        },
+        {
+          "key": "7070|作詞：D-TRI",
+          "startMs": 7070,
+          "text": "作詞：D-TRI"
+        },
+        {
+          "key": "14150|作曲：D-TRI",
+          "startMs": 14150,
+          "text": "作曲：D-TRI"
+        },
+        {
+          "key": "21229|何気ない時間を一人で過ごした",
+          "startMs": 21229,
+          "text": "何気ない時間を一人で過ごした"
+        },
+        {
+          "key": "25980|もう寂しさなんて…",
+          "startMs": 25980,
+          "text": "もう寂しさなんて…"
+        },
+        {
+          "key": "29854|忘れてるよね? もう大丈夫でしょ?",
+          "startMs": 29854,
+          "text": "忘れてるよね? もう大丈夫でしょ?"
+        },
+        {
+          "key": "36417|そう言い聞かせていたんだ でも",
+          "startMs": 36417,
+          "text": "そう言い聞かせていたんだ でも"
+        },
+        {
+          "key": "41229|時が過ぎれば 軽い擦り傷は",
+          "startMs": 41229,
+          "text": "時が過ぎれば 軽い擦り傷は"
+        },
+        {
+          "key": "46977|癒えると思ってたのに",
+          "startMs": 46977,
+          "text": "癒えると思ってたのに"
+        },
+        {
+          "key": "51417|その存在は 心をえぐってた",
+          "startMs": 51417,
+          "text": "その存在は 心をえぐってた"
+        },
+        {
+          "key": "56481|一年経っても癒えない それなのに",
+          "startMs": 56481,
+          "text": "一年経っても癒えない それなのに"
+        },
+        {
+          "key": "61229|I keep saying hate you through the night.",
+          "startMs": 61229,
+          "text": "I keep saying hate you through the night."
+        },
+        {
+          "key": "64041|Like I used to say love you that night.",
+          "startMs": 64041,
+          "text": "Like I used to say love you that night."
+        },
+        {
+          "key": "66418|涙はこぼれてしまうのに",
+          "startMs": 66418,
+          "text": "涙はこぼれてしまうのに"
+        },
+        {
+          "key": "71419|I keep saying hate you through the night.",
+          "startMs": 71419,
+          "text": "I keep saying hate you through the night."
+        },
+        {
+          "key": "73979|Like I used to say love you that night.",
+          "startMs": 73979,
+          "text": "Like I used to say love you that night."
+        },
+        {
+          "key": "76606|何よりも一番 “I hate me”",
+          "startMs": 76606,
+          "text": "何よりも一番 “I hate me”"
+        },
+        {
+          "key": "91670|ケンカの時も どう考えても私が悪くても",
+          "startMs": 91670,
+          "text": "ケンカの時も どう考えても私が悪くても"
+        },
+        {
+          "key": "101670|絶対に先に謝るでしょ?",
+          "startMs": 101670,
+          "text": "絶対に先に謝るでしょ?"
+        },
+        {
+          "key": "106794|その優しさが痛かったの",
+          "startMs": 106794,
+          "text": "その優しさが痛かったの"
+        },
+        {
+          "key": "112168|今は何処かで知らない誰かと",
+          "startMs": 112168,
+          "text": "今は何処かで知らない誰かと"
+        },
+        {
+          "key": "117734|笑い合っているのね",
+          "startMs": 117734,
+          "text": "笑い合っているのね"
+        },
+        {
+          "key": "121980|好きにすれば? もう他人だから",
+          "startMs": 121980,
+          "text": "好きにすれば? もう他人だから"
+        },
+        {
+          "key": "127172|想ったりはしない それなのに",
+          "startMs": 127172,
+          "text": "想ったりはしない それなのに"
+        },
+        {
+          "key": "132108|I keep saying hate you through the night.",
+          "startMs": 132108,
+          "text": "I keep saying hate you through the night."
+        },
+        {
+          "key": "134732|Like I used to say love you that night.",
+          "startMs": 134732,
+          "text": "Like I used to say love you that night."
+        },
+        {
+          "key": "137355|頭では分かってるのに",
+          "startMs": 137355,
+          "text": "頭では分かってるのに"
+        },
+        {
+          "key": "142359|I keep saying hate you through the night.",
+          "startMs": 142359,
+          "text": "I keep saying hate you through the night."
+        },
+        {
+          "key": "144859|Like I used to say love you that night.",
+          "startMs": 144859,
+          "text": "Like I used to say love you that night."
+        },
+        {
+          "key": "147357|誰よりも一番 “I hate me”",
+          "startMs": 147357,
+          "text": "誰よりも一番 “I hate me”"
+        },
+        {
+          "key": "172189|最後のサヨナラを交わした時も笑ったでしょ?",
+          "startMs": 172189,
+          "text": "最後のサヨナラを交わした時も笑ったでしょ?"
+        },
+        {
+          "key": "181815|記憶から消えない 今も",
+          "startMs": 181815,
+          "text": "記憶から消えない 今も"
+        },
+        {
+          "key": "192940|I keep saying hate you through the night.",
+          "startMs": 192940,
+          "text": "I keep saying hate you through the night."
+        },
+        {
+          "key": "195316|Like I used to say love you that night.",
+          "startMs": 195316,
+          "text": "Like I used to say love you that night."
+        },
+        {
+          "key": "197752|涙はこぼれてしまうのに",
+          "startMs": 197752,
+          "text": "涙はこぼれてしまうのに"
+        },
+        {
+          "key": "202938|I keep saying hate you through the night.",
+          "startMs": 202938,
+          "text": "I keep saying hate you through the night."
+        },
+        {
+          "key": "205379|Like I used to say love you that night.",
+          "startMs": 205379,
+          "text": "Like I used to say love you that night."
+        },
+        {
+          "key": "207879|何よりも一番 “I hate me”",
+          "startMs": 207879,
+          "text": "何よりも一番 “I hate me”"
+        },
+        {
+          "key": "213502|I keep saying hate you through the night.",
+          "startMs": 213502,
+          "text": "I keep saying hate you through the night."
+        },
+        {
+          "key": "215504|Like I used to say love you that night.",
+          "startMs": 215504,
+          "text": "Like I used to say love you that night."
+        },
+        {
+          "key": "218067|頭では分かってる 分かってるのに",
+          "startMs": 218067,
+          "text": "頭では分かってる 分かってるのに"
+        },
+        {
+          "key": "223316|I keep saying hate you through the night.",
+          "startMs": 223316,
+          "text": "I keep saying hate you through the night."
+        },
+        {
+          "key": "225692|Like I used to say love you that night.",
+          "startMs": 225692,
+          "text": "Like I used to say love you that night."
+        },
+        {
+          "key": "228130|誰よりも一番 “I hate me”",
+          "startMs": 228130,
+          "text": "誰よりも一番 “I hate me”"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "songKey": "online:kugou:4571c4535948dad27674694f6a4275e1",
+      "name": "ごめんね (对不起)",
+      "artist": "AYANE",
+      "lines": [
+        {
+          "key": "144|ごめんね - Ayane",
+          "startMs": 144,
+          "text": "ごめんね - Ayane"
+        },
+        {
+          "key": "912|词：AYANE/Haruhito Nishi",
+          "startMs": 912,
+          "text": "词：AYANE/Haruhito Nishi"
+        },
+        {
+          "key": "2200|曲：AYANE/Haruhito Nishi",
+          "startMs": 2200,
+          "text": "曲：AYANE/Haruhito Nishi"
+        },
+        {
+          "key": "12091|ぐちゃぐちゃのこの部屋で",
+          "startMs": 12091,
+          "text": "ぐちゃぐちゃのこの部屋で"
+        },
+        {
+          "key": "14792|今夜また私lonely",
+          "startMs": 14792,
+          "text": "今夜また私lonely"
+        },
+        {
+          "key": "16852|病むし嫌だし寂しい",
+          "startMs": 16852,
+          "text": "病むし嫌だし寂しい"
+        },
+        {
+          "key": "18852|ああ 疲れたよ恋とか",
+          "startMs": 18852,
+          "text": "ああ 疲れたよ恋とか"
+        },
+        {
+          "key": "21566|もうあの頃に戻れないの tell me why?",
+          "startMs": 21566,
+          "text": "もうあの頃に戻れないの tell me why?"
+        },
+        {
+          "key": "24275|けど I know",
+          "startMs": 24275,
+          "text": "けど I know"
+        },
+        {
+          "key": "24923|どうせ上手くいかないこと",
+          "startMs": 24923,
+          "text": "どうせ上手くいかないこと"
+        },
+        {
+          "key": "26956|いつの間にかなぜ",
+          "startMs": 26956,
+          "text": "いつの間にかなぜ"
+        },
+        {
+          "key": "28276|見えなくなってた",
+          "startMs": 28276,
+          "text": "見えなくなってた"
+        },
+        {
+          "key": "29572|求めすぎてた私が悪いのかな",
+          "startMs": 29572,
+          "text": "求めすぎてた私が悪いのかな"
+        },
+        {
+          "key": "32839|傷付けられて傷付けて",
+          "startMs": 32839,
+          "text": "傷付けられて傷付けて"
+        },
+        {
+          "key": "35315|素直にはなれない",
+          "startMs": 35315,
+          "text": "素直にはなれない"
+        },
+        {
+          "key": "37722|また何度も後悔もう理性は崩壊",
+          "startMs": 37722,
+          "text": "また何度も後悔もう理性は崩壊"
+        },
+        {
+          "key": "40382|幸せになりたいだけ",
+          "startMs": 40382,
+          "text": "幸せになりたいだけ"
+        },
+        {
+          "key": "43522|聞きたいのはsorryじゃない",
+          "startMs": 43522,
+          "text": "聞きたいのはsorryじゃない"
+        },
+        {
+          "key": "46172|なんにも分かってないね",
+          "startMs": 46172,
+          "text": "なんにも分かってないね"
+        },
+        {
+          "key": "48502|また口に出す「もう無理かもね」",
+          "startMs": 48502,
+          "text": "また口に出す「もう無理かもね」"
+        },
+        {
+          "key": "51212|私面倒くさいよね うざ",
+          "startMs": 51212,
+          "text": "私面倒くさいよね うざ"
+        },
+        {
+          "key": "54025|愛しても 愛しても",
+          "startMs": 54025,
+          "text": "愛しても 愛しても"
+        },
+        {
+          "key": "56602|何で伝わんないのかな",
+          "startMs": 56602,
+          "text": "何で伝わんないのかな"
+        },
+        {
+          "key": "59122|終わりなんて嫌だよやめて",
+          "startMs": 59122,
+          "text": "終わりなんて嫌だよやめて"
+        },
+        {
+          "key": "61702|好きだけじゃだめなのかな",
+          "startMs": 61702,
+          "text": "好きだけじゃだめなのかな"
+        },
+        {
+          "key": "64832|会いたいの不安なの",
+          "startMs": 64832,
+          "text": "会いたいの不安なの"
+        },
+        {
+          "key": "67322|そばにいて欲しいの",
+          "startMs": 67322,
+          "text": "そばにいて欲しいの"
+        },
+        {
+          "key": "69720|私ばっかりだよね",
+          "startMs": 69720,
+          "text": "私ばっかりだよね"
+        },
+        {
+          "key": "71608|やっぱりキミには重すぎたかな",
+          "startMs": 71608,
+          "text": "やっぱりキミには重すぎたかな"
+        },
+        {
+          "key": "75080|ごめんね",
+          "startMs": 75080,
+          "text": "ごめんね"
+        },
+        {
+          "key": "76004|Always by your side",
+          "startMs": 76004,
+          "text": "Always by your side"
+        },
+        {
+          "key": "79501|側にいてほしいの",
+          "startMs": 79501,
+          "text": "側にいてほしいの"
+        },
+        {
+          "key": "81284|Stay by my side",
+          "startMs": 81284,
+          "text": "Stay by my side"
+        },
+        {
+          "key": "83177|キミには重すぎたかな",
+          "startMs": 83177,
+          "text": "キミには重すぎたかな"
+        },
+        {
+          "key": "85841|ごめんね",
+          "startMs": 85841,
+          "text": "ごめんね"
+        },
+        {
+          "key": "87419|曖昧なkiss本当は I miss",
+          "startMs": 87419,
+          "text": "曖昧なkiss本当は I miss"
+        },
+        {
+          "key": "90155|愛してほしかっただけ",
+          "startMs": 90155,
+          "text": "愛してほしかっただけ"
+        },
+        {
+          "key": "92429|でも責めてばかりで I cry",
+          "startMs": 92429,
+          "text": "でも責めてばかりで I cry"
+        },
+        {
+          "key": "94445|寂しさが暗い部屋に残ってる yeah",
+          "startMs": 94445,
+          "text": "寂しさが暗い部屋に残ってる yeah"
+        },
+        {
+          "key": "97732|出会った頃に描いてた未来",
+          "startMs": 97732,
+          "text": "出会った頃に描いてた未来"
+        },
+        {
+          "key": "100394|結末はこんなはずじゃない",
+          "startMs": 100394,
+          "text": "結末はこんなはずじゃない"
+        },
+        {
+          "key": "102346|(どうして)",
+          "startMs": 102346,
+          "text": "(どうして)"
+        },
+        {
+          "key": "103098|まだキミ以外は見れないyeah",
+          "startMs": 103098,
+          "text": "まだキミ以外は見れないyeah"
+        },
+        {
+          "key": "105719|引き延ばすだけのエンディング",
+          "startMs": 105719,
+          "text": "引き延ばすだけのエンディング"
+        },
+        {
+          "key": "108125|好きなとこより嫌なとこ",
+          "startMs": 108125,
+          "text": "好きなとこより嫌なとこ"
+        },
+        {
+          "key": "110797|ばっかりが目に付いて",
+          "startMs": 110797,
+          "text": "ばっかりが目に付いて"
+        },
+        {
+          "key": "113172|変わったのはそう私もかもね",
+          "startMs": 113172,
+          "text": "変わったのはそう私もかもね"
+        },
+        {
+          "key": "115892|寂しかっただけなのに",
+          "startMs": 115892,
+          "text": "寂しかっただけなのに"
+        },
+        {
+          "key": "119042|言いたいのは sorryでも",
+          "startMs": 119042,
+          "text": "言いたいのは sorryでも"
+        },
+        {
+          "key": "121682|今さら遅いねきっと",
+          "startMs": 121682,
+          "text": "今さら遅いねきっと"
+        },
+        {
+          "key": "123992|また口に出す「もう一度だけ」",
+          "startMs": 123992,
+          "text": "また口に出す「もう一度だけ」"
+        },
+        {
+          "key": "126712|後悔してばっかりじゃん うざ",
+          "startMs": 126712,
+          "text": "後悔してばっかりじゃん うざ"
+        },
+        {
+          "key": "129520|愛しても 愛しても",
+          "startMs": 129520,
+          "text": "愛しても 愛しても"
+        },
+        {
+          "key": "132104|何で伝わんないのかな",
+          "startMs": 132104,
+          "text": "何で伝わんないのかな"
+        },
+        {
+          "key": "134632|終わりなんて嫌だよやめて",
+          "startMs": 134632,
+          "text": "終わりなんて嫌だよやめて"
+        },
+        {
+          "key": "137282|好きだけじゃだめなのかな",
+          "startMs": 137282,
+          "text": "好きだけじゃだめなのかな"
+        },
+        {
+          "key": "140310|会いたいの不安なの",
+          "startMs": 140310,
+          "text": "会いたいの不安なの"
+        },
+        {
+          "key": "142926|そばにいて欲しいの",
+          "startMs": 142926,
+          "text": "そばにいて欲しいの"
+        },
+        {
+          "key": "145246|私ばっかりだよね",
+          "startMs": 145246,
+          "text": "私ばっかりだよね"
+        },
+        {
+          "key": "147103|やっぱりキミには重すぎたかな",
+          "startMs": 147103,
+          "text": "やっぱりキミには重すぎたかな"
+        },
+        {
+          "key": "150583|ごめんね",
+          "startMs": 150583,
+          "text": "ごめんね"
+        },
+        {
+          "key": "151544|Always by your side",
+          "startMs": 151544,
+          "text": "Always by your side"
+        },
+        {
+          "key": "154932|側にいてほしいの",
+          "startMs": 154932,
+          "text": "側にいてほしいの"
+        },
+        {
+          "key": "156620|Stay by my side",
+          "startMs": 156620,
+          "text": "Stay by my side"
+        },
+        {
+          "key": "158732|キミには重すぎたかな",
+          "startMs": 158732,
+          "text": "キミには重すぎたかな"
+        },
+        {
+          "key": "161348|ごめんね",
+          "startMs": 161348,
+          "text": "ごめんね"
+        },
+        {
+          "key": "163074|ぐちゃぐちゃのこの部屋で",
+          "startMs": 163074,
+          "text": "ぐちゃぐちゃのこの部屋で"
+        },
+        {
+          "key": "165789|今夜また私lonely",
+          "startMs": 165789,
+          "text": "今夜また私lonely"
+        },
+        {
+          "key": "167788|病むし嫌だし寂しい",
+          "startMs": 167788,
+          "text": "病むし嫌だし寂しい"
+        },
+        {
+          "key": "169780|ああ疲れたよ恋とか",
+          "startMs": 169780,
+          "text": "ああ疲れたよ恋とか"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "songKey": "online:kugou:9da7851e2bf83b18c74cbbab461cefdd",
+      "name": "恋人",
+      "artist": "李荣浩",
+      "lines": [
+        {
+          "key": "993|恋人 - 李荣浩",
+          "startMs": 993,
+          "text": "恋人 - 李荣浩"
+        },
+        {
+          "key": "3633|词 Lyricist：刘嘉星 Jiaxing Liu",
+          "startMs": 3633,
+          "text": "词 Lyricist：刘嘉星 Jiaxing Liu"
+        },
+        {
+          "key": "6186|曲 Composer：刘嘉星 Jiaxing Liu",
+          "startMs": 6186,
+          "text": "曲 Composer：刘嘉星 Jiaxing Liu"
+        },
+        {
+          "key": "7905|编曲 Arrangement：李荣浩 Ronghao Li",
+          "startMs": 7905,
+          "text": "编曲 Arrangement：李荣浩 Ronghao Li"
+        },
+        {
+          "key": "9753|制作人 Producer：李荣浩 Ronghao Li",
+          "startMs": 9753,
+          "text": "制作人 Producer：李荣浩 Ronghao Li"
+        },
+        {
+          "key": "11777|吉他 Guitars：李荣浩 Ronghao Li",
+          "startMs": 11777,
+          "text": "吉他 Guitars：李荣浩 Ronghao Li"
+        },
+        {
+          "key": "13066|贝斯 BASS：李荣浩 Ronghao Li",
+          "startMs": 13066,
+          "text": "贝斯 BASS：李荣浩 Ronghao Li"
+        },
+        {
+          "key": "13330|弦乐 String：国际首席爱乐乐团 International Master Philharmonic Orchestra",
+          "startMs": 13330,
+          "text": "弦乐 String：国际首席爱乐乐团 International Master Philharmonic Orchestra"
+        },
+        {
+          "key": "15297|和音 Backing Vocal：李荣浩 Ronghao Li",
+          "startMs": 15297,
+          "text": "和音 Backing Vocal：李荣浩 Ronghao Li"
+        },
+        {
+          "key": "16468|录音师 Recording Engineer：李荣浩 Ronghao Li",
+          "startMs": 16468,
+          "text": "录音师 Recording Engineer：李荣浩 Ronghao Li"
+        },
+        {
+          "key": "18591|混音师 Mixing Engineer：李荣浩 Ronghao Li",
+          "startMs": 18591,
+          "text": "混音师 Mixing Engineer：李荣浩 Ronghao Li"
+        },
+        {
+          "key": "19635|音乐制作助理 Production Assistant：青格乐 Chingel",
+          "startMs": 19635,
+          "text": "音乐制作助理 Production Assistant：青格乐 Chingel"
+        },
+        {
+          "key": "20032|录音工作室 Recording Studio：北京一样音乐录音室 Beijing Young Music Studio",
+          "startMs": 20032,
+          "text": "录音工作室 Recording Studio：北京一样音乐录音室 Beijing Young Music Studio"
+        },
+        {
+          "key": "21884|混音工作室 Mixing Studio：北京一样音乐录音室 Beijing Young Music Studio",
+          "startMs": 21884,
+          "text": "混音工作室 Mixing Studio：北京一样音乐录音室 Beijing Young Music Studio"
+        },
+        {
+          "key": "23011|母带后期制作人Mastering Producer：李荣浩 Ronghao Li",
+          "startMs": 23011,
+          "text": "母带后期制作人Mastering Producer：李荣浩 Ronghao Li"
+        },
+        {
+          "key": "23473|母带后期处理工程师 Mastering Engineer：周天澈 TC Z.",
+          "startMs": 23473,
+          "text": "母带后期处理工程师 Mastering Engineer：周天澈 TC Z."
+        },
+        {
+          "key": "24002|母带后期处理录音室 Mastering Studio：Studio 21A",
+          "startMs": 24002,
+          "text": "母带后期处理录音室 Mastering Studio：Studio 21A"
+        },
+        {
+          "key": "25486|爱像是一场小雨",
+          "startMs": 25486,
+          "text": "爱像是一场小雨"
+        },
+        {
+          "key": "31325|淅沥沥淅沥沥",
+          "startMs": 31325,
+          "text": "淅沥沥淅沥沥"
+        },
+        {
+          "key": "33238|滴入我回忆",
+          "startMs": 33238,
+          "text": "滴入我回忆"
+        },
+        {
+          "key": "39214|爱又像一场旅行",
+          "startMs": 39214,
+          "text": "爱又像一场旅行"
+        },
+        {
+          "key": "44910|走停停走停停",
+          "startMs": 44910,
+          "text": "走停停走停停"
+        },
+        {
+          "key": "46870|忽然遇见你",
+          "startMs": 46870,
+          "text": "忽然遇见你"
+        },
+        {
+          "key": "50337|停下了足迹",
+          "startMs": 50337,
+          "text": "停下了足迹"
+        },
+        {
+          "key": "54543|是否还是不太喜欢吃香菜",
+          "startMs": 54543,
+          "text": "是否还是不太喜欢吃香菜"
+        },
+        {
+          "key": "58279|到现在都没改",
+          "startMs": 58279,
+          "text": "到现在都没改"
+        },
+        {
+          "key": "61403|那双原来最喜欢的匡威鞋带",
+          "startMs": 61403,
+          "text": "那双原来最喜欢的匡威鞋带"
+        },
+        {
+          "key": "65155|现在却解不开",
+          "startMs": 65155,
+          "text": "现在却解不开"
+        },
+        {
+          "key": "67329|那张磁带一再一再",
+          "startMs": 67329,
+          "text": "那张磁带一再一再"
+        },
+        {
+          "key": "70988|它又再一次的卡带",
+          "startMs": 70988,
+          "text": "它又再一次的卡带"
+        },
+        {
+          "key": "74319|却还会再一遍一遍",
+          "startMs": 74319,
+          "text": "却还会再一遍一遍"
+        },
+        {
+          "key": "77839|一遍又一遍听下来",
+          "startMs": 77839,
+          "text": "一遍又一遍听下来"
+        },
+        {
+          "key": "81112|昨天的爱 已回不来",
+          "startMs": 81112,
+          "text": "昨天的爱 已回不来"
+        },
+        {
+          "key": "87999|却依然在心里徘徊",
+          "startMs": 87999,
+          "text": "却依然在心里徘徊"
+        },
+        {
+          "key": "91352|却依然在心底徘徊",
+          "startMs": 91352,
+          "text": "却依然在心底徘徊"
+        },
+        {
+          "key": "121415|爱又像一场旅行",
+          "startMs": 121415,
+          "text": "爱又像一场旅行"
+        },
+        {
+          "key": "127295|走停停走停停",
+          "startMs": 127295,
+          "text": "走停停走停停"
+        },
+        {
+          "key": "129183|忽然遇见你",
+          "startMs": 129183,
+          "text": "忽然遇见你"
+        },
+        {
+          "key": "132599|停下了足迹",
+          "startMs": 132599,
+          "text": "停下了足迹"
+        },
+        {
+          "key": "136703|是否还是不太喜欢吃香菜",
+          "startMs": 136703,
+          "text": "是否还是不太喜欢吃香菜"
+        },
+        {
+          "key": "140614|到现在都没改",
+          "startMs": 140614,
+          "text": "到现在都没改"
+        },
+        {
+          "key": "143594|那双原来最喜欢的匡威鞋带",
+          "startMs": 143594,
+          "text": "那双原来最喜欢的匡威鞋带"
+        },
+        {
+          "key": "147450|现在却解不开",
+          "startMs": 147450,
+          "text": "现在却解不开"
+        },
+        {
+          "key": "149840|那张磁带一再一再",
+          "startMs": 149840,
+          "text": "那张磁带一再一再"
+        },
+        {
+          "key": "153231|它又再一次的卡带",
+          "startMs": 153231,
+          "text": "它又再一次的卡带"
+        },
+        {
+          "key": "156582|却还会再一遍一遍",
+          "startMs": 156582,
+          "text": "却还会再一遍一遍"
+        },
+        {
+          "key": "160070|一遍又一遍听下来",
+          "startMs": 160070,
+          "text": "一遍又一遍听下来"
+        },
+        {
+          "key": "163423|昨天的爱 已回不来",
+          "startMs": 163423,
+          "text": "昨天的爱 已回不来"
+        },
+        {
+          "key": "170295|却依然在心里徘徊",
+          "startMs": 170295,
+          "text": "却依然在心里徘徊"
+        },
+        {
+          "key": "173694|却依然在心底徘徊",
+          "startMs": 173694,
+          "text": "却依然在心底徘徊"
+        },
+        {
+          "key": "179640|凶手和恋人都喜欢事后回现场",
+          "startMs": 179640,
+          "text": "凶手和恋人都喜欢事后回现场"
+        },
+        {
+          "key": "186590|看一看自己从前到底有多疯狂",
+          "startMs": 186590,
+          "text": "看一看自己从前到底有多疯狂"
+        },
+        {
+          "key": "193292|回忆里充满着罗曼蒂克的幻想",
+          "startMs": 193292,
+          "text": "回忆里充满着罗曼蒂克的幻想"
+        },
+        {
+          "key": "199016|那张磁带里藏着过往",
+          "startMs": 199016,
+          "text": "那张磁带里藏着过往"
+        },
+        {
+          "key": "202455|播放了就会回到现场",
+          "startMs": 202455,
+          "text": "播放了就会回到现场"
+        },
+        {
+          "key": "206384|再一再它又再一次的卡带",
+          "startMs": 206384,
+          "text": "再一再它又再一次的卡带"
+        },
+        {
+          "key": "211380|却还会再一遍一遍",
+          "startMs": 211380,
+          "text": "却还会再一遍一遍"
+        },
+        {
+          "key": "214957|一遍又一遍听下来",
+          "startMs": 214957,
+          "text": "一遍又一遍听下来"
+        },
+        {
+          "key": "218310|昨天的爱 已回不来",
+          "startMs": 218310,
+          "text": "昨天的爱 已回不来"
+        },
+        {
+          "key": "225134|却依然在心里徘徊",
+          "startMs": 225134,
+          "text": "却依然在心里徘徊"
+        },
+        {
+          "key": "228486|却依然在心底徘徊",
+          "startMs": 228486,
+          "text": "却依然在心底徘徊"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "songKey": "online:kugou:fae38014c42aca3b51d4a978fddbd2d8",
+      "name": "琵琶行之大唐盛世 (纯享版)",
+      "artist": "灵魂配乐师",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "songKey": "online:kugou:eec6b25a4eb854e60941d67462676757",
+      "name": "사랑이 말을 듣지 않아 (不听情话)(FEAT.디헤븐 유신)",
+      "artist": "나몰라패밀리 JW / D.Heaven",
+      "lines": [
+        {
+          "key": "3561|Dada dadada 사랑이 말을 ",
+          "startMs": 3561,
+          "text": "Dada dadada 사랑이 말을 "
+        },
+        {
+          "key": "5662|듣지않아 dadada ",
+          "startMs": 5662,
+          "text": "듣지않아 dadada "
+        },
+        {
+          "key": "8376|다신 dada dadada ",
+          "startMs": 8376,
+          "text": "다신 dada dadada "
+        },
+        {
+          "key": "11072|어떡해 dadadadadada ",
+          "startMs": 11072,
+          "text": "어떡해 dadadadadada "
+        },
+        {
+          "key": "17823|미치겠어 ",
+          "startMs": 17823,
+          "text": "미치겠어 "
+        },
+        {
+          "key": "19597|Rap:우리 기억들이 ",
+          "startMs": 19597,
+          "text": "Rap:우리 기억들이 "
+        },
+        {
+          "key": "20647|하늘에서 내리고 ",
+          "startMs": 20647,
+          "text": "하늘에서 내리고 "
+        },
+        {
+          "key": "21647|미쳐버린 내 얼굴로 흐르고",
+          "startMs": 21647,
+          "text": "미쳐버린 내 얼굴로 흐르고"
+        },
+        {
+          "key": "23600|하루종일 내 방에서 가슴쳐도 ",
+          "startMs": 23600,
+          "text": "하루종일 내 방에서 가슴쳐도 "
+        },
+        {
+          "key": "25653|두번 세번 도망치려 해도",
+          "startMs": 25653,
+          "text": "두번 세번 도망치려 해도"
+        },
+        {
+          "key": "27805|(미쳐) 그래 사랑은 ",
+          "startMs": 27805,
+          "text": "(미쳐) 그래 사랑은 "
+        },
+        {
+          "key": "29305|상당히 복잡해 ",
+          "startMs": 29305,
+          "text": "상당히 복잡해 "
+        },
+        {
+          "key": "30155|(미쳐) 내가 채워도 ",
+          "startMs": 30155,
+          "text": "(미쳐) 내가 채워도 "
+        },
+        {
+          "key": "31556|이렇게 부족해 ",
+          "startMs": 31556,
+          "text": "이렇게 부족해 "
+        },
+        {
+          "key": "32407|(미쳐) 아직 눈물은 ",
+          "startMs": 32407,
+          "text": "(미쳐) 아직 눈물은 "
+        },
+        {
+          "key": "33758|감추진 난 못해 ",
+          "startMs": 33758,
+          "text": "감추진 난 못해 "
+        },
+        {
+          "key": "34659|울고있어 그래 ",
+          "startMs": 34659,
+          "text": "울고있어 그래 "
+        },
+        {
+          "key": "35508|내가 너 몰래",
+          "startMs": 35508,
+          "text": "내가 너 몰래"
+        },
+        {
+          "key": "36159|내 맘엔 돌아가지못해 (절대) ",
+          "startMs": 36159,
+          "text": "내 맘엔 돌아가지못해 (절대) "
+        },
+        {
+          "key": "38411|내 안엔 살아가지 못해 (절대)",
+          "startMs": 38411,
+          "text": "내 안엔 살아가지 못해 (절대)"
+        },
+        {
+          "key": "40262|사랑해 사랑해 사랑해 ",
+          "startMs": 40262,
+          "text": "사랑해 사랑해 사랑해 "
+        },
+        {
+          "key": "41613|내가 하루종일 노래를 불러도 ",
+          "startMs": 41613,
+          "text": "내가 하루종일 노래를 불러도 "
+        },
+        {
+          "key": "44124|(시계는 흘러가지 못하는 ",
+          "startMs": 44124,
+          "text": "(시계는 흘러가지 못하는 "
+        },
+        {
+          "key": "45984|우리는 사랑하지 못하는)",
+          "startMs": 45984,
+          "text": "우리는 사랑하지 못하는)"
+        },
+        {
+          "key": "48385|제발 가지마라 붙잡아도 ",
+          "startMs": 48385,
+          "text": "제발 가지마라 붙잡아도 "
+        },
+        {
+          "key": "50236|이제 소용이 없어 ",
+          "startMs": 50236,
+          "text": "이제 소용이 없어 "
+        },
+        {
+          "key": "51591|솔직히 심장이 고장났니 ",
+          "startMs": 51591,
+          "text": "솔직히 심장이 고장났니 "
+        },
+        {
+          "key": "54994|말을 듣지 않니",
+          "startMs": 54994,
+          "text": "말을 듣지 않니"
+        },
+        {
+          "key": "56997|우리 사랑이 ",
+          "startMs": 56997,
+          "text": "우리 사랑이 "
+        },
+        {
+          "key": "58699|(두번 다시는 나는 못가) ",
+          "startMs": 58699,
+          "text": "(두번 다시는 나는 못가) "
+        },
+        {
+          "key": "60302|도대체 내가 뭘 잘못했니 ",
+          "startMs": 60302,
+          "text": "도대체 내가 뭘 잘못했니 "
+        },
+        {
+          "key": "62954|돌아 올 순 없니",
+          "startMs": 62954,
+          "text": "돌아 올 순 없니"
+        },
+        {
+          "key": "64757|I give you my heart",
+          "startMs": 64757,
+          "text": "I give you my heart"
+        },
+        {
+          "key": "66398|(너를 두고 나는 못가)",
+          "startMs": 66398,
+          "text": "(너를 두고 나는 못가)"
+        },
+        {
+          "key": "68349|말을 듣지않아 (다신) ",
+          "startMs": 68349,
+          "text": "말을 듣지않아 (다신) "
+        },
+        {
+          "key": "70602|이건 원치않아 (다신) ",
+          "startMs": 70602,
+          "text": "이건 원치않아 (다신) "
+        },
+        {
+          "key": "72153|미친거야 내가 왜 ",
+          "startMs": 72153,
+          "text": "미친거야 내가 왜 "
+        },
+        {
+          "key": "74573|날 (미쳐버리겠어 정말)",
+          "startMs": 74573,
+          "text": "날 (미쳐버리겠어 정말)"
+        },
+        {
+          "key": "76323|제발 떠나지마 (잘가) ",
+          "startMs": 76323,
+          "text": "제발 떠나지마 (잘가) "
+        },
+        {
+          "key": "78525|행북해 가지마 (잘가) ",
+          "startMs": 78525,
+          "text": "행북해 가지마 (잘가) "
+        },
+        {
+          "key": "80225|내 사랑이 말을 ",
+          "startMs": 80225,
+          "text": "내 사랑이 말을 "
+        },
+        {
+          "key": "82065|듣지않아 어떡해",
+          "startMs": 82065,
+          "text": "듣지않아 어떡해"
+        },
+        {
+          "key": "86346|나는 정말 싫어 ",
+          "startMs": 86346,
+          "text": "나는 정말 싫어 "
+        },
+        {
+          "key": "87446|헤어지기는 정말 싫어 ",
+          "startMs": 87446,
+          "text": "헤어지기는 정말 싫어 "
+        },
+        {
+          "key": "89396|내가 사랑하는 ",
+          "startMs": 89396,
+          "text": "내가 사랑하는 "
+        },
+        {
+          "key": "90446|마음만을 주고싶었어",
+          "startMs": 90446,
+          "text": "마음만을 주고싶었어"
+        },
+        {
+          "key": "91949|이러다가 내가 정말 죽겠어",
+          "startMs": 91949,
+          "text": "이러다가 내가 정말 죽겠어"
+        },
+        {
+          "key": "94652|니가 좋아했던 꽃다발 ",
+          "startMs": 94652,
+          "text": "니가 좋아했던 꽃다발 "
+        },
+        {
+          "key": "96853|니가 좋아했던 ",
+          "startMs": 96853,
+          "text": "니가 좋아했던 "
+        },
+        {
+          "key": "98004|나의 사랑 메시지 (잘가)",
+          "startMs": 98004,
+          "text": "나의 사랑 메시지 (잘가)"
+        },
+        {
+          "key": "100085|사랑하는 남자를 만나서 ",
+          "startMs": 100085,
+          "text": "사랑하는 남자를 만나서 "
+        },
+        {
+          "key": "101885|그래 누구보다 행복해",
+          "startMs": 101885,
+          "text": "그래 누구보다 행복해"
+        },
+        {
+          "key": "103335|(소리쳐 소리쳐 ",
+          "startMs": 103335,
+          "text": "(소리쳐 소리쳐 "
+        },
+        {
+          "key": "104837|내 맘대로 소리쳐)",
+          "startMs": 104837,
+          "text": "내 맘대로 소리쳐)"
+        },
+        {
+          "key": "106787|정말 다른남잔 안돼 ",
+          "startMs": 106787,
+          "text": "정말 다른남잔 안돼 "
+        },
+        {
+          "key": "108037|그래서는 안돼 ",
+          "startMs": 108037,
+          "text": "그래서는 안돼 "
+        },
+        {
+          "key": "109137|내가 이렇게 ",
+          "startMs": 109137,
+          "text": "내가 이렇게 "
+        },
+        {
+          "key": "109937|너를 사랑하는데 제발",
+          "startMs": 109937,
+          "text": "너를 사랑하는데 제발"
+        },
+        {
+          "key": "111488|(내리쳐 내리쳐 ",
+          "startMs": 111488,
+          "text": "(내리쳐 내리쳐 "
+        },
+        {
+          "key": "112788|내 가슴을 내리쳐)",
+          "startMs": 112788,
+          "text": "내 가슴을 내리쳐)"
+        },
+        {
+          "key": "115140|내가 이러는지 왜 이러는지 ",
+          "startMs": 115140,
+          "text": "내가 이러는지 왜 이러는지 "
+        },
+        {
+          "key": "117142|사랑이 말을 듣질 않아",
+          "startMs": 117142,
+          "text": "사랑이 말을 듣질 않아"
+        },
+        {
+          "key": "119094|솔직히 심장이 고장났니 ",
+          "startMs": 119094,
+          "text": "솔직히 심장이 고장났니 "
+        },
+        {
+          "key": "122094|말을 듣지 않니",
+          "startMs": 122094,
+          "text": "말을 듣지 않니"
+        },
+        {
+          "key": "123995|우리 사랑이 ",
+          "startMs": 123995,
+          "text": "우리 사랑이 "
+        },
+        {
+          "key": "125395|(두번 다시는 나는 못가)",
+          "startMs": 125395,
+          "text": "(두번 다시는 나는 못가)"
+        },
+        {
+          "key": "127396|도대체 내가 뭘 잘못했니 ",
+          "startMs": 127396,
+          "text": "도대체 내가 뭘 잘못했니 "
+        },
+        {
+          "key": "129948|돌아 올 순 없니",
+          "startMs": 129948,
+          "text": "돌아 올 순 없니"
+        },
+        {
+          "key": "132048|I give you my heart ",
+          "startMs": 132048,
+          "text": "I give you my heart "
+        },
+        {
+          "key": "133748|(너를 두고 나는 못가)",
+          "startMs": 133748,
+          "text": "(너를 두고 나는 못가)"
+        },
+        {
+          "key": "135399|말을 듣지않아 (다신) ",
+          "startMs": 135399,
+          "text": "말을 듣지않아 (다신) "
+        },
+        {
+          "key": "137549|이건 원치않아 (다신)",
+          "startMs": 137549,
+          "text": "이건 원치않아 (다신)"
+        },
+        {
+          "key": "139450|미친거야 내가 왜 ",
+          "startMs": 139450,
+          "text": "미친거야 내가 왜 "
+        },
+        {
+          "key": "141451|날 (미쳐버리겠어 정말)",
+          "startMs": 141451,
+          "text": "날 (미쳐버리겠어 정말)"
+        },
+        {
+          "key": "143727|제발 떠나지마 (잘가) ",
+          "startMs": 143727,
+          "text": "제발 떠나지마 (잘가) "
+        },
+        {
+          "key": "145728|행북해 가지마 (잘가)",
+          "startMs": 145728,
+          "text": "행북해 가지마 (잘가)"
+        },
+        {
+          "key": "147479|내 사랑이 말을 ",
+          "startMs": 147479,
+          "text": "내 사랑이 말을 "
+        },
+        {
+          "key": "149130|듣지않아 어떡해",
+          "startMs": 149130,
+          "text": "듣지않아 어떡해"
+        },
+        {
+          "key": "152473|나를 울리지마 no ",
+          "startMs": 152473,
+          "text": "나를 울리지마 no "
+        },
+        {
+          "key": "160193|나를 떠나지마 no",
+          "startMs": 160193,
+          "text": "나를 떠나지마 no"
+        },
+        {
+          "key": "168422|Rap:자신이 없어 너를 잊고 ",
+          "startMs": 168422,
+          "text": "Rap:자신이 없어 너를 잊고 "
+        },
+        {
+          "key": "172460|사는게 난 정말 자신이 없어",
+          "startMs": 172460,
+          "text": "사는게 난 정말 자신이 없어"
+        },
+        {
+          "key": "176854|내 모든걸 ",
+          "startMs": 176854,
+          "text": "내 모든걸 "
+        },
+        {
+          "key": "177406|그대에게 줄게 (줄게)",
+          "startMs": 177406,
+          "text": "그대에게 줄게 (줄게)"
+        },
+        {
+          "key": "178657|우리 예전처럼 ",
+          "startMs": 178657,
+          "text": "우리 예전처럼 "
+        },
+        {
+          "key": "179357|다시 사랑할래 (할래)",
+          "startMs": 179357,
+          "text": "다시 사랑할래 (할래)"
+        },
+        {
+          "key": "180610|가슴의 심장이 고장나서 ",
+          "startMs": 180610,
+          "text": "가슴의 심장이 고장나서 "
+        },
+        {
+          "key": "182060|우리 사랑할 수 없어",
+          "startMs": 182060,
+          "text": "우리 사랑할 수 없어"
+        },
+        {
+          "key": "184011|솔직히 심장이 고장났니 ",
+          "startMs": 184011,
+          "text": "솔직히 심장이 고장났니 "
+        },
+        {
+          "key": "187063|말을 듣지 않니 ",
+          "startMs": 187063,
+          "text": "말을 듣지 않니 "
+        },
+        {
+          "key": "189288|우리 사랑이 ",
+          "startMs": 189288,
+          "text": "우리 사랑이 "
+        },
+        {
+          "key": "190338|(두번 다시는 나는 못가)",
+          "startMs": 190338,
+          "text": "(두번 다시는 나는 못가)"
+        },
+        {
+          "key": "192389|도대체 내가 뭘 잘못했니 ",
+          "startMs": 192389,
+          "text": "도대체 내가 뭘 잘못했니 "
+        },
+        {
+          "key": "195041|돌아 올 순 없니",
+          "startMs": 195041,
+          "text": "돌아 올 순 없니"
+        },
+        {
+          "key": "196994|I give you my heart ",
+          "startMs": 196994,
+          "text": "I give you my heart "
+        },
+        {
+          "key": "198646|(너를 두고 나는 못가)",
+          "startMs": 198646,
+          "text": "(너를 두고 나는 못가)"
+        },
+        {
+          "key": "200498|말을 듣지않아 (다신) ",
+          "startMs": 200498,
+          "text": "말을 듣지않아 (다신) "
+        },
+        {
+          "key": "202598|이건 원치않아 (다신) ",
+          "startMs": 202598,
+          "text": "이건 원치않아 (다신) "
+        },
+        {
+          "key": "204249|미친거야 내가 왜 ",
+          "startMs": 204249,
+          "text": "미친거야 내가 왜 "
+        },
+        {
+          "key": "206533|날 (미쳐버리겠어 정말)",
+          "startMs": 206533,
+          "text": "날 (미쳐버리겠어 정말)"
+        },
+        {
+          "key": "208561|제발 떠나지마 (잘가) ",
+          "startMs": 208561,
+          "text": "제발 떠나지마 (잘가) "
+        },
+        {
+          "key": "210661|행북해 가지마 (잘가)",
+          "startMs": 210661,
+          "text": "행북해 가지마 (잘가)"
+        },
+        {
+          "key": "212562|내 사랑이 말을 ",
+          "startMs": 212562,
+          "text": "내 사랑이 말을 "
+        },
+        {
+          "key": "214264|듣지않아 어떡해",
+          "startMs": 214264,
+          "text": "듣지않아 어떡해"
+        }
+      ]
+    }
+  ]
+}

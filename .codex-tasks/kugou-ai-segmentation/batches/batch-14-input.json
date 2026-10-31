@@ -1,0 +1,1245 @@
+{
+  "batchNumber": 14,
+  "songs": [
+    {
+      "rank": 66,
+      "songKey": "online:kugou:4bb29964838e1abc42e2859e9edbc709",
+      "name": "雨爱 (超燃DJ版)",
+      "artist": "DJ.Lee",
+      "lines": [
+        {
+          "key": "69|雨爱 (超燃DJ版) - DJ.Lee",
+          "startMs": 69,
+          "text": "雨爱 (超燃DJ版) - DJ.Lee"
+        },
+        {
+          "key": "558|词：Wonderful",
+          "startMs": 558,
+          "text": "词：Wonderful"
+        },
+        {
+          "key": "567|曲：金大洲",
+          "startMs": 567,
+          "text": "曲：金大洲"
+        },
+        {
+          "key": "581|OP：北京挺动音乐文化传媒有限公司",
+          "startMs": 581,
+          "text": "OP：北京挺动音乐文化传媒有限公司"
+        },
+        {
+          "key": "625|SP：Warner Chappell Music Publishing Agency (Beijing) Ltd.",
+          "startMs": 625,
+          "text": "SP：Warner Chappell Music Publishing Agency (Beijing) Ltd."
+        },
+        {
+          "key": "648|已通过「腾讯音乐·启明星」获得官方翻唱授权",
+          "startMs": 648,
+          "text": "已通过「腾讯音乐·启明星」获得官方翻唱授权"
+        },
+        {
+          "key": "709|听雨的声音 一滴滴清晰",
+          "startMs": 709,
+          "text": "听雨的声音 一滴滴清晰"
+        },
+        {
+          "key": "4197|你的呼吸像雨滴渗入我的爱里",
+          "startMs": 4197,
+          "text": "你的呼吸像雨滴渗入我的爱里"
+        },
+        {
+          "key": "10341|真希望雨能下不停",
+          "startMs": 10341,
+          "text": "真希望雨能下不停"
+        },
+        {
+          "key": "14879|让想念继续 让爱变透明",
+          "startMs": 14879,
+          "text": "让想念继续 让爱变透明"
+        },
+        {
+          "key": "21893|我爱上给我勇气的Rainie love",
+          "startMs": 21893,
+          "text": "我爱上给我勇气的Rainie love"
+        },
+        {
+          "key": "28997|窗外的雨滴 一滴滴累积",
+          "startMs": 28997,
+          "text": "窗外的雨滴 一滴滴累积"
+        },
+        {
+          "key": "32525|屋内的湿气像储存爱你的记忆",
+          "startMs": 32525,
+          "text": "屋内的湿气像储存爱你的记忆"
+        },
+        {
+          "key": "38765|真希望雨能下不停",
+          "startMs": 38765,
+          "text": "真希望雨能下不停"
+        },
+        {
+          "key": "43174|雨爱的秘密 能一直延续",
+          "startMs": 43174,
+          "text": "雨爱的秘密 能一直延续"
+        },
+        {
+          "key": "50325|我相信我将会看到彩虹的美丽",
+          "startMs": 50325,
+          "text": "我相信我将会看到彩虹的美丽"
+        },
+        {
+          "key": "60653|窗外的天气",
+          "startMs": 60653,
+          "text": "窗外的天气"
+        },
+        {
+          "key": "65781|就像是你多变的表情",
+          "startMs": 65781,
+          "text": "就像是你多变的表情"
+        },
+        {
+          "key": "72670|下雨了 雨陪我哭泣",
+          "startMs": 72670,
+          "text": "下雨了 雨陪我哭泣"
+        },
+        {
+          "key": "79910|看不清 我也不想看清",
+          "startMs": 79910,
+          "text": "看不清 我也不想看清"
+        },
+        {
+          "key": "86717|离开你 我安静的抽离",
+          "startMs": 86717,
+          "text": "离开你 我安静的抽离"
+        },
+        {
+          "key": "90901|不忍揭晓的剧情",
+          "startMs": 90901,
+          "text": "不忍揭晓的剧情"
+        },
+        {
+          "key": "94542|我的泪流在心里 学会放弃",
+          "startMs": 94542,
+          "text": "我的泪流在心里 学会放弃"
+        },
+        {
+          "key": "101237|听雨的声音 一滴滴清晰",
+          "startMs": 101237,
+          "text": "听雨的声音 一滴滴清晰"
+        },
+        {
+          "key": "104991|你的呼吸像雨滴",
+          "startMs": 104991,
+          "text": "你的呼吸像雨滴"
+        },
+        {
+          "key": "107680|渗入我的爱里",
+          "startMs": 107680,
+          "text": "渗入我的爱里"
+        },
+        {
+          "key": "111214|真希望雨能下不停",
+          "startMs": 111214,
+          "text": "真希望雨能下不停"
+        },
+        {
+          "key": "115715|让想念继续 让爱变透明",
+          "startMs": 115715,
+          "text": "让想念继续 让爱变透明"
+        },
+        {
+          "key": "122821|我爱上给我勇气的",
+          "startMs": 122821,
+          "text": "我爱上给我勇气的"
+        },
+        {
+          "key": "126701|Rainie Love",
+          "startMs": 126701,
+          "text": "Rainie Love"
+        },
+        {
+          "key": "129621|窗外的雨滴 一滴滴累积",
+          "startMs": 129621,
+          "text": "窗外的雨滴 一滴滴累积"
+        },
+        {
+          "key": "133325|屋内的湿气像储存",
+          "startMs": 133325,
+          "text": "屋内的湿气像储存"
+        },
+        {
+          "key": "136414|爱你的记忆",
+          "startMs": 136414,
+          "text": "爱你的记忆"
+        },
+        {
+          "key": "139605|真希望雨能下不停",
+          "startMs": 139605,
+          "text": "真希望雨能下不停"
+        },
+        {
+          "key": "143917|雨爱的秘密 能一直延续",
+          "startMs": 143917,
+          "text": "雨爱的秘密 能一直延续"
+        },
+        {
+          "key": "150957|我相信我将会",
+          "startMs": 150957,
+          "text": "我相信我将会"
+        },
+        {
+          "key": "154206|看到彩虹的美丽",
+          "startMs": 154206,
+          "text": "看到彩虹的美丽"
+        },
+        {
+          "key": "188084|冷冷的空气 很窒息",
+          "startMs": 188084,
+          "text": "冷冷的空气 很窒息"
+        },
+        {
+          "key": "195450|我无法呼吸",
+          "startMs": 195450,
+          "text": "我无法呼吸"
+        },
+        {
+          "key": "199986|一万颗雨滴的距离",
+          "startMs": 199986,
+          "text": "一万颗雨滴的距离"
+        },
+        {
+          "key": "206978|很彻底",
+          "startMs": 206978,
+          "text": "很彻底"
+        },
+        {
+          "key": "209515|让爱消失无息",
+          "startMs": 209515,
+          "text": "让爱消失无息"
+        },
+        {
+          "key": "213827|离开你 我安静的抽离",
+          "startMs": 213827,
+          "text": "离开你 我安静的抽离"
+        },
+        {
+          "key": "218173|不忍揭晓的剧情",
+          "startMs": 218173,
+          "text": "不忍揭晓的剧情"
+        },
+        {
+          "key": "221746|我的泪流在心里",
+          "startMs": 221746,
+          "text": "我的泪流在心里"
+        },
+        {
+          "key": "225178|学会放弃",
+          "startMs": 225178,
+          "text": "学会放弃"
+        },
+        {
+          "key": "228898|听雨的声音",
+          "startMs": 228898,
+          "text": "听雨的声音"
+        },
+        {
+          "key": "230434|一滴滴清晰",
+          "startMs": 230434,
+          "text": "一滴滴清晰"
+        },
+        {
+          "key": "232323|你的呼吸像雨滴",
+          "startMs": 232323,
+          "text": "你的呼吸像雨滴"
+        },
+        {
+          "key": "235074|渗入我的爱里",
+          "startMs": 235074,
+          "text": "渗入我的爱里"
+        },
+        {
+          "key": "238445|真希望雨能下不停",
+          "startMs": 238445,
+          "text": "真希望雨能下不停"
+        },
+        {
+          "key": "243001|让想念继续",
+          "startMs": 243001,
+          "text": "让想念继续"
+        },
+        {
+          "key": "246435|让爱变透明",
+          "startMs": 246435,
+          "text": "让爱变透明"
+        },
+        {
+          "key": "249945|我爱上给我勇气的",
+          "startMs": 249945,
+          "text": "我爱上给我勇气的"
+        },
+        {
+          "key": "253985|Rainie Love",
+          "startMs": 253985,
+          "text": "Rainie Love"
+        },
+        {
+          "key": "257036|窗外的雨滴 一滴滴累积",
+          "startMs": 257036,
+          "text": "窗外的雨滴 一滴滴累积"
+        },
+        {
+          "key": "260578|屋内的湿气像",
+          "startMs": 260578,
+          "text": "屋内的湿气像"
+        },
+        {
+          "key": "262906|储存爱你的记忆",
+          "startMs": 262906,
+          "text": "储存爱你的记忆"
+        },
+        {
+          "key": "266786|真希望雨能下不停",
+          "startMs": 266786,
+          "text": "真希望雨能下不停"
+        },
+        {
+          "key": "271210|雨爱的秘密",
+          "startMs": 271210,
+          "text": "雨爱的秘密"
+        },
+        {
+          "key": "274729|能一直延续",
+          "startMs": 274729,
+          "text": "能一直延续"
+        },
+        {
+          "key": "278177|我相信我将会",
+          "startMs": 278177,
+          "text": "我相信我将会"
+        },
+        {
+          "key": "281473|看到彩虹的美丽",
+          "startMs": 281473,
+          "text": "看到彩虹的美丽"
+        },
+        {
+          "key": "289154|屋内的湿气",
+          "startMs": 289154,
+          "text": "屋内的湿气"
+        },
+        {
+          "key": "290642|像储存爱你的记忆",
+          "startMs": 290642,
+          "text": "像储存爱你的记忆"
+        },
+        {
+          "key": "295209|真希望雨能下不停",
+          "startMs": 295209,
+          "text": "真希望雨能下不停"
+        },
+        {
+          "key": "299482|雨爱的秘密 能一直延续",
+          "startMs": 299482,
+          "text": "雨爱的秘密 能一直延续"
+        },
+        {
+          "key": "306498|我相信",
+          "startMs": 306498,
+          "text": "我相信"
+        },
+        {
+          "key": "308305|我将会看到彩虹的美丽",
+          "startMs": 308305,
+          "text": "我将会看到彩虹的美丽"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "songKey": "online:kugou:6b26ec6299ce5c5f411f8bb3a3e88ef1",
+      "name": "Bleeding Love (七元版)",
+      "artist": "七元",
+      "lines": [
+        {
+          "key": "12420|Closed off from love ",
+          "startMs": 12420,
+          "text": "Closed off from love "
+        },
+        {
+          "key": "14640|I didnt need the pain ",
+          "startMs": 14640,
+          "text": "I didnt need the pain "
+        },
+        {
+          "key": "17310|Once or twice was enough ",
+          "startMs": 17310,
+          "text": "Once or twice was enough "
+        },
+        {
+          "key": "19410|But it was all in vain ",
+          "startMs": 19410,
+          "text": "But it was all in vain "
+        },
+        {
+          "key": "21900|Time starts to pass ",
+          "startMs": 21900,
+          "text": "Time starts to pass "
+        },
+        {
+          "key": "24060|Before you know it youre frozen ",
+          "startMs": 24060,
+          "text": "Before you know it youre frozen "
+        },
+        {
+          "key": "31140|But something happened ",
+          "startMs": 31140,
+          "text": "But something happened "
+        },
+        {
+          "key": "32520|For the very first time with you ",
+          "startMs": 32520,
+          "text": "For the very first time with you "
+        },
+        {
+          "key": "35880|My heart melts into the ground ",
+          "startMs": 35880,
+          "text": "My heart melts into the ground "
+        },
+        {
+          "key": "38400|Found something true ",
+          "startMs": 38400,
+          "text": "Found something true "
+        },
+        {
+          "key": "40860|everyones looking round ",
+          "startMs": 40860,
+          "text": "everyones looking round "
+        },
+        {
+          "key": "43140|Thinking Im going crazy ",
+          "startMs": 43140,
+          "text": "Thinking Im going crazy "
+        },
+        {
+          "key": "49950|But I dont care what they say ",
+          "startMs": 49950,
+          "text": "But I dont care what they say "
+        },
+        {
+          "key": "52800|Im in love with you ",
+          "startMs": 52800,
+          "text": "Im in love with you "
+        },
+        {
+          "key": "54690|They try to pull me away ",
+          "startMs": 54690,
+          "text": "They try to pull me away "
+        },
+        {
+          "key": "57060|But they dont know the truth ",
+          "startMs": 57060,
+          "text": "But they dont know the truth "
+        },
+        {
+          "key": "59400|My hearts crippled by the vein ",
+          "startMs": 59400,
+          "text": "My hearts crippled by the vein "
+        },
+        {
+          "key": "61920|That I keep on closing ",
+          "startMs": 61920,
+          "text": "That I keep on closing "
+        },
+        {
+          "key": "66360|You cut me open and I ",
+          "startMs": 66360,
+          "text": "You cut me open and I "
+        },
+        {
+          "key": "68910|Keep bleeding ",
+          "startMs": 68910,
+          "text": "Keep bleeding "
+        },
+        {
+          "key": "70260|I Keep keep bleeding love ",
+          "startMs": 70260,
+          "text": "I Keep keep bleeding love "
+        },
+        {
+          "key": "73440|I keep bleeding ",
+          "startMs": 73440,
+          "text": "I keep bleeding "
+        },
+        {
+          "key": "74940|I keep keep bleeding love ",
+          "startMs": 74940,
+          "text": "I keep keep bleeding love "
+        },
+        {
+          "key": "78300|Keep bleeding ",
+          "startMs": 78300,
+          "text": "Keep bleeding "
+        },
+        {
+          "key": "79620|I Keep keep bleeding love ",
+          "startMs": 79620,
+          "text": "I Keep keep bleeding love "
+        },
+        {
+          "key": "85290|You cut me open and I ",
+          "startMs": 85290,
+          "text": "You cut me open and I "
+        },
+        {
+          "key": "106590|I dont care what they say ",
+          "startMs": 106590,
+          "text": "I dont care what they say "
+        },
+        {
+          "key": "109260|Im in love with you ",
+          "startMs": 109260,
+          "text": "Im in love with you "
+        },
+        {
+          "key": "111180|They try to pull me away ",
+          "startMs": 111180,
+          "text": "They try to pull me away "
+        },
+        {
+          "key": "113520|But they dont know the truth ",
+          "startMs": 113520,
+          "text": "But they dont know the truth "
+        },
+        {
+          "key": "115890|My hearts crippled by the vein ",
+          "startMs": 115890,
+          "text": "My hearts crippled by the vein "
+        },
+        {
+          "key": "118500|That I keep on closing ",
+          "startMs": 118500,
+          "text": "That I keep on closing "
+        },
+        {
+          "key": "122940|You cut me open and I ",
+          "startMs": 122940,
+          "text": "You cut me open and I "
+        },
+        {
+          "key": "125370|Keep bleeding ",
+          "startMs": 125370,
+          "text": "Keep bleeding "
+        },
+        {
+          "key": "126720|I Keep keep bleeding love ",
+          "startMs": 126720,
+          "text": "I Keep keep bleeding love "
+        },
+        {
+          "key": "129900|I keep bleeding ",
+          "startMs": 129900,
+          "text": "I keep bleeding "
+        },
+        {
+          "key": "131400|I keep keep bleeding love ",
+          "startMs": 131400,
+          "text": "I keep keep bleeding love "
+        },
+        {
+          "key": "134760|Keep bleeding ",
+          "startMs": 134760,
+          "text": "Keep bleeding "
+        },
+        {
+          "key": "136080|I Keep keep bleeding love ",
+          "startMs": 136080,
+          "text": "I Keep keep bleeding love "
+        },
+        {
+          "key": "141750|You cut me open and I ",
+          "startMs": 141750,
+          "text": "You cut me open and I "
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "songKey": "online:kugou:23195154c07c3c412b1bd7532c34d60b",
+      "name": "Best of 2015: Style / What Do You Mean / Uptown Funk / Love Me Like You Do / Watch Me / See You Again",
+      "artist": "Anthem Lights",
+      "lines": [
+        {
+          "key": "0|Anthem Lights - Best of 2015: Style / What Do You Mean / Uptown Funk / Love Me Like You Do / Watch Me / See You Again",
+          "startMs": 0,
+          "text": "Anthem Lights - Best of 2015: Style / What Do You Mean / Uptown Funk / Love Me Like You Do / Watch Me / See You Again"
+        },
+        {
+          "key": "15569|You're the light you're the night",
+          "startMs": 15569,
+          "text": "You're the light you're the night"
+        },
+        {
+          "key": "17737|You're the color of my blood",
+          "startMs": 17737,
+          "text": "You're the color of my blood"
+        },
+        {
+          "key": "20513|Midnight you come and pick me up",
+          "startMs": 20513,
+          "text": "Midnight you come and pick me up"
+        },
+        {
+          "key": "25064|You're the fear I don't care 'cause I've never been so high",
+          "startMs": 25064,
+          "text": "You're the fear I don't care 'cause I've never been so high"
+        },
+        {
+          "key": "29672|On this long drive could end in burning flames or paradise",
+          "startMs": 29672,
+          "text": "On this long drive could end in burning flames or paradise"
+        },
+        {
+          "key": "39424|I'll let you set the pace",
+          "startMs": 39424,
+          "text": "I'll let you set the pace"
+        },
+        {
+          "key": "43176|I should just tell you to leave 'cause I'm not thinking straight",
+          "startMs": 43176,
+          "text": "I should just tell you to leave 'cause I'm not thinking straight"
+        },
+        {
+          "key": "47740|I know exactly where it leads but",
+          "startMs": 47740,
+          "text": "I know exactly where it leads but"
+        },
+        {
+          "key": "49004|My head's spinnin' around I can't see clear no more",
+          "startMs": 49004,
+          "text": "My head's spinnin' around I can't see clear no more"
+        },
+        {
+          "key": "54804|Watch us go round and round each time",
+          "startMs": 54804,
+          "text": "Watch us go round and round each time"
+        },
+        {
+          "key": "57109|What are you waiting for",
+          "startMs": 57109,
+          "text": "What are you waiting for"
+        },
+        {
+          "key": "60509|I got that James dean daydream look in my eye",
+          "startMs": 60509,
+          "text": "I got that James dean daydream look in my eye"
+        },
+        {
+          "key": "65180|And you got that red lip classic thing that I like",
+          "startMs": 65180,
+          "text": "And you got that red lip classic thing that I like"
+        },
+        {
+          "key": "70517|So love me like you do love me like you do",
+          "startMs": 70517,
+          "text": "So love me like you do love me like you do"
+        },
+        {
+          "key": "75597|Touch me like you do touch me like you do",
+          "startMs": 75597,
+          "text": "Touch me like you do touch me like you do"
+        },
+        {
+          "key": "79830|I got that long hair slicked back white T-shirt",
+          "startMs": 79830,
+          "text": "I got that long hair slicked back white T-shirt"
+        },
+        {
+          "key": "84208|And you got that good girl faith in a tight little skirt",
+          "startMs": 84208,
+          "text": "And you got that good girl faith in a tight little skirt"
+        },
+        {
+          "key": "89766|So love me like you do love me like you do",
+          "startMs": 89766,
+          "text": "So love me like you do love me like you do"
+        },
+        {
+          "key": "94186|We never go out of style we never go out of stylin' while in",
+          "startMs": 94186,
+          "text": "We never go out of style we never go out of stylin' while in"
+        },
+        {
+          "key": "102237|Livin' it up in the city got chucks on with Saint Laurent",
+          "startMs": 102237,
+          "text": "Livin' it up in the city got chucks on with Saint Laurent"
+        },
+        {
+          "key": "106092|Gotta kiss myself I'm so pretty what do you mean",
+          "startMs": 106092,
+          "text": "Gotta kiss myself I'm so pretty what do you mean"
+        },
+        {
+          "key": "110438|Oooohhhh when you nod your head yes but you wanna say no",
+          "startMs": 110438,
+          "text": "Oooohhhh when you nod your head yes but you wanna say no"
+        },
+        {
+          "key": "115851|What do you mean hey hey hey what do you",
+          "startMs": 115851,
+          "text": "What do you mean hey hey hey what do you"
+        },
+        {
+          "key": "120323|Don't want me to move but you tell me to go",
+          "startMs": 120323,
+          "text": "Don't want me to move but you tell me to go"
+        },
+        {
+          "key": "124499|Girls hit your hallelujah whuoo",
+          "startMs": 124499,
+          "text": "Girls hit your hallelujah whuoo"
+        },
+        {
+          "key": "126571|Girls hit your hallelujah whuoo",
+          "startMs": 126571,
+          "text": "Girls hit your hallelujah whuoo"
+        },
+        {
+          "key": "128729|Girls hit your hallelujah",
+          "startMs": 128729,
+          "text": "Girls hit your hallelujah"
+        },
+        {
+          "key": "130867|Cause uptown funk gon' give it to you",
+          "startMs": 130867,
+          "text": "Cause uptown funk gon' give it to you"
+        },
+        {
+          "key": "133003|Cause uptown funk gon' give it to you",
+          "startMs": 133003,
+          "text": "Cause uptown funk gon' give it to you"
+        },
+        {
+          "key": "135078|Saturday night and we in the spot",
+          "startMs": 135078,
+          "text": "Saturday night and we in the spot"
+        },
+        {
+          "key": "137438|Don't believe me just watch me whip",
+          "startMs": 137438,
+          "text": "Don't believe me just watch me whip"
+        },
+        {
+          "key": "141438|Watch me nae nae watch me whip whip",
+          "startMs": 141438,
+          "text": "Watch me nae nae watch me whip whip"
+        },
+        {
+          "key": "145120|Watch me nae nae nae",
+          "startMs": 145120,
+          "text": "Watch me nae nae nae"
+        },
+        {
+          "key": "146929|Do the stanky leg do the stanky leg do the stanky leg",
+          "startMs": 146929,
+          "text": "Do the stanky leg do the stanky leg do the stanky leg"
+        },
+        {
+          "key": "153505|It's been a long day without you my friend",
+          "startMs": 153505,
+          "text": "It's been a long day without you my friend"
+        },
+        {
+          "key": "160537|And I'll tell you all about it when I see you again",
+          "startMs": 160537,
+          "text": "And I'll tell you all about it when I see you again"
+        },
+        {
+          "key": "166625|And I'll tell you all about it when I see you again",
+          "startMs": 166625,
+          "text": "And I'll tell you all about it when I see you again"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "songKey": "online:kugou:e8cd38ae711934070c1048a8107be966",
+      "name": "为时已晚 (纯享版)",
+      "artist": "林韵乔",
+      "lines": [
+        {
+          "key": "0|为时已晚（纯享版）-林韵乔",
+          "startMs": 0,
+          "text": "为时已晚（纯享版）-林韵乔"
+        },
+        {
+          "key": "2760|作词：CHECKYHON、豪公子",
+          "startMs": 2760,
+          "text": "作词：CHECKYHON、豪公子"
+        },
+        {
+          "key": "5520|作曲：CHECKYHON、豪公子",
+          "startMs": 5520,
+          "text": "作曲：CHECKYHON、豪公子"
+        },
+        {
+          "key": "8280|“听粤语金曲，到中国酷狗”",
+          "startMs": 8280,
+          "text": "“听粤语金曲，到中国酷狗”"
+        },
+        {
+          "key": "11040|『听歌就在中国酷狗*星曜计划』",
+          "startMs": 11040,
+          "text": "『听歌就在中国酷狗*星曜计划』"
+        },
+        {
+          "key": "13800|儿时卡通片再上演",
+          "startMs": 13800,
+          "text": "儿时卡通片再上演"
+        },
+        {
+          "key": "16770|转眼间已视作经典",
+          "startMs": 16770,
+          "text": "转眼间已视作经典"
+        },
+        {
+          "key": "19800|仍回想起某月某年",
+          "startMs": 19800,
+          "text": "仍回想起某月某年"
+        },
+        {
+          "key": "22170|常共玩伴流连忘返的书店",
+          "startMs": 22170,
+          "text": "常共玩伴流连忘返的书店"
+        },
+        {
+          "key": "25800|北风吹走几个盛夏总失散在那秋天",
+          "startMs": 25800,
+          "text": "北风吹走几个盛夏总失散在那秋天"
+        },
+        {
+          "key": "30600|收好的通讯录都找不见",
+          "startMs": 30600,
+          "text": "收好的通讯录都找不见"
+        },
+        {
+          "key": "34020|各自际遇里蜕变",
+          "startMs": 34020,
+          "text": "各自际遇里蜕变"
+        },
+        {
+          "key": "36630|光阴从无曾手软",
+          "startMs": 36630,
+          "text": "光阴从无曾手软"
+        },
+        {
+          "key": "39630|几个经得起考验",
+          "startMs": 39630,
+          "text": "几个经得起考验"
+        },
+        {
+          "key": "42990|却在同行时总想不到变迁",
+          "startMs": 42990,
+          "text": "却在同行时总想不到变迁"
+        },
+        {
+          "key": "49740|越大越觉孤单风景加速变幻",
+          "startMs": 49740,
+          "text": "越大越觉孤单风景加速变幻"
+        },
+        {
+          "key": "54660|幼稚时埋藏的希盼",
+          "startMs": 54660,
+          "text": "幼稚时埋藏的希盼"
+        },
+        {
+          "key": "58050|或已经缩写进感叹",
+          "startMs": 58050,
+          "text": "或已经缩写进感叹"
+        },
+        {
+          "key": "61740|慢慢历过千帆情不由人聚散",
+          "startMs": 61740,
+          "text": "慢慢历过千帆情不由人聚散"
+        },
+        {
+          "key": "67020|人和旧事物全留在身边太贪",
+          "startMs": 67020,
+          "text": "人和旧事物全留在身边太贪"
+        },
+        {
+          "key": "71910|现在为时已晚",
+          "startMs": 71910,
+          "text": "现在为时已晚"
+        },
+        {
+          "key": "73830|要说这性格也算是勤快",
+          "startMs": 73830,
+          "text": "要说这性格也算是勤快"
+        },
+        {
+          "key": "76080|但时日没敌过百无聊赖",
+          "startMs": 76080,
+          "text": "但时日没敌过百无聊赖"
+        },
+        {
+          "key": "79050|平常事里妄作添些许愉快",
+          "startMs": 79050,
+          "text": "平常事里妄作添些许愉快"
+        },
+        {
+          "key": "82050|抱歉没什动态",
+          "startMs": 82050,
+          "text": "抱歉没什动态"
+        },
+        {
+          "key": "84990|两三句被冷语灼伤",
+          "startMs": 84990,
+          "text": "两三句被冷语灼伤"
+        },
+        {
+          "key": "86760|社交里处处紧张",
+          "startMs": 86760,
+          "text": "社交里处处紧张"
+        },
+        {
+          "key": "88800|热烈地怯场这对话成流水账",
+          "startMs": 88800,
+          "text": "热烈地怯场这对话成流水账"
+        },
+        {
+          "key": "91800|粉饰登场掩盖了那个理想",
+          "startMs": 91800,
+          "text": "粉饰登场掩盖了那个理想"
+        },
+        {
+          "key": "94770|厚面皮成年人这伎俩",
+          "startMs": 94770,
+          "text": "厚面皮成年人这伎俩"
+        },
+        {
+          "key": "97800|毕恭毕敬老友半新旧",
+          "startMs": 97800,
+          "text": "毕恭毕敬老友半新旧"
+        },
+        {
+          "key": "100800|陌路后亦无从考究",
+          "startMs": 100800,
+          "text": "陌路后亦无从考究"
+        },
+        {
+          "key": "103770|好久不见客套里将就",
+          "startMs": 103770,
+          "text": "好久不见客套里将就"
+        },
+        {
+          "key": "106710|岁月难拥有",
+          "startMs": 106710,
+          "text": "岁月难拥有"
+        },
+        {
+          "key": "109770|越大越觉孤单风景加速变幻",
+          "startMs": 109770,
+          "text": "越大越觉孤单风景加速变幻"
+        },
+        {
+          "key": "114660|幼稚时埋藏的希盼",
+          "startMs": 114660,
+          "text": "幼稚时埋藏的希盼"
+        },
+        {
+          "key": "118050|或已经缩写进感叹",
+          "startMs": 118050,
+          "text": "或已经缩写进感叹"
+        },
+        {
+          "key": "121740|慢慢历过千帆情不由人聚散",
+          "startMs": 121740,
+          "text": "慢慢历过千帆情不由人聚散"
+        },
+        {
+          "key": "127020|人和旧事物全留在身边太贪",
+          "startMs": 127020,
+          "text": "人和旧事物全留在身边太贪"
+        },
+        {
+          "key": "131940|现在为时已晚",
+          "startMs": 131940,
+          "text": "现在为时已晚"
+        },
+        {
+          "key": "135990|光景有限又何妨尽兴游戏一番",
+          "startMs": 135990,
+          "text": "光景有限又何妨尽兴游戏一番"
+        },
+        {
+          "key": "143880|便告别人间",
+          "startMs": 143880,
+          "text": "便告别人间"
+        },
+        {
+          "key": "163770|旧事擦过指间恐怕悲喜看淡",
+          "startMs": 163770,
+          "text": "旧事擦过指间恐怕悲喜看淡"
+        },
+        {
+          "key": "168570|岁月长而寒风冰冷苦笑单衣怎去支撑",
+          "startMs": 168570,
+          "text": "岁月长而寒风冰冷苦笑单衣怎去支撑"
+        },
+        {
+          "key": "175770|独坐四季三餐人当然难习惯",
+          "startMs": 175770,
+          "text": "独坐四季三餐人当然难习惯"
+        },
+        {
+          "key": "180960|从前或现在望能捕捉一瞬间",
+          "startMs": 180960,
+          "text": "从前或现在望能捕捉一瞬间"
+        },
+        {
+          "key": "185910|淡忘仍能笑叹",
+          "startMs": 185910,
+          "text": "淡忘仍能笑叹"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "songKey": "online:kugou:b9fc03df9015d6bff0554a110bf2c84f",
+      "name": "烟花易冷",
+      "artist": "周杰伦",
+      "lines": [
+        {
+          "key": "0|烟花易冷 - 周杰伦 (Jay Chou)",
+          "startMs": 0,
+          "text": "烟花易冷 - 周杰伦 (Jay Chou)"
+        },
+        {
+          "key": "6625|词：方文山",
+          "startMs": 6625,
+          "text": "词：方文山"
+        },
+        {
+          "key": "8203|曲：周杰伦",
+          "startMs": 8203,
+          "text": "曲：周杰伦"
+        },
+        {
+          "key": "9780|编曲：黄雨勳",
+          "startMs": 9780,
+          "text": "编曲：黄雨勳"
+        },
+        {
+          "key": "11674|繁华声 遁入空门 折煞了世人",
+          "startMs": 11674,
+          "text": "繁华声 遁入空门 折煞了世人"
+        },
+        {
+          "key": "17864|梦偏冷 辗转一生 情债又几本",
+          "startMs": 17864,
+          "text": "梦偏冷 辗转一生 情债又几本"
+        },
+        {
+          "key": "24284|如你默认 生死枯等",
+          "startMs": 24284,
+          "text": "如你默认 生死枯等"
+        },
+        {
+          "key": "30344|枯等一圈 又一圈的 年轮",
+          "startMs": 30344,
+          "text": "枯等一圈 又一圈的 年轮"
+        },
+        {
+          "key": "36554|浮屠塔 断了几层 断了谁的魂",
+          "startMs": 36554,
+          "text": "浮屠塔 断了几层 断了谁的魂"
+        },
+        {
+          "key": "42824|痛直奔 一盏残灯 倾塌的山门",
+          "startMs": 42824,
+          "text": "痛直奔 一盏残灯 倾塌的山门"
+        },
+        {
+          "key": "49134|容我再等 历史转身",
+          "startMs": 49134,
+          "text": "容我再等 历史转身"
+        },
+        {
+          "key": "55764|等酒香醇 等你弹 一曲古筝",
+          "startMs": 55764,
+          "text": "等酒香醇 等你弹 一曲古筝"
+        },
+        {
+          "key": "61894|雨纷纷 旧故里草木深",
+          "startMs": 61894,
+          "text": "雨纷纷 旧故里草木深"
+        },
+        {
+          "key": "68214|我听闻 你始终一个人",
+          "startMs": 68214,
+          "text": "我听闻 你始终一个人"
+        },
+        {
+          "key": "74344|斑驳的城门 盘踞着老树根",
+          "startMs": 74344,
+          "text": "斑驳的城门 盘踞着老树根"
+        },
+        {
+          "key": "80564|石板上回荡的是 再等",
+          "startMs": 80564,
+          "text": "石板上回荡的是 再等"
+        },
+        {
+          "key": "86794|雨纷纷 旧故里草木深",
+          "startMs": 86794,
+          "text": "雨纷纷 旧故里草木深"
+        },
+        {
+          "key": "93154|我听闻 你仍守着孤城",
+          "startMs": 93154,
+          "text": "我听闻 你仍守着孤城"
+        },
+        {
+          "key": "99334|城郊牧笛声 落在那座野村",
+          "startMs": 99334,
+          "text": "城郊牧笛声 落在那座野村"
+        },
+        {
+          "key": "105624|缘份落地生根是 我们",
+          "startMs": 105624,
+          "text": "缘份落地生根是 我们"
+        },
+        {
+          "key": "114524|听青春 迎来笑声 羡煞许多人",
+          "startMs": 114524,
+          "text": "听青春 迎来笑声 羡煞许多人"
+        },
+        {
+          "key": "120634|那史册 温柔不肯 下笔都太狠",
+          "startMs": 120634,
+          "text": "那史册 温柔不肯 下笔都太狠"
+        },
+        {
+          "key": "126984|烟花易冷 人事易分",
+          "startMs": 126984,
+          "text": "烟花易冷 人事易分"
+        },
+        {
+          "key": "133334|而你在问 我是否还 认真",
+          "startMs": 133334,
+          "text": "而你在问 我是否还 认真"
+        },
+        {
+          "key": "139344|千年后 累世情深 还有谁在等",
+          "startMs": 139344,
+          "text": "千年后 累世情深 还有谁在等"
+        },
+        {
+          "key": "145754|而青史 岂能不真 魏书洛阳城",
+          "startMs": 145754,
+          "text": "而青史 岂能不真 魏书洛阳城"
+        },
+        {
+          "key": "151894|如你在跟 前世过门",
+          "startMs": 151894,
+          "text": "如你在跟 前世过门"
+        },
+        {
+          "key": "158594|跟着红尘 跟随我 浪迹一生",
+          "startMs": 158594,
+          "text": "跟着红尘 跟随我 浪迹一生"
+        },
+        {
+          "key": "164774|雨纷纷 旧故里草木深",
+          "startMs": 164774,
+          "text": "雨纷纷 旧故里草木深"
+        },
+        {
+          "key": "170984|我听闻 你始终一个人",
+          "startMs": 170984,
+          "text": "我听闻 你始终一个人"
+        },
+        {
+          "key": "177224|斑驳的城门 盘踞着老树根",
+          "startMs": 177224,
+          "text": "斑驳的城门 盘踞着老树根"
+        },
+        {
+          "key": "183414|石板上回荡的是 再等",
+          "startMs": 183414,
+          "text": "石板上回荡的是 再等"
+        },
+        {
+          "key": "189654|雨纷纷 旧故里草木深",
+          "startMs": 189654,
+          "text": "雨纷纷 旧故里草木深"
+        },
+        {
+          "key": "195884|我听闻 你仍守着孤城",
+          "startMs": 195884,
+          "text": "我听闻 你仍守着孤城"
+        },
+        {
+          "key": "202184|城郊牧笛声 落在那座野村",
+          "startMs": 202184,
+          "text": "城郊牧笛声 落在那座野村"
+        },
+        {
+          "key": "208494|缘份落地生根是 我们",
+          "startMs": 208494,
+          "text": "缘份落地生根是 我们"
+        },
+        {
+          "key": "214934|雨纷纷 旧故里草木深",
+          "startMs": 214934,
+          "text": "雨纷纷 旧故里草木深"
+        },
+        {
+          "key": "216724|我听闻 你始终一个人",
+          "startMs": 216724,
+          "text": "我听闻 你始终一个人"
+        },
+        {
+          "key": "218634|斑驳的城门 盘踞着老树根",
+          "startMs": 218634,
+          "text": "斑驳的城门 盘踞着老树根"
+        },
+        {
+          "key": "220354|石板上回荡的是 再等",
+          "startMs": 220354,
+          "text": "石板上回荡的是 再等"
+        },
+        {
+          "key": "221994|雨纷纷 雨纷纷 旧故里草木深",
+          "startMs": 221994,
+          "text": "雨纷纷 雨纷纷 旧故里草木深"
+        },
+        {
+          "key": "225074|我听闻 我听闻 你仍守着孤城",
+          "startMs": 225074,
+          "text": "我听闻 我听闻 你仍守着孤城"
+        },
+        {
+          "key": "227594|城郊牧笛声 落在那座野村",
+          "startMs": 227594,
+          "text": "城郊牧笛声 落在那座野村"
+        },
+        {
+          "key": "233434|缘份落地生根是 我们",
+          "startMs": 233434,
+          "text": "缘份落地生根是 我们"
+        },
+        {
+          "key": "239624|缘份落地生根是 我们",
+          "startMs": 239624,
+          "text": "缘份落地生根是 我们"
+        },
+        {
+          "key": "245814|伽蓝寺听雨声盼 永恒",
+          "startMs": 245814,
+          "text": "伽蓝寺听雨声盼 永恒"
+        }
+      ]
+    }
+  ]
+}

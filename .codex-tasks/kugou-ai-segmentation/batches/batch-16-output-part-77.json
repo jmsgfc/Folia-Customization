@@ -1,0 +1,940 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:f30159634f735880b16a2e4e44485cf5",
+      "lines": [
+        {
+          "key": "49|거짓말 (谎言) - BIGBANG",
+          "text": "거짓말 (谎言) - BIGBANG",
+          "segments": [
+            "거짓말 ",
+            "(谎言) ",
+            "- ",
+            "BIGBANG"
+          ]
+        },
+        {
+          "key": "4583|词：G-DRAGON",
+          "text": "词：G-DRAGON",
+          "segments": [
+            "词：",
+            "G-DRAGON"
+          ]
+        },
+        {
+          "key": "5487|曲：G-DRAGON",
+          "text": "曲：G-DRAGON",
+          "segments": [
+            "曲：",
+            "G-DRAGON"
+          ]
+        },
+        {
+          "key": "6331|编曲：용감한 형제",
+          "text": "编曲：용감한 형제",
+          "segments": [
+            "编曲：",
+            "용감한 ",
+            "형제"
+          ]
+        },
+        {
+          "key": "18310|Ye love is pain",
+          "text": "Ye love is pain",
+          "segments": [
+            "Ye ",
+            "love ",
+            "is ",
+            "pain"
+          ]
+        },
+        {
+          "key": "20581|To all my brokenhearted people",
+          "text": "To all my brokenhearted people",
+          "segments": [
+            "To ",
+            "all ",
+            "my ",
+            "brokenhearted ",
+            "people"
+          ]
+        },
+        {
+          "key": "23244|One's old a flame",
+          "text": "One's old a flame",
+          "segments": [
+            "One's ",
+            "old ",
+            "a ",
+            "flame"
+          ]
+        },
+        {
+          "key": "24953|Scream my name",
+          "text": "Scream my name",
+          "segments": [
+            "Scream ",
+            "my ",
+            "name"
+          ]
+        },
+        {
+          "key": "26426|And I'm so sick of love songs",
+          "text": "And I'm so sick of love songs",
+          "segments": [
+            "And ",
+            "I'm ",
+            "so ",
+            "sick ",
+            "of ",
+            "love ",
+            "songs"
+          ]
+        },
+        {
+          "key": "28999|Ye I hate damn love song",
+          "text": "Ye I hate damn love song",
+          "segments": [
+            "Ye ",
+            "I ",
+            "hate ",
+            "damn ",
+            "love ",
+            "song"
+          ]
+        },
+        {
+          "key": "30767|Memento of ours",
+          "text": "Memento of ours",
+          "segments": [
+            "Memento ",
+            "of ",
+            "ours"
+          ]
+        },
+        {
+          "key": "32030|거짓말",
+          "text": "거짓말",
+          "segments": [
+            "거짓말"
+          ]
+        },
+        {
+          "key": "33457|늦은 밤 비가 내려와",
+          "text": "늦은 밤 비가 내려와",
+          "segments": [
+            "늦은 ",
+            "밤 ",
+            "비가 ",
+            "내려와"
+          ]
+        },
+        {
+          "key": "34769|널 데려와",
+          "text": "널 데려와",
+          "segments": [
+            "널 ",
+            "데려와"
+          ]
+        },
+        {
+          "key": "35710|젖은 기억 끝에 뒤척여 나",
+          "text": "젖은 기억 끝에 뒤척여 나",
+          "segments": [
+            "젖은 ",
+            "기억 ",
+            "끝에 ",
+            "뒤척여 ",
+            "나"
+          ]
+        },
+        {
+          "key": "37753|너 없이 잘 살 수 있다고",
+          "text": "너 없이 잘 살 수 있다고",
+          "segments": [
+            "너 ",
+            "없이 ",
+            "잘 ",
+            "살 ",
+            "수 ",
+            "있다고"
+          ]
+        },
+        {
+          "key": "39621|다짐 해봐도 어쩔 수 없다고",
+          "text": "다짐 해봐도 어쩔 수 없다고",
+          "segments": [
+            "다짐 ",
+            "해봐도 ",
+            "어쩔 ",
+            "수 ",
+            "없다고"
+          ]
+        },
+        {
+          "key": "41549|못하는 술도 마시고",
+          "text": "못하는 술도 마시고",
+          "segments": [
+            "못하는 ",
+            "술도 ",
+            "마시고"
+          ]
+        },
+        {
+          "key": "42957|속타는 맘 밤새 채워봐도",
+          "text": "속타는 맘 밤새 채워봐도",
+          "segments": [
+            "속타는 ",
+            "맘 ",
+            "밤새 ",
+            "채워봐도"
+          ]
+        },
+        {
+          "key": "44918|싫어 너 없는 하루는 길어 빌어",
+          "text": "싫어 너 없는 하루는 길어 빌어",
+          "segments": [
+            "싫어 ",
+            "너 ",
+            "없는 ",
+            "하루는 ",
+            "길어 ",
+            "빌어"
+          ]
+        },
+        {
+          "key": "47373|제발 잊게 해달라고",
+          "text": "제발 잊게 해달라고",
+          "segments": [
+            "제발 ",
+            "잊게 ",
+            "해달라고"
+          ]
+        },
+        {
+          "key": "49223|너 없는 내겐 웃음이 보이지 않아",
+          "text": "너 없는 내겐 웃음이 보이지 않아",
+          "segments": [
+            "너 ",
+            "없는 ",
+            "내겐 ",
+            "웃음이 ",
+            "보이지 ",
+            "않아"
+          ]
+        },
+        {
+          "key": "52161|눈물조차 고이지 않아",
+          "text": "눈물조차 고이지 않아",
+          "segments": [
+            "눈물조차 ",
+            "고이지 ",
+            "않아"
+          ]
+        },
+        {
+          "key": "54163|더는 살고 싶지 않아",
+          "text": "더는 살고 싶지 않아",
+          "segments": [
+            "더는 ",
+            "살고 ",
+            "싶지 ",
+            "않아"
+          ]
+        },
+        {
+          "key": "56961|엿같애 열받게",
+          "text": "엿같애 열받게",
+          "segments": [
+            "엿같애 ",
+            "열받게"
+          ]
+        },
+        {
+          "key": "58792|니 생각에 돌아버릴것 같애",
+          "text": "니 생각에 돌아버릴것 같애",
+          "segments": [
+            "니 ",
+            "생각에 ",
+            "돌아버릴것 ",
+            "같애"
+          ]
+        },
+        {
+          "key": "60775|보고 싶은데 볼 수가 없대",
+          "text": "보고 싶은데 볼 수가 없대",
+          "segments": [
+            "보고 ",
+            "싶은데 ",
+            "볼 ",
+            "수가 ",
+            "없대"
+          ]
+        },
+        {
+          "key": "62693|모두 끝났대",
+          "text": "모두 끝났대",
+          "segments": [
+            "모두 ",
+            "끝났대"
+          ]
+        },
+        {
+          "key": "63447|I'll be right there",
+          "text": "I'll be right there",
+          "segments": [
+            "I'll ",
+            "be ",
+            "right ",
+            "there"
+          ]
+        },
+        {
+          "key": "64194|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "65703|다 거짓말 이야 몰랐어",
+          "text": "다 거짓말 이야 몰랐어",
+          "segments": [
+            "다 ",
+            "거짓말 ",
+            "이야 ",
+            "몰랐어"
+          ]
+        },
+        {
+          "key": "69006|이제야 알았어",
+          "text": "이제야 알았어",
+          "segments": [
+            "이제야 ",
+            "알았어"
+          ]
+        },
+        {
+          "key": "70836|네가 필요해",
+          "text": "네가 필요해",
+          "segments": [
+            "네가 ",
+            "필요해"
+          ]
+        },
+        {
+          "key": "71839|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "73454|날카로운 말",
+          "text": "날카로운 말",
+          "segments": [
+            "날카로운 ",
+            "말"
+          ]
+        },
+        {
+          "key": "75280|홧김에 나도 모르게",
+          "text": "홧김에 나도 모르게",
+          "segments": [
+            "홧김에 ",
+            "나도 ",
+            "모르게"
+          ]
+        },
+        {
+          "key": "77037|널 떠나보냈지만",
+          "text": "널 떠나보냈지만",
+          "segments": [
+            "널 ",
+            "떠나보냈지만"
+          ]
+        },
+        {
+          "key": "79512|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "81046|다 거짓말",
+          "text": "다 거짓말",
+          "segments": [
+            "다 ",
+            "거짓말"
+          ]
+        },
+        {
+          "key": "83086|I'm so sorry",
+          "text": "I'm so sorry",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry"
+          ]
+        },
+        {
+          "key": "84860|But I love you",
+          "text": "But I love you",
+          "segments": [
+            "But ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "87069|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "88755|나를 떠나",
+          "text": "나를 떠나",
+          "segments": [
+            "나를 ",
+            "떠나"
+          ]
+        },
+        {
+          "key": "90588|천천히 잊어줄래",
+          "text": "천천히 잊어줄래",
+          "segments": [
+            "천천히 ",
+            "잊어줄래"
+          ]
+        },
+        {
+          "key": "92493|내가 아파할 수 있게",
+          "text": "내가 아파할 수 있게",
+          "segments": [
+            "내가 ",
+            "아파할 ",
+            "수 ",
+            "있게"
+          ]
+        },
+        {
+          "key": "95228|그댈 위해서 불러왔던",
+          "text": "그댈 위해서 불러왔던",
+          "segments": [
+            "그댈 ",
+            "위해서 ",
+            "불러왔던"
+          ]
+        },
+        {
+          "key": "96754|내 모든 걸 다 바친 노래",
+          "text": "내 모든 걸 다 바친 노래",
+          "segments": [
+            "내 ",
+            "모든 ",
+            "걸 ",
+            "다 ",
+            "바친 ",
+            "노래"
+          ]
+        },
+        {
+          "key": "100832|사람들은 모르겠죠",
+          "text": "사람들은 모르겠죠",
+          "segments": [
+            "사람들은 ",
+            "모르겠죠"
+          ]
+        },
+        {
+          "key": "102848|난 혼자 그 아무도 아무도 몰래",
+          "text": "난 혼자 그 아무도 아무도 몰래",
+          "segments": [
+            "난 ",
+            "혼자 ",
+            "그 ",
+            "아무도 ",
+            "아무도 ",
+            "몰래"
+          ]
+        },
+        {
+          "key": "108471|그래 내가 했던 말은 거짓말",
+          "text": "그래 내가 했던 말은 거짓말",
+          "segments": [
+            "그래 ",
+            "내가 ",
+            "했던 ",
+            "말은 ",
+            "거짓말"
+          ]
+        },
+        {
+          "key": "110594|홀로 남겨진 외톨이",
+          "text": "홀로 남겨진 외톨이",
+          "segments": [
+            "홀로 ",
+            "남겨진 ",
+            "외톨이"
+          ]
+        },
+        {
+          "key": "112182|그 속에 헤매는 내 꼴이",
+          "text": "그 속에 헤매는 내 꼴이",
+          "segments": [
+            "그 ",
+            "속에 ",
+            "헤매는 ",
+            "내 ",
+            "꼴이"
+          ]
+        },
+        {
+          "key": "114126|주머니 속에 꼬깃꼬깃",
+          "text": "주머니 속에 꼬깃꼬깃",
+          "segments": [
+            "주머니 ",
+            "속에 ",
+            "꼬깃꼬깃"
+          ]
+        },
+        {
+          "key": "116053|접어둔 이별을 향한 쪽지",
+          "text": "접어둔 이별을 향한 쪽지",
+          "segments": [
+            "접어둔 ",
+            "이별을 ",
+            "향한 ",
+            "쪽지"
+          ]
+        },
+        {
+          "key": "118422|넌 어딨나요 널 부르는 습관도",
+          "text": "넌 어딨나요 널 부르는 습관도",
+          "segments": [
+            "넌 ",
+            "어딨나요 ",
+            "널 ",
+            "부르는 ",
+            "습관도"
+          ]
+        },
+        {
+          "key": "122245|난 달라질래",
+          "text": "난 달라질래",
+          "segments": [
+            "난 ",
+            "달라질래"
+          ]
+        },
+        {
+          "key": "123709|이젠 다 웃어넘길게",
+          "text": "이젠 다 웃어넘길게",
+          "segments": [
+            "이젠 ",
+            "다 ",
+            "웃어넘길게"
+          ]
+        },
+        {
+          "key": "125532|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "127166|다 거짓말 이야 몰랐어",
+          "text": "다 거짓말 이야 몰랐어",
+          "segments": [
+            "다 ",
+            "거짓말 ",
+            "이야 ",
+            "몰랐어"
+          ]
+        },
+        {
+          "key": "130441|이제야 알았어",
+          "text": "이제야 알았어",
+          "segments": [
+            "이제야 ",
+            "알았어"
+          ]
+        },
+        {
+          "key": "132281|네가 필요해",
+          "text": "네가 필요해",
+          "segments": [
+            "네가 ",
+            "필요해"
+          ]
+        },
+        {
+          "key": "133336|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "134863|날카로운 말",
+          "text": "날카로운 말",
+          "segments": [
+            "날카로운 ",
+            "말"
+          ]
+        },
+        {
+          "key": "136676|홧김에 나도 모르게",
+          "text": "홧김에 나도 모르게",
+          "segments": [
+            "홧김에 ",
+            "나도 ",
+            "모르게"
+          ]
+        },
+        {
+          "key": "138517|널 떠나보냈지만",
+          "text": "널 떠나보냈지만",
+          "segments": [
+            "널 ",
+            "떠나보냈지만"
+          ]
+        },
+        {
+          "key": "140847|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "142428|다 거짓말",
+          "text": "다 거짓말",
+          "segments": [
+            "다 ",
+            "거짓말"
+          ]
+        },
+        {
+          "key": "144276|I'm so sorry",
+          "text": "I'm so sorry",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry"
+          ]
+        },
+        {
+          "key": "146284|But I love you",
+          "text": "But I love you",
+          "segments": [
+            "But ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "148484|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "150200|나를 떠나",
+          "text": "나를 떠나",
+          "segments": [
+            "나를 ",
+            "떠나"
+          ]
+        },
+        {
+          "key": "151998|천천히 잊어줄래",
+          "text": "천천히 잊어줄래",
+          "segments": [
+            "천천히 ",
+            "잊어줄래"
+          ]
+        },
+        {
+          "key": "153921|내가 아파할 수 있게",
+          "text": "내가 아파할 수 있게",
+          "segments": [
+            "내가 ",
+            "아파할 ",
+            "수 ",
+            "있게"
+          ]
+        },
+        {
+          "key": "162864|모든게 꿈이길",
+          "text": "모든게 꿈이길",
+          "segments": [
+            "모든게 ",
+            "꿈이길"
+          ]
+        },
+        {
+          "key": "167490|이것밖에 안되는 나라서",
+          "text": "이것밖에 안되는 나라서",
+          "segments": [
+            "이것밖에 ",
+            "안되는 ",
+            "나라서"
+          ]
+        },
+        {
+          "key": "172249|아직도 너를 못 잊어",
+          "text": "아직도 너를 못 잊어",
+          "segments": [
+            "아직도 ",
+            "너를 ",
+            "못 ",
+            "잊어"
+          ]
+        },
+        {
+          "key": "175005|아니 평생을 가도 죽어서까지도",
+          "text": "아니 평생을 가도 죽어서까지도",
+          "segments": [
+            "아니 ",
+            "평생을 ",
+            "가도 ",
+            "죽어서까지도"
+          ]
+        },
+        {
+          "key": "179889|내가 준 상처 아물었는지",
+          "text": "내가 준 상처 아물었는지",
+          "segments": [
+            "내가 ",
+            "준 ",
+            "상처 ",
+            "아물었는지"
+          ]
+        },
+        {
+          "key": "182718|미안해",
+          "text": "미안해",
+          "segments": [
+            "미안해"
+          ]
+        },
+        {
+          "key": "183760|아무것도 해준게 없는 나라서",
+          "text": "아무것도 해준게 없는 나라서",
+          "segments": [
+            "아무것도 ",
+            "해준게 ",
+            "없는 ",
+            "나라서"
+          ]
+        },
+        {
+          "key": "186937|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "188618|다 거짓말 이야 몰랐어",
+          "text": "다 거짓말 이야 몰랐어",
+          "segments": [
+            "다 ",
+            "거짓말 ",
+            "이야 ",
+            "몰랐어"
+          ]
+        },
+        {
+          "key": "191906|이제야 알았어 네가 필요해",
+          "text": "이제야 알았어 네가 필요해",
+          "segments": [
+            "이제야 ",
+            "알았어 ",
+            "네가 ",
+            "필요해"
+          ]
+        },
+        {
+          "key": "194702|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "196264|날카로운 말",
+          "text": "날카로운 말",
+          "segments": [
+            "날카로운 ",
+            "말"
+          ]
+        },
+        {
+          "key": "198131|홧김에 나도 모르게",
+          "text": "홧김에 나도 모르게",
+          "segments": [
+            "홧김에 ",
+            "나도 ",
+            "모르게"
+          ]
+        },
+        {
+          "key": "199928|널 떠나보냈지만",
+          "text": "널 떠나보냈지만",
+          "segments": [
+            "널 ",
+            "떠나보냈지만"
+          ]
+        },
+        {
+          "key": "202262|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "203864|다 거짓말",
+          "text": "다 거짓말",
+          "segments": [
+            "다 ",
+            "거짓말"
+          ]
+        },
+        {
+          "key": "205904|I'm so sorry",
+          "text": "I'm so sorry",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry"
+          ]
+        },
+        {
+          "key": "207697|But I love you",
+          "text": "But I love you",
+          "segments": [
+            "But ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "210017|I'm so sorry but I love you",
+          "text": "I'm so sorry but I love you",
+          "segments": [
+            "I'm ",
+            "so ",
+            "sorry ",
+            "but ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "211521|나를 떠나",
+          "text": "나를 떠나",
+          "segments": [
+            "나를 ",
+            "떠나"
+          ]
+        },
+        {
+          "key": "213458|천천히 잊어줄래",
+          "text": "천천히 잊어줄래",
+          "segments": [
+            "천천히 ",
+            "잊어줄래"
+          ]
+        },
+        {
+          "key": "215360|내가 아파할 수 있게",
+          "text": "내가 아파할 수 있게",
+          "segments": [
+            "내가 ",
+            "아파할 ",
+            "수 ",
+            "있게"
+          ]
+        }
+      ]
+    }
+  ]
+}
