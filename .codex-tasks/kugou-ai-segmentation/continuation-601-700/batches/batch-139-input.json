@@ -1,0 +1,1105 @@
+{
+  "batchNumber": 139,
+  "songs": [
+    {
+      "rank": 691,
+      "songKey": "online:kugou:52c235197c6daf206d6790a611c147d2",
+      "name": "来迟",
+      "artist": "戴羽彤",
+      "lines": [
+        {
+          "key": "0|来迟(DJ 三和弦版)-戴羽彤",
+          "startMs": 0,
+          "text": "来迟(DJ 三和弦版)-戴羽彤"
+        },
+        {
+          "key": "287|词: 卡文",
+          "startMs": 287,
+          "text": "词: 卡文"
+        },
+        {
+          "key": "574|曲: 三珊",
+          "startMs": 574,
+          "text": "曲: 三珊"
+        },
+        {
+          "key": "861|编曲: 三和弦",
+          "startMs": 861,
+          "text": "编曲: 三和弦"
+        },
+        {
+          "key": "1148|混音: 三和弦",
+          "startMs": 1148,
+          "text": "混音: 三和弦"
+        },
+        {
+          "key": "1435|出品: 三和弦",
+          "startMs": 1435,
+          "text": "出品: 三和弦"
+        },
+        {
+          "key": "1722|【未经著作权人许可不得翻唱翻录或使用】",
+          "startMs": 1722,
+          "text": "【未经著作权人许可不得翻唱翻录或使用】"
+        },
+        {
+          "key": "2010|就好像是场隔世经年的梦",
+          "startMs": 2010,
+          "text": "就好像是场隔世经年的梦"
+        },
+        {
+          "key": "24510|醒来我早已失去你的影踪",
+          "startMs": 24510,
+          "text": "醒来我早已失去你的影踪"
+        },
+        {
+          "key": "28290|而曾经的我总是懵懵懂懂",
+          "startMs": 28290,
+          "text": "而曾经的我总是懵懵懂懂"
+        },
+        {
+          "key": "31590|最后才明白何为情之所钟",
+          "startMs": 31590,
+          "text": "最后才明白何为情之所钟"
+        },
+        {
+          "key": "35790|我提起一腔孤勇向你飞驰",
+          "startMs": 35790,
+          "text": "我提起一腔孤勇向你飞驰"
+        },
+        {
+          "key": "39480|想说出我刻在心上的名字",
+          "startMs": 39480,
+          "text": "想说出我刻在心上的名字"
+        },
+        {
+          "key": "43290|可你已经向新的航道行驶",
+          "startMs": 43290,
+          "text": "可你已经向新的航道行驶"
+        },
+        {
+          "key": "46590|那条船不再有我的位置",
+          "startMs": 46590,
+          "text": "那条船不再有我的位置"
+        },
+        {
+          "key": "49350|我这一次终究还是来得太迟",
+          "startMs": 49350,
+          "text": "我这一次终究还是来得太迟"
+        },
+        {
+          "key": "53070|错过了你 此后所有的故事",
+          "startMs": 53070,
+          "text": "错过了你 此后所有的故事"
+        },
+        {
+          "key": "57330|我酝酿好久却老得掉牙的诗",
+          "startMs": 57330,
+          "text": "我酝酿好久却老得掉牙的诗"
+        },
+        {
+          "key": "61050|最后也没能拥有收信地址",
+          "startMs": 61050,
+          "text": "最后也没能拥有收信地址"
+        },
+        {
+          "key": "64320|我这一次终究还是来得太迟",
+          "startMs": 64320,
+          "text": "我这一次终究还是来得太迟"
+        },
+        {
+          "key": "68100|不该出现 再插上一点说辞",
+          "startMs": 68100,
+          "text": "不该出现 再插上一点说辞"
+        },
+        {
+          "key": "72330|这本就是我一厢情愿的固执",
+          "startMs": 72330,
+          "text": "这本就是我一厢情愿的固执"
+        },
+        {
+          "key": "76050|只是该如何忘记你的名字",
+          "startMs": 76050,
+          "text": "只是该如何忘记你的名字"
+        },
+        {
+          "key": "95730|宛如像一首缠绵不绝的诗",
+          "startMs": 95730,
+          "text": "宛如像一首缠绵不绝的诗"
+        },
+        {
+          "key": "99510|把你带走只留下一道影子",
+          "startMs": 99510,
+          "text": "把你带走只留下一道影子"
+        },
+        {
+          "key": "103260|如果你已经拥有新的开始",
+          "startMs": 103260,
+          "text": "如果你已经拥有新的开始"
+        },
+        {
+          "key": "106560|我会忘记这一百种可是",
+          "startMs": 106560,
+          "text": "我会忘记这一百种可是"
+        },
+        {
+          "key": "109350|我这一次终究还是来得太迟",
+          "startMs": 109350,
+          "text": "我这一次终究还是来得太迟"
+        },
+        {
+          "key": "113040|错过了你 此后所有的故事",
+          "startMs": 113040,
+          "text": "错过了你 此后所有的故事"
+        },
+        {
+          "key": "117330|我酝酿好久却老得掉牙的诗",
+          "startMs": 117330,
+          "text": "我酝酿好久却老得掉牙的诗"
+        },
+        {
+          "key": "121050|最后也没能拥有收信地址",
+          "startMs": 121050,
+          "text": "最后也没能拥有收信地址"
+        },
+        {
+          "key": "124320|我这一次终究还是来得太迟",
+          "startMs": 124320,
+          "text": "我这一次终究还是来得太迟"
+        },
+        {
+          "key": "128130|不该出现 再插上一点说辞",
+          "startMs": 128130,
+          "text": "不该出现 再插上一点说辞"
+        },
+        {
+          "key": "132330|这本就是我一厢情愿的固执",
+          "startMs": 132330,
+          "text": "这本就是我一厢情愿的固执"
+        },
+        {
+          "key": "136080|只是该如何忘记你的名字",
+          "startMs": 136080,
+          "text": "只是该如何忘记你的名字"
+        },
+        {
+          "key": "140730|终究还是来得太迟",
+          "startMs": 140730,
+          "text": "终究还是来得太迟"
+        },
+        {
+          "key": "143040|错过了你 此后所有的故事",
+          "startMs": 143040,
+          "text": "错过了你 此后所有的故事"
+        },
+        {
+          "key": "147300|我酝酿好久却老得掉牙的诗",
+          "startMs": 147300,
+          "text": "我酝酿好久却老得掉牙的诗"
+        },
+        {
+          "key": "151080|最后也没能拥有收信地址",
+          "startMs": 151080,
+          "text": "最后也没能拥有收信地址"
+        },
+        {
+          "key": "154320|我这一次终究还是来得太迟",
+          "startMs": 154320,
+          "text": "我这一次终究还是来得太迟"
+        },
+        {
+          "key": "158130|不该出现 再插上一点说辞",
+          "startMs": 158130,
+          "text": "不该出现 再插上一点说辞"
+        },
+        {
+          "key": "162360|这本就是我一厢情愿的固执",
+          "startMs": 162360,
+          "text": "这本就是我一厢情愿的固执"
+        },
+        {
+          "key": "166050|只是该如何忘记你的名字",
+          "startMs": 166050,
+          "text": "只是该如何忘记你的名字"
+        }
+      ]
+    },
+    {
+      "rank": 692,
+      "songKey": "online:kugou:11821fb580dda4e3c9ee41a65f8ea813",
+      "name": "How to love (Live)",
+      "artist": "HENRY刘宪华",
+      "lines": [
+        {
+          "key": "1134|刘宪华Henry、Cash Cash - How to love (黎车长LiCeKop remix)",
+          "startMs": 1134,
+          "text": "刘宪华Henry、Cash Cash - How to love (黎车长LiCeKop remix)"
+        },
+        {
+          "key": "64447|I been running from the pain",
+          "startMs": 64447,
+          "text": "I been running from the pain"
+        },
+        {
+          "key": "66194|Trying not to feel the same",
+          "startMs": 66194,
+          "text": "Trying not to feel the same"
+        },
+        {
+          "key": "68248|But it's a shame that we're sinking",
+          "startMs": 68248,
+          "text": "But it's a shame that we're sinking"
+        },
+        {
+          "key": "72286|See my confidence is shaking",
+          "startMs": 72286,
+          "text": "See my confidence is shaking"
+        },
+        {
+          "key": "74334|And my heart is feeling vacant",
+          "startMs": 74334,
+          "text": "And my heart is feeling vacant"
+        },
+        {
+          "key": "76530|So you try to fill it in",
+          "startMs": 76530,
+          "text": "So you try to fill it in"
+        },
+        {
+          "key": "80404|But love pray for me",
+          "startMs": 80404,
+          "text": "But love pray for me"
+        },
+        {
+          "key": "85379|I never had somebody",
+          "startMs": 85379,
+          "text": "I never had somebody"
+        },
+        {
+          "key": "87351|So I don't know how to love",
+          "startMs": 87351,
+          "text": "So I don't know how to love"
+        },
+        {
+          "key": "90689|Pray for me",
+          "startMs": 90689,
+          "text": "Pray for me"
+        },
+        {
+          "key": "93192|I know I need somebody",
+          "startMs": 93192,
+          "text": "I know I need somebody"
+        },
+        {
+          "key": "95387|So I can learn how to love",
+          "startMs": 95387,
+          "text": "So I can learn how to love"
+        },
+        {
+          "key": "103510|So I can learn how to love",
+          "startMs": 103510,
+          "text": "So I can learn how to love"
+        },
+        {
+          "key": "129258|But love pray for me",
+          "startMs": 129258,
+          "text": "But love pray for me"
+        },
+        {
+          "key": "133890|I know I need somebody",
+          "startMs": 133890,
+          "text": "I know I need somebody"
+        },
+        {
+          "key": "135711|So I can learn how to love",
+          "startMs": 135711,
+          "text": "So I can learn how to love"
+        },
+        {
+          "key": "166153|I know I need somebody",
+          "startMs": 166153,
+          "text": "I know I need somebody"
+        },
+        {
+          "key": "167822|So I can learn how to love",
+          "startMs": 167822,
+          "text": "So I can learn how to love"
+        },
+        {
+          "key": "171992|Pray for me",
+          "startMs": 171992,
+          "text": "Pray for me"
+        },
+        {
+          "key": "174195|I know I need somebody",
+          "startMs": 174195,
+          "text": "I know I need somebody"
+        },
+        {
+          "key": "175863|So I can learn how to love",
+          "startMs": 175863,
+          "text": "So I can learn how to love"
+        },
+        {
+          "key": "184073|So I can learn how to love",
+          "startMs": 184073,
+          "text": "So I can learn how to love"
+        },
+        {
+          "key": "202336|But love pray for me",
+          "startMs": 202336,
+          "text": "But love pray for me"
+        },
+        {
+          "key": "206577|I never had somebody",
+          "startMs": 206577,
+          "text": "I never had somebody"
+        },
+        {
+          "key": "208318|So I don't know how to love",
+          "startMs": 208318,
+          "text": "So I don't know how to love"
+        },
+        {
+          "key": "211847|Pray for me",
+          "startMs": 211847,
+          "text": "Pray for me"
+        },
+        {
+          "key": "214347|I know I need somebody",
+          "startMs": 214347,
+          "text": "I know I need somebody"
+        },
+        {
+          "key": "216316|So I can learn how to love",
+          "startMs": 216316,
+          "text": "So I can learn how to love"
+        },
+        {
+          "key": "242578|But love pray for me",
+          "startMs": 242578,
+          "text": "But love pray for me"
+        },
+        {
+          "key": "246524|I know I need somebody",
+          "startMs": 246524,
+          "text": "I know I need somebody"
+        },
+        {
+          "key": "248491|So I can learn how to love",
+          "startMs": 248491,
+          "text": "So I can learn how to love"
+        },
+        {
+          "key": "256908|Woooo yeah",
+          "startMs": 256908,
+          "text": "Woooo yeah"
+        },
+        {
+          "key": "261231|Wooo",
+          "startMs": 261231,
+          "text": "Wooo"
+        },
+        {
+          "key": "264797|So I can learn how to love",
+          "startMs": 264797,
+          "text": "So I can learn how to love"
+        }
+      ]
+    },
+    {
+      "rank": 693,
+      "songKey": "online:kugou:3a3cd6ba7d0daa318c563ac6946def8d",
+      "name": "Free Loop (抒情版)",
+      "artist": "Y2002",
+      "lines": [
+        {
+          "key": "0|Y2002 - Free Loop (抒情版)",
+          "startMs": 0,
+          "text": "Y2002 - Free Loop (抒情版)"
+        },
+        {
+          "key": "112|I'm a little used to calling outside your name",
+          "startMs": 112,
+          "text": "I'm a little used to calling outside your name"
+        },
+        {
+          "key": "6176|I won't see you tonight so I can keep from going insane",
+          "startMs": 6176,
+          "text": "I won't see you tonight so I can keep from going insane"
+        },
+        {
+          "key": "12772|But I don't know enough",
+          "startMs": 12772,
+          "text": "But I don't know enough"
+        },
+        {
+          "key": "15805|I get some kinda lazy day",
+          "startMs": 15805,
+          "text": "I get some kinda lazy day"
+        },
+        {
+          "key": "18535|Hey yeah",
+          "startMs": 18535,
+          "text": "Hey yeah"
+        },
+        {
+          "key": "25779|I've been fabulous through to fight my town a name",
+          "startMs": 25779,
+          "text": "I've been fabulous through to fight my town a name"
+        },
+        {
+          "key": "31620|I'll be stooped tomorrow",
+          "startMs": 31620,
+          "text": "I'll be stooped tomorrow"
+        },
+        {
+          "key": "33288|If I don't leave as them both the same",
+          "startMs": 33288,
+          "text": "If I don't leave as them both the same"
+        },
+        {
+          "key": "38220|But I don't know enough",
+          "startMs": 38220,
+          "text": "But I don't know enough"
+        },
+        {
+          "key": "41257|I get some kinda lazy day",
+          "startMs": 41257,
+          "text": "I get some kinda lazy day"
+        },
+        {
+          "key": "44216|Hey yeah",
+          "startMs": 44216,
+          "text": "Hey yeah"
+        },
+        {
+          "key": "50889|Cause it's hard for me to lose",
+          "startMs": 50889,
+          "text": "Cause it's hard for me to lose"
+        },
+        {
+          "key": "52557|In my life I've found only time will tell",
+          "startMs": 52557,
+          "text": "In my life I've found only time will tell"
+        },
+        {
+          "key": "55515|And I will figure out that we can baby",
+          "startMs": 55515,
+          "text": "And I will figure out that we can baby"
+        },
+        {
+          "key": "59079|We can do a one night stand yeah",
+          "startMs": 59079,
+          "text": "We can do a one night stand yeah"
+        },
+        {
+          "key": "63477|And it's hard for me to lose in my life",
+          "startMs": 63477,
+          "text": "And it's hard for me to lose in my life"
+        },
+        {
+          "key": "66054|I've found outside your skin right near the fire",
+          "startMs": 66054,
+          "text": "I've found outside your skin right near the fire"
+        },
+        {
+          "key": "70071|That we can baby",
+          "startMs": 70071,
+          "text": "That we can baby"
+        },
+        {
+          "key": "71821|We can change and feel alright",
+          "startMs": 71821,
+          "text": "We can change and feel alright"
+        },
+        {
+          "key": "78098|I'm a little used to calling outside your name",
+          "startMs": 78098,
+          "text": "I'm a little used to calling outside your name"
+        },
+        {
+          "key": "84391|I won't see you tonight so I can keep from going insane",
+          "startMs": 84391,
+          "text": "I won't see you tonight so I can keep from going insane"
+        },
+        {
+          "key": "90911|But I don't know enough",
+          "startMs": 90911,
+          "text": "But I don't know enough"
+        },
+        {
+          "key": "93872|I get some kinda lazy day",
+          "startMs": 93872,
+          "text": "I get some kinda lazy day"
+        },
+        {
+          "key": "96675|Hey yeah",
+          "startMs": 96675,
+          "text": "Hey yeah"
+        },
+        {
+          "key": "103342|I've been fabulous through to fight my town a name",
+          "startMs": 103342,
+          "text": "I've been fabulous through to fight my town a name"
+        },
+        {
+          "key": "109705|I'll be stooped tomorrow",
+          "startMs": 109705,
+          "text": "I'll be stooped tomorrow"
+        },
+        {
+          "key": "111302|If I don't leave as them both the same",
+          "startMs": 111302,
+          "text": "If I don't leave as them both the same"
+        },
+        {
+          "key": "116304|But I don't know enough",
+          "startMs": 116304,
+          "text": "But I don't know enough"
+        },
+        {
+          "key": "119339|I get some kinda lazy day",
+          "startMs": 119339,
+          "text": "I get some kinda lazy day"
+        },
+        {
+          "key": "122290|Hey yeah",
+          "startMs": 122290,
+          "text": "Hey yeah"
+        },
+        {
+          "key": "128883|Cause it's hard for me to lose",
+          "startMs": 128883,
+          "text": "Cause it's hard for me to lose"
+        },
+        {
+          "key": "130551|In my life I've found only time will tell",
+          "startMs": 130551,
+          "text": "In my life I've found only time will tell"
+        },
+        {
+          "key": "133584|And I will figure out that we can baby",
+          "startMs": 133584,
+          "text": "And I will figure out that we can baby"
+        },
+        {
+          "key": "137067|We can do a one night stand yeah",
+          "startMs": 137067,
+          "text": "We can do a one night stand yeah"
+        },
+        {
+          "key": "141549|And it's hard for me to lose in my life",
+          "startMs": 141549,
+          "text": "And it's hard for me to lose in my life"
+        },
+        {
+          "key": "144125|I've found outside your skin right near the fire",
+          "startMs": 144125,
+          "text": "I've found outside your skin right near the fire"
+        },
+        {
+          "key": "147910|That we can baby",
+          "startMs": 147910,
+          "text": "That we can baby"
+        },
+        {
+          "key": "149729|We can change and feel alright",
+          "startMs": 149729,
+          "text": "We can change and feel alright"
+        },
+        {
+          "key": "158224|I'm a little used to wandering outside the rain",
+          "startMs": 158224,
+          "text": "I'm a little used to wandering outside the rain"
+        },
+        {
+          "key": "163992|You can leave me tomorrow if it suits you just the same",
+          "startMs": 163992,
+          "text": "You can leave me tomorrow if it suits you just the same"
+        },
+        {
+          "key": "170580|But I don't know enough",
+          "startMs": 170580,
+          "text": "But I don't know enough"
+        },
+        {
+          "key": "173459|I need someone who leaves the day",
+          "startMs": 173459,
+          "text": "I need someone who leaves the day"
+        },
+        {
+          "key": "176419|Hey yeah",
+          "startMs": 176419,
+          "text": "Hey yeah"
+        },
+        {
+          "key": "183058|Cause it's hard for me to lose",
+          "startMs": 183058,
+          "text": "Cause it's hard for me to lose"
+        },
+        {
+          "key": "184727|In my life I've found only time will tell",
+          "startMs": 184727,
+          "text": "In my life I've found only time will tell"
+        },
+        {
+          "key": "187832|And I will figure out that we can baby",
+          "startMs": 187832,
+          "text": "And I will figure out that we can baby"
+        },
+        {
+          "key": "191242|We can do a one night stand yeah",
+          "startMs": 191242,
+          "text": "We can do a one night stand yeah"
+        },
+        {
+          "key": "195712|And it's hard for me to lose in my life",
+          "startMs": 195712,
+          "text": "And it's hard for me to lose in my life"
+        },
+        {
+          "key": "198292|I've found outside your skin right near the fire",
+          "startMs": 198292,
+          "text": "I've found outside your skin right near the fire"
+        },
+        {
+          "key": "202398|That we can baby",
+          "startMs": 202398,
+          "text": "That we can baby"
+        },
+        {
+          "key": "203801|We can change and feel alright",
+          "startMs": 203801,
+          "text": "We can change and feel alright"
+        },
+        {
+          "key": "237243|Cause it's hard for me to lose",
+          "startMs": 237243,
+          "text": "Cause it's hard for me to lose"
+        },
+        {
+          "key": "238911|In my life I've found only time will tell",
+          "startMs": 238911,
+          "text": "In my life I've found only time will tell"
+        },
+        {
+          "key": "241943|And I will figure out that we can baby",
+          "startMs": 241943,
+          "text": "And I will figure out that we can baby"
+        },
+        {
+          "key": "245432|We can do a one night stand yeah",
+          "startMs": 245432,
+          "text": "We can do a one night stand yeah"
+        },
+        {
+          "key": "249902|And it's hard for me to lose in my life",
+          "startMs": 249902,
+          "text": "And it's hard for me to lose in my life"
+        },
+        {
+          "key": "252401|I've found outside your skin right near the fire",
+          "startMs": 252401,
+          "text": "I've found outside your skin right near the fire"
+        },
+        {
+          "key": "256375|That we can baby",
+          "startMs": 256375,
+          "text": "That we can baby"
+        },
+        {
+          "key": "258191|We can change and feel alright",
+          "startMs": 258191,
+          "text": "We can change and feel alright"
+        },
+        {
+          "key": "262628|Cause it's hard for me to lose",
+          "startMs": 262628,
+          "text": "Cause it's hard for me to lose"
+        },
+        {
+          "key": "264374|In my life I've found only time will tell",
+          "startMs": 264374,
+          "text": "In my life I've found only time will tell"
+        },
+        {
+          "key": "267485|And I will figure out that we can baby",
+          "startMs": 267485,
+          "text": "And I will figure out that we can baby"
+        },
+        {
+          "key": "270967|We can do a one night stand yeah",
+          "startMs": 270967,
+          "text": "We can do a one night stand yeah"
+        },
+        {
+          "key": "275442|And it's hard for me to lose in my life",
+          "startMs": 275442,
+          "text": "And it's hard for me to lose in my life"
+        },
+        {
+          "key": "278090|I've found outside your skin right near the fire",
+          "startMs": 278090,
+          "text": "I've found outside your skin right near the fire"
+        },
+        {
+          "key": "282151|That we can baby",
+          "startMs": 282151,
+          "text": "That we can baby"
+        },
+        {
+          "key": "283749|We can change and feel alright",
+          "startMs": 283749,
+          "text": "We can change and feel alright"
+        }
+      ]
+    },
+    {
+      "rank": 694,
+      "songKey": "online:kugou:6223eeb24be217ae376e531a1f676ca4",
+      "name": "Lone Ranger",
+      "artist": "Rachel Platten",
+      "lines": [
+        {
+          "key": "0|Rachel Platten - Lone Ranger",
+          "startMs": 0,
+          "text": "Rachel Platten - Lone Ranger"
+        },
+        {
+          "key": "1594|Lyrics by：Rachel Platten/Bonnie Baker/Brian West",
+          "startMs": 1594,
+          "text": "Lyrics by：Rachel Platten/Bonnie Baker/Brian West"
+        },
+        {
+          "key": "4326|Composed by：Rachel Platten/Bonnie Baker/Brian West",
+          "startMs": 4326,
+          "text": "Composed by：Rachel Platten/Bonnie Baker/Brian West"
+        },
+        {
+          "key": "7173|Produced by：Brian West",
+          "startMs": 7173,
+          "text": "Produced by：Brian West"
+        },
+        {
+          "key": "8426|Maybe I'm selfish call me see-through",
+          "startMs": 8426,
+          "text": "Maybe I'm selfish call me see-through"
+        },
+        {
+          "key": "10506|But I'm debating if I really need to",
+          "startMs": 10506,
+          "text": "But I'm debating if I really need to"
+        },
+        {
+          "key": "12596|Tie down to someone forever",
+          "startMs": 12596,
+          "text": "Tie down to someone forever"
+        },
+        {
+          "key": "14046|Sure I get lonely sometimes",
+          "startMs": 14046,
+          "text": "Sure I get lonely sometimes"
+        },
+        {
+          "key": "15306|I miss being together but baby",
+          "startMs": 15306,
+          "text": "I miss being together but baby"
+        },
+        {
+          "key": "16666|When I roam from city to city",
+          "startMs": 16666,
+          "text": "When I roam from city to city"
+        },
+        {
+          "key": "18216|I let the highway and the crowd",
+          "startMs": 18216,
+          "text": "I let the highway and the crowd"
+        },
+        {
+          "key": "19316|Fill the hunger that's in me",
+          "startMs": 19316,
+          "text": "Fill the hunger that's in me"
+        },
+        {
+          "key": "20566|Fill me up with fireworks and tell me I'm skinny",
+          "startMs": 20566,
+          "text": "Fill me up with fireworks and tell me I'm skinny"
+        },
+        {
+          "key": "22466|I could soak up the fire and the buzz that it gives me",
+          "startMs": 22466,
+          "text": "I could soak up the fire and the buzz that it gives me"
+        },
+        {
+          "key": "28636|Long nights stay up late",
+          "startMs": 28636,
+          "text": "Long nights stay up late"
+        },
+        {
+          "key": "30766|Drink the sky meditate",
+          "startMs": 30766,
+          "text": "Drink the sky meditate"
+        },
+        {
+          "key": "37271|Open eyes sun roof",
+          "startMs": 37271,
+          "text": "Open eyes sun roof"
+        },
+        {
+          "key": "39026|Give me miles give me truth",
+          "startMs": 39026,
+          "text": "Give me miles give me truth"
+        },
+        {
+          "key": "42336|Sometimes I get high",
+          "startMs": 42336,
+          "text": "Sometimes I get high"
+        },
+        {
+          "key": "44356|Sometimes I get low",
+          "startMs": 44356,
+          "text": "Sometimes I get low"
+        },
+        {
+          "key": "46906|But I'm calm as can be",
+          "startMs": 46906,
+          "text": "But I'm calm as can be"
+        },
+        {
+          "key": "48526|In a room full of strangers",
+          "startMs": 48526,
+          "text": "In a room full of strangers"
+        },
+        {
+          "key": "51036|But oh my don't try to get close",
+          "startMs": 51036,
+          "text": "But oh my don't try to get close"
+        },
+        {
+          "key": "55186|I'm just gonna leave",
+          "startMs": 55186,
+          "text": "I'm just gonna leave"
+        },
+        {
+          "key": "57011|'Cause baby I'm a lone ranger",
+          "startMs": 57011,
+          "text": "'Cause baby I'm a lone ranger"
+        },
+        {
+          "key": "65736|I'm a lone ranger",
+          "startMs": 65736,
+          "text": "I'm a lone ranger"
+        },
+        {
+          "key": "67946|I'm a lion I'm a tiger",
+          "startMs": 67946,
+          "text": "I'm a lion I'm a tiger"
+        },
+        {
+          "key": "70086|I'm a caged bird I'm on fire",
+          "startMs": 70086,
+          "text": "I'm a caged bird I'm on fire"
+        },
+        {
+          "key": "72086|Got these paper wings but they don't hold the air",
+          "startMs": 72086,
+          "text": "Got these paper wings but they don't hold the air"
+        },
+        {
+          "key": "74166|Get so close to somebody but I don't stay there",
+          "startMs": 74166,
+          "text": "Get so close to somebody but I don't stay there"
+        },
+        {
+          "key": "76206|Much less brave then I admit",
+          "startMs": 76206,
+          "text": "Much less brave then I admit"
+        },
+        {
+          "key": "78206|Much more scared then they all think",
+          "startMs": 78206,
+          "text": "Much more scared then they all think"
+        },
+        {
+          "key": "80256|But I'm protecting this organ in my chest",
+          "startMs": 80256,
+          "text": "But I'm protecting this organ in my chest"
+        },
+        {
+          "key": "81846|'Cause the blood sweat and tears",
+          "startMs": 81846,
+          "text": "'Cause the blood sweat and tears"
+        },
+        {
+          "key": "82996|They can make quite a mess",
+          "startMs": 82996,
+          "text": "They can make quite a mess"
+        },
+        {
+          "key": "88626|Open eyes open roof",
+          "startMs": 88626,
+          "text": "Open eyes open roof"
+        },
+        {
+          "key": "90530|Give me miles give me truth",
+          "startMs": 90530,
+          "text": "Give me miles give me truth"
+        },
+        {
+          "key": "93830|Sometimes I get high",
+          "startMs": 93830,
+          "text": "Sometimes I get high"
+        },
+        {
+          "key": "95636|Sometimes I get low",
+          "startMs": 95636,
+          "text": "Sometimes I get low"
+        },
+        {
+          "key": "98186|But I'm calm as can be",
+          "startMs": 98186,
+          "text": "But I'm calm as can be"
+        },
+        {
+          "key": "99806|In a room full of strangers",
+          "startMs": 99806,
+          "text": "In a room full of strangers"
+        },
+        {
+          "key": "102306|But oh my don't try to get close",
+          "startMs": 102306,
+          "text": "But oh my don't try to get close"
+        },
+        {
+          "key": "106456|I'm just gonna leave",
+          "startMs": 106456,
+          "text": "I'm just gonna leave"
+        },
+        {
+          "key": "107918|'Cause baby I'm a lone ranger",
+          "startMs": 107918,
+          "text": "'Cause baby I'm a lone ranger"
+        },
+        {
+          "key": "116206|'Cause baby I'm a lone ranger",
+          "startMs": 116206,
+          "text": "'Cause baby I'm a lone ranger"
+        },
+        {
+          "key": "119246|I don't wanna get broken baby",
+          "startMs": 119246,
+          "text": "I don't wanna get broken baby"
+        },
+        {
+          "key": "121336|I don't wanna get broken baby",
+          "startMs": 121336,
+          "text": "I don't wanna get broken baby"
+        },
+        {
+          "key": "123406|I don't wanna get broken baby",
+          "startMs": 123406,
+          "text": "I don't wanna get broken baby"
+        },
+        {
+          "key": "124876|Cut open babe cut open baby",
+          "startMs": 124876,
+          "text": "Cut open babe cut open baby"
+        },
+        {
+          "key": "127456|I don't wanna get broken baby",
+          "startMs": 127456,
+          "text": "I don't wanna get broken baby"
+        },
+        {
+          "key": "129546|I don't wanna get broken baby",
+          "startMs": 129546,
+          "text": "I don't wanna get broken baby"
+        },
+        {
+          "key": "131616|I don't wanna get broken baby",
+          "startMs": 131616,
+          "text": "I don't wanna get broken baby"
+        },
+        {
+          "key": "133086|Cut open babe cut open baby",
+          "startMs": 133086,
+          "text": "Cut open babe cut open baby"
+        },
+        {
+          "key": "144818|Sometimes I get high",
+          "startMs": 144818,
+          "text": "Sometimes I get high"
+        },
+        {
+          "key": "146918|Sometimes I get low",
+          "startMs": 146918,
+          "text": "Sometimes I get low"
+        },
+        {
+          "key": "149468|But I'm calm as can be",
+          "startMs": 149468,
+          "text": "But I'm calm as can be"
+        },
+        {
+          "key": "151098|In a room full of strangers",
+          "startMs": 151098,
+          "text": "In a room full of strangers"
+        },
+        {
+          "key": "153598|But oh my don't try to get close",
+          "startMs": 153598,
+          "text": "But oh my don't try to get close"
+        },
+        {
+          "key": "157728|I'm just gonna leave",
+          "startMs": 157728,
+          "text": "I'm just gonna leave"
+        },
+        {
+          "key": "159504|'Cause baby I'm a lone ranger",
+          "startMs": 159504,
+          "text": "'Cause baby I'm a lone ranger"
+        },
+        {
+          "key": "169839|Sometimes I get high",
+          "startMs": 169839,
+          "text": "Sometimes I get high"
+        },
+        {
+          "key": "176114|'Cause baby I'm a lone ranger",
+          "startMs": 176114,
+          "text": "'Cause baby I'm a lone ranger"
+        },
+        {
+          "key": "178368|But oh my don't try to get close",
+          "startMs": 178368,
+          "text": "But oh my don't try to get close"
+        },
+        {
+          "key": "182368|I'm just gonna leave",
+          "startMs": 182368,
+          "text": "I'm just gonna leave"
+        },
+        {
+          "key": "183868|'Cause baby I'm a lone ranger",
+          "startMs": 183868,
+          "text": "'Cause baby I'm a lone ranger"
+        }
+      ]
+    },
+    {
+      "rank": 695,
+      "songKey": "online:kugou:24741f6ff6b4302921e12ef4365008ca",
+      "name": "ninelie (Easylistening)",
+      "artist": "徐梦圆",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

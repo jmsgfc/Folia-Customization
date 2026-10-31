@@ -1,0 +1,820 @@
+{
+  "batchNumber": 140,
+  "songs": [
+    {
+      "rank": 696,
+      "songKey": "online:kugou:33dc33123c50ad9b81baf3f5af821181",
+      "name": "Something Just Like This",
+      "artist": "刘芯怡",
+      "lines": [
+        {
+          "key": "292|刘芯怡 - Something Just Like This",
+          "startMs": 292,
+          "text": "刘芯怡 - Something Just Like This"
+        },
+        {
+          "key": "2052|Written by：Andrew Taggart/Guy Berryman/Jonny Buckland/Chris Martin/Will Champion",
+          "startMs": 2052,
+          "text": "Written by：Andrew Taggart/Guy Berryman/Jonny Buckland/Chris Martin/Will Champion"
+        },
+        {
+          "key": "19594|I've been reading books of old",
+          "startMs": 19594,
+          "text": "I've been reading books of old"
+        },
+        {
+          "key": "21660|The legends and the myths",
+          "startMs": 21660,
+          "text": "The legends and the myths"
+        },
+        {
+          "key": "23726|Achilles and his gold",
+          "startMs": 23726,
+          "text": "Achilles and his gold"
+        },
+        {
+          "key": "25842|Hercules and his gifts",
+          "startMs": 25842,
+          "text": "Hercules and his gifts"
+        },
+        {
+          "key": "28009|Spiderman's control",
+          "startMs": 28009,
+          "text": "Spiderman's control"
+        },
+        {
+          "key": "30374|And batman with his fists",
+          "startMs": 30374,
+          "text": "And batman with his fists"
+        },
+        {
+          "key": "32797|Clearly I don't see myself upon that list",
+          "startMs": 32797,
+          "text": "Clearly I don't see myself upon that list"
+        },
+        {
+          "key": "36120|She said where'd you wanna go",
+          "startMs": 36120,
+          "text": "She said where'd you wanna go"
+        },
+        {
+          "key": "38339|How much you wanna risk",
+          "startMs": 38339,
+          "text": "How much you wanna risk"
+        },
+        {
+          "key": "40202|I'm not looking for somebody",
+          "startMs": 40202,
+          "text": "I'm not looking for somebody"
+        },
+        {
+          "key": "42270|With some superhuman gifts",
+          "startMs": 42270,
+          "text": "With some superhuman gifts"
+        },
+        {
+          "key": "44384|Some superhero",
+          "startMs": 44384,
+          "text": "Some superhero"
+        },
+        {
+          "key": "46596|Some fairytale bliss",
+          "startMs": 46596,
+          "text": "Some fairytale bliss"
+        },
+        {
+          "key": "48809|Just something I can turn to",
+          "startMs": 48809,
+          "text": "Just something I can turn to"
+        },
+        {
+          "key": "50923|Somebody I can kiss",
+          "startMs": 50923,
+          "text": "Somebody I can kiss"
+        },
+        {
+          "key": "52838|I want something just like this",
+          "startMs": 52838,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "54950|Doo doo doo doo doo doo",
+          "startMs": 54950,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "57064|Doo doo doo doo doo",
+          "startMs": 57064,
+          "text": "Doo doo doo doo doo"
+        },
+        {
+          "key": "59279|Doo doo doo doo doo doo",
+          "startMs": 59279,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "61051|I want something just like this",
+          "startMs": 61051,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "63363|Doo doo doo doo doo doo",
+          "startMs": 63363,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "65405|Doo doo doo doo doo",
+          "startMs": 65405,
+          "text": "Doo doo doo doo doo"
+        },
+        {
+          "key": "67570|Doo doo doo doo doo doo",
+          "startMs": 67570,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "69334|Oh I want something just like this",
+          "startMs": 69334,
+          "text": "Oh I want something just like this"
+        },
+        {
+          "key": "77853|I want something just like this",
+          "startMs": 77853,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "86422|I've been reading books of old",
+          "startMs": 86422,
+          "text": "I've been reading books of old"
+        },
+        {
+          "key": "88481|The legends and the myths",
+          "startMs": 88481,
+          "text": "The legends and the myths"
+        },
+        {
+          "key": "90547|The testaments they told",
+          "startMs": 90547,
+          "text": "The testaments they told"
+        },
+        {
+          "key": "92556|The moon and its eclipse",
+          "startMs": 92556,
+          "text": "The moon and its eclipse"
+        },
+        {
+          "key": "94722|And superman unrolls",
+          "startMs": 94722,
+          "text": "And superman unrolls"
+        },
+        {
+          "key": "96844|A suit before he lifts",
+          "startMs": 96844,
+          "text": "A suit before he lifts"
+        },
+        {
+          "key": "99869|But I'm not the kind of person that it fits",
+          "startMs": 99869,
+          "text": "But I'm not the kind of person that it fits"
+        },
+        {
+          "key": "102843|She said where'd you wanna go",
+          "startMs": 102843,
+          "text": "She said where'd you wanna go"
+        },
+        {
+          "key": "105167|How much you wanna risk",
+          "startMs": 105167,
+          "text": "How much you wanna risk"
+        },
+        {
+          "key": "107029|I'm not looking for somebody",
+          "startMs": 107029,
+          "text": "I'm not looking for somebody"
+        },
+        {
+          "key": "109142|With some superhuman gifts",
+          "startMs": 109142,
+          "text": "With some superhuman gifts"
+        },
+        {
+          "key": "111174|Some superhero",
+          "startMs": 111174,
+          "text": "Some superhero"
+        },
+        {
+          "key": "113387|Some fairytale bliss",
+          "startMs": 113387,
+          "text": "Some fairytale bliss"
+        },
+        {
+          "key": "115553|Just something I can turn to",
+          "startMs": 115553,
+          "text": "Just something I can turn to"
+        },
+        {
+          "key": "117668|Somebody I can miss",
+          "startMs": 117668,
+          "text": "Somebody I can miss"
+        },
+        {
+          "key": "119658|I want something just like this",
+          "startMs": 119658,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "127956|I want something just like this",
+          "startMs": 127956,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "136269|I want something just like this",
+          "startMs": 136269,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "138535|Doo doo doo doo doo doo",
+          "startMs": 138535,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "140846|Doo doo doo doo doo",
+          "startMs": 140846,
+          "text": "Doo doo doo doo doo"
+        },
+        {
+          "key": "142760|Doo doo doo doo doo doo",
+          "startMs": 142760,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "144623|Oh I want something just like this",
+          "startMs": 144623,
+          "text": "Oh I want something just like this"
+        },
+        {
+          "key": "146991|Doo doo doo doo doo doo",
+          "startMs": 146991,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "148956|Doo doo doo doo doo",
+          "startMs": 148956,
+          "text": "Doo doo doo doo doo"
+        },
+        {
+          "key": "151023|Doo doo doo doo doo doo",
+          "startMs": 151023,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "153496|Where'd you wanna go",
+          "startMs": 153496,
+          "text": "Where'd you wanna go"
+        },
+        {
+          "key": "155209|How much you wanna risk",
+          "startMs": 155209,
+          "text": "How much you wanna risk"
+        },
+        {
+          "key": "157018|I'm not looking for somebody",
+          "startMs": 157018,
+          "text": "I'm not looking for somebody"
+        },
+        {
+          "key": "159230|With some superhuman gifts",
+          "startMs": 159230,
+          "text": "With some superhuman gifts"
+        },
+        {
+          "key": "161448|Some superhero",
+          "startMs": 161448,
+          "text": "Some superhero"
+        },
+        {
+          "key": "163411|Some fairytale bliss",
+          "startMs": 163411,
+          "text": "Some fairytale bliss"
+        },
+        {
+          "key": "165728|Just something I can turn to",
+          "startMs": 165728,
+          "text": "Just something I can turn to"
+        },
+        {
+          "key": "167691|Somebody I can kiss",
+          "startMs": 167691,
+          "text": "Somebody I can kiss"
+        },
+        {
+          "key": "169751|I want something just like this",
+          "startMs": 169751,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "186167|Oh I want something just like this",
+          "startMs": 186167,
+          "text": "Oh I want something just like this"
+        },
+        {
+          "key": "202900|Oh I want something just like this",
+          "startMs": 202900,
+          "text": "Oh I want something just like this"
+        }
+      ]
+    },
+    {
+      "rank": 697,
+      "songKey": "online:kugou:950e422d64e97c7f7550c1b33c3216f9",
+      "name": "Helmet to Helmet",
+      "artist": "Brand X Music",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 698,
+      "songKey": "online:kugou:0e0ca0a84f1bbfe7d7faddd3c3bcd2e6",
+      "name": "小情歌 (女声版)",
+      "artist": "网络歌手",
+      "lines": [
+        {
+          "key": "165|网络歌手 - 小情歌(女声版)",
+          "startMs": 165,
+          "text": "网络歌手 - 小情歌(女声版)"
+        },
+        {
+          "key": "1024|作词：吴青峰",
+          "startMs": 1024,
+          "text": "作词：吴青峰"
+        },
+        {
+          "key": "1380|作曲：吴青峰",
+          "startMs": 1380,
+          "text": "作曲：吴青峰"
+        },
+        {
+          "key": "31196|这是一首简单的小情歌",
+          "startMs": 31196,
+          "text": "这是一首简单的小情歌"
+        },
+        {
+          "key": "38292|唱着人们心肠的曲折",
+          "startMs": 38292,
+          "text": "唱着人们心肠的曲折"
+        },
+        {
+          "key": "44313|我想我很快乐",
+          "startMs": 44313,
+          "text": "我想我很快乐"
+        },
+        {
+          "key": "48166|当有你的温热",
+          "startMs": 48166,
+          "text": "当有你的温热"
+        },
+        {
+          "key": "52478|脚边的空气转了",
+          "startMs": 52478,
+          "text": "脚边的空气转了"
+        },
+        {
+          "key": "74785|这是一首简单的小情歌",
+          "startMs": 74785,
+          "text": "这是一首简单的小情歌"
+        },
+        {
+          "key": "81931|唱着我们心头的白鸽",
+          "startMs": 81931,
+          "text": "唱着我们心头的白鸽"
+        },
+        {
+          "key": "88147|我想我很适合",
+          "startMs": 88147,
+          "text": "我想我很适合"
+        },
+        {
+          "key": "91692|当一个歌颂者",
+          "startMs": 91692,
+          "text": "当一个歌颂者"
+        },
+        {
+          "key": "96049|青春在风中飘着",
+          "startMs": 96049,
+          "text": "青春在风中飘着"
+        },
+        {
+          "key": "102638|你知道",
+          "startMs": 102638,
+          "text": "你知道"
+        },
+        {
+          "key": "103902|就算大雨让这座城市颠倒",
+          "startMs": 103902,
+          "text": "就算大雨让这座城市颠倒"
+        },
+        {
+          "key": "107359|我会给你怀抱",
+          "startMs": 107359,
+          "text": "我会给你怀抱"
+        },
+        {
+          "key": "109893|受不了看见你背影来到",
+          "startMs": 109893,
+          "text": "受不了看见你背影来到"
+        },
+        {
+          "key": "113689|写下我度秒如年难挨的离骚",
+          "startMs": 113689,
+          "text": "写下我度秒如年难挨的离骚"
+        },
+        {
+          "key": "118200|就算整个世界被寂寞绑票",
+          "startMs": 118200,
+          "text": "就算整个世界被寂寞绑票"
+        },
+        {
+          "key": "121850|我也不会奔跑",
+          "startMs": 121850,
+          "text": "我也不会奔跑"
+        },
+        {
+          "key": "124429|逃不了最后谁也都苍老",
+          "startMs": 124429,
+          "text": "逃不了最后谁也都苍老"
+        },
+        {
+          "key": "128271|写下我",
+          "startMs": 128271,
+          "text": "写下我"
+        },
+        {
+          "key": "129085|时间和琴声交错的城堡",
+          "startMs": 129085,
+          "text": "时间和琴声交错的城堡"
+        },
+        {
+          "key": "151143|这是一首简单的小情歌",
+          "startMs": 151143,
+          "text": "这是一首简单的小情歌"
+        },
+        {
+          "key": "158188|唱着我们心头的白鸽",
+          "startMs": 158188,
+          "text": "唱着我们心头的白鸽"
+        },
+        {
+          "key": "164413|我想我很适合",
+          "startMs": 164413,
+          "text": "我想我很适合"
+        },
+        {
+          "key": "168061|当一个歌颂者",
+          "startMs": 168061,
+          "text": "当一个歌颂者"
+        },
+        {
+          "key": "172311|青春在风中飘着",
+          "startMs": 172311,
+          "text": "青春在风中飘着"
+        },
+        {
+          "key": "179048|你知道",
+          "startMs": 179048,
+          "text": "你知道"
+        },
+        {
+          "key": "180061|就算大雨让这座城市颠倒",
+          "startMs": 180061,
+          "text": "就算大雨让这座城市颠倒"
+        },
+        {
+          "key": "183763|我会给你怀抱",
+          "startMs": 183763,
+          "text": "我会给你怀抱"
+        },
+        {
+          "key": "186396|受不了看见你背影来到",
+          "startMs": 186396,
+          "text": "受不了看见你背影来到"
+        },
+        {
+          "key": "189995|写下我度秒如年难挨的离骚",
+          "startMs": 189995,
+          "text": "写下我度秒如年难挨的离骚"
+        },
+        {
+          "key": "194503|就算整个世界被寂寞绑票",
+          "startMs": 194503,
+          "text": "就算整个世界被寂寞绑票"
+        },
+        {
+          "key": "198254|我也不会奔跑",
+          "startMs": 198254,
+          "text": "我也不会奔跑"
+        },
+        {
+          "key": "200838|逃不了最后谁也都苍老",
+          "startMs": 200838,
+          "text": "逃不了最后谁也都苍老"
+        },
+        {
+          "key": "204480|写下我",
+          "startMs": 204480,
+          "text": "写下我"
+        },
+        {
+          "key": "205495|时间和琴声交错的城堡",
+          "startMs": 205495,
+          "text": "时间和琴声交错的城堡"
+        },
+        {
+          "key": "211347|你知道",
+          "startMs": 211347,
+          "text": "你知道"
+        },
+        {
+          "key": "212819|就算大雨让这座城市颠倒",
+          "startMs": 212819,
+          "text": "就算大雨让这座城市颠倒"
+        },
+        {
+          "key": "216365|我会给你怀抱",
+          "startMs": 216365,
+          "text": "我会给你怀抱"
+        },
+        {
+          "key": "219046|受不了看见你背影来到",
+          "startMs": 219046,
+          "text": "受不了看见你背影来到"
+        },
+        {
+          "key": "222849|写下我度秒如年难挨的离骚",
+          "startMs": 222849,
+          "text": "写下我度秒如年难挨的离骚"
+        },
+        {
+          "key": "227255|就算整个世界被寂寞绑票",
+          "startMs": 227255,
+          "text": "就算整个世界被寂寞绑票"
+        },
+        {
+          "key": "231015|我也不会奔跑",
+          "startMs": 231015,
+          "text": "我也不会奔跑"
+        },
+        {
+          "key": "234621|最后谁也都苍老",
+          "startMs": 234621,
+          "text": "最后谁也都苍老"
+        },
+        {
+          "key": "237304|写下我",
+          "startMs": 237304,
+          "text": "写下我"
+        },
+        {
+          "key": "238266|时间和琴声交错的城堡",
+          "startMs": 238266,
+          "text": "时间和琴声交错的城堡"
+        }
+      ]
+    },
+    {
+      "rank": 699,
+      "songKey": "online:kugou:fcd01a5bb42dd4cffd294bb7376a8e0b",
+      "name": "陪你度过漫长岁月",
+      "artist": "陈奕迅",
+      "lines": [
+        {
+          "key": "15|陈奕迅 - 陪你度过漫长岁月(电影《陪安东尼度过漫长岁月》主题曲)",
+          "startMs": 15,
+          "text": "陈奕迅 - 陪你度过漫长岁月(电影《陪安东尼度过漫长岁月》主题曲)"
+        },
+        {
+          "key": "4894|作词：葛大为",
+          "startMs": 4894,
+          "text": "作词：葛大为"
+        },
+        {
+          "key": "5794|作曲：黎晓阳、谢国维",
+          "startMs": 5794,
+          "text": "作曲：黎晓阳、谢国维"
+        },
+        {
+          "key": "7347|编曲：C. Y. Kong",
+          "startMs": 7347,
+          "text": "编曲：C. Y. Kong"
+        },
+        {
+          "key": "8362|监制：思歪江、C. Y. Kong ",
+          "startMs": 8362,
+          "text": "监制：思歪江、C. Y. Kong "
+        },
+        {
+          "key": "10686|走过了人来人往",
+          "startMs": 10686,
+          "text": "走过了人来人往"
+        },
+        {
+          "key": "15536|不喜欢也得欣赏",
+          "startMs": 15536,
+          "text": "不喜欢也得欣赏"
+        },
+        {
+          "key": "20297|我是沉默的存在",
+          "startMs": 20297,
+          "text": "我是沉默的存在"
+        },
+        {
+          "key": "25194|不当你的世界",
+          "startMs": 25194,
+          "text": "不当你的世界"
+        },
+        {
+          "key": "27397|只作你肩膀",
+          "startMs": 27397,
+          "text": "只作你肩膀"
+        },
+        {
+          "key": "30050|拒绝成长到成长",
+          "startMs": 30050,
+          "text": "拒绝成长到成长"
+        },
+        {
+          "key": "34624|变成想要的模样",
+          "startMs": 34624,
+          "text": "变成想要的模样"
+        },
+        {
+          "key": "39531|在举手投降以前",
+          "startMs": 39531,
+          "text": "在举手投降以前"
+        },
+        {
+          "key": "42985|让我再陪你一段",
+          "startMs": 42985,
+          "text": "让我再陪你一段"
+        },
+        {
+          "key": "49060|陪你把沿路感想 活出了答案",
+          "startMs": 49060,
+          "text": "陪你把沿路感想 活出了答案"
+        },
+        {
+          "key": "54000|陪你把独自孤单 变成了勇敢",
+          "startMs": 54000,
+          "text": "陪你把独自孤单 变成了勇敢"
+        },
+        {
+          "key": "59230|一次次失去又重来 我没离开",
+          "startMs": 59230,
+          "text": "一次次失去又重来 我没离开"
+        },
+        {
+          "key": "64184|陪伴是 最长情的告白",
+          "startMs": 64184,
+          "text": "陪伴是 最长情的告白"
+        },
+        {
+          "key": "68490|陪你把想念的酸 拥抱成温暖",
+          "startMs": 68490,
+          "text": "陪你把想念的酸 拥抱成温暖"
+        },
+        {
+          "key": "73093|陪你把彷徨 写出情节来",
+          "startMs": 73093,
+          "text": "陪你把彷徨 写出情节来"
+        },
+        {
+          "key": "78345|未来多漫长 再漫长 还有期待",
+          "startMs": 78345,
+          "text": "未来多漫长 再漫长 还有期待"
+        },
+        {
+          "key": "83298|陪伴你 一直到 故事给说完",
+          "startMs": 83298,
+          "text": "陪伴你 一直到 故事给说完"
+        },
+        {
+          "key": "106923|让我们静静分享",
+          "startMs": 106923,
+          "text": "让我们静静分享"
+        },
+        {
+          "key": "111525|此刻难得的坦白",
+          "startMs": 111525,
+          "text": "此刻难得的坦白"
+        },
+        {
+          "key": "116330|只是无声地交谈",
+          "startMs": 116330,
+          "text": "只是无声地交谈"
+        },
+        {
+          "key": "119732|都感觉幸福 感觉不孤单",
+          "startMs": 119732,
+          "text": "都感觉幸福 感觉不孤单"
+        },
+        {
+          "key": "125887|陪你把沿路感想 活出了答案",
+          "startMs": 125887,
+          "text": "陪你把沿路感想 活出了答案"
+        },
+        {
+          "key": "130790|陪你把独自孤单 变成了勇敢",
+          "startMs": 130790,
+          "text": "陪你把独自孤单 变成了勇敢"
+        },
+        {
+          "key": "136056|一次次失去 又重来 我没离开",
+          "startMs": 136056,
+          "text": "一次次失去 又重来 我没离开"
+        },
+        {
+          "key": "140711|陪伴是 最长情的告白",
+          "startMs": 140711,
+          "text": "陪伴是 最长情的告白"
+        },
+        {
+          "key": "145166|陪你把想念的酸 拥抱成温暖",
+          "startMs": 145166,
+          "text": "陪你把想念的酸 拥抱成温暖"
+        },
+        {
+          "key": "149874|陪你把彷徨 写出情节来",
+          "startMs": 149874,
+          "text": "陪你把彷徨 写出情节来"
+        },
+        {
+          "key": "155182|未来多漫长 再漫长 还有期待",
+          "startMs": 155182,
+          "text": "未来多漫长 再漫长 还有期待"
+        },
+        {
+          "key": "159936|陪伴你 一直到 故事给说完",
+          "startMs": 159936,
+          "text": "陪伴你 一直到 故事给说完"
+        },
+        {
+          "key": "183642|陪你把沿路感想 活出了答案",
+          "startMs": 183642,
+          "text": "陪你把沿路感想 活出了答案"
+        },
+        {
+          "key": "188294|陪你把独自孤单 变成了勇敢",
+          "startMs": 188294,
+          "text": "陪你把独自孤单 变成了勇敢"
+        },
+        {
+          "key": "193539|一次次失去 又重来 我没离开",
+          "startMs": 193539,
+          "text": "一次次失去 又重来 我没离开"
+        },
+        {
+          "key": "198450|陪伴是 最长情的告白",
+          "startMs": 198450,
+          "text": "陪伴是 最长情的告白"
+        },
+        {
+          "key": "202755|陪你把想念的酸 拥抱成温暖",
+          "startMs": 202755,
+          "text": "陪你把想念的酸 拥抱成温暖"
+        },
+        {
+          "key": "207778|陪你把彷徨 写出情节来",
+          "startMs": 207778,
+          "text": "陪你把彷徨 写出情节来"
+        },
+        {
+          "key": "212759|未来多漫长 再漫长 还有期待",
+          "startMs": 212759,
+          "text": "未来多漫长 再漫长 还有期待"
+        },
+        {
+          "key": "217516|陪伴你 一直到 这故事说完",
+          "startMs": 217516,
+          "text": "陪伴你 一直到 这故事说完"
+        }
+      ]
+    },
+    {
+      "rank": 700,
+      "songKey": "online:kugou:0e9894e868714fd6cf14f849b9f15ad2",
+      "name": "葬花",
+      "artist": "THT",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

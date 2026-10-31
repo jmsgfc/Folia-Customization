@@ -1,0 +1,629 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:e8a16183f6829aa81f245d3d338876cd",
+      "lines": [
+        {
+          "key": "0|Tungevaag - Wicked Wonderland ",
+          "text": "Tungevaag - Wicked Wonderland ",
+          "segments": [
+            "Tungevaag ",
+            "- ",
+            "Wicked Wonderland "
+          ]
+        },
+        {
+          "key": "372|Written by：Martin Tungevaag、Henning Olerud、Serena West",
+          "text": "Written by：Martin Tungevaag、Henning Olerud、Serena West",
+          "segments": [
+            "Written by：",
+            "Martin Tungevaag、",
+            "Henning Olerud、",
+            "Serena West"
+          ]
+        },
+        {
+          "key": "8239|I've been thinking bout wrong",
+          "text": "I've been thinking bout wrong",
+          "segments": [
+            "I've ",
+            "been ",
+            "thinking ",
+            "bout ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "10042|I've been thinking bout right",
+          "text": "I've been thinking bout right",
+          "segments": [
+            "I've ",
+            "been ",
+            "thinking ",
+            "bout ",
+            "right"
+          ]
+        },
+        {
+          "key": "11961|I just wanna thrive I don't wanna fight",
+          "text": "I just wanna thrive I don't wanna fight",
+          "segments": [
+            "I ",
+            "just ",
+            "wanna ",
+            "thrive ",
+            "I ",
+            "don't ",
+            "wanna ",
+            "fight"
+          ]
+        },
+        {
+          "key": "17634|I don't wanna fight",
+          "text": "I don't wanna fight",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "fight"
+          ]
+        },
+        {
+          "key": "22780|Can you see the flickering lights baby",
+          "text": "Can you see the flickering lights baby",
+          "segments": [
+            "Can ",
+            "you ",
+            "see ",
+            "the ",
+            "flickering ",
+            "lights ",
+            "baby"
+          ]
+        },
+        {
+          "key": "26481|Put your glass up in the air with me",
+          "text": "Put your glass up in the air with me",
+          "segments": [
+            "Put ",
+            "your ",
+            "glass ",
+            "up ",
+            "in ",
+            "the ",
+            "air ",
+            "with ",
+            "me"
+          ]
+        },
+        {
+          "key": "30291|Hollar hollar let them hear us loudly",
+          "text": "Hollar hollar let them hear us loudly",
+          "segments": [
+            "Hollar ",
+            "hollar ",
+            "let ",
+            "them ",
+            "hear ",
+            "us ",
+            "loudly"
+          ]
+        },
+        {
+          "key": "33877|Our top is off let's show them off proudly",
+          "text": "Our top is off let's show them off proudly",
+          "segments": [
+            "Our ",
+            "top ",
+            "is ",
+            "off ",
+            "let's ",
+            "show ",
+            "them ",
+            "off ",
+            "proudly"
+          ]
+        },
+        {
+          "key": "37793|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "39574|It's like crossing the Rio Grande",
+          "text": "It's like crossing the Rio Grande",
+          "segments": [
+            "It's ",
+            "like ",
+            "crossing ",
+            "the ",
+            "Rio Grande"
+          ]
+        },
+        {
+          "key": "41494|You gotta have the cash in store",
+          "text": "You gotta have the cash in store",
+          "segments": [
+            "You ",
+            "gotta ",
+            "have ",
+            "the ",
+            "cash ",
+            "in ",
+            "store"
+          ]
+        },
+        {
+          "key": "43299|To reappear on our front door",
+          "text": "To reappear on our front door",
+          "segments": [
+            "To ",
+            "reappear ",
+            "on ",
+            "our ",
+            "front ",
+            "door"
+          ]
+        },
+        {
+          "key": "45263|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "47035|It's like crossing the Rio Grande",
+          "text": "It's like crossing the Rio Grande",
+          "segments": [
+            "It's ",
+            "like ",
+            "crossing ",
+            "the ",
+            "Rio Grande"
+          ]
+        },
+        {
+          "key": "48978|You gotta have the cash in store",
+          "text": "You gotta have the cash in store",
+          "segments": [
+            "You ",
+            "gotta ",
+            "have ",
+            "the ",
+            "cash ",
+            "in ",
+            "store"
+          ]
+        },
+        {
+          "key": "50797|To reappear on our front door",
+          "text": "To reappear on our front door",
+          "segments": [
+            "To ",
+            "reappear ",
+            "on ",
+            "our ",
+            "front ",
+            "door"
+          ]
+        },
+        {
+          "key": "84772|Is this a fairytale I see a hacienda",
+          "text": "Is this a fairytale I see a hacienda",
+          "segments": [
+            "Is ",
+            "this ",
+            "a ",
+            "fairytale ",
+            "I ",
+            "see ",
+            "a ",
+            "hacienda"
+          ]
+        },
+        {
+          "key": "88477|No hablo English but you're on my agenda",
+          "text": "No hablo English but you're on my agenda",
+          "segments": [
+            "No ",
+            "hablo ",
+            "English ",
+            "but ",
+            "you're ",
+            "on ",
+            "my ",
+            "agenda"
+          ]
+        },
+        {
+          "key": "93728|Where are all my friends are",
+          "text": "Where are all my friends are",
+          "segments": [
+            "Where ",
+            "are ",
+            "all ",
+            "my ",
+            "friends ",
+            "are"
+          ]
+        },
+        {
+          "key": "99586|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "101318|It's like crossing the Rio Grande",
+          "text": "It's like crossing the Rio Grande",
+          "segments": [
+            "It's ",
+            "like ",
+            "crossing ",
+            "the ",
+            "Rio Grande"
+          ]
+        },
+        {
+          "key": "103306|You gotta have the cash in store",
+          "text": "You gotta have the cash in store",
+          "segments": [
+            "You ",
+            "gotta ",
+            "have ",
+            "the ",
+            "cash ",
+            "in ",
+            "store"
+          ]
+        },
+        {
+          "key": "105165|To reappear on our front door",
+          "text": "To reappear on our front door",
+          "segments": [
+            "To ",
+            "reappear ",
+            "on ",
+            "our ",
+            "front ",
+            "door"
+          ]
+        },
+        {
+          "key": "107097|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "108857|It's like crossing the Rio Grande",
+          "text": "It's like crossing the Rio Grande",
+          "segments": [
+            "It's ",
+            "like ",
+            "crossing ",
+            "the ",
+            "Rio Grande"
+          ]
+        },
+        {
+          "key": "110839|You gotta have the cash in store",
+          "text": "You gotta have the cash in store",
+          "segments": [
+            "You ",
+            "gotta ",
+            "have ",
+            "the ",
+            "cash ",
+            "in ",
+            "store"
+          ]
+        },
+        {
+          "key": "112644|To reappear on our front door",
+          "text": "To reappear on our front door",
+          "segments": [
+            "To ",
+            "reappear ",
+            "on ",
+            "our ",
+            "front ",
+            "door"
+          ]
+        },
+        {
+          "key": "129755|Can you see the flickering lights baby",
+          "text": "Can you see the flickering lights baby",
+          "segments": [
+            "Can ",
+            "you ",
+            "see ",
+            "the ",
+            "flickering ",
+            "lights ",
+            "baby"
+          ]
+        },
+        {
+          "key": "133464|Put your glass up in the air with me",
+          "text": "Put your glass up in the air with me",
+          "segments": [
+            "Put ",
+            "your ",
+            "glass ",
+            "up ",
+            "in ",
+            "the ",
+            "air ",
+            "with ",
+            "me"
+          ]
+        },
+        {
+          "key": "137093|Hollar hollar let them hear us loudly",
+          "text": "Hollar hollar let them hear us loudly",
+          "segments": [
+            "Hollar ",
+            "hollar ",
+            "let ",
+            "them ",
+            "hear ",
+            "us ",
+            "loudly"
+          ]
+        },
+        {
+          "key": "140730|Our top is off let's show them off proudly",
+          "text": "Our top is off let's show them off proudly",
+          "segments": [
+            "Our ",
+            "top ",
+            "is ",
+            "off ",
+            "let's ",
+            "show ",
+            "them ",
+            "off ",
+            "proudly"
+          ]
+        },
+        {
+          "key": "144656|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "146277|It's like crossing the Rio Grande",
+          "text": "It's like crossing the Rio Grande",
+          "segments": [
+            "It's ",
+            "like ",
+            "crossing ",
+            "the ",
+            "Rio Grande"
+          ]
+        },
+        {
+          "key": "148312|You gotta have the cash in store",
+          "text": "You gotta have the cash in store",
+          "segments": [
+            "You ",
+            "gotta ",
+            "have ",
+            "the ",
+            "cash ",
+            "in ",
+            "store"
+          ]
+        },
+        {
+          "key": "150139|To reappear on our front door",
+          "text": "To reappear on our front door",
+          "segments": [
+            "To ",
+            "reappear ",
+            "on ",
+            "our ",
+            "front ",
+            "door"
+          ]
+        },
+        {
+          "key": "152177|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "153781|It's like crossing the Rio Grande",
+          "text": "It's like crossing the Rio Grande",
+          "segments": [
+            "It's ",
+            "like ",
+            "crossing ",
+            "the ",
+            "Rio Grande"
+          ]
+        },
+        {
+          "key": "155760|You gotta have the cash in store",
+          "text": "You gotta have the cash in store",
+          "segments": [
+            "You ",
+            "gotta ",
+            "have ",
+            "the ",
+            "cash ",
+            "in ",
+            "store"
+          ]
+        },
+        {
+          "key": "157625|To reappear on our front door",
+          "text": "To reappear on our front door",
+          "segments": [
+            "To ",
+            "reappear ",
+            "on ",
+            "our ",
+            "front ",
+            "door"
+          ]
+        },
+        {
+          "key": "159539|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "161359|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "163125|Wicked wicked",
+          "text": "Wicked wicked",
+          "segments": [
+            "Wicked ",
+            "wicked"
+          ]
+        },
+        {
+          "key": "164120|Wicked wicked",
+          "text": "Wicked wicked",
+          "segments": [
+            "Wicked ",
+            "wicked"
+          ]
+        },
+        {
+          "key": "165107|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "197183|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "198844|It's like crossing the Rio Grande",
+          "text": "It's like crossing the Rio Grande",
+          "segments": [
+            "It's ",
+            "like ",
+            "crossing ",
+            "the ",
+            "Rio Grande"
+          ]
+        },
+        {
+          "key": "200731|You gotta have the cash in store",
+          "text": "You gotta have the cash in store",
+          "segments": [
+            "You ",
+            "gotta ",
+            "have ",
+            "the ",
+            "cash ",
+            "in ",
+            "store"
+          ]
+        },
+        {
+          "key": "202598|To reappear on our front door",
+          "text": "To reappear on our front door",
+          "segments": [
+            "To ",
+            "reappear ",
+            "on ",
+            "our ",
+            "front ",
+            "door"
+          ]
+        },
+        {
+          "key": "204584|Wicked wicked wonderland",
+          "text": "Wicked wicked wonderland",
+          "segments": [
+            "Wicked ",
+            "wicked ",
+            "wonderland"
+          ]
+        },
+        {
+          "key": "206324|It's like crossing the Rio Grande",
+          "text": "It's like crossing the Rio Grande",
+          "segments": [
+            "It's ",
+            "like ",
+            "crossing ",
+            "the ",
+            "Rio Grande"
+          ]
+        },
+        {
+          "key": "208266|You gotta have the cash in store",
+          "text": "You gotta have the cash in store",
+          "segments": [
+            "You ",
+            "gotta ",
+            "have ",
+            "the ",
+            "cash ",
+            "in ",
+            "store"
+          ]
+        },
+        {
+          "key": "210097|To reappear on our front door",
+          "text": "To reappear on our front door",
+          "segments": [
+            "To ",
+            "reappear ",
+            "on ",
+            "our ",
+            "front ",
+            "door"
+          ]
+        }
+      ]
+    }
+  ]
+}

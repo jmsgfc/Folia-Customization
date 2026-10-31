@@ -1,0 +1,790 @@
+{
+  "batchNumber": 138,
+  "songs": [
+    {
+      "rank": 686,
+      "songKey": "online:kugou:1b8ad0fe84bce38958c386b5aaf187eb",
+      "name": "时雨",
+      "artist": "徐梦圆",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 687,
+      "songKey": "online:kugou:b0b8671d7d8c993b0a3ebc2fd75fbe2c",
+      "name": "Last Of The Wilds (荒野遗孤)",
+      "artist": "Nightwish",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 688,
+      "songKey": "online:kugou:528d5f57ec83f18ae7343f89d059a56c",
+      "name": "Gentleman",
+      "artist": "戴爱玲 / 刘伟德",
+      "lines": [
+        {
+          "key": "0|戴爱玲、刘伟德 - Gentleman",
+          "startMs": 0,
+          "text": "戴爱玲、刘伟德 - Gentleman"
+        },
+        {
+          "key": "4530|Written by：刘伟德/Willz Chieng/Ian Nsenga",
+          "startMs": 4530,
+          "text": "Written by：刘伟德/Willz Chieng/Ian Nsenga"
+        },
+        {
+          "key": "9079|I'm a gentleman",
+          "startMs": 9079,
+          "text": "I'm a gentleman"
+        },
+        {
+          "key": "12119|You need a gentleman",
+          "startMs": 12119,
+          "text": "You need a gentleman"
+        },
+        {
+          "key": "15229|I wanna be the one you always can rely on",
+          "startMs": 15229,
+          "text": "I wanna be the one you always can rely on"
+        },
+        {
+          "key": "18579|Be the one to hold you through the night storm",
+          "startMs": 18579,
+          "text": "Be the one to hold you through the night storm"
+        },
+        {
+          "key": "20938|Be the gentleman that you need no matter how long",
+          "startMs": 20938,
+          "text": "Be the gentleman that you need no matter how long"
+        },
+        {
+          "key": "24876|I'm a fight until free find our freedom from defeat",
+          "startMs": 24876,
+          "text": "I'm a fight until free find our freedom from defeat"
+        },
+        {
+          "key": "27822|I wanna honor who you are not tryna' play on",
+          "startMs": 27822,
+          "text": "I wanna honor who you are not tryna' play on"
+        },
+        {
+          "key": "31182|See the other guys you relied on",
+          "startMs": 31182,
+          "text": "See the other guys you relied on"
+        },
+        {
+          "key": "33802|They broke your heart but it grew strong",
+          "startMs": 33802,
+          "text": "They broke your heart but it grew strong"
+        },
+        {
+          "key": "36710|We can be the perfect love song and watch the skies fall",
+          "startMs": 36710,
+          "text": "We can be the perfect love song and watch the skies fall"
+        },
+        {
+          "key": "40278|Wake up in the morning from the night's calm",
+          "startMs": 40278,
+          "text": "Wake up in the morning from the night's calm"
+        },
+        {
+          "key": "42826|And see the sunrise while we stay tall",
+          "startMs": 42826,
+          "text": "And see the sunrise while we stay tall"
+        },
+        {
+          "key": "45765|Perfect intuition you're my angel one I visioned",
+          "startMs": 45765,
+          "text": "Perfect intuition you're my angel one I visioned"
+        },
+        {
+          "key": "48554|That I always could envision",
+          "startMs": 48554,
+          "text": "That I always could envision"
+        },
+        {
+          "key": "50123|To be wifey for my children cuz together we can fly",
+          "startMs": 50123,
+          "text": "To be wifey for my children cuz together we can fly"
+        },
+        {
+          "key": "53482|Forever you and I on this mission",
+          "startMs": 53482,
+          "text": "Forever you and I on this mission"
+        },
+        {
+          "key": "56052|That we call love that define all the wishes",
+          "startMs": 56052,
+          "text": "That we call love that define all the wishes"
+        },
+        {
+          "key": "59151|Yea I'm a gentleman for life",
+          "startMs": 59151,
+          "text": "Yea I'm a gentleman for life"
+        },
+        {
+          "key": "61171|Always need for a wife",
+          "startMs": 61171,
+          "text": "Always need for a wife"
+        },
+        {
+          "key": "62781|In this cold world in this cold world",
+          "startMs": 62781,
+          "text": "In this cold world in this cold world"
+        },
+        {
+          "key": "65971|I'll be the one to catch you when you're falling from the sky",
+          "startMs": 65971,
+          "text": "I'll be the one to catch you when you're falling from the sky"
+        },
+        {
+          "key": "72118|I'll be the one to hold you baby together we can fly",
+          "startMs": 72118,
+          "text": "I'll be the one to hold you baby together we can fly"
+        },
+        {
+          "key": "78227|Baby let's fly baby you and I",
+          "startMs": 78227,
+          "text": "Baby let's fly baby you and I"
+        },
+        {
+          "key": "81347|Baby hold on we can make it in time",
+          "startMs": 81347,
+          "text": "Baby hold on we can make it in time"
+        },
+        {
+          "key": "84466|Baby let's fly baby you and I",
+          "startMs": 84466,
+          "text": "Baby let's fly baby you and I"
+        },
+        {
+          "key": "87626|Baby hold on we can make it in time",
+          "startMs": 87626,
+          "text": "Baby hold on we can make it in time"
+        },
+        {
+          "key": "103653|I never told you how I love you kept my heart on the other side",
+          "startMs": 103653,
+          "text": "I never told you how I love you kept my heart on the other side"
+        },
+        {
+          "key": "107342|Looking for a safer ride easier to say goodbye",
+          "startMs": 107342,
+          "text": "Looking for a safer ride easier to say goodbye"
+        },
+        {
+          "key": "111660|So bad when I want it but front when I lose it",
+          "startMs": 111660,
+          "text": "So bad when I want it but front when I lose it"
+        },
+        {
+          "key": "114840|So I turn to the music",
+          "startMs": 114840,
+          "text": "So I turn to the music"
+        },
+        {
+          "key": "116440|And you turn to your phone and you wish what we had",
+          "startMs": 116440,
+          "text": "And you turn to your phone and you wish what we had"
+        },
+        {
+          "key": "119570|Will remain in our home from the names we were call",
+          "startMs": 119570,
+          "text": "Will remain in our home from the names we were call"
+        },
+        {
+          "key": "122709|Never was a gentleman making scenes at the mall",
+          "startMs": 122709,
+          "text": "Never was a gentleman making scenes at the mall"
+        },
+        {
+          "key": "126348|Yea just for the little things always was so ignorant",
+          "startMs": 126348,
+          "text": "Yea just for the little things always was so ignorant"
+        },
+        {
+          "key": "129487|Never thought the love that you bring was the best for me",
+          "startMs": 129487,
+          "text": "Never thought the love that you bring was the best for me"
+        },
+        {
+          "key": "132836|And you the smarter me I'm the loser in this tragedy",
+          "startMs": 132836,
+          "text": "And you the smarter me I'm the loser in this tragedy"
+        },
+        {
+          "key": "136224|In the ugly side gently blinded me",
+          "startMs": 136224,
+          "text": "In the ugly side gently blinded me"
+        },
+        {
+          "key": "138593|No romeo inside of me to begin with be proud",
+          "startMs": 138593,
+          "text": "No romeo inside of me to begin with be proud"
+        },
+        {
+          "key": "142072|In my head would be time patient through the fights",
+          "startMs": 142072,
+          "text": "In my head would be time patient through the fights"
+        },
+        {
+          "key": "144851|On this stage we call life we can glide you and I",
+          "startMs": 144851,
+          "text": "On this stage we call life we can glide you and I"
+        },
+        {
+          "key": "147980|Complicated from the start so we aiming for the stars",
+          "startMs": 147980,
+          "text": "Complicated from the start so we aiming for the stars"
+        },
+        {
+          "key": "151608|Start with the sentiment I'm a gentleman",
+          "startMs": 151608,
+          "text": "Start with the sentiment I'm a gentleman"
+        },
+        {
+          "key": "154447|I'll be the one to catch you when you're falling from the sky",
+          "startMs": 154447,
+          "text": "I'll be the one to catch you when you're falling from the sky"
+        },
+        {
+          "key": "160622|I'll be the one to hold you baby together we can fly",
+          "startMs": 160622,
+          "text": "I'll be the one to hold you baby together we can fly"
+        },
+        {
+          "key": "166622|Baby let's fly baby you and I",
+          "startMs": 166622,
+          "text": "Baby let's fly baby you and I"
+        },
+        {
+          "key": "169782|Baby hold on we can make it in time",
+          "startMs": 169782,
+          "text": "Baby hold on we can make it in time"
+        },
+        {
+          "key": "172942|Baby let's fly baby you and I",
+          "startMs": 172942,
+          "text": "Baby let's fly baby you and I"
+        },
+        {
+          "key": "176092|Baby hold on we can make it in time",
+          "startMs": 176092,
+          "text": "Baby hold on we can make it in time"
+        }
+      ]
+    },
+    {
+      "rank": 689,
+      "songKey": "online:kugou:2cf797a782694b42cf13110ac0e7b27e",
+      "name": "Rage your dream",
+      "artist": "m.o.v.e",
+      "lines": [
+        {
+          "key": "3110|I got no impression ",
+          "startMs": 3110,
+          "text": "I got no impression "
+        },
+        {
+          "key": "7089|This town is made ",
+          "startMs": 7089,
+          "text": "This town is made "
+        },
+        {
+          "key": "8144|by the imitiation ",
+          "startMs": 8144,
+          "text": "by the imitiation "
+        },
+        {
+          "key": "10955|Wanting your sensation ",
+          "startMs": 10955,
+          "text": "Wanting your sensation "
+        },
+        {
+          "key": "14706|In this silly simulation ",
+          "startMs": 14706,
+          "text": "In this silly simulation "
+        },
+        {
+          "key": "17805|I wanna rage my dream ",
+          "startMs": 17805,
+          "text": "I wanna rage my dream "
+        },
+        {
+          "key": "46834|I got no impression　",
+          "startMs": 46834,
+          "text": "I got no impression　"
+        },
+        {
+          "key": "48342|grayの感情",
+          "startMs": 48342,
+          "text": "grayの感情"
+        },
+        {
+          "key": "50551|ボカシも入れ過ぎ　",
+          "startMs": 50551,
+          "text": "ボカシも入れ過ぎ　"
+        },
+        {
+          "key": "52505|街中はimitation",
+          "startMs": 52505,
+          "text": "街中はimitation"
+        },
+        {
+          "key": "54366|Realを求めて　",
+          "startMs": 54366,
+          "text": "Realを求めて　"
+        },
+        {
+          "key": "56123|昴るあなたが",
+          "startMs": 56123,
+          "text": "昴るあなたが"
+        },
+        {
+          "key": "58080|近くによれない",
+          "startMs": 58080,
+          "text": "近くによれない"
+        },
+        {
+          "key": "60294|ほどアツくなる",
+          "startMs": 60294,
+          "text": "ほどアツくなる"
+        },
+        {
+          "key": "62400|Feel your frustration　",
+          "startMs": 62400,
+          "text": "Feel your frustration　"
+        },
+        {
+          "key": "65316|あなたの叫びを",
+          "startMs": 65316,
+          "text": "あなたの叫びを"
+        },
+        {
+          "key": "70180|Taste your vibration　",
+          "startMs": 70180,
+          "text": "Taste your vibration　"
+        },
+        {
+          "key": "73898|震える程に感じてる",
+          "startMs": 73898,
+          "text": "震える程に感じてる"
+        },
+        {
+          "key": "77960|Rage your dream　",
+          "startMs": 77960,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "79212|時を駆け抜けてゆく",
+          "startMs": 79212,
+          "text": "時を駆け抜けてゆく"
+        },
+        {
+          "key": "82067|風も　光満ちてゆく",
+          "startMs": 82067,
+          "text": "風も　光満ちてゆく"
+        },
+        {
+          "key": "85785|Rage your dream　",
+          "startMs": 85785,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "86839|待っていることだけを",
+          "startMs": 86839,
+          "text": "待っていることだけを"
+        },
+        {
+          "key": "89949|Feel the wind　",
+          "startMs": 89949,
+          "text": "Feel the wind　"
+        },
+        {
+          "key": "90949|忘れないでいて",
+          "startMs": 90949,
+          "text": "忘れないでいて"
+        },
+        {
+          "key": "93959|Rage your dream　",
+          "startMs": 93959,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "94862|続く果てない道を",
+          "startMs": 94862,
+          "text": "続く果てない道を"
+        },
+        {
+          "key": "97604|愛も過去も振り向かず",
+          "startMs": 97604,
+          "text": "愛も過去も振り向かず"
+        },
+        {
+          "key": "101920|ゆける　あなた輝いている",
+          "startMs": 101920,
+          "text": "ゆける　あなた輝いている"
+        },
+        {
+          "key": "105879|Rage your dream　",
+          "startMs": 105879,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "106930|今を生きている",
+          "startMs": 106930,
+          "text": "今を生きている"
+        },
+        {
+          "key": "110527|My pride says ",
+          "startMs": 110527,
+          "text": "My pride says "
+        },
+        {
+          "key": "111329|You gatta be ",
+          "startMs": 111329,
+          "text": "You gatta be "
+        },
+        {
+          "key": "112082|wild ＆ tough",
+          "startMs": 112082,
+          "text": "wild ＆ tough"
+        },
+        {
+          "key": "112683|そう　他人は介在しない",
+          "startMs": 112683,
+          "text": "そう　他人は介在しない"
+        },
+        {
+          "key": "114847|never stop　",
+          "startMs": 114847,
+          "text": "never stop　"
+        },
+        {
+          "key": "115297|止まりたくない",
+          "startMs": 115297,
+          "text": "止まりたくない"
+        },
+        {
+          "key": "116954|犠牲になった愛がcryしても",
+          "startMs": 116954,
+          "text": "犠牲になった愛がcryしても"
+        },
+        {
+          "key": "118961|Peak目指して",
+          "startMs": 118961,
+          "text": "Peak目指して"
+        },
+        {
+          "key": "120067|sweep the winding street",
+          "startMs": 120067,
+          "text": "sweep the winding street"
+        },
+        {
+          "key": "120719|Beep beep!　",
+          "startMs": 120719,
+          "text": "Beep beep!　"
+        },
+        {
+          "key": "121520|警告者はso cheap",
+          "startMs": 121520,
+          "text": "警告者はso cheap"
+        },
+        {
+          "key": "122628|Sheep達は道をあけろ",
+          "startMs": 122628,
+          "text": "Sheep達は道をあけろ"
+        },
+        {
+          "key": "123985|Cos I'm never gonna ",
+          "startMs": 123985,
+          "text": "Cos I'm never gonna "
+        },
+        {
+          "key": "124790|stop streak my dream",
+          "startMs": 124790,
+          "text": "stop streak my dream"
+        },
+        {
+          "key": "126430|Easyなmotivation　",
+          "startMs": 126430,
+          "text": "Easyなmotivation　"
+        },
+        {
+          "key": "128395|すべてはsimulation",
+          "startMs": 128395,
+          "text": "すべてはsimulation"
+        },
+        {
+          "key": "130253|逃げてみたって　",
+          "startMs": 130253,
+          "text": "逃げてみたって　"
+        },
+        {
+          "key": "132458|何処でもsafety zone",
+          "startMs": 132458,
+          "text": "何処でもsafety zone"
+        },
+        {
+          "key": "134418|何かを手に入れて　",
+          "startMs": 134418,
+          "text": "何かを手に入れて　"
+        },
+        {
+          "key": "136582|何かを忘れてく",
+          "startMs": 136582,
+          "text": "何かを忘れてく"
+        },
+        {
+          "key": "138347|世界が壊れても　",
+          "startMs": 138347,
+          "text": "世界が壊れても　"
+        },
+        {
+          "key": "140455|変わらない",
+          "startMs": 140455,
+          "text": "変わらない"
+        },
+        {
+          "key": "142266|Beasty shout　",
+          "startMs": 142266,
+          "text": "Beasty shout　"
+        },
+        {
+          "key": "144476|誰の手にさえ負えない",
+          "startMs": 144476,
+          "text": "誰の手にさえ負えない"
+        },
+        {
+          "key": "150150|激しい夢　",
+          "startMs": 150150,
+          "text": "激しい夢　"
+        },
+        {
+          "key": "153857|時間さえも今越えてく",
+          "startMs": 153857,
+          "text": "時間さえも今越えてく"
+        },
+        {
+          "key": "157974|Rage your dream　",
+          "startMs": 157974,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "159174|風の中で眩しく",
+          "startMs": 159174,
+          "text": "風の中で眩しく"
+        },
+        {
+          "key": "161887|叫ぶあなた　夢達と",
+          "startMs": 161887,
+          "text": "叫ぶあなた　夢達と"
+        },
+        {
+          "key": "166057|Rage your dream　",
+          "startMs": 166057,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "166963|鼓動止まる位に",
+          "startMs": 166963,
+          "text": "鼓動止まる位に"
+        },
+        {
+          "key": "169774|I can feel　",
+          "startMs": 169774,
+          "text": "I can feel　"
+        },
+        {
+          "key": "170976|強く感じてる",
+          "startMs": 170976,
+          "text": "強く感じてる"
+        },
+        {
+          "key": "173938|Rage your dream　",
+          "startMs": 173938,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "174997|闇をはり裂いていく",
+          "startMs": 174997,
+          "text": "闇をはり裂いていく"
+        },
+        {
+          "key": "178057|Like a streak ",
+          "startMs": 178057,
+          "text": "Like a streak "
+        },
+        {
+          "key": "178916|to the peak　世界中の",
+          "startMs": 178916,
+          "text": "to the peak　世界中の"
+        },
+        {
+          "key": "182031|凍えきった夜を消してく",
+          "startMs": 182031,
+          "text": "凍えきった夜を消してく"
+        },
+        {
+          "key": "186255|Rage your dream　",
+          "startMs": 186255,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "187006|道を開いてく",
+          "startMs": 187006,
+          "text": "道を開いてく"
+        },
+        {
+          "key": "190013|Di-ding dang another round, ",
+          "startMs": 190013,
+          "text": "Di-ding dang another round, "
+        },
+        {
+          "key": "191767|never slowdown",
+          "startMs": 191767,
+          "text": "never slowdown"
+        },
+        {
+          "key": "192169|コンマゼロイチ秒でKnock down",
+          "startMs": 192169,
+          "text": "コンマゼロイチ秒でKnock down"
+        },
+        {
+          "key": "194682|余韻残し消えてこう",
+          "startMs": 194682,
+          "text": "余韻残し消えてこう"
+        },
+        {
+          "key": "196389|to the next town",
+          "startMs": 196389,
+          "text": "to the next town"
+        },
+        {
+          "key": "196993|埃舞う　敗者地に這う",
+          "startMs": 196993,
+          "text": "埃舞う　敗者地に這う"
+        },
+        {
+          "key": "198896|理屈だけのノーガキ達",
+          "startMs": 198896,
+          "text": "理屈だけのノーガキ達"
+        },
+        {
+          "key": "200600|邪魔クサイから",
+          "startMs": 200600,
+          "text": "邪魔クサイから"
+        },
+        {
+          "key": "201856|シカトしていこう",
+          "startMs": 201856,
+          "text": "シカトしていこう"
+        },
+        {
+          "key": "202961|Streaker去っていく",
+          "startMs": 202961,
+          "text": "Streaker去っていく"
+        },
+        {
+          "key": "204730|Streetの向こう",
+          "startMs": 204730,
+          "text": "Streetの向こう"
+        },
+        {
+          "key": "205533|Something they would know",
+          "startMs": 205533,
+          "text": "Something they would know"
+        },
+        {
+          "key": "206136|Rage your dream　",
+          "startMs": 206136,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "207142|時を駆け抜けてゆく",
+          "startMs": 207142,
+          "text": "時を駆け抜けてゆく"
+        },
+        {
+          "key": "209957|風も　光満ちてゆく",
+          "startMs": 209957,
+          "text": "風も　光満ちてゆく"
+        },
+        {
+          "key": "213917|Rage your dream　",
+          "startMs": 213917,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "214967|待っていることだけを",
+          "startMs": 214967,
+          "text": "待っていることだけを"
+        },
+        {
+          "key": "217936|Feel the wind　",
+          "startMs": 217936,
+          "text": "Feel the wind　"
+        },
+        {
+          "key": "218993|忘れないでいて",
+          "startMs": 218993,
+          "text": "忘れないでいて"
+        },
+        {
+          "key": "221810|Rage your dream　",
+          "startMs": 221810,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "222969|続く果てない道を",
+          "startMs": 222969,
+          "text": "続く果てない道を"
+        },
+        {
+          "key": "225980|愛も過去も振り向かず",
+          "startMs": 225980,
+          "text": "愛も過去も振り向かず"
+        },
+        {
+          "key": "229897|ゆける　あなた輝いている",
+          "startMs": 229897,
+          "text": "ゆける　あなた輝いている"
+        },
+        {
+          "key": "233415|Rage your dream　",
+          "startMs": 233415,
+          "text": "Rage your dream　"
+        },
+        {
+          "key": "234919|今を生きている",
+          "startMs": 234919,
+          "text": "今を生きている"
+        }
+      ]
+    },
+    {
+      "rank": 690,
+      "songKey": "online:kugou:abfddb8044ec4f0da8e07197a413d9ef",
+      "name": "Tremble (战栗)(Original Mix)",
+      "artist": "Vicetone",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

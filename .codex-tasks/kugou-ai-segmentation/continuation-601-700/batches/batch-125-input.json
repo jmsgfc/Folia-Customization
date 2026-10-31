@@ -1,0 +1,705 @@
+{
+  "batchNumber": 125,
+  "songs": [
+    {
+      "rank": 621,
+      "songKey": "online:kugou:7533f71ef9c3df3272ffacc902169591",
+      "name": "满天星辰不及你 (2022青岛大学毕业典礼现场)",
+      "artist": "华语群星",
+      "lines": [
+        {
+          "key": "4|华语群星 - 满天星辰不及你 (2022青岛大学毕业典礼现场)",
+          "startMs": 4,
+          "text": "华语群星 - 满天星辰不及你 (2022青岛大学毕业典礼现场)"
+        },
+        {
+          "key": "2447|作词：张英湘",
+          "startMs": 2447,
+          "text": "作词：张英湘"
+        },
+        {
+          "key": "3719|作曲：文扬",
+          "startMs": 3719,
+          "text": "作曲：文扬"
+        },
+        {
+          "key": "4981|编曲：Mzf小慕",
+          "startMs": 4981,
+          "text": "编曲：Mzf小慕"
+        },
+        {
+          "key": "12930|晚风里藏着 多少精灵",
+          "startMs": 12930,
+          "text": "晚风里藏着 多少精灵"
+        },
+        {
+          "key": "19537|满天的星辰 都被唤醒",
+          "startMs": 19537,
+          "text": "满天的星辰 都被唤醒"
+        },
+        {
+          "key": "26518|白天那些 流放的光明",
+          "startMs": 26518,
+          "text": "白天那些 流放的光明"
+        },
+        {
+          "key": "32452|剪接成夜空 仰望的风景",
+          "startMs": 32452,
+          "text": "剪接成夜空 仰望的风景"
+        },
+        {
+          "key": "39967|看天台上路过 几颗流星",
+          "startMs": 39967,
+          "text": "看天台上路过 几颗流星"
+        },
+        {
+          "key": "43153|说出口的誓言 会有回音",
+          "startMs": 43153,
+          "text": "说出口的誓言 会有回音"
+        },
+        {
+          "key": "46503|那就让我们 勇敢的约定",
+          "startMs": 46503,
+          "text": "那就让我们 勇敢的约定"
+        },
+        {
+          "key": "49099|对星空指尖 画出了心形",
+          "startMs": 49099,
+          "text": "对星空指尖 画出了心形"
+        },
+        {
+          "key": "52503|星际闪耀光影 落入你的眼睛",
+          "startMs": 52503,
+          "text": "星际闪耀光影 落入你的眼睛"
+        },
+        {
+          "key": "55965|如迷人的水晶 把浪漫放映",
+          "startMs": 55965,
+          "text": "如迷人的水晶 把浪漫放映"
+        },
+        {
+          "key": "59316|爱是种魔法 给我们指引",
+          "startMs": 59316,
+          "text": "爱是种魔法 给我们指引"
+        },
+        {
+          "key": "62628|穿过黑暗森林 去寻找黎明",
+          "startMs": 62628,
+          "text": "穿过黑暗森林 去寻找黎明"
+        },
+        {
+          "key": "65882|星际洒下光影 点亮你的眼睛",
+          "startMs": 65882,
+          "text": "星际洒下光影 点亮你的眼睛"
+        },
+        {
+          "key": "69248|像缤纷的梦境 我不愿苏醒",
+          "startMs": 69248,
+          "text": "像缤纷的梦境 我不愿苏醒"
+        },
+        {
+          "key": "72608|余生的光阴 牵你手前行",
+          "startMs": 72608,
+          "text": "余生的光阴 牵你手前行"
+        },
+        {
+          "key": "75709|我们共赴一场 光年的旅行",
+          "startMs": 75709,
+          "text": "我们共赴一场 光年的旅行"
+        },
+        {
+          "key": "82918|星际闪耀光影 落入你的眼睛",
+          "startMs": 82918,
+          "text": "星际闪耀光影 落入你的眼睛"
+        },
+        {
+          "key": "86030|如迷人的水晶 把浪漫放映",
+          "startMs": 86030,
+          "text": "如迷人的水晶 把浪漫放映"
+        },
+        {
+          "key": "89444|爱是种魔法 给我们指引",
+          "startMs": 89444,
+          "text": "爱是种魔法 给我们指引"
+        },
+        {
+          "key": "92751|穿过黑暗森林 去寻找黎明",
+          "startMs": 92751,
+          "text": "穿过黑暗森林 去寻找黎明"
+        },
+        {
+          "key": "95811|星际洒下光影 点亮你的眼睛",
+          "startMs": 95811,
+          "text": "星际洒下光影 点亮你的眼睛"
+        },
+        {
+          "key": "99214|像缤纷的梦境 我不愿苏醒",
+          "startMs": 99214,
+          "text": "像缤纷的梦境 我不愿苏醒"
+        },
+        {
+          "key": "102577|余生的光阴 牵你手前行",
+          "startMs": 102577,
+          "text": "余生的光阴 牵你手前行"
+        },
+        {
+          "key": "106059|我们共赴一场 光年的旅行",
+          "startMs": 106059,
+          "text": "我们共赴一场 光年的旅行"
+        }
+      ]
+    },
+    {
+      "rank": 622,
+      "songKey": "online:kugou:d55df11dcc5307d838f802628064c8d8",
+      "name": "Water (Original Mix)",
+      "artist": "LeeAlive",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 623,
+      "songKey": "online:kugou:a93e5ad84b48aafbaa654dd45b476fc7",
+      "name": "Nijamena",
+      "artist": "Anurag Kulkarni / Anup Rubens",
+      "lines": [
+        {
+          "key": "55|Anurag Kulkarni、Anup Rubens - Nijamena (From \"Sita\")",
+          "startMs": 55,
+          "text": "Anurag Kulkarni、Anup Rubens - Nijamena (From \"Sita\")"
+        },
+        {
+          "key": "2836|Lyrics by：Lakshmi Bhupal",
+          "startMs": 2836,
+          "text": "Lyrics by：Lakshmi Bhupal"
+        },
+        {
+          "key": "3907|Composed by：Lakshmi Bhupal",
+          "startMs": 3907,
+          "text": "Composed by：Lakshmi Bhupal"
+        },
+        {
+          "key": "43665|ఎవరది ఎవరది ఎద గదిలో",
+          "startMs": 43665,
+          "text": "ఎవరది ఎవరది ఎద గదిలో"
+        },
+        {
+          "key": "48520|తలపుల తలుపులు తెరిచినది",
+          "startMs": 48520,
+          "text": "తలపుల తలుపులు తెరిచినది"
+        },
+        {
+          "key": "55607|నిజమేనా నిజమేనా",
+          "startMs": 55607,
+          "text": "నిజమేనా నిజమేనా"
+        },
+        {
+          "key": "60519|వెతికే ప్రాణమే ఎదురైనదా",
+          "startMs": 60519,
+          "text": "వెతికే ప్రాణమే ఎదురైనదా"
+        },
+        {
+          "key": "65626|అలిసైనా కలిసేనా",
+          "startMs": 65626,
+          "text": "అలిసైనా కలిసేనా"
+        },
+        {
+          "key": "70674|ఇకపై వీడని ముడి పడినదా",
+          "startMs": 70674,
+          "text": "ఇకపై వీడని ముడి పడినదా"
+        },
+        {
+          "key": "75599|అలనై మనసంచునా",
+          "startMs": 75599,
+          "text": "అలనై మనసంచునా"
+        },
+        {
+          "key": "81001|ఇష్టంగా తల వంచనా",
+          "startMs": 81001,
+          "text": "ఇష్టంగా తల వంచనా"
+        },
+        {
+          "key": "85829|నీ కోసం నీ కోసం",
+          "startMs": 85829,
+          "text": "నీ కోసం నీ కోసం"
+        },
+        {
+          "key": "90912|వేచుందే ఈ ప్రాణం",
+          "startMs": 90912,
+          "text": "వేచుందే ఈ ప్రాణం"
+        },
+        {
+          "key": "95952|నిజమేనా నిజమేనా",
+          "startMs": 95952,
+          "text": "నిజమేనా నిజమేనా"
+        },
+        {
+          "key": "100953|వెతికే ప్రాణమే ఎదురైనదా",
+          "startMs": 100953,
+          "text": "వెతికే ప్రాణమే ఎదురైనదా"
+        },
+        {
+          "key": "106002|అలిసైనా కలిసేనా",
+          "startMs": 106002,
+          "text": "అలిసైనా కలిసేనా"
+        },
+        {
+          "key": "111052|ఇకపై వీడని ముడి పడినదా ఆ ఆ",
+          "startMs": 111052,
+          "text": "ఇకపై వీడని ముడి పడినదా ఆ ఆ"
+        },
+        {
+          "key": "151739|లలలలా లలలలా లలల లాల",
+          "startMs": 151739,
+          "text": "లలలలా లలలలా లలల లాల"
+        },
+        {
+          "key": "157679|లాల లాల లాలా లాలా లాలా లా",
+          "startMs": 157679,
+          "text": "లాల లాల లాలా లాలా లాలా లా"
+        }
+      ]
+    },
+    {
+      "rank": 624,
+      "songKey": "online:kugou:9f10552704502a3c5ba7edfd1cb12236",
+      "name": "Closer (80s Remix)",
+      "artist": "TRONICBOX / The Chainsmokers / Halsey",
+      "lines": [
+        {
+          "key": "0|TRONICBOX、The Chainsmokers、Halsey - Closer (80s Remix)",
+          "startMs": 0,
+          "text": "TRONICBOX、The Chainsmokers、Halsey - Closer (80s Remix)"
+        },
+        {
+          "key": "10950|Written by：Halsey/Shaun Frank/Frederic Kennett",
+          "startMs": 10950,
+          "text": "Written by：Halsey/Shaun Frank/Frederic Kennett"
+        },
+        {
+          "key": "21913|Hey I was doing just fine before I met you",
+          "startMs": 21913,
+          "text": "Hey I was doing just fine before I met you"
+        },
+        {
+          "key": "26095|I drink too much",
+          "startMs": 26095,
+          "text": "I drink too much"
+        },
+        {
+          "key": "27227|And that's an issue but I'm okay",
+          "startMs": 27227,
+          "text": "And that's an issue but I'm okay"
+        },
+        {
+          "key": "31960|Hey you tell your friends",
+          "startMs": 31960,
+          "text": "Hey you tell your friends"
+        },
+        {
+          "key": "34894|It was nice to meet them",
+          "startMs": 34894,
+          "text": "It was nice to meet them"
+        },
+        {
+          "key": "36364|But I hope I never see them again",
+          "startMs": 36364,
+          "text": "But I hope I never see them again"
+        },
+        {
+          "key": "42982|I know it breaks your heart",
+          "startMs": 42982,
+          "text": "I know it breaks your heart"
+        },
+        {
+          "key": "44545|Moved to the city in a broke down car",
+          "startMs": 44545,
+          "text": "Moved to the city in a broke down car"
+        },
+        {
+          "key": "46749|And four years no calls",
+          "startMs": 46749,
+          "text": "And four years no calls"
+        },
+        {
+          "key": "49560|Now you're lookin' pretty in a hotel bar",
+          "startMs": 49560,
+          "text": "Now you're lookin' pretty in a hotel bar"
+        },
+        {
+          "key": "51891|And I I I can't stop",
+          "startMs": 51891,
+          "text": "And I I I can't stop"
+        },
+        {
+          "key": "56874|No I I I can't stop",
+          "startMs": 56874,
+          "text": "No I I I can't stop"
+        },
+        {
+          "key": "61857|So baby pull me closer",
+          "startMs": 61857,
+          "text": "So baby pull me closer"
+        },
+        {
+          "key": "64142|In the backseat of your rover",
+          "startMs": 64142,
+          "text": "In the backseat of your rover"
+        },
+        {
+          "key": "66631|That I know you can't afford",
+          "startMs": 66631,
+          "text": "That I know you can't afford"
+        },
+        {
+          "key": "69079|Bite that tattoo on your shoulder",
+          "startMs": 69079,
+          "text": "Bite that tattoo on your shoulder"
+        },
+        {
+          "key": "71646|Pull the sheets right off the corner",
+          "startMs": 71646,
+          "text": "Pull the sheets right off the corner"
+        },
+        {
+          "key": "74143|Of the mattress that you stole",
+          "startMs": 74143,
+          "text": "Of the mattress that you stole"
+        },
+        {
+          "key": "76772|From your roommate back in boulder",
+          "startMs": 76772,
+          "text": "From your roommate back in boulder"
+        },
+        {
+          "key": "79440|We ain't ever getting older",
+          "startMs": 79440,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "89625|We ain't ever getting older",
+          "startMs": 89625,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "95138|You look as good as the day I met you",
+          "startMs": 95138,
+          "text": "You look as good as the day I met you"
+        },
+        {
+          "key": "99449|I forget just why I left you I was insane",
+          "startMs": 99449,
+          "text": "I forget just why I left you I was insane"
+        },
+        {
+          "key": "105054|Stay and play that Blink 182 song",
+          "startMs": 105054,
+          "text": "Stay and play that Blink 182 song"
+        },
+        {
+          "key": "109611|That we beat to death in Tucson okay",
+          "startMs": 109611,
+          "text": "That we beat to death in Tucson okay"
+        },
+        {
+          "key": "116160|I know it breaks your heart",
+          "startMs": 116160,
+          "text": "I know it breaks your heart"
+        },
+        {
+          "key": "117738|Moved to the city in a broke down car",
+          "startMs": 117738,
+          "text": "Moved to the city in a broke down car"
+        },
+        {
+          "key": "120102|And four years no call",
+          "startMs": 120102,
+          "text": "And four years no call"
+        },
+        {
+          "key": "122765|Now I'm lookin' pretty in a hotel bar",
+          "startMs": 122765,
+          "text": "Now I'm lookin' pretty in a hotel bar"
+        },
+        {
+          "key": "125161|And I I I can't stop",
+          "startMs": 125161,
+          "text": "And I I I can't stop"
+        },
+        {
+          "key": "130179|No I I I can't stop",
+          "startMs": 130179,
+          "text": "No I I I can't stop"
+        },
+        {
+          "key": "135278|So baby pull me closer",
+          "startMs": 135278,
+          "text": "So baby pull me closer"
+        },
+        {
+          "key": "137340|In the backseat of your rover",
+          "startMs": 137340,
+          "text": "In the backseat of your rover"
+        },
+        {
+          "key": "139914|That I know you can't afford",
+          "startMs": 139914,
+          "text": "That I know you can't afford"
+        },
+        {
+          "key": "142391|Bite that tattoo on your shoulder",
+          "startMs": 142391,
+          "text": "Bite that tattoo on your shoulder"
+        },
+        {
+          "key": "144952|Pull the sheets right off the corner",
+          "startMs": 144952,
+          "text": "Pull the sheets right off the corner"
+        },
+        {
+          "key": "147392|Of the mattress that you stole",
+          "startMs": 147392,
+          "text": "Of the mattress that you stole"
+        },
+        {
+          "key": "149972|From your roommate back in boulder",
+          "startMs": 149972,
+          "text": "From your roommate back in boulder"
+        },
+        {
+          "key": "152380|We ain't ever getting older",
+          "startMs": 152380,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "155480|So baby pull me closer",
+          "startMs": 155480,
+          "text": "So baby pull me closer"
+        },
+        {
+          "key": "157502|In the backseat of your rover",
+          "startMs": 157502,
+          "text": "In the backseat of your rover"
+        },
+        {
+          "key": "160015|That I know you can't afford",
+          "startMs": 160015,
+          "text": "That I know you can't afford"
+        },
+        {
+          "key": "162565|Bite that tattoo on your shoulder",
+          "startMs": 162565,
+          "text": "Bite that tattoo on your shoulder"
+        },
+        {
+          "key": "165373|Pull the sheets right off the corner",
+          "startMs": 165373,
+          "text": "Pull the sheets right off the corner"
+        },
+        {
+          "key": "167579|Of the mattress that you stole",
+          "startMs": 167579,
+          "text": "Of the mattress that you stole"
+        },
+        {
+          "key": "170285|From your roommate back in boulder",
+          "startMs": 170285,
+          "text": "From your roommate back in boulder"
+        },
+        {
+          "key": "172676|We ain't ever getting older",
+          "startMs": 172676,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "201445|So baby pull me closer",
+          "startMs": 201445,
+          "text": "So baby pull me closer"
+        },
+        {
+          "key": "202930|In the backseat of your rover",
+          "startMs": 202930,
+          "text": "In the backseat of your rover"
+        },
+        {
+          "key": "205488|That I know you can't afford",
+          "startMs": 205488,
+          "text": "That I know you can't afford"
+        },
+        {
+          "key": "208030|Bite that tattoo on your shoulder",
+          "startMs": 208030,
+          "text": "Bite that tattoo on your shoulder"
+        },
+        {
+          "key": "210584|Pull the sheets right off the corner",
+          "startMs": 210584,
+          "text": "Pull the sheets right off the corner"
+        },
+        {
+          "key": "213028|Of the mattress that you stole",
+          "startMs": 213028,
+          "text": "Of the mattress that you stole"
+        },
+        {
+          "key": "215656|From your roommate back in boulder",
+          "startMs": 215656,
+          "text": "From your roommate back in boulder"
+        },
+        {
+          "key": "218104|We ain't ever getting older",
+          "startMs": 218104,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "221046|So baby pull me closer",
+          "startMs": 221046,
+          "text": "So baby pull me closer"
+        },
+        {
+          "key": "223188|In the backseat of your rover",
+          "startMs": 223188,
+          "text": "In the backseat of your rover"
+        },
+        {
+          "key": "225729|That I know you can't afford",
+          "startMs": 225729,
+          "text": "That I know you can't afford"
+        },
+        {
+          "key": "228241|Bite that tattoo on your shoulder",
+          "startMs": 228241,
+          "text": "Bite that tattoo on your shoulder"
+        },
+        {
+          "key": "230757|Pull the sheets right off the corner",
+          "startMs": 230757,
+          "text": "Pull the sheets right off the corner"
+        },
+        {
+          "key": "233270|Of the mattress that you stole",
+          "startMs": 233270,
+          "text": "Of the mattress that you stole"
+        },
+        {
+          "key": "235862|From your roommate back in boulder",
+          "startMs": 235862,
+          "text": "From your roommate back in boulder"
+        },
+        {
+          "key": "238375|We ain't ever getting older",
+          "startMs": 238375,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "241352|We ain't ever getting older",
+          "startMs": 241352,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "243526|We ain't ever getting older",
+          "startMs": 243526,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "245916|We ain't ever getting older",
+          "startMs": 245916,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "248460|We ain't ever getting older",
+          "startMs": 248460,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "250982|We ain't ever getting older",
+          "startMs": 250982,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "253583|We ain't ever getting older",
+          "startMs": 253583,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "256180|We ain't ever getting older",
+          "startMs": 256180,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "258590|We ain't ever getting older",
+          "startMs": 258590,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "269157|We ain't ever getting older",
+          "startMs": 269157,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "275218|We ain't ever getting older",
+          "startMs": 275218,
+          "text": "We ain't ever getting older"
+        }
+      ]
+    },
+    {
+      "rank": 625,
+      "songKey": "online:kugou:59adfdd52709ce841fe3873925de7178",
+      "name": "Nijamena",
+      "artist": "Anurag Kulkarni / Anup Rubens",
+      "lines": [
+        {
+          "key": "0|Anurag Kulkarni、Anup Rubens - Nijamena",
+          "startMs": 0,
+          "text": "Anurag Kulkarni、Anup Rubens - Nijamena"
+        },
+        {
+          "key": "233|ఎవరది ఎవరది ఎద గదిలో",
+          "startMs": 233,
+          "text": "ఎవరది ఎవరది ఎద గదిలో"
+        },
+        {
+          "key": "5243|తలపుల తలుపులు తెరిచినది",
+          "startMs": 5243,
+          "text": "తలపుల తలుపులు తెరిచినది"
+        },
+        {
+          "key": "12464|నిజమేనా నిజమేనా వెతికే ప్రాణమే ఎదురైనదా",
+          "startMs": 12464,
+          "text": "నిజమేనా నిజమేనా వెతికే ప్రాణమే ఎదురైనదా"
+        },
+        {
+          "key": "22273|అలిసైనా కలిసేనా ఇకపై వీడని ముడి పడినదా",
+          "startMs": 22273,
+          "text": "అలిసైనా కలిసేనా ఇకపై వీడని ముడి పడినదా"
+        },
+        {
+          "key": "32430|అలనై మనసంచున ఇష్టంగా తల వంచనా",
+          "startMs": 32430,
+          "text": "అలనై మనసంచున ఇష్టంగా తల వంచనా"
+        },
+        {
+          "key": "42454|నీకోసం నీకోసం వేచుందే ఈ ప్రాణం",
+          "startMs": 42454,
+          "text": "నీకోసం నీకోసం వేచుందే ఈ ప్రాణం"
+        },
+        {
+          "key": "52681|నిజమేనా నిజమేనా వెతికే ప్రాణమే ఎదురైనదా",
+          "startMs": 52681,
+          "text": "నిజమేనా నిజమేనా వెతికే ప్రాణమే ఎదురైనదా"
+        },
+        {
+          "key": "62642|అలిసైనా కలిసేనా ఇకపై వీడని ముడి పడినదా ఆ",
+          "startMs": 62642,
+          "text": "అలిసైనా కలిసేనా ఇకపై వీడని ముడి పడినదా ఆ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:acf149369dfb0db5c36de8a4268c00e8",
+      "lines": [
+        {
+          "key": "384|Paula DeAnda - Why Would I Ever",
+          "text": "Paula DeAnda - Why Would I Ever",
+          "segments": [
+            "Paula DeAnda",
+            " - ",
+            "Why Would I Ever"
+          ]
+        },
+        {
+          "key": "7234|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "8298|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "9464|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "13664|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "14881|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "16158|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "20366|Wait a minute baby tell me what's up lately",
+          "text": "Wait a minute baby tell me what's up lately",
+          "segments": [
+            "Wait ",
+            "a ",
+            "minute ",
+            "baby ",
+            "tell ",
+            "me ",
+            "what's ",
+            "up ",
+            "lately"
+          ]
+        },
+        {
+          "key": "23464|I've been knowing you too long",
+          "text": "I've been knowing you too long",
+          "segments": [
+            "I've ",
+            "been ",
+            "knowing ",
+            "you ",
+            "too ",
+            "long"
+          ]
+        },
+        {
+          "key": "26815|Why you hiding something",
+          "text": "Why you hiding something",
+          "segments": [
+            "Why ",
+            "you ",
+            "hiding ",
+            "something"
+          ]
+        },
+        {
+          "key": "28531|Thought we was through with fronting",
+          "text": "Thought we was through with fronting",
+          "segments": [
+            "Thought ",
+            "we ",
+            "was ",
+            "through ",
+            "with ",
+            "fronting"
+          ]
+        },
+        {
+          "key": "30104|I can tell there's something wrong I can tell",
+          "text": "I can tell there's something wrong I can tell",
+          "segments": [
+            "I ",
+            "can ",
+            "tell ",
+            "there's ",
+            "something ",
+            "wrong ",
+            "I ",
+            "can ",
+            "tell"
+          ]
+        },
+        {
+          "key": "33500|How could you even think that",
+          "text": "How could you even think that",
+          "segments": [
+            "How ",
+            "could ",
+            "you ",
+            "even ",
+            "think ",
+            "that"
+          ]
+        },
+        {
+          "key": "35145|I wouldn't have your back",
+          "text": "I wouldn't have your back",
+          "segments": [
+            "I ",
+            "wouldn't ",
+            "have ",
+            "your ",
+            "back"
+          ]
+        },
+        {
+          "key": "36817|It's me and you against the world",
+          "text": "It's me and you against the world",
+          "segments": [
+            "It's ",
+            "me ",
+            "and ",
+            "you ",
+            "against ",
+            "the ",
+            "world"
+          ]
+        },
+        {
+          "key": "40054|No matter what we go through",
+          "text": "No matter what we go through",
+          "segments": [
+            "No ",
+            "matter ",
+            "what ",
+            "we ",
+            "go ",
+            "through"
+          ]
+        },
+        {
+          "key": "41879|I'ma always roll with you",
+          "text": "I'ma always roll with you",
+          "segments": [
+            "I'ma ",
+            "always ",
+            "roll ",
+            "with ",
+            "you"
+          ]
+        },
+        {
+          "key": "43554|I promise I'll be your girl",
+          "text": "I promise I'll be your girl",
+          "segments": [
+            "I ",
+            "promise ",
+            "I'll ",
+            "be ",
+            "your ",
+            "girl"
+          ]
+        },
+        {
+          "key": "47047|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "48265|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "49532|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "53642|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "54913|Baby I'll never",
+          "text": "Baby I'll never",
+          "segments": [
+            "Baby ",
+            "I'll ",
+            "never"
+          ]
+        },
+        {
+          "key": "56181|Cos I just wanna know how to get through",
+          "text": "Cos I just wanna know how to get through",
+          "segments": [
+            "Cos ",
+            "I ",
+            "just ",
+            "wanna ",
+            "know ",
+            "how ",
+            "to ",
+            "get ",
+            "through"
+          ]
+        },
+        {
+          "key": "59671|Cos you put together every piece of me",
+          "text": "Cos you put together every piece of me",
+          "segments": [
+            "Cos ",
+            "you ",
+            "put ",
+            "together ",
+            "every ",
+            "piece ",
+            "of ",
+            "me"
+          ]
+        },
+        {
+          "key": "62744|Baby you you know exactly what I need to be",
+          "text": "Baby you you know exactly what I need to be",
+          "segments": [
+            "Baby ",
+            "you ",
+            "you ",
+            "know ",
+            "exactly ",
+            "what ",
+            "I ",
+            "need ",
+            "to ",
+            "be"
+          ]
+        },
+        {
+          "key": "66091|So tell me",
+          "text": "So tell me",
+          "segments": [
+            "So ",
+            "tell ",
+            "me"
+          ]
+        },
+        {
+          "key": "67060|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "68278|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "69543|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "73758|Wait a minute hold up",
+          "text": "Wait a minute hold up",
+          "segments": [
+            "Wait ",
+            "a ",
+            "minute ",
+            "hold ",
+            "up"
+          ]
+        },
+        {
+          "key": "75169|They said when you rolled up",
+          "text": "They said when you rolled up",
+          "segments": [
+            "They ",
+            "said ",
+            "when ",
+            "you ",
+            "rolled ",
+            "up"
+          ]
+        },
+        {
+          "key": "76790|You was yelling off the chain",
+          "text": "You was yelling off the chain",
+          "segments": [
+            "You ",
+            "was ",
+            "yelling ",
+            "off ",
+            "the ",
+            "chain"
+          ]
+        },
+        {
+          "key": "80136|You're mad when I can't make time",
+          "text": "You're mad when I can't make time",
+          "segments": [
+            "You're ",
+            "mad ",
+            "when ",
+            "I ",
+            "can't ",
+            "make ",
+            "time"
+          ]
+        },
+        {
+          "key": "81806|Should of known that I'm on my grind",
+          "text": "Should of known that I'm on my grind",
+          "segments": [
+            "Should ",
+            "of ",
+            "known ",
+            "that ",
+            "I'm ",
+            "on ",
+            "my ",
+            "grind"
+          ]
+        },
+        {
+          "key": "83481|Baby know it's all on your brain",
+          "text": "Baby know it's all on your brain",
+          "segments": [
+            "Baby ",
+            "know ",
+            "it's ",
+            "all ",
+            "on ",
+            "your ",
+            "brain"
+          ]
+        },
+        {
+          "key": "86749|Now we've been through some problems",
+          "text": "Now we've been through some problems",
+          "segments": [
+            "Now ",
+            "we've ",
+            "been ",
+            "through ",
+            "some ",
+            "problems"
+          ]
+        },
+        {
+          "key": "88465|Trust me we can solve them",
+          "text": "Trust me we can solve them",
+          "segments": [
+            "Trust ",
+            "me ",
+            "we ",
+            "can ",
+            "solve ",
+            "them"
+          ]
+        },
+        {
+          "key": "90139|We got too much in it to lose so much in it",
+          "text": "We got too much in it to lose so much in it",
+          "segments": [
+            "We ",
+            "got ",
+            "too ",
+            "much ",
+            "in ",
+            "it ",
+            "to ",
+            "lose ",
+            "so ",
+            "much ",
+            "in ",
+            "it"
+          ]
+        },
+        {
+          "key": "93433|You've always been my best friend",
+          "text": "You've always been my best friend",
+          "segments": [
+            "You've ",
+            "always ",
+            "been ",
+            "my ",
+            "best ",
+            "friend"
+          ]
+        },
+        {
+          "key": "95059|Stop placing your bets when",
+          "text": "Stop placing your bets when",
+          "segments": [
+            "Stop ",
+            "placing ",
+            "your ",
+            "bets ",
+            "when"
+          ]
+        },
+        {
+          "key": "96858|Baby I'm not leaving you I'm not leaving you",
+          "text": "Baby I'm not leaving you I'm not leaving you",
+          "segments": [
+            "Baby ",
+            "I'm ",
+            "not ",
+            "leaving ",
+            "you ",
+            "I'm ",
+            "not ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "100462|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "101626|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "102789|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "106997|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "108215|Baby I'll never",
+          "text": "Baby I'll never",
+          "segments": [
+            "Baby ",
+            "I'll ",
+            "never"
+          ]
+        },
+        {
+          "key": "109432|Cos I just wanna know how to get through",
+          "text": "Cos I just wanna know how to get through",
+          "segments": [
+            "Cos ",
+            "I ",
+            "just ",
+            "wanna ",
+            "know ",
+            "how ",
+            "to ",
+            "get ",
+            "through"
+          ]
+        },
+        {
+          "key": "112959|Cos you put together every piece of me",
+          "text": "Cos you put together every piece of me",
+          "segments": [
+            "Cos ",
+            "you ",
+            "put ",
+            "together ",
+            "every ",
+            "piece ",
+            "of ",
+            "me"
+          ]
+        },
+        {
+          "key": "116218|Baby you you know exactly what I need to be",
+          "text": "Baby you you know exactly what I need to be",
+          "segments": [
+            "Baby ",
+            "you ",
+            "you ",
+            "know ",
+            "exactly ",
+            "what ",
+            "I ",
+            "need ",
+            "to ",
+            "be"
+          ]
+        },
+        {
+          "key": "119555|So tell me",
+          "text": "So tell me",
+          "segments": [
+            "So ",
+            "tell ",
+            "me"
+          ]
+        },
+        {
+          "key": "120369|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "121534|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "122798|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "126544|Tell me why did you ever question",
+          "text": "Tell me why did you ever question",
+          "segments": [
+            "Tell ",
+            "me ",
+            "why ",
+            "did ",
+            "you ",
+            "ever ",
+            "question"
+          ]
+        },
+        {
+          "key": "133065|Between us we got that",
+          "text": "Between us we got that",
+          "segments": [
+            "Between ",
+            "us ",
+            "we ",
+            "got ",
+            "that"
+          ]
+        },
+        {
+          "key": "134786|Have you seen us we got that",
+          "text": "Have you seen us we got that",
+          "segments": [
+            "Have ",
+            "you ",
+            "seen ",
+            "us ",
+            "we ",
+            "got ",
+            "that"
+          ]
+        },
+        {
+          "key": "137221|We got that love",
+          "text": "We got that love",
+          "segments": [
+            "We ",
+            "got ",
+            "that ",
+            "love"
+          ]
+        },
+        {
+          "key": "147100|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "148265|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "149429|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "153645|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "154910|Baby I'll never",
+          "text": "Baby I'll never",
+          "segments": [
+            "Baby ",
+            "I'll ",
+            "never"
+          ]
+        },
+        {
+          "key": "156123|Cos I just wanna know how to get through",
+          "text": "Cos I just wanna know how to get through",
+          "segments": [
+            "Cos ",
+            "I ",
+            "just ",
+            "wanna ",
+            "know ",
+            "how ",
+            "to ",
+            "get ",
+            "through"
+          ]
+        },
+        {
+          "key": "159893|Cos you put together every piece of me",
+          "text": "Cos you put together every piece of me",
+          "segments": [
+            "Cos ",
+            "you ",
+            "put ",
+            "together ",
+            "every ",
+            "piece ",
+            "of ",
+            "me"
+          ]
+        },
+        {
+          "key": "162979|Baby you you know exactly what I need to be",
+          "text": "Baby you you know exactly what I need to be",
+          "segments": [
+            "Baby ",
+            "you ",
+            "you ",
+            "know ",
+            "exactly ",
+            "what ",
+            "I ",
+            "need ",
+            "to ",
+            "be"
+          ]
+        },
+        {
+          "key": "166155|So tell me",
+          "text": "So tell me",
+          "segments": [
+            "So ",
+            "tell ",
+            "me"
+          ]
+        },
+        {
+          "key": "167017|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "168181|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "169397|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "173502|I'm not leaving you no I'm not leaving you",
+          "text": "I'm not leaving you no I'm not leaving you",
+          "segments": [
+            "I'm ",
+            "not ",
+            "leaving ",
+            "you ",
+            "no ",
+            "I'm ",
+            "not ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "176696|I won't leave you in the cold in the cold",
+          "text": "I won't leave you in the cold in the cold",
+          "segments": [
+            "I ",
+            "won't ",
+            "leave ",
+            "you ",
+            "in ",
+            "the ",
+            "cold ",
+            "in ",
+            "the ",
+            "cold"
+          ]
+        },
+        {
+          "key": "180046|I'm not leaving you I'm not leaving you",
+          "text": "I'm not leaving you I'm not leaving you",
+          "segments": [
+            "I'm ",
+            "not ",
+            "leaving ",
+            "you ",
+            "I'm ",
+            "not ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "183451|Baby I know I love you",
+          "text": "Baby I know I love you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "know ",
+            "I ",
+            "love ",
+            "you"
+          ]
+        },
+        {
+          "key": "187047|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "188210|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "189524|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        },
+        {
+          "key": "193673|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "194938|Why would I ever",
+          "text": "Why would I ever",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever"
+          ]
+        },
+        {
+          "key": "196152|Why would I ever think of leaving you",
+          "text": "Why would I ever think of leaving you",
+          "segments": [
+            "Why ",
+            "would ",
+            "I ",
+            "ever ",
+            "think ",
+            "of ",
+            "leaving ",
+            "you"
+          ]
+        }
+      ]
+    }
+  ]
+}

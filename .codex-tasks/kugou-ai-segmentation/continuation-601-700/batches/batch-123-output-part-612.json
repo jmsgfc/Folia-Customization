@@ -1,0 +1,18 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:4bac831da27db5ae6b955d90161ba87e",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "text": "纯音乐，请欣赏",
+          "segments": [
+            "纯音乐，",
+            "请",
+            "欣赏"
+          ]
+        }
+      ]
+    }
+  ]
+}

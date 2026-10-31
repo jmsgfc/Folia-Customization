@@ -1,0 +1,717 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:193b72d4456a4cc02a3de7c673fc4e23",
+      "lines": [
+        {
+          "key": "0|Love Story - Taylor Swift",
+          "text": "Love Story - Taylor Swift",
+          "segments": [
+            "Love Story",
+            " - ",
+            "Taylor Swift"
+          ]
+        },
+        {
+          "key": "4050|Lyrics by：Taylor Swift",
+          "text": "Lyrics by：Taylor Swift",
+          "segments": [
+            "Lyrics by：",
+            "Taylor Swift"
+          ]
+        },
+        {
+          "key": "8100|Composed by：Taylor Swift",
+          "text": "Composed by：Taylor Swift",
+          "segments": [
+            "Composed by：",
+            "Taylor Swift"
+          ]
+        },
+        {
+          "key": "12150|Produced by：Nathan Chapman/Taylor Swift",
+          "text": "Produced by：Nathan Chapman/Taylor Swift",
+          "segments": [
+            "Produced by：",
+            "Nathan Chapman",
+            "/",
+            "Taylor Swift"
+          ]
+        },
+        {
+          "key": "16206|We were both young when I first saw you",
+          "text": "We were both young when I first saw you",
+          "segments": [
+            "We ",
+            "were ",
+            "both ",
+            "young ",
+            "when ",
+            "I ",
+            "first ",
+            "saw ",
+            "you"
+          ]
+        },
+        {
+          "key": "19939|I close my eyes and the flashback starts",
+          "text": "I close my eyes and the flashback starts",
+          "segments": [
+            "I ",
+            "close ",
+            "my ",
+            "eyes ",
+            "and ",
+            "the ",
+            "flashback ",
+            "starts"
+          ]
+        },
+        {
+          "key": "23625|I'm standing there on a balcony in summer air",
+          "text": "I'm standing there on a balcony in summer air",
+          "segments": [
+            "I'm ",
+            "standing ",
+            "there ",
+            "on ",
+            "a ",
+            "balcony ",
+            "in ",
+            "summer ",
+            "air"
+          ]
+        },
+        {
+          "key": "32362|See the lights see the party the ball gowns",
+          "text": "See the lights see the party the ball gowns",
+          "segments": [
+            "See ",
+            "the ",
+            "lights ",
+            "see ",
+            "the ",
+            "party ",
+            "the ",
+            "ball ",
+            "gowns"
+          ]
+        },
+        {
+          "key": "36380|See you make your way through the crowd",
+          "text": "See you make your way through the crowd",
+          "segments": [
+            "See ",
+            "you ",
+            "make ",
+            "your ",
+            "way ",
+            "through ",
+            "the ",
+            "crowd"
+          ]
+        },
+        {
+          "key": "39561|And say hello",
+          "text": "And say hello",
+          "segments": [
+            "And ",
+            "say ",
+            "hello"
+          ]
+        },
+        {
+          "key": "43519|Little did I know",
+          "text": "Little did I know",
+          "segments": [
+            "Little ",
+            "did ",
+            "I ",
+            "know"
+          ]
+        },
+        {
+          "key": "48263|That you were Romeo you were throwing pebbles",
+          "text": "That you were Romeo you were throwing pebbles",
+          "segments": [
+            "That ",
+            "you ",
+            "were ",
+            "Romeo ",
+            "you ",
+            "were ",
+            "throwing ",
+            "pebbles"
+          ]
+        },
+        {
+          "key": "52008|And my daddy said",
+          "text": "And my daddy said",
+          "segments": [
+            "And ",
+            "my ",
+            "daddy ",
+            "said"
+          ]
+        },
+        {
+          "key": "53451|Stay away from Juliet",
+          "text": "Stay away from Juliet",
+          "segments": [
+            "Stay ",
+            "away ",
+            "from ",
+            "Juliet"
+          ]
+        },
+        {
+          "key": "55724|And I was crying on the staircase",
+          "text": "And I was crying on the staircase",
+          "segments": [
+            "And ",
+            "I ",
+            "was ",
+            "crying ",
+            "on ",
+            "the ",
+            "staircase"
+          ]
+        },
+        {
+          "key": "58523|Begging you please don't go",
+          "text": "Begging you please don't go",
+          "segments": [
+            "Begging ",
+            "you ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "63061|And I said",
+          "text": "And I said",
+          "segments": [
+            "And ",
+            "I ",
+            "said"
+          ]
+        },
+        {
+          "key": "64566|Romeo take me somewhere we can be alone",
+          "text": "Romeo take me somewhere we can be alone",
+          "segments": [
+            "Romeo ",
+            "take ",
+            "me ",
+            "somewhere ",
+            "we ",
+            "can ",
+            "be ",
+            "alone"
+          ]
+        },
+        {
+          "key": "68646|I'll be waiting all there's left to do is run",
+          "text": "I'll be waiting all there's left to do is run",
+          "segments": [
+            "I'll ",
+            "be ",
+            "waiting ",
+            "all ",
+            "there's ",
+            "left ",
+            "to ",
+            "do ",
+            "is ",
+            "run"
+          ]
+        },
+        {
+          "key": "72720|You'll be the prince and I'll be the princess",
+          "text": "You'll be the prince and I'll be the princess",
+          "segments": [
+            "You'll ",
+            "be ",
+            "the ",
+            "prince ",
+            "and ",
+            "I'll ",
+            "be ",
+            "the ",
+            "princess"
+          ]
+        },
+        {
+          "key": "76673|It's a love story baby just say yes",
+          "text": "It's a love story baby just say yes",
+          "segments": [
+            "It's ",
+            "a ",
+            "love ",
+            "story ",
+            "baby ",
+            "just ",
+            "say ",
+            "yes"
+          ]
+        },
+        {
+          "key": "84551|So I sneak out to the garden to see you",
+          "text": "So I sneak out to the garden to see you",
+          "segments": [
+            "So ",
+            "I ",
+            "sneak ",
+            "out ",
+            "to ",
+            "the ",
+            "garden ",
+            "to ",
+            "see ",
+            "you"
+          ]
+        },
+        {
+          "key": "88842|We keep quiet 'cause we're dead if they knew",
+          "text": "We keep quiet 'cause we're dead if they knew",
+          "segments": [
+            "We ",
+            "keep ",
+            "quiet ",
+            "'cause ",
+            "we're ",
+            "dead ",
+            "if ",
+            "they ",
+            "knew"
+          ]
+        },
+        {
+          "key": "92286|So close your eyes escape this town for a little while",
+          "text": "So close your eyes escape this town for a little while",
+          "segments": [
+            "So ",
+            "close ",
+            "your ",
+            "eyes ",
+            "escape ",
+            "this ",
+            "town ",
+            "for ",
+            "a ",
+            "little ",
+            "while"
+          ]
+        },
+        {
+          "key": "100691|'Cause you were Romeo I was a scarlet letter",
+          "text": "'Cause you were Romeo I was a scarlet letter",
+          "segments": [
+            "'Cause ",
+            "you ",
+            "were ",
+            "Romeo ",
+            "I ",
+            "was ",
+            "a ",
+            "scarlet ",
+            "letter"
+          ]
+        },
+        {
+          "key": "104360|And my daddy said",
+          "text": "And my daddy said",
+          "segments": [
+            "And ",
+            "my ",
+            "daddy ",
+            "said"
+          ]
+        },
+        {
+          "key": "105961|Stay away from Juliet",
+          "text": "Stay away from Juliet",
+          "segments": [
+            "Stay ",
+            "away ",
+            "from ",
+            "Juliet"
+          ]
+        },
+        {
+          "key": "108156|But you were everything to me",
+          "text": "But you were everything to me",
+          "segments": [
+            "But ",
+            "you ",
+            "were ",
+            "everything ",
+            "to ",
+            "me"
+          ]
+        },
+        {
+          "key": "110475|I was begging you please don't go",
+          "text": "I was begging you please don't go",
+          "segments": [
+            "I ",
+            "was ",
+            "begging ",
+            "you ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "115453|And I said Romeo take me somewhere we can be alone",
+          "text": "And I said Romeo take me somewhere we can be alone",
+          "segments": [
+            "And ",
+            "I ",
+            "said ",
+            "Romeo ",
+            "take ",
+            "me ",
+            "somewhere ",
+            "we ",
+            "can ",
+            "be ",
+            "alone"
+          ]
+        },
+        {
+          "key": "121101|I'll be waiting all there's left to do is run",
+          "text": "I'll be waiting all there's left to do is run",
+          "segments": [
+            "I'll ",
+            "be ",
+            "waiting ",
+            "all ",
+            "there's ",
+            "left ",
+            "to ",
+            "do ",
+            "is ",
+            "run"
+          ]
+        },
+        {
+          "key": "125123|You'll be the prince and I'll be the princess",
+          "text": "You'll be the prince and I'll be the princess",
+          "segments": [
+            "You'll ",
+            "be ",
+            "the ",
+            "prince ",
+            "and ",
+            "I'll ",
+            "be ",
+            "the ",
+            "princess"
+          ]
+        },
+        {
+          "key": "129194|It's a love story baby just say yes",
+          "text": "It's a love story baby just say yes",
+          "segments": [
+            "It's ",
+            "a ",
+            "love ",
+            "story ",
+            "baby ",
+            "just ",
+            "say ",
+            "yes"
+          ]
+        },
+        {
+          "key": "133249|Romeo save me they're trying to tell me how to feel",
+          "text": "Romeo save me they're trying to tell me how to feel",
+          "segments": [
+            "Romeo ",
+            "save ",
+            "me ",
+            "they're ",
+            "trying ",
+            "to ",
+            "tell ",
+            "me ",
+            "how ",
+            "to ",
+            "feel"
+          ]
+        },
+        {
+          "key": "137486|This love is difficult but it's real",
+          "text": "This love is difficult but it's real",
+          "segments": [
+            "This ",
+            "love ",
+            "is ",
+            "difficult ",
+            "but ",
+            "it's ",
+            "real"
+          ]
+        },
+        {
+          "key": "141274|Don't be afraid we'll make it out of this mess",
+          "text": "Don't be afraid we'll make it out of this mess",
+          "segments": [
+            "Don't ",
+            "be ",
+            "afraid ",
+            "we'll ",
+            "make ",
+            "it ",
+            "out ",
+            "of ",
+            "this ",
+            "mess"
+          ]
+        },
+        {
+          "key": "145249|It's a love story baby just say yes",
+          "text": "It's a love story baby just say yes",
+          "segments": [
+            "It's ",
+            "a ",
+            "love ",
+            "story ",
+            "baby ",
+            "just ",
+            "say ",
+            "yes"
+          ]
+        },
+        {
+          "key": "152668|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "164365|I got tired of waiting",
+          "text": "I got tired of waiting",
+          "segments": [
+            "I ",
+            "got ",
+            "tired ",
+            "of ",
+            "waiting"
+          ]
+        },
+        {
+          "key": "168566|Wondering if you were ever coming around",
+          "text": "Wondering if you were ever coming around",
+          "segments": [
+            "Wondering ",
+            "if ",
+            "you ",
+            "were ",
+            "ever ",
+            "coming ",
+            "around"
+          ]
+        },
+        {
+          "key": "172235|My faith in you was fading",
+          "text": "My faith in you was fading",
+          "segments": [
+            "My ",
+            "faith ",
+            "in ",
+            "you ",
+            "was ",
+            "fading"
+          ]
+        },
+        {
+          "key": "177152|When I met you on the outskirts of town",
+          "text": "When I met you on the outskirts of town",
+          "segments": [
+            "When ",
+            "I ",
+            "met ",
+            "you ",
+            "on ",
+            "the ",
+            "outskirts ",
+            "of ",
+            "town"
+          ]
+        },
+        {
+          "key": "180377|And I said",
+          "text": "And I said",
+          "segments": [
+            "And ",
+            "I ",
+            "said"
+          ]
+        },
+        {
+          "key": "181624|Romeo save me I've been feeling so alone",
+          "text": "Romeo save me I've been feeling so alone",
+          "segments": [
+            "Romeo ",
+            "save ",
+            "me ",
+            "I've ",
+            "been ",
+            "feeling ",
+            "so ",
+            "alone"
+          ]
+        },
+        {
+          "key": "185647|I keep waiting for you but you never come",
+          "text": "I keep waiting for you but you never come",
+          "segments": [
+            "I ",
+            "keep ",
+            "waiting ",
+            "for ",
+            "you ",
+            "but ",
+            "you ",
+            "never ",
+            "come"
+          ]
+        },
+        {
+          "key": "189353|Is this in my head I don't know what to think",
+          "text": "Is this in my head I don't know what to think",
+          "segments": [
+            "Is ",
+            "this ",
+            "in ",
+            "my ",
+            "head ",
+            "I ",
+            "don't ",
+            "know ",
+            "what ",
+            "to ",
+            "think"
+          ]
+        },
+        {
+          "key": "193262|He knelt to the ground and pulled out a ring and said",
+          "text": "He knelt to the ground and pulled out a ring and said",
+          "segments": [
+            "He ",
+            "knelt ",
+            "to ",
+            "the ",
+            "ground ",
+            "and ",
+            "pulled ",
+            "out ",
+            "a ",
+            "ring ",
+            "and ",
+            "said"
+          ]
+        },
+        {
+          "key": "197722|Marry me Juliet you'll never have to be alone",
+          "text": "Marry me Juliet you'll never have to be alone",
+          "segments": [
+            "Marry ",
+            "me ",
+            "Juliet ",
+            "you'll ",
+            "never ",
+            "have ",
+            "to ",
+            "be ",
+            "alone"
+          ]
+        },
+        {
+          "key": "201762|I love you and that's all I really know",
+          "text": "I love you and that's all I really know",
+          "segments": [
+            "I ",
+            "love ",
+            "you ",
+            "and ",
+            "that's ",
+            "all ",
+            "I ",
+            "really ",
+            "know"
+          ]
+        },
+        {
+          "key": "205577|I talked to your dad go pick out a white dress",
+          "text": "I talked to your dad go pick out a white dress",
+          "segments": [
+            "I ",
+            "talked ",
+            "to ",
+            "your ",
+            "dad ",
+            "go ",
+            "pick ",
+            "out ",
+            "a ",
+            "white ",
+            "dress"
+          ]
+        },
+        {
+          "key": "209810|It's a love story baby just say yes",
+          "text": "It's a love story baby just say yes",
+          "segments": [
+            "It's ",
+            "a ",
+            "love ",
+            "story ",
+            "baby ",
+            "just ",
+            "say ",
+            "yes"
+          ]
+        },
+        {
+          "key": "217234|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "220651|Oh oh",
+          "text": "Oh oh",
+          "segments": [
+            "Oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "225738|'Cause we were both young when I first saw you",
+          "text": "'Cause we were both young when I first saw you",
+          "segments": [
+            "'Cause ",
+            "we ",
+            "were ",
+            "both ",
+            "young ",
+            "when ",
+            "I ",
+            "first ",
+            "saw ",
+            "you"
+          ]
+        }
+      ]
+    }
+  ]
+}

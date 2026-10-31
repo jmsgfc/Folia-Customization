@@ -1,0 +1,599 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:99869ff44747bb354565fe09fc2f760a",
+      "lines": [
+        {
+          "key": "0|Chester Young、Castion - PYRO",
+          "text": "Chester Young、Castion - PYRO",
+          "segments": [
+            "Chester Young、",
+            "Castion",
+            " - ",
+            "PYRO"
+          ]
+        },
+        {
+          "key": "1070|Composed by：Demchenko Dmitriy、Antonio Castrillo",
+          "text": "Composed by：Demchenko Dmitriy、Antonio Castrillo",
+          "segments": [
+            "Composed by：",
+            "Demchenko Dmitriy、",
+            "Antonio Castrillo"
+          ]
+        },
+        {
+          "key": "2146|Boys in a bomb fight",
+          "text": "Boys in a bomb fight",
+          "segments": [
+            "Boys ",
+            "in ",
+            "a ",
+            "bomb ",
+            "fight"
+          ]
+        },
+        {
+          "key": "3004|Some of them alight",
+          "text": "Some of them alight",
+          "segments": [
+            "Some ",
+            "of ",
+            "them ",
+            "alight"
+          ]
+        },
+        {
+          "key": "3930|Sight in the cover",
+          "text": "Sight in the cover",
+          "segments": [
+            "Sight ",
+            "in ",
+            "the ",
+            "cover"
+          ]
+        },
+        {
+          "key": "4690|My satellite gonna see the army army",
+          "text": "My satellite gonna see the army army",
+          "segments": [
+            "My ",
+            "satellite ",
+            "gonna ",
+            "see ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "6690|We protect me brother",
+          "text": "We protect me brother",
+          "segments": [
+            "We ",
+            "protect ",
+            "me ",
+            "brother"
+          ]
+        },
+        {
+          "key": "7698|Tactical calibrate and see from every colour",
+          "text": "Tactical calibrate and see from every colour",
+          "segments": [
+            "Tactical ",
+            "calibrate ",
+            "and ",
+            "see ",
+            "from ",
+            "every ",
+            "colour"
+          ]
+        },
+        {
+          "key": "9594|Run with the rude boy",
+          "text": "Run with the rude boy",
+          "segments": [
+            "Run ",
+            "with ",
+            "the ",
+            "rude ",
+            "boy"
+          ]
+        },
+        {
+          "key": "10690|Guard the barrier",
+          "text": "Guard the barrier",
+          "segments": [
+            "Guard ",
+            "the ",
+            "barrier"
+          ]
+        },
+        {
+          "key": "11862|Ambush them with the fire",
+          "text": "Ambush them with the fire",
+          "segments": [
+            "Ambush ",
+            "them ",
+            "with ",
+            "the ",
+            "fire"
+          ]
+        },
+        {
+          "key": "13162|And the bass the noise better pull we turn up",
+          "text": "And the bass the noise better pull we turn up",
+          "segments": [
+            "And ",
+            "the ",
+            "bass ",
+            "the ",
+            "noise ",
+            "better ",
+            "pull ",
+            "we ",
+            "turn ",
+            "up"
+          ]
+        },
+        {
+          "key": "15188|If we catch ya zoomin' faster we'll again catch up",
+          "text": "If we catch ya zoomin' faster we'll again catch up",
+          "segments": [
+            "If ",
+            "we ",
+            "catch ",
+            "ya ",
+            "zoomin' ",
+            "faster ",
+            "we'll ",
+            "again ",
+            "catch ",
+            "up"
+          ]
+        },
+        {
+          "key": "17110|Us in the army I'm in the army army",
+          "text": "Us in the army I'm in the army army",
+          "segments": [
+            "Us ",
+            "in ",
+            "the ",
+            "army ",
+            "I'm ",
+            "in ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "19085|Sight in the cover",
+          "text": "Sight in the cover",
+          "segments": [
+            "Sight ",
+            "in ",
+            "the ",
+            "cover"
+          ]
+        },
+        {
+          "key": "19848|My satellite gonna see",
+          "text": "My satellite gonna see",
+          "segments": [
+            "My ",
+            "satellite ",
+            "gonna ",
+            "see"
+          ]
+        },
+        {
+          "key": "20988|Us in the army I'm in the army army",
+          "text": "Us in the army I'm in the army army",
+          "segments": [
+            "Us ",
+            "in ",
+            "the ",
+            "army ",
+            "I'm ",
+            "in ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "22964|If we catch ya zoomin' faster we'll again catch up",
+          "text": "If we catch ya zoomin' faster we'll again catch up",
+          "segments": [
+            "If ",
+            "we ",
+            "catch ",
+            "ya ",
+            "zoomin' ",
+            "faster ",
+            "we'll ",
+            "again ",
+            "catch ",
+            "up"
+          ]
+        },
+        {
+          "key": "24864|Us in the army I'm in the army army",
+          "text": "Us in the army I'm in the army army",
+          "segments": [
+            "Us ",
+            "in ",
+            "the ",
+            "army ",
+            "I'm ",
+            "in ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "26803|Us in the army I'm in the army army",
+          "text": "Us in the army I'm in the army army",
+          "segments": [
+            "Us ",
+            "in ",
+            "the ",
+            "army ",
+            "I'm ",
+            "in ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "30458|If we catch ya zoomin' faster we'll again catch up",
+          "text": "If we catch ya zoomin' faster we'll again catch up",
+          "segments": [
+            "If ",
+            "we ",
+            "catch ",
+            "ya ",
+            "zoomin' ",
+            "faster ",
+            "we'll ",
+            "again ",
+            "catch ",
+            "up"
+          ]
+        },
+        {
+          "key": "66534|Boys in a bomb fight",
+          "text": "Boys in a bomb fight",
+          "segments": [
+            "Boys ",
+            "in ",
+            "a ",
+            "bomb ",
+            "fight"
+          ]
+        },
+        {
+          "key": "67550|Some of them alight",
+          "text": "Some of them alight",
+          "segments": [
+            "Some ",
+            "of ",
+            "them ",
+            "alight"
+          ]
+        },
+        {
+          "key": "68534|Sight in the cover",
+          "text": "Sight in the cover",
+          "segments": [
+            "Sight ",
+            "in ",
+            "the ",
+            "cover"
+          ]
+        },
+        {
+          "key": "69374|My satellite gonna see the army army",
+          "text": "My satellite gonna see the army army",
+          "segments": [
+            "My ",
+            "satellite ",
+            "gonna ",
+            "see ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "71367|We protect me brother",
+          "text": "We protect me brother",
+          "segments": [
+            "We ",
+            "protect ",
+            "me ",
+            "brother"
+          ]
+        },
+        {
+          "key": "72342|Tactical calibrate and see from every colour",
+          "text": "Tactical calibrate and see from every colour",
+          "segments": [
+            "Tactical ",
+            "calibrate ",
+            "and ",
+            "see ",
+            "from ",
+            "every ",
+            "colour"
+          ]
+        },
+        {
+          "key": "74278|Run with the rude boy",
+          "text": "Run with the rude boy",
+          "segments": [
+            "Run ",
+            "with ",
+            "the ",
+            "rude ",
+            "boy"
+          ]
+        },
+        {
+          "key": "75390|Guard the barrier",
+          "text": "Guard the barrier",
+          "segments": [
+            "Guard ",
+            "the ",
+            "barrier"
+          ]
+        },
+        {
+          "key": "76638|Ambush them with the fire",
+          "text": "Ambush them with the fire",
+          "segments": [
+            "Ambush ",
+            "them ",
+            "with ",
+            "the ",
+            "fire"
+          ]
+        },
+        {
+          "key": "77861|And the bass the noise better pull we turn up",
+          "text": "And the bass the noise better pull we turn up",
+          "segments": [
+            "And ",
+            "the ",
+            "bass ",
+            "the ",
+            "noise ",
+            "better ",
+            "pull ",
+            "we ",
+            "turn ",
+            "up"
+          ]
+        },
+        {
+          "key": "81867|Boys in a bomb fight",
+          "text": "Boys in a bomb fight",
+          "segments": [
+            "Boys ",
+            "in ",
+            "a ",
+            "bomb ",
+            "fight"
+          ]
+        },
+        {
+          "key": "82810|Some of them alight",
+          "text": "Some of them alight",
+          "segments": [
+            "Some ",
+            "of ",
+            "them ",
+            "alight"
+          ]
+        },
+        {
+          "key": "83722|Sight in the cover",
+          "text": "Sight in the cover",
+          "segments": [
+            "Sight ",
+            "in ",
+            "the ",
+            "cover"
+          ]
+        },
+        {
+          "key": "84579|My satellite gonna see the army army",
+          "text": "My satellite gonna see the army army",
+          "segments": [
+            "My ",
+            "satellite ",
+            "gonna ",
+            "see ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "88054|We protect me brother",
+          "text": "We protect me brother",
+          "segments": [
+            "We ",
+            "protect ",
+            "me ",
+            "brother"
+          ]
+        },
+        {
+          "key": "89612|Run with the rude boy",
+          "text": "Run with the rude boy",
+          "segments": [
+            "Run ",
+            "with ",
+            "the ",
+            "rude ",
+            "boy"
+          ]
+        },
+        {
+          "key": "90669|Guard the barrier",
+          "text": "Guard the barrier",
+          "segments": [
+            "Guard ",
+            "the ",
+            "barrier"
+          ]
+        },
+        {
+          "key": "91952|Ambush them with the fire",
+          "text": "Ambush them with the fire",
+          "segments": [
+            "Ambush ",
+            "them ",
+            "with ",
+            "the ",
+            "fire"
+          ]
+        },
+        {
+          "key": "93232|And the bass the noise bass the noise bass the noise",
+          "text": "And the bass the noise bass the noise bass the noise",
+          "segments": [
+            "And ",
+            "the ",
+            "bass ",
+            "the ",
+            "noise ",
+            "bass ",
+            "the ",
+            "noise ",
+            "bass ",
+            "the ",
+            "noise"
+          ]
+        },
+        {
+          "key": "97074|Us in the army I'm in the army army",
+          "text": "Us in the army I'm in the army army",
+          "segments": [
+            "Us ",
+            "in ",
+            "the ",
+            "army ",
+            "I'm ",
+            "in ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "99027|Sight in the cover",
+          "text": "Sight in the cover",
+          "segments": [
+            "Sight ",
+            "in ",
+            "the ",
+            "cover"
+          ]
+        },
+        {
+          "key": "99911|My satellite gonna see the",
+          "text": "My satellite gonna see the",
+          "segments": [
+            "My ",
+            "satellite ",
+            "gonna ",
+            "see ",
+            "the"
+          ]
+        },
+        {
+          "key": "101019|Us in the army I'm in the army army",
+          "text": "Us in the army I'm in the army army",
+          "segments": [
+            "Us ",
+            "in ",
+            "the ",
+            "army ",
+            "I'm ",
+            "in ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "102953|If we catch ya zoomin' faster we'll again catch up",
+          "text": "If we catch ya zoomin' faster we'll again catch up",
+          "segments": [
+            "If ",
+            "we ",
+            "catch ",
+            "ya ",
+            "zoomin' ",
+            "faster ",
+            "we'll ",
+            "again ",
+            "catch ",
+            "up"
+          ]
+        },
+        {
+          "key": "104744|Us in the army I'm in the army army",
+          "text": "Us in the army I'm in the army army",
+          "segments": [
+            "Us ",
+            "in ",
+            "the ",
+            "army ",
+            "I'm ",
+            "in ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "106649|Us in the army I'm in the army army",
+          "text": "Us in the army I'm in the army army",
+          "segments": [
+            "Us ",
+            "in ",
+            "the ",
+            "army ",
+            "I'm ",
+            "in ",
+            "the ",
+            "army ",
+            "army"
+          ]
+        },
+        {
+          "key": "110396|If we catch ya zoomin' faster we'll again catch up",
+          "text": "If we catch ya zoomin' faster we'll again catch up",
+          "segments": [
+            "If ",
+            "we ",
+            "catch ",
+            "ya ",
+            "zoomin' ",
+            "faster ",
+            "we'll ",
+            "again ",
+            "catch ",
+            "up"
+          ]
+        }
+      ]
+    }
+  ]
+}

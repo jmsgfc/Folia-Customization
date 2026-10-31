@@ -1,0 +1,811 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:0a2b98d1df2fec4995e89de1d1c6995c",
+      "lines": [
+        {
+          "key": "216|Elephante、Matluck - Come Back For You",
+          "text": "Elephante、Matluck - Come Back For You",
+          "segments": [
+            "Elephante、",
+            "Matluck ",
+            "- ",
+            "Come Back For You"
+          ]
+        },
+        {
+          "key": "2210|Lyrics by：Peter Anthony Hanna/Max Elliot Matluck/Tim Wu",
+          "text": "Lyrics by：Peter Anthony Hanna/Max Elliot Matluck/Tim Wu",
+          "segments": [
+            "Lyrics by：",
+            "Peter Anthony Hanna",
+            "/",
+            "Max Elliot Matluck",
+            "/",
+            "Tim Wu"
+          ]
+        },
+        {
+          "key": "4420|Composed by：Max Elliot Matluck/Tim Wu/Peter Anthony Hanna",
+          "text": "Composed by：Max Elliot Matluck/Tim Wu/Peter Anthony Hanna",
+          "segments": [
+            "Composed by：",
+            "Max Elliot Matluck",
+            "/",
+            "Tim Wu",
+            "/",
+            "Peter Anthony Hanna"
+          ]
+        },
+        {
+          "key": "6637|It's coming back just like a replay",
+          "text": "It's coming back just like a replay",
+          "segments": [
+            "It's ",
+            "coming ",
+            "back ",
+            "just ",
+            "like ",
+            "a ",
+            "replay"
+          ]
+        },
+        {
+          "key": "8642|Rolling down the freeway honey",
+          "text": "Rolling down the freeway honey",
+          "segments": [
+            "Rolling ",
+            "down ",
+            "the ",
+            "freeway ",
+            "honey"
+          ]
+        },
+        {
+          "key": "12562|The thought of you brings me to tears",
+          "text": "The thought of you brings me to tears",
+          "segments": [
+            "The ",
+            "thought ",
+            "of ",
+            "you ",
+            "brings ",
+            "me ",
+            "to ",
+            "tears"
+          ]
+        },
+        {
+          "key": "14252|It's been so many years",
+          "text": "It's been so many years",
+          "segments": [
+            "It's ",
+            "been ",
+            "so ",
+            "many ",
+            "years"
+          ]
+        },
+        {
+          "key": "16057|I'm finally seein' clear now honey",
+          "text": "I'm finally seein' clear now honey",
+          "segments": [
+            "I'm ",
+            "finally ",
+            "seein' ",
+            "clear ",
+            "now ",
+            "honey"
+          ]
+        },
+        {
+          "key": "18375|Ooooh",
+          "text": "Ooooh",
+          "segments": [
+            "Ooooh"
+          ]
+        },
+        {
+          "key": "20161|I remember you and I were free then",
+          "text": "I remember you and I were free then",
+          "segments": [
+            "I ",
+            "remember ",
+            "you ",
+            "and ",
+            "I ",
+            "were ",
+            "free ",
+            "then"
+          ]
+        },
+        {
+          "key": "23248|But I was leavin'",
+          "text": "But I was leavin'",
+          "segments": [
+            "But ",
+            "I ",
+            "was ",
+            "leavin'"
+          ]
+        },
+        {
+          "key": "24647|Ooooh",
+          "text": "Ooooh",
+          "segments": [
+            "Ooooh"
+          ]
+        },
+        {
+          "key": "26169|You and I were caught up in a feeling",
+          "text": "You and I were caught up in a feeling",
+          "segments": [
+            "You ",
+            "and ",
+            "I ",
+            "were ",
+            "caught ",
+            "up ",
+            "in ",
+            "a ",
+            "feeling"
+          ]
+        },
+        {
+          "key": "29033|And I still believe it",
+          "text": "And I still believe it",
+          "segments": [
+            "And ",
+            "I ",
+            "still ",
+            "believe ",
+            "it"
+          ]
+        },
+        {
+          "key": "30405|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "33405|I would be the one to make you feel this way",
+          "text": "I would be the one to make you feel this way",
+          "segments": [
+            "I ",
+            "would ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "make ",
+            "you ",
+            "feel ",
+            "this ",
+            "way"
+          ]
+        },
+        {
+          "key": "36438|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "40321|I give all I have for you",
+          "text": "I give all I have for you",
+          "segments": [
+            "I ",
+            "give ",
+            "all ",
+            "I ",
+            "have ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "42409|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "45426|I would be the one to take away your pain",
+          "text": "I would be the one to take away your pain",
+          "segments": [
+            "I ",
+            "would ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "take ",
+            "away ",
+            "your ",
+            "pain"
+          ]
+        },
+        {
+          "key": "48412|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "52237|Baby I come back for you",
+          "text": "Baby I come back for you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "58858|Baby I come back for",
+          "text": "Baby I come back for",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for"
+          ]
+        },
+        {
+          "key": "64871|Baby I come back for you",
+          "text": "Baby I come back for you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "67094|Doesn't matter where I'm goin'",
+          "text": "Doesn't matter where I'm goin'",
+          "segments": [
+            "Doesn't ",
+            "matter ",
+            "where ",
+            "I'm ",
+            "goin'"
+          ]
+        },
+        {
+          "key": "68566|'Long as it's you I'm holdin' honey",
+          "text": "'Long as it's you I'm holdin' honey",
+          "segments": [
+            "'Long ",
+            "as ",
+            "it's ",
+            "you ",
+            "I'm ",
+            "holdin' ",
+            "honey"
+          ]
+        },
+        {
+          "key": "72560|You are the only one who knows me",
+          "text": "You are the only one who knows me",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "only ",
+            "one ",
+            "who ",
+            "knows ",
+            "me"
+          ]
+        },
+        {
+          "key": "74441|The one who can expose me",
+          "text": "The one who can expose me",
+          "segments": [
+            "The ",
+            "one ",
+            "who ",
+            "can ",
+            "expose ",
+            "me"
+          ]
+        },
+        {
+          "key": "76234|Sometimes I think it shows me and it's like",
+          "text": "Sometimes I think it shows me and it's like",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "think ",
+            "it ",
+            "shows ",
+            "me ",
+            "and ",
+            "it's ",
+            "like"
+          ]
+        },
+        {
+          "key": "78687|Ooooh",
+          "text": "Ooooh",
+          "segments": [
+            "Ooooh"
+          ]
+        },
+        {
+          "key": "80106|I remember you and I were free then",
+          "text": "I remember you and I were free then",
+          "segments": [
+            "I ",
+            "remember ",
+            "you ",
+            "and ",
+            "I ",
+            "were ",
+            "free ",
+            "then"
+          ]
+        },
+        {
+          "key": "83174|But I was leavin'",
+          "text": "But I was leavin'",
+          "segments": [
+            "But ",
+            "I ",
+            "was ",
+            "leavin'"
+          ]
+        },
+        {
+          "key": "84725|Ooooh",
+          "text": "Ooooh",
+          "segments": [
+            "Ooooh"
+          ]
+        },
+        {
+          "key": "86165|You and I were caught up in a feeling",
+          "text": "You and I were caught up in a feeling",
+          "segments": [
+            "You ",
+            "and ",
+            "I ",
+            "were ",
+            "caught ",
+            "up ",
+            "in ",
+            "a ",
+            "feeling"
+          ]
+        },
+        {
+          "key": "89233|And I still believe it",
+          "text": "And I still believe it",
+          "segments": [
+            "And ",
+            "I ",
+            "still ",
+            "believe ",
+            "it"
+          ]
+        },
+        {
+          "key": "90418|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "93501|I would be the one to make you feel this way",
+          "text": "I would be the one to make you feel this way",
+          "segments": [
+            "I ",
+            "would ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "make ",
+            "you ",
+            "feel ",
+            "this ",
+            "way"
+          ]
+        },
+        {
+          "key": "96537|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "100555|I give all I have for you",
+          "text": "I give all I have for you",
+          "segments": [
+            "I ",
+            "give ",
+            "all ",
+            "I ",
+            "have ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "102414|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "105501|I would be the one to take away your pain",
+          "text": "I would be the one to take away your pain",
+          "segments": [
+            "I ",
+            "would ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "take ",
+            "away ",
+            "your ",
+            "pain"
+          ]
+        },
+        {
+          "key": "108408|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "112513|Baby I come back for you",
+          "text": "Baby I come back for you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "118917|Baby I come back for",
+          "text": "Baby I come back for",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for"
+          ]
+        },
+        {
+          "key": "124845|Baby I come back for you",
+          "text": "Baby I come back for you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "126434|Didn't I didn't I",
+          "text": "Didn't I didn't I",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I"
+          ]
+        },
+        {
+          "key": "129426|Didn't I didn't I",
+          "text": "Didn't I didn't I",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I"
+          ]
+        },
+        {
+          "key": "132346|Didn't I didn't I didn't I didn't I",
+          "text": "Didn't I didn't I didn't I didn't I",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I"
+          ]
+        },
+        {
+          "key": "138422|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "141162|I would be the one to make you feel this way",
+          "text": "I would be the one to make you feel this way",
+          "segments": [
+            "I ",
+            "would ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "make ",
+            "you ",
+            "feel ",
+            "this ",
+            "way"
+          ]
+        },
+        {
+          "key": "144357|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "148323|I give all I have for you",
+          "text": "I give all I have for you",
+          "segments": [
+            "I ",
+            "give ",
+            "all ",
+            "I ",
+            "have ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "150420|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "153268|I would be the one to take away your pain",
+          "text": "I would be the one to take away your pain",
+          "segments": [
+            "I ",
+            "would ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "take ",
+            "away ",
+            "your ",
+            "pain"
+          ]
+        },
+        {
+          "key": "156388|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "160503|Baby I come back for you",
+          "text": "Baby I come back for you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "165071|Yeah",
+          "text": "Yeah",
+          "segments": [
+            "Yeah"
+          ]
+        },
+        {
+          "key": "166540|Baby I come back for you",
+          "text": "Baby I come back for you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "170239|Yeah",
+          "text": "Yeah",
+          "segments": [
+            "Yeah"
+          ]
+        },
+        {
+          "key": "172643|Baby I come back for you",
+          "text": "Baby I come back for you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "184506|Baby I come back for you",
+          "text": "Baby I come back for you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "186480|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "189256|I would be the one to take away your pain",
+          "text": "I would be the one to take away your pain",
+          "segments": [
+            "I ",
+            "would ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "take ",
+            "away ",
+            "your ",
+            "pain"
+          ]
+        },
+        {
+          "key": "192407|Didn't I didn't I didn't I say",
+          "text": "Didn't I didn't I didn't I say",
+          "segments": [
+            "Didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "didn't ",
+            "I ",
+            "say"
+          ]
+        },
+        {
+          "key": "196527|Baby I come back for you",
+          "text": "Baby I come back for you",
+          "segments": [
+            "Baby ",
+            "I ",
+            "come ",
+            "back ",
+            "for ",
+            "you"
+          ]
+        }
+      ]
+    }
+  ]
+}

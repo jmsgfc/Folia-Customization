@@ -1,0 +1,485 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:055e87a6e253cedb4bb9ff34b095f0ba",
+      "lines": [
+        {
+          "key": "765|Deutschland Sucht Den Superstar - Cry On My Shoulder",
+          "text": "Deutschland Sucht Den Superstar - Cry On My Shoulder",
+          "segments": [
+            "Deutschland Sucht Den Superstar",
+            " - ",
+            "Cry On My Shoulder"
+          ]
+        },
+        {
+          "key": "26378|if the hero never comes to you",
+          "text": "if the hero never comes to you",
+          "segments": [
+            "if ",
+            "the ",
+            "hero ",
+            "never ",
+            "comes ",
+            "to ",
+            "you"
+          ]
+        },
+        {
+          "key": "32910|if you need someone you're feeling blue",
+          "text": "if you need someone you're feeling blue",
+          "segments": [
+            "if ",
+            "you ",
+            "need ",
+            "someone ",
+            "you're ",
+            "feeling ",
+            "blue"
+          ]
+        },
+        {
+          "key": "38750|if you're away from love and you're alone",
+          "text": "if you're away from love and you're alone",
+          "segments": [
+            "if ",
+            "you're ",
+            "away ",
+            "from ",
+            "love ",
+            "and ",
+            "you're ",
+            "alone"
+          ]
+        },
+        {
+          "key": "44603|if you call your friends and nobody's home",
+          "text": "if you call your friends and nobody's home",
+          "segments": [
+            "if ",
+            "you ",
+            "call ",
+            "your ",
+            "friends ",
+            "and ",
+            "nobody's ",
+            "home"
+          ]
+        },
+        {
+          "key": "50129|you can run away but you can't hide",
+          "text": "you can run away but you can't hide",
+          "segments": [
+            "you ",
+            "can ",
+            "run ",
+            "away ",
+            "but ",
+            "you ",
+            "can't ",
+            "hide"
+          ]
+        },
+        {
+          "key": "56197|through a storm and through a lonely night",
+          "text": "through a storm and through a lonely night",
+          "segments": [
+            "through ",
+            "a ",
+            "storm ",
+            "and ",
+            "through ",
+            "a ",
+            "lonely ",
+            "night"
+          ]
+        },
+        {
+          "key": "62476|then i show you there's a destiny",
+          "text": "then i show you there's a destiny",
+          "segments": [
+            "then ",
+            "i ",
+            "show ",
+            "you ",
+            "there's ",
+            "a ",
+            "destiny"
+          ]
+        },
+        {
+          "key": "66803|the best things in life",
+          "text": "the best things in life",
+          "segments": [
+            "the ",
+            "best ",
+            "things ",
+            "in ",
+            "life"
+          ]
+        },
+        {
+          "key": "69886|they're free",
+          "text": "they're free",
+          "segments": [
+            "they're ",
+            "free"
+          ]
+        },
+        {
+          "key": "74265|but if you wanna cry",
+          "text": "but if you wanna cry",
+          "segments": [
+            "but ",
+            "if ",
+            "you ",
+            "wanna ",
+            "cry"
+          ]
+        },
+        {
+          "key": "77280|cry on my shoulder",
+          "text": "cry on my shoulder",
+          "segments": [
+            "cry ",
+            "on ",
+            "my ",
+            "shoulder"
+          ]
+        },
+        {
+          "key": "80405|if you need someone who cares for you",
+          "text": "if you need someone who cares for you",
+          "segments": [
+            "if ",
+            "you ",
+            "need ",
+            "someone ",
+            "who ",
+            "cares ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "86153|if you're feeling sad your heart gets colder",
+          "text": "if you're feeling sad your heart gets colder",
+          "segments": [
+            "if ",
+            "you're ",
+            "feeling ",
+            "sad ",
+            "your ",
+            "heart ",
+            "gets ",
+            "colder"
+          ]
+        },
+        {
+          "key": "93736|yes i show you what real love can do",
+          "text": "yes i show you what real love can do",
+          "segments": [
+            "yes ",
+            "i ",
+            "show ",
+            "you ",
+            "what ",
+            "real ",
+            "love ",
+            "can ",
+            "do"
+          ]
+        },
+        {
+          "key": "103965|if your sky is grey oh let me know",
+          "text": "if your sky is grey oh let me know",
+          "segments": [
+            "if ",
+            "your ",
+            "sky ",
+            "is ",
+            "grey ",
+            "oh ",
+            "let ",
+            "me ",
+            "know"
+          ]
+        },
+        {
+          "key": "109567|there's a place in heaven where we'll go",
+          "text": "there's a place in heaven where we'll go",
+          "segments": [
+            "there's ",
+            "a ",
+            "place ",
+            "in ",
+            "heaven ",
+            "where ",
+            "we'll ",
+            "go"
+          ]
+        },
+        {
+          "key": "115490|if heaven is a million years away",
+          "text": "if heaven is a million years away",
+          "segments": [
+            "if ",
+            "heaven ",
+            "is ",
+            "a ",
+            "million ",
+            "years ",
+            "away"
+          ]
+        },
+        {
+          "key": "120780|oh just call me and i make your day",
+          "text": "oh just call me and i make your day",
+          "segments": [
+            "oh ",
+            "just ",
+            "call ",
+            "me ",
+            "and ",
+            "i ",
+            "make ",
+            "your ",
+            "day"
+          ]
+        },
+        {
+          "key": "127201|when the nights are getting cold and blue",
+          "text": "when the nights are getting cold and blue",
+          "segments": [
+            "when ",
+            "the ",
+            "nights ",
+            "are ",
+            "getting ",
+            "cold ",
+            "and ",
+            "blue"
+          ]
+        },
+        {
+          "key": "133589|when the days are getting hard for you",
+          "text": "when the days are getting hard for you",
+          "segments": [
+            "when ",
+            "the ",
+            "days ",
+            "are ",
+            "getting ",
+            "hard ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "139147|i will always stay here by your side",
+          "text": "i will always stay here by your side",
+          "segments": [
+            "i ",
+            "will ",
+            "always ",
+            "stay ",
+            "here ",
+            "by ",
+            "your ",
+            "side"
+          ]
+        },
+        {
+          "key": "143978|i promise you i'll never hide",
+          "text": "i promise you i'll never hide",
+          "segments": [
+            "i ",
+            "promise ",
+            "you ",
+            "i'll ",
+            "never ",
+            "hide"
+          ]
+        },
+        {
+          "key": "151446|but if you wanna cry",
+          "text": "but if you wanna cry",
+          "segments": [
+            "but ",
+            "if ",
+            "you ",
+            "wanna ",
+            "cry"
+          ]
+        },
+        {
+          "key": "154160|cry on my shoulder",
+          "text": "cry on my shoulder",
+          "segments": [
+            "cry ",
+            "on ",
+            "my ",
+            "shoulder"
+          ]
+        },
+        {
+          "key": "157356|if you need someone who cares for you",
+          "text": "if you need someone who cares for you",
+          "segments": [
+            "if ",
+            "you ",
+            "need ",
+            "someone ",
+            "who ",
+            "cares ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "163213|if you're feeling sad your heart gets colder",
+          "text": "if you're feeling sad your heart gets colder",
+          "segments": [
+            "if ",
+            "you're ",
+            "feeling ",
+            "sad ",
+            "your ",
+            "heart ",
+            "gets ",
+            "colder"
+          ]
+        },
+        {
+          "key": "170398|yes i show you what real love can do",
+          "text": "yes i show you what real love can do",
+          "segments": [
+            "yes ",
+            "i ",
+            "show ",
+            "you ",
+            "what ",
+            "real ",
+            "love ",
+            "can ",
+            "do"
+          ]
+        },
+        {
+          "key": "175107|but if you wanna cry",
+          "text": "but if you wanna cry",
+          "segments": [
+            "but ",
+            "if ",
+            "you ",
+            "wanna ",
+            "cry"
+          ]
+        },
+        {
+          "key": "177817|cry on my shoulder",
+          "text": "cry on my shoulder",
+          "segments": [
+            "cry ",
+            "on ",
+            "my ",
+            "shoulder"
+          ]
+        },
+        {
+          "key": "180960|if you need someone who cares for you",
+          "text": "if you need someone who cares for you",
+          "segments": [
+            "if ",
+            "you ",
+            "need ",
+            "someone ",
+            "who ",
+            "cares ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "187286|if you're feeling sad your heart gets colder",
+          "text": "if you're feeling sad your heart gets colder",
+          "segments": [
+            "if ",
+            "you're ",
+            "feeling ",
+            "sad ",
+            "your ",
+            "heart ",
+            "gets ",
+            "colder"
+          ]
+        },
+        {
+          "key": "194531|yes i show you what real love can do",
+          "text": "yes i show you what real love can do",
+          "segments": [
+            "yes ",
+            "i ",
+            "show ",
+            "you ",
+            "what ",
+            "real ",
+            "love ",
+            "can ",
+            "do"
+          ]
+        },
+        {
+          "key": "199117|what real love can do",
+          "text": "what real love can do",
+          "segments": [
+            "what ",
+            "real ",
+            "love ",
+            "can ",
+            "do"
+          ]
+        },
+        {
+          "key": "205068|what love can do",
+          "text": "what love can do",
+          "segments": [
+            "what ",
+            "love ",
+            "can ",
+            "do"
+          ]
+        },
+        {
+          "key": "211362|what love can do",
+          "text": "what love can do",
+          "segments": [
+            "what ",
+            "love ",
+            "can ",
+            "do"
+          ]
+        },
+        {
+          "key": "216550|what love can do",
+          "text": "what love can do",
+          "segments": [
+            "what ",
+            "love ",
+            "can ",
+            "do"
+          ]
+        },
+        {
+          "key": "223205|love can do",
+          "text": "love can do",
+          "segments": [
+            "love ",
+            "can ",
+            "do"
+          ]
+        }
+      ]
+    }
+  ]
+}

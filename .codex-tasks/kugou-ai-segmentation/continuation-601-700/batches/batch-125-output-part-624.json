@@ -1,0 +1,914 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:9f10552704502a3c5ba7edfd1cb12236",
+      "lines": [
+        {
+          "key": "0|TRONICBOX、The Chainsmokers、Halsey - Closer (80s Remix)",
+          "text": "TRONICBOX、The Chainsmokers、Halsey - Closer (80s Remix)",
+          "segments": [
+            "TRONICBOX、",
+            "The Chainsmokers、",
+            "Halsey",
+            " - ",
+            "Closer (80s Remix)"
+          ]
+        },
+        {
+          "key": "10950|Written by：Halsey/Shaun Frank/Frederic Kennett",
+          "text": "Written by：Halsey/Shaun Frank/Frederic Kennett",
+          "segments": [
+            "Written by：",
+            "Halsey",
+            "/",
+            "Shaun Frank",
+            "/",
+            "Frederic Kennett"
+          ]
+        },
+        {
+          "key": "21913|Hey I was doing just fine before I met you",
+          "text": "Hey I was doing just fine before I met you",
+          "segments": [
+            "Hey ",
+            "I ",
+            "was ",
+            "doing ",
+            "just ",
+            "fine ",
+            "before ",
+            "I ",
+            "met ",
+            "you"
+          ]
+        },
+        {
+          "key": "26095|I drink too much",
+          "text": "I drink too much",
+          "segments": [
+            "I ",
+            "drink ",
+            "too ",
+            "much"
+          ]
+        },
+        {
+          "key": "27227|And that's an issue but I'm okay",
+          "text": "And that's an issue but I'm okay",
+          "segments": [
+            "And ",
+            "that's ",
+            "an ",
+            "issue ",
+            "but ",
+            "I'm ",
+            "okay"
+          ]
+        },
+        {
+          "key": "31960|Hey you tell your friends",
+          "text": "Hey you tell your friends",
+          "segments": [
+            "Hey ",
+            "you ",
+            "tell ",
+            "your ",
+            "friends"
+          ]
+        },
+        {
+          "key": "34894|It was nice to meet them",
+          "text": "It was nice to meet them",
+          "segments": [
+            "It ",
+            "was ",
+            "nice ",
+            "to ",
+            "meet ",
+            "them"
+          ]
+        },
+        {
+          "key": "36364|But I hope I never see them again",
+          "text": "But I hope I never see them again",
+          "segments": [
+            "But ",
+            "I ",
+            "hope ",
+            "I ",
+            "never ",
+            "see ",
+            "them ",
+            "again"
+          ]
+        },
+        {
+          "key": "42982|I know it breaks your heart",
+          "text": "I know it breaks your heart",
+          "segments": [
+            "I ",
+            "know ",
+            "it ",
+            "breaks ",
+            "your ",
+            "heart"
+          ]
+        },
+        {
+          "key": "44545|Moved to the city in a broke down car",
+          "text": "Moved to the city in a broke down car",
+          "segments": [
+            "Moved ",
+            "to ",
+            "the ",
+            "city ",
+            "in ",
+            "a ",
+            "broke ",
+            "down ",
+            "car"
+          ]
+        },
+        {
+          "key": "46749|And four years no calls",
+          "text": "And four years no calls",
+          "segments": [
+            "And ",
+            "four ",
+            "years ",
+            "no ",
+            "calls"
+          ]
+        },
+        {
+          "key": "49560|Now you're lookin' pretty in a hotel bar",
+          "text": "Now you're lookin' pretty in a hotel bar",
+          "segments": [
+            "Now ",
+            "you're ",
+            "lookin' ",
+            "pretty ",
+            "in ",
+            "a ",
+            "hotel ",
+            "bar"
+          ]
+        },
+        {
+          "key": "51891|And I I I can't stop",
+          "text": "And I I I can't stop",
+          "segments": [
+            "And ",
+            "I ",
+            "I ",
+            "I ",
+            "can't ",
+            "stop"
+          ]
+        },
+        {
+          "key": "56874|No I I I can't stop",
+          "text": "No I I I can't stop",
+          "segments": [
+            "No ",
+            "I ",
+            "I ",
+            "I ",
+            "can't ",
+            "stop"
+          ]
+        },
+        {
+          "key": "61857|So baby pull me closer",
+          "text": "So baby pull me closer",
+          "segments": [
+            "So ",
+            "baby ",
+            "pull ",
+            "me ",
+            "closer"
+          ]
+        },
+        {
+          "key": "64142|In the backseat of your rover",
+          "text": "In the backseat of your rover",
+          "segments": [
+            "In ",
+            "the ",
+            "backseat ",
+            "of ",
+            "your ",
+            "rover"
+          ]
+        },
+        {
+          "key": "66631|That I know you can't afford",
+          "text": "That I know you can't afford",
+          "segments": [
+            "That ",
+            "I ",
+            "know ",
+            "you ",
+            "can't ",
+            "afford"
+          ]
+        },
+        {
+          "key": "69079|Bite that tattoo on your shoulder",
+          "text": "Bite that tattoo on your shoulder",
+          "segments": [
+            "Bite ",
+            "that ",
+            "tattoo ",
+            "on ",
+            "your ",
+            "shoulder"
+          ]
+        },
+        {
+          "key": "71646|Pull the sheets right off the corner",
+          "text": "Pull the sheets right off the corner",
+          "segments": [
+            "Pull ",
+            "the ",
+            "sheets ",
+            "right ",
+            "off ",
+            "the ",
+            "corner"
+          ]
+        },
+        {
+          "key": "74143|Of the mattress that you stole",
+          "text": "Of the mattress that you stole",
+          "segments": [
+            "Of ",
+            "the ",
+            "mattress ",
+            "that ",
+            "you ",
+            "stole"
+          ]
+        },
+        {
+          "key": "76772|From your roommate back in boulder",
+          "text": "From your roommate back in boulder",
+          "segments": [
+            "From ",
+            "your ",
+            "roommate ",
+            "back ",
+            "in ",
+            "boulder"
+          ]
+        },
+        {
+          "key": "79440|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "89625|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "95138|You look as good as the day I met you",
+          "text": "You look as good as the day I met you",
+          "segments": [
+            "You ",
+            "look ",
+            "as ",
+            "good ",
+            "as ",
+            "the ",
+            "day ",
+            "I ",
+            "met ",
+            "you"
+          ]
+        },
+        {
+          "key": "99449|I forget just why I left you I was insane",
+          "text": "I forget just why I left you I was insane",
+          "segments": [
+            "I ",
+            "forget ",
+            "just ",
+            "why ",
+            "I ",
+            "left ",
+            "you ",
+            "I ",
+            "was ",
+            "insane"
+          ]
+        },
+        {
+          "key": "105054|Stay and play that Blink 182 song",
+          "text": "Stay and play that Blink 182 song",
+          "segments": [
+            "Stay ",
+            "and ",
+            "play ",
+            "that ",
+            "Blink 182 ",
+            "song"
+          ]
+        },
+        {
+          "key": "109611|That we beat to death in Tucson okay",
+          "text": "That we beat to death in Tucson okay",
+          "segments": [
+            "That ",
+            "we ",
+            "beat ",
+            "to ",
+            "death ",
+            "in ",
+            "Tucson ",
+            "okay"
+          ]
+        },
+        {
+          "key": "116160|I know it breaks your heart",
+          "text": "I know it breaks your heart",
+          "segments": [
+            "I ",
+            "know ",
+            "it ",
+            "breaks ",
+            "your ",
+            "heart"
+          ]
+        },
+        {
+          "key": "117738|Moved to the city in a broke down car",
+          "text": "Moved to the city in a broke down car",
+          "segments": [
+            "Moved ",
+            "to ",
+            "the ",
+            "city ",
+            "in ",
+            "a ",
+            "broke ",
+            "down ",
+            "car"
+          ]
+        },
+        {
+          "key": "120102|And four years no call",
+          "text": "And four years no call",
+          "segments": [
+            "And ",
+            "four ",
+            "years ",
+            "no ",
+            "call"
+          ]
+        },
+        {
+          "key": "122765|Now I'm lookin' pretty in a hotel bar",
+          "text": "Now I'm lookin' pretty in a hotel bar",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "lookin' ",
+            "pretty ",
+            "in ",
+            "a ",
+            "hotel ",
+            "bar"
+          ]
+        },
+        {
+          "key": "125161|And I I I can't stop",
+          "text": "And I I I can't stop",
+          "segments": [
+            "And ",
+            "I ",
+            "I ",
+            "I ",
+            "can't ",
+            "stop"
+          ]
+        },
+        {
+          "key": "130179|No I I I can't stop",
+          "text": "No I I I can't stop",
+          "segments": [
+            "No ",
+            "I ",
+            "I ",
+            "I ",
+            "can't ",
+            "stop"
+          ]
+        },
+        {
+          "key": "135278|So baby pull me closer",
+          "text": "So baby pull me closer",
+          "segments": [
+            "So ",
+            "baby ",
+            "pull ",
+            "me ",
+            "closer"
+          ]
+        },
+        {
+          "key": "137340|In the backseat of your rover",
+          "text": "In the backseat of your rover",
+          "segments": [
+            "In ",
+            "the ",
+            "backseat ",
+            "of ",
+            "your ",
+            "rover"
+          ]
+        },
+        {
+          "key": "139914|That I know you can't afford",
+          "text": "That I know you can't afford",
+          "segments": [
+            "That ",
+            "I ",
+            "know ",
+            "you ",
+            "can't ",
+            "afford"
+          ]
+        },
+        {
+          "key": "142391|Bite that tattoo on your shoulder",
+          "text": "Bite that tattoo on your shoulder",
+          "segments": [
+            "Bite ",
+            "that ",
+            "tattoo ",
+            "on ",
+            "your ",
+            "shoulder"
+          ]
+        },
+        {
+          "key": "144952|Pull the sheets right off the corner",
+          "text": "Pull the sheets right off the corner",
+          "segments": [
+            "Pull ",
+            "the ",
+            "sheets ",
+            "right ",
+            "off ",
+            "the ",
+            "corner"
+          ]
+        },
+        {
+          "key": "147392|Of the mattress that you stole",
+          "text": "Of the mattress that you stole",
+          "segments": [
+            "Of ",
+            "the ",
+            "mattress ",
+            "that ",
+            "you ",
+            "stole"
+          ]
+        },
+        {
+          "key": "149972|From your roommate back in boulder",
+          "text": "From your roommate back in boulder",
+          "segments": [
+            "From ",
+            "your ",
+            "roommate ",
+            "back ",
+            "in ",
+            "boulder"
+          ]
+        },
+        {
+          "key": "152380|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "155480|So baby pull me closer",
+          "text": "So baby pull me closer",
+          "segments": [
+            "So ",
+            "baby ",
+            "pull ",
+            "me ",
+            "closer"
+          ]
+        },
+        {
+          "key": "157502|In the backseat of your rover",
+          "text": "In the backseat of your rover",
+          "segments": [
+            "In ",
+            "the ",
+            "backseat ",
+            "of ",
+            "your ",
+            "rover"
+          ]
+        },
+        {
+          "key": "160015|That I know you can't afford",
+          "text": "That I know you can't afford",
+          "segments": [
+            "That ",
+            "I ",
+            "know ",
+            "you ",
+            "can't ",
+            "afford"
+          ]
+        },
+        {
+          "key": "162565|Bite that tattoo on your shoulder",
+          "text": "Bite that tattoo on your shoulder",
+          "segments": [
+            "Bite ",
+            "that ",
+            "tattoo ",
+            "on ",
+            "your ",
+            "shoulder"
+          ]
+        },
+        {
+          "key": "165373|Pull the sheets right off the corner",
+          "text": "Pull the sheets right off the corner",
+          "segments": [
+            "Pull ",
+            "the ",
+            "sheets ",
+            "right ",
+            "off ",
+            "the ",
+            "corner"
+          ]
+        },
+        {
+          "key": "167579|Of the mattress that you stole",
+          "text": "Of the mattress that you stole",
+          "segments": [
+            "Of ",
+            "the ",
+            "mattress ",
+            "that ",
+            "you ",
+            "stole"
+          ]
+        },
+        {
+          "key": "170285|From your roommate back in boulder",
+          "text": "From your roommate back in boulder",
+          "segments": [
+            "From ",
+            "your ",
+            "roommate ",
+            "back ",
+            "in ",
+            "boulder"
+          ]
+        },
+        {
+          "key": "172676|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "201445|So baby pull me closer",
+          "text": "So baby pull me closer",
+          "segments": [
+            "So ",
+            "baby ",
+            "pull ",
+            "me ",
+            "closer"
+          ]
+        },
+        {
+          "key": "202930|In the backseat of your rover",
+          "text": "In the backseat of your rover",
+          "segments": [
+            "In ",
+            "the ",
+            "backseat ",
+            "of ",
+            "your ",
+            "rover"
+          ]
+        },
+        {
+          "key": "205488|That I know you can't afford",
+          "text": "That I know you can't afford",
+          "segments": [
+            "That ",
+            "I ",
+            "know ",
+            "you ",
+            "can't ",
+            "afford"
+          ]
+        },
+        {
+          "key": "208030|Bite that tattoo on your shoulder",
+          "text": "Bite that tattoo on your shoulder",
+          "segments": [
+            "Bite ",
+            "that ",
+            "tattoo ",
+            "on ",
+            "your ",
+            "shoulder"
+          ]
+        },
+        {
+          "key": "210584|Pull the sheets right off the corner",
+          "text": "Pull the sheets right off the corner",
+          "segments": [
+            "Pull ",
+            "the ",
+            "sheets ",
+            "right ",
+            "off ",
+            "the ",
+            "corner"
+          ]
+        },
+        {
+          "key": "213028|Of the mattress that you stole",
+          "text": "Of the mattress that you stole",
+          "segments": [
+            "Of ",
+            "the ",
+            "mattress ",
+            "that ",
+            "you ",
+            "stole"
+          ]
+        },
+        {
+          "key": "215656|From your roommate back in boulder",
+          "text": "From your roommate back in boulder",
+          "segments": [
+            "From ",
+            "your ",
+            "roommate ",
+            "back ",
+            "in ",
+            "boulder"
+          ]
+        },
+        {
+          "key": "218104|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "221046|So baby pull me closer",
+          "text": "So baby pull me closer",
+          "segments": [
+            "So ",
+            "baby ",
+            "pull ",
+            "me ",
+            "closer"
+          ]
+        },
+        {
+          "key": "223188|In the backseat of your rover",
+          "text": "In the backseat of your rover",
+          "segments": [
+            "In ",
+            "the ",
+            "backseat ",
+            "of ",
+            "your ",
+            "rover"
+          ]
+        },
+        {
+          "key": "225729|That I know you can't afford",
+          "text": "That I know you can't afford",
+          "segments": [
+            "That ",
+            "I ",
+            "know ",
+            "you ",
+            "can't ",
+            "afford"
+          ]
+        },
+        {
+          "key": "228241|Bite that tattoo on your shoulder",
+          "text": "Bite that tattoo on your shoulder",
+          "segments": [
+            "Bite ",
+            "that ",
+            "tattoo ",
+            "on ",
+            "your ",
+            "shoulder"
+          ]
+        },
+        {
+          "key": "230757|Pull the sheets right off the corner",
+          "text": "Pull the sheets right off the corner",
+          "segments": [
+            "Pull ",
+            "the ",
+            "sheets ",
+            "right ",
+            "off ",
+            "the ",
+            "corner"
+          ]
+        },
+        {
+          "key": "233270|Of the mattress that you stole",
+          "text": "Of the mattress that you stole",
+          "segments": [
+            "Of ",
+            "the ",
+            "mattress ",
+            "that ",
+            "you ",
+            "stole"
+          ]
+        },
+        {
+          "key": "235862|From your roommate back in boulder",
+          "text": "From your roommate back in boulder",
+          "segments": [
+            "From ",
+            "your ",
+            "roommate ",
+            "back ",
+            "in ",
+            "boulder"
+          ]
+        },
+        {
+          "key": "238375|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "241352|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "243526|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "245916|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "248460|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "250982|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "253583|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "256180|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "258590|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "269157|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        },
+        {
+          "key": "275218|We ain't ever getting older",
+          "text": "We ain't ever getting older",
+          "segments": [
+            "We ",
+            "ain't ",
+            "ever ",
+            "getting ",
+            "older"
+          ]
+        }
+      ]
+    }
+  ]
+}

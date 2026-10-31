@@ -1,0 +1,409 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:c2d6e311bc7575f367f31f1dbf32de2e",
+      "lines": [
+        {
+          "key": "0|DJ Pablo - One B-Boy",
+          "text": "DJ Pablo - One B-Boy",
+          "segments": [
+            "DJ Pablo",
+            " - ",
+            "One B-Boy"
+          ]
+        },
+        {
+          "key": "610|Composed by：Pablo/DJ",
+          "text": "Composed by：Pablo/DJ",
+          "segments": [
+            "Composed by：",
+            "Pablo",
+            "/",
+            "DJ"
+          ]
+        },
+        {
+          "key": "1230|Produced by：Pablo/DJ",
+          "text": "Produced by：Pablo/DJ",
+          "segments": [
+            "Produced by：",
+            "Pablo",
+            "/",
+            "DJ"
+          ]
+        },
+        {
+          "key": "1851|Ah-ah",
+          "text": "Ah-ah",
+          "segments": [
+            "Ah",
+            "-",
+            "ah"
+          ]
+        },
+        {
+          "key": "3781|Tonight you are gonna see so breakin'",
+          "text": "Tonight you are gonna see so breakin'",
+          "segments": [
+            "Tonight ",
+            "you ",
+            "are ",
+            "gonna ",
+            "see ",
+            "so ",
+            "breakin'"
+          ]
+        },
+        {
+          "key": "5869|And some rappin' and some breakin'",
+          "text": "And some rappin' and some breakin'",
+          "segments": [
+            "And ",
+            "some ",
+            "rappin' ",
+            "and ",
+            "some ",
+            "breakin'"
+          ]
+        },
+        {
+          "key": "7980|And some strechin' and some breakin' and some defeatin'",
+          "text": "And some strechin' and some breakin' and some defeatin'",
+          "segments": [
+            "And ",
+            "some ",
+            "strechin' ",
+            "and ",
+            "some ",
+            "breakin' ",
+            "and ",
+            "some ",
+            "defeatin'"
+          ]
+        },
+        {
+          "key": "12599|And bring it on bring it on bring it bring it",
+          "text": "And bring it on bring it on bring it bring it",
+          "segments": [
+            "And ",
+            "bring ",
+            "it ",
+            "on ",
+            "bring ",
+            "it ",
+            "on ",
+            "bring ",
+            "it ",
+            "bring ",
+            "it"
+          ]
+        },
+        {
+          "key": "18535|Come on",
+          "text": "Come on",
+          "segments": [
+            "Come ",
+            "on"
+          ]
+        },
+        {
+          "key": "42581|Yo DJ are you done mixing yet",
+          "text": "Yo DJ are you done mixing yet",
+          "segments": [
+            "Yo ",
+            "DJ ",
+            "are ",
+            "you ",
+            "done ",
+            "mixing ",
+            "yet"
+          ]
+        },
+        {
+          "key": "46709|Semper sequindo odorem sanguis",
+          "text": "Semper sequindo odorem sanguis",
+          "segments": [
+            "Semper ",
+            "sequindo ",
+            "odorem ",
+            "sanguis"
+          ]
+        },
+        {
+          "key": "50077|Ferrox currendo ex infernalis",
+          "text": "Ferrox currendo ex infernalis",
+          "segments": [
+            "Ferrox ",
+            "currendo ",
+            "ex ",
+            "infernalis"
+          ]
+        },
+        {
+          "key": "53877|Semper sequindo odorem sanguis",
+          "text": "Semper sequindo odorem sanguis",
+          "segments": [
+            "Semper ",
+            "sequindo ",
+            "odorem ",
+            "sanguis"
+          ]
+        },
+        {
+          "key": "57605|Est cerberus",
+          "text": "Est cerberus",
+          "segments": [
+            "Est ",
+            "cerberus"
+          ]
+        },
+        {
+          "key": "91707|Predator ceberus qui vi vit infernus",
+          "text": "Predator ceberus qui vi vit infernus",
+          "segments": [
+            "Predator ",
+            "ceberus ",
+            "qui ",
+            "vi ",
+            "vit ",
+            "infernus"
+          ]
+        },
+        {
+          "key": "96280|Farmes ardenes",
+          "text": "Farmes ardenes",
+          "segments": [
+            "Farmes ",
+            "ardenes"
+          ]
+        },
+        {
+          "key": "100227|Farmes adentes",
+          "text": "Farmes adentes",
+          "segments": [
+            "Farmes ",
+            "adentes"
+          ]
+        },
+        {
+          "key": "102339|Carne",
+          "text": "Carne",
+          "segments": [
+            "Carne"
+          ]
+        },
+        {
+          "key": "103155|Hominis",
+          "text": "Hominis",
+          "segments": [
+            "Hominis"
+          ]
+        },
+        {
+          "key": "104891|Mortalis",
+          "text": "Mortalis",
+          "segments": [
+            "Mortalis"
+          ]
+        },
+        {
+          "key": "107579|Semper sequindo odorem sanguis",
+          "text": "Semper sequindo odorem sanguis",
+          "segments": [
+            "Semper ",
+            "sequindo ",
+            "odorem ",
+            "sanguis"
+          ]
+        },
+        {
+          "key": "111035|Ferrox currendo ex infernalis",
+          "text": "Ferrox currendo ex infernalis",
+          "segments": [
+            "Ferrox ",
+            "currendo ",
+            "ex ",
+            "infernalis"
+          ]
+        },
+        {
+          "key": "114899|Semper sequindo odorem sanguis",
+          "text": "Semper sequindo odorem sanguis",
+          "segments": [
+            "Semper ",
+            "sequindo ",
+            "odorem ",
+            "sanguis"
+          ]
+        },
+        {
+          "key": "118475|Est cerberus",
+          "text": "Est cerberus",
+          "segments": [
+            "Est ",
+            "cerberus"
+          ]
+        },
+        {
+          "key": "122539|Estuans interius ira vehementi",
+          "text": "Estuans interius ira vehementi",
+          "segments": [
+            "Estuans ",
+            "interius ",
+            "ira ",
+            "vehementi"
+          ]
+        },
+        {
+          "key": "126005|Sephiroth",
+          "text": "Sephiroth",
+          "segments": [
+            "Sephiroth"
+          ]
+        },
+        {
+          "key": "126421|Estuans interius ira vehementi",
+          "text": "Estuans interius ira vehementi",
+          "segments": [
+            "Estuans ",
+            "interius ",
+            "ira ",
+            "vehementi"
+          ]
+        },
+        {
+          "key": "129157|Sephiroth",
+          "text": "Sephiroth",
+          "segments": [
+            "Sephiroth"
+          ]
+        },
+        {
+          "key": "129925|Estuans interius ira vehementi",
+          "text": "Estuans interius ira vehementi",
+          "segments": [
+            "Estuans ",
+            "interius ",
+            "ira ",
+            "vehementi"
+          ]
+        },
+        {
+          "key": "133085|Sephiroth",
+          "text": "Sephiroth",
+          "segments": [
+            "Sephiroth"
+          ]
+        },
+        {
+          "key": "133725|Estuans interius ira vehementi",
+          "text": "Estuans interius ira vehementi",
+          "segments": [
+            "Estuans ",
+            "interius ",
+            "ira ",
+            "vehementi"
+          ]
+        },
+        {
+          "key": "136885|Sephiroth",
+          "text": "Sephiroth",
+          "segments": [
+            "Sephiroth"
+          ]
+        },
+        {
+          "key": "152969|Semper sequindo odorem sanguis",
+          "text": "Semper sequindo odorem sanguis",
+          "segments": [
+            "Semper ",
+            "sequindo ",
+            "odorem ",
+            "sanguis"
+          ]
+        },
+        {
+          "key": "156881|Est cerberus",
+          "text": "Est cerberus",
+          "segments": [
+            "Est ",
+            "cerberus"
+          ]
+        },
+        {
+          "key": "158572|Ferrox currendo ex infernalis",
+          "text": "Ferrox currendo ex infernalis",
+          "segments": [
+            "Ferrox ",
+            "currendo ",
+            "ex ",
+            "infernalis"
+          ]
+        },
+        {
+          "key": "160636|Semper sequindo odorem sanguis",
+          "text": "Semper sequindo odorem sanguis",
+          "segments": [
+            "Semper ",
+            "sequindo ",
+            "odorem ",
+            "sanguis"
+          ]
+        },
+        {
+          "key": "164108|Est cerberus",
+          "text": "Est cerberus",
+          "segments": [
+            "Est ",
+            "cerberus"
+          ]
+        },
+        {
+          "key": "168235|Semper sequindo odorem sanguis",
+          "text": "Semper sequindo odorem sanguis",
+          "segments": [
+            "Semper ",
+            "sequindo ",
+            "odorem ",
+            "sanguis"
+          ]
+        },
+        {
+          "key": "172018|Ferrox currendo ex infernalis",
+          "text": "Ferrox currendo ex infernalis",
+          "segments": [
+            "Ferrox ",
+            "currendo ",
+            "ex ",
+            "infernalis"
+          ]
+        },
+        {
+          "key": "175706|Semper sequindo odorem sanguis",
+          "text": "Semper sequindo odorem sanguis",
+          "segments": [
+            "Semper ",
+            "sequindo ",
+            "odorem ",
+            "sanguis"
+          ]
+        },
+        {
+          "key": "179514|Est cerberus",
+          "text": "Est cerberus",
+          "segments": [
+            "Est ",
+            "cerberus"
+          ]
+        },
+        {
+          "key": "182924|Sephiroth",
+          "text": "Sephiroth",
+          "segments": [
+            "Sephiroth"
+          ]
+        }
+      ]
+    }
+  ]
+}

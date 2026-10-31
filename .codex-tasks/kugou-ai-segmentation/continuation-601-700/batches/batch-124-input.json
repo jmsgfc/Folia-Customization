@@ -1,0 +1,1160 @@
+{
+  "batchNumber": 124,
+  "songs": [
+    {
+      "rank": 616,
+      "songKey": "online:kugou:68942b49cb01cc89b5815180804ac383",
+      "name": "摆渡",
+      "artist": "王天戈",
+      "lines": [
+        {
+          "key": "1040|摆渡 - 王天戈",
+          "startMs": 1040,
+          "text": "摆渡 - 王天戈"
+        },
+        {
+          "key": "2117|词：杨雨心",
+          "startMs": 2117,
+          "text": "词：杨雨心"
+        },
+        {
+          "key": "3013|曲：王秋实",
+          "startMs": 3013,
+          "text": "曲：王秋实"
+        },
+        {
+          "key": "3799|编曲：季志豪",
+          "startMs": 3799,
+          "text": "编曲：季志豪"
+        },
+        {
+          "key": "4736|制作：Morerare录音棚",
+          "startMs": 4736,
+          "text": "制作：Morerare录音棚"
+        },
+        {
+          "key": "5599|吉他：蔡秉汝",
+          "startMs": 5599,
+          "text": "吉他：蔡秉汝"
+        },
+        {
+          "key": "7403|混音工程师：季志豪",
+          "startMs": 7403,
+          "text": "混音工程师：季志豪"
+        },
+        {
+          "key": "8637|母带工程师：季志豪",
+          "startMs": 8637,
+          "text": "母带工程师：季志豪"
+        },
+        {
+          "key": "9965|制作统筹：李士煜Monkey",
+          "startMs": 9965,
+          "text": "制作统筹：李士煜Monkey"
+        },
+        {
+          "key": "11249|监制：何施瑶",
+          "startMs": 11249,
+          "text": "监制：何施瑶"
+        },
+        {
+          "key": "12019|出品团队：HOTPLAY STUDIO",
+          "startMs": 12019,
+          "text": "出品团队：HOTPLAY STUDIO"
+        },
+        {
+          "key": "12990|营销推广：噼里啪啦Studio",
+          "startMs": 12990,
+          "text": "营销推广：噼里啪啦Studio"
+        },
+        {
+          "key": "14528|发行方：讯飞音乐",
+          "startMs": 14528,
+          "text": "发行方：讯飞音乐"
+        },
+        {
+          "key": "15495|词曲提供：词曲家",
+          "startMs": 15495,
+          "text": "词曲提供：词曲家"
+        },
+        {
+          "key": "16535|【未经著作权人许可 不得翻唱翻录或使用】",
+          "startMs": 16535,
+          "text": "【未经著作权人许可 不得翻唱翻录或使用】"
+        },
+        {
+          "key": "17575|我像沉入孤独 又像被放逐",
+          "startMs": 17575,
+          "text": "我像沉入孤独 又像被放逐"
+        },
+        {
+          "key": "24000|我感受着虚无 向日暮奔赴",
+          "startMs": 24000,
+          "text": "我感受着虚无 向日暮奔赴"
+        },
+        {
+          "key": "31260|灵魂如初天黑漂浮",
+          "startMs": 31260,
+          "text": "灵魂如初天黑漂浮"
+        },
+        {
+          "key": "34950|无人摆渡",
+          "startMs": 34950,
+          "text": "无人摆渡"
+        },
+        {
+          "key": "38550|我言外之意是 让痛楚麻木",
+          "startMs": 38550,
+          "text": "我言外之意是 让痛楚麻木"
+        },
+        {
+          "key": "45840|只趋于表象的爱慕",
+          "startMs": 45840,
+          "text": "只趋于表象的爱慕"
+        },
+        {
+          "key": "49470|只感动了自己的顽固",
+          "startMs": 49470,
+          "text": "只感动了自己的顽固"
+        },
+        {
+          "key": "52980|不顾一切 下场却是被驱逐",
+          "startMs": 52980,
+          "text": "不顾一切 下场却是被驱逐"
+        },
+        {
+          "key": "60330|看透却宁愿装糊涂",
+          "startMs": 60330,
+          "text": "看透却宁愿装糊涂"
+        },
+        {
+          "key": "63840|是感情过度不是无辜",
+          "startMs": 63840,
+          "text": "是感情过度不是无辜"
+        },
+        {
+          "key": "67500|世人将这些盲目都称作庸俗",
+          "startMs": 67500,
+          "text": "世人将这些盲目都称作庸俗"
+        },
+        {
+          "key": "76095|我坠入 逆流的瀑布",
+          "startMs": 76095,
+          "text": "我坠入 逆流的瀑布"
+        },
+        {
+          "key": "78480|穿一片浓雾",
+          "startMs": 78480,
+          "text": "穿一片浓雾"
+        },
+        {
+          "key": "80340|灵魂的深处 任由我摆渡",
+          "startMs": 80340,
+          "text": "灵魂的深处 任由我摆渡"
+        },
+        {
+          "key": "83520|冲出大雨的束缚",
+          "startMs": 83520,
+          "text": "冲出大雨的束缚"
+        },
+        {
+          "key": "85830|暂时停靠在迷途",
+          "startMs": 85830,
+          "text": "暂时停靠在迷途"
+        },
+        {
+          "key": "90600|我任凭 夜侵蚀温度",
+          "startMs": 90600,
+          "text": "我任凭 夜侵蚀温度"
+        },
+        {
+          "key": "93060|玫瑰在干枯",
+          "startMs": 93060,
+          "text": "玫瑰在干枯"
+        },
+        {
+          "key": "94920|孤独像怪物 任由我摆渡",
+          "startMs": 94920,
+          "text": "孤独像怪物 任由我摆渡"
+        },
+        {
+          "key": "98070|纪念故事已落幕",
+          "startMs": 98070,
+          "text": "纪念故事已落幕"
+        },
+        {
+          "key": "100380|判决万劫不复",
+          "startMs": 100380,
+          "text": "判决万劫不复"
+        },
+        {
+          "key": "113160|我像沉入孤独 又像被放逐",
+          "startMs": 113160,
+          "text": "我像沉入孤独 又像被放逐"
+        },
+        {
+          "key": "120240|我感受着虚无 向日暮奔赴",
+          "startMs": 120240,
+          "text": "我感受着虚无 向日暮奔赴"
+        },
+        {
+          "key": "127620|灵魂如初天黑漂浮",
+          "startMs": 127620,
+          "text": "灵魂如初天黑漂浮"
+        },
+        {
+          "key": "131310|无人摆渡",
+          "startMs": 131310,
+          "text": "无人摆渡"
+        },
+        {
+          "key": "134910|我言外之意是 让痛楚麻木",
+          "startMs": 134910,
+          "text": "我言外之意是 让痛楚麻木"
+        },
+        {
+          "key": "142230|看透却宁愿装糊涂",
+          "startMs": 142230,
+          "text": "看透却宁愿装糊涂"
+        },
+        {
+          "key": "145770|是感情过度不是无辜",
+          "startMs": 145770,
+          "text": "是感情过度不是无辜"
+        },
+        {
+          "key": "149400|世人将这些盲目都称作庸俗",
+          "startMs": 149400,
+          "text": "世人将这些盲目都称作庸俗"
+        },
+        {
+          "key": "156337|我坠入 逆流的瀑布",
+          "startMs": 156337,
+          "text": "我坠入 逆流的瀑布"
+        },
+        {
+          "key": "158490|穿一片浓雾",
+          "startMs": 158490,
+          "text": "穿一片浓雾"
+        },
+        {
+          "key": "160380|灵魂的深处 任由我摆渡",
+          "startMs": 160380,
+          "text": "灵魂的深处 任由我摆渡"
+        },
+        {
+          "key": "163530|冲出大雨的束缚",
+          "startMs": 163530,
+          "text": "冲出大雨的束缚"
+        },
+        {
+          "key": "165840|暂时停靠在迷途",
+          "startMs": 165840,
+          "text": "暂时停靠在迷途"
+        },
+        {
+          "key": "170580|我任凭 夜侵蚀温度",
+          "startMs": 170580,
+          "text": "我任凭 夜侵蚀温度"
+        },
+        {
+          "key": "173040|玫瑰在干枯",
+          "startMs": 173040,
+          "text": "玫瑰在干枯"
+        },
+        {
+          "key": "174900|孤独像怪物 任由我摆渡",
+          "startMs": 174900,
+          "text": "孤独像怪物 任由我摆渡"
+        },
+        {
+          "key": "178080|纪念故事已落幕",
+          "startMs": 178080,
+          "text": "纪念故事已落幕"
+        },
+        {
+          "key": "180360|判决万劫不复",
+          "startMs": 180360,
+          "text": "判决万劫不复"
+        },
+        {
+          "key": "185230|我坠入 逆流的瀑布",
+          "startMs": 185230,
+          "text": "我坠入 逆流的瀑布"
+        },
+        {
+          "key": "187590|穿一片浓雾",
+          "startMs": 187590,
+          "text": "穿一片浓雾"
+        },
+        {
+          "key": "189510|灵魂的深处 任由我摆渡",
+          "startMs": 189510,
+          "text": "灵魂的深处 任由我摆渡"
+        },
+        {
+          "key": "192630|冲出大雨的束缚",
+          "startMs": 192630,
+          "text": "冲出大雨的束缚"
+        },
+        {
+          "key": "194910|暂时停靠在迷途",
+          "startMs": 194910,
+          "text": "暂时停靠在迷途"
+        },
+        {
+          "key": "199710|我任凭 夜侵蚀温度",
+          "startMs": 199710,
+          "text": "我任凭 夜侵蚀温度"
+        },
+        {
+          "key": "202140|玫瑰在干枯",
+          "startMs": 202140,
+          "text": "玫瑰在干枯"
+        },
+        {
+          "key": "204030|孤独像怪物 任由我摆渡",
+          "startMs": 204030,
+          "text": "孤独像怪物 任由我摆渡"
+        },
+        {
+          "key": "207180|纪念故事已落幕",
+          "startMs": 207180,
+          "text": "纪念故事已落幕"
+        },
+        {
+          "key": "209430|判决万劫不复",
+          "startMs": 209430,
+          "text": "判决万劫不复"
+        },
+        {
+          "key": "214200|我与世俗反目",
+          "startMs": 214200,
+          "text": "我与世俗反目"
+        },
+        {
+          "key": "215940|你能否再次把我认出",
+          "startMs": 215940,
+          "text": "你能否再次把我认出"
+        }
+      ]
+    },
+    {
+      "rank": 617,
+      "songKey": "online:kugou:aa9b5ccbb1fd1d53d30ece2206b3bdfa",
+      "name": "Experience (经验)",
+      "artist": "Ludovico Einaudi / Daniel Hope / I Virtuosi Italiani",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 618,
+      "songKey": "online:kugou:6afc23b05a0e07eeca9b32debfeab526",
+      "name": "嚣张",
+      "artist": "en (王翊恩)",
+      "lines": [
+        {
+          "key": "1013|en - 嚣张",
+          "startMs": 1013,
+          "text": "en - 嚣张"
+        },
+        {
+          "key": "1572|作词：李艺皓",
+          "startMs": 1572,
+          "text": "作词：李艺皓"
+        },
+        {
+          "key": "1774|作曲：李艺皓",
+          "startMs": 1774,
+          "text": "作曲：李艺皓"
+        },
+        {
+          "key": "1926|编曲：常玮",
+          "startMs": 1926,
+          "text": "编曲：常玮"
+        },
+        {
+          "key": "2077|制作人：常玮、伍华",
+          "startMs": 2077,
+          "text": "制作人：常玮、伍华"
+        },
+        {
+          "key": "2281|吉他：常玮",
+          "startMs": 2281,
+          "text": "吉他：常玮"
+        },
+        {
+          "key": "2431|混音：张鸣利",
+          "startMs": 2431,
+          "text": "混音：张鸣利"
+        },
+        {
+          "key": "2584|和声设计、和声：常玮",
+          "startMs": 2584,
+          "text": "和声设计、和声：常玮"
+        },
+        {
+          "key": "2887|统筹：王艺园",
+          "startMs": 2887,
+          "text": "统筹：王艺园"
+        },
+        {
+          "key": "3040|制作公司：Hikoon Music",
+          "startMs": 3040,
+          "text": "制作公司：Hikoon Music"
+        },
+        {
+          "key": "3850|OP：嗨库文化",
+          "startMs": 3850,
+          "text": "OP：嗨库文化"
+        },
+        {
+          "key": "29747|太多的 太重的 太残忍的话",
+          "startMs": 29747,
+          "text": "太多的 太重的 太残忍的话"
+        },
+        {
+          "key": "36792|没纠缠 是你的 理由太假",
+          "startMs": 36792,
+          "text": "没纠缠 是你的 理由太假"
+        },
+        {
+          "key": "44039|我觉得",
+          "startMs": 44039,
+          "text": "我觉得"
+        },
+        {
+          "key": "45663|你大可不必说的天花乱坠",
+          "startMs": 45663,
+          "text": "你大可不必说的天花乱坠"
+        },
+        {
+          "key": "50980|是天使 是魔鬼 都没有绝对",
+          "startMs": 50980,
+          "text": "是天使 是魔鬼 都没有绝对"
+        },
+        {
+          "key": "58278|没想的 没说的 都请收起吧",
+          "startMs": 58278,
+          "text": "没想的 没说的 都请收起吧"
+        },
+        {
+          "key": "65469|你扮演 的角色 更可悲吗",
+          "startMs": 65469,
+          "text": "你扮演 的角色 更可悲吗"
+        },
+        {
+          "key": "72605|放弃的",
+          "startMs": 72605,
+          "text": "放弃的"
+        },
+        {
+          "key": "74428|就大可不必再争辩是非",
+          "startMs": 74428,
+          "text": "就大可不必再争辩是非"
+        },
+        {
+          "key": "79745|放下的 就请你 烧的干脆",
+          "startMs": 79745,
+          "text": "放下的 就请你 烧的干脆"
+        },
+        {
+          "key": "86477|你的一字一句犹如刀疤划心上",
+          "startMs": 86477,
+          "text": "你的一字一句犹如刀疤划心上"
+        },
+        {
+          "key": "90522|我的一举一动随你改变多荒唐",
+          "startMs": 90522,
+          "text": "我的一举一动随你改变多荒唐"
+        },
+        {
+          "key": "94017|任你肆意玩弄 从没去想",
+          "startMs": 94017,
+          "text": "任你肆意玩弄 从没去想"
+        },
+        {
+          "key": "97921|你是有多嚣张",
+          "startMs": 97921,
+          "text": "你是有多嚣张"
+        },
+        {
+          "key": "100709|我的心脏脉搏为你跳动为你狂",
+          "startMs": 100709,
+          "text": "我的心脏脉搏为你跳动为你狂"
+        },
+        {
+          "key": "104813|你说我真的多余不如离开流浪",
+          "startMs": 104813,
+          "text": "你说我真的多余不如离开流浪"
+        },
+        {
+          "key": "108356|都怪我 没治愈我的伤",
+          "startMs": 108356,
+          "text": "都怪我 没治愈我的伤"
+        },
+        {
+          "key": "144497|没想的 没说的 都请收起吧",
+          "startMs": 144497,
+          "text": "没想的 没说的 都请收起吧"
+        },
+        {
+          "key": "151390|你扮演 的角色 更可悲吗",
+          "startMs": 151390,
+          "text": "你扮演 的角色 更可悲吗"
+        },
+        {
+          "key": "158584|放弃的",
+          "startMs": 158584,
+          "text": "放弃的"
+        },
+        {
+          "key": "160357|就大可不必再争辩是非",
+          "startMs": 160357,
+          "text": "就大可不必再争辩是非"
+        },
+        {
+          "key": "165726|放下的 就请你 烧的干脆",
+          "startMs": 165726,
+          "text": "放下的 就请你 烧的干脆"
+        },
+        {
+          "key": "172461|你的一字一句犹如刀疤划心上",
+          "startMs": 172461,
+          "text": "你的一字一句犹如刀疤划心上"
+        },
+        {
+          "key": "176466|我的一举一动随你改变多荒唐",
+          "startMs": 176466,
+          "text": "我的一举一动随你改变多荒唐"
+        },
+        {
+          "key": "180010|任你肆意玩弄 从没去想",
+          "startMs": 180010,
+          "text": "任你肆意玩弄 从没去想"
+        },
+        {
+          "key": "183912|你是有多嚣张",
+          "startMs": 183912,
+          "text": "你是有多嚣张"
+        },
+        {
+          "key": "186751|我的心脏脉搏为你跳动为你狂",
+          "startMs": 186751,
+          "text": "我的心脏脉搏为你跳动为你狂"
+        },
+        {
+          "key": "190747|你说我真的多余不如离开流浪",
+          "startMs": 190747,
+          "text": "你说我真的多余不如离开流浪"
+        },
+        {
+          "key": "194294|都怪我 没治愈我的伤",
+          "startMs": 194294,
+          "text": "都怪我 没治愈我的伤"
+        },
+        {
+          "key": "201092|你的一字一句犹如刀疤划心上",
+          "startMs": 201092,
+          "text": "你的一字一句犹如刀疤划心上"
+        },
+        {
+          "key": "205095|我的一举一动随你改变多荒唐",
+          "startMs": 205095,
+          "text": "我的一举一动随你改变多荒唐"
+        },
+        {
+          "key": "208689|任你肆意玩弄 从没去想",
+          "startMs": 208689,
+          "text": "任你肆意玩弄 从没去想"
+        },
+        {
+          "key": "212587|你是有多嚣张",
+          "startMs": 212587,
+          "text": "你是有多嚣张"
+        },
+        {
+          "key": "215373|我的心脏脉搏为你跳动为你狂",
+          "startMs": 215373,
+          "text": "我的心脏脉搏为你跳动为你狂"
+        },
+        {
+          "key": "219426|你说我真的多余不如离开流浪",
+          "startMs": 219426,
+          "text": "你说我真的多余不如离开流浪"
+        },
+        {
+          "key": "222969|都怪我 没治愈我的伤",
+          "startMs": 222969,
+          "text": "都怪我 没治愈我的伤"
+        }
+      ]
+    },
+    {
+      "rank": 619,
+      "songKey": "online:kugou:7c49b5d31db34137ddeb4f2903d97dd2",
+      "name": "不如",
+      "artist": "秦海清",
+      "lines": [
+        {
+          "key": "37|秦海清 - 不如",
+          "startMs": 37,
+          "text": "秦海清 - 不如"
+        },
+        {
+          "key": "1320|作词：周林",
+          "startMs": 1320,
+          "text": "作词：周林"
+        },
+        {
+          "key": "1429|作曲：周林",
+          "startMs": 1429,
+          "text": "作曲：周林"
+        },
+        {
+          "key": "1491|编曲：周林、筱明",
+          "startMs": 1491,
+          "text": "编曲：周林、筱明"
+        },
+        {
+          "key": "5116|制作人：一寸光年团队",
+          "startMs": 5116,
+          "text": "制作人：一寸光年团队"
+        },
+        {
+          "key": "6306|混音、母带：张鸣利、周林",
+          "startMs": 6306,
+          "text": "混音、母带：张鸣利、周林"
+        },
+        {
+          "key": "7674|录音：周林",
+          "startMs": 7674,
+          "text": "录音：周林"
+        },
+        {
+          "key": "8762|和声：夏初安、赫拉Hera ",
+          "startMs": 8762,
+          "text": "和声：夏初安、赫拉Hera "
+        },
+        {
+          "key": "10232|出品人：徐良",
+          "startMs": 10232,
+          "text": "出品人：徐良"
+        },
+        {
+          "key": "11511|制作公司&OP：一寸光年",
+          "startMs": 11511,
+          "text": "制作公司&OP：一寸光年"
+        },
+        {
+          "key": "12790|【未经著作权人许可不得翻唱翻录或使用】",
+          "startMs": 12790,
+          "text": "【未经著作权人许可不得翻唱翻录或使用】"
+        },
+        {
+          "key": "14070|不如两清",
+          "startMs": 14070,
+          "text": "不如两清"
+        },
+        {
+          "key": "15270|不如发个神经",
+          "startMs": 15270,
+          "text": "不如发个神经"
+        },
+        {
+          "key": "16800|删掉所有关于你的回忆",
+          "startMs": 16800,
+          "text": "删掉所有关于你的回忆"
+        },
+        {
+          "key": "20220|不如狠心",
+          "startMs": 20220,
+          "text": "不如狠心"
+        },
+        {
+          "key": "21420|不如回到人群",
+          "startMs": 21420,
+          "text": "不如回到人群"
+        },
+        {
+          "key": "23160|做你的甲乙丙丁",
+          "startMs": 23160,
+          "text": "做你的甲乙丙丁"
+        },
+        {
+          "key": "25260|可我看到他们说有一对模范情侣",
+          "startMs": 25260,
+          "text": "可我看到他们说有一对模范情侣"
+        },
+        {
+          "key": "29040|不如我和你",
+          "startMs": 29040,
+          "text": "不如我和你"
+        },
+        {
+          "key": "31620|可你说没有真正感同身受爱情",
+          "startMs": 31620,
+          "text": "可你说没有真正感同身受爱情"
+        },
+        {
+          "key": "35220|不如就放弃",
+          "startMs": 35220,
+          "text": "不如就放弃"
+        },
+        {
+          "key": "37500|不如我们拥抱后分手",
+          "startMs": 37500,
+          "text": "不如我们拥抱后分手"
+        },
+        {
+          "key": "40620|不如眼泪有空偷偷流",
+          "startMs": 40620,
+          "text": "不如眼泪有空偷偷流"
+        },
+        {
+          "key": "43590|不如这次就还你自由",
+          "startMs": 43590,
+          "text": "不如这次就还你自由"
+        },
+        {
+          "key": "46620|不如擦肩而过别回头",
+          "startMs": 46620,
+          "text": "不如擦肩而过别回头"
+        },
+        {
+          "key": "49860|不如这次你说对不起",
+          "startMs": 49860,
+          "text": "不如这次你说对不起"
+        },
+        {
+          "key": "52920|我一定告诉你没关系",
+          "startMs": 52920,
+          "text": "我一定告诉你没关系"
+        },
+        {
+          "key": "55920|不如回到最初的相遇",
+          "startMs": 55920,
+          "text": "不如回到最初的相遇"
+        },
+        {
+          "key": "59100|把爱藏在相遇的缝隙",
+          "startMs": 59100,
+          "text": "把爱藏在相遇的缝隙"
+        },
+        {
+          "key": "75540|不如放弃",
+          "startMs": 75540,
+          "text": "不如放弃"
+        },
+        {
+          "key": "76800|不如交给酒精",
+          "startMs": 76800,
+          "text": "不如交给酒精"
+        },
+        {
+          "key": "78360|不如迷失在有你的过去",
+          "startMs": 78360,
+          "text": "不如迷失在有你的过去"
+        },
+        {
+          "key": "81690|不如任性",
+          "startMs": 81690,
+          "text": "不如任性"
+        },
+        {
+          "key": "83010|不如放过自己",
+          "startMs": 83010,
+          "text": "不如放过自己"
+        },
+        {
+          "key": "84660|不如就让你满意",
+          "startMs": 84660,
+          "text": "不如就让你满意"
+        },
+        {
+          "key": "86730|可我看到他们说有一对模范情侣",
+          "startMs": 86730,
+          "text": "可我看到他们说有一对模范情侣"
+        },
+        {
+          "key": "90630|不如我和你",
+          "startMs": 90630,
+          "text": "不如我和你"
+        },
+        {
+          "key": "93150|可你说没有真正感同身受爱情",
+          "startMs": 93150,
+          "text": "可你说没有真正感同身受爱情"
+        },
+        {
+          "key": "96780|不如就放弃",
+          "startMs": 96780,
+          "text": "不如就放弃"
+        },
+        {
+          "key": "99090|不如我们拥抱后分手",
+          "startMs": 99090,
+          "text": "不如我们拥抱后分手"
+        },
+        {
+          "key": "102180|不如眼泪有空偷偷流",
+          "startMs": 102180,
+          "text": "不如眼泪有空偷偷流"
+        },
+        {
+          "key": "105180|不如这次就还你自由",
+          "startMs": 105180,
+          "text": "不如这次就还你自由"
+        },
+        {
+          "key": "108300|不如擦肩而过别回头",
+          "startMs": 108300,
+          "text": "不如擦肩而过别回头"
+        },
+        {
+          "key": "111390|不如这次你说对不起",
+          "startMs": 111390,
+          "text": "不如这次你说对不起"
+        },
+        {
+          "key": "114420|我一定告诉你没关系",
+          "startMs": 114420,
+          "text": "我一定告诉你没关系"
+        },
+        {
+          "key": "117450|不如回到最初的相遇",
+          "startMs": 117450,
+          "text": "不如回到最初的相遇"
+        },
+        {
+          "key": "120630|把爱藏在相遇的缝隙",
+          "startMs": 120630,
+          "text": "把爱藏在相遇的缝隙"
+        },
+        {
+          "key": "135840|不如含着眼泪说你好",
+          "startMs": 135840,
+          "text": "不如含着眼泪说你好"
+        },
+        {
+          "key": "139110|你好不好再也不重要",
+          "startMs": 139110,
+          "text": "你好不好再也不重要"
+        },
+        {
+          "key": "142020|不如将过去统统丢掉",
+          "startMs": 142020,
+          "text": "不如将过去统统丢掉"
+        },
+        {
+          "key": "145170|留在记忆最美的一角",
+          "startMs": 145170,
+          "text": "留在记忆最美的一角"
+        },
+        {
+          "key": "148170|不如掉进爱情的游戏",
+          "startMs": 148170,
+          "text": "不如掉进爱情的游戏"
+        },
+        {
+          "key": "151380|反正主角已不再是你",
+          "startMs": 151380,
+          "text": "反正主角已不再是你"
+        },
+        {
+          "key": "154470|不如偶尔相遇在梦里",
+          "startMs": 154470,
+          "text": "不如偶尔相遇在梦里"
+        },
+        {
+          "key": "157500|就算流泪也别把我吵醒",
+          "startMs": 157500,
+          "text": "就算流泪也别把我吵醒"
+        }
+      ]
+    },
+    {
+      "rank": 620,
+      "songKey": "online:kugou:e8a16183f6829aa81f245d3d338876cd",
+      "name": "Wicked Wonderland",
+      "artist": "Tungevaag",
+      "lines": [
+        {
+          "key": "0|Tungevaag - Wicked Wonderland ",
+          "startMs": 0,
+          "text": "Tungevaag - Wicked Wonderland "
+        },
+        {
+          "key": "372|Written by：Martin Tungevaag、Henning Olerud、Serena West",
+          "startMs": 372,
+          "text": "Written by：Martin Tungevaag、Henning Olerud、Serena West"
+        },
+        {
+          "key": "8239|I've been thinking bout wrong",
+          "startMs": 8239,
+          "text": "I've been thinking bout wrong"
+        },
+        {
+          "key": "10042|I've been thinking bout right",
+          "startMs": 10042,
+          "text": "I've been thinking bout right"
+        },
+        {
+          "key": "11961|I just wanna thrive I don't wanna fight",
+          "startMs": 11961,
+          "text": "I just wanna thrive I don't wanna fight"
+        },
+        {
+          "key": "17634|I don't wanna fight",
+          "startMs": 17634,
+          "text": "I don't wanna fight"
+        },
+        {
+          "key": "22780|Can you see the flickering lights baby",
+          "startMs": 22780,
+          "text": "Can you see the flickering lights baby"
+        },
+        {
+          "key": "26481|Put your glass up in the air with me",
+          "startMs": 26481,
+          "text": "Put your glass up in the air with me"
+        },
+        {
+          "key": "30291|Hollar hollar let them hear us loudly",
+          "startMs": 30291,
+          "text": "Hollar hollar let them hear us loudly"
+        },
+        {
+          "key": "33877|Our top is off let's show them off proudly",
+          "startMs": 33877,
+          "text": "Our top is off let's show them off proudly"
+        },
+        {
+          "key": "37793|Wicked wicked wonderland",
+          "startMs": 37793,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "39574|It's like crossing the Rio Grande",
+          "startMs": 39574,
+          "text": "It's like crossing the Rio Grande"
+        },
+        {
+          "key": "41494|You gotta have the cash in store",
+          "startMs": 41494,
+          "text": "You gotta have the cash in store"
+        },
+        {
+          "key": "43299|To reappear on our front door",
+          "startMs": 43299,
+          "text": "To reappear on our front door"
+        },
+        {
+          "key": "45263|Wicked wicked wonderland",
+          "startMs": 45263,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "47035|It's like crossing the Rio Grande",
+          "startMs": 47035,
+          "text": "It's like crossing the Rio Grande"
+        },
+        {
+          "key": "48978|You gotta have the cash in store",
+          "startMs": 48978,
+          "text": "You gotta have the cash in store"
+        },
+        {
+          "key": "50797|To reappear on our front door",
+          "startMs": 50797,
+          "text": "To reappear on our front door"
+        },
+        {
+          "key": "84772|Is this a fairytale I see a hacienda",
+          "startMs": 84772,
+          "text": "Is this a fairytale I see a hacienda"
+        },
+        {
+          "key": "88477|No hablo English but you're on my agenda",
+          "startMs": 88477,
+          "text": "No hablo English but you're on my agenda"
+        },
+        {
+          "key": "93728|Where are all my friends are",
+          "startMs": 93728,
+          "text": "Where are all my friends are"
+        },
+        {
+          "key": "99586|Wicked wicked wonderland",
+          "startMs": 99586,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "101318|It's like crossing the Rio Grande",
+          "startMs": 101318,
+          "text": "It's like crossing the Rio Grande"
+        },
+        {
+          "key": "103306|You gotta have the cash in store",
+          "startMs": 103306,
+          "text": "You gotta have the cash in store"
+        },
+        {
+          "key": "105165|To reappear on our front door",
+          "startMs": 105165,
+          "text": "To reappear on our front door"
+        },
+        {
+          "key": "107097|Wicked wicked wonderland",
+          "startMs": 107097,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "108857|It's like crossing the Rio Grande",
+          "startMs": 108857,
+          "text": "It's like crossing the Rio Grande"
+        },
+        {
+          "key": "110839|You gotta have the cash in store",
+          "startMs": 110839,
+          "text": "You gotta have the cash in store"
+        },
+        {
+          "key": "112644|To reappear on our front door",
+          "startMs": 112644,
+          "text": "To reappear on our front door"
+        },
+        {
+          "key": "129755|Can you see the flickering lights baby",
+          "startMs": 129755,
+          "text": "Can you see the flickering lights baby"
+        },
+        {
+          "key": "133464|Put your glass up in the air with me",
+          "startMs": 133464,
+          "text": "Put your glass up in the air with me"
+        },
+        {
+          "key": "137093|Hollar hollar let them hear us loudly",
+          "startMs": 137093,
+          "text": "Hollar hollar let them hear us loudly"
+        },
+        {
+          "key": "140730|Our top is off let's show them off proudly",
+          "startMs": 140730,
+          "text": "Our top is off let's show them off proudly"
+        },
+        {
+          "key": "144656|Wicked wicked wonderland",
+          "startMs": 144656,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "146277|It's like crossing the Rio Grande",
+          "startMs": 146277,
+          "text": "It's like crossing the Rio Grande"
+        },
+        {
+          "key": "148312|You gotta have the cash in store",
+          "startMs": 148312,
+          "text": "You gotta have the cash in store"
+        },
+        {
+          "key": "150139|To reappear on our front door",
+          "startMs": 150139,
+          "text": "To reappear on our front door"
+        },
+        {
+          "key": "152177|Wicked wicked wonderland",
+          "startMs": 152177,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "153781|It's like crossing the Rio Grande",
+          "startMs": 153781,
+          "text": "It's like crossing the Rio Grande"
+        },
+        {
+          "key": "155760|You gotta have the cash in store",
+          "startMs": 155760,
+          "text": "You gotta have the cash in store"
+        },
+        {
+          "key": "157625|To reappear on our front door",
+          "startMs": 157625,
+          "text": "To reappear on our front door"
+        },
+        {
+          "key": "159539|Wicked wicked wonderland",
+          "startMs": 159539,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "161359|Wicked wicked wonderland",
+          "startMs": 161359,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "163125|Wicked wicked",
+          "startMs": 163125,
+          "text": "Wicked wicked"
+        },
+        {
+          "key": "164120|Wicked wicked",
+          "startMs": 164120,
+          "text": "Wicked wicked"
+        },
+        {
+          "key": "165107|Wicked wicked wonderland",
+          "startMs": 165107,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "197183|Wicked wicked wonderland",
+          "startMs": 197183,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "198844|It's like crossing the Rio Grande",
+          "startMs": 198844,
+          "text": "It's like crossing the Rio Grande"
+        },
+        {
+          "key": "200731|You gotta have the cash in store",
+          "startMs": 200731,
+          "text": "You gotta have the cash in store"
+        },
+        {
+          "key": "202598|To reappear on our front door",
+          "startMs": 202598,
+          "text": "To reappear on our front door"
+        },
+        {
+          "key": "204584|Wicked wicked wonderland",
+          "startMs": 204584,
+          "text": "Wicked wicked wonderland"
+        },
+        {
+          "key": "206324|It's like crossing the Rio Grande",
+          "startMs": 206324,
+          "text": "It's like crossing the Rio Grande"
+        },
+        {
+          "key": "208266|You gotta have the cash in store",
+          "startMs": 208266,
+          "text": "You gotta have the cash in store"
+        },
+        {
+          "key": "210097|To reappear on our front door",
+          "startMs": 210097,
+          "text": "To reappear on our front door"
+        }
+      ]
+    }
+  ]
+}

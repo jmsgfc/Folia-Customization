@@ -1,0 +1,1280 @@
+{
+  "batchNumber": 121,
+  "songs": [
+    {
+      "rank": 601,
+      "songKey": "online:kugou:c2d6e311bc7575f367f31f1dbf32de2e",
+      "name": "One B-Boy",
+      "artist": "DJ Pablo",
+      "lines": [
+        {
+          "key": "0|DJ Pablo - One B-Boy",
+          "startMs": 0,
+          "text": "DJ Pablo - One B-Boy"
+        },
+        {
+          "key": "610|Composed by：Pablo/DJ",
+          "startMs": 610,
+          "text": "Composed by：Pablo/DJ"
+        },
+        {
+          "key": "1230|Produced by：Pablo/DJ",
+          "startMs": 1230,
+          "text": "Produced by：Pablo/DJ"
+        },
+        {
+          "key": "1851|Ah-ah",
+          "startMs": 1851,
+          "text": "Ah-ah"
+        },
+        {
+          "key": "3781|Tonight you are gonna see so breakin'",
+          "startMs": 3781,
+          "text": "Tonight you are gonna see so breakin'"
+        },
+        {
+          "key": "5869|And some rappin' and some breakin'",
+          "startMs": 5869,
+          "text": "And some rappin' and some breakin'"
+        },
+        {
+          "key": "7980|And some strechin' and some breakin' and some defeatin'",
+          "startMs": 7980,
+          "text": "And some strechin' and some breakin' and some defeatin'"
+        },
+        {
+          "key": "12599|And bring it on bring it on bring it bring it",
+          "startMs": 12599,
+          "text": "And bring it on bring it on bring it bring it"
+        },
+        {
+          "key": "18535|Come on",
+          "startMs": 18535,
+          "text": "Come on"
+        },
+        {
+          "key": "42581|Yo DJ are you done mixing yet",
+          "startMs": 42581,
+          "text": "Yo DJ are you done mixing yet"
+        },
+        {
+          "key": "46709|Semper sequindo odorem sanguis",
+          "startMs": 46709,
+          "text": "Semper sequindo odorem sanguis"
+        },
+        {
+          "key": "50077|Ferrox currendo ex infernalis",
+          "startMs": 50077,
+          "text": "Ferrox currendo ex infernalis"
+        },
+        {
+          "key": "53877|Semper sequindo odorem sanguis",
+          "startMs": 53877,
+          "text": "Semper sequindo odorem sanguis"
+        },
+        {
+          "key": "57605|Est cerberus",
+          "startMs": 57605,
+          "text": "Est cerberus"
+        },
+        {
+          "key": "91707|Predator ceberus qui vi vit infernus",
+          "startMs": 91707,
+          "text": "Predator ceberus qui vi vit infernus"
+        },
+        {
+          "key": "96280|Farmes ardenes",
+          "startMs": 96280,
+          "text": "Farmes ardenes"
+        },
+        {
+          "key": "100227|Farmes adentes",
+          "startMs": 100227,
+          "text": "Farmes adentes"
+        },
+        {
+          "key": "102339|Carne",
+          "startMs": 102339,
+          "text": "Carne"
+        },
+        {
+          "key": "103155|Hominis",
+          "startMs": 103155,
+          "text": "Hominis"
+        },
+        {
+          "key": "104891|Mortalis",
+          "startMs": 104891,
+          "text": "Mortalis"
+        },
+        {
+          "key": "107579|Semper sequindo odorem sanguis",
+          "startMs": 107579,
+          "text": "Semper sequindo odorem sanguis"
+        },
+        {
+          "key": "111035|Ferrox currendo ex infernalis",
+          "startMs": 111035,
+          "text": "Ferrox currendo ex infernalis"
+        },
+        {
+          "key": "114899|Semper sequindo odorem sanguis",
+          "startMs": 114899,
+          "text": "Semper sequindo odorem sanguis"
+        },
+        {
+          "key": "118475|Est cerberus",
+          "startMs": 118475,
+          "text": "Est cerberus"
+        },
+        {
+          "key": "122539|Estuans interius ira vehementi",
+          "startMs": 122539,
+          "text": "Estuans interius ira vehementi"
+        },
+        {
+          "key": "126005|Sephiroth",
+          "startMs": 126005,
+          "text": "Sephiroth"
+        },
+        {
+          "key": "126421|Estuans interius ira vehementi",
+          "startMs": 126421,
+          "text": "Estuans interius ira vehementi"
+        },
+        {
+          "key": "129157|Sephiroth",
+          "startMs": 129157,
+          "text": "Sephiroth"
+        },
+        {
+          "key": "129925|Estuans interius ira vehementi",
+          "startMs": 129925,
+          "text": "Estuans interius ira vehementi"
+        },
+        {
+          "key": "133085|Sephiroth",
+          "startMs": 133085,
+          "text": "Sephiroth"
+        },
+        {
+          "key": "133725|Estuans interius ira vehementi",
+          "startMs": 133725,
+          "text": "Estuans interius ira vehementi"
+        },
+        {
+          "key": "136885|Sephiroth",
+          "startMs": 136885,
+          "text": "Sephiroth"
+        },
+        {
+          "key": "152969|Semper sequindo odorem sanguis",
+          "startMs": 152969,
+          "text": "Semper sequindo odorem sanguis"
+        },
+        {
+          "key": "156881|Est cerberus",
+          "startMs": 156881,
+          "text": "Est cerberus"
+        },
+        {
+          "key": "158572|Ferrox currendo ex infernalis",
+          "startMs": 158572,
+          "text": "Ferrox currendo ex infernalis"
+        },
+        {
+          "key": "160636|Semper sequindo odorem sanguis",
+          "startMs": 160636,
+          "text": "Semper sequindo odorem sanguis"
+        },
+        {
+          "key": "164108|Est cerberus",
+          "startMs": 164108,
+          "text": "Est cerberus"
+        },
+        {
+          "key": "168235|Semper sequindo odorem sanguis",
+          "startMs": 168235,
+          "text": "Semper sequindo odorem sanguis"
+        },
+        {
+          "key": "172018|Ferrox currendo ex infernalis",
+          "startMs": 172018,
+          "text": "Ferrox currendo ex infernalis"
+        },
+        {
+          "key": "175706|Semper sequindo odorem sanguis",
+          "startMs": 175706,
+          "text": "Semper sequindo odorem sanguis"
+        },
+        {
+          "key": "179514|Est cerberus",
+          "startMs": 179514,
+          "text": "Est cerberus"
+        },
+        {
+          "key": "182924|Sephiroth",
+          "startMs": 182924,
+          "text": "Sephiroth"
+        }
+      ]
+    },
+    {
+      "rank": 602,
+      "songKey": "online:kugou:849077106a489820a72deed004c70fbc",
+      "name": "轨迹 (Live)",
+      "artist": "周杰伦",
+      "lines": [
+        {
+          "key": "0|周杰伦 - 轨迹 (Live)",
+          "startMs": 0,
+          "text": "周杰伦 - 轨迹 (Live)"
+        },
+        {
+          "key": "662|作词：黄俊郎",
+          "startMs": 662,
+          "text": "作词：黄俊郎"
+        },
+        {
+          "key": "1834|作曲：周杰伦",
+          "startMs": 1834,
+          "text": "作曲：周杰伦"
+        },
+        {
+          "key": "20050|怎么隐藏我的悲伤",
+          "startMs": 20050,
+          "text": "怎么隐藏我的悲伤"
+        },
+        {
+          "key": "26070|失去你的地方",
+          "startMs": 26070,
+          "text": "失去你的地方"
+        },
+        {
+          "key": "32560|你的发香散的匆忙",
+          "startMs": 32560,
+          "text": "你的发香散的匆忙"
+        },
+        {
+          "key": "38820|我已经跟不上",
+          "startMs": 38820,
+          "text": "我已经跟不上"
+        },
+        {
+          "key": "45390|闭上眼睛还能看见",
+          "startMs": 45390,
+          "text": "闭上眼睛还能看见"
+        },
+        {
+          "key": "51680|你离去的痕迹",
+          "startMs": 51680,
+          "text": "你离去的痕迹"
+        },
+        {
+          "key": "58040|在月光下一直找寻",
+          "startMs": 58040,
+          "text": "在月光下一直找寻"
+        },
+        {
+          "key": "64420|那想念的身影",
+          "startMs": 64420,
+          "text": "那想念的身影"
+        },
+        {
+          "key": "71340|如果说分手是苦痛的起点",
+          "startMs": 71340,
+          "text": "如果说分手是苦痛的起点"
+        },
+        {
+          "key": "76800|那在终点之前",
+          "startMs": 76800,
+          "text": "那在终点之前"
+        },
+        {
+          "key": "79940|我愿意再爱一遍",
+          "startMs": 79940,
+          "text": "我愿意再爱一遍"
+        },
+        {
+          "key": "83930|想要对你说的",
+          "startMs": 83930,
+          "text": "想要对你说的"
+        },
+        {
+          "key": "86940|不敢说的爱",
+          "startMs": 86940,
+          "text": "不敢说的爱"
+        },
+        {
+          "key": "90420|会不会有人可以明白",
+          "startMs": 90420,
+          "text": "会不会有人可以明白"
+        },
+        {
+          "key": "96360|我会发着呆然后忘记你",
+          "startMs": 96360,
+          "text": "我会发着呆然后忘记你"
+        },
+        {
+          "key": "102630|接着紧紧闭上眼",
+          "startMs": 102630,
+          "text": "接着紧紧闭上眼"
+        },
+        {
+          "key": "109060|想着那一天 会有人代替",
+          "startMs": 109060,
+          "text": "想着那一天 会有人代替"
+        },
+        {
+          "key": "115840|让我不再想念你",
+          "startMs": 115840,
+          "text": "让我不再想念你"
+        },
+        {
+          "key": "121780|我会发着呆然后微微笑",
+          "startMs": 121780,
+          "text": "我会发着呆然后微微笑"
+        },
+        {
+          "key": "128210|接着紧紧闭上眼",
+          "startMs": 128210,
+          "text": "接着紧紧闭上眼"
+        },
+        {
+          "key": "134650|又想了一遍你温柔的脸",
+          "startMs": 134650,
+          "text": "又想了一遍你温柔的脸"
+        },
+        {
+          "key": "141390|在我忘记之前",
+          "startMs": 141390,
+          "text": "在我忘记之前"
+        },
+        {
+          "key": "162180|闭上眼睛还能看见",
+          "startMs": 162180,
+          "text": "闭上眼睛还能看见"
+        },
+        {
+          "key": "168160|你离去的痕迹",
+          "startMs": 168160,
+          "text": "你离去的痕迹"
+        },
+        {
+          "key": "174540|在月光下一直找寻",
+          "startMs": 174540,
+          "text": "在月光下一直找寻"
+        },
+        {
+          "key": "180900|那想念的身影",
+          "startMs": 180900,
+          "text": "那想念的身影"
+        },
+        {
+          "key": "187820|如果说分手是苦痛的起点",
+          "startMs": 187820,
+          "text": "如果说分手是苦痛的起点"
+        },
+        {
+          "key": "193210|那在终点之前",
+          "startMs": 193210,
+          "text": "那在终点之前"
+        },
+        {
+          "key": "196520|我愿意再爱一遍",
+          "startMs": 196520,
+          "text": "我愿意再爱一遍"
+        },
+        {
+          "key": "200510|想要对你说的",
+          "startMs": 200510,
+          "text": "想要对你说的"
+        },
+        {
+          "key": "203630|不敢说的爱",
+          "startMs": 203630,
+          "text": "不敢说的爱"
+        },
+        {
+          "key": "206940|会不会有人可以明白",
+          "startMs": 206940,
+          "text": "会不会有人可以明白"
+        },
+        {
+          "key": "212820|我会发着呆然后忘记你",
+          "startMs": 212820,
+          "text": "我会发着呆然后忘记你"
+        },
+        {
+          "key": "219180|接着紧紧闭上眼",
+          "startMs": 219180,
+          "text": "接着紧紧闭上眼"
+        },
+        {
+          "key": "225550|想着那一天 会有人代替",
+          "startMs": 225550,
+          "text": "想着那一天 会有人代替"
+        },
+        {
+          "key": "232360|让我不再想念你",
+          "startMs": 232360,
+          "text": "让我不再想念你"
+        },
+        {
+          "key": "242340|我会发着呆然后忘记你",
+          "startMs": 242340,
+          "text": "我会发着呆然后忘记你"
+        },
+        {
+          "key": "249460|接着紧紧闭上眼",
+          "startMs": 249460,
+          "text": "接着紧紧闭上眼"
+        },
+        {
+          "key": "255830|想着那一天 会有人代替",
+          "startMs": 255830,
+          "text": "想着那一天 会有人代替"
+        },
+        {
+          "key": "262750|让我不再想念你",
+          "startMs": 262750,
+          "text": "让我不再想念你"
+        },
+        {
+          "key": "268750|我会发着呆然后微微笑",
+          "startMs": 268750,
+          "text": "我会发着呆然后微微笑"
+        },
+        {
+          "key": "275000|接着紧紧闭上眼",
+          "startMs": 275000,
+          "text": "接着紧紧闭上眼"
+        },
+        {
+          "key": "281440|又想了一遍你温柔的脸",
+          "startMs": 281440,
+          "text": "又想了一遍你温柔的脸"
+        },
+        {
+          "key": "288200|在我忘记之前",
+          "startMs": 288200,
+          "text": "在我忘记之前"
+        },
+        {
+          "key": "294300|心里的眼泪",
+          "startMs": 294300,
+          "text": "心里的眼泪"
+        },
+        {
+          "key": "297430|模糊了视线",
+          "startMs": 297430,
+          "text": "模糊了视线"
+        },
+        {
+          "key": "301010|我已快看不见",
+          "startMs": 301010,
+          "text": "我已快看不见"
+        }
+      ]
+    },
+    {
+      "rank": 603,
+      "songKey": "online:kugou:bbce943e45180dae1a6cdb2cd671a90d",
+      "name": "有多少爱可以从来",
+      "artist": "王大川",
+      "lines": [
+        {
+          "key": "0|词：何厚华",
+          "startMs": 0,
+          "text": "词：何厚华"
+        },
+        {
+          "key": "9555|曲：黄卓颖",
+          "startMs": 9555,
+          "text": "曲：黄卓颖"
+        },
+        {
+          "key": "19110|常常责怪自己当初不应该",
+          "startMs": 19110,
+          "text": "常常责怪自己当初不应该"
+        },
+        {
+          "key": "27480|常常后悔没有把你留下来",
+          "startMs": 27480,
+          "text": "常常后悔没有把你留下来"
+        },
+        {
+          "key": "34860|为什么明明相爱",
+          "startMs": 34860,
+          "text": "为什么明明相爱"
+        },
+        {
+          "key": "39030|到最后还是要分开",
+          "startMs": 39030,
+          "text": "到最后还是要分开"
+        },
+        {
+          "key": "43320|是否我们总是徘徊在心门之外",
+          "startMs": 43320,
+          "text": "是否我们总是徘徊在心门之外"
+        },
+        {
+          "key": "52740|谁知道又和你相遇在人海",
+          "startMs": 52740,
+          "text": "谁知道又和你相遇在人海"
+        },
+        {
+          "key": "61230|命运如此安排总教人无奈",
+          "startMs": 61230,
+          "text": "命运如此安排总教人无奈"
+        },
+        {
+          "key": "68610|这些年过得不好不坏",
+          "startMs": 68610,
+          "text": "这些年过得不好不坏"
+        },
+        {
+          "key": "72810|只是好像少了一个人存在",
+          "startMs": 72810,
+          "text": "只是好像少了一个人存在"
+        },
+        {
+          "key": "77040|而我渐渐明白",
+          "startMs": 77040,
+          "text": "而我渐渐明白"
+        },
+        {
+          "key": "79410|你仍然是我不变的关怀",
+          "startMs": 79410,
+          "text": "你仍然是我不变的关怀"
+        },
+        {
+          "key": "85230|有多少爱可以重来",
+          "startMs": 85230,
+          "text": "有多少爱可以重来"
+        },
+        {
+          "key": "89400|有多少人愿意等待",
+          "startMs": 89400,
+          "text": "有多少人愿意等待"
+        },
+        {
+          "key": "93600|当懂得珍惜以后回来",
+          "startMs": 93600,
+          "text": "当懂得珍惜以后回来"
+        },
+        {
+          "key": "96510|却不知那份爱会不会还在",
+          "startMs": 96510,
+          "text": "却不知那份爱会不会还在"
+        },
+        {
+          "key": "102060|有多少爱可以重来",
+          "startMs": 102060,
+          "text": "有多少爱可以重来"
+        },
+        {
+          "key": "106230|有多少人值得等待",
+          "startMs": 106230,
+          "text": "有多少人值得等待"
+        },
+        {
+          "key": "110490|当爱情已经桑田沧海",
+          "startMs": 110490,
+          "text": "当爱情已经桑田沧海"
+        },
+        {
+          "key": "113280|是否还有勇气去爱",
+          "startMs": 113280,
+          "text": "是否还有勇气去爱"
+        },
+        {
+          "key": "136980|谁知道又和你相遇在人海",
+          "startMs": 136980,
+          "text": "谁知道又和你相遇在人海"
+        },
+        {
+          "key": "145500|命运如此安排总教人无奈",
+          "startMs": 145500,
+          "text": "命运如此安排总教人无奈"
+        },
+        {
+          "key": "152790|这些年过得不好不坏",
+          "startMs": 152790,
+          "text": "这些年过得不好不坏"
+        },
+        {
+          "key": "157020|只是好像少了一个人存在",
+          "startMs": 157020,
+          "text": "只是好像少了一个人存在"
+        },
+        {
+          "key": "161250|而我渐渐明白",
+          "startMs": 161250,
+          "text": "而我渐渐明白"
+        },
+        {
+          "key": "163620|你仍然是我不变的关怀",
+          "startMs": 163620,
+          "text": "你仍然是我不变的关怀"
+        },
+        {
+          "key": "169440|有多少爱可以重来",
+          "startMs": 169440,
+          "text": "有多少爱可以重来"
+        },
+        {
+          "key": "173610|有多少人愿意等待",
+          "startMs": 173610,
+          "text": "有多少人愿意等待"
+        },
+        {
+          "key": "177840|当懂得珍惜以后回来",
+          "startMs": 177840,
+          "text": "当懂得珍惜以后回来"
+        },
+        {
+          "key": "180660|却不知那份爱会不会还在",
+          "startMs": 180660,
+          "text": "却不知那份爱会不会还在"
+        },
+        {
+          "key": "186330|有多少爱可以重来",
+          "startMs": 186330,
+          "text": "有多少爱可以重来"
+        },
+        {
+          "key": "190440|有多少人值得等待",
+          "startMs": 190440,
+          "text": "有多少人值得等待"
+        },
+        {
+          "key": "194700|当爱情已经桑田沧海",
+          "startMs": 194700,
+          "text": "当爱情已经桑田沧海"
+        },
+        {
+          "key": "197460|是否还有勇气去爱",
+          "startMs": 197460,
+          "text": "是否还有勇气去爱"
+        },
+        {
+          "key": "203100|有多少爱可以重来",
+          "startMs": 203100,
+          "text": "有多少爱可以重来"
+        },
+        {
+          "key": "207300|有多少人愿意等待",
+          "startMs": 207300,
+          "text": "有多少人愿意等待"
+        },
+        {
+          "key": "211500|当懂得珍惜以后回来",
+          "startMs": 211500,
+          "text": "当懂得珍惜以后回来"
+        },
+        {
+          "key": "214380|却不知那份爱会不会还在",
+          "startMs": 214380,
+          "text": "却不知那份爱会不会还在"
+        },
+        {
+          "key": "219900|有多少爱可以重来",
+          "startMs": 219900,
+          "text": "有多少爱可以重来"
+        },
+        {
+          "key": "224130|有多少人值得等待",
+          "startMs": 224130,
+          "text": "有多少人值得等待"
+        },
+        {
+          "key": "228360|当爱情已经桑田沧海",
+          "startMs": 228360,
+          "text": "当爱情已经桑田沧海"
+        },
+        {
+          "key": "231180|是否还有勇气去爱",
+          "startMs": 231180,
+          "text": "是否还有勇气去爱"
+        },
+        {
+          "key": "236790|当爱情已经桑田沧海",
+          "startMs": 236790,
+          "text": "当爱情已经桑田沧海"
+        },
+        {
+          "key": "240000|是否还有勇气去爱",
+          "startMs": 240000,
+          "text": "是否还有勇气去爱"
+        }
+      ]
+    },
+    {
+      "rank": 604,
+      "songKey": "online:kugou:4d2539fc397044b51d102afa1b91f199",
+      "name": "在你的身边 (女生key版)",
+      "artist": "慢热的气球",
+      "lines": [
+        {
+          "key": "358|慢热的气球 - 在你的身边 (女生key版)",
+          "startMs": 358,
+          "text": "慢热的气球 - 在你的身边 (女生key版)"
+        },
+        {
+          "key": "1322|作词：盛哲",
+          "startMs": 1322,
+          "text": "作词：盛哲"
+        },
+        {
+          "key": "1473|作曲：盛哲",
+          "startMs": 1473,
+          "text": "作曲：盛哲"
+        },
+        {
+          "key": "6720|安静地又说分开",
+          "startMs": 6720,
+          "text": "安静地又说分开"
+        },
+        {
+          "key": "10767|没有依赖却是太多依赖",
+          "startMs": 10767,
+          "text": "没有依赖却是太多依赖"
+        },
+        {
+          "key": "18550|寂寞的广场中央",
+          "startMs": 18550,
+          "text": "寂寞的广场中央"
+        },
+        {
+          "key": "22492|是谁的对白追赶我的空白",
+          "startMs": 22492,
+          "text": "是谁的对白追赶我的空白"
+        },
+        {
+          "key": "30433|爱就爱了不怕没来过",
+          "startMs": 30433,
+          "text": "爱就爱了不怕没来过"
+        },
+        {
+          "key": "33314|恨就恨了我从没想过",
+          "startMs": 33314,
+          "text": "恨就恨了我从没想过"
+        },
+        {
+          "key": "37863|是怕独念一个人太深刻",
+          "startMs": 37863,
+          "text": "是怕独念一个人太深刻"
+        },
+        {
+          "key": "42125|爱就爱了不怕没来过",
+          "startMs": 42125,
+          "text": "爱就爱了不怕没来过"
+        },
+        {
+          "key": "45109|恨就恨了我从没想过",
+          "startMs": 45109,
+          "text": "恨就恨了我从没想过"
+        },
+        {
+          "key": "48900|到过的地方熟悉曾经的模样",
+          "startMs": 48900,
+          "text": "到过的地方熟悉曾经的模样"
+        },
+        {
+          "key": "54007|我以为忘了想念",
+          "startMs": 54007,
+          "text": "我以为忘了想念"
+        },
+        {
+          "key": "57752|而面对夕阳希望你回到今天",
+          "startMs": 57752,
+          "text": "而面对夕阳希望你回到今天"
+        },
+        {
+          "key": "65892|我记得捧你的脸",
+          "startMs": 65892,
+          "text": "我记得捧你的脸"
+        },
+        {
+          "key": "69621|在双手之间安静地看你的眼",
+          "startMs": 69621,
+          "text": "在双手之间安静地看你的眼"
+        },
+        {
+          "key": "76190|像秋天落叶温柔整个世界",
+          "startMs": 76190,
+          "text": "像秋天落叶温柔整个世界"
+        },
+        {
+          "key": "83654|我想在你的身边",
+          "startMs": 83654,
+          "text": "我想在你的身边"
+        },
+        {
+          "key": "89674|忘了这路有多长",
+          "startMs": 89674,
+          "text": "忘了这路有多长"
+        },
+        {
+          "key": "93569|想和你去看季节慢慢变换",
+          "startMs": 93569,
+          "text": "想和你去看季节慢慢变换"
+        },
+        {
+          "key": "101507|又来到这座广场",
+          "startMs": 101507,
+          "text": "又来到这座广场"
+        },
+        {
+          "key": "105299|听风随落叶已是最后一片",
+          "startMs": 105299,
+          "text": "听风随落叶已是最后一片"
+        },
+        {
+          "key": "113340|爱就爱了不怕没来过",
+          "startMs": 113340,
+          "text": "爱就爱了不怕没来过"
+        },
+        {
+          "key": "116169|恨就恨了我从没想过",
+          "startMs": 116169,
+          "text": "恨就恨了我从没想过"
+        },
+        {
+          "key": "120672|是怕独念一个人太深刻",
+          "startMs": 120672,
+          "text": "是怕独念一个人太深刻"
+        },
+        {
+          "key": "125073|爱就爱了不怕没来过",
+          "startMs": 125073,
+          "text": "爱就爱了不怕没来过"
+        },
+        {
+          "key": "127999|恨就恨了我从没想过",
+          "startMs": 127999,
+          "text": "恨就恨了我从没想过"
+        },
+        {
+          "key": "131992|到过的地方熟悉曾经的模样",
+          "startMs": 131992,
+          "text": "到过的地方熟悉曾经的模样"
+        },
+        {
+          "key": "136997|我以为忘了想念",
+          "startMs": 136997,
+          "text": "我以为忘了想念"
+        },
+        {
+          "key": "140685|而面对夕阳希望你回到今天",
+          "startMs": 140685,
+          "text": "而面对夕阳希望你回到今天"
+        },
+        {
+          "key": "148828|我记得捧你的脸",
+          "startMs": 148828,
+          "text": "我记得捧你的脸"
+        },
+        {
+          "key": "152466|在双手之间安静地看你的眼",
+          "startMs": 152466,
+          "text": "在双手之间安静地看你的眼"
+        },
+        {
+          "key": "159141|像秋天落叶温柔整个世界",
+          "startMs": 159141,
+          "text": "像秋天落叶温柔整个世界"
+        },
+        {
+          "key": "166523|我想在你的身边",
+          "startMs": 166523,
+          "text": "我想在你的身边"
+        },
+        {
+          "key": "172591|我想在你的身边",
+          "startMs": 172591,
+          "text": "我想在你的身边"
+        },
+        {
+          "key": "178455|我想在你的身边",
+          "startMs": 178455,
+          "text": "我想在你的身边"
+        },
+        {
+          "key": "184525|就让那往事随风",
+          "startMs": 184525,
+          "text": "就让那往事随风"
+        },
+        {
+          "key": "188269|让它带走伤带走痛",
+          "startMs": 188269,
+          "text": "让它带走伤带走痛"
+        },
+        {
+          "key": "190846|带回那日暮的梦",
+          "startMs": 190846,
+          "text": "带回那日暮的梦"
+        },
+        {
+          "key": "194791|花开落",
+          "startMs": 194791,
+          "text": "花开落"
+        },
+        {
+          "key": "197824|云会走",
+          "startMs": 197824,
+          "text": "云会走"
+        },
+        {
+          "key": "201013|铺满天",
+          "startMs": 201013,
+          "text": "铺满天"
+        },
+        {
+          "key": "203743|而你笑着在我的身边",
+          "startMs": 203743,
+          "text": "而你笑着在我的身边"
+        },
+        {
+          "key": "208141|我以为忘了想念",
+          "startMs": 208141,
+          "text": "我以为忘了想念"
+        },
+        {
+          "key": "211876|而面对夕阳希望你回到今天",
+          "startMs": 211876,
+          "text": "而面对夕阳希望你回到今天"
+        },
+        {
+          "key": "219964|我记得捧你的脸",
+          "startMs": 219964,
+          "text": "我记得捧你的脸"
+        },
+        {
+          "key": "223656|在双手之间安静地看你的眼",
+          "startMs": 223656,
+          "text": "在双手之间安静地看你的眼"
+        },
+        {
+          "key": "230321|像秋天落叶温柔整个世界",
+          "startMs": 230321,
+          "text": "像秋天落叶温柔整个世界"
+        },
+        {
+          "key": "237754|我想在你的身边",
+          "startMs": 237754,
+          "text": "我想在你的身边"
+        },
+        {
+          "key": "243617|我想在你的身边",
+          "startMs": 243617,
+          "text": "我想在你的身边"
+        },
+        {
+          "key": "249587|我想在你的身边",
+          "startMs": 249587,
+          "text": "我想在你的身边"
+        },
+        {
+          "key": "253632|在你的身边",
+          "startMs": 253632,
+          "text": "在你的身边"
+        }
+      ]
+    },
+    {
+      "rank": 605,
+      "songKey": "online:kugou:4af037a12e824e3c357d9860c5bf5f09",
+      "name": "是你",
+      "artist": "梦然",
+      "lines": [
+        {
+          "key": "0|梦然 - 是你",
+          "startMs": 0,
+          "text": "梦然 - 是你"
+        },
+        {
+          "key": "265|作词：梦然",
+          "startMs": 265,
+          "text": "作词：梦然"
+        },
+        {
+          "key": "3384|作曲：梦然",
+          "startMs": 3384,
+          "text": "作曲：梦然"
+        },
+        {
+          "key": "3992|编曲：Rebbel",
+          "startMs": 3992,
+          "text": "编曲：Rebbel"
+        },
+        {
+          "key": "4553|制作人：徐阁",
+          "startMs": 4553,
+          "text": "制作人：徐阁"
+        },
+        {
+          "key": "5551|混音/母带工程师：Richard Furch",
+          "startMs": 5551,
+          "text": "混音/母带工程师：Richard Furch"
+        },
+        {
+          "key": "7445|和声：梦然/海青",
+          "startMs": 7445,
+          "text": "和声：梦然/海青"
+        },
+        {
+          "key": "8706|出品：炙热星河",
+          "startMs": 8706,
+          "text": "出品：炙热星河"
+        },
+        {
+          "key": "9751|营销推广：夏天/梦甜（@炙热星河）",
+          "startMs": 9751,
+          "text": "营销推广：夏天/梦甜（@炙热星河）"
+        },
+        {
+          "key": "19700|我们一同追着心中的梦想",
+          "startMs": 19700,
+          "text": "我们一同追着心中的梦想"
+        },
+        {
+          "key": "23574|我们试着把 太阳放在手掌",
+          "startMs": 23574,
+          "text": "我们试着把 太阳放在手掌"
+        },
+        {
+          "key": "27476|我们彼此笑着岁月的无常",
+          "startMs": 27476,
+          "text": "我们彼此笑着岁月的无常"
+        },
+        {
+          "key": "31170|也坚定的做着彼此的那束光",
+          "startMs": 31170,
+          "text": "也坚定的做着彼此的那束光"
+        },
+        {
+          "key": "35092|记不得曾跨越过多少风和浪",
+          "startMs": 35092,
+          "text": "记不得曾跨越过多少风和浪"
+        },
+        {
+          "key": "39170|做你的船桨你是我的翅膀",
+          "startMs": 39170,
+          "text": "做你的船桨你是我的翅膀"
+        },
+        {
+          "key": "43060|我们记得对方 青涩的模样",
+          "startMs": 43060,
+          "text": "我们记得对方 青涩的模样"
+        },
+        {
+          "key": "46640|满是骄傲的脸庞",
+          "startMs": 46640,
+          "text": "满是骄傲的脸庞"
+        },
+        {
+          "key": "48485|是光融不掉的冰花窗",
+          "startMs": 48485,
+          "text": "是光融不掉的冰花窗"
+        },
+        {
+          "key": "50956|是你 是你",
+          "startMs": 50956,
+          "text": "是你 是你"
+        },
+        {
+          "key": "52385|身后的青春都是你",
+          "startMs": 52385,
+          "text": "身后的青春都是你"
+        },
+        {
+          "key": "56467|绘成了我的山川流溪",
+          "startMs": 56467,
+          "text": "绘成了我的山川流溪"
+        },
+        {
+          "key": "60450|为我下一场倾盆大雨",
+          "startMs": 60450,
+          "text": "为我下一场倾盆大雨"
+        },
+        {
+          "key": "63072|淋掉泥泞 把真的自己叫醒",
+          "startMs": 63072,
+          "text": "淋掉泥泞 把真的自己叫醒"
+        },
+        {
+          "key": "66693|是你 是你",
+          "startMs": 66693,
+          "text": "是你 是你"
+        },
+        {
+          "key": "67994|种下满是勇气森林",
+          "startMs": 67994,
+          "text": "种下满是勇气森林"
+        },
+        {
+          "key": "72022|把披风上的荒寂抹去",
+          "startMs": 72022,
+          "text": "把披风上的荒寂抹去"
+        },
+        {
+          "key": "75973|让我变成会飞行的鱼 跳出海域",
+          "startMs": 75973,
+          "text": "让我变成会飞行的鱼 跳出海域"
+        },
+        {
+          "key": "80373|去触摸奇迹",
+          "startMs": 80373,
+          "text": "去触摸奇迹"
+        },
+        {
+          "key": "85986|我们一同追着心中的梦想",
+          "startMs": 85986,
+          "text": "我们一同追着心中的梦想"
+        },
+        {
+          "key": "89896|我们试着把 太阳放在手掌",
+          "startMs": 89896,
+          "text": "我们试着把 太阳放在手掌"
+        },
+        {
+          "key": "93828|我们彼此笑着岁月的无常",
+          "startMs": 93828,
+          "text": "我们彼此笑着岁月的无常"
+        },
+        {
+          "key": "97476|也坚定的做着彼此的那束光",
+          "startMs": 97476,
+          "text": "也坚定的做着彼此的那束光"
+        },
+        {
+          "key": "101353|记不得曾跨越过多少风和浪",
+          "startMs": 101353,
+          "text": "记不得曾跨越过多少风和浪"
+        },
+        {
+          "key": "105436|做你的船桨你是我的翅膀",
+          "startMs": 105436,
+          "text": "做你的船桨你是我的翅膀"
+        },
+        {
+          "key": "109389|我们记得对方 青涩的模样",
+          "startMs": 109389,
+          "text": "我们记得对方 青涩的模样"
+        },
+        {
+          "key": "112928|满是骄傲的脸庞",
+          "startMs": 112928,
+          "text": "满是骄傲的脸庞"
+        },
+        {
+          "key": "114793|是光融不掉的冰花窗",
+          "startMs": 114793,
+          "text": "是光融不掉的冰花窗"
+        },
+        {
+          "key": "117251|是你 是你",
+          "startMs": 117251,
+          "text": "是你 是你"
+        },
+        {
+          "key": "118615|身后的青春都是你",
+          "startMs": 118615,
+          "text": "身后的青春都是你"
+        },
+        {
+          "key": "122740|绘成了我的山川流溪",
+          "startMs": 122740,
+          "text": "绘成了我的山川流溪"
+        },
+        {
+          "key": "126738|为我下一场倾盆大雨",
+          "startMs": 126738,
+          "text": "为我下一场倾盆大雨"
+        },
+        {
+          "key": "129397|淋掉泥泞 把真的自己叫醒",
+          "startMs": 129397,
+          "text": "淋掉泥泞 把真的自己叫醒"
+        },
+        {
+          "key": "132940|是你 是你",
+          "startMs": 132940,
+          "text": "是你 是你"
+        },
+        {
+          "key": "134226|种下满是勇气森林",
+          "startMs": 134226,
+          "text": "种下满是勇气森林"
+        },
+        {
+          "key": "138336|把披风上的荒寂抹去",
+          "startMs": 138336,
+          "text": "把披风上的荒寂抹去"
+        },
+        {
+          "key": "142341|让我变成会飞行的鱼 跳出海域",
+          "startMs": 142341,
+          "text": "让我变成会飞行的鱼 跳出海域"
+        },
+        {
+          "key": "146663|去触摸奇迹",
+          "startMs": 146663,
+          "text": "去触摸奇迹"
+        },
+        {
+          "key": "179567|是你 是你",
+          "startMs": 179567,
+          "text": "是你 是你"
+        },
+        {
+          "key": "181084|身后的青春都是你",
+          "startMs": 181084,
+          "text": "身后的青春都是你"
+        },
+        {
+          "key": "185269|绘成了我的山川流溪",
+          "startMs": 185269,
+          "text": "绘成了我的山川流溪"
+        },
+        {
+          "key": "189061|为我下一场倾盆大雨",
+          "startMs": 189061,
+          "text": "为我下一场倾盆大雨"
+        },
+        {
+          "key": "191842|淋掉泥泞 把真的自己叫醒",
+          "startMs": 191842,
+          "text": "淋掉泥泞 把真的自己叫醒"
+        },
+        {
+          "key": "195356|是你 是你",
+          "startMs": 195356,
+          "text": "是你 是你"
+        },
+        {
+          "key": "196660|种下满是勇气森林",
+          "startMs": 196660,
+          "text": "种下满是勇气森林"
+        },
+        {
+          "key": "200798|把披风上的荒寂抹去",
+          "startMs": 200798,
+          "text": "把披风上的荒寂抹去"
+        },
+        {
+          "key": "204578|让我变成会飞行的鱼 跳出海域",
+          "startMs": 204578,
+          "text": "让我变成会飞行的鱼 跳出海域"
+        },
+        {
+          "key": "209136|去触摸奇迹",
+          "startMs": 209136,
+          "text": "去触摸奇迹"
+        }
+      ]
+    }
+  ]
+}

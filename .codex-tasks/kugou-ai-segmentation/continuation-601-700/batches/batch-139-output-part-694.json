@@ -1,0 +1,784 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:6223eeb24be217ae376e531a1f676ca4",
+      "lines": [
+        {
+          "key": "0|Rachel Platten - Lone Ranger",
+          "text": "Rachel Platten - Lone Ranger",
+          "segments": [
+            "Rachel Platten",
+            " - ",
+            "Lone Ranger"
+          ]
+        },
+        {
+          "key": "1594|Lyrics by：Rachel Platten/Bonnie Baker/Brian West",
+          "text": "Lyrics by：Rachel Platten/Bonnie Baker/Brian West",
+          "segments": [
+            "Lyrics by：",
+            "Rachel Platten",
+            "/",
+            "Bonnie Baker",
+            "/",
+            "Brian West"
+          ]
+        },
+        {
+          "key": "4326|Composed by：Rachel Platten/Bonnie Baker/Brian West",
+          "text": "Composed by：Rachel Platten/Bonnie Baker/Brian West",
+          "segments": [
+            "Composed by：",
+            "Rachel Platten",
+            "/",
+            "Bonnie Baker",
+            "/",
+            "Brian West"
+          ]
+        },
+        {
+          "key": "7173|Produced by：Brian West",
+          "text": "Produced by：Brian West",
+          "segments": [
+            "Produced by：",
+            "Brian West"
+          ]
+        },
+        {
+          "key": "8426|Maybe I'm selfish call me see-through",
+          "text": "Maybe I'm selfish call me see-through",
+          "segments": [
+            "Maybe ",
+            "I'm ",
+            "selfish ",
+            "call ",
+            "me ",
+            "see-through"
+          ]
+        },
+        {
+          "key": "10506|But I'm debating if I really need to",
+          "text": "But I'm debating if I really need to",
+          "segments": [
+            "But ",
+            "I'm ",
+            "debating ",
+            "if ",
+            "I ",
+            "really ",
+            "need ",
+            "to"
+          ]
+        },
+        {
+          "key": "12596|Tie down to someone forever",
+          "text": "Tie down to someone forever",
+          "segments": [
+            "Tie ",
+            "down ",
+            "to ",
+            "someone ",
+            "forever"
+          ]
+        },
+        {
+          "key": "14046|Sure I get lonely sometimes",
+          "text": "Sure I get lonely sometimes",
+          "segments": [
+            "Sure ",
+            "I ",
+            "get ",
+            "lonely ",
+            "sometimes"
+          ]
+        },
+        {
+          "key": "15306|I miss being together but baby",
+          "text": "I miss being together but baby",
+          "segments": [
+            "I ",
+            "miss ",
+            "being ",
+            "together ",
+            "but ",
+            "baby"
+          ]
+        },
+        {
+          "key": "16666|When I roam from city to city",
+          "text": "When I roam from city to city",
+          "segments": [
+            "When ",
+            "I ",
+            "roam ",
+            "from ",
+            "city ",
+            "to ",
+            "city"
+          ]
+        },
+        {
+          "key": "18216|I let the highway and the crowd",
+          "text": "I let the highway and the crowd",
+          "segments": [
+            "I ",
+            "let ",
+            "the ",
+            "highway ",
+            "and ",
+            "the ",
+            "crowd"
+          ]
+        },
+        {
+          "key": "19316|Fill the hunger that's in me",
+          "text": "Fill the hunger that's in me",
+          "segments": [
+            "Fill ",
+            "the ",
+            "hunger ",
+            "that's ",
+            "in ",
+            "me"
+          ]
+        },
+        {
+          "key": "20566|Fill me up with fireworks and tell me I'm skinny",
+          "text": "Fill me up with fireworks and tell me I'm skinny",
+          "segments": [
+            "Fill ",
+            "me ",
+            "up ",
+            "with ",
+            "fireworks ",
+            "and ",
+            "tell ",
+            "me ",
+            "I'm ",
+            "skinny"
+          ]
+        },
+        {
+          "key": "22466|I could soak up the fire and the buzz that it gives me",
+          "text": "I could soak up the fire and the buzz that it gives me",
+          "segments": [
+            "I ",
+            "could ",
+            "soak ",
+            "up ",
+            "the ",
+            "fire ",
+            "and ",
+            "the ",
+            "buzz ",
+            "that ",
+            "it ",
+            "gives ",
+            "me"
+          ]
+        },
+        {
+          "key": "28636|Long nights stay up late",
+          "text": "Long nights stay up late",
+          "segments": [
+            "Long ",
+            "nights ",
+            "stay ",
+            "up ",
+            "late"
+          ]
+        },
+        {
+          "key": "30766|Drink the sky meditate",
+          "text": "Drink the sky meditate",
+          "segments": [
+            "Drink ",
+            "the ",
+            "sky ",
+            "meditate"
+          ]
+        },
+        {
+          "key": "37271|Open eyes sun roof",
+          "text": "Open eyes sun roof",
+          "segments": [
+            "Open ",
+            "eyes ",
+            "sun ",
+            "roof"
+          ]
+        },
+        {
+          "key": "39026|Give me miles give me truth",
+          "text": "Give me miles give me truth",
+          "segments": [
+            "Give ",
+            "me ",
+            "miles ",
+            "give ",
+            "me ",
+            "truth"
+          ]
+        },
+        {
+          "key": "42336|Sometimes I get high",
+          "text": "Sometimes I get high",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "get ",
+            "high"
+          ]
+        },
+        {
+          "key": "44356|Sometimes I get low",
+          "text": "Sometimes I get low",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "get ",
+            "low"
+          ]
+        },
+        {
+          "key": "46906|But I'm calm as can be",
+          "text": "But I'm calm as can be",
+          "segments": [
+            "But ",
+            "I'm ",
+            "calm ",
+            "as ",
+            "can ",
+            "be"
+          ]
+        },
+        {
+          "key": "48526|In a room full of strangers",
+          "text": "In a room full of strangers",
+          "segments": [
+            "In ",
+            "a ",
+            "room ",
+            "full ",
+            "of ",
+            "strangers"
+          ]
+        },
+        {
+          "key": "51036|But oh my don't try to get close",
+          "text": "But oh my don't try to get close",
+          "segments": [
+            "But ",
+            "oh ",
+            "my ",
+            "don't ",
+            "try ",
+            "to ",
+            "get ",
+            "close"
+          ]
+        },
+        {
+          "key": "55186|I'm just gonna leave",
+          "text": "I'm just gonna leave",
+          "segments": [
+            "I'm ",
+            "just ",
+            "gonna ",
+            "leave"
+          ]
+        },
+        {
+          "key": "57011|'Cause baby I'm a lone ranger",
+          "text": "'Cause baby I'm a lone ranger",
+          "segments": [
+            "'Cause ",
+            "baby ",
+            "I'm ",
+            "a ",
+            "lone ",
+            "ranger"
+          ]
+        },
+        {
+          "key": "65736|I'm a lone ranger",
+          "text": "I'm a lone ranger",
+          "segments": [
+            "I'm ",
+            "a ",
+            "lone ",
+            "ranger"
+          ]
+        },
+        {
+          "key": "67946|I'm a lion I'm a tiger",
+          "text": "I'm a lion I'm a tiger",
+          "segments": [
+            "I'm ",
+            "a ",
+            "lion ",
+            "I'm ",
+            "a ",
+            "tiger"
+          ]
+        },
+        {
+          "key": "70086|I'm a caged bird I'm on fire",
+          "text": "I'm a caged bird I'm on fire",
+          "segments": [
+            "I'm ",
+            "a ",
+            "caged ",
+            "bird ",
+            "I'm ",
+            "on ",
+            "fire"
+          ]
+        },
+        {
+          "key": "72086|Got these paper wings but they don't hold the air",
+          "text": "Got these paper wings but they don't hold the air",
+          "segments": [
+            "Got ",
+            "these ",
+            "paper ",
+            "wings ",
+            "but ",
+            "they ",
+            "don't ",
+            "hold ",
+            "the ",
+            "air"
+          ]
+        },
+        {
+          "key": "74166|Get so close to somebody but I don't stay there",
+          "text": "Get so close to somebody but I don't stay there",
+          "segments": [
+            "Get ",
+            "so ",
+            "close ",
+            "to ",
+            "somebody ",
+            "but ",
+            "I ",
+            "don't ",
+            "stay ",
+            "there"
+          ]
+        },
+        {
+          "key": "76206|Much less brave then I admit",
+          "text": "Much less brave then I admit",
+          "segments": [
+            "Much ",
+            "less ",
+            "brave ",
+            "then ",
+            "I ",
+            "admit"
+          ]
+        },
+        {
+          "key": "78206|Much more scared then they all think",
+          "text": "Much more scared then they all think",
+          "segments": [
+            "Much ",
+            "more ",
+            "scared ",
+            "then ",
+            "they ",
+            "all ",
+            "think"
+          ]
+        },
+        {
+          "key": "80256|But I'm protecting this organ in my chest",
+          "text": "But I'm protecting this organ in my chest",
+          "segments": [
+            "But ",
+            "I'm ",
+            "protecting ",
+            "this ",
+            "organ ",
+            "in ",
+            "my ",
+            "chest"
+          ]
+        },
+        {
+          "key": "81846|'Cause the blood sweat and tears",
+          "text": "'Cause the blood sweat and tears",
+          "segments": [
+            "'Cause ",
+            "the ",
+            "blood ",
+            "sweat ",
+            "and ",
+            "tears"
+          ]
+        },
+        {
+          "key": "82996|They can make quite a mess",
+          "text": "They can make quite a mess",
+          "segments": [
+            "They ",
+            "can ",
+            "make ",
+            "quite ",
+            "a ",
+            "mess"
+          ]
+        },
+        {
+          "key": "88626|Open eyes open roof",
+          "text": "Open eyes open roof",
+          "segments": [
+            "Open ",
+            "eyes ",
+            "open ",
+            "roof"
+          ]
+        },
+        {
+          "key": "90530|Give me miles give me truth",
+          "text": "Give me miles give me truth",
+          "segments": [
+            "Give ",
+            "me ",
+            "miles ",
+            "give ",
+            "me ",
+            "truth"
+          ]
+        },
+        {
+          "key": "93830|Sometimes I get high",
+          "text": "Sometimes I get high",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "get ",
+            "high"
+          ]
+        },
+        {
+          "key": "95636|Sometimes I get low",
+          "text": "Sometimes I get low",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "get ",
+            "low"
+          ]
+        },
+        {
+          "key": "98186|But I'm calm as can be",
+          "text": "But I'm calm as can be",
+          "segments": [
+            "But ",
+            "I'm ",
+            "calm ",
+            "as ",
+            "can ",
+            "be"
+          ]
+        },
+        {
+          "key": "99806|In a room full of strangers",
+          "text": "In a room full of strangers",
+          "segments": [
+            "In ",
+            "a ",
+            "room ",
+            "full ",
+            "of ",
+            "strangers"
+          ]
+        },
+        {
+          "key": "102306|But oh my don't try to get close",
+          "text": "But oh my don't try to get close",
+          "segments": [
+            "But ",
+            "oh ",
+            "my ",
+            "don't ",
+            "try ",
+            "to ",
+            "get ",
+            "close"
+          ]
+        },
+        {
+          "key": "106456|I'm just gonna leave",
+          "text": "I'm just gonna leave",
+          "segments": [
+            "I'm ",
+            "just ",
+            "gonna ",
+            "leave"
+          ]
+        },
+        {
+          "key": "107918|'Cause baby I'm a lone ranger",
+          "text": "'Cause baby I'm a lone ranger",
+          "segments": [
+            "'Cause ",
+            "baby ",
+            "I'm ",
+            "a ",
+            "lone ",
+            "ranger"
+          ]
+        },
+        {
+          "key": "116206|'Cause baby I'm a lone ranger",
+          "text": "'Cause baby I'm a lone ranger",
+          "segments": [
+            "'Cause ",
+            "baby ",
+            "I'm ",
+            "a ",
+            "lone ",
+            "ranger"
+          ]
+        },
+        {
+          "key": "119246|I don't wanna get broken baby",
+          "text": "I don't wanna get broken baby",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "get ",
+            "broken ",
+            "baby"
+          ]
+        },
+        {
+          "key": "121336|I don't wanna get broken baby",
+          "text": "I don't wanna get broken baby",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "get ",
+            "broken ",
+            "baby"
+          ]
+        },
+        {
+          "key": "123406|I don't wanna get broken baby",
+          "text": "I don't wanna get broken baby",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "get ",
+            "broken ",
+            "baby"
+          ]
+        },
+        {
+          "key": "124876|Cut open babe cut open baby",
+          "text": "Cut open babe cut open baby",
+          "segments": [
+            "Cut ",
+            "open ",
+            "babe ",
+            "cut ",
+            "open ",
+            "baby"
+          ]
+        },
+        {
+          "key": "127456|I don't wanna get broken baby",
+          "text": "I don't wanna get broken baby",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "get ",
+            "broken ",
+            "baby"
+          ]
+        },
+        {
+          "key": "129546|I don't wanna get broken baby",
+          "text": "I don't wanna get broken baby",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "get ",
+            "broken ",
+            "baby"
+          ]
+        },
+        {
+          "key": "131616|I don't wanna get broken baby",
+          "text": "I don't wanna get broken baby",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "get ",
+            "broken ",
+            "baby"
+          ]
+        },
+        {
+          "key": "133086|Cut open babe cut open baby",
+          "text": "Cut open babe cut open baby",
+          "segments": [
+            "Cut ",
+            "open ",
+            "babe ",
+            "cut ",
+            "open ",
+            "baby"
+          ]
+        },
+        {
+          "key": "144818|Sometimes I get high",
+          "text": "Sometimes I get high",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "get ",
+            "high"
+          ]
+        },
+        {
+          "key": "146918|Sometimes I get low",
+          "text": "Sometimes I get low",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "get ",
+            "low"
+          ]
+        },
+        {
+          "key": "149468|But I'm calm as can be",
+          "text": "But I'm calm as can be",
+          "segments": [
+            "But ",
+            "I'm ",
+            "calm ",
+            "as ",
+            "can ",
+            "be"
+          ]
+        },
+        {
+          "key": "151098|In a room full of strangers",
+          "text": "In a room full of strangers",
+          "segments": [
+            "In ",
+            "a ",
+            "room ",
+            "full ",
+            "of ",
+            "strangers"
+          ]
+        },
+        {
+          "key": "153598|But oh my don't try to get close",
+          "text": "But oh my don't try to get close",
+          "segments": [
+            "But ",
+            "oh ",
+            "my ",
+            "don't ",
+            "try ",
+            "to ",
+            "get ",
+            "close"
+          ]
+        },
+        {
+          "key": "157728|I'm just gonna leave",
+          "text": "I'm just gonna leave",
+          "segments": [
+            "I'm ",
+            "just ",
+            "gonna ",
+            "leave"
+          ]
+        },
+        {
+          "key": "159504|'Cause baby I'm a lone ranger",
+          "text": "'Cause baby I'm a lone ranger",
+          "segments": [
+            "'Cause ",
+            "baby ",
+            "I'm ",
+            "a ",
+            "lone ",
+            "ranger"
+          ]
+        },
+        {
+          "key": "169839|Sometimes I get high",
+          "text": "Sometimes I get high",
+          "segments": [
+            "Sometimes ",
+            "I ",
+            "get ",
+            "high"
+          ]
+        },
+        {
+          "key": "176114|'Cause baby I'm a lone ranger",
+          "text": "'Cause baby I'm a lone ranger",
+          "segments": [
+            "'Cause ",
+            "baby ",
+            "I'm ",
+            "a ",
+            "lone ",
+            "ranger"
+          ]
+        },
+        {
+          "key": "178368|But oh my don't try to get close",
+          "text": "But oh my don't try to get close",
+          "segments": [
+            "But ",
+            "oh ",
+            "my ",
+            "don't ",
+            "try ",
+            "to ",
+            "get ",
+            "close"
+          ]
+        },
+        {
+          "key": "182368|I'm just gonna leave",
+          "text": "I'm just gonna leave",
+          "segments": [
+            "I'm ",
+            "just ",
+            "gonna ",
+            "leave"
+          ]
+        },
+        {
+          "key": "183868|'Cause baby I'm a lone ranger",
+          "text": "'Cause baby I'm a lone ranger",
+          "segments": [
+            "'Cause ",
+            "baby ",
+            "I'm ",
+            "a ",
+            "lone ",
+            "ranger"
+          ]
+        }
+      ]
+    }
+  ]
+}

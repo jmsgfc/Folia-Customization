@@ -1,0 +1,611 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:e4bd4a83e33d33c8e0c7c901a79c7ab8",
+      "lines": [
+        {
+          "key": "146|Tysm - Normal No More (Explicit)",
+          "text": "Tysm - Normal No More (Explicit)",
+          "segments": [
+            "Tysm",
+            " - ",
+            "Normal No More",
+            " (Explicit)"
+          ]
+        },
+        {
+          "key": "9485|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "11508|I don't wanna take d**gs at the club",
+          "text": "I don't wanna take d**gs at the club",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "take ",
+            "d**gs ",
+            "at ",
+            "the ",
+            "club"
+          ]
+        },
+        {
+          "key": "14189|I don't wanna pretend I'm in love",
+          "text": "I don't wanna pretend I'm in love",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "pretend ",
+            "I'm ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "16871|Don't wanna put out just for fun",
+          "text": "Don't wanna put out just for fun",
+          "segments": [
+            "Don't ",
+            "wanna ",
+            "put ",
+            "out ",
+            "just ",
+            "for ",
+            "fun"
+          ]
+        },
+        {
+          "key": "19349|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "21625|I don't wanna take d**gs at the club",
+          "text": "I don't wanna take d**gs at the club",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "take ",
+            "d**gs ",
+            "at ",
+            "the ",
+            "club"
+          ]
+        },
+        {
+          "key": "24259|I don't wanna pretend I'm in love",
+          "text": "I don't wanna pretend I'm in love",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "pretend ",
+            "I'm ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "26938|Don't wanna put out just for fun",
+          "text": "Don't wanna put out just for fun",
+          "segments": [
+            "Don't ",
+            "wanna ",
+            "put ",
+            "out ",
+            "just ",
+            "for ",
+            "fun"
+          ]
+        },
+        {
+          "key": "32950|Faded",
+          "text": "Faded",
+          "segments": [
+            "Faded"
+          ]
+        },
+        {
+          "key": "43095|Faded",
+          "text": "Faded",
+          "segments": [
+            "Faded"
+          ]
+        },
+        {
+          "key": "50675|Sober when I'm faded",
+          "text": "Sober when I'm faded",
+          "segments": [
+            "Sober ",
+            "when ",
+            "I'm ",
+            "faded"
+          ]
+        },
+        {
+          "key": "53063|Permanent vacation",
+          "text": "Permanent vacation",
+          "segments": [
+            "Permanent ",
+            "vacation"
+          ]
+        },
+        {
+          "key": "55545|Don't care if I'm jaded",
+          "text": "Don't care if I'm jaded",
+          "segments": [
+            "Don't ",
+            "care ",
+            "if ",
+            "I'm ",
+            "jaded"
+          ]
+        },
+        {
+          "key": "58073|Done with all this faking",
+          "text": "Done with all this faking",
+          "segments": [
+            "Done ",
+            "with ",
+            "all ",
+            "this ",
+            "faking"
+          ]
+        },
+        {
+          "key": "60751|I don't wanna have to try no",
+          "text": "I don't wanna have to try no",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "have ",
+            "to ",
+            "try ",
+            "no"
+          ]
+        },
+        {
+          "key": "63130|I could walk a perfect line no",
+          "text": "I could walk a perfect line no",
+          "segments": [
+            "I ",
+            "could ",
+            "walk ",
+            "a ",
+            "perfect ",
+            "line ",
+            "no"
+          ]
+        },
+        {
+          "key": "65605|I don't want no alibi no",
+          "text": "I don't want no alibi no",
+          "segments": [
+            "I ",
+            "don't ",
+            "want ",
+            "no ",
+            "alibi ",
+            "no"
+          ]
+        },
+        {
+          "key": "68351|Don't lose any sleep at night no",
+          "text": "Don't lose any sleep at night no",
+          "segments": [
+            "Don't ",
+            "lose ",
+            "any ",
+            "sleep ",
+            "at ",
+            "night ",
+            "no"
+          ]
+        },
+        {
+          "key": "70164|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "72198|I don't wanna take d**gs at the club",
+          "text": "I don't wanna take d**gs at the club",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "take ",
+            "d**gs ",
+            "at ",
+            "the ",
+            "club"
+          ]
+        },
+        {
+          "key": "74827|I don't wanna pretend I'm in love",
+          "text": "I don't wanna pretend I'm in love",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "pretend ",
+            "I'm ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "77354|Don't wanna put out just for fun",
+          "text": "Don't wanna put out just for fun",
+          "segments": [
+            "Don't ",
+            "wanna ",
+            "put ",
+            "out ",
+            "just ",
+            "for ",
+            "fun"
+          ]
+        },
+        {
+          "key": "79884|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "82215|I don't wanna take d**gs at the club",
+          "text": "I don't wanna take d**gs at the club",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "take ",
+            "d**gs ",
+            "at ",
+            "the ",
+            "club"
+          ]
+        },
+        {
+          "key": "84941|I don't wanna pretend I'm in love",
+          "text": "I don't wanna pretend I'm in love",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "pretend ",
+            "I'm ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "87574|Don't wanna put out just for fun",
+          "text": "Don't wanna put out just for fun",
+          "segments": [
+            "Don't ",
+            "wanna ",
+            "put ",
+            "out ",
+            "just ",
+            "for ",
+            "fun"
+          ]
+        },
+        {
+          "key": "93540|Faded",
+          "text": "Faded",
+          "segments": [
+            "Faded"
+          ]
+        },
+        {
+          "key": "103589|Faded",
+          "text": "Faded",
+          "segments": [
+            "Faded"
+          ]
+        },
+        {
+          "key": "111295|Drinking from the bottle but it's just Pellegrino",
+          "text": "Drinking from the bottle but it's just Pellegrino",
+          "segments": [
+            "Drinking ",
+            "from ",
+            "the ",
+            "bottle ",
+            "but ",
+            "it's ",
+            "just ",
+            "Pellegrino"
+          ]
+        },
+        {
+          "key": "116359|Getting f**ked up got real boring so it's Grino for placebo",
+          "text": "Getting f**ked up got real boring so it's Grino for placebo",
+          "segments": [
+            "Getting ",
+            "f**ked ",
+            "up ",
+            "got ",
+            "real ",
+            "boring ",
+            "so ",
+            "it's ",
+            "Grino ",
+            "for ",
+            "placebo"
+          ]
+        },
+        {
+          "key": "121220|I don't wanna have to try no",
+          "text": "I don't wanna have to try no",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "have ",
+            "to ",
+            "try ",
+            "no"
+          ]
+        },
+        {
+          "key": "123802|I could walk a perfect line no",
+          "text": "I could walk a perfect line no",
+          "segments": [
+            "I ",
+            "could ",
+            "walk ",
+            "a ",
+            "perfect ",
+            "line ",
+            "no"
+          ]
+        },
+        {
+          "key": "126332|I don't want no alibi no",
+          "text": "I don't want no alibi no",
+          "segments": [
+            "I ",
+            "don't ",
+            "want ",
+            "no ",
+            "alibi ",
+            "no"
+          ]
+        },
+        {
+          "key": "128882|Don't lose any sleep at night no",
+          "text": "Don't lose any sleep at night no",
+          "segments": [
+            "Don't ",
+            "lose ",
+            "any ",
+            "sleep ",
+            "at ",
+            "night ",
+            "no"
+          ]
+        },
+        {
+          "key": "130794|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "132800|I don't wanna take d**gs at the club",
+          "text": "I don't wanna take d**gs at the club",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "take ",
+            "d**gs ",
+            "at ",
+            "the ",
+            "club"
+          ]
+        },
+        {
+          "key": "135384|I don't wanna pretend I'm in love",
+          "text": "I don't wanna pretend I'm in love",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "pretend ",
+            "I'm ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "137916|Don't wanna put out just for fun",
+          "text": "Don't wanna put out just for fun",
+          "segments": [
+            "Don't ",
+            "wanna ",
+            "put ",
+            "out ",
+            "just ",
+            "for ",
+            "fun"
+          ]
+        },
+        {
+          "key": "140548|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "142876|I don't wanna take d**gs at the club",
+          "text": "I don't wanna take d**gs at the club",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "take ",
+            "d**gs ",
+            "at ",
+            "the ",
+            "club"
+          ]
+        },
+        {
+          "key": "145560|I don't wanna pretend I'm in love",
+          "text": "I don't wanna pretend I'm in love",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "pretend ",
+            "I'm ",
+            "in ",
+            "love"
+          ]
+        },
+        {
+          "key": "148042|Don't wanna put out just for fun",
+          "text": "Don't wanna put out just for fun",
+          "segments": [
+            "Don't ",
+            "wanna ",
+            "put ",
+            "out ",
+            "just ",
+            "for ",
+            "fun"
+          ]
+        },
+        {
+          "key": "154633|Faded",
+          "text": "Faded",
+          "segments": [
+            "Faded"
+          ]
+        },
+        {
+          "key": "161147|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "164394|Faded",
+          "text": "Faded",
+          "segments": [
+            "Faded"
+          ]
+        },
+        {
+          "key": "166211|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "171178|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        },
+        {
+          "key": "174408|Faded",
+          "text": "Faded",
+          "segments": [
+            "Faded"
+          ]
+        },
+        {
+          "key": "186119|I don't wanna be normal no more",
+          "text": "I don't wanna be normal no more",
+          "segments": [
+            "I ",
+            "don't ",
+            "wanna ",
+            "be ",
+            "normal ",
+            "no ",
+            "more"
+          ]
+        }
+      ]
+    }
+  ]
+}

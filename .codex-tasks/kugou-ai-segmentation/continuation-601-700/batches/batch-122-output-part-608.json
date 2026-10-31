@@ -1,0 +1,19 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:88b27f7c2b8c01c9b26f4e9301138e40",
+      "lines": [
+        {
+          "key": "2197|DJ音乐，请欣赏",
+          "text": "DJ音乐，请欣赏",
+          "segments": [
+            "DJ",
+            "音乐，",
+            "请",
+            "欣赏"
+          ]
+        }
+      ]
+    }
+  ]
+}

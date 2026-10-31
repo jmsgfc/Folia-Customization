@@ -1,0 +1,935 @@
+{
+  "batchNumber": 122,
+  "songs": [
+    {
+      "rank": 606,
+      "songKey": "online:kugou:5a7c18f0a19889443518d0450c8f2960",
+      "name": "爱都爱了 (女版)",
+      "artist": "张茜（张惜淇）",
+      "lines": [
+        {
+          "key": "0|张茜 - 爱都爱了 (女版)",
+          "startMs": 0,
+          "text": "张茜 - 爱都爱了 (女版)"
+        },
+        {
+          "key": "258|作词：小洲",
+          "startMs": 258,
+          "text": "作词：小洲"
+        },
+        {
+          "key": "2607|作曲：小洲",
+          "startMs": 2607,
+          "text": "作曲：小洲"
+        },
+        {
+          "key": "3591|制作人：周鹏霄",
+          "startMs": 3591,
+          "text": "制作人：周鹏霄"
+        },
+        {
+          "key": "4727|编曲、键盘、混音、母带：周鹏霄",
+          "startMs": 4727,
+          "text": "编曲、键盘、混音、母带：周鹏霄"
+        },
+        {
+          "key": "5027|吉他、和声：史晓天",
+          "startMs": 5027,
+          "text": "吉他、和声：史晓天"
+        },
+        {
+          "key": "7182|人声录音：周鹏霄@Poesher Studio ",
+          "startMs": 7182,
+          "text": "人声录音：周鹏霄@Poesher Studio "
+        },
+        {
+          "key": "8379|宣传总监：涂涂",
+          "startMs": 8379,
+          "text": "宣传总监：涂涂"
+        },
+        {
+          "key": "9576|策划统筹：姚康康",
+          "startMs": 9576,
+          "text": "策划统筹：姚康康"
+        },
+        {
+          "key": "10773|出品发行：华声时代",
+          "startMs": 10773,
+          "text": "出品发行：华声时代"
+        },
+        {
+          "key": "11970|嘿 对面那个女人",
+          "startMs": 11970,
+          "text": "嘿 对面那个女人"
+        },
+        {
+          "key": "16140|现在夜已很深",
+          "startMs": 16140,
+          "text": "现在夜已很深"
+        },
+        {
+          "key": "18900|咖啡是否还留着余温",
+          "startMs": 18900,
+          "text": "咖啡是否还留着余温"
+        },
+        {
+          "key": "23250|想起 过往的我们",
+          "startMs": 23250,
+          "text": "想起 过往的我们"
+        },
+        {
+          "key": "27870|曾散步到黄昏",
+          "startMs": 27870,
+          "text": "曾散步到黄昏"
+        },
+        {
+          "key": "30660|如今是陌路人",
+          "startMs": 30660,
+          "text": "如今是陌路人"
+        },
+        {
+          "key": "35370|我 从来没想过我",
+          "startMs": 35370,
+          "text": "我 从来没想过我"
+        },
+        {
+          "key": "39570|这放荡的灵魂",
+          "startMs": 39570,
+          "text": "这放荡的灵魂"
+        },
+        {
+          "key": "42330|不经意间伤了你的心",
+          "startMs": 42330,
+          "text": "不经意间伤了你的心"
+        },
+        {
+          "key": "46740|如果 我们还有可能",
+          "startMs": 46740,
+          "text": "如果 我们还有可能"
+        },
+        {
+          "key": "51090|我会朝着宠坏你的大路狂奔",
+          "startMs": 51090,
+          "text": "我会朝着宠坏你的大路狂奔"
+        },
+        {
+          "key": "58050|我们爱都爱了还怕什么",
+          "startMs": 58050,
+          "text": "我们爱都爱了还怕什么"
+        },
+        {
+          "key": "61800|爱着爱着过完余生",
+          "startMs": 61800,
+          "text": "爱着爱着过完余生"
+        },
+        {
+          "key": "64680|画出雨后的彩虹",
+          "startMs": 64680,
+          "text": "画出雨后的彩虹"
+        },
+        {
+          "key": "69720|牵着手 走一程",
+          "startMs": 69720,
+          "text": "牵着手 走一程"
+        },
+        {
+          "key": "73020|让爱激荡翻滚",
+          "startMs": 73020,
+          "text": "让爱激荡翻滚"
+        },
+        {
+          "key": "75960|你是我永远最心疼的人",
+          "startMs": 75960,
+          "text": "你是我永远最心疼的人"
+        },
+        {
+          "key": "81420|我们爱都爱了还怕什么",
+          "startMs": 81420,
+          "text": "我们爱都爱了还怕什么"
+        },
+        {
+          "key": "85200|爱着爱着过完余生",
+          "startMs": 85200,
+          "text": "爱着爱着过完余生"
+        },
+        {
+          "key": "88110|全都是我的责任",
+          "startMs": 88110,
+          "text": "全都是我的责任"
+        },
+        {
+          "key": "93090|扬起头 哭一场",
+          "startMs": 93090,
+          "text": "扬起头 哭一场"
+        },
+        {
+          "key": "96450|擦干泪别彷徨",
+          "startMs": 96450,
+          "text": "擦干泪别彷徨"
+        },
+        {
+          "key": "99390|为了你我愿意奋不顾身",
+          "startMs": 99390,
+          "text": "为了你我愿意奋不顾身"
+        },
+        {
+          "key": "129030|我 从来没想过我",
+          "startMs": 129030,
+          "text": "我 从来没想过我"
+        },
+        {
+          "key": "133230|这放荡的灵魂",
+          "startMs": 133230,
+          "text": "这放荡的灵魂"
+        },
+        {
+          "key": "136020|不经意间伤了你的心",
+          "startMs": 136020,
+          "text": "不经意间伤了你的心"
+        },
+        {
+          "key": "140430|如果 我们还有可能",
+          "startMs": 140430,
+          "text": "如果 我们还有可能"
+        },
+        {
+          "key": "144750|我会朝着宠坏你的大路狂奔",
+          "startMs": 144750,
+          "text": "我会朝着宠坏你的大路狂奔"
+        },
+        {
+          "key": "151710|我们爱都爱了还怕什么",
+          "startMs": 151710,
+          "text": "我们爱都爱了还怕什么"
+        },
+        {
+          "key": "155430|爱着爱着过完余生",
+          "startMs": 155430,
+          "text": "爱着爱着过完余生"
+        },
+        {
+          "key": "158310|画出雨后的彩虹",
+          "startMs": 158310,
+          "text": "画出雨后的彩虹"
+        },
+        {
+          "key": "163380|牵着手 走一程",
+          "startMs": 163380,
+          "text": "牵着手 走一程"
+        },
+        {
+          "key": "166680|让爱激荡翻滚",
+          "startMs": 166680,
+          "text": "让爱激荡翻滚"
+        },
+        {
+          "key": "169620|你是我永远最心疼的人",
+          "startMs": 169620,
+          "text": "你是我永远最心疼的人"
+        },
+        {
+          "key": "175110|我们爱都爱了还怕什么",
+          "startMs": 175110,
+          "text": "我们爱都爱了还怕什么"
+        },
+        {
+          "key": "178860|爱着爱着过完余生",
+          "startMs": 178860,
+          "text": "爱着爱着过完余生"
+        },
+        {
+          "key": "181770|全都是我的责任",
+          "startMs": 181770,
+          "text": "全都是我的责任"
+        },
+        {
+          "key": "186780|扬起头 哭一场",
+          "startMs": 186780,
+          "text": "扬起头 哭一场"
+        },
+        {
+          "key": "190110|擦干泪别彷徨",
+          "startMs": 190110,
+          "text": "擦干泪别彷徨"
+        },
+        {
+          "key": "193050|为了你我愿意奋不顾身",
+          "startMs": 193050,
+          "text": "为了你我愿意奋不顾身"
+        },
+        {
+          "key": "198480|牵着手 走一程",
+          "startMs": 198480,
+          "text": "牵着手 走一程"
+        },
+        {
+          "key": "201810|全是我的责任",
+          "startMs": 201810,
+          "text": "全是我的责任"
+        },
+        {
+          "key": "204750|你是我永远最心疼的人",
+          "startMs": 204750,
+          "text": "你是我永远最心疼的人"
+        }
+      ]
+    },
+    {
+      "rank": 607,
+      "songKey": "online:kugou:99869ff44747bb354565fe09fc2f760a",
+      "name": "PYRO",
+      "artist": "Chester Young / Castion",
+      "lines": [
+        {
+          "key": "0|Chester Young、Castion - PYRO",
+          "startMs": 0,
+          "text": "Chester Young、Castion - PYRO"
+        },
+        {
+          "key": "1070|Composed by：Demchenko Dmitriy、Antonio Castrillo",
+          "startMs": 1070,
+          "text": "Composed by：Demchenko Dmitriy、Antonio Castrillo"
+        },
+        {
+          "key": "2146|Boys in a bomb fight",
+          "startMs": 2146,
+          "text": "Boys in a bomb fight"
+        },
+        {
+          "key": "3004|Some of them alight",
+          "startMs": 3004,
+          "text": "Some of them alight"
+        },
+        {
+          "key": "3930|Sight in the cover",
+          "startMs": 3930,
+          "text": "Sight in the cover"
+        },
+        {
+          "key": "4690|My satellite gonna see the army army",
+          "startMs": 4690,
+          "text": "My satellite gonna see the army army"
+        },
+        {
+          "key": "6690|We protect me brother",
+          "startMs": 6690,
+          "text": "We protect me brother"
+        },
+        {
+          "key": "7698|Tactical calibrate and see from every colour",
+          "startMs": 7698,
+          "text": "Tactical calibrate and see from every colour"
+        },
+        {
+          "key": "9594|Run with the rude boy",
+          "startMs": 9594,
+          "text": "Run with the rude boy"
+        },
+        {
+          "key": "10690|Guard the barrier",
+          "startMs": 10690,
+          "text": "Guard the barrier"
+        },
+        {
+          "key": "11862|Ambush them with the fire",
+          "startMs": 11862,
+          "text": "Ambush them with the fire"
+        },
+        {
+          "key": "13162|And the bass the noise better pull we turn up",
+          "startMs": 13162,
+          "text": "And the bass the noise better pull we turn up"
+        },
+        {
+          "key": "15188|If we catch ya zoomin' faster we'll again catch up",
+          "startMs": 15188,
+          "text": "If we catch ya zoomin' faster we'll again catch up"
+        },
+        {
+          "key": "17110|Us in the army I'm in the army army",
+          "startMs": 17110,
+          "text": "Us in the army I'm in the army army"
+        },
+        {
+          "key": "19085|Sight in the cover",
+          "startMs": 19085,
+          "text": "Sight in the cover"
+        },
+        {
+          "key": "19848|My satellite gonna see",
+          "startMs": 19848,
+          "text": "My satellite gonna see"
+        },
+        {
+          "key": "20988|Us in the army I'm in the army army",
+          "startMs": 20988,
+          "text": "Us in the army I'm in the army army"
+        },
+        {
+          "key": "22964|If we catch ya zoomin' faster we'll again catch up",
+          "startMs": 22964,
+          "text": "If we catch ya zoomin' faster we'll again catch up"
+        },
+        {
+          "key": "24864|Us in the army I'm in the army army",
+          "startMs": 24864,
+          "text": "Us in the army I'm in the army army"
+        },
+        {
+          "key": "26803|Us in the army I'm in the army army",
+          "startMs": 26803,
+          "text": "Us in the army I'm in the army army"
+        },
+        {
+          "key": "30458|If we catch ya zoomin' faster we'll again catch up",
+          "startMs": 30458,
+          "text": "If we catch ya zoomin' faster we'll again catch up"
+        },
+        {
+          "key": "66534|Boys in a bomb fight",
+          "startMs": 66534,
+          "text": "Boys in a bomb fight"
+        },
+        {
+          "key": "67550|Some of them alight",
+          "startMs": 67550,
+          "text": "Some of them alight"
+        },
+        {
+          "key": "68534|Sight in the cover",
+          "startMs": 68534,
+          "text": "Sight in the cover"
+        },
+        {
+          "key": "69374|My satellite gonna see the army army",
+          "startMs": 69374,
+          "text": "My satellite gonna see the army army"
+        },
+        {
+          "key": "71367|We protect me brother",
+          "startMs": 71367,
+          "text": "We protect me brother"
+        },
+        {
+          "key": "72342|Tactical calibrate and see from every colour",
+          "startMs": 72342,
+          "text": "Tactical calibrate and see from every colour"
+        },
+        {
+          "key": "74278|Run with the rude boy",
+          "startMs": 74278,
+          "text": "Run with the rude boy"
+        },
+        {
+          "key": "75390|Guard the barrier",
+          "startMs": 75390,
+          "text": "Guard the barrier"
+        },
+        {
+          "key": "76638|Ambush them with the fire",
+          "startMs": 76638,
+          "text": "Ambush them with the fire"
+        },
+        {
+          "key": "77861|And the bass the noise better pull we turn up",
+          "startMs": 77861,
+          "text": "And the bass the noise better pull we turn up"
+        },
+        {
+          "key": "81867|Boys in a bomb fight",
+          "startMs": 81867,
+          "text": "Boys in a bomb fight"
+        },
+        {
+          "key": "82810|Some of them alight",
+          "startMs": 82810,
+          "text": "Some of them alight"
+        },
+        {
+          "key": "83722|Sight in the cover",
+          "startMs": 83722,
+          "text": "Sight in the cover"
+        },
+        {
+          "key": "84579|My satellite gonna see the army army",
+          "startMs": 84579,
+          "text": "My satellite gonna see the army army"
+        },
+        {
+          "key": "88054|We protect me brother",
+          "startMs": 88054,
+          "text": "We protect me brother"
+        },
+        {
+          "key": "89612|Run with the rude boy",
+          "startMs": 89612,
+          "text": "Run with the rude boy"
+        },
+        {
+          "key": "90669|Guard the barrier",
+          "startMs": 90669,
+          "text": "Guard the barrier"
+        },
+        {
+          "key": "91952|Ambush them with the fire",
+          "startMs": 91952,
+          "text": "Ambush them with the fire"
+        },
+        {
+          "key": "93232|And the bass the noise bass the noise bass the noise",
+          "startMs": 93232,
+          "text": "And the bass the noise bass the noise bass the noise"
+        },
+        {
+          "key": "97074|Us in the army I'm in the army army",
+          "startMs": 97074,
+          "text": "Us in the army I'm in the army army"
+        },
+        {
+          "key": "99027|Sight in the cover",
+          "startMs": 99027,
+          "text": "Sight in the cover"
+        },
+        {
+          "key": "99911|My satellite gonna see the",
+          "startMs": 99911,
+          "text": "My satellite gonna see the"
+        },
+        {
+          "key": "101019|Us in the army I'm in the army army",
+          "startMs": 101019,
+          "text": "Us in the army I'm in the army army"
+        },
+        {
+          "key": "102953|If we catch ya zoomin' faster we'll again catch up",
+          "startMs": 102953,
+          "text": "If we catch ya zoomin' faster we'll again catch up"
+        },
+        {
+          "key": "104744|Us in the army I'm in the army army",
+          "startMs": 104744,
+          "text": "Us in the army I'm in the army army"
+        },
+        {
+          "key": "106649|Us in the army I'm in the army army",
+          "startMs": 106649,
+          "text": "Us in the army I'm in the army army"
+        },
+        {
+          "key": "110396|If we catch ya zoomin' faster we'll again catch up",
+          "startMs": 110396,
+          "text": "If we catch ya zoomin' faster we'll again catch up"
+        }
+      ]
+    },
+    {
+      "rank": 608,
+      "songKey": "online:kugou:88b27f7c2b8c01c9b26f4e9301138e40",
+      "name": "CountingStars",
+      "artist": "DJ梦菲",
+      "lines": [
+        {
+          "key": "2197|DJ音乐，请欣赏",
+          "startMs": 2197,
+          "text": "DJ音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 609,
+      "songKey": "online:kugou:c318aedddf3c30317bcb3e047cfe8cf7",
+      "name": "听坤坤的话 (21秒Live片段)",
+      "artist": "华语群星",
+      "lines": [
+        {
+          "key": "0|华语群星 - 听坤坤的话 (Live片段)",
+          "startMs": 0,
+          "text": "华语群星 - 听坤坤的话 (Live片段)"
+        },
+        {
+          "key": "127|迎面走来的你",
+          "startMs": 127,
+          "text": "迎面走来的你"
+        },
+        {
+          "key": "939|让我如此蠢蠢欲动",
+          "startMs": 939,
+          "text": "让我如此蠢蠢欲动"
+        },
+        {
+          "key": "2558|这种感觉我从未有",
+          "startMs": 2558,
+          "text": "这种感觉我从未有"
+        },
+        {
+          "key": "3676|Cause I got a crush on you who you",
+          "startMs": 3676,
+          "text": "Cause I got a crush on you who you"
+        },
+        {
+          "key": "8046|你是我的我是你的谁",
+          "startMs": 8046,
+          "text": "你是我的我是你的谁"
+        },
+        {
+          "key": "10640|再多一眼看一眼就会爆炸",
+          "startMs": 10640,
+          "text": "再多一眼看一眼就会爆炸"
+        },
+        {
+          "key": "13122|再近一点靠近点快被融化",
+          "startMs": 13122,
+          "text": "再近一点靠近点快被融化"
+        },
+        {
+          "key": "15761|想要把你占为己有 baby bae",
+          "startMs": 15761,
+          "text": "想要把你占为己有 baby bae"
+        },
+        {
+          "key": "18289|不管走到哪里",
+          "startMs": 18289,
+          "text": "不管走到哪里"
+        },
+        {
+          "key": "19100|都会想起的人是你 you you",
+          "startMs": 19100,
+          "text": "都会想起的人是你 you you"
+        }
+      ]
+    },
+    {
+      "rank": 610,
+      "songKey": "online:kugou:0a2b98d1df2fec4995e89de1d1c6995c",
+      "name": "Come Back For You",
+      "artist": "Elephante / Matluck",
+      "lines": [
+        {
+          "key": "216|Elephante、Matluck - Come Back For You",
+          "startMs": 216,
+          "text": "Elephante、Matluck - Come Back For You"
+        },
+        {
+          "key": "2210|Lyrics by：Peter Anthony Hanna/Max Elliot Matluck/Tim Wu",
+          "startMs": 2210,
+          "text": "Lyrics by：Peter Anthony Hanna/Max Elliot Matluck/Tim Wu"
+        },
+        {
+          "key": "4420|Composed by：Max Elliot Matluck/Tim Wu/Peter Anthony Hanna",
+          "startMs": 4420,
+          "text": "Composed by：Max Elliot Matluck/Tim Wu/Peter Anthony Hanna"
+        },
+        {
+          "key": "6637|It's coming back just like a replay",
+          "startMs": 6637,
+          "text": "It's coming back just like a replay"
+        },
+        {
+          "key": "8642|Rolling down the freeway honey",
+          "startMs": 8642,
+          "text": "Rolling down the freeway honey"
+        },
+        {
+          "key": "12562|The thought of you brings me to tears",
+          "startMs": 12562,
+          "text": "The thought of you brings me to tears"
+        },
+        {
+          "key": "14252|It's been so many years",
+          "startMs": 14252,
+          "text": "It's been so many years"
+        },
+        {
+          "key": "16057|I'm finally seein' clear now honey",
+          "startMs": 16057,
+          "text": "I'm finally seein' clear now honey"
+        },
+        {
+          "key": "18375|Ooooh",
+          "startMs": 18375,
+          "text": "Ooooh"
+        },
+        {
+          "key": "20161|I remember you and I were free then",
+          "startMs": 20161,
+          "text": "I remember you and I were free then"
+        },
+        {
+          "key": "23248|But I was leavin'",
+          "startMs": 23248,
+          "text": "But I was leavin'"
+        },
+        {
+          "key": "24647|Ooooh",
+          "startMs": 24647,
+          "text": "Ooooh"
+        },
+        {
+          "key": "26169|You and I were caught up in a feeling",
+          "startMs": 26169,
+          "text": "You and I were caught up in a feeling"
+        },
+        {
+          "key": "29033|And I still believe it",
+          "startMs": 29033,
+          "text": "And I still believe it"
+        },
+        {
+          "key": "30405|Didn't I didn't I didn't I say",
+          "startMs": 30405,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "33405|I would be the one to make you feel this way",
+          "startMs": 33405,
+          "text": "I would be the one to make you feel this way"
+        },
+        {
+          "key": "36438|Didn't I didn't I didn't I say",
+          "startMs": 36438,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "40321|I give all I have for you",
+          "startMs": 40321,
+          "text": "I give all I have for you"
+        },
+        {
+          "key": "42409|Didn't I didn't I didn't I say",
+          "startMs": 42409,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "45426|I would be the one to take away your pain",
+          "startMs": 45426,
+          "text": "I would be the one to take away your pain"
+        },
+        {
+          "key": "48412|Didn't I didn't I didn't I say",
+          "startMs": 48412,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "52237|Baby I come back for you",
+          "startMs": 52237,
+          "text": "Baby I come back for you"
+        },
+        {
+          "key": "58858|Baby I come back for",
+          "startMs": 58858,
+          "text": "Baby I come back for"
+        },
+        {
+          "key": "64871|Baby I come back for you",
+          "startMs": 64871,
+          "text": "Baby I come back for you"
+        },
+        {
+          "key": "67094|Doesn't matter where I'm goin'",
+          "startMs": 67094,
+          "text": "Doesn't matter where I'm goin'"
+        },
+        {
+          "key": "68566|'Long as it's you I'm holdin' honey",
+          "startMs": 68566,
+          "text": "'Long as it's you I'm holdin' honey"
+        },
+        {
+          "key": "72560|You are the only one who knows me",
+          "startMs": 72560,
+          "text": "You are the only one who knows me"
+        },
+        {
+          "key": "74441|The one who can expose me",
+          "startMs": 74441,
+          "text": "The one who can expose me"
+        },
+        {
+          "key": "76234|Sometimes I think it shows me and it's like",
+          "startMs": 76234,
+          "text": "Sometimes I think it shows me and it's like"
+        },
+        {
+          "key": "78687|Ooooh",
+          "startMs": 78687,
+          "text": "Ooooh"
+        },
+        {
+          "key": "80106|I remember you and I were free then",
+          "startMs": 80106,
+          "text": "I remember you and I were free then"
+        },
+        {
+          "key": "83174|But I was leavin'",
+          "startMs": 83174,
+          "text": "But I was leavin'"
+        },
+        {
+          "key": "84725|Ooooh",
+          "startMs": 84725,
+          "text": "Ooooh"
+        },
+        {
+          "key": "86165|You and I were caught up in a feeling",
+          "startMs": 86165,
+          "text": "You and I were caught up in a feeling"
+        },
+        {
+          "key": "89233|And I still believe it",
+          "startMs": 89233,
+          "text": "And I still believe it"
+        },
+        {
+          "key": "90418|Didn't I didn't I didn't I say",
+          "startMs": 90418,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "93501|I would be the one to make you feel this way",
+          "startMs": 93501,
+          "text": "I would be the one to make you feel this way"
+        },
+        {
+          "key": "96537|Didn't I didn't I didn't I say",
+          "startMs": 96537,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "100555|I give all I have for you",
+          "startMs": 100555,
+          "text": "I give all I have for you"
+        },
+        {
+          "key": "102414|Didn't I didn't I didn't I say",
+          "startMs": 102414,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "105501|I would be the one to take away your pain",
+          "startMs": 105501,
+          "text": "I would be the one to take away your pain"
+        },
+        {
+          "key": "108408|Didn't I didn't I didn't I say",
+          "startMs": 108408,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "112513|Baby I come back for you",
+          "startMs": 112513,
+          "text": "Baby I come back for you"
+        },
+        {
+          "key": "118917|Baby I come back for",
+          "startMs": 118917,
+          "text": "Baby I come back for"
+        },
+        {
+          "key": "124845|Baby I come back for you",
+          "startMs": 124845,
+          "text": "Baby I come back for you"
+        },
+        {
+          "key": "126434|Didn't I didn't I",
+          "startMs": 126434,
+          "text": "Didn't I didn't I"
+        },
+        {
+          "key": "129426|Didn't I didn't I",
+          "startMs": 129426,
+          "text": "Didn't I didn't I"
+        },
+        {
+          "key": "132346|Didn't I didn't I didn't I didn't I",
+          "startMs": 132346,
+          "text": "Didn't I didn't I didn't I didn't I"
+        },
+        {
+          "key": "138422|Didn't I didn't I didn't I say",
+          "startMs": 138422,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "141162|I would be the one to make you feel this way",
+          "startMs": 141162,
+          "text": "I would be the one to make you feel this way"
+        },
+        {
+          "key": "144357|Didn't I didn't I didn't I say",
+          "startMs": 144357,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "148323|I give all I have for you",
+          "startMs": 148323,
+          "text": "I give all I have for you"
+        },
+        {
+          "key": "150420|Didn't I didn't I didn't I say",
+          "startMs": 150420,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "153268|I would be the one to take away your pain",
+          "startMs": 153268,
+          "text": "I would be the one to take away your pain"
+        },
+        {
+          "key": "156388|Didn't I didn't I didn't I say",
+          "startMs": 156388,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "160503|Baby I come back for you",
+          "startMs": 160503,
+          "text": "Baby I come back for you"
+        },
+        {
+          "key": "165071|Yeah",
+          "startMs": 165071,
+          "text": "Yeah"
+        },
+        {
+          "key": "166540|Baby I come back for you",
+          "startMs": 166540,
+          "text": "Baby I come back for you"
+        },
+        {
+          "key": "170239|Yeah",
+          "startMs": 170239,
+          "text": "Yeah"
+        },
+        {
+          "key": "172643|Baby I come back for you",
+          "startMs": 172643,
+          "text": "Baby I come back for you"
+        },
+        {
+          "key": "184506|Baby I come back for you",
+          "startMs": 184506,
+          "text": "Baby I come back for you"
+        },
+        {
+          "key": "186480|Didn't I didn't I didn't I say",
+          "startMs": 186480,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "189256|I would be the one to take away your pain",
+          "startMs": 189256,
+          "text": "I would be the one to take away your pain"
+        },
+        {
+          "key": "192407|Didn't I didn't I didn't I say",
+          "startMs": 192407,
+          "text": "Didn't I didn't I didn't I say"
+        },
+        {
+          "key": "196527|Baby I come back for you",
+          "startMs": 196527,
+          "text": "Baby I come back for you"
+        }
+      ]
+    }
+  ]
+}

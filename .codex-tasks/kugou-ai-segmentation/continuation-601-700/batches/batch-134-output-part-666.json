@@ -1,0 +1,446 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:c184c5ebe4add242864f446731708615",
+      "lines": [
+        {
+          "key": "860|葛东琪 - 悬溺",
+          "text": "葛东琪 - 悬溺",
+          "segments": [
+            "葛东琪",
+            " - ",
+            "悬溺"
+          ]
+        },
+        {
+          "key": "1566|作词：葛东琪",
+          "text": "作词：葛东琪",
+          "segments": [
+            "作词：",
+            "葛东琪"
+          ]
+        },
+        {
+          "key": "1767|作曲：葛东琪",
+          "text": "作曲：葛东琪",
+          "segments": [
+            "作曲：",
+            "葛东琪"
+          ]
+        },
+        {
+          "key": "1920|编曲：葛东琪",
+          "text": "编曲：葛东琪",
+          "segments": [
+            "编曲：",
+            "葛东琪"
+          ]
+        },
+        {
+          "key": "2123|录音师：葛东琪",
+          "text": "录音师：葛东琪",
+          "segments": [
+            "录音师：",
+            "葛东琪"
+          ]
+        },
+        {
+          "key": "2376|混音师：葛东琪",
+          "text": "混音师：葛东琪",
+          "segments": [
+            "混音师：",
+            "葛东琪"
+          ]
+        },
+        {
+          "key": "2578|制作人：葛东琪",
+          "text": "制作人：葛东琪",
+          "segments": [
+            "制作人：",
+            "葛东琪"
+          ]
+        },
+        {
+          "key": "2832|推广：刘维刚",
+          "text": "推广：刘维刚",
+          "segments": [
+            "推广：",
+            "刘维刚"
+          ]
+        },
+        {
+          "key": "3033|发行：湖南音讯影视传媒有限公司",
+          "text": "发行：湖南音讯影视传媒有限公司",
+          "segments": [
+            "发行：",
+            "湖南音讯影视传媒有限公司"
+          ]
+        },
+        {
+          "key": "31493|我主张制止不了就放任",
+          "text": "我主张制止不了就放任",
+          "segments": [
+            "我主张",
+            "制止不了",
+            "就",
+            "放任"
+          ]
+        },
+        {
+          "key": "38212|这欲望与绝望之争",
+          "text": "这欲望与绝望之争",
+          "segments": [
+            "这",
+            "欲望",
+            "与",
+            "绝望",
+            "之争"
+          ]
+        },
+        {
+          "key": "44771|余温她却喜欢过门",
+          "text": "余温她却喜欢过门",
+          "segments": [
+            "余温",
+            "她却",
+            "喜欢",
+            "过门"
+          ]
+        },
+        {
+          "key": "50531|临走呢",
+          "text": "临走呢",
+          "segments": [
+            "临走呢"
+          ]
+        },
+        {
+          "key": "52353|还随手关了灯",
+          "text": "还随手关了灯",
+          "segments": [
+            "还",
+            "随手",
+            "关了灯"
+          ]
+        },
+        {
+          "key": "56600|So funny",
+          "text": "So funny",
+          "segments": [
+            "So ",
+            "funny"
+          ]
+        },
+        {
+          "key": "57158|Ya i ya i ya i ya i ya i ya i ya",
+          "text": "Ya i ya i ya i ya i ya i ya i ya",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "60644|Ya i ya i ya i ya i",
+          "text": "Ya i ya i ya i ya i",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i"
+          ]
+        },
+        {
+          "key": "63779|Ya i ya i ya i ya i ya i ya i ya",
+          "text": "Ya i ya i ya i ya i ya i ya i ya",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "67294|It's so funny ya i ya i",
+          "text": "It's so funny ya i ya i",
+          "segments": [
+            "It's ",
+            "so ",
+            "funny ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i"
+          ]
+        },
+        {
+          "key": "70528|Ya i ya i ya i ya i ya i ya i ya",
+          "text": "Ya i ya i ya i ya i ya i ya i ya",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "73912|Ya i ya i ya i ya i",
+          "text": "Ya i ya i ya i ya i",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i"
+          ]
+        },
+        {
+          "key": "77221|It's so funny ya i ya i ya i ya i ya",
+          "text": "It's so funny ya i ya i ya i ya i ya",
+          "segments": [
+            "It's ",
+            "so ",
+            "funny ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "80673|Ya i ya i ya i ya i",
+          "text": "Ya i ya i ya i ya i",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i"
+          ]
+        },
+        {
+          "key": "111560|我主张克制不了就放任",
+          "text": "我主张克制不了就放任",
+          "segments": [
+            "我主张",
+            "克制不了",
+            "就",
+            "放任"
+          ]
+        },
+        {
+          "key": "118378|悬上该有的天真",
+          "text": "悬上该有的天真",
+          "segments": [
+            "悬上",
+            "该有的",
+            "天真"
+          ]
+        },
+        {
+          "key": "124844|起伏在于喜怒哀乐",
+          "text": "起伏在于喜怒哀乐",
+          "segments": [
+            "起伏",
+            "在于",
+            "喜怒哀乐"
+          ]
+        },
+        {
+          "key": "130548|松了绳",
+          "text": "松了绳",
+          "segments": [
+            "松了绳"
+          ]
+        },
+        {
+          "key": "132367|大不了无人问",
+          "text": "大不了无人问",
+          "segments": [
+            "大不了",
+            "无人问"
+          ]
+        },
+        {
+          "key": "137258|Ya i ya i ya i ya i ya i ya i ya",
+          "text": "Ya i ya i ya i ya i ya i ya i ya",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "140445|Ya i ya i ya i ya i",
+          "text": "Ya i ya i ya i ya i",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i"
+          ]
+        },
+        {
+          "key": "143726|Ya i ya i ya i ya i ya i ya i ya",
+          "text": "Ya i ya i ya i ya i ya i ya i ya",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "147315|It's so funny ya i ya i",
+          "text": "It's so funny ya i ya i",
+          "segments": [
+            "It's ",
+            "so ",
+            "funny ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i"
+          ]
+        },
+        {
+          "key": "150447|Ya i ya i ya i ya i ya i ya i ya",
+          "text": "Ya i ya i ya i ya i ya i ya i ya",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "153831|Ya i ya i ya i ya",
+          "text": "Ya i ya i ya i ya",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "157105|It's so funny ya i ya i ya i ya i ya",
+          "text": "It's so funny ya i ya i ya i ya i ya",
+          "segments": [
+            "It's ",
+            "so ",
+            "funny ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "160491|Ya i ya i ya i ya",
+          "text": "Ya i ya i ya i ya",
+          "segments": [
+            "Ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya ",
+            "i ",
+            "ya"
+          ]
+        },
+        {
+          "key": "162509|有什么话要说",
+          "text": "有什么话要说",
+          "segments": [
+            "有什么话",
+            "要说"
+          ]
+        }
+      ]
+    }
+  ]
+}

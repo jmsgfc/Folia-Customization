@@ -1,0 +1,1130 @@
+{
+  "batchNumber": 137,
+  "songs": [
+    {
+      "rank": 681,
+      "songKey": "online:kugou:e0f75e8447498c15bff4723337e5e2fc",
+      "name": "新贵妃醉酒",
+      "artist": "李玉刚",
+      "lines": [
+        {
+          "key": "1023|李玉刚 - 新贵妃醉酒",
+          "startMs": 1023,
+          "text": "李玉刚 - 新贵妃醉酒"
+        },
+        {
+          "key": "3282|作词：胡力",
+          "startMs": 3282,
+          "text": "作词：胡力"
+        },
+        {
+          "key": "4200|作曲：胡力",
+          "startMs": 4200,
+          "text": "作曲：胡力"
+        },
+        {
+          "key": "42881|那一年的雪花飘落",
+          "startMs": 42881,
+          "text": "那一年的雪花飘落"
+        },
+        {
+          "key": "45491|梅花开枝头",
+          "startMs": 45491,
+          "text": "梅花开枝头"
+        },
+        {
+          "key": "48648|那一年的华清池旁",
+          "startMs": 48648,
+          "text": "那一年的华清池旁"
+        },
+        {
+          "key": "51149|留下太多愁",
+          "startMs": 51149,
+          "text": "留下太多愁"
+        },
+        {
+          "key": "54093|不要说谁是谁非",
+          "startMs": 54093,
+          "text": "不要说谁是谁非"
+        },
+        {
+          "key": "56699|感情错与对",
+          "startMs": 56699,
+          "text": "感情错与对"
+        },
+        {
+          "key": "59880|只想梦里与你一起",
+          "startMs": 59880,
+          "text": "只想梦里与你一起"
+        },
+        {
+          "key": "62585|再醉一回",
+          "startMs": 62585,
+          "text": "再醉一回"
+        },
+        {
+          "key": "65668|金雀钗玉搔头",
+          "startMs": 65668,
+          "text": "金雀钗玉搔头"
+        },
+        {
+          "key": "67866|是你给我的礼物",
+          "startMs": 67866,
+          "text": "是你给我的礼物"
+        },
+        {
+          "key": "71243|霓裳羽衣曲几番轮回",
+          "startMs": 71243,
+          "text": "霓裳羽衣曲几番轮回"
+        },
+        {
+          "key": "73902|为你歌舞",
+          "startMs": 73902,
+          "text": "为你歌舞"
+        },
+        {
+          "key": "77075|剑门关是你对我",
+          "startMs": 77075,
+          "text": "剑门关是你对我"
+        },
+        {
+          "key": "79577|深深的思念",
+          "startMs": 79577,
+          "text": "深深的思念"
+        },
+        {
+          "key": "82889|马嵬坡下愿为",
+          "startMs": 82889,
+          "text": "马嵬坡下愿为"
+        },
+        {
+          "key": "84622|真爱魂断红颜",
+          "startMs": 84622,
+          "text": "真爱魂断红颜"
+        },
+        {
+          "key": "90441|爱恨就在一瞬间",
+          "startMs": 90441,
+          "text": "爱恨就在一瞬间"
+        },
+        {
+          "key": "96199|举杯对月情似天",
+          "startMs": 96199,
+          "text": "举杯对月情似天"
+        },
+        {
+          "key": "102454|爱恨两茫茫",
+          "startMs": 102454,
+          "text": "爱恨两茫茫"
+        },
+        {
+          "key": "108406|问君何时恋",
+          "startMs": 108406,
+          "text": "问君何时恋"
+        },
+        {
+          "key": "113406|菊花台倒影明月",
+          "startMs": 113406,
+          "text": "菊花台倒影明月"
+        },
+        {
+          "key": "118907|谁知吾爱心中寒",
+          "startMs": 118907,
+          "text": "谁知吾爱心中寒"
+        },
+        {
+          "key": "125052|醉在君王怀",
+          "startMs": 125052,
+          "text": "醉在君王怀"
+        },
+        {
+          "key": "131175|梦回大唐爱",
+          "startMs": 131175,
+          "text": "梦回大唐爱"
+        },
+        {
+          "key": "159918|金雀钗玉搔头",
+          "startMs": 159918,
+          "text": "金雀钗玉搔头"
+        },
+        {
+          "key": "162008|是你给我的礼物",
+          "startMs": 162008,
+          "text": "是你给我的礼物"
+        },
+        {
+          "key": "165524|霓裳羽衣曲几番轮回",
+          "startMs": 165524,
+          "text": "霓裳羽衣曲几番轮回"
+        },
+        {
+          "key": "168126|为你歌舞",
+          "startMs": 168126,
+          "text": "为你歌舞"
+        },
+        {
+          "key": "171382|剑门关是你对我",
+          "startMs": 171382,
+          "text": "剑门关是你对我"
+        },
+        {
+          "key": "173820|深深的思念",
+          "startMs": 173820,
+          "text": "深深的思念"
+        },
+        {
+          "key": "177061|马嵬坡下愿为",
+          "startMs": 177061,
+          "text": "马嵬坡下愿为"
+        },
+        {
+          "key": "178788|真爱魂断红颜",
+          "startMs": 178788,
+          "text": "真爱魂断红颜"
+        },
+        {
+          "key": "183066|爱恨就在一瞬间",
+          "startMs": 183066,
+          "text": "爱恨就在一瞬间"
+        },
+        {
+          "key": "188770|举杯对月情似天",
+          "startMs": 188770,
+          "text": "举杯对月情似天"
+        },
+        {
+          "key": "195447|爱恨两茫茫",
+          "startMs": 195447,
+          "text": "爱恨两茫茫"
+        },
+        {
+          "key": "200840|问君何时恋",
+          "startMs": 200840,
+          "text": "问君何时恋"
+        },
+        {
+          "key": "206094|菊花台倒影明月",
+          "startMs": 206094,
+          "text": "菊花台倒影明月"
+        },
+        {
+          "key": "211644|谁知吾爱心中寒",
+          "startMs": 211644,
+          "text": "谁知吾爱心中寒"
+        },
+        {
+          "key": "218052|醉在君王怀",
+          "startMs": 218052,
+          "text": "醉在君王怀"
+        },
+        {
+          "key": "223809|梦回大唐爱",
+          "startMs": 223809,
+          "text": "梦回大唐爱"
+        },
+        {
+          "key": "229097|菊花台倒影明月",
+          "startMs": 229097,
+          "text": "菊花台倒影明月"
+        },
+        {
+          "key": "234449|谁知吾爱心中寒",
+          "startMs": 234449,
+          "text": "谁知吾爱心中寒"
+        },
+        {
+          "key": "240870|醉在君王怀",
+          "startMs": 240870,
+          "text": "醉在君王怀"
+        },
+        {
+          "key": "246436|梦回大唐爱",
+          "startMs": 246436,
+          "text": "梦回大唐爱"
+        }
+      ]
+    },
+    {
+      "rank": 682,
+      "songKey": "online:kugou:afc08d4c52ef17cb6d7eca7bf7af40c9",
+      "name": "失忆 (男生版)",
+      "artist": "蔡鹤峰",
+      "lines": [
+        {
+          "key": "41|蔡鹤峰 - 失忆(男生版)",
+          "startMs": 41,
+          "text": "蔡鹤峰 - 失忆(男生版)"
+        },
+        {
+          "key": "768|作词：陈轼辛",
+          "startMs": 768,
+          "text": "作词：陈轼辛"
+        },
+        {
+          "key": "971|作曲：刘凯",
+          "startMs": 971,
+          "text": "作曲：刘凯"
+        },
+        {
+          "key": "1073|原唱、首唱：图小图",
+          "startMs": 1073,
+          "text": "原唱、首唱：图小图"
+        },
+        {
+          "key": "1326|后期：吕口口@大口音乐社",
+          "startMs": 1326,
+          "text": "后期：吕口口@大口音乐社"
+        },
+        {
+          "key": "1680|统筹：闹闹",
+          "startMs": 1680,
+          "text": "统筹：闹闹"
+        },
+        {
+          "key": "1831|总监：刘凯",
+          "startMs": 1831,
+          "text": "总监：刘凯"
+        },
+        {
+          "key": "1932|发行人：桑爱",
+          "startMs": 1932,
+          "text": "发行人：桑爱"
+        },
+        {
+          "key": "2134|宣传：看见文娱·音乐中心",
+          "startMs": 2134,
+          "text": "宣传：看见文娱·音乐中心"
+        },
+        {
+          "key": "2552|营销推广：夏子溪、夕妹",
+          "startMs": 2552,
+          "text": "营销推广：夏子溪、夕妹"
+        },
+        {
+          "key": "2552|出品：果然乐动、银河计划",
+          "startMs": 2552,
+          "text": "出品：果然乐动、银河计划"
+        },
+        {
+          "key": "2552|什么才是真理",
+          "startMs": 2552,
+          "text": "什么才是真理"
+        },
+        {
+          "key": "4523|噢失恋快失忆",
+          "startMs": 4523,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "6296|他们说爱过就可以伤和别离",
+          "startMs": 6296,
+          "text": "他们说爱过就可以伤和别离"
+        },
+        {
+          "key": "9844|说什么不会忘记说什么",
+          "startMs": 9844,
+          "text": "说什么不会忘记说什么"
+        },
+        {
+          "key": "12372|保持联系",
+          "startMs": 12372,
+          "text": "保持联系"
+        },
+        {
+          "key": "13537|明天遇见他却牵着新的伴侣",
+          "startMs": 13537,
+          "text": "明天遇见他却牵着新的伴侣"
+        },
+        {
+          "key": "18241|像放在手心就能够发光美丽",
+          "startMs": 18241,
+          "text": "像放在手心就能够发光美丽"
+        },
+        {
+          "key": "21685|像放在脑海就能够翻云覆雨",
+          "startMs": 21685,
+          "text": "像放在脑海就能够翻云覆雨"
+        },
+        {
+          "key": "25277|从陌生到熟悉爱你到恨你",
+          "startMs": 25277,
+          "text": "从陌生到熟悉爱你到恨你"
+        },
+        {
+          "key": "29027|爱让每个人都有秘密",
+          "startMs": 29027,
+          "text": "爱让每个人都有秘密"
+        },
+        {
+          "key": "32694|好像是每个人都拖着旧行李",
+          "startMs": 32694,
+          "text": "好像是每个人都拖着旧行李"
+        },
+        {
+          "key": "36236|好像是每个人都住在电话里",
+          "startMs": 36236,
+          "text": "好像是每个人都住在电话里"
+        },
+        {
+          "key": "39879|有人不常联系有人似友似敌",
+          "startMs": 39879,
+          "text": "有人不常联系有人似友似敌"
+        },
+        {
+          "key": "43623|铃声不响我便记不起",
+          "startMs": 43623,
+          "text": "铃声不响我便记不起"
+        },
+        {
+          "key": "47984|什么才是真理",
+          "startMs": 47984,
+          "text": "什么才是真理"
+        },
+        {
+          "key": "49914|噢失恋快失忆",
+          "startMs": 49914,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "51741|他们说爱过就可以伤和别离",
+          "startMs": 51741,
+          "text": "他们说爱过就可以伤和别离"
+        },
+        {
+          "key": "55238|说什么不会忘记说什么",
+          "startMs": 55238,
+          "text": "说什么不会忘记说什么"
+        },
+        {
+          "key": "57873|保持联系",
+          "startMs": 57873,
+          "text": "保持联系"
+        },
+        {
+          "key": "59087|明天遇见他却牵着新的伴侣",
+          "startMs": 59087,
+          "text": "明天遇见他却牵着新的伴侣"
+        },
+        {
+          "key": "62578|要讲什么道理",
+          "startMs": 62578,
+          "text": "要讲什么道理"
+        },
+        {
+          "key": "64450|噢失恋快失忆",
+          "startMs": 64450,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "66218|受过伤才懂留爱己用的道理",
+          "startMs": 66218,
+          "text": "受过伤才懂留爱己用的道理"
+        },
+        {
+          "key": "69764|谁才是最后唯一",
+          "startMs": 69764,
+          "text": "谁才是最后唯一"
+        },
+        {
+          "key": "71689|时间才是传奇",
+          "startMs": 71689,
+          "text": "时间才是传奇"
+        },
+        {
+          "key": "73560|永恒的爱藏在老去的白发里",
+          "startMs": 73560,
+          "text": "永恒的爱藏在老去的白发里"
+        },
+        {
+          "key": "77408|说爱你",
+          "startMs": 77408,
+          "text": "说爱你"
+        },
+        {
+          "key": "96503|好像是每个人都拖着旧行李",
+          "startMs": 96503,
+          "text": "好像是每个人都拖着旧行李"
+        },
+        {
+          "key": "99698|好像是每个人都住在电话里",
+          "startMs": 99698,
+          "text": "好像是每个人都住在电话里"
+        },
+        {
+          "key": "103348|有人不常联系有人似友似敌",
+          "startMs": 103348,
+          "text": "有人不常联系有人似友似敌"
+        },
+        {
+          "key": "107144|铃声不响我便记不起",
+          "startMs": 107144,
+          "text": "铃声不响我便记不起"
+        },
+        {
+          "key": "111495|什么才是真理",
+          "startMs": 111495,
+          "text": "什么才是真理"
+        },
+        {
+          "key": "113466|噢失恋快失忆",
+          "startMs": 113466,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "115290|他们说爱过就可以伤和别离",
+          "startMs": 115290,
+          "text": "他们说爱过就可以伤和别离"
+        },
+        {
+          "key": "118888|说什么不会忘记说什么",
+          "startMs": 118888,
+          "text": "说什么不会忘记说什么"
+        },
+        {
+          "key": "121470|保持联系",
+          "startMs": 121470,
+          "text": "保持联系"
+        },
+        {
+          "key": "122631|明天遇见他却牵着新的伴侣",
+          "startMs": 122631,
+          "text": "明天遇见他却牵着新的伴侣"
+        },
+        {
+          "key": "126174|要讲什么道理",
+          "startMs": 126174,
+          "text": "要讲什么道理"
+        },
+        {
+          "key": "128047|噢失恋快失忆",
+          "startMs": 128047,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "129868|受过伤才懂留爱己用的道理",
+          "startMs": 129868,
+          "text": "受过伤才懂留爱己用的道理"
+        },
+        {
+          "key": "133360|谁才是最后唯一",
+          "startMs": 133360,
+          "text": "谁才是最后唯一"
+        },
+        {
+          "key": "135289|时间才是传奇",
+          "startMs": 135289,
+          "text": "时间才是传奇"
+        },
+        {
+          "key": "137216|永恒的爱藏在老去的白发里",
+          "startMs": 137216,
+          "text": "永恒的爱藏在老去的白发里"
+        },
+        {
+          "key": "140960|说爱你",
+          "startMs": 140960,
+          "text": "说爱你"
+        },
+        {
+          "key": "146056|别让虚无糖衣炮弹甜言蜜语",
+          "startMs": 146056,
+          "text": "别让虚无糖衣炮弹甜言蜜语"
+        },
+        {
+          "key": "149095|打发自己哄骗自己",
+          "startMs": 149095,
+          "text": "打发自己哄骗自己"
+        },
+        {
+          "key": "153199|别流着苦涩的眼泪住在回忆",
+          "startMs": 153199,
+          "text": "别流着苦涩的眼泪住在回忆"
+        },
+        {
+          "key": "156287|折磨自己学会忘记",
+          "startMs": 156287,
+          "text": "折磨自己学会忘记"
+        },
+        {
+          "key": "160744|什么才是真理",
+          "startMs": 160744,
+          "text": "什么才是真理"
+        },
+        {
+          "key": "162662|噢失恋快失忆",
+          "startMs": 162662,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "164453|他们说爱过就可以伤和别离",
+          "startMs": 164453,
+          "text": "他们说爱过就可以伤和别离"
+        },
+        {
+          "key": "167898|说什么不会忘记说什么",
+          "startMs": 167898,
+          "text": "说什么不会忘记说什么"
+        },
+        {
+          "key": "170584|保持联系",
+          "startMs": 170584,
+          "text": "保持联系"
+        },
+        {
+          "key": "171696|明天遇见他却牵着新的伴侣",
+          "startMs": 171696,
+          "text": "明天遇见他却牵着新的伴侣"
+        },
+        {
+          "key": "175283|要讲什么道理",
+          "startMs": 175283,
+          "text": "要讲什么道理"
+        },
+        {
+          "key": "177158|噢失恋快失忆",
+          "startMs": 177158,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "178979|受过伤才懂留爱己用的道理",
+          "startMs": 178979,
+          "text": "受过伤才懂留爱己用的道理"
+        },
+        {
+          "key": "182572|谁才是最后唯一",
+          "startMs": 182572,
+          "text": "谁才是最后唯一"
+        },
+        {
+          "key": "184447|时间才是传奇",
+          "startMs": 184447,
+          "text": "时间才是传奇"
+        },
+        {
+          "key": "186270|永恒的爱藏在老去的白发里",
+          "startMs": 186270,
+          "text": "永恒的爱藏在老去的白发里"
+        },
+        {
+          "key": "190118|说爱你",
+          "startMs": 190118,
+          "text": "说爱你"
+        }
+      ]
+    },
+    {
+      "rank": 683,
+      "songKey": "online:kugou:c2bf05871ac21b3928f63ab8ee3890ef",
+      "name": "失忆",
+      "artist": "吕口口",
+      "lines": [
+        {
+          "key": "0|吕口口 - 失忆",
+          "startMs": 0,
+          "text": "吕口口 - 失忆"
+        },
+        {
+          "key": "412|作词：陈轼辛",
+          "startMs": 412,
+          "text": "作词：陈轼辛"
+        },
+        {
+          "key": "5727|作曲：刘凯",
+          "startMs": 5727,
+          "text": "作曲：刘凯"
+        },
+        {
+          "key": "7080|原唱/首唱：图小图",
+          "startMs": 7080,
+          "text": "原唱/首唱：图小图"
+        },
+        {
+          "key": "8850|统筹：闹闹",
+          "startMs": 8850,
+          "text": "统筹：闹闹"
+        },
+        {
+          "key": "10620|总监：刘凯",
+          "startMs": 10620,
+          "text": "总监：刘凯"
+        },
+        {
+          "key": "12390|发行人：桑爱",
+          "startMs": 12390,
+          "text": "发行人：桑爱"
+        },
+        {
+          "key": "14160|宣传/推广：看见文娱·音乐中心",
+          "startMs": 14160,
+          "text": "宣传/推广：看见文娱·音乐中心"
+        },
+        {
+          "key": "15930|营销推广：夏子溪/夕妹",
+          "startMs": 15930,
+          "text": "营销推广：夏子溪/夕妹"
+        },
+        {
+          "key": "15930|出品：果然乐动X银河计划",
+          "startMs": 15930,
+          "text": "出品：果然乐动X银河计划"
+        },
+        {
+          "key": "17760|像放在手心就能够发光美丽",
+          "startMs": 17760,
+          "text": "像放在手心就能够发光美丽"
+        },
+        {
+          "key": "21420|像放在脑海就能够翻云覆雨",
+          "startMs": 21420,
+          "text": "像放在脑海就能够翻云覆雨"
+        },
+        {
+          "key": "25080|从陌生到熟悉爱你到恨你",
+          "startMs": 25080,
+          "text": "从陌生到熟悉爱你到恨你"
+        },
+        {
+          "key": "28830|爱让每个人都有秘密",
+          "startMs": 28830,
+          "text": "爱让每个人都有秘密"
+        },
+        {
+          "key": "32400|好像是每个人都拖着旧行李",
+          "startMs": 32400,
+          "text": "好像是每个人都拖着旧行李"
+        },
+        {
+          "key": "36030|好像是每个人都住在电话里",
+          "startMs": 36030,
+          "text": "好像是每个人都住在电话里"
+        },
+        {
+          "key": "39690|有人不常联系有人似友似敌",
+          "startMs": 39690,
+          "text": "有人不常联系有人似友似敌"
+        },
+        {
+          "key": "43380|铃声不响我便记不起",
+          "startMs": 43380,
+          "text": "铃声不响我便记不起"
+        },
+        {
+          "key": "47550|什么才是真理",
+          "startMs": 47550,
+          "text": "什么才是真理"
+        },
+        {
+          "key": "49800|噢失恋快失忆",
+          "startMs": 49800,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "51540|他们说爱过就可以伤和别离",
+          "startMs": 51540,
+          "text": "他们说爱过就可以伤和别离"
+        },
+        {
+          "key": "55110|说什么不会忘记说什么保持联系",
+          "startMs": 55110,
+          "text": "说什么不会忘记说什么保持联系"
+        },
+        {
+          "key": "58800|明天遇见他却牵着新的伴侣",
+          "startMs": 58800,
+          "text": "明天遇见他却牵着新的伴侣"
+        },
+        {
+          "key": "62400|要讲什么道理",
+          "startMs": 62400,
+          "text": "要讲什么道理"
+        },
+        {
+          "key": "64260|噢失恋快失忆",
+          "startMs": 64260,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "66030|受过伤才懂留爱己用的道理",
+          "startMs": 66030,
+          "text": "受过伤才懂留爱己用的道理"
+        },
+        {
+          "key": "69630|谁才是最后唯一时间才是传奇",
+          "startMs": 69630,
+          "text": "谁才是最后唯一时间才是传奇"
+        },
+        {
+          "key": "73350|永恒的爱藏在老去的白发里",
+          "startMs": 73350,
+          "text": "永恒的爱藏在老去的白发里"
+        },
+        {
+          "key": "77610|说爱你",
+          "startMs": 77610,
+          "text": "说爱你"
+        },
+        {
+          "key": "96030|好像是每个人都拖着旧行李",
+          "startMs": 96030,
+          "text": "好像是每个人都拖着旧行李"
+        },
+        {
+          "key": "99690|好像是每个人都住在电话里",
+          "startMs": 99690,
+          "text": "好像是每个人都住在电话里"
+        },
+        {
+          "key": "103350|有人不常联系有人似友似敌",
+          "startMs": 103350,
+          "text": "有人不常联系有人似友似敌"
+        },
+        {
+          "key": "107040|铃声不响我便记不起",
+          "startMs": 107040,
+          "text": "铃声不响我便记不起"
+        },
+        {
+          "key": "111150|什么才是真理",
+          "startMs": 111150,
+          "text": "什么才是真理"
+        },
+        {
+          "key": "113460|噢失恋快失忆",
+          "startMs": 113460,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "115200|他们说爱过就可以伤和别离",
+          "startMs": 115200,
+          "text": "他们说爱过就可以伤和别离"
+        },
+        {
+          "key": "118770|说什么不会忘记说什么保持联系",
+          "startMs": 118770,
+          "text": "说什么不会忘记说什么保持联系"
+        },
+        {
+          "key": "122460|明天遇见他却牵着新的伴侣",
+          "startMs": 122460,
+          "text": "明天遇见他却牵着新的伴侣"
+        },
+        {
+          "key": "126030|要讲什么道理",
+          "startMs": 126030,
+          "text": "要讲什么道理"
+        },
+        {
+          "key": "127950|噢失恋快失忆",
+          "startMs": 127950,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "129690|受过伤才懂留爱己用的道理",
+          "startMs": 129690,
+          "text": "受过伤才懂留爱己用的道理"
+        },
+        {
+          "key": "133260|谁才是最后唯一时间才是传奇",
+          "startMs": 133260,
+          "text": "谁才是最后唯一时间才是传奇"
+        },
+        {
+          "key": "137010|永恒的爱藏在老去的白发里",
+          "startMs": 137010,
+          "text": "永恒的爱藏在老去的白发里"
+        },
+        {
+          "key": "141240|说爱你",
+          "startMs": 141240,
+          "text": "说爱你"
+        },
+        {
+          "key": "145590|别让虚无糖衣炮弹甜言蜜语",
+          "startMs": 145590,
+          "text": "别让虚无糖衣炮弹甜言蜜语"
+        },
+        {
+          "key": "148800|打发自己哄骗自己",
+          "startMs": 148800,
+          "text": "打发自己哄骗自己"
+        },
+        {
+          "key": "152880|别流着苦涩的眼泪住在回忆",
+          "startMs": 152880,
+          "text": "别流着苦涩的眼泪住在回忆"
+        },
+        {
+          "key": "156090|折磨自己学会忘记",
+          "startMs": 156090,
+          "text": "折磨自己学会忘记"
+        },
+        {
+          "key": "160380|什么才是真理",
+          "startMs": 160380,
+          "text": "什么才是真理"
+        },
+        {
+          "key": "162510|噢失恋快失忆",
+          "startMs": 162510,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "164400|他们说爱过就可以伤和别离",
+          "startMs": 164400,
+          "text": "他们说爱过就可以伤和别离"
+        },
+        {
+          "key": "167880|说什么不会忘记说什么保持联系",
+          "startMs": 167880,
+          "text": "说什么不会忘记说什么保持联系"
+        },
+        {
+          "key": "171600|明天遇见他却牵着新的伴侣",
+          "startMs": 171600,
+          "text": "明天遇见他却牵着新的伴侣"
+        },
+        {
+          "key": "175170|要讲什么道理",
+          "startMs": 175170,
+          "text": "要讲什么道理"
+        },
+        {
+          "key": "177060|噢失恋快失忆",
+          "startMs": 177060,
+          "text": "噢失恋快失忆"
+        },
+        {
+          "key": "178800|受过伤才懂留爱己用的道理",
+          "startMs": 178800,
+          "text": "受过伤才懂留爱己用的道理"
+        },
+        {
+          "key": "182400|谁才是最后唯一时间才是传奇",
+          "startMs": 182400,
+          "text": "谁才是最后唯一时间才是传奇"
+        },
+        {
+          "key": "186120|永恒的爱藏在老去的白发里",
+          "startMs": 186120,
+          "text": "永恒的爱藏在老去的白发里"
+        },
+        {
+          "key": "190380|说爱你",
+          "startMs": 190380,
+          "text": "说爱你"
+        }
+      ]
+    },
+    {
+      "rank": 684,
+      "songKey": "online:kugou:055e87a6e253cedb4bb9ff34b095f0ba",
+      "name": "Cry on My Shoulder",
+      "artist": "Daniel Küblböck",
+      "lines": [
+        {
+          "key": "765|Deutschland Sucht Den Superstar - Cry On My Shoulder",
+          "startMs": 765,
+          "text": "Deutschland Sucht Den Superstar - Cry On My Shoulder"
+        },
+        {
+          "key": "26378|if the hero never comes to you",
+          "startMs": 26378,
+          "text": "if the hero never comes to you"
+        },
+        {
+          "key": "32910|if you need someone you're feeling blue",
+          "startMs": 32910,
+          "text": "if you need someone you're feeling blue"
+        },
+        {
+          "key": "38750|if you're away from love and you're alone",
+          "startMs": 38750,
+          "text": "if you're away from love and you're alone"
+        },
+        {
+          "key": "44603|if you call your friends and nobody's home",
+          "startMs": 44603,
+          "text": "if you call your friends and nobody's home"
+        },
+        {
+          "key": "50129|you can run away but you can't hide",
+          "startMs": 50129,
+          "text": "you can run away but you can't hide"
+        },
+        {
+          "key": "56197|through a storm and through a lonely night",
+          "startMs": 56197,
+          "text": "through a storm and through a lonely night"
+        },
+        {
+          "key": "62476|then i show you there's a destiny",
+          "startMs": 62476,
+          "text": "then i show you there's a destiny"
+        },
+        {
+          "key": "66803|the best things in life",
+          "startMs": 66803,
+          "text": "the best things in life"
+        },
+        {
+          "key": "69886|they're free",
+          "startMs": 69886,
+          "text": "they're free"
+        },
+        {
+          "key": "74265|but if you wanna cry",
+          "startMs": 74265,
+          "text": "but if you wanna cry"
+        },
+        {
+          "key": "77280|cry on my shoulder",
+          "startMs": 77280,
+          "text": "cry on my shoulder"
+        },
+        {
+          "key": "80405|if you need someone who cares for you",
+          "startMs": 80405,
+          "text": "if you need someone who cares for you"
+        },
+        {
+          "key": "86153|if you're feeling sad your heart gets colder",
+          "startMs": 86153,
+          "text": "if you're feeling sad your heart gets colder"
+        },
+        {
+          "key": "93736|yes i show you what real love can do",
+          "startMs": 93736,
+          "text": "yes i show you what real love can do"
+        },
+        {
+          "key": "103965|if your sky is grey oh let me know",
+          "startMs": 103965,
+          "text": "if your sky is grey oh let me know"
+        },
+        {
+          "key": "109567|there's a place in heaven where we'll go",
+          "startMs": 109567,
+          "text": "there's a place in heaven where we'll go"
+        },
+        {
+          "key": "115490|if heaven is a million years away",
+          "startMs": 115490,
+          "text": "if heaven is a million years away"
+        },
+        {
+          "key": "120780|oh just call me and i make your day",
+          "startMs": 120780,
+          "text": "oh just call me and i make your day"
+        },
+        {
+          "key": "127201|when the nights are getting cold and blue",
+          "startMs": 127201,
+          "text": "when the nights are getting cold and blue"
+        },
+        {
+          "key": "133589|when the days are getting hard for you",
+          "startMs": 133589,
+          "text": "when the days are getting hard for you"
+        },
+        {
+          "key": "139147|i will always stay here by your side",
+          "startMs": 139147,
+          "text": "i will always stay here by your side"
+        },
+        {
+          "key": "143978|i promise you i'll never hide",
+          "startMs": 143978,
+          "text": "i promise you i'll never hide"
+        },
+        {
+          "key": "151446|but if you wanna cry",
+          "startMs": 151446,
+          "text": "but if you wanna cry"
+        },
+        {
+          "key": "154160|cry on my shoulder",
+          "startMs": 154160,
+          "text": "cry on my shoulder"
+        },
+        {
+          "key": "157356|if you need someone who cares for you",
+          "startMs": 157356,
+          "text": "if you need someone who cares for you"
+        },
+        {
+          "key": "163213|if you're feeling sad your heart gets colder",
+          "startMs": 163213,
+          "text": "if you're feeling sad your heart gets colder"
+        },
+        {
+          "key": "170398|yes i show you what real love can do",
+          "startMs": 170398,
+          "text": "yes i show you what real love can do"
+        },
+        {
+          "key": "175107|but if you wanna cry",
+          "startMs": 175107,
+          "text": "but if you wanna cry"
+        },
+        {
+          "key": "177817|cry on my shoulder",
+          "startMs": 177817,
+          "text": "cry on my shoulder"
+        },
+        {
+          "key": "180960|if you need someone who cares for you",
+          "startMs": 180960,
+          "text": "if you need someone who cares for you"
+        },
+        {
+          "key": "187286|if you're feeling sad your heart gets colder",
+          "startMs": 187286,
+          "text": "if you're feeling sad your heart gets colder"
+        },
+        {
+          "key": "194531|yes i show you what real love can do",
+          "startMs": 194531,
+          "text": "yes i show you what real love can do"
+        },
+        {
+          "key": "199117|what real love can do",
+          "startMs": 199117,
+          "text": "what real love can do"
+        },
+        {
+          "key": "205068|what love can do",
+          "startMs": 205068,
+          "text": "what love can do"
+        },
+        {
+          "key": "211362|what love can do",
+          "startMs": 211362,
+          "text": "what love can do"
+        },
+        {
+          "key": "216550|what love can do",
+          "startMs": 216550,
+          "text": "what love can do"
+        },
+        {
+          "key": "223205|love can do",
+          "startMs": 223205,
+          "text": "love can do"
+        }
+      ]
+    },
+    {
+      "rank": 685,
+      "songKey": "online:kugou:11914778ab9a6fe9fb3de48ed519cb80",
+      "name": "Remember Our Summer",
+      "artist": "莎莎",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "batchNumber": 123,
+  "songs": [
+    {
+      "rank": 611,
+      "songKey": "online:kugou:98f34b0d0a381f6448c94ba5c131c881",
+      "name": "Melody (Original Mix)",
+      "artist": "Ash",
+      "lines": [
+        {
+          "key": "0|Ash - Melody (Original Mix)",
+          "startMs": 0,
+          "text": "Ash - Melody (Original Mix)"
+        },
+        {
+          "key": "38021|I can hear your melody coming along with someone other",
+          "startMs": 38021,
+          "text": "I can hear your melody coming along with someone other"
+        },
+        {
+          "key": "42707|I can hear your voice calling me",
+          "startMs": 42707,
+          "text": "I can hear your voice calling me"
+        },
+        {
+          "key": "45410|I get lonely if I want",
+          "startMs": 45410,
+          "text": "I get lonely if I want"
+        },
+        {
+          "key": "47201|I can hear your melody coming along with someone other",
+          "startMs": 47201,
+          "text": "I can hear your melody coming along with someone other"
+        },
+        {
+          "key": "52113|I can hear your voice calling me",
+          "startMs": 52113,
+          "text": "I can hear your voice calling me"
+        },
+        {
+          "key": "75295|I can hear your melody coming along with someone other",
+          "startMs": 75295,
+          "text": "I can hear your melody coming along with someone other"
+        },
+        {
+          "key": "80327|I can hear your voice calling me",
+          "startMs": 80327,
+          "text": "I can hear your voice calling me"
+        },
+        {
+          "key": "82713|I get lonely if I want",
+          "startMs": 82713,
+          "text": "I get lonely if I want"
+        },
+        {
+          "key": "84594|I can hear your melody coming along with someone other",
+          "startMs": 84594,
+          "text": "I can hear your melody coming along with someone other"
+        },
+        {
+          "key": "89458|I can hear your voice calling me",
+          "startMs": 89458,
+          "text": "I can hear your voice calling me"
+        },
+        {
+          "key": "140471|I can hear your melody",
+          "startMs": 140471,
+          "text": "I can hear your melody"
+        },
+        {
+          "key": "145374|I can hear your voice calling me",
+          "startMs": 145374,
+          "text": "I can hear your voice calling me"
+        },
+        {
+          "key": "168377|I can hear your melody",
+          "startMs": 168377,
+          "text": "I can hear your melody"
+        },
+        {
+          "key": "173369|I can hear your voice calling me",
+          "startMs": 173369,
+          "text": "I can hear your voice calling me"
+        },
+        {
+          "key": "177752|I can hear your melody",
+          "startMs": 177752,
+          "text": "I can hear your melody"
+        },
+        {
+          "key": "182597|I can hear your voice calling me",
+          "startMs": 182597,
+          "text": "I can hear your voice calling me"
+        }
+      ]
+    },
+    {
+      "rank": 612,
+      "songKey": "online:kugou:4bac831da27db5ae6b955d90161ba87e",
+      "name": "起风了 (口琴版)",
+      "artist": "小海盗口琴、蓝馍馍",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 614,
+      "songKey": "online:kugou:9965d5c4825247481b01106040ff18a9",
+      "name": "干杯 (Life Live)",
+      "artist": "五月天",
+      "lines": [
+        {
+          "key": "0|干杯 (Life Live) - 五月天",
+          "startMs": 0,
+          "text": "干杯 (Life Live) - 五月天"
+        },
+        {
+          "key": "209|词：阿信",
+          "startMs": 209,
+          "text": "词：阿信"
+        },
+        {
+          "key": "313|曲：阿信",
+          "startMs": 313,
+          "text": "曲：阿信"
+        },
+        {
+          "key": "417|编曲：五月天/于京延",
+          "startMs": 417,
+          "text": "编曲：五月天/于京延"
+        },
+        {
+          "key": "678|弦乐编写：于京延/李琪",
+          "startMs": 678,
+          "text": "弦乐编写：于京延/李琪"
+        },
+        {
+          "key": "964|弦乐演奏：李琪北京室内乐团",
+          "startMs": 964,
+          "text": "弦乐演奏：李琪北京室内乐团"
+        },
+        {
+          "key": "1303|冲绳三弦：REI (Spoon de Chop)",
+          "startMs": 1303,
+          "text": "冲绳三弦：REI (Spoon de Chop)"
+        },
+        {
+          "key": "1538|和声演唱：黄士杰/阿璞 (八三夭)",
+          "startMs": 1538,
+          "text": "和声演唱：黄士杰/阿璞 (八三夭)"
+        },
+        {
+          "key": "1955|人声合唱：强辩/阿邦/小凯/阿沚",
+          "startMs": 1955,
+          "text": "人声合唱：强辩/阿邦/小凯/阿沚"
+        },
+        {
+          "key": "2372|OP：认真工作室",
+          "startMs": 2372,
+          "text": "OP：认真工作室"
+        },
+        {
+          "key": "2528|SP：相信音乐国际股份有限公司",
+          "startMs": 2528,
+          "text": "SP：相信音乐国际股份有限公司"
+        },
+        {
+          "key": "2867|会不会 有一天",
+          "startMs": 2867,
+          "text": "会不会 有一天"
+        },
+        {
+          "key": "5603|时间真的能倒退",
+          "startMs": 5603,
+          "text": "时间真的能倒退"
+        },
+        {
+          "key": "8756|退回 你的我的",
+          "startMs": 8756,
+          "text": "退回 你的我的"
+        },
+        {
+          "key": "10963|回不去的 悠悠的岁月",
+          "startMs": 10963,
+          "text": "回不去的 悠悠的岁月"
+        },
+        {
+          "key": "14520|也许会有一天 世界真的有终点",
+          "startMs": 14520,
+          "text": "也许会有一天 世界真的有终点"
+        },
+        {
+          "key": "20424|也要和你举起回忆酿的甜",
+          "startMs": 20424,
+          "text": "也要和你举起回忆酿的甜"
+        },
+        {
+          "key": "25448|和你再干一杯",
+          "startMs": 25448,
+          "text": "和你再干一杯"
+        },
+        {
+          "key": "38060|如果说 要我选出",
+          "startMs": 38060,
+          "text": "如果说 要我选出"
+        },
+        {
+          "key": "39516|代表青春 那个画面",
+          "startMs": 39516,
+          "text": "代表青春 那个画面"
+        },
+        {
+          "key": "41139|浮现了 那滴眼泪",
+          "startMs": 41139,
+          "text": "浮现了 那滴眼泪"
+        },
+        {
+          "key": "42419|那片蓝天 那年毕业",
+          "startMs": 42419,
+          "text": "那片蓝天 那年毕业"
+        },
+        {
+          "key": "44140|那一张 边哭边笑",
+          "startMs": 44140,
+          "text": "那一张 边哭边笑"
+        },
+        {
+          "key": "45475|还要拥抱 是你的脸",
+          "startMs": 45475,
+          "text": "还要拥抱 是你的脸"
+        },
+        {
+          "key": "46921|想起来 可爱可怜 可歌可泣",
+          "startMs": 46921,
+          "text": "想起来 可爱可怜 可歌可泣"
+        },
+        {
+          "key": "48945|可是多怀念",
+          "startMs": 48945,
+          "text": "可是多怀念"
+        },
+        {
+          "key": "50542|怀念总是 突然怀念 不谈条件",
+          "startMs": 50542,
+          "text": "怀念总是 突然怀念 不谈条件"
+        },
+        {
+          "key": "53015|当回忆 冲破考卷",
+          "startMs": 53015,
+          "text": "当回忆 冲破考卷"
+        },
+        {
+          "key": "54206|冲出岁月 在我眼前",
+          "startMs": 54206,
+          "text": "冲出岁月 在我眼前"
+        },
+        {
+          "key": "55802|我和你 流着汗水 喝着汽水",
+          "startMs": 55802,
+          "text": "我和你 流着汗水 喝着汽水"
+        },
+        {
+          "key": "57842|在操场边",
+          "startMs": 57842,
+          "text": "在操场边"
+        },
+        {
+          "key": "58811|说好了 无论如何",
+          "startMs": 58811,
+          "text": "说好了 无论如何"
+        },
+        {
+          "key": "60073|一起走到 未来的世界",
+          "startMs": 60073,
+          "text": "一起走到 未来的世界"
+        },
+        {
+          "key": "62067|现在就是那个未来 那个世界",
+          "startMs": 62067,
+          "text": "现在就是那个未来 那个世界"
+        },
+        {
+          "key": "64468|为什么你的身边 我的身边",
+          "startMs": 64468,
+          "text": "为什么你的身边 我的身边"
+        },
+        {
+          "key": "66508|不是同一边",
+          "startMs": 66508,
+          "text": "不是同一边"
+        },
+        {
+          "key": "67832|友情曾像 诺亚方舟 坚强誓言",
+          "startMs": 67832,
+          "text": "友情曾像 诺亚方舟 坚强誓言"
+        },
+        {
+          "key": "70541|只是我望着海面 等着永远",
+          "startMs": 70541,
+          "text": "只是我望着海面 等着永远"
+        },
+        {
+          "key": "72452|模糊了视线",
+          "startMs": 72452,
+          "text": "模糊了视线"
+        },
+        {
+          "key": "74595|会不会有一天 时间真的能倒退",
+          "startMs": 74595,
+          "text": "会不会有一天 时间真的能倒退"
+        },
+        {
+          "key": "80315|退回 你的我的",
+          "startMs": 80315,
+          "text": "退回 你的我的"
+        },
+        {
+          "key": "82603|回不去的 悠悠的岁月",
+          "startMs": 82603,
+          "text": "回不去的 悠悠的岁月"
+        },
+        {
+          "key": "86251|也许会有一天 世界真的有终点",
+          "startMs": 86251,
+          "text": "也许会有一天 世界真的有终点"
+        },
+        {
+          "key": "92115|也要和你举起回忆酿的甜",
+          "startMs": 92115,
+          "text": "也要和你举起回忆酿的甜"
+        },
+        {
+          "key": "97335|和你再干一杯",
+          "startMs": 97335,
+          "text": "和你再干一杯"
+        },
+        {
+          "key": "109885|这些年 买了四轮",
+          "startMs": 109885,
+          "text": "这些年 买了四轮"
+        },
+        {
+          "key": "111049|买了手表 买了单眼",
+          "startMs": 111049,
+          "text": "买了手表 买了单眼"
+        },
+        {
+          "key": "112969|却发现 追不到的",
+          "startMs": 112969,
+          "text": "却发现 追不到的"
+        },
+        {
+          "key": "114225|停不了的 还是那些",
+          "startMs": 114225,
+          "text": "停不了的 还是那些"
+        },
+        {
+          "key": "115879|人生是 只有认命",
+          "startMs": 115879,
+          "text": "人生是 只有认命"
+        },
+        {
+          "key": "117103|只能宿命 只好宿醉",
+          "startMs": 117103,
+          "text": "只能宿命 只好宿醉"
+        },
+        {
+          "key": "118838|只剩下高的笑点 低的哭点",
+          "startMs": 118838,
+          "text": "只剩下高的笑点 低的哭点"
+        },
+        {
+          "key": "120719|却没成熟点",
+          "startMs": 120719,
+          "text": "却没成熟点"
+        },
+        {
+          "key": "122286|成熟就是 幻想幻灭 一场磨炼",
+          "startMs": 122286,
+          "text": "成熟就是 幻想幻灭 一场磨炼"
+        },
+        {
+          "key": "124694|为什么 只有梦想",
+          "startMs": 124694,
+          "text": "为什么 只有梦想"
+        },
+        {
+          "key": "125938|越磨越小 小到不见",
+          "startMs": 125938,
+          "text": "越磨越小 小到不见"
+        },
+        {
+          "key": "127469|有时候好想流泪 好想流泪",
+          "startMs": 127469,
+          "text": "有时候好想流泪 好想流泪"
+        },
+        {
+          "key": "129549|却没眼泪",
+          "startMs": 129549,
+          "text": "却没眼泪"
+        },
+        {
+          "key": "130401|期待会你会不会 他会不会",
+          "startMs": 130401,
+          "text": "期待会你会不会 他会不会"
+        },
+        {
+          "key": "132417|开个同学会",
+          "startMs": 132417,
+          "text": "开个同学会"
+        },
+        {
+          "key": "133753|他在等你 你在等我 我在等谁",
+          "startMs": 133753,
+          "text": "他在等你 你在等我 我在等谁"
+        },
+        {
+          "key": "136457|又是谁 孩子没睡",
+          "startMs": 136457,
+          "text": "又是谁 孩子没睡"
+        },
+        {
+          "key": "137649|电话没电 心情没准备",
+          "startMs": 137649,
+          "text": "电话没电 心情没准备"
+        },
+        {
+          "key": "139753|天空不断 黑了又亮 亮了又黑",
+          "startMs": 139753,
+          "text": "天空不断 黑了又亮 亮了又黑"
+        },
+        {
+          "key": "142088|那光阴沧海桑田 远走高飞",
+          "startMs": 142088,
+          "text": "那光阴沧海桑田 远走高飞"
+        },
+        {
+          "key": "144120|再没力气追",
+          "startMs": 144120,
+          "text": "再没力气追"
+        },
+        {
+          "key": "147943|会不会有一天 时间真的能倒退",
+          "startMs": 147943,
+          "text": "会不会有一天 时间真的能倒退"
+        },
+        {
+          "key": "153744|退回 你的我的",
+          "startMs": 153744,
+          "text": "退回 你的我的"
+        },
+        {
+          "key": "155816|回不去的 悠悠的岁月",
+          "startMs": 155816,
+          "text": "回不去的 悠悠的岁月"
+        },
+        {
+          "key": "159456|也许会有一天 世界真的有终点",
+          "startMs": 159456,
+          "text": "也许会有一天 世界真的有终点"
+        },
+        {
+          "key": "165231|也要和你举起回忆酿的甜",
+          "startMs": 165231,
+          "text": "也要和你举起回忆酿的甜"
+        },
+        {
+          "key": "170359|和你再干一杯",
+          "startMs": 170359,
+          "text": "和你再干一杯"
+        },
+        {
+          "key": "174263|终究会有一天 我们都变成昨天",
+          "startMs": 174263,
+          "text": "终究会有一天 我们都变成昨天"
+        },
+        {
+          "key": "179959|是你陪我走过一生一回",
+          "startMs": 179959,
+          "text": "是你陪我走过一生一回"
+        },
+        {
+          "key": "183615|匆匆的人间",
+          "startMs": 183615,
+          "text": "匆匆的人间"
+        },
+        {
+          "key": "185831|有一天 就是今天",
+          "startMs": 185831,
+          "text": "有一天 就是今天"
+        },
+        {
+          "key": "188648|今天就是有一天",
+          "startMs": 188648,
+          "text": "今天就是有一天"
+        },
+        {
+          "key": "191626|说出一直没说 对你的感谢",
+          "startMs": 191626,
+          "text": "说出一直没说 对你的感谢"
+        },
+        {
+          "key": "196832|和你再干一杯",
+          "startMs": 196832,
+          "text": "和你再干一杯"
+        },
+        {
+          "key": "199783|再干一杯永远",
+          "startMs": 199783,
+          "text": "再干一杯永远"
+        },
+        {
+          "key": "202647|喝了就能万岁 岁岁和年年",
+          "startMs": 202647,
+          "text": "喝了就能万岁 岁岁和年年"
+        },
+        {
+          "key": "209999|时间都停了 他们都回来了",
+          "startMs": 209999,
+          "text": "时间都停了 他们都回来了"
+        },
+        {
+          "key": "215728|怀念的人啊 等你的来到",
+          "startMs": 215728,
+          "text": "怀念的人啊 等你的来到"
+        },
+        {
+          "key": "221656|时间都停了 他们都回来了",
+          "startMs": 221656,
+          "text": "时间都停了 他们都回来了"
+        },
+        {
+          "key": "227670|怀念的人啊 等你的来到",
+          "startMs": 227670,
+          "text": "怀念的人啊 等你的来到"
+        },
+        {
+          "key": "233262|时间都停了 他们都回来了",
+          "startMs": 233262,
+          "text": "时间都停了 他们都回来了"
+        },
+        {
+          "key": "239078|怀念的人啊 等你的来到",
+          "startMs": 239078,
+          "text": "怀念的人啊 等你的来到"
+        }
+      ]
+    },
+    {
+      "rank": 615,
+      "songKey": "online:kugou:085f927f757a3611346884a9276144d7",
+      "name": "My Songs Know What You Did in the Dark（Light 'Em Up）",
+      "artist": "Fall Out Boy",
+      "lines": [
+        {
+          "key": "0|Fall Out Boy - My Songs Know What You Did in the Dark（Light 'Em Up）",
+          "startMs": 0,
+          "text": "Fall Out Boy - My Songs Know What You Did in the Dark（Light 'Em Up）"
+        },
+        {
+          "key": "0|Written by：Butch Walker/Tauheed Epps",
+          "startMs": 0,
+          "text": "Written by：Butch Walker/Tauheed Epps"
+        },
+        {
+          "key": "18972|B-b-be careful making wishes in the dark dark",
+          "startMs": 18972,
+          "text": "B-b-be careful making wishes in the dark dark"
+        },
+        {
+          "key": "23001|Can't be sure when they've hit their mark",
+          "startMs": 23001,
+          "text": "Can't be sure when they've hit their mark"
+        },
+        {
+          "key": "25623|And besides in the meantime",
+          "startMs": 25623,
+          "text": "And besides in the meantime"
+        },
+        {
+          "key": "28315|I'm just dreaming of tearing you apart",
+          "startMs": 28315,
+          "text": "I'm just dreaming of tearing you apart"
+        },
+        {
+          "key": "31761|I'm in the details with the devil",
+          "startMs": 31761,
+          "text": "I'm in the details with the devil"
+        },
+        {
+          "key": "34605|So world now can the never get me on my level",
+          "startMs": 34605,
+          "text": "So world now can the never get me on my level"
+        },
+        {
+          "key": "38169|I just got to get you out the cage",
+          "startMs": 38169,
+          "text": "I just got to get you out the cage"
+        },
+        {
+          "key": "40421|I'm a young lovers rage",
+          "startMs": 40421,
+          "text": "I'm a young lovers rage"
+        },
+        {
+          "key": "41670|Gonna need a spark to ignite",
+          "startMs": 41670,
+          "text": "Gonna need a spark to ignite"
+        },
+        {
+          "key": "44169|My songs know what you did in the dark",
+          "startMs": 44169,
+          "text": "My songs know what you did in the dark"
+        },
+        {
+          "key": "50570|So light em up-up-up",
+          "startMs": 50570,
+          "text": "So light em up-up-up"
+        },
+        {
+          "key": "52446|Light em up-up-up",
+          "startMs": 52446,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "53694|Light em up-up-up",
+          "startMs": 53694,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "55318|I'm on fire",
+          "startMs": 55318,
+          "text": "I'm on fire"
+        },
+        {
+          "key": "56946|So light em up-up-up",
+          "startMs": 56946,
+          "text": "So light em up-up-up"
+        },
+        {
+          "key": "58505|Light em up-up-up",
+          "startMs": 58505,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "60005|Light em up-up-up",
+          "startMs": 60005,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "61569|I'm on fire",
+          "startMs": 61569,
+          "text": "I'm on fire"
+        },
+        {
+          "key": "63257|Whoa (in the dark)",
+          "startMs": 63257,
+          "text": "Whoa (in the dark)"
+        },
+        {
+          "key": "69822|Whoa (in the dark)",
+          "startMs": 69822,
+          "text": "Whoa (in the dark)"
+        },
+        {
+          "key": "76444|The writers keep writing what they write",
+          "startMs": 76444,
+          "text": "The writers keep writing what they write"
+        },
+        {
+          "key": "79066|Somewhere another pretty vein just dies",
+          "startMs": 79066,
+          "text": "Somewhere another pretty vein just dies"
+        },
+        {
+          "key": "81759|I've got the scars from tomorrow",
+          "startMs": 81759,
+          "text": "I've got the scars from tomorrow"
+        },
+        {
+          "key": "84132|And I wish you could see",
+          "startMs": 84132,
+          "text": "And I wish you could see"
+        },
+        {
+          "key": "85508|That you're the antidote to everything except for me",
+          "startMs": 85508,
+          "text": "That you're the antidote to everything except for me"
+        },
+        {
+          "key": "88499|A constellation of tears on your lashes",
+          "startMs": 88499,
+          "text": "A constellation of tears on your lashes"
+        },
+        {
+          "key": "92100|Burn everything you love then burn the ashes",
+          "startMs": 92100,
+          "text": "Burn everything you love then burn the ashes"
+        },
+        {
+          "key": "95680|In the end everything collides",
+          "startMs": 95680,
+          "text": "In the end everything collides"
+        },
+        {
+          "key": "97618|My childhood spat back out the monster that you see",
+          "startMs": 97618,
+          "text": "My childhood spat back out the monster that you see"
+        },
+        {
+          "key": "100742|My songs know what you did in the dark",
+          "startMs": 100742,
+          "text": "My songs know what you did in the dark"
+        },
+        {
+          "key": "107367|So light em up-up-up",
+          "startMs": 107367,
+          "text": "So light em up-up-up"
+        },
+        {
+          "key": "109116|Light em up-up-up",
+          "startMs": 109116,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "110616|Light em up-up-up",
+          "startMs": 110616,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "112174|I'm on fire",
+          "startMs": 112174,
+          "text": "I'm on fire"
+        },
+        {
+          "key": "113740|So light em up-up-up",
+          "startMs": 113740,
+          "text": "So light em up-up-up"
+        },
+        {
+          "key": "115305|Light em up-up-up",
+          "startMs": 115305,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "116864|Light em up-up-up",
+          "startMs": 116864,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "118428|I'm on fire",
+          "startMs": 118428,
+          "text": "I'm on fire"
+        },
+        {
+          "key": "120428|Whoa (In the dark)",
+          "startMs": 120428,
+          "text": "Whoa (In the dark)"
+        },
+        {
+          "key": "126679|Whoa (In the dark)",
+          "startMs": 126679,
+          "text": "Whoa (In the dark)"
+        },
+        {
+          "key": "138866|My songs know what you did in the dark",
+          "startMs": 138866,
+          "text": "My songs know what you did in the dark"
+        },
+        {
+          "key": "145428|My songs know what you did in the dark",
+          "startMs": 145428,
+          "text": "My songs know what you did in the dark"
+        },
+        {
+          "key": "152863|So light em up-up-up",
+          "startMs": 152863,
+          "text": "So light em up-up-up"
+        },
+        {
+          "key": "154801|Light em up-up-up",
+          "startMs": 154801,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "156363|Light em up-up-up",
+          "startMs": 156363,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "157925|I'm on fire",
+          "startMs": 157925,
+          "text": "I'm on fire"
+        },
+        {
+          "key": "159551|So light em up-up-up",
+          "startMs": 159551,
+          "text": "So light em up-up-up"
+        },
+        {
+          "key": "161051|Light em up-up-up",
+          "startMs": 161051,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "162677|Light em up-up-up",
+          "startMs": 162677,
+          "text": "Light em up-up-up"
+        },
+        {
+          "key": "164177|I'm on fire",
+          "startMs": 164177,
+          "text": "I'm on fire"
+        },
+        {
+          "key": "166239|Whoa (in the dark)",
+          "startMs": 166239,
+          "text": "Whoa (in the dark)"
+        },
+        {
+          "key": "172303|Whoa (in the dark)",
+          "startMs": 172303,
+          "text": "Whoa (in the dark)"
+        }
+      ]
+    }
+  ]
+}

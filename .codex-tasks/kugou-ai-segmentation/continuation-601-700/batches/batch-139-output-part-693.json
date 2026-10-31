@@ -1,0 +1,905 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:3a3cd6ba7d0daa318c563ac6946def8d",
+      "lines": [
+        {
+          "key": "0|Y2002 - Free Loop (抒情版)",
+          "text": "Y2002 - Free Loop (抒情版)",
+          "segments": [
+            "Y2002",
+            " - ",
+            "Free Loop (抒情版)"
+          ]
+        },
+        {
+          "key": "112|I'm a little used to calling outside your name",
+          "text": "I'm a little used to calling outside your name",
+          "segments": [
+            "I'm ",
+            "a ",
+            "little ",
+            "used ",
+            "to ",
+            "calling ",
+            "outside ",
+            "your ",
+            "name"
+          ]
+        },
+        {
+          "key": "6176|I won't see you tonight so I can keep from going insane",
+          "text": "I won't see you tonight so I can keep from going insane",
+          "segments": [
+            "I ",
+            "won't ",
+            "see ",
+            "you ",
+            "tonight ",
+            "so ",
+            "I ",
+            "can ",
+            "keep ",
+            "from ",
+            "going ",
+            "insane"
+          ]
+        },
+        {
+          "key": "12772|But I don't know enough",
+          "text": "But I don't know enough",
+          "segments": [
+            "But ",
+            "I ",
+            "don't ",
+            "know ",
+            "enough"
+          ]
+        },
+        {
+          "key": "15805|I get some kinda lazy day",
+          "text": "I get some kinda lazy day",
+          "segments": [
+            "I ",
+            "get ",
+            "some ",
+            "kinda ",
+            "lazy ",
+            "day"
+          ]
+        },
+        {
+          "key": "18535|Hey yeah",
+          "text": "Hey yeah",
+          "segments": [
+            "Hey ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "25779|I've been fabulous through to fight my town a name",
+          "text": "I've been fabulous through to fight my town a name",
+          "segments": [
+            "I've ",
+            "been ",
+            "fabulous ",
+            "through ",
+            "to ",
+            "fight ",
+            "my ",
+            "town ",
+            "a ",
+            "name"
+          ]
+        },
+        {
+          "key": "31620|I'll be stooped tomorrow",
+          "text": "I'll be stooped tomorrow",
+          "segments": [
+            "I'll ",
+            "be ",
+            "stooped ",
+            "tomorrow"
+          ]
+        },
+        {
+          "key": "33288|If I don't leave as them both the same",
+          "text": "If I don't leave as them both the same",
+          "segments": [
+            "If ",
+            "I ",
+            "don't ",
+            "leave ",
+            "as ",
+            "them ",
+            "both ",
+            "the ",
+            "same"
+          ]
+        },
+        {
+          "key": "38220|But I don't know enough",
+          "text": "But I don't know enough",
+          "segments": [
+            "But ",
+            "I ",
+            "don't ",
+            "know ",
+            "enough"
+          ]
+        },
+        {
+          "key": "41257|I get some kinda lazy day",
+          "text": "I get some kinda lazy day",
+          "segments": [
+            "I ",
+            "get ",
+            "some ",
+            "kinda ",
+            "lazy ",
+            "day"
+          ]
+        },
+        {
+          "key": "44216|Hey yeah",
+          "text": "Hey yeah",
+          "segments": [
+            "Hey ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "50889|Cause it's hard for me to lose",
+          "text": "Cause it's hard for me to lose",
+          "segments": [
+            "Cause ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose"
+          ]
+        },
+        {
+          "key": "52557|In my life I've found only time will tell",
+          "text": "In my life I've found only time will tell",
+          "segments": [
+            "In ",
+            "my ",
+            "life ",
+            "I've ",
+            "found ",
+            "only ",
+            "time ",
+            "will ",
+            "tell"
+          ]
+        },
+        {
+          "key": "55515|And I will figure out that we can baby",
+          "text": "And I will figure out that we can baby",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "figure ",
+            "out ",
+            "that ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "59079|We can do a one night stand yeah",
+          "text": "We can do a one night stand yeah",
+          "segments": [
+            "We ",
+            "can ",
+            "do ",
+            "a ",
+            "one ",
+            "night ",
+            "stand ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "63477|And it's hard for me to lose in my life",
+          "text": "And it's hard for me to lose in my life",
+          "segments": [
+            "And ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "66054|I've found outside your skin right near the fire",
+          "text": "I've found outside your skin right near the fire",
+          "segments": [
+            "I've ",
+            "found ",
+            "outside ",
+            "your ",
+            "skin ",
+            "right ",
+            "near ",
+            "the ",
+            "fire"
+          ]
+        },
+        {
+          "key": "70071|That we can baby",
+          "text": "That we can baby",
+          "segments": [
+            "That ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "71821|We can change and feel alright",
+          "text": "We can change and feel alright",
+          "segments": [
+            "We ",
+            "can ",
+            "change ",
+            "and ",
+            "feel ",
+            "alright"
+          ]
+        },
+        {
+          "key": "78098|I'm a little used to calling outside your name",
+          "text": "I'm a little used to calling outside your name",
+          "segments": [
+            "I'm ",
+            "a ",
+            "little ",
+            "used ",
+            "to ",
+            "calling ",
+            "outside ",
+            "your ",
+            "name"
+          ]
+        },
+        {
+          "key": "84391|I won't see you tonight so I can keep from going insane",
+          "text": "I won't see you tonight so I can keep from going insane",
+          "segments": [
+            "I ",
+            "won't ",
+            "see ",
+            "you ",
+            "tonight ",
+            "so ",
+            "I ",
+            "can ",
+            "keep ",
+            "from ",
+            "going ",
+            "insane"
+          ]
+        },
+        {
+          "key": "90911|But I don't know enough",
+          "text": "But I don't know enough",
+          "segments": [
+            "But ",
+            "I ",
+            "don't ",
+            "know ",
+            "enough"
+          ]
+        },
+        {
+          "key": "93872|I get some kinda lazy day",
+          "text": "I get some kinda lazy day",
+          "segments": [
+            "I ",
+            "get ",
+            "some ",
+            "kinda ",
+            "lazy ",
+            "day"
+          ]
+        },
+        {
+          "key": "96675|Hey yeah",
+          "text": "Hey yeah",
+          "segments": [
+            "Hey ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "103342|I've been fabulous through to fight my town a name",
+          "text": "I've been fabulous through to fight my town a name",
+          "segments": [
+            "I've ",
+            "been ",
+            "fabulous ",
+            "through ",
+            "to ",
+            "fight ",
+            "my ",
+            "town ",
+            "a ",
+            "name"
+          ]
+        },
+        {
+          "key": "109705|I'll be stooped tomorrow",
+          "text": "I'll be stooped tomorrow",
+          "segments": [
+            "I'll ",
+            "be ",
+            "stooped ",
+            "tomorrow"
+          ]
+        },
+        {
+          "key": "111302|If I don't leave as them both the same",
+          "text": "If I don't leave as them both the same",
+          "segments": [
+            "If ",
+            "I ",
+            "don't ",
+            "leave ",
+            "as ",
+            "them ",
+            "both ",
+            "the ",
+            "same"
+          ]
+        },
+        {
+          "key": "116304|But I don't know enough",
+          "text": "But I don't know enough",
+          "segments": [
+            "But ",
+            "I ",
+            "don't ",
+            "know ",
+            "enough"
+          ]
+        },
+        {
+          "key": "119339|I get some kinda lazy day",
+          "text": "I get some kinda lazy day",
+          "segments": [
+            "I ",
+            "get ",
+            "some ",
+            "kinda ",
+            "lazy ",
+            "day"
+          ]
+        },
+        {
+          "key": "122290|Hey yeah",
+          "text": "Hey yeah",
+          "segments": [
+            "Hey ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "128883|Cause it's hard for me to lose",
+          "text": "Cause it's hard for me to lose",
+          "segments": [
+            "Cause ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose"
+          ]
+        },
+        {
+          "key": "130551|In my life I've found only time will tell",
+          "text": "In my life I've found only time will tell",
+          "segments": [
+            "In ",
+            "my ",
+            "life ",
+            "I've ",
+            "found ",
+            "only ",
+            "time ",
+            "will ",
+            "tell"
+          ]
+        },
+        {
+          "key": "133584|And I will figure out that we can baby",
+          "text": "And I will figure out that we can baby",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "figure ",
+            "out ",
+            "that ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "137067|We can do a one night stand yeah",
+          "text": "We can do a one night stand yeah",
+          "segments": [
+            "We ",
+            "can ",
+            "do ",
+            "a ",
+            "one ",
+            "night ",
+            "stand ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "141549|And it's hard for me to lose in my life",
+          "text": "And it's hard for me to lose in my life",
+          "segments": [
+            "And ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "144125|I've found outside your skin right near the fire",
+          "text": "I've found outside your skin right near the fire",
+          "segments": [
+            "I've ",
+            "found ",
+            "outside ",
+            "your ",
+            "skin ",
+            "right ",
+            "near ",
+            "the ",
+            "fire"
+          ]
+        },
+        {
+          "key": "147910|That we can baby",
+          "text": "That we can baby",
+          "segments": [
+            "That ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "149729|We can change and feel alright",
+          "text": "We can change and feel alright",
+          "segments": [
+            "We ",
+            "can ",
+            "change ",
+            "and ",
+            "feel ",
+            "alright"
+          ]
+        },
+        {
+          "key": "158224|I'm a little used to wandering outside the rain",
+          "text": "I'm a little used to wandering outside the rain",
+          "segments": [
+            "I'm ",
+            "a ",
+            "little ",
+            "used ",
+            "to ",
+            "wandering ",
+            "outside ",
+            "the ",
+            "rain"
+          ]
+        },
+        {
+          "key": "163992|You can leave me tomorrow if it suits you just the same",
+          "text": "You can leave me tomorrow if it suits you just the same",
+          "segments": [
+            "You ",
+            "can ",
+            "leave ",
+            "me ",
+            "tomorrow ",
+            "if ",
+            "it ",
+            "suits ",
+            "you ",
+            "just ",
+            "the ",
+            "same"
+          ]
+        },
+        {
+          "key": "170580|But I don't know enough",
+          "text": "But I don't know enough",
+          "segments": [
+            "But ",
+            "I ",
+            "don't ",
+            "know ",
+            "enough"
+          ]
+        },
+        {
+          "key": "173459|I need someone who leaves the day",
+          "text": "I need someone who leaves the day",
+          "segments": [
+            "I ",
+            "need ",
+            "someone ",
+            "who ",
+            "leaves ",
+            "the ",
+            "day"
+          ]
+        },
+        {
+          "key": "176419|Hey yeah",
+          "text": "Hey yeah",
+          "segments": [
+            "Hey ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "183058|Cause it's hard for me to lose",
+          "text": "Cause it's hard for me to lose",
+          "segments": [
+            "Cause ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose"
+          ]
+        },
+        {
+          "key": "184727|In my life I've found only time will tell",
+          "text": "In my life I've found only time will tell",
+          "segments": [
+            "In ",
+            "my ",
+            "life ",
+            "I've ",
+            "found ",
+            "only ",
+            "time ",
+            "will ",
+            "tell"
+          ]
+        },
+        {
+          "key": "187832|And I will figure out that we can baby",
+          "text": "And I will figure out that we can baby",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "figure ",
+            "out ",
+            "that ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "191242|We can do a one night stand yeah",
+          "text": "We can do a one night stand yeah",
+          "segments": [
+            "We ",
+            "can ",
+            "do ",
+            "a ",
+            "one ",
+            "night ",
+            "stand ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "195712|And it's hard for me to lose in my life",
+          "text": "And it's hard for me to lose in my life",
+          "segments": [
+            "And ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "198292|I've found outside your skin right near the fire",
+          "text": "I've found outside your skin right near the fire",
+          "segments": [
+            "I've ",
+            "found ",
+            "outside ",
+            "your ",
+            "skin ",
+            "right ",
+            "near ",
+            "the ",
+            "fire"
+          ]
+        },
+        {
+          "key": "202398|That we can baby",
+          "text": "That we can baby",
+          "segments": [
+            "That ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "203801|We can change and feel alright",
+          "text": "We can change and feel alright",
+          "segments": [
+            "We ",
+            "can ",
+            "change ",
+            "and ",
+            "feel ",
+            "alright"
+          ]
+        },
+        {
+          "key": "237243|Cause it's hard for me to lose",
+          "text": "Cause it's hard for me to lose",
+          "segments": [
+            "Cause ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose"
+          ]
+        },
+        {
+          "key": "238911|In my life I've found only time will tell",
+          "text": "In my life I've found only time will tell",
+          "segments": [
+            "In ",
+            "my ",
+            "life ",
+            "I've ",
+            "found ",
+            "only ",
+            "time ",
+            "will ",
+            "tell"
+          ]
+        },
+        {
+          "key": "241943|And I will figure out that we can baby",
+          "text": "And I will figure out that we can baby",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "figure ",
+            "out ",
+            "that ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "245432|We can do a one night stand yeah",
+          "text": "We can do a one night stand yeah",
+          "segments": [
+            "We ",
+            "can ",
+            "do ",
+            "a ",
+            "one ",
+            "night ",
+            "stand ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "249902|And it's hard for me to lose in my life",
+          "text": "And it's hard for me to lose in my life",
+          "segments": [
+            "And ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "252401|I've found outside your skin right near the fire",
+          "text": "I've found outside your skin right near the fire",
+          "segments": [
+            "I've ",
+            "found ",
+            "outside ",
+            "your ",
+            "skin ",
+            "right ",
+            "near ",
+            "the ",
+            "fire"
+          ]
+        },
+        {
+          "key": "256375|That we can baby",
+          "text": "That we can baby",
+          "segments": [
+            "That ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "258191|We can change and feel alright",
+          "text": "We can change and feel alright",
+          "segments": [
+            "We ",
+            "can ",
+            "change ",
+            "and ",
+            "feel ",
+            "alright"
+          ]
+        },
+        {
+          "key": "262628|Cause it's hard for me to lose",
+          "text": "Cause it's hard for me to lose",
+          "segments": [
+            "Cause ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose"
+          ]
+        },
+        {
+          "key": "264374|In my life I've found only time will tell",
+          "text": "In my life I've found only time will tell",
+          "segments": [
+            "In ",
+            "my ",
+            "life ",
+            "I've ",
+            "found ",
+            "only ",
+            "time ",
+            "will ",
+            "tell"
+          ]
+        },
+        {
+          "key": "267485|And I will figure out that we can baby",
+          "text": "And I will figure out that we can baby",
+          "segments": [
+            "And ",
+            "I ",
+            "will ",
+            "figure ",
+            "out ",
+            "that ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "270967|We can do a one night stand yeah",
+          "text": "We can do a one night stand yeah",
+          "segments": [
+            "We ",
+            "can ",
+            "do ",
+            "a ",
+            "one ",
+            "night ",
+            "stand ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "275442|And it's hard for me to lose in my life",
+          "text": "And it's hard for me to lose in my life",
+          "segments": [
+            "And ",
+            "it's ",
+            "hard ",
+            "for ",
+            "me ",
+            "to ",
+            "lose ",
+            "in ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "278090|I've found outside your skin right near the fire",
+          "text": "I've found outside your skin right near the fire",
+          "segments": [
+            "I've ",
+            "found ",
+            "outside ",
+            "your ",
+            "skin ",
+            "right ",
+            "near ",
+            "the ",
+            "fire"
+          ]
+        },
+        {
+          "key": "282151|That we can baby",
+          "text": "That we can baby",
+          "segments": [
+            "That ",
+            "we ",
+            "can ",
+            "baby"
+          ]
+        },
+        {
+          "key": "283749|We can change and feel alright",
+          "text": "We can change and feel alright",
+          "segments": [
+            "We ",
+            "can ",
+            "change ",
+            "and ",
+            "feel ",
+            "alright"
+          ]
+        }
+      ]
+    }
+  ]
+}

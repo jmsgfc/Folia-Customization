@@ -1,0 +1,1252 @@
+{
+  "batchNumber": 132,
+  "songs": [
+    {
+      "rank": 656,
+      "songKey": "online:kugou:f87095bff0de7c636c3a3b8aac702d76",
+      "name": "光年之外",
+      "artist": "G.E.M.邓紫棋",
+      "lines": [
+        {
+          "key": "0|G.E.M.邓紫棋 - 光年之外",
+          "startMs": 0,
+          "text": "G.E.M.邓紫棋 - 光年之外"
+        },
+        {
+          "key": "99|作词：G.E.M. 邓紫棋",
+          "startMs": 99,
+          "text": "作词：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "176|作曲：G.E.M. 邓紫棋",
+          "startMs": 176,
+          "text": "作曲：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "253|编曲：Lupo Groinig",
+          "startMs": 253,
+          "text": "编曲：Lupo Groinig"
+        },
+        {
+          "key": "308|监制：Lupo Groinig",
+          "startMs": 308,
+          "text": "监制：Lupo Groinig"
+        },
+        {
+          "key": "12654|感受停在我发端的指尖",
+          "startMs": 12654,
+          "text": "感受停在我发端的指尖"
+        },
+        {
+          "key": "16846|如何瞬间冻结时间",
+          "startMs": 16846,
+          "text": "如何瞬间冻结时间"
+        },
+        {
+          "key": "23605|记住望着我坚定的双眼",
+          "startMs": 23605,
+          "text": "记住望着我坚定的双眼"
+        },
+        {
+          "key": "27604|也许已经没有明天",
+          "startMs": 27604,
+          "text": "也许已经没有明天"
+        },
+        {
+          "key": "34135|面对浩瀚的星海",
+          "startMs": 34135,
+          "text": "面对浩瀚的星海"
+        },
+        {
+          "key": "36587|我们微小得像尘埃",
+          "startMs": 36587,
+          "text": "我们微小得像尘埃"
+        },
+        {
+          "key": "39225|漂浮在一片无奈",
+          "startMs": 39225,
+          "text": "漂浮在一片无奈"
+        },
+        {
+          "key": "45008|缘分让我们相遇乱世以外",
+          "startMs": 45008,
+          "text": "缘分让我们相遇乱世以外"
+        },
+        {
+          "key": "50551|命运却要我们危难中相爱",
+          "startMs": 50551,
+          "text": "命运却要我们危难中相爱"
+        },
+        {
+          "key": "55706|也许未来遥远在光年之外",
+          "startMs": 55706,
+          "text": "也许未来遥远在光年之外"
+        },
+        {
+          "key": "61418|我愿守候未知里为你等待",
+          "startMs": 61418,
+          "text": "我愿守候未知里为你等待"
+        },
+        {
+          "key": "65355|我没想到为了你我能疯狂到",
+          "startMs": 65355,
+          "text": "我没想到为了你我能疯狂到"
+        },
+        {
+          "key": "70971|山崩海啸没有你根本不想逃",
+          "startMs": 70971,
+          "text": "山崩海啸没有你根本不想逃"
+        },
+        {
+          "key": "76606|我的大脑为了你已经疯狂到",
+          "startMs": 76606,
+          "text": "我的大脑为了你已经疯狂到"
+        },
+        {
+          "key": "81800|脉搏心跳没有你根本不重要",
+          "startMs": 81800,
+          "text": "脉搏心跳没有你根本不重要"
+        },
+        {
+          "key": "89149|一双围在我胸口的臂弯",
+          "startMs": 89149,
+          "text": "一双围在我胸口的臂弯"
+        },
+        {
+          "key": "93184|足够抵挡天旋地转",
+          "startMs": 93184,
+          "text": "足够抵挡天旋地转"
+        },
+        {
+          "key": "99961|一种执迷不放手的倔强",
+          "startMs": 99961,
+          "text": "一种执迷不放手的倔强"
+        },
+        {
+          "key": "104047|足以点燃所有希望",
+          "startMs": 104047,
+          "text": "足以点燃所有希望"
+        },
+        {
+          "key": "110470|宇宙磅礴而冷漠",
+          "startMs": 110470,
+          "text": "宇宙磅礴而冷漠"
+        },
+        {
+          "key": "113166|我们的爱微小却闪烁",
+          "startMs": 113166,
+          "text": "我们的爱微小却闪烁"
+        },
+        {
+          "key": "115539|颠簸却如此忘我",
+          "startMs": 115539,
+          "text": "颠簸却如此忘我"
+        },
+        {
+          "key": "121328|缘分让我们相遇乱世以外",
+          "startMs": 121328,
+          "text": "缘分让我们相遇乱世以外"
+        },
+        {
+          "key": "126810|命运却要我们危难中相爱",
+          "startMs": 126810,
+          "text": "命运却要我们危难中相爱"
+        },
+        {
+          "key": "132172|也许未来遥远在光年之外",
+          "startMs": 132172,
+          "text": "也许未来遥远在光年之外"
+        },
+        {
+          "key": "137756|我愿守候未知里为你等待",
+          "startMs": 137756,
+          "text": "我愿守候未知里为你等待"
+        },
+        {
+          "key": "141714|我没想到为了你我能疯狂到",
+          "startMs": 141714,
+          "text": "我没想到为了你我能疯狂到"
+        },
+        {
+          "key": "147319|山崩海啸没有你根本不想逃",
+          "startMs": 147319,
+          "text": "山崩海啸没有你根本不想逃"
+        },
+        {
+          "key": "152880|我的大脑为了你已经疯狂到",
+          "startMs": 152880,
+          "text": "我的大脑为了你已经疯狂到"
+        },
+        {
+          "key": "158203|脉搏心跳没有你根本不重要",
+          "startMs": 158203,
+          "text": "脉搏心跳没有你根本不重要"
+        },
+        {
+          "key": "164334|也许航道以外是醒不来的梦",
+          "startMs": 164334,
+          "text": "也许航道以外是醒不来的梦"
+        },
+        {
+          "key": "176804|乱世以外是纯粹的相拥",
+          "startMs": 176804,
+          "text": "乱世以外是纯粹的相拥"
+        },
+        {
+          "key": "185487|我没想到为了你我能疯狂到",
+          "startMs": 185487,
+          "text": "我没想到为了你我能疯狂到"
+        },
+        {
+          "key": "190876|山崩海啸没有你根本不想逃",
+          "startMs": 190876,
+          "text": "山崩海啸没有你根本不想逃"
+        },
+        {
+          "key": "196384|我的大脑为了你已经疯狂到",
+          "startMs": 196384,
+          "text": "我的大脑为了你已经疯狂到"
+        },
+        {
+          "key": "201807|脉搏心跳没有你根本不重要",
+          "startMs": 201807,
+          "text": "脉搏心跳没有你根本不重要"
+        },
+        {
+          "key": "207402|我没想到",
+          "startMs": 207402,
+          "text": "我没想到"
+        },
+        {
+          "key": "208355|相遇乱世以外危难中相爱",
+          "startMs": 208355,
+          "text": "相遇乱世以外危难中相爱"
+        },
+        {
+          "key": "218598|相遇乱世以外危难中相爱",
+          "startMs": 218598,
+          "text": "相遇乱世以外危难中相爱"
+        },
+        {
+          "key": "228903|我没想到",
+          "startMs": 228903,
+          "text": "我没想到"
+        }
+      ]
+    },
+    {
+      "rank": 657,
+      "songKey": "online:kugou:193b72d4456a4cc02a3de7c673fc4e23",
+      "name": "Love Story",
+      "artist": "Taylor Swift",
+      "lines": [
+        {
+          "key": "0|Love Story - Taylor Swift",
+          "startMs": 0,
+          "text": "Love Story - Taylor Swift"
+        },
+        {
+          "key": "4050|Lyrics by：Taylor Swift",
+          "startMs": 4050,
+          "text": "Lyrics by：Taylor Swift"
+        },
+        {
+          "key": "8100|Composed by：Taylor Swift",
+          "startMs": 8100,
+          "text": "Composed by：Taylor Swift"
+        },
+        {
+          "key": "12150|Produced by：Nathan Chapman/Taylor Swift",
+          "startMs": 12150,
+          "text": "Produced by：Nathan Chapman/Taylor Swift"
+        },
+        {
+          "key": "16206|We were both young when I first saw you",
+          "startMs": 16206,
+          "text": "We were both young when I first saw you"
+        },
+        {
+          "key": "19939|I close my eyes and the flashback starts",
+          "startMs": 19939,
+          "text": "I close my eyes and the flashback starts"
+        },
+        {
+          "key": "23625|I'm standing there on a balcony in summer air",
+          "startMs": 23625,
+          "text": "I'm standing there on a balcony in summer air"
+        },
+        {
+          "key": "32362|See the lights see the party the ball gowns",
+          "startMs": 32362,
+          "text": "See the lights see the party the ball gowns"
+        },
+        {
+          "key": "36380|See you make your way through the crowd",
+          "startMs": 36380,
+          "text": "See you make your way through the crowd"
+        },
+        {
+          "key": "39561|And say hello",
+          "startMs": 39561,
+          "text": "And say hello"
+        },
+        {
+          "key": "43519|Little did I know",
+          "startMs": 43519,
+          "text": "Little did I know"
+        },
+        {
+          "key": "48263|That you were Romeo you were throwing pebbles",
+          "startMs": 48263,
+          "text": "That you were Romeo you were throwing pebbles"
+        },
+        {
+          "key": "52008|And my daddy said",
+          "startMs": 52008,
+          "text": "And my daddy said"
+        },
+        {
+          "key": "53451|Stay away from Juliet",
+          "startMs": 53451,
+          "text": "Stay away from Juliet"
+        },
+        {
+          "key": "55724|And I was crying on the staircase",
+          "startMs": 55724,
+          "text": "And I was crying on the staircase"
+        },
+        {
+          "key": "58523|Begging you please don't go",
+          "startMs": 58523,
+          "text": "Begging you please don't go"
+        },
+        {
+          "key": "63061|And I said",
+          "startMs": 63061,
+          "text": "And I said"
+        },
+        {
+          "key": "64566|Romeo take me somewhere we can be alone",
+          "startMs": 64566,
+          "text": "Romeo take me somewhere we can be alone"
+        },
+        {
+          "key": "68646|I'll be waiting all there's left to do is run",
+          "startMs": 68646,
+          "text": "I'll be waiting all there's left to do is run"
+        },
+        {
+          "key": "72720|You'll be the prince and I'll be the princess",
+          "startMs": 72720,
+          "text": "You'll be the prince and I'll be the princess"
+        },
+        {
+          "key": "76673|It's a love story baby just say yes",
+          "startMs": 76673,
+          "text": "It's a love story baby just say yes"
+        },
+        {
+          "key": "84551|So I sneak out to the garden to see you",
+          "startMs": 84551,
+          "text": "So I sneak out to the garden to see you"
+        },
+        {
+          "key": "88842|We keep quiet 'cause we're dead if they knew",
+          "startMs": 88842,
+          "text": "We keep quiet 'cause we're dead if they knew"
+        },
+        {
+          "key": "92286|So close your eyes escape this town for a little while",
+          "startMs": 92286,
+          "text": "So close your eyes escape this town for a little while"
+        },
+        {
+          "key": "100691|'Cause you were Romeo I was a scarlet letter",
+          "startMs": 100691,
+          "text": "'Cause you were Romeo I was a scarlet letter"
+        },
+        {
+          "key": "104360|And my daddy said",
+          "startMs": 104360,
+          "text": "And my daddy said"
+        },
+        {
+          "key": "105961|Stay away from Juliet",
+          "startMs": 105961,
+          "text": "Stay away from Juliet"
+        },
+        {
+          "key": "108156|But you were everything to me",
+          "startMs": 108156,
+          "text": "But you were everything to me"
+        },
+        {
+          "key": "110475|I was begging you please don't go",
+          "startMs": 110475,
+          "text": "I was begging you please don't go"
+        },
+        {
+          "key": "115453|And I said Romeo take me somewhere we can be alone",
+          "startMs": 115453,
+          "text": "And I said Romeo take me somewhere we can be alone"
+        },
+        {
+          "key": "121101|I'll be waiting all there's left to do is run",
+          "startMs": 121101,
+          "text": "I'll be waiting all there's left to do is run"
+        },
+        {
+          "key": "125123|You'll be the prince and I'll be the princess",
+          "startMs": 125123,
+          "text": "You'll be the prince and I'll be the princess"
+        },
+        {
+          "key": "129194|It's a love story baby just say yes",
+          "startMs": 129194,
+          "text": "It's a love story baby just say yes"
+        },
+        {
+          "key": "133249|Romeo save me they're trying to tell me how to feel",
+          "startMs": 133249,
+          "text": "Romeo save me they're trying to tell me how to feel"
+        },
+        {
+          "key": "137486|This love is difficult but it's real",
+          "startMs": 137486,
+          "text": "This love is difficult but it's real"
+        },
+        {
+          "key": "141274|Don't be afraid we'll make it out of this mess",
+          "startMs": 141274,
+          "text": "Don't be afraid we'll make it out of this mess"
+        },
+        {
+          "key": "145249|It's a love story baby just say yes",
+          "startMs": 145249,
+          "text": "It's a love story baby just say yes"
+        },
+        {
+          "key": "152668|Oh oh",
+          "startMs": 152668,
+          "text": "Oh oh"
+        },
+        {
+          "key": "164365|I got tired of waiting",
+          "startMs": 164365,
+          "text": "I got tired of waiting"
+        },
+        {
+          "key": "168566|Wondering if you were ever coming around",
+          "startMs": 168566,
+          "text": "Wondering if you were ever coming around"
+        },
+        {
+          "key": "172235|My faith in you was fading",
+          "startMs": 172235,
+          "text": "My faith in you was fading"
+        },
+        {
+          "key": "177152|When I met you on the outskirts of town",
+          "startMs": 177152,
+          "text": "When I met you on the outskirts of town"
+        },
+        {
+          "key": "180377|And I said",
+          "startMs": 180377,
+          "text": "And I said"
+        },
+        {
+          "key": "181624|Romeo save me I've been feeling so alone",
+          "startMs": 181624,
+          "text": "Romeo save me I've been feeling so alone"
+        },
+        {
+          "key": "185647|I keep waiting for you but you never come",
+          "startMs": 185647,
+          "text": "I keep waiting for you but you never come"
+        },
+        {
+          "key": "189353|Is this in my head I don't know what to think",
+          "startMs": 189353,
+          "text": "Is this in my head I don't know what to think"
+        },
+        {
+          "key": "193262|He knelt to the ground and pulled out a ring and said",
+          "startMs": 193262,
+          "text": "He knelt to the ground and pulled out a ring and said"
+        },
+        {
+          "key": "197722|Marry me Juliet you'll never have to be alone",
+          "startMs": 197722,
+          "text": "Marry me Juliet you'll never have to be alone"
+        },
+        {
+          "key": "201762|I love you and that's all I really know",
+          "startMs": 201762,
+          "text": "I love you and that's all I really know"
+        },
+        {
+          "key": "205577|I talked to your dad go pick out a white dress",
+          "startMs": 205577,
+          "text": "I talked to your dad go pick out a white dress"
+        },
+        {
+          "key": "209810|It's a love story baby just say yes",
+          "startMs": 209810,
+          "text": "It's a love story baby just say yes"
+        },
+        {
+          "key": "217234|Oh oh",
+          "startMs": 217234,
+          "text": "Oh oh"
+        },
+        {
+          "key": "220651|Oh oh",
+          "startMs": 220651,
+          "text": "Oh oh"
+        },
+        {
+          "key": "225738|'Cause we were both young when I first saw you",
+          "startMs": 225738,
+          "text": "'Cause we were both young when I first saw you"
+        }
+      ]
+    },
+    {
+      "rank": 659,
+      "songKey": "online:kugou:c459e39f69aede46b4d40c883025981b",
+      "name": "Something Just Like This (remix：暖豪Music)",
+      "artist": "The Chainsmokers / Clean Bandit / Kygo / Rihanna",
+      "lines": [
+        {
+          "key": "0|DJ - Something Just Like This (DJ版)",
+          "startMs": 0,
+          "text": "DJ - Something Just Like This (DJ版)"
+        },
+        {
+          "key": "4426|He says what you heard is true but I",
+          "startMs": 4426,
+          "text": "He says what you heard is true but I"
+        },
+        {
+          "key": "6248|Can't stop thinking about you and I",
+          "startMs": 6248,
+          "text": "Can't stop thinking about you and I"
+        },
+        {
+          "key": "8682|I said I've been there too a few times",
+          "startMs": 8682,
+          "text": "I said I've been there too a few times"
+        },
+        {
+          "key": "12563|I had a dream",
+          "startMs": 12563,
+          "text": "I had a dream"
+        },
+        {
+          "key": "14155|We were sipping whiskey neat",
+          "startMs": 14155,
+          "text": "We were sipping whiskey neat"
+        },
+        {
+          "key": "16469|Highest floor",
+          "startMs": 16469,
+          "text": "Highest floor"
+        },
+        {
+          "key": "17526|The Bowery",
+          "startMs": 17526,
+          "text": "The Bowery"
+        },
+        {
+          "key": "18586|Nowhere's high enough",
+          "startMs": 18586,
+          "text": "Nowhere's high enough"
+        },
+        {
+          "key": "21244|Somewhere along the lines",
+          "startMs": 21244,
+          "text": "Somewhere along the lines"
+        },
+        {
+          "key": "23424|We stopped seeing eye to eye",
+          "startMs": 23424,
+          "text": "We stopped seeing eye to eye"
+        },
+        {
+          "key": "25613|You were staying out all night",
+          "startMs": 25613,
+          "text": "You were staying out all night"
+        },
+        {
+          "key": "27800|And I had enough",
+          "startMs": 27800,
+          "text": "And I had enough"
+        },
+        {
+          "key": "29999|Oh she don't see the light that's shining",
+          "startMs": 29999,
+          "text": "Oh she don't see the light that's shining"
+        },
+        {
+          "key": "33559|Deeper than the eyes can find it",
+          "startMs": 33559,
+          "text": "Deeper than the eyes can find it"
+        },
+        {
+          "key": "35802|Maybe we have made her blind",
+          "startMs": 35802,
+          "text": "Maybe we have made her blind"
+        },
+        {
+          "key": "37441|So she tries to cover up her pain",
+          "startMs": 37441,
+          "text": "So she tries to cover up her pain"
+        },
+        {
+          "key": "40282|My heart's crippled by the vein",
+          "startMs": 40282,
+          "text": "My heart's crippled by the vein"
+        },
+        {
+          "key": "42581|That I keep on closing",
+          "startMs": 42581,
+          "text": "That I keep on closing"
+        },
+        {
+          "key": "47081|You cut me open and I",
+          "startMs": 47081,
+          "text": "You cut me open and I"
+        },
+        {
+          "key": "48897|There's a hope that's waiting for you in the dark",
+          "startMs": 48897,
+          "text": "There's a hope that's waiting for you in the dark"
+        },
+        {
+          "key": "52466|You should know you're beautiful just the way you are",
+          "startMs": 52466,
+          "text": "You should know you're beautiful just the way you are"
+        },
+        {
+          "key": "56911|And you don't have to change a thing",
+          "startMs": 56911,
+          "text": "And you don't have to change a thing"
+        },
+        {
+          "key": "59193|The world could change its heart",
+          "startMs": 59193,
+          "text": "The world could change its heart"
+        },
+        {
+          "key": "61409|No scars to your beautiful we're stars and we're beautiful",
+          "startMs": 61409,
+          "text": "No scars to your beautiful we're stars and we're beautiful"
+        },
+        {
+          "key": "68065|Keep bleeding",
+          "startMs": 68065,
+          "text": "Keep bleeding"
+        },
+        {
+          "key": "69434|Keep keep bleeding love",
+          "startMs": 69434,
+          "text": "Keep keep bleeding love"
+        },
+        {
+          "key": "72609|Keep bleeding",
+          "startMs": 72609,
+          "text": "Keep bleeding"
+        },
+        {
+          "key": "73903|I keep keep bleeding love",
+          "startMs": 73903,
+          "text": "I keep keep bleeding love"
+        },
+        {
+          "key": "76971|Keep bleeding",
+          "startMs": 76971,
+          "text": "Keep bleeding"
+        },
+        {
+          "key": "78562|Keep keep bleeding love",
+          "startMs": 78562,
+          "text": "Keep keep bleeding love"
+        },
+        {
+          "key": "81267|Grateful",
+          "startMs": 81267,
+          "text": "Grateful"
+        },
+        {
+          "key": "82432|I'm so grateful",
+          "startMs": 82432,
+          "text": "I'm so grateful"
+        },
+        {
+          "key": "85568|These fancy things",
+          "startMs": 85568,
+          "text": "These fancy things"
+        },
+        {
+          "key": "87082|Will never come in between",
+          "startMs": 87082,
+          "text": "Will never come in between"
+        },
+        {
+          "key": "89312|You're part of my entity",
+          "startMs": 89312,
+          "text": "You're part of my entity"
+        },
+        {
+          "key": "91601|Here for infinity",
+          "startMs": 91601,
+          "text": "Here for infinity"
+        },
+        {
+          "key": "94126|When the war has took its part",
+          "startMs": 94126,
+          "text": "When the war has took its part"
+        },
+        {
+          "key": "96157|When the world has dealt its cards",
+          "startMs": 96157,
+          "text": "When the world has dealt its cards"
+        },
+        {
+          "key": "99010|If the hand is hard",
+          "startMs": 99010,
+          "text": "If the hand is hard"
+        },
+        {
+          "key": "100879|Together we'll mend your heart",
+          "startMs": 100879,
+          "text": "Together we'll mend your heart"
+        },
+        {
+          "key": "103620|It took us a while",
+          "startMs": 103620,
+          "text": "It took us a while"
+        },
+        {
+          "key": "105497|'Cause we were young and unsure",
+          "startMs": 105497,
+          "text": "'Cause we were young and unsure"
+        },
+        {
+          "key": "107883|With love on the line",
+          "startMs": 107883,
+          "text": "With love on the line"
+        },
+        {
+          "key": "110085|What if we both would need more",
+          "startMs": 110085,
+          "text": "What if we both would need more"
+        },
+        {
+          "key": "112969|But all your flaws and scars are mine",
+          "startMs": 112969,
+          "text": "But all your flaws and scars are mine"
+        },
+        {
+          "key": "116883|Still falling for you",
+          "startMs": 116883,
+          "text": "Still falling for you"
+        },
+        {
+          "key": "118107|Still falling for you",
+          "startMs": 118107,
+          "text": "Still falling for you"
+        },
+        {
+          "key": "119173|Still falling for you",
+          "startMs": 119173,
+          "text": "Still falling for you"
+        },
+        {
+          "key": "120432|You can stand under my umbrella",
+          "startMs": 120432,
+          "text": "You can stand under my umbrella"
+        },
+        {
+          "key": "122581|Ella ella eh eh eh",
+          "startMs": 122581,
+          "text": "Ella ella eh eh eh"
+        },
+        {
+          "key": "125538|Under my umbrella",
+          "startMs": 125538,
+          "text": "Under my umbrella"
+        },
+        {
+          "key": "127293|Ella ella eh eh eh",
+          "startMs": 127293,
+          "text": "Ella ella eh eh eh"
+        },
+        {
+          "key": "130477|Under my umbrella",
+          "startMs": 130477,
+          "text": "Under my umbrella"
+        },
+        {
+          "key": "131851|Ella ella eh eh eh",
+          "startMs": 131851,
+          "text": "Ella ella eh eh eh"
+        },
+        {
+          "key": "134898|Under my umbrella",
+          "startMs": 134898,
+          "text": "Under my umbrella"
+        },
+        {
+          "key": "136404|Ella ella eh eh eh",
+          "startMs": 136404,
+          "text": "Ella ella eh eh eh"
+        },
+        {
+          "key": "139257|Eh eh eh",
+          "startMs": 139257,
+          "text": "Eh eh eh"
+        },
+        {
+          "key": "140744|If we go down then we go down together",
+          "startMs": 140744,
+          "text": "If we go down then we go down together"
+        },
+        {
+          "key": "144674|They'll say you could do anything",
+          "startMs": 144674,
+          "text": "They'll say you could do anything"
+        },
+        {
+          "key": "147130|They'll say that I was clever",
+          "startMs": 147130,
+          "text": "They'll say that I was clever"
+        },
+        {
+          "key": "149319|If we go down then we go down together",
+          "startMs": 149319,
+          "text": "If we go down then we go down together"
+        },
+        {
+          "key": "153835|We'll get away with everything",
+          "startMs": 153835,
+          "text": "We'll get away with everything"
+        },
+        {
+          "key": "156239|Let's show them we are better",
+          "startMs": 156239,
+          "text": "Let's show them we are better"
+        },
+        {
+          "key": "158082|She tells him oh love no one's ever gonna hurt you love",
+          "startMs": 158082,
+          "text": "She tells him oh love no one's ever gonna hurt you love"
+        },
+        {
+          "key": "162022|I'm gonna give you all of my love",
+          "startMs": 162022,
+          "text": "I'm gonna give you all of my love"
+        },
+        {
+          "key": "164283|Nobody matters like you",
+          "startMs": 164283,
+          "text": "Nobody matters like you"
+        },
+        {
+          "key": "166127|Stay out there stay out there",
+          "startMs": 166127,
+          "text": "Stay out there stay out there"
+        },
+        {
+          "key": "167927|She tells him your life ain't gonna be nothing like my life stay",
+          "startMs": 167927,
+          "text": "She tells him your life ain't gonna be nothing like my life stay"
+        },
+        {
+          "key": "171399|You're gonna grow and have a good life",
+          "startMs": 171399,
+          "text": "You're gonna grow and have a good life"
+        },
+        {
+          "key": "173388|I'm gonna do what I got to do",
+          "startMs": 173388,
+          "text": "I'm gonna do what I got to do"
+        },
+        {
+          "key": "176389|Just take me home",
+          "startMs": 176389,
+          "text": "Just take me home"
+        },
+        {
+          "key": "180822|Just take me home",
+          "startMs": 180822,
+          "text": "Just take me home"
+        },
+        {
+          "key": "185738|Just take me home",
+          "startMs": 185738,
+          "text": "Just take me home"
+        },
+        {
+          "key": "186554|Tell me tell me do you need me need me",
+          "startMs": 186554,
+          "text": "Tell me tell me do you need me need me"
+        },
+        {
+          "key": "188751|Tell me tell me do you love me yea",
+          "startMs": 188751,
+          "text": "Tell me tell me do you love me yea"
+        },
+        {
+          "key": "191033|Or is ya just tryna play me",
+          "startMs": 191033,
+          "text": "Or is ya just tryna play me"
+        },
+        {
+          "key": "193085|Would you still love me the same",
+          "startMs": 193085,
+          "text": "Would you still love me the same"
+        },
+        {
+          "key": "202591|Would you still love me the same",
+          "startMs": 202591,
+          "text": "Would you still love me the same"
+        },
+        {
+          "key": "205319|If I showed you my flaws",
+          "startMs": 205319,
+          "text": "If I showed you my flaws"
+        },
+        {
+          "key": "207157|If I couldn't be strong",
+          "startMs": 207157,
+          "text": "If I couldn't be strong"
+        },
+        {
+          "key": "209728|Tell me honestly",
+          "startMs": 209728,
+          "text": "Tell me honestly"
+        },
+        {
+          "key": "211572|Would you still love me the same",
+          "startMs": 211572,
+          "text": "Would you still love me the same"
+        },
+        {
+          "key": "214238|Keep bleeding",
+          "startMs": 214238,
+          "text": "Keep bleeding"
+        },
+        {
+          "key": "215552|Keep keep bleeding love",
+          "startMs": 215552,
+          "text": "Keep keep bleeding love"
+        },
+        {
+          "key": "218719|I keep bleeding",
+          "startMs": 218719,
+          "text": "I keep bleeding"
+        },
+        {
+          "key": "220004|I keep keep bleeding love",
+          "startMs": 220004,
+          "text": "I keep keep bleeding love"
+        },
+        {
+          "key": "223356|Keep bleeding",
+          "startMs": 223356,
+          "text": "Keep bleeding"
+        },
+        {
+          "key": "224707|Keep keep bleeding love",
+          "startMs": 224707,
+          "text": "Keep keep bleeding love"
+        },
+        {
+          "key": "229975|You cut me open and I",
+          "startMs": 229975,
+          "text": "You cut me open and I"
+        }
+      ]
+    },
+    {
+      "rank": 660,
+      "songKey": "online:kugou:a16239f7d8c9d58021ad762b1ce1bc5e",
+      "name": "道 〜to you all (道~给大家)",
+      "artist": "Aluto",
+      "lines": [
+        {
+          "key": "1879|君の心へ",
+          "startMs": 1879,
+          "text": "君の心へ"
+        },
+        {
+          "key": "5690|君の心へ",
+          "startMs": 5690,
+          "text": "君の心へ"
+        },
+        {
+          "key": "9910|届 届 届",
+          "startMs": 9910,
+          "text": "届 届 届"
+        },
+        {
+          "key": "18564|僕の心が",
+          "startMs": 18564,
+          "text": "僕の心が"
+        },
+        {
+          "key": "22479|君の心へ",
+          "startMs": 22479,
+          "text": "君の心へ"
+        },
+        {
+          "key": "26902|届くように",
+          "startMs": 26902,
+          "text": "届くように"
+        },
+        {
+          "key": "30880|歌ようお",
+          "startMs": 30880,
+          "text": "歌ようお"
+        },
+        {
+          "key": "62319|だいたい",
+          "startMs": 62319,
+          "text": "だいたい"
+        },
+        {
+          "key": "63572|いつも通りに",
+          "startMs": 63572,
+          "text": "いつも通りに"
+        },
+        {
+          "key": "67393|その角を",
+          "startMs": 67393,
+          "text": "その角を"
+        },
+        {
+          "key": "70010|曲がれば",
+          "startMs": 70010,
+          "text": "曲がれば"
+        },
+        {
+          "key": "72273|人波に紛れ込み",
+          "startMs": 72273,
+          "text": "人波に紛れ込み"
+        },
+        {
+          "key": "78145|溶けて消えていく",
+          "startMs": 78145,
+          "text": "溶けて消えていく"
+        },
+        {
+          "key": "83666|僕は道を無くし",
+          "startMs": 83666,
+          "text": "僕は道を無くし"
+        },
+        {
+          "key": "88890|言葉すら",
+          "startMs": 88890,
+          "text": "言葉すら"
+        },
+        {
+          "key": "90552|無くしてしまう ",
+          "startMs": 90552,
+          "text": "無くしてしまう "
+        },
+        {
+          "key": "94320|だけど一つだけは ",
+          "startMs": 94320,
+          "text": "だけど一つだけは "
+        },
+        {
+          "key": "99602|残ってた",
+          "startMs": 99602,
+          "text": "残ってた"
+        },
+        {
+          "key": "102329|残ってた ",
+          "startMs": 102329,
+          "text": "残ってた "
+        },
+        {
+          "key": "105095|君の声が ",
+          "startMs": 105095,
+          "text": "君の声が "
+        },
+        {
+          "key": "110426|笑う顔も",
+          "startMs": 110426,
+          "text": "笑う顔も"
+        },
+        {
+          "key": "112990|怒る顔も全て",
+          "startMs": 112990,
+          "text": "怒る顔も全て"
+        },
+        {
+          "key": "116154|僕を歩かせる",
+          "startMs": 116154,
+          "text": "僕を歩かせる"
+        },
+        {
+          "key": "121523|雲が切れた先を",
+          "startMs": 121523,
+          "text": "雲が切れた先を"
+        },
+        {
+          "key": "124673|見たらきっと",
+          "startMs": 124673,
+          "text": "見たらきっと"
+        },
+        {
+          "key": "127133|ねえ",
+          "startMs": 127133,
+          "text": "ねえ"
+        },
+        {
+          "key": "127735|わかるでしょ",
+          "startMs": 127735,
+          "text": "わかるでしょ"
+        },
+        {
+          "key": "132269|ねえ",
+          "startMs": 132269,
+          "text": "ねえ"
+        },
+        {
+          "key": "132957|わかるでしょ",
+          "startMs": 132957,
+          "text": "わかるでしょ"
+        },
+        {
+          "key": "159283|曖昧に",
+          "startMs": 159283,
+          "text": "曖昧に"
+        },
+        {
+          "key": "161042|生きていても",
+          "startMs": 161042,
+          "text": "生きていても"
+        },
+        {
+          "key": "164966|心が未熟でも",
+          "startMs": 164966,
+          "text": "心が未熟でも"
+        },
+        {
+          "key": "169585|それでいいほら",
+          "startMs": 169585,
+          "text": "それでいいほら"
+        },
+        {
+          "key": "174279|そこには",
+          "startMs": 174279,
+          "text": "そこには"
+        },
+        {
+          "key": "176629|大事な人が居る",
+          "startMs": 176629,
+          "text": "大事な人が居る"
+        },
+        {
+          "key": "182109|君が迷うのなら",
+          "startMs": 182109,
+          "text": "君が迷うのなら"
+        },
+        {
+          "key": "187390|僕が道しるべに",
+          "startMs": 187390,
+          "text": "僕が道しるべに"
+        },
+        {
+          "key": "191317|なろう",
+          "startMs": 191317,
+          "text": "なろう"
+        },
+        {
+          "key": "193076|後は信じればいい",
+          "startMs": 193076,
+          "text": "後は信じればいい"
+        },
+        {
+          "key": "198152|確める術は持った",
+          "startMs": 198152,
+          "text": "確める術は持った"
+        },
+        {
+          "key": "203671|恐れないで",
+          "startMs": 203671,
+          "text": "恐れないで"
+        },
+        {
+          "key": "209407|光集め空に",
+          "startMs": 209407,
+          "text": "光集め空に"
+        },
+        {
+          "key": "212526|放っている",
+          "startMs": 212526,
+          "text": "放っている"
+        },
+        {
+          "key": "214788|君に分かるように",
+          "startMs": 214788,
+          "text": "君に分かるように"
+        },
+        {
+          "key": "220148|そして歩む道を",
+          "startMs": 220148,
+          "text": "そして歩む道を"
+        },
+        {
+          "key": "223112|もっと照らそう",
+          "startMs": 223112,
+          "text": "もっと照らそう"
+        },
+        {
+          "key": "225730|どこまでも",
+          "startMs": 225730,
+          "text": "どこまでも"
+        },
+        {
+          "key": "230589|どこまでも ",
+          "startMs": 230589,
+          "text": "どこまでも "
+        },
+        {
+          "key": "236055|どこまでも",
+          "startMs": 236055,
+          "text": "どこまでも"
+        },
+        {
+          "key": "241565|どこまでも",
+          "startMs": 241565,
+          "text": "どこまでも"
+        },
+        {
+          "key": "246646|髪声口指先へ",
+          "startMs": 246646,
+          "text": "髪声口指先へ"
+        },
+        {
+          "key": "250540|届け",
+          "startMs": 250540,
+          "text": "届け"
+        },
+        {
+          "key": "251947|今だけでもいい",
+          "startMs": 251947,
+          "text": "今だけでもいい"
+        },
+        {
+          "key": "262420|今だけでもいい",
+          "startMs": 262420,
+          "text": "今だけでもいい"
+        }
+      ]
+    }
+  ]
+}

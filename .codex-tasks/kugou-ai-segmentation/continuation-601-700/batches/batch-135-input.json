@@ -1,0 +1,1695 @@
+{
+  "batchNumber": 135,
+  "songs": [
+    {
+      "rank": 671,
+      "songKey": "online:kugou:67599afacaf826ddede6709b2436d749",
+      "name": "我好想你 (Live)",
+      "artist": "苏打绿",
+      "lines": [
+        {
+          "key": "262|苏打绿 - 我好想你 (Live)",
+          "startMs": 262,
+          "text": "苏打绿 - 我好想你 (Live)"
+        },
+        {
+          "key": "1021|作词：吴青峰",
+          "startMs": 1021,
+          "text": "作词：吴青峰"
+        },
+        {
+          "key": "1174|作曲：吴青峰",
+          "startMs": 1174,
+          "text": "作曲：吴青峰"
+        },
+        {
+          "key": "39174|开了灯 眼前的模样",
+          "startMs": 39174,
+          "text": "开了灯 眼前的模样"
+        },
+        {
+          "key": "43477|偌大的房 寂寞的床",
+          "startMs": 43477,
+          "text": "偌大的房 寂寞的床"
+        },
+        {
+          "key": "51721|关了灯 全都一个样",
+          "startMs": 51721,
+          "text": "关了灯 全都一个样"
+        },
+        {
+          "key": "56127|心里的伤 无法分享",
+          "startMs": 56127,
+          "text": "心里的伤 无法分享"
+        },
+        {
+          "key": "62505|生命 随年月流去",
+          "startMs": 62505,
+          "text": "生命 随年月流去"
+        },
+        {
+          "key": "66654|随白发老去",
+          "startMs": 66654,
+          "text": "随白发老去"
+        },
+        {
+          "key": "69889|随着你离去",
+          "startMs": 69889,
+          "text": "随着你离去"
+        },
+        {
+          "key": "72518|快乐渺无音讯",
+          "startMs": 72518,
+          "text": "快乐渺无音讯"
+        },
+        {
+          "key": "76523|随往事淡去",
+          "startMs": 76523,
+          "text": "随往事淡去"
+        },
+        {
+          "key": "79256|随梦境睡去",
+          "startMs": 79256,
+          "text": "随梦境睡去"
+        },
+        {
+          "key": "82443|随麻痹的心逐渐远去",
+          "startMs": 82443,
+          "text": "随麻痹的心逐渐远去"
+        },
+        {
+          "key": "87202|我好想你 好想你",
+          "startMs": 87202,
+          "text": "我好想你 好想你"
+        },
+        {
+          "key": "93536|却不露痕迹",
+          "startMs": 93536,
+          "text": "却不露痕迹"
+        },
+        {
+          "key": "100376|我还踮着脚思念",
+          "startMs": 100376,
+          "text": "我还踮着脚思念"
+        },
+        {
+          "key": "106557|我还任记忆盘旋",
+          "startMs": 106557,
+          "text": "我还任记忆盘旋"
+        },
+        {
+          "key": "112833|我还闭着眼流泪",
+          "startMs": 112833,
+          "text": "我还闭着眼流泪"
+        },
+        {
+          "key": "119202|我还装作无所谓",
+          "startMs": 119202,
+          "text": "我还装作无所谓"
+        },
+        {
+          "key": "125174|我好想你 好想你",
+          "startMs": 125174,
+          "text": "我好想你 好想你"
+        },
+        {
+          "key": "131749|却欺骗自己",
+          "startMs": 131749,
+          "text": "却欺骗自己"
+        },
+        {
+          "key": "165737|开了灯 眼前的模样",
+          "startMs": 165737,
+          "text": "开了灯 眼前的模样"
+        },
+        {
+          "key": "169733|偌大的房 寂寞的床",
+          "startMs": 169733,
+          "text": "偌大的房 寂寞的床"
+        },
+        {
+          "key": "178139|关了灯 全都一个样",
+          "startMs": 178139,
+          "text": "关了灯 全都一个样"
+        },
+        {
+          "key": "182441|心里的伤 无法分享",
+          "startMs": 182441,
+          "text": "心里的伤 无法分享"
+        },
+        {
+          "key": "188721|生命 随年月流去",
+          "startMs": 188721,
+          "text": "生命 随年月流去"
+        },
+        {
+          "key": "193019|随白发老去",
+          "startMs": 193019,
+          "text": "随白发老去"
+        },
+        {
+          "key": "196261|随着你离去",
+          "startMs": 196261,
+          "text": "随着你离去"
+        },
+        {
+          "key": "198799|快乐渺无音讯",
+          "startMs": 198799,
+          "text": "快乐渺无音讯"
+        },
+        {
+          "key": "202855|随往事淡去",
+          "startMs": 202855,
+          "text": "随往事淡去"
+        },
+        {
+          "key": "205642|随梦境睡去",
+          "startMs": 205642,
+          "text": "随梦境睡去"
+        },
+        {
+          "key": "208929|随麻痹的心逐渐远去",
+          "startMs": 208929,
+          "text": "随麻痹的心逐渐远去"
+        },
+        {
+          "key": "213538|我好想你 好想你",
+          "startMs": 213538,
+          "text": "我好想你 好想你"
+        },
+        {
+          "key": "220118|却不露痕迹",
+          "startMs": 220118,
+          "text": "却不露痕迹"
+        },
+        {
+          "key": "226595|我还踮着脚思念",
+          "startMs": 226595,
+          "text": "我还踮着脚思念"
+        },
+        {
+          "key": "232816|我还任记忆盘旋",
+          "startMs": 232816,
+          "text": "我还任记忆盘旋"
+        },
+        {
+          "key": "239142|我还闭着眼流泪",
+          "startMs": 239142,
+          "text": "我还闭着眼流泪"
+        },
+        {
+          "key": "245426|我还装作无所谓",
+          "startMs": 245426,
+          "text": "我还装作无所谓"
+        },
+        {
+          "key": "254579|我好想你 好想你",
+          "startMs": 254579,
+          "text": "我好想你 好想你"
+        },
+        {
+          "key": "261159|却欺骗自己",
+          "startMs": 261159,
+          "text": "却欺骗自己"
+        },
+        {
+          "key": "267333|我好想你 好想你",
+          "startMs": 267333,
+          "text": "我好想你 好想你"
+        },
+        {
+          "key": "273802|就当作秘密",
+          "startMs": 273802,
+          "text": "就当作秘密"
+        },
+        {
+          "key": "279828|我好想你",
+          "startMs": 279828,
+          "text": "我好想你"
+        },
+        {
+          "key": "283317|好想你",
+          "startMs": 283317,
+          "text": "好想你"
+        },
+        {
+          "key": "286454|就深藏在",
+          "startMs": 286454,
+          "text": "就深藏在"
+        },
+        {
+          "key": "289541|心",
+          "startMs": 289541,
+          "text": "心"
+        }
+      ]
+    },
+    {
+      "rank": 672,
+      "songKey": "online:kugou:013c8af8187bceb6d58a26275f9f50f5",
+      "name": "鲸语",
+      "artist": "刘至佳",
+      "lines": [
+        {
+          "key": "0|鲸语 - 刘至佳",
+          "startMs": 0,
+          "text": "鲸语 - 刘至佳"
+        },
+        {
+          "key": "2364|词 Lyricist：许星/阿楚",
+          "startMs": 2364,
+          "text": "词 Lyricist：许星/阿楚"
+        },
+        {
+          "key": "3601|曲 Composer：脱景麟",
+          "startMs": 3601,
+          "text": "曲 Composer：脱景麟"
+        },
+        {
+          "key": "4480|编曲 Arranger：李奕楠楠/你的美",
+          "startMs": 4480,
+          "text": "编曲 Arranger：李奕楠楠/你的美"
+        },
+        {
+          "key": "6392|制作人 Producer：颜小健@Jyken",
+          "startMs": 6392,
+          "text": "制作人 Producer：颜小健@Jyken"
+        },
+        {
+          "key": "7417|配唱制作人Vocalist Producer：赵贝尔",
+          "startMs": 7417,
+          "text": "配唱制作人Vocalist Producer：赵贝尔"
+        },
+        {
+          "key": "7738|和声编写 Backing Vocals Arrangement：赫拉",
+          "startMs": 7738,
+          "text": "和声编写 Backing Vocals Arrangement：赫拉"
+        },
+        {
+          "key": "8043|和声 Backing Vocals：赫拉",
+          "startMs": 8043,
+          "text": "和声 Backing Vocals：赫拉"
+        },
+        {
+          "key": "8230|混音师 Mixing Engineer：钟泽鑫/你的美",
+          "startMs": 8230,
+          "text": "混音师 Mixing Engineer：钟泽鑫/你的美"
+        },
+        {
+          "key": "8635|母带后期工程师 Mastering Engineer：钟泽鑫/颜小健",
+          "startMs": 8635,
+          "text": "母带后期工程师 Mastering Engineer：钟泽鑫/颜小健"
+        },
+        {
+          "key": "9166|混音母带后期录音室 Mastering Studio：1 Studio（ShanTou）",
+          "startMs": 9166,
+          "text": "混音母带后期录音室 Mastering Studio：1 Studio（ShanTou）"
+        },
+        {
+          "key": "9630|音乐制作 Production Studio：JTMusic Studio",
+          "startMs": 9630,
+          "text": "音乐制作 Production Studio：JTMusic Studio"
+        },
+        {
+          "key": "9885|制作统筹 A&R：你的美/左颂星",
+          "startMs": 9885,
+          "text": "制作统筹 A&R：你的美/左颂星"
+        },
+        {
+          "key": "10282|监制 Executive Producer：念安娜",
+          "startMs": 10282,
+          "text": "监制 Executive Producer：念安娜"
+        },
+        {
+          "key": "10517|封面设计 Cover Designer：Ayoyio",
+          "startMs": 10517,
+          "text": "封面设计 Cover Designer：Ayoyio"
+        },
+        {
+          "key": "10757|出品 Producer：J.T Music",
+          "startMs": 10757,
+          "text": "出品 Producer：J.T Music"
+        },
+        {
+          "key": "10911|推广 Propagandist：泽源屿/谢雄飞@J.T Music",
+          "startMs": 10911,
+          "text": "推广 Propagandist：泽源屿/谢雄飞@J.T Music"
+        },
+        {
+          "key": "11211|使用）",
+          "startMs": 11211,
+          "text": "使用）"
+        },
+        {
+          "key": "14736|我在远方湖岸",
+          "startMs": 14736,
+          "text": "我在远方湖岸"
+        },
+        {
+          "key": "17794|你心事一片深蓝",
+          "startMs": 17794,
+          "text": "你心事一片深蓝"
+        },
+        {
+          "key": "20423|沉溺中孤单",
+          "startMs": 20423,
+          "text": "沉溺中孤单"
+        },
+        {
+          "key": "26774|选择迷失黑暗",
+          "startMs": 26774,
+          "text": "选择迷失黑暗"
+        },
+        {
+          "key": "29766|我试图全力营救",
+          "startMs": 29766,
+          "text": "我试图全力营救"
+        },
+        {
+          "key": "32393|追溯你身边",
+          "startMs": 32393,
+          "text": "追溯你身边"
+        },
+        {
+          "key": "38312|我不想放开",
+          "startMs": 38312,
+          "text": "我不想放开"
+        },
+        {
+          "key": "39832|依然期待",
+          "startMs": 39832,
+          "text": "依然期待"
+        },
+        {
+          "key": "41448|想要你看开",
+          "startMs": 41448,
+          "text": "想要你看开"
+        },
+        {
+          "key": "42830|转身归来",
+          "startMs": 42830,
+          "text": "转身归来"
+        },
+        {
+          "key": "44442|要我怎么爱",
+          "startMs": 44442,
+          "text": "要我怎么爱"
+        },
+        {
+          "key": "45485|要我怎么拆",
+          "startMs": 45485,
+          "text": "要我怎么拆"
+        },
+        {
+          "key": "46597|你才解锁心怀",
+          "startMs": 46597,
+          "text": "你才解锁心怀"
+        },
+        {
+          "key": "50352|像鲸鱼受了伤黑夜里呼喊",
+          "startMs": 50352,
+          "text": "像鲸鱼受了伤黑夜里呼喊"
+        },
+        {
+          "key": "53463|坠落深渊",
+          "startMs": 53463,
+          "text": "坠落深渊"
+        },
+        {
+          "key": "54470|滑入这诀别苦海",
+          "startMs": 54470,
+          "text": "滑入这诀别苦海"
+        },
+        {
+          "key": "56580|我承认是我贪婪",
+          "startMs": 56580,
+          "text": "我承认是我贪婪"
+        },
+        {
+          "key": "58053|不甘心得到一半",
+          "startMs": 58053,
+          "text": "不甘心得到一半"
+        },
+        {
+          "key": "59513|尽管",
+          "startMs": 59513,
+          "text": "尽管"
+        },
+        {
+          "key": "60522|这太难",
+          "startMs": 60522,
+          "text": "这太难"
+        },
+        {
+          "key": "62405|像极地浓得化不开的冰川",
+          "startMs": 62405,
+          "text": "像极地浓得化不开的冰川"
+        },
+        {
+          "key": "65393|独卧严寒即使借给你温暖",
+          "startMs": 65393,
+          "text": "独卧严寒即使借给你温暖"
+        },
+        {
+          "key": "68540|就算是无谓勇敢",
+          "startMs": 68540,
+          "text": "就算是无谓勇敢"
+        },
+        {
+          "key": "70000|也想要拉你回转",
+          "startMs": 70000,
+          "text": "也想要拉你回转"
+        },
+        {
+          "key": "71464|不愿你走远",
+          "startMs": 71464,
+          "text": "不愿你走远"
+        },
+        {
+          "key": "86750|我在远方湖岸",
+          "startMs": 86750,
+          "text": "我在远方湖岸"
+        },
+        {
+          "key": "89833|你心事一片深蓝",
+          "startMs": 89833,
+          "text": "你心事一片深蓝"
+        },
+        {
+          "key": "92510|沉溺中孤单",
+          "startMs": 92510,
+          "text": "沉溺中孤单"
+        },
+        {
+          "key": "98790|选择迷失黑暗",
+          "startMs": 98790,
+          "text": "选择迷失黑暗"
+        },
+        {
+          "key": "101775|我试图全力营救",
+          "startMs": 101775,
+          "text": "我试图全力营救"
+        },
+        {
+          "key": "104498|追溯你身边",
+          "startMs": 104498,
+          "text": "追溯你身边"
+        },
+        {
+          "key": "110415|我不想放开",
+          "startMs": 110415,
+          "text": "我不想放开"
+        },
+        {
+          "key": "111891|依然期待",
+          "startMs": 111891,
+          "text": "依然期待"
+        },
+        {
+          "key": "113401|想要你看开",
+          "startMs": 113401,
+          "text": "想要你看开"
+        },
+        {
+          "key": "114841|转身归来",
+          "startMs": 114841,
+          "text": "转身归来"
+        },
+        {
+          "key": "116471|要我怎么爱",
+          "startMs": 116471,
+          "text": "要我怎么爱"
+        },
+        {
+          "key": "117495|要我怎么拆",
+          "startMs": 117495,
+          "text": "要我怎么拆"
+        },
+        {
+          "key": "118709|你才解锁心怀",
+          "startMs": 118709,
+          "text": "你才解锁心怀"
+        },
+        {
+          "key": "122409|像鲸鱼受了伤黑夜里呼喊",
+          "startMs": 122409,
+          "text": "像鲸鱼受了伤黑夜里呼喊"
+        },
+        {
+          "key": "125306|坠落深渊",
+          "startMs": 125306,
+          "text": "坠落深渊"
+        },
+        {
+          "key": "126456|滑入这诀别苦海",
+          "startMs": 126456,
+          "text": "滑入这诀别苦海"
+        },
+        {
+          "key": "128456|我承认是我贪婪",
+          "startMs": 128456,
+          "text": "我承认是我贪婪"
+        },
+        {
+          "key": "130015|不甘心得到一半",
+          "startMs": 130015,
+          "text": "不甘心得到一半"
+        },
+        {
+          "key": "131397|尽管",
+          "startMs": 131397,
+          "text": "尽管"
+        },
+        {
+          "key": "132635|这太难",
+          "startMs": 132635,
+          "text": "这太难"
+        },
+        {
+          "key": "134416|像极地浓得化不开的冰川",
+          "startMs": 134416,
+          "text": "像极地浓得化不开的冰川"
+        },
+        {
+          "key": "137360|独卧严寒即使借给你温暖",
+          "startMs": 137360,
+          "text": "独卧严寒即使借给你温暖"
+        },
+        {
+          "key": "140668|就算是无谓勇敢",
+          "startMs": 140668,
+          "text": "就算是无谓勇敢"
+        },
+        {
+          "key": "141991|也想要拉你回转",
+          "startMs": 141991,
+          "text": "也想要拉你回转"
+        },
+        {
+          "key": "143415|不愿你走远",
+          "startMs": 143415,
+          "text": "不愿你走远"
+        },
+        {
+          "key": "149454|我不想放开",
+          "startMs": 149454,
+          "text": "我不想放开"
+        },
+        {
+          "key": "152431|想要你看开",
+          "startMs": 152431,
+          "text": "想要你看开"
+        },
+        {
+          "key": "155230|要我怎么爱",
+          "startMs": 155230,
+          "text": "要我怎么爱"
+        },
+        {
+          "key": "156417|要我怎么拆",
+          "startMs": 156417,
+          "text": "要我怎么拆"
+        },
+        {
+          "key": "157655|你才解锁心怀",
+          "startMs": 157655,
+          "text": "你才解锁心怀"
+        },
+        {
+          "key": "161394|像鲸鱼受了伤黑夜里呼喊",
+          "startMs": 161394,
+          "text": "像鲸鱼受了伤黑夜里呼喊"
+        },
+        {
+          "key": "164355|坠落深渊",
+          "startMs": 164355,
+          "text": "坠落深渊"
+        },
+        {
+          "key": "165553|滑入这诀别苦海",
+          "startMs": 165553,
+          "text": "滑入这诀别苦海"
+        },
+        {
+          "key": "167535|我承认是我贪婪",
+          "startMs": 167535,
+          "text": "我承认是我贪婪"
+        },
+        {
+          "key": "168998|不甘心得到一半",
+          "startMs": 168998,
+          "text": "不甘心得到一半"
+        },
+        {
+          "key": "170401|尽管",
+          "startMs": 170401,
+          "text": "尽管"
+        },
+        {
+          "key": "171543|这太难",
+          "startMs": 171543,
+          "text": "这太难"
+        },
+        {
+          "key": "173423|像极地浓得化不开的冰川",
+          "startMs": 173423,
+          "text": "像极地浓得化不开的冰川"
+        },
+        {
+          "key": "176366|独卧严寒即使借给你温暖",
+          "startMs": 176366,
+          "text": "独卧严寒即使借给你温暖"
+        },
+        {
+          "key": "179554|就算是无谓勇敢",
+          "startMs": 179554,
+          "text": "就算是无谓勇敢"
+        },
+        {
+          "key": "181026|也想要拉你回转",
+          "startMs": 181026,
+          "text": "也想要拉你回转"
+        },
+        {
+          "key": "182363|不愿你走远",
+          "startMs": 182363,
+          "text": "不愿你走远"
+        }
+      ]
+    },
+    {
+      "rank": 673,
+      "songKey": "online:kugou:e4bd4a83e33d33c8e0c7c901a79c7ab8",
+      "name": "Normal No More (Explicit)",
+      "artist": "TYSM",
+      "lines": [
+        {
+          "key": "146|Tysm - Normal No More (Explicit)",
+          "startMs": 146,
+          "text": "Tysm - Normal No More (Explicit)"
+        },
+        {
+          "key": "9485|I don't wanna be normal no more",
+          "startMs": 9485,
+          "text": "I don't wanna be normal no more"
+        },
+        {
+          "key": "11508|I don't wanna take d**gs at the club",
+          "startMs": 11508,
+          "text": "I don't wanna take d**gs at the club"
+        },
+        {
+          "key": "14189|I don't wanna pretend I'm in love",
+          "startMs": 14189,
+          "text": "I don't wanna pretend I'm in love"
+        },
+        {
+          "key": "16871|Don't wanna put out just for fun",
+          "startMs": 16871,
+          "text": "Don't wanna put out just for fun"
+        },
+        {
+          "key": "19349|I don't wanna be normal no more",
+          "startMs": 19349,
+          "text": "I don't wanna be normal no more"
+        },
+        {
+          "key": "21625|I don't wanna take d**gs at the club",
+          "startMs": 21625,
+          "text": "I don't wanna take d**gs at the club"
+        },
+        {
+          "key": "24259|I don't wanna pretend I'm in love",
+          "startMs": 24259,
+          "text": "I don't wanna pretend I'm in love"
+        },
+        {
+          "key": "26938|Don't wanna put out just for fun",
+          "startMs": 26938,
+          "text": "Don't wanna put out just for fun"
+        },
+        {
+          "key": "32950|Faded",
+          "startMs": 32950,
+          "text": "Faded"
+        },
+        {
+          "key": "43095|Faded",
+          "startMs": 43095,
+          "text": "Faded"
+        },
+        {
+          "key": "50675|Sober when I'm faded",
+          "startMs": 50675,
+          "text": "Sober when I'm faded"
+        },
+        {
+          "key": "53063|Permanent vacation",
+          "startMs": 53063,
+          "text": "Permanent vacation"
+        },
+        {
+          "key": "55545|Don't care if I'm jaded",
+          "startMs": 55545,
+          "text": "Don't care if I'm jaded"
+        },
+        {
+          "key": "58073|Done with all this faking",
+          "startMs": 58073,
+          "text": "Done with all this faking"
+        },
+        {
+          "key": "60751|I don't wanna have to try no",
+          "startMs": 60751,
+          "text": "I don't wanna have to try no"
+        },
+        {
+          "key": "63130|I could walk a perfect line no",
+          "startMs": 63130,
+          "text": "I could walk a perfect line no"
+        },
+        {
+          "key": "65605|I don't want no alibi no",
+          "startMs": 65605,
+          "text": "I don't want no alibi no"
+        },
+        {
+          "key": "68351|Don't lose any sleep at night no",
+          "startMs": 68351,
+          "text": "Don't lose any sleep at night no"
+        },
+        {
+          "key": "70164|I don't wanna be normal no more",
+          "startMs": 70164,
+          "text": "I don't wanna be normal no more"
+        },
+        {
+          "key": "72198|I don't wanna take d**gs at the club",
+          "startMs": 72198,
+          "text": "I don't wanna take d**gs at the club"
+        },
+        {
+          "key": "74827|I don't wanna pretend I'm in love",
+          "startMs": 74827,
+          "text": "I don't wanna pretend I'm in love"
+        },
+        {
+          "key": "77354|Don't wanna put out just for fun",
+          "startMs": 77354,
+          "text": "Don't wanna put out just for fun"
+        },
+        {
+          "key": "79884|I don't wanna be normal no more",
+          "startMs": 79884,
+          "text": "I don't wanna be normal no more"
+        },
+        {
+          "key": "82215|I don't wanna take d**gs at the club",
+          "startMs": 82215,
+          "text": "I don't wanna take d**gs at the club"
+        },
+        {
+          "key": "84941|I don't wanna pretend I'm in love",
+          "startMs": 84941,
+          "text": "I don't wanna pretend I'm in love"
+        },
+        {
+          "key": "87574|Don't wanna put out just for fun",
+          "startMs": 87574,
+          "text": "Don't wanna put out just for fun"
+        },
+        {
+          "key": "93540|Faded",
+          "startMs": 93540,
+          "text": "Faded"
+        },
+        {
+          "key": "103589|Faded",
+          "startMs": 103589,
+          "text": "Faded"
+        },
+        {
+          "key": "111295|Drinking from the bottle but it's just Pellegrino",
+          "startMs": 111295,
+          "text": "Drinking from the bottle but it's just Pellegrino"
+        },
+        {
+          "key": "116359|Getting f**ked up got real boring so it's Grino for placebo",
+          "startMs": 116359,
+          "text": "Getting f**ked up got real boring so it's Grino for placebo"
+        },
+        {
+          "key": "121220|I don't wanna have to try no",
+          "startMs": 121220,
+          "text": "I don't wanna have to try no"
+        },
+        {
+          "key": "123802|I could walk a perfect line no",
+          "startMs": 123802,
+          "text": "I could walk a perfect line no"
+        },
+        {
+          "key": "126332|I don't want no alibi no",
+          "startMs": 126332,
+          "text": "I don't want no alibi no"
+        },
+        {
+          "key": "128882|Don't lose any sleep at night no",
+          "startMs": 128882,
+          "text": "Don't lose any sleep at night no"
+        },
+        {
+          "key": "130794|I don't wanna be normal no more",
+          "startMs": 130794,
+          "text": "I don't wanna be normal no more"
+        },
+        {
+          "key": "132800|I don't wanna take d**gs at the club",
+          "startMs": 132800,
+          "text": "I don't wanna take d**gs at the club"
+        },
+        {
+          "key": "135384|I don't wanna pretend I'm in love",
+          "startMs": 135384,
+          "text": "I don't wanna pretend I'm in love"
+        },
+        {
+          "key": "137916|Don't wanna put out just for fun",
+          "startMs": 137916,
+          "text": "Don't wanna put out just for fun"
+        },
+        {
+          "key": "140548|I don't wanna be normal no more",
+          "startMs": 140548,
+          "text": "I don't wanna be normal no more"
+        },
+        {
+          "key": "142876|I don't wanna take d**gs at the club",
+          "startMs": 142876,
+          "text": "I don't wanna take d**gs at the club"
+        },
+        {
+          "key": "145560|I don't wanna pretend I'm in love",
+          "startMs": 145560,
+          "text": "I don't wanna pretend I'm in love"
+        },
+        {
+          "key": "148042|Don't wanna put out just for fun",
+          "startMs": 148042,
+          "text": "Don't wanna put out just for fun"
+        },
+        {
+          "key": "154633|Faded",
+          "startMs": 154633,
+          "text": "Faded"
+        },
+        {
+          "key": "161147|I don't wanna be normal no more",
+          "startMs": 161147,
+          "text": "I don't wanna be normal no more"
+        },
+        {
+          "key": "164394|Faded",
+          "startMs": 164394,
+          "text": "Faded"
+        },
+        {
+          "key": "166211|I don't wanna be normal no more",
+          "startMs": 166211,
+          "text": "I don't wanna be normal no more"
+        },
+        {
+          "key": "171178|I don't wanna be normal no more",
+          "startMs": 171178,
+          "text": "I don't wanna be normal no more"
+        },
+        {
+          "key": "174408|Faded",
+          "startMs": 174408,
+          "text": "Faded"
+        },
+        {
+          "key": "186119|I don't wanna be normal no more",
+          "startMs": 186119,
+          "text": "I don't wanna be normal no more"
+        }
+      ]
+    },
+    {
+      "rank": 674,
+      "songKey": "online:kugou:acf149369dfb0db5c36de8a4268c00e8",
+      "name": "Why Would I Ever",
+      "artist": "Paula DeAnda",
+      "lines": [
+        {
+          "key": "384|Paula DeAnda - Why Would I Ever",
+          "startMs": 384,
+          "text": "Paula DeAnda - Why Would I Ever"
+        },
+        {
+          "key": "7234|Why would I ever",
+          "startMs": 7234,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "8298|Why would I ever",
+          "startMs": 8298,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "9464|Why would I ever think of leaving you",
+          "startMs": 9464,
+          "text": "Why would I ever think of leaving you"
+        },
+        {
+          "key": "13664|Why would I ever",
+          "startMs": 13664,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "14881|Why would I ever",
+          "startMs": 14881,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "16158|Why would I ever think of leaving you",
+          "startMs": 16158,
+          "text": "Why would I ever think of leaving you"
+        },
+        {
+          "key": "20366|Wait a minute baby tell me what's up lately",
+          "startMs": 20366,
+          "text": "Wait a minute baby tell me what's up lately"
+        },
+        {
+          "key": "23464|I've been knowing you too long",
+          "startMs": 23464,
+          "text": "I've been knowing you too long"
+        },
+        {
+          "key": "26815|Why you hiding something",
+          "startMs": 26815,
+          "text": "Why you hiding something"
+        },
+        {
+          "key": "28531|Thought we was through with fronting",
+          "startMs": 28531,
+          "text": "Thought we was through with fronting"
+        },
+        {
+          "key": "30104|I can tell there's something wrong I can tell",
+          "startMs": 30104,
+          "text": "I can tell there's something wrong I can tell"
+        },
+        {
+          "key": "33500|How could you even think that",
+          "startMs": 33500,
+          "text": "How could you even think that"
+        },
+        {
+          "key": "35145|I wouldn't have your back",
+          "startMs": 35145,
+          "text": "I wouldn't have your back"
+        },
+        {
+          "key": "36817|It's me and you against the world",
+          "startMs": 36817,
+          "text": "It's me and you against the world"
+        },
+        {
+          "key": "40054|No matter what we go through",
+          "startMs": 40054,
+          "text": "No matter what we go through"
+        },
+        {
+          "key": "41879|I'ma always roll with you",
+          "startMs": 41879,
+          "text": "I'ma always roll with you"
+        },
+        {
+          "key": "43554|I promise I'll be your girl",
+          "startMs": 43554,
+          "text": "I promise I'll be your girl"
+        },
+        {
+          "key": "47047|Why would I ever",
+          "startMs": 47047,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "48265|Why would I ever",
+          "startMs": 48265,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "49532|Why would I ever think of leaving you",
+          "startMs": 49532,
+          "text": "Why would I ever think of leaving you"
+        },
+        {
+          "key": "53642|Why would I ever",
+          "startMs": 53642,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "54913|Baby I'll never",
+          "startMs": 54913,
+          "text": "Baby I'll never"
+        },
+        {
+          "key": "56181|Cos I just wanna know how to get through",
+          "startMs": 56181,
+          "text": "Cos I just wanna know how to get through"
+        },
+        {
+          "key": "59671|Cos you put together every piece of me",
+          "startMs": 59671,
+          "text": "Cos you put together every piece of me"
+        },
+        {
+          "key": "62744|Baby you you know exactly what I need to be",
+          "startMs": 62744,
+          "text": "Baby you you know exactly what I need to be"
+        },
+        {
+          "key": "66091|So tell me",
+          "startMs": 66091,
+          "text": "So tell me"
+        },
+        {
+          "key": "67060|Why would I ever",
+          "startMs": 67060,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "68278|Why would I ever",
+          "startMs": 68278,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "69543|Why would I ever think of leaving you",
+          "startMs": 69543,
+          "text": "Why would I ever think of leaving you"
+        },
+        {
+          "key": "73758|Wait a minute hold up",
+          "startMs": 73758,
+          "text": "Wait a minute hold up"
+        },
+        {
+          "key": "75169|They said when you rolled up",
+          "startMs": 75169,
+          "text": "They said when you rolled up"
+        },
+        {
+          "key": "76790|You was yelling off the chain",
+          "startMs": 76790,
+          "text": "You was yelling off the chain"
+        },
+        {
+          "key": "80136|You're mad when I can't make time",
+          "startMs": 80136,
+          "text": "You're mad when I can't make time"
+        },
+        {
+          "key": "81806|Should of known that I'm on my grind",
+          "startMs": 81806,
+          "text": "Should of known that I'm on my grind"
+        },
+        {
+          "key": "83481|Baby know it's all on your brain",
+          "startMs": 83481,
+          "text": "Baby know it's all on your brain"
+        },
+        {
+          "key": "86749|Now we've been through some problems",
+          "startMs": 86749,
+          "text": "Now we've been through some problems"
+        },
+        {
+          "key": "88465|Trust me we can solve them",
+          "startMs": 88465,
+          "text": "Trust me we can solve them"
+        },
+        {
+          "key": "90139|We got too much in it to lose so much in it",
+          "startMs": 90139,
+          "text": "We got too much in it to lose so much in it"
+        },
+        {
+          "key": "93433|You've always been my best friend",
+          "startMs": 93433,
+          "text": "You've always been my best friend"
+        },
+        {
+          "key": "95059|Stop placing your bets when",
+          "startMs": 95059,
+          "text": "Stop placing your bets when"
+        },
+        {
+          "key": "96858|Baby I'm not leaving you I'm not leaving you",
+          "startMs": 96858,
+          "text": "Baby I'm not leaving you I'm not leaving you"
+        },
+        {
+          "key": "100462|Why would I ever",
+          "startMs": 100462,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "101626|Why would I ever",
+          "startMs": 101626,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "102789|Why would I ever think of leaving you",
+          "startMs": 102789,
+          "text": "Why would I ever think of leaving you"
+        },
+        {
+          "key": "106997|Why would I ever",
+          "startMs": 106997,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "108215|Baby I'll never",
+          "startMs": 108215,
+          "text": "Baby I'll never"
+        },
+        {
+          "key": "109432|Cos I just wanna know how to get through",
+          "startMs": 109432,
+          "text": "Cos I just wanna know how to get through"
+        },
+        {
+          "key": "112959|Cos you put together every piece of me",
+          "startMs": 112959,
+          "text": "Cos you put together every piece of me"
+        },
+        {
+          "key": "116218|Baby you you know exactly what I need to be",
+          "startMs": 116218,
+          "text": "Baby you you know exactly what I need to be"
+        },
+        {
+          "key": "119555|So tell me",
+          "startMs": 119555,
+          "text": "So tell me"
+        },
+        {
+          "key": "120369|Why would I ever",
+          "startMs": 120369,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "121534|Why would I ever",
+          "startMs": 121534,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "122798|Why would I ever think of leaving you",
+          "startMs": 122798,
+          "text": "Why would I ever think of leaving you"
+        },
+        {
+          "key": "126544|Tell me why did you ever question",
+          "startMs": 126544,
+          "text": "Tell me why did you ever question"
+        },
+        {
+          "key": "133065|Between us we got that",
+          "startMs": 133065,
+          "text": "Between us we got that"
+        },
+        {
+          "key": "134786|Have you seen us we got that",
+          "startMs": 134786,
+          "text": "Have you seen us we got that"
+        },
+        {
+          "key": "137221|We got that love",
+          "startMs": 137221,
+          "text": "We got that love"
+        },
+        {
+          "key": "147100|Why would I ever",
+          "startMs": 147100,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "148265|Why would I ever",
+          "startMs": 148265,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "149429|Why would I ever think of leaving you",
+          "startMs": 149429,
+          "text": "Why would I ever think of leaving you"
+        },
+        {
+          "key": "153645|Why would I ever",
+          "startMs": 153645,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "154910|Baby I'll never",
+          "startMs": 154910,
+          "text": "Baby I'll never"
+        },
+        {
+          "key": "156123|Cos I just wanna know how to get through",
+          "startMs": 156123,
+          "text": "Cos I just wanna know how to get through"
+        },
+        {
+          "key": "159893|Cos you put together every piece of me",
+          "startMs": 159893,
+          "text": "Cos you put together every piece of me"
+        },
+        {
+          "key": "162979|Baby you you know exactly what I need to be",
+          "startMs": 162979,
+          "text": "Baby you you know exactly what I need to be"
+        },
+        {
+          "key": "166155|So tell me",
+          "startMs": 166155,
+          "text": "So tell me"
+        },
+        {
+          "key": "167017|Why would I ever",
+          "startMs": 167017,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "168181|Why would I ever",
+          "startMs": 168181,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "169397|Why would I ever think of leaving you",
+          "startMs": 169397,
+          "text": "Why would I ever think of leaving you"
+        },
+        {
+          "key": "173502|I'm not leaving you no I'm not leaving you",
+          "startMs": 173502,
+          "text": "I'm not leaving you no I'm not leaving you"
+        },
+        {
+          "key": "176696|I won't leave you in the cold in the cold",
+          "startMs": 176696,
+          "text": "I won't leave you in the cold in the cold"
+        },
+        {
+          "key": "180046|I'm not leaving you I'm not leaving you",
+          "startMs": 180046,
+          "text": "I'm not leaving you I'm not leaving you"
+        },
+        {
+          "key": "183451|Baby I know I love you",
+          "startMs": 183451,
+          "text": "Baby I know I love you"
+        },
+        {
+          "key": "187047|Why would I ever",
+          "startMs": 187047,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "188210|Why would I ever",
+          "startMs": 188210,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "189524|Why would I ever think of leaving you",
+          "startMs": 189524,
+          "text": "Why would I ever think of leaving you"
+        },
+        {
+          "key": "193673|Why would I ever",
+          "startMs": 193673,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "194938|Why would I ever",
+          "startMs": 194938,
+          "text": "Why would I ever"
+        },
+        {
+          "key": "196152|Why would I ever think of leaving you",
+          "startMs": 196152,
+          "text": "Why would I ever think of leaving you"
+        }
+      ]
+    },
+    {
+      "rank": 675,
+      "songKey": "online:kugou:ed75227c13e71a49cb885007385d08c2",
+      "name": "哪里都是你",
+      "artist": "队长",
+      "lines": [
+        {
+          "key": "364|队长 - 哪里都是你",
+          "startMs": 364,
+          "text": "队长 - 哪里都是你"
+        },
+        {
+          "key": "1677|作词：队长",
+          "startMs": 1677,
+          "text": "作词：队长"
+        },
+        {
+          "key": "2334|作曲：队长",
+          "startMs": 2334,
+          "text": "作曲：队长"
+        },
+        {
+          "key": "2990|伴奏：Dear Cloud",
+          "startMs": 2990,
+          "text": "伴奏：Dear Cloud"
+        },
+        {
+          "key": "15143|从不在意别人口中的自己",
+          "startMs": 15143,
+          "text": "从不在意别人口中的自己"
+        },
+        {
+          "key": "21517|她说过了一个",
+          "startMs": 21517,
+          "text": "她说过了一个"
+        },
+        {
+          "key": "22937|想听花言巧语的年纪",
+          "startMs": 22937,
+          "text": "想听花言巧语的年纪"
+        },
+        {
+          "key": "29777|你选择了他们口中",
+          "startMs": 29777,
+          "text": "你选择了他们口中"
+        },
+        {
+          "key": "31847|所谓的放弃",
+          "startMs": 31847,
+          "text": "所谓的放弃"
+        },
+        {
+          "key": "35149|却才发现早就丢掉了自己",
+          "startMs": 35149,
+          "text": "却才发现早就丢掉了自己"
+        },
+        {
+          "key": "44363|特别是一个人的夜里",
+          "startMs": 44363,
+          "text": "特别是一个人的夜里"
+        },
+        {
+          "key": "48100|没人能够控制住自己",
+          "startMs": 48100,
+          "text": "没人能够控制住自己"
+        },
+        {
+          "key": "51081|让全部回忆藏在心底",
+          "startMs": 51081,
+          "text": "让全部回忆藏在心底"
+        },
+        {
+          "key": "55508|泛起涟漪",
+          "startMs": 55508,
+          "text": "泛起涟漪"
+        },
+        {
+          "key": "59196|你想要的是现在",
+          "startMs": 59196,
+          "text": "你想要的是现在"
+        },
+        {
+          "key": "62832|而不是那遥远的未来",
+          "startMs": 62832,
+          "text": "而不是那遥远的未来"
+        },
+        {
+          "key": "66520|选择的困惑",
+          "startMs": 66520,
+          "text": "选择的困惑"
+        },
+        {
+          "key": "72691|再没人能懂你",
+          "startMs": 72691,
+          "text": "再没人能懂你"
+        },
+        {
+          "key": "74711|生气的原因和哭泣的无力",
+          "startMs": 74711,
+          "text": "生气的原因和哭泣的无力"
+        },
+        {
+          "key": "79912|最遥远的距离",
+          "startMs": 79912,
+          "text": "最遥远的距离"
+        },
+        {
+          "key": "87811|忘了吧忘了吧忘了吧",
+          "startMs": 87811,
+          "text": "忘了吧忘了吧忘了吧"
+        },
+        {
+          "key": "89277|忘了你的所有",
+          "startMs": 89277,
+          "text": "忘了你的所有"
+        },
+        {
+          "key": "91452|不过只是找了",
+          "startMs": 91452,
+          "text": "不过只是找了"
+        },
+        {
+          "key": "92565|一堆美丽的理由",
+          "startMs": 92565,
+          "text": "一堆美丽的理由"
+        },
+        {
+          "key": "95541|把你的痕迹都统统掩埋",
+          "startMs": 95541,
+          "text": "把你的痕迹都统统掩埋"
+        },
+        {
+          "key": "98325|你走过的地方",
+          "startMs": 98325,
+          "text": "你走过的地方"
+        },
+        {
+          "key": "99436|只剩下思念难捱",
+          "startMs": 99436,
+          "text": "只剩下思念难捱"
+        },
+        {
+          "key": "102010|把你藏在心头",
+          "startMs": 102010,
+          "text": "把你藏在心头"
+        },
+        {
+          "key": "105444|每天每夜想你",
+          "startMs": 105444,
+          "text": "每天每夜想你"
+        },
+        {
+          "key": "109186|害怕你的眼泪",
+          "startMs": 109186,
+          "text": "害怕你的眼泪"
+        },
+        {
+          "key": "112825|没人为你抹去",
+          "startMs": 112825,
+          "text": "没人为你抹去"
+        },
+        {
+          "key": "116211|不能想象没有了你的未来",
+          "startMs": 116211,
+          "text": "不能想象没有了你的未来"
+        },
+        {
+          "key": "120102|你身边那位",
+          "startMs": 120102,
+          "text": "你身边那位"
+        },
+        {
+          "key": "121929|能让你过得比我更精彩",
+          "startMs": 121929,
+          "text": "能让你过得比我更精彩"
+        },
+        {
+          "key": "129084|I want you back",
+          "startMs": 129084,
+          "text": "I want you back"
+        },
+        {
+          "key": "131157|我忘掉你的所有风里雨里",
+          "startMs": 131157,
+          "text": "我忘掉你的所有风里雨里"
+        },
+        {
+          "key": "133959|一直大步往前走",
+          "startMs": 133959,
+          "text": "一直大步往前走"
+        },
+        {
+          "key": "138353|我又怎么能够忘掉你的温柔",
+          "startMs": 138353,
+          "text": "我又怎么能够忘掉你的温柔"
+        },
+        {
+          "key": "145295|换不同的场景",
+          "startMs": 145295,
+          "text": "换不同的场景"
+        },
+        {
+          "key": "148997|但哪里都是你",
+          "startMs": 148997,
+          "text": "但哪里都是你"
+        },
+        {
+          "key": "152760|要怎么能忘记忘记你",
+          "startMs": 152760,
+          "text": "要怎么能忘记忘记你"
+        },
+        {
+          "key": "157022|所有人都知道",
+          "startMs": 157022,
+          "text": "所有人都知道"
+        },
+        {
+          "key": "158740|I can't let you go",
+          "startMs": 158740,
+          "text": "I can't let you go"
+        },
+        {
+          "key": "160610|每个人都知道",
+          "startMs": 160610,
+          "text": "每个人都知道"
+        },
+        {
+          "key": "162329|I can't let you go",
+          "startMs": 162329,
+          "text": "I can't let you go"
+        },
+        {
+          "key": "164203|你为什么还不知道",
+          "startMs": 164203,
+          "text": "你为什么还不知道"
+        },
+        {
+          "key": "166378|I can't let you go",
+          "startMs": 166378,
+          "text": "I can't let you go"
+        },
+        {
+          "key": "167997|Baby baby I can't let you go",
+          "startMs": 167997,
+          "text": "Baby baby I can't let you go"
+        },
+        {
+          "key": "171636|在你的心里我是怎样一个人",
+          "startMs": 171636,
+          "text": "在你的心里我是怎样一个人"
+        },
+        {
+          "key": "175225|把话都袒露让你知道我心声",
+          "startMs": 175225,
+          "text": "把话都袒露让你知道我心声"
+        },
+        {
+          "key": "178818|You know you know",
+          "startMs": 178818,
+          "text": "You know you know"
+        },
+        {
+          "key": "180231|You know you know",
+          "startMs": 180231,
+          "text": "You know you know"
+        },
+        {
+          "key": "183013|感谢你陪我走过这一程",
+          "startMs": 183013,
+          "text": "感谢你陪我走过这一程"
+        },
+        {
+          "key": "190157|哪里都是",
+          "startMs": 190157,
+          "text": "哪里都是"
+        },
+        {
+          "key": "192381|You know you know",
+          "startMs": 192381,
+          "text": "You know you know"
+        },
+        {
+          "key": "193290|You know you know",
+          "startMs": 193290,
+          "text": "You know you know"
+        },
+        {
+          "key": "194604|You know",
+          "startMs": 194604,
+          "text": "You know"
+        },
+        {
+          "key": "195514|感谢你陪我走过这一程",
+          "startMs": 195514,
+          "text": "感谢你陪我走过这一程"
+        },
+        {
+          "key": "198946|You know you know",
+          "startMs": 198946,
+          "text": "You know you know"
+        },
+        {
+          "key": "200109|You know you know",
+          "startMs": 200109,
+          "text": "You know you know"
+        },
+        {
+          "key": "201475|You know",
+          "startMs": 201475,
+          "text": "You know"
+        },
+        {
+          "key": "202713|每天多爱自己一点",
+          "startMs": 202713,
+          "text": "每天多爱自己一点"
+        },
+        {
+          "key": "204684|把恨我当成动力",
+          "startMs": 204684,
+          "text": "把恨我当成动力"
+        },
+        {
+          "key": "206504|别那么那么晚睡",
+          "startMs": 206504,
+          "text": "别那么那么晚睡"
+        },
+        {
+          "key": "209187|别那么晚睡",
+          "startMs": 209187,
+          "text": "别那么晚睡"
+        },
+        {
+          "key": "210402|我想你过的好",
+          "startMs": 210402,
+          "text": "我想你过的好"
+        },
+        {
+          "key": "211867|是唯一对你放不下的",
+          "startMs": 211867,
+          "text": "是唯一对你放不下的"
+        },
+        {
+          "key": "214496|习惯吧",
+          "startMs": 214496,
+          "text": "习惯吧"
+        }
+      ]
+    }
+  ]
+}

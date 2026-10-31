@@ -1,0 +1,757 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:528d5f57ec83f18ae7343f89d059a56c",
+      "lines": [
+        {
+          "key": "0|戴爱玲、刘伟德 - Gentleman",
+          "text": "戴爱玲、刘伟德 - Gentleman",
+          "segments": [
+            "戴爱玲",
+            "、",
+            "刘伟德",
+            " - ",
+            "Gentleman"
+          ]
+        },
+        {
+          "key": "4530|Written by：刘伟德/Willz Chieng/Ian Nsenga",
+          "text": "Written by：刘伟德/Willz Chieng/Ian Nsenga",
+          "segments": [
+            "Written by：",
+            "刘伟德",
+            "/",
+            "Willz Chieng",
+            "/",
+            "Ian Nsenga"
+          ]
+        },
+        {
+          "key": "9079|I'm a gentleman",
+          "text": "I'm a gentleman",
+          "segments": [
+            "I'm ",
+            "a ",
+            "gentleman"
+          ]
+        },
+        {
+          "key": "12119|You need a gentleman",
+          "text": "You need a gentleman",
+          "segments": [
+            "You ",
+            "need ",
+            "a ",
+            "gentleman"
+          ]
+        },
+        {
+          "key": "15229|I wanna be the one you always can rely on",
+          "text": "I wanna be the one you always can rely on",
+          "segments": [
+            "I ",
+            "wanna ",
+            "be ",
+            "the ",
+            "one ",
+            "you ",
+            "always ",
+            "can ",
+            "rely ",
+            "on"
+          ]
+        },
+        {
+          "key": "18579|Be the one to hold you through the night storm",
+          "text": "Be the one to hold you through the night storm",
+          "segments": [
+            "Be ",
+            "the ",
+            "one ",
+            "to ",
+            "hold ",
+            "you ",
+            "through ",
+            "the ",
+            "night ",
+            "storm"
+          ]
+        },
+        {
+          "key": "20938|Be the gentleman that you need no matter how long",
+          "text": "Be the gentleman that you need no matter how long",
+          "segments": [
+            "Be ",
+            "the ",
+            "gentleman ",
+            "that ",
+            "you ",
+            "need ",
+            "no ",
+            "matter ",
+            "how ",
+            "long"
+          ]
+        },
+        {
+          "key": "24876|I'm a fight until free find our freedom from defeat",
+          "text": "I'm a fight until free find our freedom from defeat",
+          "segments": [
+            "I'm ",
+            "a ",
+            "fight ",
+            "until ",
+            "free ",
+            "find ",
+            "our ",
+            "freedom ",
+            "from ",
+            "defeat"
+          ]
+        },
+        {
+          "key": "27822|I wanna honor who you are not tryna' play on",
+          "text": "I wanna honor who you are not tryna' play on",
+          "segments": [
+            "I ",
+            "wanna ",
+            "honor ",
+            "who ",
+            "you ",
+            "are ",
+            "not ",
+            "tryna' ",
+            "play ",
+            "on"
+          ]
+        },
+        {
+          "key": "31182|See the other guys you relied on",
+          "text": "See the other guys you relied on",
+          "segments": [
+            "See ",
+            "the ",
+            "other ",
+            "guys ",
+            "you ",
+            "relied ",
+            "on"
+          ]
+        },
+        {
+          "key": "33802|They broke your heart but it grew strong",
+          "text": "They broke your heart but it grew strong",
+          "segments": [
+            "They ",
+            "broke ",
+            "your ",
+            "heart ",
+            "but ",
+            "it ",
+            "grew ",
+            "strong"
+          ]
+        },
+        {
+          "key": "36710|We can be the perfect love song and watch the skies fall",
+          "text": "We can be the perfect love song and watch the skies fall",
+          "segments": [
+            "We ",
+            "can ",
+            "be ",
+            "the ",
+            "perfect ",
+            "love ",
+            "song ",
+            "and ",
+            "watch ",
+            "the ",
+            "skies ",
+            "fall"
+          ]
+        },
+        {
+          "key": "40278|Wake up in the morning from the night's calm",
+          "text": "Wake up in the morning from the night's calm",
+          "segments": [
+            "Wake ",
+            "up ",
+            "in ",
+            "the ",
+            "morning ",
+            "from ",
+            "the ",
+            "night's ",
+            "calm"
+          ]
+        },
+        {
+          "key": "42826|And see the sunrise while we stay tall",
+          "text": "And see the sunrise while we stay tall",
+          "segments": [
+            "And ",
+            "see ",
+            "the ",
+            "sunrise ",
+            "while ",
+            "we ",
+            "stay ",
+            "tall"
+          ]
+        },
+        {
+          "key": "45765|Perfect intuition you're my angel one I visioned",
+          "text": "Perfect intuition you're my angel one I visioned",
+          "segments": [
+            "Perfect ",
+            "intuition ",
+            "you're ",
+            "my ",
+            "angel ",
+            "one ",
+            "I ",
+            "visioned"
+          ]
+        },
+        {
+          "key": "48554|That I always could envision",
+          "text": "That I always could envision",
+          "segments": [
+            "That ",
+            "I ",
+            "always ",
+            "could ",
+            "envision"
+          ]
+        },
+        {
+          "key": "50123|To be wifey for my children cuz together we can fly",
+          "text": "To be wifey for my children cuz together we can fly",
+          "segments": [
+            "To ",
+            "be ",
+            "wifey ",
+            "for ",
+            "my ",
+            "children ",
+            "cuz ",
+            "together ",
+            "we ",
+            "can ",
+            "fly"
+          ]
+        },
+        {
+          "key": "53482|Forever you and I on this mission",
+          "text": "Forever you and I on this mission",
+          "segments": [
+            "Forever ",
+            "you ",
+            "and ",
+            "I ",
+            "on ",
+            "this ",
+            "mission"
+          ]
+        },
+        {
+          "key": "56052|That we call love that define all the wishes",
+          "text": "That we call love that define all the wishes",
+          "segments": [
+            "That ",
+            "we ",
+            "call ",
+            "love ",
+            "that ",
+            "define ",
+            "all ",
+            "the ",
+            "wishes"
+          ]
+        },
+        {
+          "key": "59151|Yea I'm a gentleman for life",
+          "text": "Yea I'm a gentleman for life",
+          "segments": [
+            "Yea ",
+            "I'm ",
+            "a ",
+            "gentleman ",
+            "for ",
+            "life"
+          ]
+        },
+        {
+          "key": "61171|Always need for a wife",
+          "text": "Always need for a wife",
+          "segments": [
+            "Always ",
+            "need ",
+            "for ",
+            "a ",
+            "wife"
+          ]
+        },
+        {
+          "key": "62781|In this cold world in this cold world",
+          "text": "In this cold world in this cold world",
+          "segments": [
+            "In ",
+            "this ",
+            "cold ",
+            "world ",
+            "in ",
+            "this ",
+            "cold ",
+            "world"
+          ]
+        },
+        {
+          "key": "65971|I'll be the one to catch you when you're falling from the sky",
+          "text": "I'll be the one to catch you when you're falling from the sky",
+          "segments": [
+            "I'll ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "catch ",
+            "you ",
+            "when ",
+            "you're ",
+            "falling ",
+            "from ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "72118|I'll be the one to hold you baby together we can fly",
+          "text": "I'll be the one to hold you baby together we can fly",
+          "segments": [
+            "I'll ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "hold ",
+            "you ",
+            "baby ",
+            "together ",
+            "we ",
+            "can ",
+            "fly"
+          ]
+        },
+        {
+          "key": "78227|Baby let's fly baby you and I",
+          "text": "Baby let's fly baby you and I",
+          "segments": [
+            "Baby ",
+            "let's ",
+            "fly ",
+            "baby ",
+            "you ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "81347|Baby hold on we can make it in time",
+          "text": "Baby hold on we can make it in time",
+          "segments": [
+            "Baby ",
+            "hold ",
+            "on ",
+            "we ",
+            "can ",
+            "make ",
+            "it ",
+            "in ",
+            "time"
+          ]
+        },
+        {
+          "key": "84466|Baby let's fly baby you and I",
+          "text": "Baby let's fly baby you and I",
+          "segments": [
+            "Baby ",
+            "let's ",
+            "fly ",
+            "baby ",
+            "you ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "87626|Baby hold on we can make it in time",
+          "text": "Baby hold on we can make it in time",
+          "segments": [
+            "Baby ",
+            "hold ",
+            "on ",
+            "we ",
+            "can ",
+            "make ",
+            "it ",
+            "in ",
+            "time"
+          ]
+        },
+        {
+          "key": "103653|I never told you how I love you kept my heart on the other side",
+          "text": "I never told you how I love you kept my heart on the other side",
+          "segments": [
+            "I ",
+            "never ",
+            "told ",
+            "you ",
+            "how ",
+            "I ",
+            "love ",
+            "you ",
+            "kept ",
+            "my ",
+            "heart ",
+            "on ",
+            "the ",
+            "other ",
+            "side"
+          ]
+        },
+        {
+          "key": "107342|Looking for a safer ride easier to say goodbye",
+          "text": "Looking for a safer ride easier to say goodbye",
+          "segments": [
+            "Looking ",
+            "for ",
+            "a ",
+            "safer ",
+            "ride ",
+            "easier ",
+            "to ",
+            "say ",
+            "goodbye"
+          ]
+        },
+        {
+          "key": "111660|So bad when I want it but front when I lose it",
+          "text": "So bad when I want it but front when I lose it",
+          "segments": [
+            "So ",
+            "bad ",
+            "when ",
+            "I ",
+            "want ",
+            "it ",
+            "but ",
+            "front ",
+            "when ",
+            "I ",
+            "lose ",
+            "it"
+          ]
+        },
+        {
+          "key": "114840|So I turn to the music",
+          "text": "So I turn to the music",
+          "segments": [
+            "So ",
+            "I ",
+            "turn ",
+            "to ",
+            "the ",
+            "music"
+          ]
+        },
+        {
+          "key": "116440|And you turn to your phone and you wish what we had",
+          "text": "And you turn to your phone and you wish what we had",
+          "segments": [
+            "And ",
+            "you ",
+            "turn ",
+            "to ",
+            "your ",
+            "phone ",
+            "and ",
+            "you ",
+            "wish ",
+            "what ",
+            "we ",
+            "had"
+          ]
+        },
+        {
+          "key": "119570|Will remain in our home from the names we were call",
+          "text": "Will remain in our home from the names we were call",
+          "segments": [
+            "Will ",
+            "remain ",
+            "in ",
+            "our ",
+            "home ",
+            "from ",
+            "the ",
+            "names ",
+            "we ",
+            "were ",
+            "call"
+          ]
+        },
+        {
+          "key": "122709|Never was a gentleman making scenes at the mall",
+          "text": "Never was a gentleman making scenes at the mall",
+          "segments": [
+            "Never ",
+            "was ",
+            "a ",
+            "gentleman ",
+            "making ",
+            "scenes ",
+            "at ",
+            "the ",
+            "mall"
+          ]
+        },
+        {
+          "key": "126348|Yea just for the little things always was so ignorant",
+          "text": "Yea just for the little things always was so ignorant",
+          "segments": [
+            "Yea ",
+            "just ",
+            "for ",
+            "the ",
+            "little ",
+            "things ",
+            "always ",
+            "was ",
+            "so ",
+            "ignorant"
+          ]
+        },
+        {
+          "key": "129487|Never thought the love that you bring was the best for me",
+          "text": "Never thought the love that you bring was the best for me",
+          "segments": [
+            "Never ",
+            "thought ",
+            "the ",
+            "love ",
+            "that ",
+            "you ",
+            "bring ",
+            "was ",
+            "the ",
+            "best ",
+            "for ",
+            "me"
+          ]
+        },
+        {
+          "key": "132836|And you the smarter me I'm the loser in this tragedy",
+          "text": "And you the smarter me I'm the loser in this tragedy",
+          "segments": [
+            "And ",
+            "you ",
+            "the ",
+            "smarter ",
+            "me ",
+            "I'm ",
+            "the ",
+            "loser ",
+            "in ",
+            "this ",
+            "tragedy"
+          ]
+        },
+        {
+          "key": "136224|In the ugly side gently blinded me",
+          "text": "In the ugly side gently blinded me",
+          "segments": [
+            "In ",
+            "the ",
+            "ugly ",
+            "side ",
+            "gently ",
+            "blinded ",
+            "me"
+          ]
+        },
+        {
+          "key": "138593|No romeo inside of me to begin with be proud",
+          "text": "No romeo inside of me to begin with be proud",
+          "segments": [
+            "No ",
+            "romeo ",
+            "inside ",
+            "of ",
+            "me ",
+            "to ",
+            "begin ",
+            "with ",
+            "be ",
+            "proud"
+          ]
+        },
+        {
+          "key": "142072|In my head would be time patient through the fights",
+          "text": "In my head would be time patient through the fights",
+          "segments": [
+            "In ",
+            "my ",
+            "head ",
+            "would ",
+            "be ",
+            "time ",
+            "patient ",
+            "through ",
+            "the ",
+            "fights"
+          ]
+        },
+        {
+          "key": "144851|On this stage we call life we can glide you and I",
+          "text": "On this stage we call life we can glide you and I",
+          "segments": [
+            "On ",
+            "this ",
+            "stage ",
+            "we ",
+            "call ",
+            "life ",
+            "we ",
+            "can ",
+            "glide ",
+            "you ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "147980|Complicated from the start so we aiming for the stars",
+          "text": "Complicated from the start so we aiming for the stars",
+          "segments": [
+            "Complicated ",
+            "from ",
+            "the ",
+            "start ",
+            "so ",
+            "we ",
+            "aiming ",
+            "for ",
+            "the ",
+            "stars"
+          ]
+        },
+        {
+          "key": "151608|Start with the sentiment I'm a gentleman",
+          "text": "Start with the sentiment I'm a gentleman",
+          "segments": [
+            "Start ",
+            "with ",
+            "the ",
+            "sentiment ",
+            "I'm ",
+            "a ",
+            "gentleman"
+          ]
+        },
+        {
+          "key": "154447|I'll be the one to catch you when you're falling from the sky",
+          "text": "I'll be the one to catch you when you're falling from the sky",
+          "segments": [
+            "I'll ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "catch ",
+            "you ",
+            "when ",
+            "you're ",
+            "falling ",
+            "from ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "160622|I'll be the one to hold you baby together we can fly",
+          "text": "I'll be the one to hold you baby together we can fly",
+          "segments": [
+            "I'll ",
+            "be ",
+            "the ",
+            "one ",
+            "to ",
+            "hold ",
+            "you ",
+            "baby ",
+            "together ",
+            "we ",
+            "can ",
+            "fly"
+          ]
+        },
+        {
+          "key": "166622|Baby let's fly baby you and I",
+          "text": "Baby let's fly baby you and I",
+          "segments": [
+            "Baby ",
+            "let's ",
+            "fly ",
+            "baby ",
+            "you ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "169782|Baby hold on we can make it in time",
+          "text": "Baby hold on we can make it in time",
+          "segments": [
+            "Baby ",
+            "hold ",
+            "on ",
+            "we ",
+            "can ",
+            "make ",
+            "it ",
+            "in ",
+            "time"
+          ]
+        },
+        {
+          "key": "172942|Baby let's fly baby you and I",
+          "text": "Baby let's fly baby you and I",
+          "segments": [
+            "Baby ",
+            "let's ",
+            "fly ",
+            "baby ",
+            "you ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "176092|Baby hold on we can make it in time",
+          "text": "Baby hold on we can make it in time",
+          "segments": [
+            "Baby ",
+            "hold ",
+            "on ",
+            "we ",
+            "can ",
+            "make ",
+            "it ",
+            "in ",
+            "time"
+          ]
+        }
+      ]
+    }
+  ]
+}
