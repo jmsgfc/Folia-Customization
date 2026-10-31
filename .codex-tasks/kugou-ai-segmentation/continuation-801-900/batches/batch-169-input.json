@@ -1,0 +1,975 @@
+{
+  "batchNumber": 169,
+  "songs": [
+    {
+      "rank": 841,
+      "songKey": "online:kugou:49e94bb2825d85b5ed3c65ece23e0dff",
+      "name": "Mine (POP Mix)",
+      "artist": "Taylor Swift",
+      "lines": [
+        {
+          "key": "0|Taylor Swift - Mine",
+          "startMs": 0,
+          "text": "Taylor Swift - Mine"
+        },
+        {
+          "key": "505|Written by：Taylor Swift、Nathan Chapman",
+          "startMs": 505,
+          "text": "Written by：Taylor Swift、Nathan Chapman"
+        },
+        {
+          "key": "17731|You were in college working part-time waiting tables",
+          "startMs": 17731,
+          "text": "You were in college working part-time waiting tables"
+        },
+        {
+          "key": "21572|Left a small town and never looked back",
+          "startMs": 21572,
+          "text": "Left a small town and never looked back"
+        },
+        {
+          "key": "25486|I was a flight risk with a fear of falling",
+          "startMs": 25486,
+          "text": "I was a flight risk with a fear of falling"
+        },
+        {
+          "key": "29533|Wondering why we bother with love if it never lasts",
+          "startMs": 29533,
+          "text": "Wondering why we bother with love if it never lasts"
+        },
+        {
+          "key": "34516|I say can you believe it",
+          "startMs": 34516,
+          "text": "I say can you believe it"
+        },
+        {
+          "key": "39805|As we're lying on the couch",
+          "startMs": 39805,
+          "text": "As we're lying on the couch"
+        },
+        {
+          "key": "42791|The moment I could see it",
+          "startMs": 42791,
+          "text": "The moment I could see it"
+        },
+        {
+          "key": "45274|Yes yes I can see it now",
+          "startMs": 45274,
+          "text": "Yes yes I can see it now"
+        },
+        {
+          "key": "49560|Do you remember we were sitting there by the water",
+          "startMs": 49560,
+          "text": "Do you remember we were sitting there by the water"
+        },
+        {
+          "key": "53458|You put your arm around me for the first time",
+          "startMs": 53458,
+          "text": "You put your arm around me for the first time"
+        },
+        {
+          "key": "57296|You made a rebel of a careless man's careful daughter",
+          "startMs": 57296,
+          "text": "You made a rebel of a careless man's careful daughter"
+        },
+        {
+          "key": "61340|You are the best thing that's ever been mine",
+          "startMs": 61340,
+          "text": "You are the best thing that's ever been mine"
+        },
+        {
+          "key": "69423|Flash forward and we're taking on the world together",
+          "startMs": 69423,
+          "text": "Flash forward and we're taking on the world together"
+        },
+        {
+          "key": "73317|And there's a drawer of my things at your place",
+          "startMs": 73317,
+          "text": "And there's a drawer of my things at your place"
+        },
+        {
+          "key": "77267|You learn my secrets and figure out why I'm guarded",
+          "startMs": 77267,
+          "text": "You learn my secrets and figure out why I'm guarded"
+        },
+        {
+          "key": "81366|You say we'll never make my parents' mistakes",
+          "startMs": 81366,
+          "text": "You say we'll never make my parents' mistakes"
+        },
+        {
+          "key": "87307|But we got bills to pay",
+          "startMs": 87307,
+          "text": "But we got bills to pay"
+        },
+        {
+          "key": "91206|We got nothing figured out",
+          "startMs": 91206,
+          "text": "We got nothing figured out"
+        },
+        {
+          "key": "95303|When it was hard to take",
+          "startMs": 95303,
+          "text": "When it was hard to take"
+        },
+        {
+          "key": "97021|Yes yes",
+          "startMs": 97021,
+          "text": "Yes yes"
+        },
+        {
+          "key": "98794|This is what I thought about",
+          "startMs": 98794,
+          "text": "This is what I thought about"
+        },
+        {
+          "key": "101325|Do you remember we were sitting there by the water",
+          "startMs": 101325,
+          "text": "Do you remember we were sitting there by the water"
+        },
+        {
+          "key": "105027|You put your arm around me for the first time",
+          "startMs": 105027,
+          "text": "You put your arm around me for the first time"
+        },
+        {
+          "key": "109073|You made a rebel of a careless man's careful daughter",
+          "startMs": 109073,
+          "text": "You made a rebel of a careless man's careful daughter"
+        },
+        {
+          "key": "113019|You are the best thing that's ever been mine",
+          "startMs": 113019,
+          "text": "You are the best thing that's ever been mine"
+        },
+        {
+          "key": "117047|Do you remember all the city lights on the water",
+          "startMs": 117047,
+          "text": "Do you remember all the city lights on the water"
+        },
+        {
+          "key": "120941|You saw me start to believe for the first time",
+          "startMs": 120941,
+          "text": "You saw me start to believe for the first time"
+        },
+        {
+          "key": "124871|You made a rebel of a careless man's careful daughter",
+          "startMs": 124871,
+          "text": "You made a rebel of a careless man's careful daughter"
+        },
+        {
+          "key": "128860|You are the best thing that's ever been mine",
+          "startMs": 128860,
+          "text": "You are the best thing that's ever been mine"
+        },
+        {
+          "key": "140181|And I remember that fight 2：30 AM",
+          "startMs": 140181,
+          "text": "And I remember that fight 2：30 AM"
+        },
+        {
+          "key": "144337|As everything was slipping right out of our hands",
+          "startMs": 144337,
+          "text": "As everything was slipping right out of our hands"
+        },
+        {
+          "key": "148641|I ran out crying and you followed me out into the street",
+          "startMs": 148641,
+          "text": "I ran out crying and you followed me out into the street"
+        },
+        {
+          "key": "157991|Braced myself for the goodbye",
+          "startMs": 157991,
+          "text": "Braced myself for the goodbye"
+        },
+        {
+          "key": "161960|Cause that's all I've ever known",
+          "startMs": 161960,
+          "text": "Cause that's all I've ever known"
+        },
+        {
+          "key": "165908|Then you took me by surprise",
+          "startMs": 165908,
+          "text": "Then you took me by surprise"
+        },
+        {
+          "key": "169552|You said I'll never leave you alone",
+          "startMs": 169552,
+          "text": "You said I'll never leave you alone"
+        },
+        {
+          "key": "175686|You said I remember how we felt sitting by the water",
+          "startMs": 175686,
+          "text": "You said I remember how we felt sitting by the water"
+        },
+        {
+          "key": "180699|And every time I look at you it's like the first time",
+          "startMs": 180699,
+          "text": "And every time I look at you it's like the first time"
+        },
+        {
+          "key": "184596|I fell in love with a careless man's careful daughter",
+          "startMs": 184596,
+          "text": "I fell in love with a careless man's careful daughter"
+        },
+        {
+          "key": "188540|She is the best thing that's ever been mine",
+          "startMs": 188540,
+          "text": "She is the best thing that's ever been mine"
+        },
+        {
+          "key": "192703|Hold on make it last",
+          "startMs": 192703,
+          "text": "Hold on make it last"
+        },
+        {
+          "key": "196142|Hold on never turn back",
+          "startMs": 196142,
+          "text": "Hold on never turn back"
+        },
+        {
+          "key": "200514|You made a rebel of a careless man's careful daughter",
+          "startMs": 200514,
+          "text": "You made a rebel of a careless man's careful daughter"
+        },
+        {
+          "key": "204508|You are the best thing that's ever been mine",
+          "startMs": 204508,
+          "text": "You are the best thing that's ever been mine"
+        },
+        {
+          "key": "208469|Yeah yeah",
+          "startMs": 208469,
+          "text": "Yeah yeah"
+        },
+        {
+          "key": "210438|Do you believe it",
+          "startMs": 210438,
+          "text": "Do you believe it"
+        },
+        {
+          "key": "212529|Hold on",
+          "startMs": 212529,
+          "text": "Hold on"
+        },
+        {
+          "key": "215122|We're gonna make it now",
+          "startMs": 215122,
+          "text": "We're gonna make it now"
+        },
+        {
+          "key": "216688|Hold on",
+          "startMs": 216688,
+          "text": "Hold on"
+        },
+        {
+          "key": "218490|And I can see it",
+          "startMs": 218490,
+          "text": "And I can see it"
+        },
+        {
+          "key": "220414|Yeah yeah",
+          "startMs": 220414,
+          "text": "Yeah yeah"
+        },
+        {
+          "key": "222824|I can see it now see it now",
+          "startMs": 222824,
+          "text": "I can see it now see it now"
+        }
+      ]
+    },
+    {
+      "rank": 842,
+      "songKey": "online:kugou:2027735a86c52ef80af29557d46ede8d",
+      "name": "Last Reunion",
+      "artist": "Peter Roe",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 843,
+      "songKey": "online:kugou:b399d94dc0a656442f3d0d5ce67fbe53",
+      "name": "宁夏",
+      "artist": "梁静茹",
+      "lines": [
+        {
+          "key": "0|梁静茹 - 宁夏",
+          "startMs": 0,
+          "text": "梁静茹 - 宁夏"
+        },
+        {
+          "key": "262|作词：李正帆",
+          "startMs": 262,
+          "text": "作词：李正帆"
+        },
+        {
+          "key": "1181|作曲：李正帆",
+          "startMs": 1181,
+          "text": "作曲：李正帆"
+        },
+        {
+          "key": "24044|宁静的夏天天空中繁星点点",
+          "startMs": 24044,
+          "text": "宁静的夏天天空中繁星点点"
+        },
+        {
+          "key": "29654|心里头有些思念思念着你的脸",
+          "startMs": 29654,
+          "text": "心里头有些思念思念着你的脸"
+        },
+        {
+          "key": "35914|我可以假装看不见",
+          "startMs": 35914,
+          "text": "我可以假装看不见"
+        },
+        {
+          "key": "39434|也可以偷偷地想念",
+          "startMs": 39434,
+          "text": "也可以偷偷地想念"
+        },
+        {
+          "key": "42784|直到让我摸到你那温暖的脸",
+          "startMs": 42784,
+          "text": "直到让我摸到你那温暖的脸"
+        },
+        {
+          "key": "60243|宁静的夏天天空中繁星点点",
+          "startMs": 60243,
+          "text": "宁静的夏天天空中繁星点点"
+        },
+        {
+          "key": "65723|心里头有些思念思念着你的脸",
+          "startMs": 65723,
+          "text": "心里头有些思念思念着你的脸"
+        },
+        {
+          "key": "71933|我可以假装看不见",
+          "startMs": 71933,
+          "text": "我可以假装看不见"
+        },
+        {
+          "key": "75503|也可以偷偷地想念",
+          "startMs": 75503,
+          "text": "也可以偷偷地想念"
+        },
+        {
+          "key": "78823|直到让我摸到你那温暖的脸",
+          "startMs": 78823,
+          "text": "直到让我摸到你那温暖的脸"
+        },
+        {
+          "key": "90563|知了也睡了安心地睡了",
+          "startMs": 90563,
+          "text": "知了也睡了安心地睡了"
+        },
+        {
+          "key": "96163|在我心里面宁静的夏天",
+          "startMs": 96163,
+          "text": "在我心里面宁静的夏天"
+        },
+        {
+          "key": "101933|知了也睡了安心地睡了",
+          "startMs": 101933,
+          "text": "知了也睡了安心地睡了"
+        },
+        {
+          "key": "109283|在我心里面宁静的夏天",
+          "startMs": 109283,
+          "text": "在我心里面宁静的夏天"
+        },
+        {
+          "key": "120792|宁静的夏天天空中繁星点点",
+          "startMs": 120792,
+          "text": "宁静的夏天天空中繁星点点"
+        },
+        {
+          "key": "126382|心里头有些思念思念着你的脸",
+          "startMs": 126382,
+          "text": "心里头有些思念思念着你的脸"
+        },
+        {
+          "key": "132652|我可以假装看不见",
+          "startMs": 132652,
+          "text": "我可以假装看不见"
+        },
+        {
+          "key": "136212|也可以偷偷地想念",
+          "startMs": 136212,
+          "text": "也可以偷偷地想念"
+        },
+        {
+          "key": "139441|直到让我摸到你那温暖的脸",
+          "startMs": 139441,
+          "text": "直到让我摸到你那温暖的脸"
+        },
+        {
+          "key": "148681|那是个宁静的夏天",
+          "startMs": 148681,
+          "text": "那是个宁静的夏天"
+        },
+        {
+          "key": "154501|你来到宁夏的那一天",
+          "startMs": 154501,
+          "text": "你来到宁夏的那一天"
+        },
+        {
+          "key": "160281|知了也睡了安心地睡了",
+          "startMs": 160281,
+          "text": "知了也睡了安心地睡了"
+        },
+        {
+          "key": "165781|在我心里面宁静的夏天",
+          "startMs": 165781,
+          "text": "在我心里面宁静的夏天"
+        },
+        {
+          "key": "171511|知了也睡了安心地睡了",
+          "startMs": 171511,
+          "text": "知了也睡了安心地睡了"
+        },
+        {
+          "key": "186211|在我心里面宁静的夏天",
+          "startMs": 186211,
+          "text": "在我心里面宁静的夏天"
+        }
+      ]
+    },
+    {
+      "rank": 844,
+      "songKey": "online:kugou:446ad7938157f86dd819caaba8d66b99",
+      "name": "画 (Live Piano Session Ⅱ)",
+      "artist": "G.E.M.邓紫棋",
+      "lines": [
+        {
+          "key": "104|G.E.M. 邓紫棋 - 画",
+          "startMs": 104,
+          "text": "G.E.M. 邓紫棋 - 画"
+        },
+        {
+          "key": "3155|词：G.E.M. 邓紫棋",
+          "startMs": 3155,
+          "text": "词：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "4301|曲：G.E.M. 邓紫棋",
+          "startMs": 4301,
+          "text": "曲：G.E.M. 邓紫棋"
+        },
+        {
+          "key": "6542|编曲：Lupo Groinig",
+          "startMs": 6542,
+          "text": "编曲：Lupo Groinig"
+        },
+        {
+          "key": "19412|爱情就像 蓝蓝天上",
+          "startMs": 19412,
+          "text": "爱情就像 蓝蓝天上"
+        },
+        {
+          "key": "23956|一片留白有你陪我想象",
+          "startMs": 23956,
+          "text": "一片留白有你陪我想象"
+        },
+        {
+          "key": "28719|白马突然 不再抽象",
+          "startMs": 28719,
+          "text": "白马突然 不再抽象"
+        },
+        {
+          "key": "33386|青蛙终于遇见灰姑娘",
+          "startMs": 33386,
+          "text": "青蛙终于遇见灰姑娘"
+        },
+        {
+          "key": "37526|就算路还漫长",
+          "startMs": 37526,
+          "text": "就算路还漫长"
+        },
+        {
+          "key": "40658|我却有一种预感",
+          "startMs": 40658,
+          "text": "我却有一种预感"
+        },
+        {
+          "key": "43912|我相信这灵感",
+          "startMs": 43912,
+          "text": "我相信这灵感"
+        },
+        {
+          "key": "48758|我把你画成花",
+          "startMs": 48758,
+          "text": "我把你画成花"
+        },
+        {
+          "key": "51201|未开的一朵花",
+          "startMs": 51201,
+          "text": "未开的一朵花"
+        },
+        {
+          "key": "53818|再把思念一点一滴",
+          "startMs": 53818,
+          "text": "再把思念一点一滴"
+        },
+        {
+          "key": "56138|画成雨落下",
+          "startMs": 56138,
+          "text": "画成雨落下"
+        },
+        {
+          "key": "58463|每当我不在",
+          "startMs": 58463,
+          "text": "每当我不在"
+        },
+        {
+          "key": "60624|请记得我的爱",
+          "startMs": 60624,
+          "text": "请记得我的爱"
+        },
+        {
+          "key": "63150|就在同一天空之下",
+          "startMs": 63150,
+          "text": "就在同一天空之下"
+        },
+        {
+          "key": "65502|遥远地灌溉",
+          "startMs": 65502,
+          "text": "遥远地灌溉"
+        },
+        {
+          "key": "67940|等待秋去春来",
+          "startMs": 67940,
+          "text": "等待秋去春来"
+        },
+        {
+          "key": "71440|等待下一次花开",
+          "startMs": 71440,
+          "text": "等待下一次花开"
+        },
+        {
+          "key": "74736|在咫尺的未来",
+          "startMs": 74736,
+          "text": "在咫尺的未来"
+        },
+        {
+          "key": "81155|生活就像 茫茫海上",
+          "startMs": 81155,
+          "text": "生活就像 茫茫海上"
+        },
+        {
+          "key": "85803|一只小船勇敢乘风破浪",
+          "startMs": 85803,
+          "text": "一只小船勇敢乘风破浪"
+        },
+        {
+          "key": "90554|而你就像 不远前方",
+          "startMs": 90554,
+          "text": "而你就像 不远前方"
+        },
+        {
+          "key": "95310|默默张开双手的港湾",
+          "startMs": 95310,
+          "text": "默默张开双手的港湾"
+        },
+        {
+          "key": "99476|就算路还漫长",
+          "startMs": 99476,
+          "text": "就算路还漫长"
+        },
+        {
+          "key": "102397|我却有一种预感",
+          "startMs": 102397,
+          "text": "我却有一种预感"
+        },
+        {
+          "key": "105687|我相信这灵感",
+          "startMs": 105687,
+          "text": "我相信这灵感"
+        },
+        {
+          "key": "108138|我把你画成花",
+          "startMs": 108138,
+          "text": "我把你画成花"
+        },
+        {
+          "key": "110465|未开的一朵花",
+          "startMs": 110465,
+          "text": "未开的一朵花"
+        },
+        {
+          "key": "113169|再把思念一点一滴",
+          "startMs": 113169,
+          "text": "再把思念一点一滴"
+        },
+        {
+          "key": "115497|画成雨落下",
+          "startMs": 115497,
+          "text": "画成雨落下"
+        },
+        {
+          "key": "117894|每当我不在",
+          "startMs": 117894,
+          "text": "每当我不在"
+        },
+        {
+          "key": "119902|请记得我的爱",
+          "startMs": 119902,
+          "text": "请记得我的爱"
+        },
+        {
+          "key": "122578|就在同一天空之下",
+          "startMs": 122578,
+          "text": "就在同一天空之下"
+        },
+        {
+          "key": "124875|遥远地灌溉",
+          "startMs": 124875,
+          "text": "遥远地灌溉"
+        },
+        {
+          "key": "127295|等待秋去春来",
+          "startMs": 127295,
+          "text": "等待秋去春来"
+        },
+        {
+          "key": "130829|等待下一次花开",
+          "startMs": 130829,
+          "text": "等待下一次花开"
+        },
+        {
+          "key": "136374|就在咫尺的未来",
+          "startMs": 136374,
+          "text": "就在咫尺的未来"
+        },
+        {
+          "key": "142967|爱情就像 遥遥路上",
+          "startMs": 142967,
+          "text": "爱情就像 遥遥路上"
+        },
+        {
+          "key": "147770|一束明亮却温柔的月光",
+          "startMs": 147770,
+          "text": "一束明亮却温柔的月光"
+        },
+        {
+          "key": "152630|快乐原来 如此简单",
+          "startMs": 152630,
+          "text": "快乐原来 如此简单"
+        },
+        {
+          "key": "157396|你在身旁就是我的天堂",
+          "startMs": 157396,
+          "text": "你在身旁就是我的天堂"
+        }
+      ]
+    },
+    {
+      "rank": 845,
+      "songKey": "online:kugou:d641a15f4db9a5fea4fcbc705b3ada12",
+      "name": "Immortals (From \"Big Hero 6\")",
+      "artist": "Fall Out Boy",
+      "lines": [
+        {
+          "key": "0|Fall Out Boy - Immortals (End Credit Version)",
+          "startMs": 0,
+          "text": "Fall Out Boy - Immortals (End Credit Version)"
+        },
+        {
+          "key": "200|Written by：Patrick Stump/Pete Wentz/Joe Trohman/Andy Hurley",
+          "startMs": 200,
+          "text": "Written by：Patrick Stump/Pete Wentz/Joe Trohman/Andy Hurley"
+        },
+        {
+          "key": "10091|They say we are what we are",
+          "startMs": 10091,
+          "text": "They say we are what we are"
+        },
+        {
+          "key": "12041|But we don't have to be",
+          "startMs": 12041,
+          "text": "But we don't have to be"
+        },
+        {
+          "key": "14271|I'm bad behavior",
+          "startMs": 14271,
+          "text": "I'm bad behavior"
+        },
+        {
+          "key": "15910|But I do it in the best way",
+          "startMs": 15910,
+          "text": "But I do it in the best way"
+        },
+        {
+          "key": "18740|I'll be the watcher watcher",
+          "startMs": 18740,
+          "text": "I'll be the watcher watcher"
+        },
+        {
+          "key": "21280|Of the eternal flame",
+          "startMs": 21280,
+          "text": "Of the eternal flame"
+        },
+        {
+          "key": "23200|I'll be the guard dog",
+          "startMs": 23200,
+          "text": "I'll be the guard dog"
+        },
+        {
+          "key": "25390|Of all your fever dreams",
+          "startMs": 25390,
+          "text": "Of all your fever dreams"
+        },
+        {
+          "key": "27460|Oooooooh",
+          "startMs": 27460,
+          "text": "Oooooooh"
+        },
+        {
+          "key": "31160|I am the sand in the bottom half",
+          "startMs": 31160,
+          "text": "I am the sand in the bottom half"
+        },
+        {
+          "key": "33520|Of the hourglass glass glass",
+          "startMs": 33520,
+          "text": "Of the hourglass glass glass"
+        },
+        {
+          "key": "36590|Oooooooh",
+          "startMs": 36590,
+          "text": "Oooooooh"
+        },
+        {
+          "key": "39830|I try to picture me",
+          "startMs": 39830,
+          "text": "I try to picture me"
+        },
+        {
+          "key": "41570|Without you but I can't",
+          "startMs": 41570,
+          "text": "Without you but I can't"
+        },
+        {
+          "key": "43880|'Cause we could be immortals immortals",
+          "startMs": 43880,
+          "text": "'Cause we could be immortals immortals"
+        },
+        {
+          "key": "48880|Just not for long for long",
+          "startMs": 48880,
+          "text": "Just not for long for long"
+        },
+        {
+          "key": "52449|And live with me forever now",
+          "startMs": 52449,
+          "text": "And live with me forever now"
+        },
+        {
+          "key": "54709|Pull the blackout curtains down",
+          "startMs": 54709,
+          "text": "Pull the blackout curtains down"
+        },
+        {
+          "key": "57729|Just not for long for long",
+          "startMs": 57729,
+          "text": "Just not for long for long"
+        },
+        {
+          "key": "62129|Because we could be",
+          "startMs": 62129,
+          "text": "Because we could be"
+        },
+        {
+          "key": "62859|Immooooooo immortals",
+          "startMs": 62859,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "67239|Immooooooo immortals",
+          "startMs": 67239,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "71639|Immooooooo immortals",
+          "startMs": 71639,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "76239|Immooooooo immortals",
+          "startMs": 76239,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "85843|Sometimes the only pay off",
+          "startMs": 85843,
+          "text": "Sometimes the only pay off"
+        },
+        {
+          "key": "87773|For having any faith",
+          "startMs": 87773,
+          "text": "For having any faith"
+        },
+        {
+          "key": "89773|Is when it's tested again and again",
+          "startMs": 89773,
+          "text": "Is when it's tested again and again"
+        },
+        {
+          "key": "93023|Everyday",
+          "startMs": 93023,
+          "text": "Everyday"
+        },
+        {
+          "key": "94253|I'm still comparing your past",
+          "startMs": 94253,
+          "text": "I'm still comparing your past"
+        },
+        {
+          "key": "96453|To my future",
+          "startMs": 96453,
+          "text": "To my future"
+        },
+        {
+          "key": "98633|It might be your wound",
+          "startMs": 98633,
+          "text": "It might be your wound"
+        },
+        {
+          "key": "100583|But they're my sutures",
+          "startMs": 100583,
+          "text": "But they're my sutures"
+        },
+        {
+          "key": "102923|Oooooooh",
+          "startMs": 102923,
+          "text": "Oooooooh"
+        },
+        {
+          "key": "106553|I am the sand in the bottom half",
+          "startMs": 106553,
+          "text": "I am the sand in the bottom half"
+        },
+        {
+          "key": "109063|Of the hourglass glass glass",
+          "startMs": 109063,
+          "text": "Of the hourglass glass glass"
+        },
+        {
+          "key": "112003|Oooooooh",
+          "startMs": 112003,
+          "text": "Oooooooh"
+        },
+        {
+          "key": "115393|I try to picture me without you but I can't",
+          "startMs": 115393,
+          "text": "I try to picture me without you but I can't"
+        },
+        {
+          "key": "119473|'Cause we could be immortals immortals",
+          "startMs": 119473,
+          "text": "'Cause we could be immortals immortals"
+        },
+        {
+          "key": "124413|Just not for long for long",
+          "startMs": 124413,
+          "text": "Just not for long for long"
+        },
+        {
+          "key": "127913|And live with me forever now",
+          "startMs": 127913,
+          "text": "And live with me forever now"
+        },
+        {
+          "key": "130333|Pull the blackout curtains down",
+          "startMs": 130333,
+          "text": "Pull the blackout curtains down"
+        },
+        {
+          "key": "133073|Just not for long for long",
+          "startMs": 133073,
+          "text": "Just not for long for long"
+        },
+        {
+          "key": "137353|Because we could be",
+          "startMs": 137353,
+          "text": "Because we could be"
+        },
+        {
+          "key": "138133|Immooooooo immortals",
+          "startMs": 138133,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "142633|Immooooooo immortals",
+          "startMs": 142633,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "148583|Immortals",
+          "startMs": 148583,
+          "text": "Immortals"
+        },
+        {
+          "key": "150113|And live with me forever now",
+          "startMs": 150113,
+          "text": "And live with me forever now"
+        },
+        {
+          "key": "154552|Pull the blackout curtains down",
+          "startMs": 154552,
+          "text": "Pull the blackout curtains down"
+        },
+        {
+          "key": "159761|Because we could be",
+          "startMs": 159761,
+          "text": "Because we could be"
+        },
+        {
+          "key": "160861|Immortals immortals",
+          "startMs": 160861,
+          "text": "Immortals immortals"
+        },
+        {
+          "key": "164470|Just not for long for long",
+          "startMs": 164470,
+          "text": "Just not for long for long"
+        },
+        {
+          "key": "168310|We could be",
+          "startMs": 168310,
+          "text": "We could be"
+        },
+        {
+          "key": "169170|Immooooooo immortals",
+          "startMs": 169170,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "173900|Immooooooo immortals",
+          "startMs": 173900,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "178320|Immooooooo immortals",
+          "startMs": 178320,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "182650|Immooooooo immortals",
+          "startMs": 182650,
+          "text": "Immooooooo immortals"
+        },
+        {
+          "key": "188530|ImmorTals",
+          "startMs": 188530,
+          "text": "ImmorTals"
+        }
+      ]
+    }
+  ]
+}

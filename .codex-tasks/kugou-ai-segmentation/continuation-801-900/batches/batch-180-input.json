@@ -1,0 +1,1155 @@
+{
+  "batchNumber": 180,
+  "songs": [
+    {
+      "rank": 896,
+      "songKey": "online:kugou:b4cd715f64e89222c58473287564f5a3",
+      "name": "Immortals",
+      "artist": "Fall Out Boy",
+      "lines": [
+        {
+          "key": "429|Fall Out Boy - Immortals",
+          "startMs": 429,
+          "text": "Fall Out Boy - Immortals"
+        },
+        {
+          "key": "4934|They say we are what we are,",
+          "startMs": 4934,
+          "text": "They say we are what we are,"
+        },
+        {
+          "key": "7084|But we don't have to be,",
+          "startMs": 7084,
+          "text": "But we don't have to be,"
+        },
+        {
+          "key": "9234|I'm bad behavior but I do it in the best way,",
+          "startMs": 9234,
+          "text": "I'm bad behavior but I do it in the best way,"
+        },
+        {
+          "key": "13692|I'll be the watcher (watcher) of the eternal flame,",
+          "startMs": 13692,
+          "text": "I'll be the watcher (watcher) of the eternal flame,"
+        },
+        {
+          "key": "18057|I'll be the guard dog of all your fever dreams,",
+          "startMs": 18057,
+          "text": "I'll be the guard dog of all your fever dreams,"
+        },
+        {
+          "key": "22372|Oooooooh",
+          "startMs": 22372,
+          "text": "Oooooooh"
+        },
+        {
+          "key": "26322|I am the sand in the bottom half of the hourglass (glass, glass)",
+          "startMs": 26322,
+          "text": "I am the sand in the bottom half of the hourglass (glass, glass)"
+        },
+        {
+          "key": "31221|Oooooooh,",
+          "startMs": 31221,
+          "text": "Oooooooh,"
+        },
+        {
+          "key": "34840|I try to picture me without you but I can't",
+          "startMs": 34840,
+          "text": "I try to picture me without you but I can't"
+        },
+        {
+          "key": "38827|'Cause we could be immortals, immortals",
+          "startMs": 38827,
+          "text": "'Cause we could be immortals, immortals"
+        },
+        {
+          "key": "43627|Just not for long, for long,",
+          "startMs": 43627,
+          "text": "Just not for long, for long,"
+        },
+        {
+          "key": "47671|And live with me forever now,",
+          "startMs": 47671,
+          "text": "And live with me forever now,"
+        },
+        {
+          "key": "49635|Pull the blackout curtains down,",
+          "startMs": 49635,
+          "text": "Pull the blackout curtains down,"
+        },
+        {
+          "key": "52745|Just not for long, for long,",
+          "startMs": 52745,
+          "text": "Just not for long, for long,"
+        },
+        {
+          "key": "56917|Because we could be immooooooo- immortals,",
+          "startMs": 56917,
+          "text": "Because we could be immooooooo- immortals,"
+        },
+        {
+          "key": "62083|Immooooooo- immortals,",
+          "startMs": 62083,
+          "text": "Immooooooo- immortals,"
+        },
+        {
+          "key": "66333|Immooooooo- immortals,",
+          "startMs": 66333,
+          "text": "Immooooooo- immortals,"
+        },
+        {
+          "key": "70984|Immooooooo- immortals,",
+          "startMs": 70984,
+          "text": "Immooooooo- immortals,"
+        },
+        {
+          "key": "80500|Sometimes the only pay off for having any faith,",
+          "startMs": 80500,
+          "text": "Sometimes the only pay off for having any faith,"
+        },
+        {
+          "key": "84750|Is when it's tested again and again everyday,",
+          "startMs": 84750,
+          "text": "Is when it's tested again and again everyday,"
+        },
+        {
+          "key": "89227|I'm still comparing your past to my future,",
+          "startMs": 89227,
+          "text": "I'm still comparing your past to my future,"
+        },
+        {
+          "key": "93684|It might be your wound but they're my sutures,",
+          "startMs": 93684,
+          "text": "It might be your wound but they're my sutures,"
+        },
+        {
+          "key": "98043|Oooooooh",
+          "startMs": 98043,
+          "text": "Oooooooh"
+        },
+        {
+          "key": "101743|I am the sand in the bottom half of the hourglass (glass, glass)",
+          "startMs": 101743,
+          "text": "I am the sand in the bottom half of the hourglass (glass, glass)"
+        },
+        {
+          "key": "106862|Oooooooh,",
+          "startMs": 106862,
+          "text": "Oooooooh,"
+        },
+        {
+          "key": "110462|I try to picture me without you but I can't",
+          "startMs": 110462,
+          "text": "I try to picture me without you but I can't"
+        },
+        {
+          "key": "114293|'Cause we could be immortals, immortals,",
+          "startMs": 114293,
+          "text": "'Cause we could be immortals, immortals,"
+        },
+        {
+          "key": "119346|Just not for long, for long,",
+          "startMs": 119346,
+          "text": "Just not for long, for long,"
+        },
+        {
+          "key": "122635|And live with me forever now,",
+          "startMs": 122635,
+          "text": "And live with me forever now,"
+        },
+        {
+          "key": "125068|Pull the blackout curtains down,",
+          "startMs": 125068,
+          "text": "Pull the blackout curtains down,"
+        },
+        {
+          "key": "128058|Just not for long, for long,",
+          "startMs": 128058,
+          "text": "Just not for long, for long,"
+        },
+        {
+          "key": "132254|We could be immooooooo- immortals,",
+          "startMs": 132254,
+          "text": "We could be immooooooo- immortals,"
+        },
+        {
+          "key": "137632|Immooooooo- immortals,",
+          "startMs": 137632,
+          "text": "Immooooooo- immortals,"
+        },
+        {
+          "key": "143373|Immortals,",
+          "startMs": 143373,
+          "text": "Immortals,"
+        },
+        {
+          "key": "144823|And live with me forever now,",
+          "startMs": 144823,
+          "text": "And live with me forever now,"
+        },
+        {
+          "key": "149598|Pull the blackout curtains down,",
+          "startMs": 149598,
+          "text": "Pull the blackout curtains down,"
+        },
+        {
+          "key": "154471|we could be immortals, immortals,",
+          "startMs": 154471,
+          "text": "we could be immortals, immortals,"
+        },
+        {
+          "key": "159272|Just not for long, for long,",
+          "startMs": 159272,
+          "text": "Just not for long, for long,"
+        },
+        {
+          "key": "163469|We could be immooooooo- immortals,",
+          "startMs": 163469,
+          "text": "We could be immooooooo- immortals,"
+        },
+        {
+          "key": "168672|Immooooooo- immortals,",
+          "startMs": 168672,
+          "text": "Immooooooo- immortals,"
+        },
+        {
+          "key": "173123|Immooooooo- immortals,",
+          "startMs": 173123,
+          "text": "Immooooooo- immortals,"
+        },
+        {
+          "key": "177573|Immooooooo- immortals,",
+          "startMs": 177573,
+          "text": "Immooooooo- immortals,"
+        }
+      ]
+    },
+    {
+      "rank": 897,
+      "songKey": "online:kugou:f5a23aef2641965d5d8b15a728a3e907",
+      "name": "心愿便利贴",
+      "artist": "杜若Dora / 青睐",
+      "lines": [
+        {
+          "key": "846|心愿便利贴 - 杜若Dora/青睐",
+          "startMs": 846,
+          "text": "心愿便利贴 - 杜若Dora/青睐"
+        },
+        {
+          "key": "2555|词：陈静楠",
+          "startMs": 2555,
+          "text": "词：陈静楠"
+        },
+        {
+          "key": "3337|曲：方文良",
+          "startMs": 3337,
+          "text": "曲：方文良"
+        },
+        {
+          "key": "20691|男：",
+          "startMs": 20691,
+          "text": "男："
+        },
+        {
+          "key": "21528|一天一天贴近你的心",
+          "startMs": 21528,
+          "text": "一天一天贴近你的心"
+        },
+        {
+          "key": "26371|你开心我关心",
+          "startMs": 26371,
+          "text": "你开心我关心"
+        },
+        {
+          "key": "30430|女：",
+          "startMs": 30430,
+          "text": "女："
+        },
+        {
+          "key": "31387|一点一滴我都能感应",
+          "startMs": 31387,
+          "text": "一点一滴我都能感应"
+        },
+        {
+          "key": "35778|你是我最美的相信",
+          "startMs": 35778,
+          "text": "你是我最美的相信"
+        },
+        {
+          "key": "40040|男：",
+          "startMs": 40040,
+          "text": "男："
+        },
+        {
+          "key": "40550|等不到双子座流星雨洒满天际",
+          "startMs": 40550,
+          "text": "等不到双子座流星雨洒满天际"
+        },
+        {
+          "key": "45149|女：",
+          "startMs": 45149,
+          "text": "女："
+        },
+        {
+          "key": "45465|先点燃九支仙女棒代替",
+          "startMs": 45465,
+          "text": "先点燃九支仙女棒代替"
+        },
+        {
+          "key": "49748|男：",
+          "startMs": 49748,
+          "text": "男："
+        },
+        {
+          "key": "50430|最灿烂不一定要许多钻石黄金",
+          "startMs": 50430,
+          "text": "最灿烂不一定要许多钻石黄金"
+        },
+        {
+          "key": "55250|合：",
+          "startMs": 55250,
+          "text": "合："
+        },
+        {
+          "key": "55553|看你眼睛有幸福的倒影",
+          "startMs": 55553,
+          "text": "看你眼睛有幸福的倒影"
+        },
+        {
+          "key": "59870|女：",
+          "startMs": 59870,
+          "text": "女："
+        },
+        {
+          "key": "60288|把你的讨厌宅急便送到天边",
+          "startMs": 60288,
+          "text": "把你的讨厌宅急便送到天边"
+        },
+        {
+          "key": "64959|男：",
+          "startMs": 64959,
+          "text": "男："
+        },
+        {
+          "key": "65405|平凡的傻事用了心变成经典",
+          "startMs": 65405,
+          "text": "平凡的傻事用了心变成经典"
+        },
+        {
+          "key": "69843|合：",
+          "startMs": 69843,
+          "text": "合："
+        },
+        {
+          "key": "70319|存满满的心愿",
+          "startMs": 70319,
+          "text": "存满满的心愿"
+        },
+        {
+          "key": "72588|便利贴贴成无限",
+          "startMs": 72588,
+          "text": "便利贴贴成无限"
+        },
+        {
+          "key": "75484|就是我们最富有的宣言",
+          "startMs": 75484,
+          "text": "就是我们最富有的宣言"
+        },
+        {
+          "key": "80233|男：",
+          "startMs": 80233,
+          "text": "男："
+        },
+        {
+          "key": "80481|把你的喜欢每一天复习两遍",
+          "startMs": 80481,
+          "text": "把你的喜欢每一天复习两遍"
+        },
+        {
+          "key": "85258|女：",
+          "startMs": 85258,
+          "text": "女："
+        },
+        {
+          "key": "85492|惊喜的预言我的天通通应验",
+          "startMs": 85492,
+          "text": "惊喜的预言我的天通通应验"
+        },
+        {
+          "key": "89984|合：",
+          "startMs": 89984,
+          "text": "合："
+        },
+        {
+          "key": "90392|你和我的心愿",
+          "startMs": 90392,
+          "text": "你和我的心愿"
+        },
+        {
+          "key": "92515|便利贴贴心里面",
+          "startMs": 92515,
+          "text": "便利贴贴心里面"
+        },
+        {
+          "key": "95371|收集感动给以后怀念",
+          "startMs": 95371,
+          "text": "收集感动给以后怀念"
+        },
+        {
+          "key": "110411|男：",
+          "startMs": 110411,
+          "text": "男："
+        },
+        {
+          "key": "110731|等不到双子座流星雨洒满天际",
+          "startMs": 110731,
+          "text": "等不到双子座流星雨洒满天际"
+        },
+        {
+          "key": "115269|女：",
+          "startMs": 115269,
+          "text": "女："
+        },
+        {
+          "key": "115619|先点燃九支仙女棒代替",
+          "startMs": 115619,
+          "text": "先点燃九支仙女棒代替"
+        },
+        {
+          "key": "119788|男：",
+          "startMs": 119788,
+          "text": "男："
+        },
+        {
+          "key": "120415|最灿烂不一定要许多钻石黄金",
+          "startMs": 120415,
+          "text": "最灿烂不一定要许多钻石黄金"
+        },
+        {
+          "key": "124946|合：",
+          "startMs": 124946,
+          "text": "合："
+        },
+        {
+          "key": "125362|看你眼睛有幸福的倒影",
+          "startMs": 125362,
+          "text": "看你眼睛有幸福的倒影"
+        },
+        {
+          "key": "129768|女：",
+          "startMs": 129768,
+          "text": "女："
+        },
+        {
+          "key": "130315|把你的讨厌宅急便送到天边",
+          "startMs": 130315,
+          "text": "把你的讨厌宅急便送到天边"
+        },
+        {
+          "key": "135007|男：",
+          "startMs": 135007,
+          "text": "男："
+        },
+        {
+          "key": "135516|平凡的傻事用了心变成经典",
+          "startMs": 135516,
+          "text": "平凡的傻事用了心变成经典"
+        },
+        {
+          "key": "139925|合：",
+          "startMs": 139925,
+          "text": "合："
+        },
+        {
+          "key": "140421|存满满的心愿",
+          "startMs": 140421,
+          "text": "存满满的心愿"
+        },
+        {
+          "key": "142560|便利贴贴成无限",
+          "startMs": 142560,
+          "text": "便利贴贴成无限"
+        },
+        {
+          "key": "145550|就是我们最富有的宣言",
+          "startMs": 145550,
+          "text": "就是我们最富有的宣言"
+        },
+        {
+          "key": "149994|男：",
+          "startMs": 149994,
+          "text": "男："
+        },
+        {
+          "key": "150526|把你的喜欢每一天复习两遍",
+          "startMs": 150526,
+          "text": "把你的喜欢每一天复习两遍"
+        },
+        {
+          "key": "155042|女：",
+          "startMs": 155042,
+          "text": "女："
+        },
+        {
+          "key": "155447|惊喜的预言我的天通通应验",
+          "startMs": 155447,
+          "text": "惊喜的预言我的天通通应验"
+        },
+        {
+          "key": "160291|合：",
+          "startMs": 160291,
+          "text": "合："
+        },
+        {
+          "key": "160636|你和我的心愿",
+          "startMs": 160636,
+          "text": "你和我的心愿"
+        },
+        {
+          "key": "162520|便利贴贴心里面",
+          "startMs": 162520,
+          "text": "便利贴贴心里面"
+        },
+        {
+          "key": "165388|收集感动给以后怀念",
+          "startMs": 165388,
+          "text": "收集感动给以后怀念"
+        },
+        {
+          "key": "171942|哒哒哒哒哒哒哒哒哒哒",
+          "startMs": 171942,
+          "text": "哒哒哒哒哒哒哒哒哒哒"
+        },
+        {
+          "key": "190537|女：",
+          "startMs": 190537,
+          "text": "女："
+        },
+        {
+          "key": "190705|把你的讨厌宅急便送到天边",
+          "startMs": 190705,
+          "text": "把你的讨厌宅急便送到天边"
+        },
+        {
+          "key": "195035|男：",
+          "startMs": 195035,
+          "text": "男："
+        },
+        {
+          "key": "195399|平凡的傻事用了心变成经典",
+          "startMs": 195399,
+          "text": "平凡的傻事用了心变成经典"
+        },
+        {
+          "key": "199874|合：",
+          "startMs": 199874,
+          "text": "合："
+        },
+        {
+          "key": "200354|存满满的心愿",
+          "startMs": 200354,
+          "text": "存满满的心愿"
+        },
+        {
+          "key": "202559|便利贴贴成无限",
+          "startMs": 202559,
+          "text": "便利贴贴成无限"
+        },
+        {
+          "key": "205425|就是我们最富有的宣言",
+          "startMs": 205425,
+          "text": "就是我们最富有的宣言"
+        },
+        {
+          "key": "210420|把你的喜欢每一天复习两遍",
+          "startMs": 210420,
+          "text": "把你的喜欢每一天复习两遍"
+        },
+        {
+          "key": "215378|惊喜的预言都为你提早应验",
+          "startMs": 215378,
+          "text": "惊喜的预言都为你提早应验"
+        },
+        {
+          "key": "220418|你和我的心愿",
+          "startMs": 220418,
+          "text": "你和我的心愿"
+        },
+        {
+          "key": "222562|便利贴贴心里面",
+          "startMs": 222562,
+          "text": "便利贴贴心里面"
+        },
+        {
+          "key": "225507|收集感动给以后怀念",
+          "startMs": 225507,
+          "text": "收集感动给以后怀念"
+        },
+        {
+          "key": "231410|女：",
+          "startMs": 231410,
+          "text": "女："
+        },
+        {
+          "key": "231719|一天一天贴近你的心",
+          "startMs": 231719,
+          "text": "一天一天贴近你的心"
+        },
+        {
+          "key": "235490|男：",
+          "startMs": 235490,
+          "text": "男："
+        },
+        {
+          "key": "236244|一点一滴我都能感应",
+          "startMs": 236244,
+          "text": "一点一滴我都能感应"
+        },
+        {
+          "key": "241369|合：",
+          "startMs": 241369,
+          "text": "合："
+        },
+        {
+          "key": "241725|你是最美的相信",
+          "startMs": 241725,
+          "text": "你是最美的相信"
+        }
+      ]
+    },
+    {
+      "rank": 898,
+      "songKey": "online:kugou:0649b18acb158438f7b4efa80f23159d",
+      "name": "夜空中最亮的星",
+      "artist": "G.E.M.邓紫棋",
+      "lines": [
+        {
+          "key": "2458|G.E.M.邓紫棋 - 夜空中最亮的星",
+          "startMs": 2458,
+          "text": "G.E.M.邓紫棋 - 夜空中最亮的星"
+        },
+        {
+          "key": "4332|作词：逃跑计划",
+          "startMs": 4332,
+          "text": "作词：逃跑计划"
+        },
+        {
+          "key": "5497|作曲：逃跑计划",
+          "startMs": 5497,
+          "text": "作曲：逃跑计划"
+        },
+        {
+          "key": "6610|编曲：Lupo Groinig",
+          "startMs": 6610,
+          "text": "编曲：Lupo Groinig"
+        },
+        {
+          "key": "8749|夜空中最亮的星",
+          "startMs": 8749,
+          "text": "夜空中最亮的星"
+        },
+        {
+          "key": "12893|能否听清",
+          "startMs": 12893,
+          "text": "能否听清"
+        },
+        {
+          "key": "17251|那仰望的人",
+          "startMs": 17251,
+          "text": "那仰望的人"
+        },
+        {
+          "key": "19356|心底的孤独和叹息",
+          "startMs": 19356,
+          "text": "心底的孤独和叹息"
+        },
+        {
+          "key": "26069|夜空中最亮的星",
+          "startMs": 26069,
+          "text": "夜空中最亮的星"
+        },
+        {
+          "key": "30408|能否记起",
+          "startMs": 30408,
+          "text": "能否记起"
+        },
+        {
+          "key": "34658|曾与我同行",
+          "startMs": 34658,
+          "text": "曾与我同行"
+        },
+        {
+          "key": "36980|消失在风里的身影",
+          "startMs": 36980,
+          "text": "消失在风里的身影"
+        },
+        {
+          "key": "42661|我祈祷拥有一颗透明的心灵",
+          "startMs": 42661,
+          "text": "我祈祷拥有一颗透明的心灵"
+        },
+        {
+          "key": "47499|和会流泪的眼睛",
+          "startMs": 47499,
+          "text": "和会流泪的眼睛"
+        },
+        {
+          "key": "52970|给我再去相信的勇气",
+          "startMs": 52970,
+          "text": "给我再去相信的勇气"
+        },
+        {
+          "key": "56213|越过谎言去拥抱你",
+          "startMs": 56213,
+          "text": "越过谎言去拥抱你"
+        },
+        {
+          "key": "60111|每当我找不到存在的意义",
+          "startMs": 60111,
+          "text": "每当我找不到存在的意义"
+        },
+        {
+          "key": "64719|每当我迷失在黑夜里",
+          "startMs": 64719,
+          "text": "每当我迷失在黑夜里"
+        },
+        {
+          "key": "69023|Oh夜空中最亮的星",
+          "startMs": 69023,
+          "text": "Oh夜空中最亮的星"
+        },
+        {
+          "key": "73766|请照亮我前行",
+          "startMs": 73766,
+          "text": "请照亮我前行"
+        },
+        {
+          "key": "83022|夜空中最亮的星",
+          "startMs": 83022,
+          "text": "夜空中最亮的星"
+        },
+        {
+          "key": "87020|是否知道",
+          "startMs": 87020,
+          "text": "是否知道"
+        },
+        {
+          "key": "91428|曾与我同行的身影",
+          "startMs": 91428,
+          "text": "曾与我同行的身影"
+        },
+        {
+          "key": "94414|如今在哪里",
+          "startMs": 94414,
+          "text": "如今在哪里"
+        },
+        {
+          "key": "98532|Oh夜空中最亮的星",
+          "startMs": 98532,
+          "text": "Oh夜空中最亮的星"
+        },
+        {
+          "key": "104503|是否在意",
+          "startMs": 104503,
+          "text": "是否在意"
+        },
+        {
+          "key": "108474|是太阳先升起",
+          "startMs": 108474,
+          "text": "是太阳先升起"
+        },
+        {
+          "key": "111059|还是意外先来临",
+          "startMs": 111059,
+          "text": "还是意外先来临"
+        },
+        {
+          "key": "116604|我祈祷拥有一颗透明的心灵",
+          "startMs": 116604,
+          "text": "我祈祷拥有一颗透明的心灵"
+        },
+        {
+          "key": "121611|和会流泪的眼睛",
+          "startMs": 121611,
+          "text": "和会流泪的眼睛"
+        },
+        {
+          "key": "127124|给我再去相信的勇气",
+          "startMs": 127124,
+          "text": "给我再去相信的勇气"
+        },
+        {
+          "key": "130413|越过谎言去拥抱你",
+          "startMs": 130413,
+          "text": "越过谎言去拥抱你"
+        },
+        {
+          "key": "134280|每当我找不到存在的意义",
+          "startMs": 134280,
+          "text": "每当我找不到存在的意义"
+        },
+        {
+          "key": "138937|每当我迷失在黑夜里",
+          "startMs": 138937,
+          "text": "每当我迷失在黑夜里"
+        },
+        {
+          "key": "143192|Oh夜空中最亮的星",
+          "startMs": 143192,
+          "text": "Oh夜空中最亮的星"
+        },
+        {
+          "key": "147755|请照亮我前行",
+          "startMs": 147755,
+          "text": "请照亮我前行"
+        },
+        {
+          "key": "153278|夜空中最亮的星",
+          "startMs": 153278,
+          "text": "夜空中最亮的星"
+        },
+        {
+          "key": "156515|请照亮我前行",
+          "startMs": 156515,
+          "text": "请照亮我前行"
+        },
+        {
+          "key": "162028|夜空中最亮的星",
+          "startMs": 162028,
+          "text": "夜空中最亮的星"
+        },
+        {
+          "key": "165225|请照亮我前行",
+          "startMs": 165225,
+          "text": "请照亮我前行"
+        },
+        {
+          "key": "170690|夜空中最亮的星",
+          "startMs": 170690,
+          "text": "夜空中最亮的星"
+        },
+        {
+          "key": "173933|请照亮我前行",
+          "startMs": 173933,
+          "text": "请照亮我前行"
+        },
+        {
+          "key": "178190|Oh夜空中最亮的星",
+          "startMs": 178190,
+          "text": "Oh夜空中最亮的星"
+        },
+        {
+          "key": "182694|请照亮我前行",
+          "startMs": 182694,
+          "text": "请照亮我前行"
+        },
+        {
+          "key": "191244|我不愿忘记你的眼睛",
+          "startMs": 191244,
+          "text": "我不愿忘记你的眼睛"
+        },
+        {
+          "key": "196919|给我再去相信的勇气",
+          "startMs": 196919,
+          "text": "给我再去相信的勇气"
+        },
+        {
+          "key": "200307|越过谎言去拥抱你",
+          "startMs": 200307,
+          "text": "越过谎言去拥抱你"
+        },
+        {
+          "key": "205469|我找不到存在的意义",
+          "startMs": 205469,
+          "text": "我找不到存在的意义"
+        },
+        {
+          "key": "208813|每当我迷失在黑夜里",
+          "startMs": 208813,
+          "text": "每当我迷失在黑夜里"
+        },
+        {
+          "key": "211480|我迷失在黑夜里",
+          "startMs": 211480,
+          "text": "我迷失在黑夜里"
+        },
+        {
+          "key": "214252|Oh夜空中最亮的星",
+          "startMs": 214252,
+          "text": "Oh夜空中最亮的星"
+        },
+        {
+          "key": "217591|请照亮我前行",
+          "startMs": 217591,
+          "text": "请照亮我前行"
+        }
+      ]
+    },
+    {
+      "rank": 899,
+      "songKey": "online:kugou:98ed54303c9dd649149c9420271a181b",
+      "name": "A Little Story (Penbeat|六人合奏)",
+      "artist": "纯音乐",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 900,
+      "songKey": "online:kugou:eb494f1f9199aa29f66e056f116d2f1c",
+      "name": "老男孩",
+      "artist": "筷子兄弟",
+      "lines": [
+        {
+          "key": "0|老男孩(《老男孩》电影主题曲)",
+          "startMs": 0,
+          "text": "老男孩(《老男孩》电影主题曲)"
+        },
+        {
+          "key": "5107|词：王太利",
+          "startMs": 5107,
+          "text": "词：王太利"
+        },
+        {
+          "key": "10214|曲：大桥卓弥",
+          "startMs": 10214,
+          "text": "曲：大桥卓弥"
+        },
+        {
+          "key": "15321|SP：联合娱乐",
+          "startMs": 15321,
+          "text": "SP：联合娱乐"
+        },
+        {
+          "key": "20430|那是我日夜思念深深爱着的人啊",
+          "startMs": 20430,
+          "text": "那是我日夜思念深深爱着的人啊"
+        },
+        {
+          "key": "26730|到底我该如何表达",
+          "startMs": 26730,
+          "text": "到底我该如何表达"
+        },
+        {
+          "key": "30210|她会接受我吗",
+          "startMs": 30210,
+          "text": "她会接受我吗"
+        },
+        {
+          "key": "33810|也许永远都不会跟她说出那句话",
+          "startMs": 33810,
+          "text": "也许永远都不会跟她说出那句话"
+        },
+        {
+          "key": "40110|注定我要浪迹天涯",
+          "startMs": 40110,
+          "text": "注定我要浪迹天涯"
+        },
+        {
+          "key": "43590|怎么能有牵挂",
+          "startMs": 43590,
+          "text": "怎么能有牵挂"
+        },
+        {
+          "key": "46260|梦想总是遥不可及",
+          "startMs": 46260,
+          "text": "梦想总是遥不可及"
+        },
+        {
+          "key": "50040|是不是应该放弃",
+          "startMs": 50040,
+          "text": "是不是应该放弃"
+        },
+        {
+          "key": "52920|花开花落又是一季",
+          "startMs": 52920,
+          "text": "花开花落又是一季"
+        },
+        {
+          "key": "56700|春天啊你在哪里",
+          "startMs": 56700,
+          "text": "春天啊你在哪里"
+        },
+        {
+          "key": "65010|青春如同奔流的江河",
+          "startMs": 65010,
+          "text": "青春如同奔流的江河"
+        },
+        {
+          "key": "68430|一去不回来不及道别",
+          "startMs": 68430,
+          "text": "一去不回来不及道别"
+        },
+        {
+          "key": "71730|只剩下麻木的我没有了当年的热血",
+          "startMs": 71730,
+          "text": "只剩下麻木的我没有了当年的热血"
+        },
+        {
+          "key": "78390|看那漫天飘零的花朵",
+          "startMs": 78390,
+          "text": "看那漫天飘零的花朵"
+        },
+        {
+          "key": "81690|在最美丽的时刻凋谢",
+          "startMs": 81690,
+          "text": "在最美丽的时刻凋谢"
+        },
+        {
+          "key": "85050|有谁会记得这世界他来过",
+          "startMs": 85050,
+          "text": "有谁会记得这世界他来过"
+        },
+        {
+          "key": "95490|转眼过去多年世间多少离合悲欢",
+          "startMs": 95490,
+          "text": "转眼过去多年世间多少离合悲欢"
+        },
+        {
+          "key": "101700|曾经志在四方少年羡慕南飞的雁",
+          "startMs": 101700,
+          "text": "曾经志在四方少年羡慕南飞的雁"
+        },
+        {
+          "key": "108810|各自奔前程的身影匆匆渐行渐远",
+          "startMs": 108810,
+          "text": "各自奔前程的身影匆匆渐行渐远"
+        },
+        {
+          "key": "115050|未来在哪里平凡啊谁给我答案",
+          "startMs": 115050,
+          "text": "未来在哪里平凡啊谁给我答案"
+        },
+        {
+          "key": "121260|那时陪伴我的人哪你们如今在何方",
+          "startMs": 121260,
+          "text": "那时陪伴我的人哪你们如今在何方"
+        },
+        {
+          "key": "127800|我曾经爱过的人啊现在是什么模样",
+          "startMs": 127800,
+          "text": "我曾经爱过的人啊现在是什么模样"
+        },
+        {
+          "key": "140040|当初的愿望实现了吗",
+          "startMs": 140040,
+          "text": "当初的愿望实现了吗"
+        },
+        {
+          "key": "143310|事到如今只好祭奠吗",
+          "startMs": 143310,
+          "text": "事到如今只好祭奠吗"
+        },
+        {
+          "key": "146670|任岁月风干理想再也找不回真的我",
+          "startMs": 146670,
+          "text": "任岁月风干理想再也找不回真的我"
+        },
+        {
+          "key": "153390|抬头仰望这满天星河",
+          "startMs": 153390,
+          "text": "抬头仰望这满天星河"
+        },
+        {
+          "key": "156720|那时候陪伴我的那颗",
+          "startMs": 156720,
+          "text": "那时候陪伴我的那颗"
+        },
+        {
+          "key": "160080|这里的故事你是否还记得",
+          "startMs": 160080,
+          "text": "这里的故事你是否还记得"
+        },
+        {
+          "key": "196170|生活像一把无情刻刀",
+          "startMs": 196170,
+          "text": "生活像一把无情刻刀"
+        },
+        {
+          "key": "200100|改变了我们模样",
+          "startMs": 200100,
+          "text": "改变了我们模样"
+        },
+        {
+          "key": "202860|未曾绽放就要枯萎吗",
+          "startMs": 202860,
+          "text": "未曾绽放就要枯萎吗"
+        },
+        {
+          "key": "207060|我有过梦想",
+          "startMs": 207060,
+          "text": "我有过梦想"
+        },
+        {
+          "key": "215040|青春如同奔流的江河",
+          "startMs": 215040,
+          "text": "青春如同奔流的江河"
+        },
+        {
+          "key": "218430|一去不回来不及道别",
+          "startMs": 218430,
+          "text": "一去不回来不及道别"
+        },
+        {
+          "key": "221730|只剩下麻木的我没有了当年的热血",
+          "startMs": 221730,
+          "text": "只剩下麻木的我没有了当年的热血"
+        },
+        {
+          "key": "228360|看那满天飘零的花朵",
+          "startMs": 228360,
+          "text": "看那满天飘零的花朵"
+        },
+        {
+          "key": "231750|在最美丽的时刻凋谢",
+          "startMs": 231750,
+          "text": "在最美丽的时刻凋谢"
+        },
+        {
+          "key": "235080|有谁会记得这世界它曾经来过",
+          "startMs": 235080,
+          "text": "有谁会记得这世界它曾经来过"
+        },
+        {
+          "key": "241680|当初的愿望实现了吗",
+          "startMs": 241680,
+          "text": "当初的愿望实现了吗"
+        },
+        {
+          "key": "245010|事到如今只好祭奠吗",
+          "startMs": 245010,
+          "text": "事到如今只好祭奠吗"
+        },
+        {
+          "key": "248340|任岁月风干理想再也找不回真的我",
+          "startMs": 248340,
+          "text": "任岁月风干理想再也找不回真的我"
+        },
+        {
+          "key": "255030|抬头仰望这满天星河",
+          "startMs": 255030,
+          "text": "抬头仰望这满天星河"
+        },
+        {
+          "key": "258300|那时候陪伴我的那颗",
+          "startMs": 258300,
+          "text": "那时候陪伴我的那颗"
+        },
+        {
+          "key": "261690|这里的故事你是否还记得",
+          "startMs": 261690,
+          "text": "这里的故事你是否还记得"
+        },
+        {
+          "key": "268320|如果有明天祝福你亲爱的",
+          "startMs": 268320,
+          "text": "如果有明天祝福你亲爱的"
+        }
+      ]
+    }
+  ]
+}

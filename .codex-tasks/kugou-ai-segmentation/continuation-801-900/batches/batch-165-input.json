@@ -1,0 +1,1105 @@
+{
+  "batchNumber": 165,
+  "songs": [
+    {
+      "rank": 821,
+      "songKey": "online:kugou:1fa2b38dd12a487ab621bc666de4965e",
+      "name": "爱你",
+      "artist": "陈芳语",
+      "lines": [
+        {
+          "key": "0|爱你 - 陈芳语 (Kimberley Chen)",
+          "startMs": 0,
+          "text": "爱你 - 陈芳语 (Kimberley Chen)"
+        },
+        {
+          "key": "3867|词：黄祖荫",
+          "startMs": 3867,
+          "text": "词：黄祖荫"
+        },
+        {
+          "key": "4640|曲：陈芳语/陶山",
+          "startMs": 4640,
+          "text": "曲：陈芳语/陶山"
+        },
+        {
+          "key": "5878|编曲：陶山",
+          "startMs": 5878,
+          "text": "编曲：陶山"
+        },
+        {
+          "key": "6652|我闭上眼睛",
+          "startMs": 6652,
+          "text": "我闭上眼睛"
+        },
+        {
+          "key": "9072|贴着你心跳呼吸",
+          "startMs": 9072,
+          "text": "贴着你心跳呼吸"
+        },
+        {
+          "key": "13292|而此刻地球",
+          "startMs": 13292,
+          "text": "而此刻地球"
+        },
+        {
+          "key": "15752|只剩我们而已",
+          "startMs": 15752,
+          "text": "只剩我们而已"
+        },
+        {
+          "key": "19872|你微笑的唇型",
+          "startMs": 19872,
+          "text": "你微笑的唇型"
+        },
+        {
+          "key": "22842|总勾着我的心",
+          "startMs": 22842,
+          "text": "总勾着我的心"
+        },
+        {
+          "key": "26582|每一秒初吻",
+          "startMs": 26582,
+          "text": "每一秒初吻"
+        },
+        {
+          "key": "29012|我每一秒都想要吻你",
+          "startMs": 29012,
+          "text": "我每一秒都想要吻你"
+        },
+        {
+          "key": "35732|就这样爱你爱你爱你",
+          "startMs": 35732,
+          "text": "就这样爱你爱你爱你"
+        },
+        {
+          "key": "39432|随时都要一起",
+          "startMs": 39432,
+          "text": "随时都要一起"
+        },
+        {
+          "key": "42392|我喜欢爱你外套味道",
+          "startMs": 42392,
+          "text": "我喜欢爱你外套味道"
+        },
+        {
+          "key": "46162|还有你的怀里",
+          "startMs": 46162,
+          "text": "还有你的怀里"
+        },
+        {
+          "key": "49092|把我们衣服纽扣互扣",
+          "startMs": 49092,
+          "text": "把我们衣服纽扣互扣"
+        },
+        {
+          "key": "52842|那就不用分离",
+          "startMs": 52842,
+          "text": "那就不用分离"
+        },
+        {
+          "key": "56562|美好爱情",
+          "startMs": 56562,
+          "text": "美好爱情"
+        },
+        {
+          "key": "59102|我就爱这样贴近",
+          "startMs": 59102,
+          "text": "我就爱这样贴近"
+        },
+        {
+          "key": "62472|因为你",
+          "startMs": 62472,
+          "text": "因为你"
+        },
+        {
+          "key": "76912|有时没生气",
+          "startMs": 76912,
+          "text": "有时没生气"
+        },
+        {
+          "key": "79502|故意闹脾气",
+          "startMs": 79502,
+          "text": "故意闹脾气"
+        },
+        {
+          "key": "83262|你的紧张在意",
+          "startMs": 83262,
+          "text": "你的紧张在意"
+        },
+        {
+          "key": "85732|让我觉得安心",
+          "startMs": 85732,
+          "text": "让我觉得安心"
+        },
+        {
+          "key": "89852|从你某个角度",
+          "startMs": 89852,
+          "text": "从你某个角度"
+        },
+        {
+          "key": "92952|我总看见自己",
+          "startMs": 92952,
+          "text": "我总看见自己"
+        },
+        {
+          "key": "96622|到底你懂我",
+          "startMs": 96622,
+          "text": "到底你懂我"
+        },
+        {
+          "key": "99112|或其实我本来就像你",
+          "startMs": 99112,
+          "text": "或其实我本来就像你"
+        },
+        {
+          "key": "105712|就这样爱你爱你爱你",
+          "startMs": 105712,
+          "text": "就这样爱你爱你爱你"
+        },
+        {
+          "key": "109422|随时都要一起",
+          "startMs": 109422,
+          "text": "随时都要一起"
+        },
+        {
+          "key": "112392|我喜欢爱你外套味道",
+          "startMs": 112392,
+          "text": "我喜欢爱你外套味道"
+        },
+        {
+          "key": "116162|还有你的怀里",
+          "startMs": 116162,
+          "text": "还有你的怀里"
+        },
+        {
+          "key": "119092|把我们衣服纽扣互扣",
+          "startMs": 119092,
+          "text": "把我们衣服纽扣互扣"
+        },
+        {
+          "key": "122802|那就不用分离",
+          "startMs": 122802,
+          "text": "那就不用分离"
+        },
+        {
+          "key": "126572|美好爱情",
+          "startMs": 126572,
+          "text": "美好爱情"
+        },
+        {
+          "key": "129092|我就爱这样贴近",
+          "startMs": 129092,
+          "text": "我就爱这样贴近"
+        },
+        {
+          "key": "132422|因为你",
+          "startMs": 132422,
+          "text": "因为你"
+        },
+        {
+          "key": "135262|想变成你的氧气",
+          "startMs": 135262,
+          "text": "想变成你的氧气"
+        },
+        {
+          "key": "144822|溜进你身体里",
+          "startMs": 144822,
+          "text": "溜进你身体里"
+        },
+        {
+          "key": "148492|好好看看在你心里",
+          "startMs": 148492,
+          "text": "好好看看在你心里"
+        },
+        {
+          "key": "158232|你有多么宝贝",
+          "startMs": 158232,
+          "text": "你有多么宝贝"
+        },
+        {
+          "key": "160782|就这样爱你爱你爱你",
+          "startMs": 160782,
+          "text": "就这样爱你爱你爱你"
+        },
+        {
+          "key": "166572|随时都要一起",
+          "startMs": 166572,
+          "text": "随时都要一起"
+        },
+        {
+          "key": "168882|我喜欢爱你外套味道",
+          "startMs": 168882,
+          "text": "我喜欢爱你外套味道"
+        },
+        {
+          "key": "172842|还有你的怀里",
+          "startMs": 172842,
+          "text": "还有你的怀里"
+        },
+        {
+          "key": "175802|把我们衣服纽扣互扣",
+          "startMs": 175802,
+          "text": "把我们衣服纽扣互扣"
+        },
+        {
+          "key": "179362|那就不用分离",
+          "startMs": 179362,
+          "text": "那就不用分离"
+        },
+        {
+          "key": "181522|美好爱情",
+          "startMs": 181522,
+          "text": "美好爱情"
+        },
+        {
+          "key": "185782|我就爱这样贴近因为你",
+          "startMs": 185782,
+          "text": "我就爱这样贴近因为你"
+        },
+        {
+          "key": "191082|我们爱情会一直没有距离",
+          "startMs": 191082,
+          "text": "我们爱情会一直没有距离"
+        },
+        {
+          "key": "195822|最美丽",
+          "startMs": 195822,
+          "text": "最美丽"
+        }
+      ]
+    },
+    {
+      "rank": 822,
+      "songKey": "online:kugou:14439dfe0e5defed10586237f1529f72",
+      "name": "小情歌",
+      "artist": "苏打绿",
+      "lines": [
+        {
+          "key": "218|苏打绿 - 小情歌",
+          "startMs": 218,
+          "text": "苏打绿 - 小情歌"
+        },
+        {
+          "key": "503|作词：吴青峰",
+          "startMs": 503,
+          "text": "作词：吴青峰"
+        },
+        {
+          "key": "788|作曲：吴青峰",
+          "startMs": 788,
+          "text": "作曲：吴青峰"
+        },
+        {
+          "key": "1000|编曲：苏打绿",
+          "startMs": 1000,
+          "text": "编曲：苏打绿"
+        },
+        {
+          "key": "30324|这是一首简单的小情歌",
+          "startMs": 30324,
+          "text": "这是一首简单的小情歌"
+        },
+        {
+          "key": "37515|唱着人们心肠的曲折",
+          "startMs": 37515,
+          "text": "唱着人们心肠的曲折"
+        },
+        {
+          "key": "43676|我想我很快乐",
+          "startMs": 43676,
+          "text": "我想我很快乐"
+        },
+        {
+          "key": "47232|当有你的温热",
+          "startMs": 47232,
+          "text": "当有你的温热"
+        },
+        {
+          "key": "51500|脚边的空气转了",
+          "startMs": 51500,
+          "text": "脚边的空气转了"
+        },
+        {
+          "key": "73908|这是一首简单的小情歌",
+          "startMs": 73908,
+          "text": "这是一首简单的小情歌"
+        },
+        {
+          "key": "81023|唱着我们心头的白鸽",
+          "startMs": 81023,
+          "text": "唱着我们心头的白鸽"
+        },
+        {
+          "key": "87220|我想我很适合",
+          "startMs": 87220,
+          "text": "我想我很适合"
+        },
+        {
+          "key": "90851|当一个歌颂者",
+          "startMs": 90851,
+          "text": "当一个歌颂者"
+        },
+        {
+          "key": "95120|青春在风中飘着",
+          "startMs": 95120,
+          "text": "青春在风中飘着"
+        },
+        {
+          "key": "101878|你知道",
+          "startMs": 101878,
+          "text": "你知道"
+        },
+        {
+          "key": "102873|就算大雨让整座城市颠倒",
+          "startMs": 102873,
+          "text": "就算大雨让整座城市颠倒"
+        },
+        {
+          "key": "106576|我会给你怀抱",
+          "startMs": 106576,
+          "text": "我会给你怀抱"
+        },
+        {
+          "key": "108924|受不了看见你背影来到",
+          "startMs": 108924,
+          "text": "受不了看见你背影来到"
+        },
+        {
+          "key": "112693|写下我度秒如年难捱的离骚",
+          "startMs": 112693,
+          "text": "写下我度秒如年难捱的离骚"
+        },
+        {
+          "key": "117384|就算整个世界被寂寞绑票",
+          "startMs": 117384,
+          "text": "就算整个世界被寂寞绑票"
+        },
+        {
+          "key": "121018|我也不会奔跑",
+          "startMs": 121018,
+          "text": "我也不会奔跑"
+        },
+        {
+          "key": "123653|逃不了最后谁也都苍老",
+          "startMs": 123653,
+          "text": "逃不了最后谁也都苍老"
+        },
+        {
+          "key": "127282|写下我时间和琴声交错的城堡",
+          "startMs": 127282,
+          "text": "写下我时间和琴声交错的城堡"
+        },
+        {
+          "key": "150274|这是一首简单的小情歌",
+          "startMs": 150274,
+          "text": "这是一首简单的小情歌"
+        },
+        {
+          "key": "157455|唱着我们心头的白鸽",
+          "startMs": 157455,
+          "text": "唱着我们心头的白鸽"
+        },
+        {
+          "key": "163717|我想我很适合",
+          "startMs": 163717,
+          "text": "我想我很适合"
+        },
+        {
+          "key": "167208|当一个歌颂者",
+          "startMs": 167208,
+          "text": "当一个歌颂者"
+        },
+        {
+          "key": "171621|青春在风中飘着",
+          "startMs": 171621,
+          "text": "青春在风中飘着"
+        },
+        {
+          "key": "178094|你知道",
+          "startMs": 178094,
+          "text": "你知道"
+        },
+        {
+          "key": "179429|就算大雨让整座城市颠倒",
+          "startMs": 179429,
+          "text": "就算大雨让整座城市颠倒"
+        },
+        {
+          "key": "182917|我会给你怀抱",
+          "startMs": 182917,
+          "text": "我会给你怀抱"
+        },
+        {
+          "key": "185336|受不了看见你背影来到",
+          "startMs": 185336,
+          "text": "受不了看见你背影来到"
+        },
+        {
+          "key": "189106|写下我度秒如年难捱的离骚",
+          "startMs": 189106,
+          "text": "写下我度秒如年难捱的离骚"
+        },
+        {
+          "key": "193720|就算整个世界被寂寞绑票",
+          "startMs": 193720,
+          "text": "就算整个世界被寂寞绑票"
+        },
+        {
+          "key": "197349|我也不会奔跑",
+          "startMs": 197349,
+          "text": "我也不会奔跑"
+        },
+        {
+          "key": "199909|逃不了最后谁也都苍老",
+          "startMs": 199909,
+          "text": "逃不了最后谁也都苍老"
+        },
+        {
+          "key": "203610|写下我时间和琴声交错的城堡",
+          "startMs": 203610,
+          "text": "写下我时间和琴声交错的城堡"
+        },
+        {
+          "key": "210551|你知道",
+          "startMs": 210551,
+          "text": "你知道"
+        },
+        {
+          "key": "212010|就算大雨让整座城市颠倒",
+          "startMs": 212010,
+          "text": "就算大雨让整座城市颠倒"
+        },
+        {
+          "key": "215565|我会给你怀抱",
+          "startMs": 215565,
+          "text": "我会给你怀抱"
+        },
+        {
+          "key": "217913|受不了看见你背影来到",
+          "startMs": 217913,
+          "text": "受不了看见你背影来到"
+        },
+        {
+          "key": "221757|写下我度秒如年难捱的离骚",
+          "startMs": 221757,
+          "text": "写下我度秒如年难捱的离骚"
+        },
+        {
+          "key": "226529|就算整个世界被寂寞绑票",
+          "startMs": 226529,
+          "text": "就算整个世界被寂寞绑票"
+        },
+        {
+          "key": "230085|我也不会奔跑",
+          "startMs": 230085,
+          "text": "我也不会奔跑"
+        },
+        {
+          "key": "233784|最后谁也都苍老",
+          "startMs": 233784,
+          "text": "最后谁也都苍老"
+        },
+        {
+          "key": "236419|写下我时间和琴声交错的城堡",
+          "startMs": 236419,
+          "text": "写下我时间和琴声交错的城堡"
+        }
+      ]
+    },
+    {
+      "rank": 823,
+      "songKey": "online:kugou:23dbc2010ea75d0e8284d914ac224d4e",
+      "name": "Summertrain",
+      "artist": "Greyson Chance",
+      "lines": [
+        {
+          "key": "134|Greyson Chance - Summertrain",
+          "startMs": 134,
+          "text": "Greyson Chance - Summertrain"
+        },
+        {
+          "key": "942|Written by：David Jost/Alexander Zuckowski",
+          "startMs": 942,
+          "text": "Written by：David Jost/Alexander Zuckowski"
+        },
+        {
+          "key": "17500|Come with me for a little ride see the shadows passing by",
+          "startMs": 17500,
+          "text": "Come with me for a little ride see the shadows passing by"
+        },
+        {
+          "key": "26056|Look at the sun and see the clouds turn to faces in the sky",
+          "startMs": 26056,
+          "text": "Look at the sun and see the clouds turn to faces in the sky"
+        },
+        {
+          "key": "34145|We've been awake all night shattered dreams all around",
+          "startMs": 34145,
+          "text": "We've been awake all night shattered dreams all around"
+        },
+        {
+          "key": "42629|Close your sad sad eyes we will be safe and sound",
+          "startMs": 42629,
+          "text": "Close your sad sad eyes we will be safe and sound"
+        },
+        {
+          "key": "51805|Come with me for a little ride see the shadows passing by",
+          "startMs": 51805,
+          "text": "Come with me for a little ride see the shadows passing by"
+        },
+        {
+          "key": "60417|Look at the sun and see the clouds turn to faces in the sky",
+          "startMs": 60417,
+          "text": "Look at the sun and see the clouds turn to faces in the sky"
+        },
+        {
+          "key": "69013|Daydreaming lightly through the rain",
+          "startMs": 69013,
+          "text": "Daydreaming lightly through the rain"
+        },
+        {
+          "key": "73376|All's forgiven on a summer train",
+          "startMs": 73376,
+          "text": "All's forgiven on a summer train"
+        },
+        {
+          "key": "77639|Come with me for a little ride see the shadows passing by",
+          "startMs": 77639,
+          "text": "Come with me for a little ride see the shadows passing by"
+        },
+        {
+          "key": "85517|Seems we are a thousand miles away from last night",
+          "startMs": 85517,
+          "text": "Seems we are a thousand miles away from last night"
+        },
+        {
+          "key": "94135|As you sigh in my ear kiss the rain goodbye",
+          "startMs": 94135,
+          "text": "As you sigh in my ear kiss the rain goodbye"
+        },
+        {
+          "key": "103421|Come with me for a little ride see the shadows passing by",
+          "startMs": 103421,
+          "text": "Come with me for a little ride see the shadows passing by"
+        },
+        {
+          "key": "112010|Look at the sun and see the clouds turn to faces in the sky",
+          "startMs": 112010,
+          "text": "Look at the sun and see the clouds turn to faces in the sky"
+        },
+        {
+          "key": "120581|Daydreaming lightly through the rain",
+          "startMs": 120581,
+          "text": "Daydreaming lightly through the rain"
+        },
+        {
+          "key": "124984|All's forgiven on a summer train",
+          "startMs": 124984,
+          "text": "All's forgiven on a summer train"
+        },
+        {
+          "key": "129209|Come with me for a little ride see the shadows passing by",
+          "startMs": 129209,
+          "text": "Come with me for a little ride see the shadows passing by"
+        },
+        {
+          "key": "136162|Come away with me it's gonna be all right just breathe",
+          "startMs": 136162,
+          "text": "Come away with me it's gonna be all right just breathe"
+        },
+        {
+          "key": "144945|Come away with me it's gonna be all right you'll see",
+          "startMs": 144945,
+          "text": "Come away with me it's gonna be all right you'll see"
+        },
+        {
+          "key": "154251|And the windows are crying",
+          "startMs": 154251,
+          "text": "And the windows are crying"
+        },
+        {
+          "key": "156922|But this train is flying us all through the rain I fear",
+          "startMs": 156922,
+          "text": "But this train is flying us all through the rain I fear"
+        },
+        {
+          "key": "162879|And the sky is getting brighter with every mile",
+          "startMs": 162879,
+          "text": "And the sky is getting brighter with every mile"
+        },
+        {
+          "key": "167146|And it all seems clear",
+          "startMs": 167146,
+          "text": "And it all seems clear"
+        },
+        {
+          "key": "180901|Come with me for a little ride see the shadows passing by",
+          "startMs": 180901,
+          "text": "Come with me for a little ride see the shadows passing by"
+        },
+        {
+          "key": "189408|Look at the sun and see the clouds turn to faces in the sky",
+          "startMs": 189408,
+          "text": "Look at the sun and see the clouds turn to faces in the sky"
+        },
+        {
+          "key": "198001|Daydreaming lightly through the rain",
+          "startMs": 198001,
+          "text": "Daydreaming lightly through the rain"
+        },
+        {
+          "key": "202291|All's forgiven on a summer train",
+          "startMs": 202291,
+          "text": "All's forgiven on a summer train"
+        },
+        {
+          "key": "206608|Come with me for a little ride see the shadows passing by",
+          "startMs": 206608,
+          "text": "Come with me for a little ride see the shadows passing by"
+        },
+        {
+          "key": "213574|Come away with me it's gonna be all right just breathe",
+          "startMs": 213574,
+          "text": "Come away with me it's gonna be all right just breathe"
+        },
+        {
+          "key": "222845|Come away with me it's gonna be all right you'll see",
+          "startMs": 222845,
+          "text": "Come away with me it's gonna be all right you'll see"
+        },
+        {
+          "key": "230996|Come away with me it's gonna be all right just breathe",
+          "startMs": 230996,
+          "text": "Come away with me it's gonna be all right just breathe"
+        },
+        {
+          "key": "240895|Come away with me it's gonna be all right you'll see you'll see",
+          "startMs": 240895,
+          "text": "Come away with me it's gonna be all right you'll see you'll see"
+        },
+        {
+          "key": "264712|Come away with me",
+          "startMs": 264712,
+          "text": "Come away with me"
+        }
+      ]
+    },
+    {
+      "rank": 824,
+      "songKey": "online:kugou:2901d578b074fd5bdd63d8c52a0d2226",
+      "name": "The Mass (Album Version)",
+      "artist": "Era",
+      "lines": [
+        {
+          "key": "213|Era - The Mass",
+          "startMs": 213,
+          "text": "Era - The Mass"
+        },
+        {
+          "key": "3449|Lyrics by：Cassar Yvan Eric(AR)、Levisalles Eric J.、Orff Carl",
+          "startMs": 3449,
+          "text": "Lyrics by：Cassar Yvan Eric(AR)、Levisalles Eric J.、Orff Carl"
+        },
+        {
+          "key": "4246|Composed by：Yvan Eric Cassar、Eric J. Levisalles、Carl Orff",
+          "startMs": 4246,
+          "text": "Composed by：Yvan Eric Cassar、Eric J. Levisalles、Carl Orff"
+        },
+        {
+          "key": "10355|Semper crescis",
+          "startMs": 10355,
+          "text": "Semper crescis"
+        },
+        {
+          "key": "12618|Aut decrescis",
+          "startMs": 12618,
+          "text": "Aut decrescis"
+        },
+        {
+          "key": "14796|Vita detestabilis",
+          "startMs": 14796,
+          "text": "Vita detestabilis"
+        },
+        {
+          "key": "18118|Nunc obdurat",
+          "startMs": 18118,
+          "text": "Nunc obdurat"
+        },
+        {
+          "key": "20278|Et tunc curat",
+          "startMs": 20278,
+          "text": "Et tunc curat"
+        },
+        {
+          "key": "22480|Ludo mentis aciem",
+          "startMs": 22480,
+          "text": "Ludo mentis aciem"
+        },
+        {
+          "key": "33555|Nunc obdurat",
+          "startMs": 33555,
+          "text": "Nunc obdurat"
+        },
+        {
+          "key": "35611|Et tunc curat",
+          "startMs": 35611,
+          "text": "Et tunc curat"
+        },
+        {
+          "key": "37811|Ludo mentis aciem",
+          "startMs": 37811,
+          "text": "Ludo mentis aciem"
+        },
+        {
+          "key": "41049|Egestatem",
+          "startMs": 41049,
+          "text": "Egestatem"
+        },
+        {
+          "key": "43209|Potestatem",
+          "startMs": 43209,
+          "text": "Potestatem"
+        },
+        {
+          "key": "45505|Dissolvit ut glaciem",
+          "startMs": 45505,
+          "text": "Dissolvit ut glaciem"
+        },
+        {
+          "key": "50061|Divano",
+          "startMs": 50061,
+          "text": "Divano"
+        },
+        {
+          "key": "51958|Divano me",
+          "startMs": 51958,
+          "text": "Divano me"
+        },
+        {
+          "key": "54105|Divano messi",
+          "startMs": 54105,
+          "text": "Divano messi"
+        },
+        {
+          "key": "56300|Divano messia",
+          "startMs": 56300,
+          "text": "Divano messia"
+        },
+        {
+          "key": "59669|Divano messia",
+          "startMs": 59669,
+          "text": "Divano messia"
+        },
+        {
+          "key": "63180|Divano",
+          "startMs": 63180,
+          "text": "Divano"
+        },
+        {
+          "key": "65111|Divano me",
+          "startMs": 65111,
+          "text": "Divano me"
+        },
+        {
+          "key": "67287|Divano messia",
+          "startMs": 67287,
+          "text": "Divano messia"
+        },
+        {
+          "key": "69487|Divano messia",
+          "startMs": 69487,
+          "text": "Divano messia"
+        },
+        {
+          "key": "81412|Sors salutis",
+          "startMs": 81412,
+          "text": "Sors salutis"
+        },
+        {
+          "key": "83668|Et virtutis",
+          "startMs": 83668,
+          "text": "Et virtutis"
+        },
+        {
+          "key": "85868|Michi nunc contraria",
+          "startMs": 85868,
+          "text": "Michi nunc contraria"
+        },
+        {
+          "key": "89170|Est affectus",
+          "startMs": 89170,
+          "text": "Est affectus"
+        },
+        {
+          "key": "91298|Et defectus",
+          "startMs": 91298,
+          "text": "Et defectus"
+        },
+        {
+          "key": "93490|Semper in angaria",
+          "startMs": 93490,
+          "text": "Semper in angaria"
+        },
+        {
+          "key": "96795|Hac in hora",
+          "startMs": 96795,
+          "text": "Hac in hora"
+        },
+        {
+          "key": "98939|Sine mora",
+          "startMs": 98939,
+          "text": "Sine mora"
+        },
+        {
+          "key": "101203|Corde pulsum tangite",
+          "startMs": 101203,
+          "text": "Corde pulsum tangite"
+        },
+        {
+          "key": "105812|Divano",
+          "startMs": 105812,
+          "text": "Divano"
+        },
+        {
+          "key": "107772|Divano me",
+          "startMs": 107772,
+          "text": "Divano me"
+        },
+        {
+          "key": "109948|Divano messi",
+          "startMs": 109948,
+          "text": "Divano messi"
+        },
+        {
+          "key": "112140|Divano messia",
+          "startMs": 112140,
+          "text": "Divano messia"
+        },
+        {
+          "key": "115428|Divano messia",
+          "startMs": 115428,
+          "text": "Divano messia"
+        },
+        {
+          "key": "118972|Divano",
+          "startMs": 118972,
+          "text": "Divano"
+        },
+        {
+          "key": "120858|Divano me",
+          "startMs": 120858,
+          "text": "Divano me"
+        },
+        {
+          "key": "123066|Divano messia",
+          "startMs": 123066,
+          "text": "Divano messia"
+        },
+        {
+          "key": "125266|Divano messia",
+          "startMs": 125266,
+          "text": "Divano messia"
+        },
+        {
+          "key": "126970|Messia",
+          "startMs": 126970,
+          "text": "Messia"
+        },
+        {
+          "key": "128053|Messia",
+          "startMs": 128053,
+          "text": "Messia"
+        },
+        {
+          "key": "129170|Messia",
+          "startMs": 129170,
+          "text": "Messia"
+        },
+        {
+          "key": "130291|Messia",
+          "startMs": 130291,
+          "text": "Messia"
+        },
+        {
+          "key": "132076|Divano",
+          "startMs": 132076,
+          "text": "Divano"
+        },
+        {
+          "key": "133980|Divano me",
+          "startMs": 133980,
+          "text": "Divano me"
+        },
+        {
+          "key": "136132|Divano messia",
+          "startMs": 136132,
+          "text": "Divano messia"
+        },
+        {
+          "key": "138382|Divano messia",
+          "startMs": 138382,
+          "text": "Divano messia"
+        },
+        {
+          "key": "140134|Messia",
+          "startMs": 140134,
+          "text": "Messia"
+        },
+        {
+          "key": "141207|Messia",
+          "startMs": 141207,
+          "text": "Messia"
+        },
+        {
+          "key": "142326|Messia",
+          "startMs": 142326,
+          "text": "Messia"
+        },
+        {
+          "key": "143422|Messia",
+          "startMs": 143422,
+          "text": "Messia"
+        },
+        {
+          "key": "144668|In divano",
+          "startMs": 144668,
+          "text": "In divano"
+        },
+        {
+          "key": "151404|Sors salutis",
+          "startMs": 151404,
+          "text": "Sors salutis"
+        },
+        {
+          "key": "153582|Et virtutis",
+          "startMs": 153582,
+          "text": "Et virtutis"
+        },
+        {
+          "key": "155852|Michi nunc contraria",
+          "startMs": 155852,
+          "text": "Michi nunc contraria"
+        },
+        {
+          "key": "159124|Est affectus",
+          "startMs": 159124,
+          "text": "Est affectus"
+        },
+        {
+          "key": "161244|Et defectus",
+          "startMs": 161244,
+          "text": "Et defectus"
+        },
+        {
+          "key": "163426|Semper in angaria",
+          "startMs": 163426,
+          "text": "Semper in angaria"
+        },
+        {
+          "key": "166761|Hac in hora",
+          "startMs": 166761,
+          "text": "Hac in hora"
+        },
+        {
+          "key": "168832|Sine mora",
+          "startMs": 168832,
+          "text": "Sine mora"
+        },
+        {
+          "key": "171143|Corde pulsum tangite",
+          "startMs": 171143,
+          "text": "Corde pulsum tangite"
+        },
+        {
+          "key": "175743|Divano",
+          "startMs": 175743,
+          "text": "Divano"
+        },
+        {
+          "key": "177680|Divano me",
+          "startMs": 177680,
+          "text": "Divano me"
+        },
+        {
+          "key": "179863|Divano messi",
+          "startMs": 179863,
+          "text": "Divano messi"
+        },
+        {
+          "key": "182023|Divano messia",
+          "startMs": 182023,
+          "text": "Divano messia"
+        },
+        {
+          "key": "185359|Divano messia",
+          "startMs": 185359,
+          "text": "Divano messia"
+        },
+        {
+          "key": "188887|Divano",
+          "startMs": 188887,
+          "text": "Divano"
+        },
+        {
+          "key": "190831|Divano me",
+          "startMs": 190831,
+          "text": "Divano me"
+        },
+        {
+          "key": "192983|Divano messia",
+          "startMs": 192983,
+          "text": "Divano messia"
+        },
+        {
+          "key": "195223|Divano messia",
+          "startMs": 195223,
+          "text": "Divano messia"
+        },
+        {
+          "key": "199663|Hac in hora",
+          "startMs": 199663,
+          "text": "Hac in hora"
+        },
+        {
+          "key": "201712|Sine mora",
+          "startMs": 201712,
+          "text": "Sine mora"
+        },
+        {
+          "key": "203927|Corde pulsum tangite",
+          "startMs": 203927,
+          "text": "Corde pulsum tangite"
+        },
+        {
+          "key": "207241|Quod per sortem",
+          "startMs": 207241,
+          "text": "Quod per sortem"
+        },
+        {
+          "key": "209425|Sternit fortem",
+          "startMs": 209425,
+          "text": "Sternit fortem"
+        },
+        {
+          "key": "211596|Mecum omnes plangite",
+          "startMs": 211596,
+          "text": "Mecum omnes plangite"
+        }
+      ]
+    },
+    {
+      "rank": 825,
+      "songKey": "online:kugou:01fb7f1230c6974079034121cca21b4b",
+      "name": "夏夜",
+      "artist": "四季音色",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

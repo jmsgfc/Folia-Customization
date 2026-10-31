@@ -1,0 +1,467 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:bbbafc21dd4e07775a8ba2623ff401e1",
+      "lines": [
+        {
+          "key": "511|Martin Jensen - Solo Dance",
+          "text": "Martin Jensen - Solo Dance",
+          "segments": [
+            "Martin Jensen",
+            " - ",
+            "Solo Dance"
+          ]
+        },
+        {
+          "key": "1111|Written by：Martin Jensen/Peter Bjørnskov/Lene Dissing/Mads Dyhrberg",
+          "text": "Written by：Martin Jensen/Peter Bjørnskov/Lene Dissing/Mads Dyhrberg",
+          "segments": [
+            "Written by：",
+            "Martin Jensen/",
+            "Peter Bjørnskov/",
+            "Lene Dissing/",
+            "Mads Dyhrberg"
+          ]
+        },
+        {
+          "key": "1947|In the faded light you touch my body",
+          "text": "In the faded light you touch my body",
+          "segments": [
+            "In ",
+            "the ",
+            "faded ",
+            "light ",
+            "you ",
+            "touch ",
+            "my ",
+            "body"
+          ]
+        },
+        {
+          "key": "6143|I can feel your hands on my skin",
+          "text": "I can feel your hands on my skin",
+          "segments": [
+            "I ",
+            "can ",
+            "feel ",
+            "your ",
+            "hands ",
+            "on ",
+            "my ",
+            "skin"
+          ]
+        },
+        {
+          "key": "10370|Think you got me right where you want me",
+          "text": "Think you got me right where you want me",
+          "segments": [
+            "Think ",
+            "you ",
+            "got ",
+            "me ",
+            "right ",
+            "where ",
+            "you ",
+            "want ",
+            "me"
+          ]
+        },
+        {
+          "key": "14393|But you're just in my way",
+          "text": "But you're just in my way",
+          "segments": [
+            "But ",
+            "you're ",
+            "just ",
+            "in ",
+            "my ",
+            "way"
+          ]
+        },
+        {
+          "key": "17363|I came to party on my own",
+          "text": "I came to party on my own",
+          "segments": [
+            "I ",
+            "came ",
+            "to ",
+            "party ",
+            "on ",
+            "my ",
+            "own"
+          ]
+        },
+        {
+          "key": "21336|Don't need nobody in my zone",
+          "text": "Don't need nobody in my zone",
+          "segments": [
+            "Don't ",
+            "need ",
+            "nobody ",
+            "in ",
+            "my ",
+            "zone"
+          ]
+        },
+        {
+          "key": "25363|I get down to the beat I lose control",
+          "text": "I get down to the beat I lose control",
+          "segments": [
+            "I ",
+            "get ",
+            "down ",
+            "to ",
+            "the ",
+            "beat ",
+            "I ",
+            "lose ",
+            "control"
+          ]
+        },
+        {
+          "key": "29434|Hey oh I go so solo",
+          "text": "Hey oh I go so solo",
+          "segments": [
+            "Hey ",
+            "oh ",
+            "I ",
+            "go ",
+            "so ",
+            "solo"
+          ]
+        },
+        {
+          "key": "34960|Boy you can cool it down",
+          "text": "Boy you can cool it down",
+          "segments": [
+            "Boy ",
+            "you ",
+            "can ",
+            "cool ",
+            "it ",
+            "down"
+          ]
+        },
+        {
+          "key": "37035|Not here to fool around",
+          "text": "Not here to fool around",
+          "segments": [
+            "Not ",
+            "here ",
+            "to ",
+            "fool ",
+            "around"
+          ]
+        },
+        {
+          "key": "39139|Just wanna dance dance dance",
+          "text": "Just wanna dance dance dance",
+          "segments": [
+            "Just ",
+            "wanna ",
+            "dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "41663|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "43598|I know you want me",
+          "text": "I know you want me",
+          "segments": [
+            "I ",
+            "know ",
+            "you ",
+            "want ",
+            "me"
+          ]
+        },
+        {
+          "key": "45377|But I don't care baby",
+          "text": "But I don't care baby",
+          "segments": [
+            "But ",
+            "I ",
+            "don't ",
+            "care ",
+            "baby"
+          ]
+        },
+        {
+          "key": "47487|Just wanna dance dance dance",
+          "text": "Just wanna dance dance dance",
+          "segments": [
+            "Just ",
+            "wanna ",
+            "dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "49991|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "58594|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "66830|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "75344|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "87652|In the shade of night you're moving closer",
+          "text": "In the shade of night you're moving closer",
+          "segments": [
+            "In ",
+            "the ",
+            "shade ",
+            "of ",
+            "night ",
+            "you're ",
+            "moving ",
+            "closer"
+          ]
+        },
+        {
+          "key": "91579|We're on our way to cross the line",
+          "text": "We're on our way to cross the line",
+          "segments": [
+            "We're ",
+            "on ",
+            "our ",
+            "way ",
+            "to ",
+            "cross ",
+            "the ",
+            "line"
+          ]
+        },
+        {
+          "key": "95872|Think you got me right where you want me",
+          "text": "Think you got me right where you want me",
+          "segments": [
+            "Think ",
+            "you ",
+            "got ",
+            "me ",
+            "right ",
+            "where ",
+            "you ",
+            "want ",
+            "me"
+          ]
+        },
+        {
+          "key": "100028|But it's all in your mind",
+          "text": "But it's all in your mind",
+          "segments": [
+            "But ",
+            "it's ",
+            "all ",
+            "in ",
+            "your ",
+            "mind"
+          ]
+        },
+        {
+          "key": "102926|I came to party on my own",
+          "text": "I came to party on my own",
+          "segments": [
+            "I ",
+            "came ",
+            "to ",
+            "party ",
+            "on ",
+            "my ",
+            "own"
+          ]
+        },
+        {
+          "key": "106876|Don't need nobody in my zone",
+          "text": "Don't need nobody in my zone",
+          "segments": [
+            "Don't ",
+            "need ",
+            "nobody ",
+            "in ",
+            "my ",
+            "zone"
+          ]
+        },
+        {
+          "key": "110851|I get down to the beat I lose control",
+          "text": "I get down to the beat I lose control",
+          "segments": [
+            "I ",
+            "get ",
+            "down ",
+            "to ",
+            "the ",
+            "beat ",
+            "I ",
+            "lose ",
+            "control"
+          ]
+        },
+        {
+          "key": "114930|Hey oh I go so solo",
+          "text": "Hey oh I go so solo",
+          "segments": [
+            "Hey ",
+            "oh ",
+            "I ",
+            "go ",
+            "so ",
+            "solo"
+          ]
+        },
+        {
+          "key": "120418|Boy you can cool it down",
+          "text": "Boy you can cool it down",
+          "segments": [
+            "Boy ",
+            "you ",
+            "can ",
+            "cool ",
+            "it ",
+            "down"
+          ]
+        },
+        {
+          "key": "122559|Not here to fool around",
+          "text": "Not here to fool around",
+          "segments": [
+            "Not ",
+            "here ",
+            "to ",
+            "fool ",
+            "around"
+          ]
+        },
+        {
+          "key": "124748|Just wanna dance dance dance",
+          "text": "Just wanna dance dance dance",
+          "segments": [
+            "Just ",
+            "wanna ",
+            "dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "127306|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "129262|I know you want me",
+          "text": "I know you want me",
+          "segments": [
+            "I ",
+            "know ",
+            "you ",
+            "want ",
+            "me"
+          ]
+        },
+        {
+          "key": "130914|But I don't care baby",
+          "text": "But I don't care baby",
+          "segments": [
+            "But ",
+            "I ",
+            "don't ",
+            "care ",
+            "baby"
+          ]
+        },
+        {
+          "key": "133037|Just wanna dance dance dance",
+          "text": "Just wanna dance dance dance",
+          "segments": [
+            "Just ",
+            "wanna ",
+            "dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "135729|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "144181|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "152371|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        },
+        {
+          "key": "161012|Dance dance dance",
+          "text": "Dance dance dance",
+          "segments": [
+            "Dance ",
+            "dance ",
+            "dance"
+          ]
+        }
+      ]
+    }
+  ]
+}

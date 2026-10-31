@@ -1,0 +1,713 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:5aa1b2668f3c40a36d03601da7d715ab",
+      "lines": [
+        {
+          "key": "9740|Hinder - Up All Night",
+          "text": "Hinder - Up All Night",
+          "segments": [
+            "Hinder",
+            " - ",
+            "Up All Night"
+          ]
+        },
+        {
+          "key": "19720|Saw a waitress  couldn't waste it",
+          "text": "Saw a waitress  couldn't waste it",
+          "segments": [
+            "Saw ",
+            "a ",
+            "waitress  ",
+            "couldn't ",
+            "waste ",
+            "it"
+          ]
+        },
+        {
+          "key": "22570|Opportunity knocks and you take it",
+          "text": "Opportunity knocks and you take it",
+          "segments": [
+            "Opportunity ",
+            "knocks ",
+            "and ",
+            "you ",
+            "take ",
+            "it"
+          ]
+        },
+        {
+          "key": "25010|Went to my place  got to get a taste",
+          "text": "Went to my place  got to get a taste",
+          "segments": [
+            "Went ",
+            "to ",
+            "my ",
+            "place  ",
+            "got ",
+            "to ",
+            "get ",
+            "a ",
+            "taste"
+          ]
+        },
+        {
+          "key": "27860|A couple shots at the bar we were wasted",
+          "text": "A couple shots at the bar we were wasted",
+          "segments": [
+            "A ",
+            "couple ",
+            "shots ",
+            "at ",
+            "the ",
+            "bar ",
+            "we ",
+            "were ",
+            "wasted"
+          ]
+        },
+        {
+          "key": "29950|You know she's all in  the room is spinning",
+          "text": "You know she's all in  the room is spinning",
+          "segments": [
+            "You ",
+            "know ",
+            "she's ",
+            "all ",
+            "in  ",
+            "the ",
+            "room ",
+            "is ",
+            "spinning"
+          ]
+        },
+        {
+          "key": "31800|Probably shouldn't have shot that Jameson",
+          "text": "Probably shouldn't have shot that Jameson",
+          "segments": [
+            "Probably ",
+            "shouldn't ",
+            "have ",
+            "shot ",
+            "that ",
+            "Jameson"
+          ]
+        },
+        {
+          "key": "34760|Here we go away  she's a perfect ten",
+          "text": "Here we go away  she's a perfect ten",
+          "segments": [
+            "Here ",
+            "we ",
+            "go ",
+            "away  ",
+            "she's ",
+            "a ",
+            "perfect ",
+            "ten"
+          ]
+        },
+        {
+          "key": "37270|Just tell me how it was in the morning",
+          "text": "Just tell me how it was in the morning",
+          "segments": [
+            "Just ",
+            "tell ",
+            "me ",
+            "how ",
+            "it ",
+            "was ",
+            "in ",
+            "the ",
+            "morning"
+          ]
+        },
+        {
+          "key": "40803|The night's far from over and I'm far from sober",
+          "text": "The night's far from over and I'm far from sober",
+          "segments": [
+            "The ",
+            "night's ",
+            "far ",
+            "from ",
+            "over ",
+            "and ",
+            "I'm ",
+            "far ",
+            "from ",
+            "sober"
+          ]
+        },
+        {
+          "key": "45813|But she's looking fine",
+          "text": "But she's looking fine",
+          "segments": [
+            "But ",
+            "she's ",
+            "looking ",
+            "fine"
+          ]
+        },
+        {
+          "key": "49673|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "52142|Going to take you for a ride  yeah",
+          "text": "Going to take you for a ride  yeah",
+          "segments": [
+            "Going ",
+            "to ",
+            "take ",
+            "you ",
+            "for ",
+            "a ",
+            "ride  ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "54442|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "57132|Get it on till the morning light  yeah",
+          "text": "Get it on till the morning light  yeah",
+          "segments": [
+            "Get ",
+            "it ",
+            "on ",
+            "till ",
+            "the ",
+            "morning ",
+            "light  ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "59382|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "62082|Doing things a devil might",
+          "text": "Doing things a devil might",
+          "segments": [
+            "Doing ",
+            "things ",
+            "a ",
+            "devil ",
+            "might"
+          ]
+        },
+        {
+          "key": "64702|So far from sober that",
+          "text": "So far from sober that",
+          "segments": [
+            "So ",
+            "far ",
+            "from ",
+            "sober ",
+            "that"
+          ]
+        },
+        {
+          "key": "66642|I'll have to see through my hangover",
+          "text": "I'll have to see through my hangover",
+          "segments": [
+            "I'll ",
+            "have ",
+            "to ",
+            "see ",
+            "through ",
+            "my ",
+            "hangover"
+          ]
+        },
+        {
+          "key": "73270|We Going all night",
+          "text": "We Going all night",
+          "segments": [
+            "We ",
+            "Going ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "79550|My attention  when she walked in",
+          "text": "My attention  when she walked in",
+          "segments": [
+            "My ",
+            "attention  ",
+            "when ",
+            "she ",
+            "walked ",
+            "in"
+          ]
+        },
+        {
+          "key": "81820|Turning heads with a tiny skirt and sexy grin",
+          "text": "Turning heads with a tiny skirt and sexy grin",
+          "segments": [
+            "Turning ",
+            "heads ",
+            "with ",
+            "a ",
+            "tiny ",
+            "skirt ",
+            "and ",
+            "sexy ",
+            "grin"
+          ]
+        },
+        {
+          "key": "84330|She's a proud one  still a lot of fun",
+          "text": "She's a proud one  still a lot of fun",
+          "segments": [
+            "She's ",
+            "a ",
+            "proud ",
+            "one  ",
+            "still ",
+            "a ",
+            "lot ",
+            "of ",
+            "fun"
+          ]
+        },
+        {
+          "key": "86790|I'll let you know when the sexy dirty deed is done",
+          "text": "I'll let you know when the sexy dirty deed is done",
+          "segments": [
+            "I'll ",
+            "let ",
+            "you ",
+            "know ",
+            "when ",
+            "the ",
+            "sexy ",
+            "dirty ",
+            "deed ",
+            "is ",
+            "done"
+          ]
+        },
+        {
+          "key": "90069|The night's far from over  that far from sober",
+          "text": "The night's far from over  that far from sober",
+          "segments": [
+            "The ",
+            "night's ",
+            "far ",
+            "from ",
+            "over  ",
+            "that ",
+            "far ",
+            "from ",
+            "sober"
+          ]
+        },
+        {
+          "key": "95189|But she's looking fine",
+          "text": "But she's looking fine",
+          "segments": [
+            "But ",
+            "she's ",
+            "looking ",
+            "fine"
+          ]
+        },
+        {
+          "key": "98949|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "101699|Going to take you for a ride  yeah",
+          "text": "Going to take you for a ride  yeah",
+          "segments": [
+            "Going ",
+            "to ",
+            "take ",
+            "you ",
+            "for ",
+            "a ",
+            "ride  ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "103899|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "106679|Get it on till the morning light  yeah",
+          "text": "Get it on till the morning light  yeah",
+          "segments": [
+            "Get ",
+            "it ",
+            "on ",
+            "till ",
+            "the ",
+            "morning ",
+            "light  ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "108799|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "111629|Doing things a devil might",
+          "text": "Doing things a devil might",
+          "segments": [
+            "Doing ",
+            "things ",
+            "a ",
+            "devil ",
+            "might"
+          ]
+        },
+        {
+          "key": "113889|So far from sober that",
+          "text": "So far from sober that",
+          "segments": [
+            "So ",
+            "far ",
+            "from ",
+            "sober ",
+            "that"
+          ]
+        },
+        {
+          "key": "116709|I'll have to see through my hangover",
+          "text": "I'll have to see through my hangover",
+          "segments": [
+            "I'll ",
+            "have ",
+            "to ",
+            "see ",
+            "through ",
+            "my ",
+            "hangover"
+          ]
+        },
+        {
+          "key": "148631|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "151351|Going to take you for a ride  yeah",
+          "text": "Going to take you for a ride  yeah",
+          "segments": [
+            "Going ",
+            "to ",
+            "take ",
+            "you ",
+            "for ",
+            "a ",
+            "ride  ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "153531|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "156181|Get it on till the morning light  yeah",
+          "text": "Get it on till the morning light  yeah",
+          "segments": [
+            "Get ",
+            "it ",
+            "on ",
+            "till ",
+            "the ",
+            "morning ",
+            "light  ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "158321|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "161141|Doing things a devil might",
+          "text": "Doing things a devil might",
+          "segments": [
+            "Doing ",
+            "things ",
+            "a ",
+            "devil ",
+            "might"
+          ]
+        },
+        {
+          "key": "163581|So far from sober that",
+          "text": "So far from sober that",
+          "segments": [
+            "So ",
+            "far ",
+            "from ",
+            "sober ",
+            "that"
+          ]
+        },
+        {
+          "key": "165771|I'll have to see through my hangover",
+          "text": "I'll have to see through my hangover",
+          "segments": [
+            "I'll ",
+            "have ",
+            "to ",
+            "see ",
+            "through ",
+            "my ",
+            "hangover"
+          ]
+        },
+        {
+          "key": "168241|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "170881|Going to take you for a ride  yeah",
+          "text": "Going to take you for a ride  yeah",
+          "segments": [
+            "Going ",
+            "to ",
+            "take ",
+            "you ",
+            "for ",
+            "a ",
+            "ride  ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "173131|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "175891|Get it on till the morning light  yeah",
+          "text": "Get it on till the morning light  yeah",
+          "segments": [
+            "Get ",
+            "it ",
+            "on ",
+            "till ",
+            "the ",
+            "morning ",
+            "light  ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "178071|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "180811|Doing things a devil might",
+          "text": "Doing things a devil might",
+          "segments": [
+            "Doing ",
+            "things ",
+            "a ",
+            "devil ",
+            "might"
+          ]
+        },
+        {
+          "key": "183241|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "188171|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "193051|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "197921|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "202851|We going to be up all night",
+          "text": "We going to be up all night",
+          "segments": [
+            "We ",
+            "going ",
+            "to ",
+            "be ",
+            "up ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "206241|All night",
+          "text": "All night",
+          "segments": [
+            "All ",
+            "night"
+          ]
+        },
+        {
+          "key": "206731|All night",
+          "text": "All night",
+          "segments": [
+            "All ",
+            "night"
+          ]
+        }
+      ]
+    }
+  ]
+}

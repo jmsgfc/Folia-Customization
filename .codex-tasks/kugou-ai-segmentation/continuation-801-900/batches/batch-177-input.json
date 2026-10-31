@@ -1,0 +1,1415 @@
+{
+  "batchNumber": 177,
+  "songs": [
+    {
+      "rank": 881,
+      "songKey": "online:kugou:78f669b2449b285d0b29300363078bf8",
+      "name": "倒数",
+      "artist": "G.E.M.邓紫棋",
+      "lines": [
+        {
+          "key": "100|G.E.M.邓紫棋 - 倒数",
+          "startMs": 100,
+          "text": "G.E.M.邓紫棋 - 倒数"
+        },
+        {
+          "key": "1344|作词：G.E.M.邓紫棋 ",
+          "startMs": 1344,
+          "text": "作词：G.E.M.邓紫棋 "
+        },
+        {
+          "key": "2558|作曲：G.E.M.邓紫棋、Lupo Groinig",
+          "startMs": 2558,
+          "text": "作曲：G.E.M.邓紫棋、Lupo Groinig"
+        },
+        {
+          "key": "4538|编曲：Lupo Groinig",
+          "startMs": 4538,
+          "text": "编曲：Lupo Groinig"
+        },
+        {
+          "key": "5655|监制：Lupo Groinig",
+          "startMs": 5655,
+          "text": "监制：Lupo Groinig"
+        },
+        {
+          "key": "12278|还没到的樱花季",
+          "startMs": 12278,
+          "text": "还没到的樱花季"
+        },
+        {
+          "key": "15230|还没用的照相机",
+          "startMs": 15230,
+          "text": "还没用的照相机"
+        },
+        {
+          "key": "18137|还没光临的餐厅",
+          "startMs": 18137,
+          "text": "还没光临的餐厅"
+        },
+        {
+          "key": "20667|还在期待 有着你的旅行",
+          "startMs": 20667,
+          "text": "还在期待 有着你的旅行"
+        },
+        {
+          "key": "23911|等待日落的巴黎",
+          "startMs": 23911,
+          "text": "等待日落的巴黎"
+        },
+        {
+          "key": "26745|铁塔之下牵着你",
+          "startMs": 26745,
+          "text": "铁塔之下牵着你"
+        },
+        {
+          "key": "29684|等待说着我愿意",
+          "startMs": 29684,
+          "text": "等待说着我愿意"
+        },
+        {
+          "key": "32280|等待未来 每天身边有你",
+          "startMs": 32280,
+          "text": "等待未来 每天身边有你"
+        },
+        {
+          "key": "35215|一点一滴每一天珍惜",
+          "startMs": 35215,
+          "text": "一点一滴每一天珍惜"
+        },
+        {
+          "key": "39165|怕突然来不及 好好的爱你",
+          "startMs": 39165,
+          "text": "怕突然来不及 好好的爱你"
+        },
+        {
+          "key": "45088|时针一直倒数着",
+          "startMs": 45088,
+          "text": "时针一直倒数着"
+        },
+        {
+          "key": "48031|我们剩下的快乐",
+          "startMs": 48031,
+          "text": "我们剩下的快乐"
+        },
+        {
+          "key": "50964|此刻相拥的狂热",
+          "startMs": 50964,
+          "text": "此刻相拥的狂热"
+        },
+        {
+          "key": "53961|却永远都深刻",
+          "startMs": 53961,
+          "text": "却永远都深刻"
+        },
+        {
+          "key": "56799|心跳一直倒数着",
+          "startMs": 56799,
+          "text": "心跳一直倒数着"
+        },
+        {
+          "key": "59738|生命剩下的温热",
+          "startMs": 59738,
+          "text": "生命剩下的温热"
+        },
+        {
+          "key": "62675|至少用力地爱着",
+          "startMs": 62675,
+          "text": "至少用力地爱着"
+        },
+        {
+          "key": "65769|还乌黑的头发",
+          "startMs": 65769,
+          "text": "还乌黑的头发"
+        },
+        {
+          "key": "68444|有你就不怕白了",
+          "startMs": 68444,
+          "text": "有你就不怕白了"
+        },
+        {
+          "key": "70876|漆黑过后是旭日",
+          "startMs": 70876,
+          "text": "漆黑过后是旭日"
+        },
+        {
+          "key": "73612|泪流以后是坚持",
+          "startMs": 73612,
+          "text": "泪流以后是坚持"
+        },
+        {
+          "key": "76550|真的爱是日复日",
+          "startMs": 76550,
+          "text": "真的爱是日复日"
+        },
+        {
+          "key": "79246|从不放弃 重复说你愿意",
+          "startMs": 79246,
+          "text": "从不放弃 重复说你愿意"
+        },
+        {
+          "key": "82387|还没退化的眼睛",
+          "startMs": 82387,
+          "text": "还没退化的眼睛"
+        },
+        {
+          "key": "85318|抓紧时间看看你",
+          "startMs": 85318,
+          "text": "抓紧时间看看你"
+        },
+        {
+          "key": "88256|爱是从来不止息",
+          "startMs": 88256,
+          "text": "爱是从来不止息"
+        },
+        {
+          "key": "90881|一个风景 每天新的生命",
+          "startMs": 90881,
+          "text": "一个风景 每天新的生命"
+        },
+        {
+          "key": "93764|一点一滴每一天珍惜",
+          "startMs": 93764,
+          "text": "一点一滴每一天珍惜"
+        },
+        {
+          "key": "97772|用尽每一口气 好好的爱你",
+          "startMs": 97772,
+          "text": "用尽每一口气 好好的爱你"
+        },
+        {
+          "key": "103597|时针一直倒数着",
+          "startMs": 103597,
+          "text": "时针一直倒数着"
+        },
+        {
+          "key": "106530|我们剩下的快乐",
+          "startMs": 106530,
+          "text": "我们剩下的快乐"
+        },
+        {
+          "key": "109413|此刻相拥的狂热",
+          "startMs": 109413,
+          "text": "此刻相拥的狂热"
+        },
+        {
+          "key": "112515|却永远都深刻",
+          "startMs": 112515,
+          "text": "却永远都深刻"
+        },
+        {
+          "key": "115353|心跳一直倒数着",
+          "startMs": 115353,
+          "text": "心跳一直倒数着"
+        },
+        {
+          "key": "118246|生命剩下的温热",
+          "startMs": 118246,
+          "text": "生命剩下的温热"
+        },
+        {
+          "key": "121187|至少用力地爱着",
+          "startMs": 121187,
+          "text": "至少用力地爱着"
+        },
+        {
+          "key": "124257|还乌黑的头发",
+          "startMs": 124257,
+          "text": "还乌黑的头发"
+        },
+        {
+          "key": "127040|有你就不怕白了",
+          "startMs": 127040,
+          "text": "有你就不怕白了"
+        },
+        {
+          "key": "129991|咖啡再不喝就酸了",
+          "startMs": 129991,
+          "text": "咖啡再不喝就酸了"
+        },
+        {
+          "key": "132771|晚餐再不吃就冷了",
+          "startMs": 132771,
+          "text": "晚餐再不吃就冷了"
+        },
+        {
+          "key": "135805|爱着为什么不说呢",
+          "startMs": 135805,
+          "text": "爱着为什么不说呢"
+        },
+        {
+          "key": "137724|难道错过了才来后悔着",
+          "startMs": 137724,
+          "text": "难道错过了才来后悔着"
+        },
+        {
+          "key": "141571|谁梦未实现就醒了",
+          "startMs": 141571,
+          "text": "谁梦未实现就醒了"
+        },
+        {
+          "key": "144548|谁心没开过就灰了",
+          "startMs": 144548,
+          "text": "谁心没开过就灰了"
+        },
+        {
+          "key": "147436|追逐爱的旅途曲折",
+          "startMs": 147436,
+          "text": "追逐爱的旅途曲折"
+        },
+        {
+          "key": "149415|就算再曲折为你都值得",
+          "startMs": 149415,
+          "text": "就算再曲折为你都值得"
+        },
+        {
+          "key": "152605|一点一滴每一天珍惜",
+          "startMs": 152605,
+          "text": "一点一滴每一天珍惜"
+        },
+        {
+          "key": "156292|用尽每一口气 好好的爱你",
+          "startMs": 156292,
+          "text": "用尽每一口气 好好的爱你"
+        },
+        {
+          "key": "162057|时针一直倒数着",
+          "startMs": 162057,
+          "text": "时针一直倒数着"
+        },
+        {
+          "key": "165055|我们剩下的快乐",
+          "startMs": 165055,
+          "text": "我们剩下的快乐"
+        },
+        {
+          "key": "168051|此刻相拥的狂热",
+          "startMs": 168051,
+          "text": "此刻相拥的狂热"
+        },
+        {
+          "key": "170976|却永远都深刻",
+          "startMs": 170976,
+          "text": "却永远都深刻"
+        },
+        {
+          "key": "173820|心跳一直倒数着",
+          "startMs": 173820,
+          "text": "心跳一直倒数着"
+        },
+        {
+          "key": "176753|生命剩下的温热",
+          "startMs": 176753,
+          "text": "生命剩下的温热"
+        },
+        {
+          "key": "179688|至少痛并快乐着",
+          "startMs": 179688,
+          "text": "至少痛并快乐着"
+        },
+        {
+          "key": "182775|爱过才算活着",
+          "startMs": 182775,
+          "text": "爱过才算活着"
+        },
+        {
+          "key": "185657|有你别无所求了",
+          "startMs": 185657,
+          "text": "有你别无所求了"
+        },
+        {
+          "key": "191577|有你别无所求了",
+          "startMs": 191577,
+          "text": "有你别无所求了"
+        },
+        {
+          "key": "197301|有你别无所求了",
+          "startMs": 197301,
+          "text": "有你别无所求了"
+        },
+        {
+          "key": "203186|有你别无所求了",
+          "startMs": 203186,
+          "text": "有你别无所求了"
+        },
+        {
+          "key": "209055|有你别无所求了",
+          "startMs": 209055,
+          "text": "有你别无所求了"
+        },
+        {
+          "key": "214874|有你别无所求了",
+          "startMs": 214874,
+          "text": "有你别无所求了"
+        }
+      ]
+    },
+    {
+      "rank": 882,
+      "songKey": "online:kugou:704398e2cc9dfd45e0d745f1e2d8239a",
+      "name": "HandClap",
+      "artist": "Fitz and The Tantrums",
+      "lines": [
+        {
+          "key": "108|Fitz & The Tantrums - HandClap",
+          "startMs": 108,
+          "text": "Fitz & The Tantrums - HandClap"
+        },
+        {
+          "key": "2280|Lyrics by：Sam Hollander、Eric Frederic、Fitz and The Tantrums",
+          "startMs": 2280,
+          "text": "Lyrics by：Sam Hollander、Eric Frederic、Fitz and The Tantrums"
+        },
+        {
+          "key": "4120|Produced by：Ricky Reed",
+          "startMs": 4120,
+          "text": "Produced by：Ricky Reed"
+        },
+        {
+          "key": "6181|Turn it up",
+          "startMs": 6181,
+          "text": "Turn it up"
+        },
+        {
+          "key": "13620|Somebody save your soul cause you've been sinning in the city I know",
+          "startMs": 13620,
+          "text": "Somebody save your soul cause you've been sinning in the city I know"
+        },
+        {
+          "key": "17449|Too many troubles all these lovers got you losin' control",
+          "startMs": 17449,
+          "text": "Too many troubles all these lovers got you losin' control"
+        },
+        {
+          "key": "20838|You're like a drug to me a luxury my sugar and gold",
+          "startMs": 20838,
+          "text": "You're like a drug to me a luxury my sugar and gold"
+        },
+        {
+          "key": "24308|I want the good life",
+          "startMs": 24308,
+          "text": "I want the good life"
+        },
+        {
+          "key": "25508|Every good night you're a hot one to hold",
+          "startMs": 25508,
+          "text": "Every good night you're a hot one to hold"
+        },
+        {
+          "key": "29128|Cause you don't even know",
+          "startMs": 29128,
+          "text": "Cause you don't even know"
+        },
+        {
+          "key": "30748|I can make your hands clap",
+          "startMs": 30748,
+          "text": "I can make your hands clap"
+        },
+        {
+          "key": "33988|Said I can make your hands clap",
+          "startMs": 33988,
+          "text": "Said I can make your hands clap"
+        },
+        {
+          "key": "37617|Somebody save your soul cause you've been sinning in the city I know",
+          "startMs": 37617,
+          "text": "Somebody save your soul cause you've been sinning in the city I know"
+        },
+        {
+          "key": "41537|Too many troubles all these lovers got you losin' control",
+          "startMs": 41537,
+          "text": "Too many troubles all these lovers got you losin' control"
+        },
+        {
+          "key": "44864|You're like a drug to me a luxury my sugar and gold",
+          "startMs": 44864,
+          "text": "You're like a drug to me a luxury my sugar and gold"
+        },
+        {
+          "key": "48293|I want your sex and your affection when I'm holding you close",
+          "startMs": 48293,
+          "text": "I want your sex and your affection when I'm holding you close"
+        },
+        {
+          "key": "53262|Cause you don't even know",
+          "startMs": 53262,
+          "text": "Cause you don't even know"
+        },
+        {
+          "key": "54972|I can make your hands clap",
+          "startMs": 54972,
+          "text": "I can make your hands clap"
+        },
+        {
+          "key": "57882|Said I can make your hands clap",
+          "startMs": 57882,
+          "text": "Said I can make your hands clap"
+        },
+        {
+          "key": "60811|Every night when the stars come out",
+          "startMs": 60811,
+          "text": "Every night when the stars come out"
+        },
+        {
+          "key": "64501|Am I the only living soul around",
+          "startMs": 64501,
+          "text": "Am I the only living soul around"
+        },
+        {
+          "key": "67931|Need to believe you could hold me down",
+          "startMs": 67931,
+          "text": "Need to believe you could hold me down"
+        },
+        {
+          "key": "71401|Cause I'm in need of something good right now",
+          "startMs": 71401,
+          "text": "Cause I'm in need of something good right now"
+        },
+        {
+          "key": "75200|We could be screaming till the sun comes out",
+          "startMs": 75200,
+          "text": "We could be screaming till the sun comes out"
+        },
+        {
+          "key": "78450|And when we wake we be the only sound",
+          "startMs": 78450,
+          "text": "And when we wake we be the only sound"
+        },
+        {
+          "key": "82010|Get off my knees and say a prayer to change vows",
+          "startMs": 82010,
+          "text": "Get off my knees and say a prayer to change vows"
+        },
+        {
+          "key": "86358|Bet I can make your hands clap",
+          "startMs": 86358,
+          "text": "Bet I can make your hands clap"
+        },
+        {
+          "key": "95098|Bet I can make your hands clap",
+          "startMs": 95098,
+          "text": "Bet I can make your hands clap"
+        },
+        {
+          "key": "99488|Turn it up",
+          "startMs": 99488,
+          "text": "Turn it up"
+        },
+        {
+          "key": "101817|Bet I can make your hands clap",
+          "startMs": 101817,
+          "text": "Bet I can make your hands clap"
+        },
+        {
+          "key": "103837|My fresh is searching for your worst and rest don't ever deny",
+          "startMs": 103837,
+          "text": "My fresh is searching for your worst and rest don't ever deny"
+        },
+        {
+          "key": "107247|I'm like a stranger give me danger",
+          "startMs": 107247,
+          "text": "I'm like a stranger give me danger"
+        },
+        {
+          "key": "109026|All your wrongs and your rights",
+          "startMs": 109026,
+          "text": "All your wrongs and your rights"
+        },
+        {
+          "key": "110706|Secrets on broadway to the freeway you're a keeper of crimes",
+          "startMs": 110706,
+          "text": "Secrets on broadway to the freeway you're a keeper of crimes"
+        },
+        {
+          "key": "114135|Feel no conviction grapes of wrath can only sweeten your wine",
+          "startMs": 114135,
+          "text": "Feel no conviction grapes of wrath can only sweeten your wine"
+        },
+        {
+          "key": "119195|But you don't even know",
+          "startMs": 119195,
+          "text": "But you don't even know"
+        },
+        {
+          "key": "120745|I can make your hands clap",
+          "startMs": 120745,
+          "text": "I can make your hands clap"
+        },
+        {
+          "key": "123984|Said I can make your hands clap",
+          "startMs": 123984,
+          "text": "Said I can make your hands clap"
+        },
+        {
+          "key": "126904|Every night when the stars come out",
+          "startMs": 126904,
+          "text": "Every night when the stars come out"
+        },
+        {
+          "key": "130183|Am I the only living soul around",
+          "startMs": 130183,
+          "text": "Am I the only living soul around"
+        },
+        {
+          "key": "133723|Need to believe you could hold me down",
+          "startMs": 133723,
+          "text": "Need to believe you could hold me down"
+        },
+        {
+          "key": "137203|Cause I'm in need of something good right now",
+          "startMs": 137203,
+          "text": "Cause I'm in need of something good right now"
+        },
+        {
+          "key": "140993|We could be screaming till the sun comes out",
+          "startMs": 140993,
+          "text": "We could be screaming till the sun comes out"
+        },
+        {
+          "key": "144253|And when we wake we be the only sound",
+          "startMs": 144253,
+          "text": "And when we wake we be the only sound"
+        },
+        {
+          "key": "147873|Get off my knees and say a prayer to change vows",
+          "startMs": 147873,
+          "text": "Get off my knees and say a prayer to change vows"
+        },
+        {
+          "key": "152182|Bet I can make your hands clap",
+          "startMs": 152182,
+          "text": "Bet I can make your hands clap"
+        },
+        {
+          "key": "160922|Bet I can make your hands clap",
+          "startMs": 160922,
+          "text": "Bet I can make your hands clap"
+        },
+        {
+          "key": "167702|Bet I can make your hands clap",
+          "startMs": 167702,
+          "text": "Bet I can make your hands clap"
+        },
+        {
+          "key": "174582|Bet I can make your hands clap",
+          "startMs": 174582,
+          "text": "Bet I can make your hands clap"
+        },
+        {
+          "key": "181311|So can I get a hand clap",
+          "startMs": 181311,
+          "text": "So can I get a hand clap"
+        }
+      ]
+    },
+    {
+      "rank": 883,
+      "songKey": "online:kugou:3ebf9bc403b6ff23f9aa8bd01d66c483",
+      "name": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "lines": [
+        {
+          "key": "0|Kelly Clarkson - Stronger (What Doesn't Kill You)",
+          "startMs": 0,
+          "text": "Kelly Clarkson - Stronger (What Doesn't Kill You)"
+        },
+        {
+          "key": "2420|Written by：Gregory Kurstin、David Gamson、Greg Kurstin、Ali Tamposi、Alexandra Leah Tamposi、Elofsson Jorgen Kjell、H. Gamson David",
+          "startMs": 2420,
+          "text": "Written by：Gregory Kurstin、David Gamson、Greg Kurstin、Ali Tamposi、Alexandra Leah Tamposi、Elofsson Jorgen Kjell、H. Gamson David"
+        },
+        {
+          "key": "8596|You know the bed feels warmer",
+          "startMs": 8596,
+          "text": "You know the bed feels warmer"
+        },
+        {
+          "key": "12346|Sleeping here alone",
+          "startMs": 12346,
+          "text": "Sleeping here alone"
+        },
+        {
+          "key": "16876|You know I dream in color",
+          "startMs": 16876,
+          "text": "You know I dream in color"
+        },
+        {
+          "key": "20516|And do the things I want",
+          "startMs": 20516,
+          "text": "And do the things I want"
+        },
+        {
+          "key": "25036|You think you got the best of me",
+          "startMs": 25036,
+          "text": "You think you got the best of me"
+        },
+        {
+          "key": "27256|Think you've had the last laugh",
+          "startMs": 27256,
+          "text": "Think you've had the last laugh"
+        },
+        {
+          "key": "29316|Bet you think",
+          "startMs": 29316,
+          "text": "Bet you think"
+        },
+        {
+          "key": "29836|That everything good is gone",
+          "startMs": 29836,
+          "text": "That everything good is gone"
+        },
+        {
+          "key": "33476|Think you left me broken down",
+          "startMs": 33476,
+          "text": "Think you left me broken down"
+        },
+        {
+          "key": "35546|Think that I'd come running back",
+          "startMs": 35546,
+          "text": "Think that I'd come running back"
+        },
+        {
+          "key": "37616|Baby you don't know me",
+          "startMs": 37616,
+          "text": "Baby you don't know me"
+        },
+        {
+          "key": "38876|Cause you're dead wrong",
+          "startMs": 38876,
+          "text": "Cause you're dead wrong"
+        },
+        {
+          "key": "41696|What doesn't kill",
+          "startMs": 41696,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "42816|You makes you stronger",
+          "startMs": 42816,
+          "text": "You makes you stronger"
+        },
+        {
+          "key": "44566|Stand a little taller",
+          "startMs": 44566,
+          "text": "Stand a little taller"
+        },
+        {
+          "key": "46646|Doesn't mean",
+          "startMs": 46646,
+          "text": "Doesn't mean"
+        },
+        {
+          "key": "47496|I'm lonely when I'm alone",
+          "startMs": 47496,
+          "text": "I'm lonely when I'm alone"
+        },
+        {
+          "key": "50036|What doesn't kill",
+          "startMs": 50036,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "51106|You makes a fighter",
+          "startMs": 51106,
+          "text": "You makes a fighter"
+        },
+        {
+          "key": "52866|Footsteps even lighter",
+          "startMs": 52866,
+          "text": "Footsteps even lighter"
+        },
+        {
+          "key": "54936|Doesn't mean",
+          "startMs": 54936,
+          "text": "Doesn't mean"
+        },
+        {
+          "key": "55806|I'm over 'cause you're gone",
+          "startMs": 55806,
+          "text": "I'm over 'cause you're gone"
+        },
+        {
+          "key": "58296|What doesn't kill",
+          "startMs": 58296,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "59376|You makes you stronger stronger",
+          "startMs": 59376,
+          "text": "You makes you stronger stronger"
+        },
+        {
+          "key": "63696|Just me myself and I",
+          "startMs": 63696,
+          "text": "Just me myself and I"
+        },
+        {
+          "key": "66616|What doesn't kill",
+          "startMs": 66616,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "67676|You makes you stronger",
+          "startMs": 67676,
+          "text": "You makes you stronger"
+        },
+        {
+          "key": "69216|Stand a little taller",
+          "startMs": 69216,
+          "text": "Stand a little taller"
+        },
+        {
+          "key": "71496|Doesn't mean",
+          "startMs": 71496,
+          "text": "Doesn't mean"
+        },
+        {
+          "key": "72326|I'm lonely when I'm alone",
+          "startMs": 72326,
+          "text": "I'm lonely when I'm alone"
+        },
+        {
+          "key": "76836|You heard that I was starting",
+          "startMs": 76836,
+          "text": "You heard that I was starting"
+        },
+        {
+          "key": "79556|Over with someone new",
+          "startMs": 79556,
+          "text": "Over with someone new"
+        },
+        {
+          "key": "85086|They told you",
+          "startMs": 85086,
+          "text": "They told you"
+        },
+        {
+          "key": "86036|I was moving on over you",
+          "startMs": 86036,
+          "text": "I was moving on over you"
+        },
+        {
+          "key": "93346|You didn't think that I'd come back",
+          "startMs": 93346,
+          "text": "You didn't think that I'd come back"
+        },
+        {
+          "key": "95486|I'd come back swinging",
+          "startMs": 95486,
+          "text": "I'd come back swinging"
+        },
+        {
+          "key": "97606|You try to break me",
+          "startMs": 97606,
+          "text": "You try to break me"
+        },
+        {
+          "key": "98886|But you see",
+          "startMs": 98886,
+          "text": "But you see"
+        },
+        {
+          "key": "99686|What doesn't kill you",
+          "startMs": 99686,
+          "text": "What doesn't kill you"
+        },
+        {
+          "key": "100926|Makes you stronger",
+          "startMs": 100926,
+          "text": "Makes you stronger"
+        },
+        {
+          "key": "102496|Stand a little taller",
+          "startMs": 102496,
+          "text": "Stand a little taller"
+        },
+        {
+          "key": "104576|Doesn't mean",
+          "startMs": 104576,
+          "text": "Doesn't mean"
+        },
+        {
+          "key": "105426|I'm lonely when I'm alone",
+          "startMs": 105426,
+          "text": "I'm lonely when I'm alone"
+        },
+        {
+          "key": "107986|What doesn't kill",
+          "startMs": 107986,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "109046|You makes a fighter",
+          "startMs": 109046,
+          "text": "You makes a fighter"
+        },
+        {
+          "key": "110786|Footsteps even lighter",
+          "startMs": 110786,
+          "text": "Footsteps even lighter"
+        },
+        {
+          "key": "112866|Doesn't mean I'm over",
+          "startMs": 112866,
+          "text": "Doesn't mean I'm over"
+        },
+        {
+          "key": "114896|'Cause you're gone",
+          "startMs": 114896,
+          "text": "'Cause you're gone"
+        },
+        {
+          "key": "116306|What doesn't kill",
+          "startMs": 116306,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "117306|You makes you stronger stronger",
+          "startMs": 117306,
+          "text": "You makes you stronger stronger"
+        },
+        {
+          "key": "121626|Just me myself and I",
+          "startMs": 121626,
+          "text": "Just me myself and I"
+        },
+        {
+          "key": "124556|What doesn't kill",
+          "startMs": 124556,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "125616|You makes you stronger",
+          "startMs": 125616,
+          "text": "You makes you stronger"
+        },
+        {
+          "key": "127126|Stand a little taller",
+          "startMs": 127126,
+          "text": "Stand a little taller"
+        },
+        {
+          "key": "129416|Doesn't mean",
+          "startMs": 129416,
+          "text": "Doesn't mean"
+        },
+        {
+          "key": "130256|I'm lonely when I'm alone",
+          "startMs": 130256,
+          "text": "I'm lonely when I'm alone"
+        },
+        {
+          "key": "135096|Thanks to you",
+          "startMs": 135096,
+          "text": "Thanks to you"
+        },
+        {
+          "key": "135986|I got a new thing started",
+          "startMs": 135986,
+          "text": "I got a new thing started"
+        },
+        {
+          "key": "139206|Thanks to you",
+          "startMs": 139206,
+          "text": "Thanks to you"
+        },
+        {
+          "key": "140076|I'm not the broken hearted",
+          "startMs": 140076,
+          "text": "I'm not the broken hearted"
+        },
+        {
+          "key": "143336|Thanks to you",
+          "startMs": 143336,
+          "text": "Thanks to you"
+        },
+        {
+          "key": "144226|I'm finally thinking about me",
+          "startMs": 144226,
+          "text": "I'm finally thinking about me"
+        },
+        {
+          "key": "146746|You know in the end the day",
+          "startMs": 146746,
+          "text": "You know in the end the day"
+        },
+        {
+          "key": "148956|You left was just my beginning",
+          "startMs": 148956,
+          "text": "You left was just my beginning"
+        },
+        {
+          "key": "154156|In the end",
+          "startMs": 154156,
+          "text": "In the end"
+        },
+        {
+          "key": "157576|What doesn't kill",
+          "startMs": 157576,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "158666|You makes you stronger",
+          "startMs": 158666,
+          "text": "You makes you stronger"
+        },
+        {
+          "key": "160436|Stand a little taller",
+          "startMs": 160436,
+          "text": "Stand a little taller"
+        },
+        {
+          "key": "162556|Doesn't mean",
+          "startMs": 162556,
+          "text": "Doesn't mean"
+        },
+        {
+          "key": "163366|I'm lonely when I'm alone",
+          "startMs": 163366,
+          "text": "I'm lonely when I'm alone"
+        },
+        {
+          "key": "165906|What doesn't kill",
+          "startMs": 165906,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "166966|You makes a fighter",
+          "startMs": 166966,
+          "text": "You makes a fighter"
+        },
+        {
+          "key": "168706|Footsteps even lighter",
+          "startMs": 168706,
+          "text": "Footsteps even lighter"
+        },
+        {
+          "key": "170806|Doesn't mean I'm over",
+          "startMs": 170806,
+          "text": "Doesn't mean I'm over"
+        },
+        {
+          "key": "172836|'Cause you're gone",
+          "startMs": 172836,
+          "text": "'Cause you're gone"
+        },
+        {
+          "key": "174426|What doesn't kill",
+          "startMs": 174426,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "175236|You makes you stronger stronger",
+          "startMs": 175236,
+          "text": "You makes you stronger stronger"
+        },
+        {
+          "key": "179556|Just me myself and I",
+          "startMs": 179556,
+          "text": "Just me myself and I"
+        },
+        {
+          "key": "182486|What doesn't kill",
+          "startMs": 182486,
+          "text": "What doesn't kill"
+        },
+        {
+          "key": "183536|You makes you stronger",
+          "startMs": 183536,
+          "text": "You makes you stronger"
+        },
+        {
+          "key": "185066|Stand a little taller",
+          "startMs": 185066,
+          "text": "Stand a little taller"
+        },
+        {
+          "key": "187336|Doesn't mean",
+          "startMs": 187336,
+          "text": "Doesn't mean"
+        },
+        {
+          "key": "188186|I'm lonely when I'm alone",
+          "startMs": 188186,
+          "text": "I'm lonely when I'm alone"
+        },
+        {
+          "key": "191466|What doesn't kill you",
+          "startMs": 191466,
+          "text": "What doesn't kill you"
+        },
+        {
+          "key": "191976|Makes you stronger stronger",
+          "startMs": 191976,
+          "text": "Makes you stronger stronger"
+        },
+        {
+          "key": "196116|Just me myself and I",
+          "startMs": 196116,
+          "text": "Just me myself and I"
+        },
+        {
+          "key": "199016|What doesn't kill you",
+          "startMs": 199016,
+          "text": "What doesn't kill you"
+        },
+        {
+          "key": "200256|Makes you stronger",
+          "startMs": 200256,
+          "text": "Makes you stronger"
+        },
+        {
+          "key": "201826|Stand a little taller",
+          "startMs": 201826,
+          "text": "Stand a little taller"
+        },
+        {
+          "key": "203916|Doesn't mean",
+          "startMs": 203916,
+          "text": "Doesn't mean"
+        },
+        {
+          "key": "204726|I'm lonely when I'm alone",
+          "startMs": 204726,
+          "text": "I'm lonely when I'm alone"
+        },
+        {
+          "key": "208386|When I'm alone",
+          "startMs": 208386,
+          "text": "When I'm alone"
+        }
+      ]
+    },
+    {
+      "rank": 884,
+      "songKey": "online:kugou:0c663576626373b739243765d35d3aa1",
+      "name": "사랑을 했다 (LOVE SCENARIO) (爱过)",
+      "artist": "iKON",
+      "lines": [
+        {
+          "key": "0|iKON - 사랑을 했다 (LOVE SCENARIO)",
+          "startMs": 0,
+          "text": "iKON - 사랑을 했다 (LOVE SCENARIO)"
+        },
+        {
+          "key": "262|词：B.I/BOBBY/MOT MAL",
+          "startMs": 262,
+          "text": "词：B.I/BOBBY/MOT MAL"
+        },
+        {
+          "key": "359|曲：B.I/MILLENNIUM/SEUNG",
+          "startMs": 359,
+          "text": "曲：B.I/MILLENNIUM/SEUNG"
+        },
+        {
+          "key": "433|编曲：MILLENNIUM",
+          "startMs": 433,
+          "text": "编曲：MILLENNIUM"
+        },
+        {
+          "key": "1788|사랑을 했다 우리가 만나",
+          "startMs": 1788,
+          "text": "사랑을 했다 우리가 만나"
+        },
+        {
+          "key": "5761|지우지 못할 추억이 됐다",
+          "startMs": 5761,
+          "text": "지우지 못할 추억이 됐다"
+        },
+        {
+          "key": "9400|볼만한 멜로드라마",
+          "startMs": 9400,
+          "text": "볼만한 멜로드라마"
+        },
+        {
+          "key": "11810|괜찮은 결말",
+          "startMs": 11810,
+          "text": "괜찮은 결말"
+        },
+        {
+          "key": "13986|그거면 됐다 널 사랑했다",
+          "startMs": 13986,
+          "text": "그거면 됐다 널 사랑했다"
+        },
+        {
+          "key": "17424|우리가 만든 love scenario",
+          "startMs": 17424,
+          "text": "우리가 만든 love scenario"
+        },
+        {
+          "key": "22099|이젠 조명이 꺼지고",
+          "startMs": 22099,
+          "text": "이젠 조명이 꺼지고"
+        },
+        {
+          "key": "26069|마지막 페이지를 넘기면",
+          "startMs": 26069,
+          "text": "마지막 페이지를 넘기면"
+        },
+        {
+          "key": "30122|조용히 막을 내리죠",
+          "startMs": 30122,
+          "text": "조용히 막을 내리죠"
+        },
+        {
+          "key": "34499|에이 괜찮지만은 않아",
+          "startMs": 34499,
+          "text": "에이 괜찮지만은 않아"
+        },
+        {
+          "key": "36539|이별을 마주한다는 건",
+          "startMs": 36539,
+          "text": "이별을 마주한다는 건"
+        },
+        {
+          "key": "38550|오늘이었던 우리의",
+          "startMs": 38550,
+          "text": "오늘이었던 우리의"
+        },
+        {
+          "key": "40058|어제에 더는 내일이 없다는 건",
+          "startMs": 40058,
+          "text": "어제에 더는 내일이 없다는 건"
+        },
+        {
+          "key": "42829|아프긴 해도 더 끌었음",
+          "startMs": 42829,
+          "text": "아프긴 해도 더 끌었음"
+        },
+        {
+          "key": "44605|상처가 덧나니까 ye",
+          "startMs": 44605,
+          "text": "상처가 덧나니까 ye"
+        },
+        {
+          "key": "46933|널 사랑했고 사랑 받았으니",
+          "startMs": 46933,
+          "text": "널 사랑했고 사랑 받았으니"
+        },
+        {
+          "key": "48887|난 이걸로 됐어",
+          "startMs": 48887,
+          "text": "난 이걸로 됐어"
+        },
+        {
+          "key": "51046|나 살아가면서 가끔씩 떠오를 기억",
+          "startMs": 51046,
+          "text": "나 살아가면서 가끔씩 떠오를 기억"
+        },
+        {
+          "key": "58762|그 안에 네가 있다면 그거면 충분해",
+          "startMs": 58762,
+          "text": "그 안에 네가 있다면 그거면 충분해"
+        },
+        {
+          "key": "66783|사랑을 했다 우리가 만나",
+          "startMs": 66783,
+          "text": "사랑을 했다 우리가 만나"
+        },
+        {
+          "key": "70780|지우지 못할 추억이 됐다",
+          "startMs": 70780,
+          "text": "지우지 못할 추억이 됐다"
+        },
+        {
+          "key": "74324|볼만한 멜로드라마",
+          "startMs": 74324,
+          "text": "볼만한 멜로드라마"
+        },
+        {
+          "key": "76921|괜찮은 결말",
+          "startMs": 76921,
+          "text": "괜찮은 결말"
+        },
+        {
+          "key": "79036|그거면 됐다 널 사랑했다",
+          "startMs": 79036,
+          "text": "그거면 됐다 널 사랑했다"
+        },
+        {
+          "key": "82487|우리가 만든 love scenario",
+          "startMs": 82487,
+          "text": "우리가 만든 love scenario"
+        },
+        {
+          "key": "87279|이젠 조명이 꺼지고",
+          "startMs": 87279,
+          "text": "이젠 조명이 꺼지고"
+        },
+        {
+          "key": "91172|마지막 페이지를 넘기면",
+          "startMs": 91172,
+          "text": "마지막 페이지를 넘기면"
+        },
+        {
+          "key": "95249|조용히 막을 내리죠",
+          "startMs": 95249,
+          "text": "조용히 막을 내리죠"
+        },
+        {
+          "key": "99212|갈비뼈 사이사이가",
+          "startMs": 99212,
+          "text": "갈비뼈 사이사이가"
+        },
+        {
+          "key": "100986|찌릿찌릿한 느낌",
+          "startMs": 100986,
+          "text": "찌릿찌릿한 느낌"
+        },
+        {
+          "key": "103604|나 사랑받고 있음을 알게 해주는 눈빛",
+          "startMs": 103604,
+          "text": "나 사랑받고 있음을 알게 해주는 눈빛"
+        },
+        {
+          "key": "107425|너에게 참 많이도 배웠다",
+          "startMs": 107425,
+          "text": "너에게 참 많이도 배웠다"
+        },
+        {
+          "key": "109958|반쪽을 채웠다",
+          "startMs": 109958,
+          "text": "반쪽을 채웠다"
+        },
+        {
+          "key": "112024|과거로 두기엔",
+          "startMs": 112024,
+          "text": "과거로 두기엔"
+        },
+        {
+          "key": "113143|너무 소중한 사람이었다",
+          "startMs": 113143,
+          "text": "너무 소중한 사람이었다"
+        },
+        {
+          "key": "116000|나 살아가면서 가끔씩 떠오를 기억",
+          "startMs": 116000,
+          "text": "나 살아가면서 가끔씩 떠오를 기억"
+        },
+        {
+          "key": "123613|그 안에 네가 있다면 그거면 충분해",
+          "startMs": 123613,
+          "text": "그 안에 네가 있다면 그거면 충분해"
+        },
+        {
+          "key": "131878|사랑을 했다 우리가 만나",
+          "startMs": 131878,
+          "text": "사랑을 했다 우리가 만나"
+        },
+        {
+          "key": "135957|지우지 못할 추억이 됐다",
+          "startMs": 135957,
+          "text": "지우지 못할 추억이 됐다"
+        },
+        {
+          "key": "139383|볼만한 멜로드라마",
+          "startMs": 139383,
+          "text": "볼만한 멜로드라마"
+        },
+        {
+          "key": "141952|괜찮은 결말",
+          "startMs": 141952,
+          "text": "괜찮은 결말"
+        },
+        {
+          "key": "144047|그거면 됐다 널 사랑했다",
+          "startMs": 144047,
+          "text": "그거면 됐다 널 사랑했다"
+        },
+        {
+          "key": "148537|네가 벌써 그립지만",
+          "startMs": 148537,
+          "text": "네가 벌써 그립지만"
+        },
+        {
+          "key": "152703|그리워하지 않으려 해",
+          "startMs": 152703,
+          "text": "그리워하지 않으려 해"
+        },
+        {
+          "key": "156318|한 편의 영화 따스했던",
+          "startMs": 156318,
+          "text": "한 편의 영화 따스했던"
+        },
+        {
+          "key": "160851|봄으로 너를 기억할게",
+          "startMs": 160851,
+          "text": "봄으로 너를 기억할게"
+        },
+        {
+          "key": "163893|우리가 만든 love scenario",
+          "startMs": 163893,
+          "text": "우리가 만든 love scenario"
+        },
+        {
+          "key": "168560|이젠 조명이 꺼지고",
+          "startMs": 168560,
+          "text": "이젠 조명이 꺼지고"
+        },
+        {
+          "key": "172506|마지막 페이지를 넘기면",
+          "startMs": 172506,
+          "text": "마지막 페이지를 넘기면"
+        },
+        {
+          "key": "176579|조용히 막을 내리죠",
+          "startMs": 176579,
+          "text": "조용히 막을 내리죠"
+        },
+        {
+          "key": "181370|우린 아파도 해봤고",
+          "startMs": 181370,
+          "text": "우린 아파도 해봤고"
+        },
+        {
+          "key": "185475|우습게 질투도 했어",
+          "startMs": 185475,
+          "text": "우습게 질투도 했어"
+        },
+        {
+          "key": "189524|미친 듯이 사랑했고",
+          "startMs": 189524,
+          "text": "미친 듯이 사랑했고"
+        },
+        {
+          "key": "193621|우리 이 정도면 됐어",
+          "startMs": 193621,
+          "text": "우리 이 정도면 됐어"
+        },
+        {
+          "key": "196853|사랑을 했다",
+          "startMs": 196853,
+          "text": "사랑을 했다"
+        },
+        {
+          "key": "199021|우리가 만나",
+          "startMs": 199021,
+          "text": "우리가 만나"
+        },
+        {
+          "key": "201026|그거면 됐다",
+          "startMs": 201026,
+          "text": "그거면 됐다"
+        },
+        {
+          "key": "202501|널 사랑했다",
+          "startMs": 202501,
+          "text": "널 사랑했다"
+        }
+      ]
+    },
+    {
+      "rank": 885,
+      "songKey": "online:kugou:0d55e3ef3b8b39210154281cdd6c2d24",
+      "name": "英雄たちの夜明け (结局篇-旭日东升)",
+      "artist": "横山菁児",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:c693df2dde6cfc3e765214bfea56a0c0",
+      "lines": [
+        {
+          "key": "40|Jewel - Stay Here Forever",
+          "text": "Jewel - Stay Here Forever",
+          "segments": [
+            "Jewel",
+            " - ",
+            "Stay Here Forever"
+          ]
+        },
+        {
+          "key": "1870|Lyrics by：Jewel King/Bobby Pinson/Dallas Davidson",
+          "text": "Lyrics by：Jewel King/Bobby Pinson/Dallas Davidson",
+          "segments": [
+            "Lyrics by：",
+            "Jewel King/",
+            "Bobby Pinson/",
+            "Dallas Davidson"
+          ]
+        },
+        {
+          "key": "3740|Composed by：Jewel King/Bobby Pinson/Dallas Davidson",
+          "text": "Composed by：Jewel King/Bobby Pinson/Dallas Davidson",
+          "segments": [
+            "Composed by：",
+            "Jewel King/",
+            "Bobby Pinson/",
+            "Dallas Davidson"
+          ]
+        },
+        {
+          "key": "5620|Oh oh oh oh oh oh",
+          "text": "Oh oh oh oh oh oh",
+          "segments": [
+            "Oh ",
+            "oh ",
+            "oh ",
+            "oh ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "11249|I'm laying here dreaming staring at the ceiling",
+          "text": "I'm laying here dreaming staring at the ceiling",
+          "segments": [
+            "I'm ",
+            "laying ",
+            "here ",
+            "dreaming ",
+            "staring ",
+            "at ",
+            "the ",
+            "ceiling"
+          ]
+        },
+        {
+          "key": "13909|Wasting the day away",
+          "text": "Wasting the day away",
+          "segments": [
+            "Wasting ",
+            "the ",
+            "day ",
+            "away"
+          ]
+        },
+        {
+          "key": "16589|The world's flying by our window outside",
+          "text": "The world's flying by our window outside",
+          "segments": [
+            "The ",
+            "world's ",
+            "flying ",
+            "by ",
+            "our ",
+            "window ",
+            "outside"
+          ]
+        },
+        {
+          "key": "19029|But hey baby that's ok",
+          "text": "But hey baby that's ok",
+          "segments": [
+            "But ",
+            "hey ",
+            "baby ",
+            "that's ",
+            "ok"
+          ]
+        },
+        {
+          "key": "22628|This feels so right it can't be wrong",
+          "text": "This feels so right it can't be wrong",
+          "segments": [
+            "This ",
+            "feels ",
+            "so ",
+            "right ",
+            "it ",
+            "can't ",
+            "be ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "25238|So far as I can see",
+          "text": "So far as I can see",
+          "segments": [
+            "So ",
+            "far ",
+            "as ",
+            "I ",
+            "can ",
+            "see"
+          ]
+        },
+        {
+          "key": "27547|Where you wanna go baby",
+          "text": "Where you wanna go baby",
+          "segments": [
+            "Where ",
+            "you ",
+            "wanna ",
+            "go ",
+            "baby"
+          ]
+        },
+        {
+          "key": "28945|I'll do anything",
+          "text": "I'll do anything",
+          "segments": [
+            "I'll ",
+            "do ",
+            "anything"
+          ]
+        },
+        {
+          "key": "32423|Cause if you wanna go baby let's go",
+          "text": "Cause if you wanna go baby let's go",
+          "segments": [
+            "Cause ",
+            "if ",
+            "you ",
+            "wanna ",
+            "go ",
+            "baby ",
+            "let's ",
+            "go"
+          ]
+        },
+        {
+          "key": "35093|If you wanna rock I'm ready to roll",
+          "text": "If you wanna rock I'm ready to roll",
+          "segments": [
+            "If ",
+            "you ",
+            "wanna ",
+            "rock ",
+            "I'm ",
+            "ready ",
+            "to ",
+            "roll"
+          ]
+        },
+        {
+          "key": "37733|And if you wanna slow down",
+          "text": "And if you wanna slow down",
+          "segments": [
+            "And ",
+            "if ",
+            "you ",
+            "wanna ",
+            "slow ",
+            "down"
+          ]
+        },
+        {
+          "key": "42401|We can slow down together",
+          "text": "We can slow down together",
+          "segments": [
+            "We ",
+            "can ",
+            "slow ",
+            "down ",
+            "together"
+          ]
+        },
+        {
+          "key": "44951|If you wanna walk baby let's walk",
+          "text": "If you wanna walk baby let's walk",
+          "segments": [
+            "If ",
+            "you ",
+            "wanna ",
+            "walk ",
+            "baby ",
+            "let's ",
+            "walk"
+          ]
+        },
+        {
+          "key": "47331|Have a little kiss have a little talk",
+          "text": "Have a little kiss have a little talk",
+          "segments": [
+            "Have ",
+            "a ",
+            "little ",
+            "kiss ",
+            "have ",
+            "a ",
+            "little ",
+            "talk"
+          ]
+        },
+        {
+          "key": "50011|We don't gotta leave at all",
+          "text": "We don't gotta leave at all",
+          "segments": [
+            "We ",
+            "don't ",
+            "gotta ",
+            "leave ",
+            "at ",
+            "all"
+          ]
+        },
+        {
+          "key": "54580|We can lay here forever",
+          "text": "We can lay here forever",
+          "segments": [
+            "We ",
+            "can ",
+            "lay ",
+            "here ",
+            "forever"
+          ]
+        },
+        {
+          "key": "57670|Stay here forever",
+          "text": "Stay here forever",
+          "segments": [
+            "Stay ",
+            "here ",
+            "forever"
+          ]
+        },
+        {
+          "key": "60270|Oh oh oh oh",
+          "text": "Oh oh oh oh",
+          "segments": [
+            "Oh ",
+            "oh ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "65809|If you wanna see that Italian tower leaning",
+          "text": "If you wanna see that Italian tower leaning",
+          "segments": [
+            "If ",
+            "you ",
+            "wanna ",
+            "see ",
+            "that ",
+            "Italian ",
+            "tower ",
+            "leaning"
+          ]
+        },
+        {
+          "key": "68458|Baby we can leave right now",
+          "text": "Baby we can leave right now",
+          "segments": [
+            "Baby ",
+            "we ",
+            "can ",
+            "leave ",
+            "right ",
+            "now"
+          ]
+        },
+        {
+          "key": "71187|If that's too far",
+          "text": "If that's too far",
+          "segments": [
+            "If ",
+            "that's ",
+            "too ",
+            "far"
+          ]
+        },
+        {
+          "key": "72217|We can jump in the car and take a little trip around town",
+          "text": "We can jump in the car and take a little trip around town",
+          "segments": [
+            "We ",
+            "can ",
+            "jump ",
+            "in ",
+            "the ",
+            "car ",
+            "and ",
+            "take ",
+            "a ",
+            "little ",
+            "trip ",
+            "around ",
+            "town"
+          ]
+        },
+        {
+          "key": "77046|They say that California is nice and warm this time of year",
+          "text": "They say that California is nice and warm this time of year",
+          "segments": [
+            "They ",
+            "say ",
+            "that ",
+            "California ",
+            "is ",
+            "nice ",
+            "and ",
+            "warm ",
+            "this ",
+            "time ",
+            "of ",
+            "year"
+          ]
+        },
+        {
+          "key": "82114|Baby say the word and we'll just disappear",
+          "text": "Baby say the word and we'll just disappear",
+          "segments": [
+            "Baby ",
+            "say ",
+            "the ",
+            "word ",
+            "and ",
+            "we'll ",
+            "just ",
+            "disappear"
+          ]
+        },
+        {
+          "key": "86933|Cause if you wanna go baby let's go",
+          "text": "Cause if you wanna go baby let's go",
+          "segments": [
+            "Cause ",
+            "if ",
+            "you ",
+            "wanna ",
+            "go ",
+            "baby ",
+            "let's ",
+            "go"
+          ]
+        },
+        {
+          "key": "89562|If you wanna rock I'm ready to roll",
+          "text": "If you wanna rock I'm ready to roll",
+          "segments": [
+            "If ",
+            "you ",
+            "wanna ",
+            "rock ",
+            "I'm ",
+            "ready ",
+            "to ",
+            "roll"
+          ]
+        },
+        {
+          "key": "92252|And if you wanna slow down",
+          "text": "And if you wanna slow down",
+          "segments": [
+            "And ",
+            "if ",
+            "you ",
+            "wanna ",
+            "slow ",
+            "down"
+          ]
+        },
+        {
+          "key": "96871|We can slow down together",
+          "text": "We can slow down together",
+          "segments": [
+            "We ",
+            "can ",
+            "slow ",
+            "down ",
+            "together"
+          ]
+        },
+        {
+          "key": "99241|If you wanna walk baby let's walk",
+          "text": "If you wanna walk baby let's walk",
+          "segments": [
+            "If ",
+            "you ",
+            "wanna ",
+            "walk ",
+            "baby ",
+            "let's ",
+            "walk"
+          ]
+        },
+        {
+          "key": "101791|Have a little kiss have a little talk",
+          "text": "Have a little kiss have a little talk",
+          "segments": [
+            "Have ",
+            "a ",
+            "little ",
+            "kiss ",
+            "have ",
+            "a ",
+            "little ",
+            "talk"
+          ]
+        },
+        {
+          "key": "104560|We don't gotta leave at all",
+          "text": "We don't gotta leave at all",
+          "segments": [
+            "We ",
+            "don't ",
+            "gotta ",
+            "leave ",
+            "at ",
+            "all"
+          ]
+        },
+        {
+          "key": "109250|We can lay here forever",
+          "text": "We can lay here forever",
+          "segments": [
+            "We ",
+            "can ",
+            "lay ",
+            "here ",
+            "forever"
+          ]
+        },
+        {
+          "key": "112160|Stay here forever",
+          "text": "Stay here forever",
+          "segments": [
+            "Stay ",
+            "here ",
+            "forever"
+          ]
+        },
+        {
+          "key": "114370|Oh it's a big world for a boy and a girl",
+          "text": "Oh it's a big world for a boy and a girl",
+          "segments": [
+            "Oh ",
+            "it's ",
+            "a ",
+            "big ",
+            "world ",
+            "for ",
+            "a ",
+            "boy ",
+            "and ",
+            "a ",
+            "girl"
+          ]
+        },
+        {
+          "key": "117200|Letting go of it all",
+          "text": "Letting go of it all",
+          "segments": [
+            "Letting ",
+            "go ",
+            "of ",
+            "it ",
+            "all"
+          ]
+        },
+        {
+          "key": "118559|Holding on to one another",
+          "text": "Holding on to one another",
+          "segments": [
+            "Holding ",
+            "on ",
+            "to ",
+            "one ",
+            "another"
+          ]
+        },
+        {
+          "key": "120008|Oh there's a whole lot of world to discover",
+          "text": "Oh there's a whole lot of world to discover",
+          "segments": [
+            "Oh ",
+            "there's ",
+            "a ",
+            "whole ",
+            "lot ",
+            "of ",
+            "world ",
+            "to ",
+            "discover"
+          ]
+        },
+        {
+          "key": "123526|Under the covers",
+          "text": "Under the covers",
+          "segments": [
+            "Under ",
+            "the ",
+            "covers"
+          ]
+        },
+        {
+          "key": "126426|So if you wanna go baby let's go",
+          "text": "So if you wanna go baby let's go",
+          "segments": [
+            "So ",
+            "if ",
+            "you ",
+            "wanna ",
+            "go ",
+            "baby ",
+            "let's ",
+            "go"
+          ]
+        },
+        {
+          "key": "129115|If you wanna rock I'm ready to roll",
+          "text": "If you wanna rock I'm ready to roll",
+          "segments": [
+            "If ",
+            "you ",
+            "wanna ",
+            "rock ",
+            "I'm ",
+            "ready ",
+            "to ",
+            "roll"
+          ]
+        },
+        {
+          "key": "131955|If you wanna slow down",
+          "text": "If you wanna slow down",
+          "segments": [
+            "If ",
+            "you ",
+            "wanna ",
+            "slow ",
+            "down"
+          ]
+        },
+        {
+          "key": "136505|We can slow down together",
+          "text": "We can slow down together",
+          "segments": [
+            "We ",
+            "can ",
+            "slow ",
+            "down ",
+            "together"
+          ]
+        },
+        {
+          "key": "138874|If you wanna walk baby let's walk",
+          "text": "If you wanna walk baby let's walk",
+          "segments": [
+            "If ",
+            "you ",
+            "wanna ",
+            "walk ",
+            "baby ",
+            "let's ",
+            "walk"
+          ]
+        },
+        {
+          "key": "141334|Have a little kiss have a little talk",
+          "text": "Have a little kiss have a little talk",
+          "segments": [
+            "Have ",
+            "a ",
+            "little ",
+            "kiss ",
+            "have ",
+            "a ",
+            "little ",
+            "talk"
+          ]
+        },
+        {
+          "key": "144124|We don't gotta leave at all",
+          "text": "We don't gotta leave at all",
+          "segments": [
+            "We ",
+            "don't ",
+            "gotta ",
+            "leave ",
+            "at ",
+            "all"
+          ]
+        },
+        {
+          "key": "148794|We can lay here forever",
+          "text": "We can lay here forever",
+          "segments": [
+            "We ",
+            "can ",
+            "lay ",
+            "here ",
+            "forever"
+          ]
+        },
+        {
+          "key": "151694|Stay here forever",
+          "text": "Stay here forever",
+          "segments": [
+            "Stay ",
+            "here ",
+            "forever"
+          ]
+        },
+        {
+          "key": "153663|Let's just lay here forever",
+          "text": "Let's just lay here forever",
+          "segments": [
+            "Let's ",
+            "just ",
+            "lay ",
+            "here ",
+            "forever"
+          ]
+        },
+        {
+          "key": "157122|Stay here forever",
+          "text": "Stay here forever",
+          "segments": [
+            "Stay ",
+            "here ",
+            "forever"
+          ]
+        },
+        {
+          "key": "159731|Oh oh oh oh oh oh oh",
+          "text": "Oh oh oh oh oh oh oh",
+          "segments": [
+            "Oh ",
+            "oh ",
+            "oh ",
+            "oh ",
+            "oh ",
+            "oh ",
+            "oh"
+          ]
+        }
+      ]
+    }
+  ]
+}

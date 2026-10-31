@@ -1,0 +1,1225 @@
+{
+  "batchNumber": 164,
+  "songs": [
+    {
+      "rank": 816,
+      "songKey": "online:kugou:bbbafc21dd4e07775a8ba2623ff401e1",
+      "name": "Solo Dance",
+      "artist": "Martin Jensen",
+      "lines": [
+        {
+          "key": "511|Martin Jensen - Solo Dance",
+          "startMs": 511,
+          "text": "Martin Jensen - Solo Dance"
+        },
+        {
+          "key": "1111|Written by：Martin Jensen/Peter Bjørnskov/Lene Dissing/Mads Dyhrberg",
+          "startMs": 1111,
+          "text": "Written by：Martin Jensen/Peter Bjørnskov/Lene Dissing/Mads Dyhrberg"
+        },
+        {
+          "key": "1947|In the faded light you touch my body",
+          "startMs": 1947,
+          "text": "In the faded light you touch my body"
+        },
+        {
+          "key": "6143|I can feel your hands on my skin",
+          "startMs": 6143,
+          "text": "I can feel your hands on my skin"
+        },
+        {
+          "key": "10370|Think you got me right where you want me",
+          "startMs": 10370,
+          "text": "Think you got me right where you want me"
+        },
+        {
+          "key": "14393|But you're just in my way",
+          "startMs": 14393,
+          "text": "But you're just in my way"
+        },
+        {
+          "key": "17363|I came to party on my own",
+          "startMs": 17363,
+          "text": "I came to party on my own"
+        },
+        {
+          "key": "21336|Don't need nobody in my zone",
+          "startMs": 21336,
+          "text": "Don't need nobody in my zone"
+        },
+        {
+          "key": "25363|I get down to the beat I lose control",
+          "startMs": 25363,
+          "text": "I get down to the beat I lose control"
+        },
+        {
+          "key": "29434|Hey oh I go so solo",
+          "startMs": 29434,
+          "text": "Hey oh I go so solo"
+        },
+        {
+          "key": "34960|Boy you can cool it down",
+          "startMs": 34960,
+          "text": "Boy you can cool it down"
+        },
+        {
+          "key": "37035|Not here to fool around",
+          "startMs": 37035,
+          "text": "Not here to fool around"
+        },
+        {
+          "key": "39139|Just wanna dance dance dance",
+          "startMs": 39139,
+          "text": "Just wanna dance dance dance"
+        },
+        {
+          "key": "41663|Dance dance dance",
+          "startMs": 41663,
+          "text": "Dance dance dance"
+        },
+        {
+          "key": "43598|I know you want me",
+          "startMs": 43598,
+          "text": "I know you want me"
+        },
+        {
+          "key": "45377|But I don't care baby",
+          "startMs": 45377,
+          "text": "But I don't care baby"
+        },
+        {
+          "key": "47487|Just wanna dance dance dance",
+          "startMs": 47487,
+          "text": "Just wanna dance dance dance"
+        },
+        {
+          "key": "49991|Dance dance dance",
+          "startMs": 49991,
+          "text": "Dance dance dance"
+        },
+        {
+          "key": "58594|Dance dance dance",
+          "startMs": 58594,
+          "text": "Dance dance dance"
+        },
+        {
+          "key": "66830|Dance dance dance",
+          "startMs": 66830,
+          "text": "Dance dance dance"
+        },
+        {
+          "key": "75344|Dance dance dance",
+          "startMs": 75344,
+          "text": "Dance dance dance"
+        },
+        {
+          "key": "87652|In the shade of night you're moving closer",
+          "startMs": 87652,
+          "text": "In the shade of night you're moving closer"
+        },
+        {
+          "key": "91579|We're on our way to cross the line",
+          "startMs": 91579,
+          "text": "We're on our way to cross the line"
+        },
+        {
+          "key": "95872|Think you got me right where you want me",
+          "startMs": 95872,
+          "text": "Think you got me right where you want me"
+        },
+        {
+          "key": "100028|But it's all in your mind",
+          "startMs": 100028,
+          "text": "But it's all in your mind"
+        },
+        {
+          "key": "102926|I came to party on my own",
+          "startMs": 102926,
+          "text": "I came to party on my own"
+        },
+        {
+          "key": "106876|Don't need nobody in my zone",
+          "startMs": 106876,
+          "text": "Don't need nobody in my zone"
+        },
+        {
+          "key": "110851|I get down to the beat I lose control",
+          "startMs": 110851,
+          "text": "I get down to the beat I lose control"
+        },
+        {
+          "key": "114930|Hey oh I go so solo",
+          "startMs": 114930,
+          "text": "Hey oh I go so solo"
+        },
+        {
+          "key": "120418|Boy you can cool it down",
+          "startMs": 120418,
+          "text": "Boy you can cool it down"
+        },
+        {
+          "key": "122559|Not here to fool around",
+          "startMs": 122559,
+          "text": "Not here to fool around"
+        },
+        {
+          "key": "124748|Just wanna dance dance dance",
+          "startMs": 124748,
+          "text": "Just wanna dance dance dance"
+        },
+        {
+          "key": "127306|Dance dance dance",
+          "startMs": 127306,
+          "text": "Dance dance dance"
+        },
+        {
+          "key": "129262|I know you want me",
+          "startMs": 129262,
+          "text": "I know you want me"
+        },
+        {
+          "key": "130914|But I don't care baby",
+          "startMs": 130914,
+          "text": "But I don't care baby"
+        },
+        {
+          "key": "133037|Just wanna dance dance dance",
+          "startMs": 133037,
+          "text": "Just wanna dance dance dance"
+        },
+        {
+          "key": "135729|Dance dance dance",
+          "startMs": 135729,
+          "text": "Dance dance dance"
+        },
+        {
+          "key": "144181|Dance dance dance",
+          "startMs": 144181,
+          "text": "Dance dance dance"
+        },
+        {
+          "key": "152371|Dance dance dance",
+          "startMs": 152371,
+          "text": "Dance dance dance"
+        },
+        {
+          "key": "161012|Dance dance dance",
+          "startMs": 161012,
+          "text": "Dance dance dance"
+        }
+      ]
+    },
+    {
+      "rank": 817,
+      "songKey": "online:kugou:f4342c5d0c3bc132a2791fac0c4b6b7f",
+      "name": "Outside",
+      "artist": "Calvin Harris / Ellie Goulding",
+      "lines": [
+        {
+          "key": "44|Calvin Harris、Ellie Goulding - Outside",
+          "startMs": 44,
+          "text": "Calvin Harris、Ellie Goulding - Outside"
+        },
+        {
+          "key": "3320|Lyrics by：Calvin Harris",
+          "startMs": 3320,
+          "text": "Lyrics by：Calvin Harris"
+        },
+        {
+          "key": "6650|Composed by：Calvin Harris",
+          "startMs": 6650,
+          "text": "Composed by：Calvin Harris"
+        },
+        {
+          "key": "9984|Look at what you've done",
+          "startMs": 9984,
+          "text": "Look at what you've done"
+        },
+        {
+          "key": "13695|Stand still falling away from me",
+          "startMs": 13695,
+          "text": "Stand still falling away from me"
+        },
+        {
+          "key": "17480|When it takes so long",
+          "startMs": 17480,
+          "text": "When it takes so long"
+        },
+        {
+          "key": "21179|Fire's out what do you want to be",
+          "startMs": 21179,
+          "text": "Fire's out what do you want to be"
+        },
+        {
+          "key": "24959|Now I'm holding on",
+          "startMs": 24959,
+          "text": "Now I'm holding on"
+        },
+        {
+          "key": "28714|Myself was never enough for me",
+          "startMs": 28714,
+          "text": "Myself was never enough for me"
+        },
+        {
+          "key": "32460|Gotta be so strong",
+          "startMs": 32460,
+          "text": "Gotta be so strong"
+        },
+        {
+          "key": "35350|There's a power in what you do",
+          "startMs": 35350,
+          "text": "There's a power in what you do"
+        },
+        {
+          "key": "37368|Now every other day",
+          "startMs": 37368,
+          "text": "Now every other day"
+        },
+        {
+          "key": "38255|I'll be watching you",
+          "startMs": 38255,
+          "text": "I'll be watching you"
+        },
+        {
+          "key": "43035|I'll show you what it feels like",
+          "startMs": 43035,
+          "text": "I'll show you what it feels like"
+        },
+        {
+          "key": "45100|Now I'm on the outside",
+          "startMs": 45100,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "50734|We did everything right",
+          "startMs": 50734,
+          "text": "We did everything right"
+        },
+        {
+          "key": "52645|Now I'm on the outside",
+          "startMs": 52645,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "58028|I'll show you what it feels like",
+          "startMs": 58028,
+          "text": "I'll show you what it feels like"
+        },
+        {
+          "key": "60133|Now I'm on the outside",
+          "startMs": 60133,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "65716|We did everything right",
+          "startMs": 65716,
+          "text": "We did everything right"
+        },
+        {
+          "key": "67649|Now I'm on the outside",
+          "startMs": 67649,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "84970|So you give me no reason",
+          "startMs": 84970,
+          "text": "So you give me no reason"
+        },
+        {
+          "key": "87977|For me to stay close to you",
+          "startMs": 87977,
+          "text": "For me to stay close to you"
+        },
+        {
+          "key": "90107|Tell me what lovers do",
+          "startMs": 90107,
+          "text": "Tell me what lovers do"
+        },
+        {
+          "key": "92428|How are we still breathing",
+          "startMs": 92428,
+          "text": "How are we still breathing"
+        },
+        {
+          "key": "95442|It's never for us to choose",
+          "startMs": 95442,
+          "text": "It's never for us to choose"
+        },
+        {
+          "key": "97578|I'll be the strength in you",
+          "startMs": 97578,
+          "text": "I'll be the strength in you"
+        },
+        {
+          "key": "100011|Now I'm holding on",
+          "startMs": 100011,
+          "text": "Now I'm holding on"
+        },
+        {
+          "key": "101838|I'm holding on",
+          "startMs": 101838,
+          "text": "I'm holding on"
+        },
+        {
+          "key": "103730|Myself was never enough for me",
+          "startMs": 103730,
+          "text": "Myself was never enough for me"
+        },
+        {
+          "key": "107451|Gotta be so strong",
+          "startMs": 107451,
+          "text": "Gotta be so strong"
+        },
+        {
+          "key": "110276|There's a power in what you do",
+          "startMs": 110276,
+          "text": "There's a power in what you do"
+        },
+        {
+          "key": "112311|Now every other day",
+          "startMs": 112311,
+          "text": "Now every other day"
+        },
+        {
+          "key": "113274|I'll be watching you",
+          "startMs": 113274,
+          "text": "I'll be watching you"
+        },
+        {
+          "key": "117972|I'll show you what it feels like",
+          "startMs": 117972,
+          "text": "I'll show you what it feels like"
+        },
+        {
+          "key": "120108|Now I'm on the outside",
+          "startMs": 120108,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "125719|We did everything right",
+          "startMs": 125719,
+          "text": "We did everything right"
+        },
+        {
+          "key": "127623|Now I'm on the outside",
+          "startMs": 127623,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "132997|I'll show you what it feels like",
+          "startMs": 132997,
+          "text": "I'll show you what it feels like"
+        },
+        {
+          "key": "135146|Now I'm on the outside",
+          "startMs": 135146,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "140703|We did everything right",
+          "startMs": 140703,
+          "text": "We did everything right"
+        },
+        {
+          "key": "142603|Now I'm on the outside",
+          "startMs": 142603,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "163005|I'll show you what it feels like",
+          "startMs": 163005,
+          "text": "I'll show you what it feels like"
+        },
+        {
+          "key": "165121|Now I'm on the outside",
+          "startMs": 165121,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "170525|I'll show you what it feels like",
+          "startMs": 170525,
+          "text": "I'll show you what it feels like"
+        },
+        {
+          "key": "178010|I'll show you what it feels like",
+          "startMs": 178010,
+          "text": "I'll show you what it feels like"
+        },
+        {
+          "key": "180081|Now I'm on the outside",
+          "startMs": 180081,
+          "text": "Now I'm on the outside"
+        },
+        {
+          "key": "185713|We did everything right",
+          "startMs": 185713,
+          "text": "We did everything right"
+        },
+        {
+          "key": "187586|Now I'm on the outside",
+          "startMs": 187586,
+          "text": "Now I'm on the outside"
+        }
+      ]
+    },
+    {
+      "rank": 818,
+      "songKey": "online:kugou:ad3d07e98cd40af6bf1ea984a58a4216",
+      "name": "僕らの手には何もないけど、 (尽管我们的手中空无一物)",
+      "artist": "RAM WIRE",
+      "lines": [
+        {
+          "key": "741|僕らの手には何もないけど、 - RAM WIRE (ラムワイヤー)",
+          "startMs": 741,
+          "text": "僕らの手には何もないけど、 - RAM WIRE (ラムワイヤー)"
+        },
+        {
+          "key": "3411|词：ユーズ",
+          "startMs": 3411,
+          "text": "词：ユーズ"
+        },
+        {
+          "key": "4301|曲：ユーズ/Monch/RYLL",
+          "startMs": 4301,
+          "text": "曲：ユーズ/Monch/RYLL"
+        },
+        {
+          "key": "20044|君に見せたいものがあるんだ",
+          "startMs": 20044,
+          "text": "君に見せたいものがあるんだ"
+        },
+        {
+          "key": "25654|孤独な夜にもきっと",
+          "startMs": 25654,
+          "text": "孤独な夜にもきっと"
+        },
+        {
+          "key": "29514|遠くで輝き続ける",
+          "startMs": 29514,
+          "text": "遠くで輝き続ける"
+        },
+        {
+          "key": "35904|幾千の星を",
+          "startMs": 35904,
+          "text": "幾千の星を"
+        },
+        {
+          "key": "40664|失うこと",
+          "startMs": 40664,
+          "text": "失うこと"
+        },
+        {
+          "key": "42934|割り切れぬこと",
+          "startMs": 42934,
+          "text": "割り切れぬこと"
+        },
+        {
+          "key": "45454|弾かれること",
+          "startMs": 45454,
+          "text": "弾かれること"
+        },
+        {
+          "key": "47943|叶わないこと",
+          "startMs": 47943,
+          "text": "叶わないこと"
+        },
+        {
+          "key": "50503|でも足掻くこと",
+          "startMs": 50503,
+          "text": "でも足掻くこと"
+        },
+        {
+          "key": "53053|信じぬくこと",
+          "startMs": 53053,
+          "text": "信じぬくこと"
+        },
+        {
+          "key": "55633|上を向いて",
+          "startMs": 55633,
+          "text": "上を向いて"
+        },
+        {
+          "key": "58193|歩き出すこと",
+          "startMs": 58193,
+          "text": "歩き出すこと"
+        },
+        {
+          "key": "63433|僕らの手には何もないけど",
+          "startMs": 63433,
+          "text": "僕らの手には何もないけど"
+        },
+        {
+          "key": "68463|かわりにつなぎあえるから",
+          "startMs": 68463,
+          "text": "かわりにつなぎあえるから"
+        },
+        {
+          "key": "73842|ひとりきりで迷わないで",
+          "startMs": 73842,
+          "text": "ひとりきりで迷わないで"
+        },
+        {
+          "key": "79272|どんな日もこの手を離さないから",
+          "startMs": 79272,
+          "text": "どんな日もこの手を離さないから"
+        },
+        {
+          "key": "94162|君にあげたいものがあるんだ",
+          "startMs": 94162,
+          "text": "君にあげたいものがあるんだ"
+        },
+        {
+          "key": "99721|凍える夜にはいつも",
+          "startMs": 99721,
+          "text": "凍える夜にはいつも"
+        },
+        {
+          "key": "103591|もう何も心配等せず",
+          "startMs": 103591,
+          "text": "もう何も心配等せず"
+        },
+        {
+          "key": "109961|眠れる毛布を",
+          "startMs": 109961,
+          "text": "眠れる毛布を"
+        },
+        {
+          "key": "114379|忘られぬこと",
+          "startMs": 114379,
+          "text": "忘られぬこと"
+        },
+        {
+          "key": "116878|耐えきれぬこと",
+          "startMs": 116878,
+          "text": "耐えきれぬこと"
+        },
+        {
+          "key": "119488|術がないこと",
+          "startMs": 119488,
+          "text": "術がないこと"
+        },
+        {
+          "key": "121978|奪われること",
+          "startMs": 121978,
+          "text": "奪われること"
+        },
+        {
+          "key": "124588|でも気付くこと",
+          "startMs": 124588,
+          "text": "でも気付くこと"
+        },
+        {
+          "key": "127108|君がいること",
+          "startMs": 127108,
+          "text": "君がいること"
+        },
+        {
+          "key": "129658|守りたいものが",
+          "startMs": 129658,
+          "text": "守りたいものが"
+        },
+        {
+          "key": "132148|強くさせること",
+          "startMs": 132148,
+          "text": "強くさせること"
+        },
+        {
+          "key": "137428|自分の色を誇れるように",
+          "startMs": 137428,
+          "text": "自分の色を誇れるように"
+        },
+        {
+          "key": "142488|自由に色を足せばいい",
+          "startMs": 142488,
+          "text": "自由に色を足せばいい"
+        },
+        {
+          "key": "147938|ぼやけていたこの世界を",
+          "startMs": 147938,
+          "text": "ぼやけていたこの世界を"
+        },
+        {
+          "key": "153388|この手が彩ってゆくんだ",
+          "startMs": 153388,
+          "text": "この手が彩ってゆくんだ"
+        },
+        {
+          "key": "159166|認めてくれる人がいなくても",
+          "startMs": 159166,
+          "text": "認めてくれる人がいなくても"
+        },
+        {
+          "key": "163865|サマになる肩書きがなくても",
+          "startMs": 163865,
+          "text": "サマになる肩書きがなくても"
+        },
+        {
+          "key": "168644|僕らの小さな手は明日きっと",
+          "startMs": 168644,
+          "text": "僕らの小さな手は明日きっと"
+        },
+        {
+          "key": "173624|誰かを笑顔にできるから",
+          "startMs": 173624,
+          "text": "誰かを笑顔にできるから"
+        },
+        {
+          "key": "180894|僕らの手には何もないけど",
+          "startMs": 180894,
+          "text": "僕らの手には何もないけど"
+        },
+        {
+          "key": "185874|かわりにつなぎあえるから",
+          "startMs": 185874,
+          "text": "かわりにつなぎあえるから"
+        },
+        {
+          "key": "191294|ひとりきりで迷わないで",
+          "startMs": 191294,
+          "text": "ひとりきりで迷わないで"
+        },
+        {
+          "key": "196694|どんな日もこの手を離さないから",
+          "startMs": 196694,
+          "text": "どんな日もこの手を離さないから"
+        },
+        {
+          "key": "221795|君に見せたいものがあるんだ",
+          "startMs": 221795,
+          "text": "君に見せたいものがあるんだ"
+        },
+        {
+          "key": "227495|孤独な夜にもきっと",
+          "startMs": 227495,
+          "text": "孤独な夜にもきっと"
+        },
+        {
+          "key": "231365|遠くで輝き続ける",
+          "startMs": 231365,
+          "text": "遠くで輝き続ける"
+        },
+        {
+          "key": "237914|幾千の星を",
+          "startMs": 237914,
+          "text": "幾千の星を"
+        }
+      ]
+    },
+    {
+      "rank": 819,
+      "songKey": "online:kugou:06e99d7bc5673553ede69455150daf56",
+      "name": "七里香",
+      "artist": "周杰伦",
+      "lines": [
+        {
+          "key": "113|周杰伦 - 七里香",
+          "startMs": 113,
+          "text": "周杰伦 - 七里香"
+        },
+        {
+          "key": "823|作词：方文山",
+          "startMs": 823,
+          "text": "作词：方文山"
+        },
+        {
+          "key": "1025|作曲：周杰伦",
+          "startMs": 1025,
+          "text": "作曲：周杰伦"
+        },
+        {
+          "key": "29925|窗外的麻雀",
+          "startMs": 29925,
+          "text": "窗外的麻雀"
+        },
+        {
+          "key": "33253|在电线杆上多嘴",
+          "startMs": 33253,
+          "text": "在电线杆上多嘴"
+        },
+        {
+          "key": "36731|你说这一句",
+          "startMs": 36731,
+          "text": "你说这一句"
+        },
+        {
+          "key": "40059|很有夏天的感觉",
+          "startMs": 40059,
+          "text": "很有夏天的感觉"
+        },
+        {
+          "key": "43337|手中的铅笔",
+          "startMs": 43337,
+          "text": "手中的铅笔"
+        },
+        {
+          "key": "46614|在纸上来来回回",
+          "startMs": 46614,
+          "text": "在纸上来来回回"
+        },
+        {
+          "key": "49695|我用几行字",
+          "startMs": 49695,
+          "text": "我用几行字"
+        },
+        {
+          "key": "51766|形容你是我的谁",
+          "startMs": 51766,
+          "text": "形容你是我的谁"
+        },
+        {
+          "key": "56407|秋刀鱼的滋味",
+          "startMs": 56407,
+          "text": "秋刀鱼的滋味"
+        },
+        {
+          "key": "59687|猫跟你都想了解",
+          "startMs": 59687,
+          "text": "猫跟你都想了解"
+        },
+        {
+          "key": "63726|初恋的香味",
+          "startMs": 63726,
+          "text": "初恋的香味"
+        },
+        {
+          "key": "65596|就这样被我们寻回",
+          "startMs": 65596,
+          "text": "就这样被我们寻回"
+        },
+        {
+          "key": "69884|那温暖的阳光",
+          "startMs": 69884,
+          "text": "那温暖的阳光"
+        },
+        {
+          "key": "72909|像刚摘的鲜艳草莓",
+          "startMs": 72909,
+          "text": "像刚摘的鲜艳草莓"
+        },
+        {
+          "key": "76332|你说你舍不得",
+          "startMs": 76332,
+          "text": "你说你舍不得"
+        },
+        {
+          "key": "78754|吃掉这一种感觉",
+          "startMs": 78754,
+          "text": "吃掉这一种感觉"
+        },
+        {
+          "key": "83039|雨下整夜",
+          "startMs": 83039,
+          "text": "雨下整夜"
+        },
+        {
+          "key": "85515|我的爱溢出就像雨水",
+          "startMs": 85515,
+          "text": "我的爱溢出就像雨水"
+        },
+        {
+          "key": "89857|院子落叶",
+          "startMs": 89857,
+          "text": "院子落叶"
+        },
+        {
+          "key": "92279|跟我的思念厚厚一叠",
+          "startMs": 92279,
+          "text": "跟我的思念厚厚一叠"
+        },
+        {
+          "key": "96575|几句是非",
+          "startMs": 96575,
+          "text": "几句是非"
+        },
+        {
+          "key": "99001|也无法将我的热情冷却",
+          "startMs": 99001,
+          "text": "也无法将我的热情冷却"
+        },
+        {
+          "key": "104095|你出现在我诗的每一页",
+          "startMs": 104095,
+          "text": "你出现在我诗的每一页"
+        },
+        {
+          "key": "110194|雨下整夜",
+          "startMs": 110194,
+          "text": "雨下整夜"
+        },
+        {
+          "key": "112556|我的爱溢出就像雨水",
+          "startMs": 112556,
+          "text": "我的爱溢出就像雨水"
+        },
+        {
+          "key": "116800|窗台蝴蝶",
+          "startMs": 116800,
+          "text": "窗台蝴蝶"
+        },
+        {
+          "key": "119227|像诗里纷飞的美丽章节",
+          "startMs": 119227,
+          "text": "像诗里纷飞的美丽章节"
+        },
+        {
+          "key": "123474|我接着写",
+          "startMs": 123474,
+          "text": "我接着写"
+        },
+        {
+          "key": "125992|把永远爱你写进诗的结尾",
+          "startMs": 125992,
+          "text": "把永远爱你写进诗的结尾"
+        },
+        {
+          "key": "131092|你是我唯一想要的了解",
+          "startMs": 131092,
+          "text": "你是我唯一想要的了解"
+        },
+        {
+          "key": "164392|雨下整夜",
+          "startMs": 164392,
+          "text": "雨下整夜"
+        },
+        {
+          "key": "166514|我的爱溢出就像雨水",
+          "startMs": 166514,
+          "text": "我的爱溢出就像雨水"
+        },
+        {
+          "key": "170708|院子落叶",
+          "startMs": 170708,
+          "text": "院子落叶"
+        },
+        {
+          "key": "173278|跟我的思念厚厚一叠",
+          "startMs": 173278,
+          "text": "跟我的思念厚厚一叠"
+        },
+        {
+          "key": "177463|几句是非",
+          "startMs": 177463,
+          "text": "几句是非"
+        },
+        {
+          "key": "180034|也无法将我的热情冷却",
+          "startMs": 180034,
+          "text": "也无法将我的热情冷却"
+        },
+        {
+          "key": "185024|你出现在我诗的每一页",
+          "startMs": 185024,
+          "text": "你出现在我诗的每一页"
+        },
+        {
+          "key": "191529|那饱满的稻穗",
+          "startMs": 191529,
+          "text": "那饱满的稻穗"
+        },
+        {
+          "key": "194756|幸福了这个季节",
+          "startMs": 194756,
+          "text": "幸福了这个季节"
+        },
+        {
+          "key": "198852|而你的脸颊",
+          "startMs": 198852,
+          "text": "而你的脸颊"
+        },
+        {
+          "key": "200624|像田里熟透的番茄",
+          "startMs": 200624,
+          "text": "像田里熟透的番茄"
+        },
+        {
+          "key": "204964|你突然对我说",
+          "startMs": 204964,
+          "text": "你突然对我说"
+        },
+        {
+          "key": "207941|七里香的名字很美",
+          "startMs": 207941,
+          "text": "七里香的名字很美"
+        },
+        {
+          "key": "211371|我此刻却只想",
+          "startMs": 211371,
+          "text": "我此刻却只想"
+        },
+        {
+          "key": "213793|亲吻你倔强的嘴",
+          "startMs": 213793,
+          "text": "亲吻你倔强的嘴"
+        },
+        {
+          "key": "218231|雨下整夜",
+          "startMs": 218231,
+          "text": "雨下整夜"
+        },
+        {
+          "key": "220607|我的爱溢出就像雨水",
+          "startMs": 220607,
+          "text": "我的爱溢出就像雨水"
+        },
+        {
+          "key": "224692|院子落叶",
+          "startMs": 224692,
+          "text": "院子落叶"
+        },
+        {
+          "key": "227267|跟我的思念厚厚一叠",
+          "startMs": 227267,
+          "text": "跟我的思念厚厚一叠"
+        },
+        {
+          "key": "231654|几句是非",
+          "startMs": 231654,
+          "text": "几句是非"
+        },
+        {
+          "key": "234017|也无法将我的热情冷却",
+          "startMs": 234017,
+          "text": "也无法将我的热情冷却"
+        },
+        {
+          "key": "239058|你出现在我诗的每一页",
+          "startMs": 239058,
+          "text": "你出现在我诗的每一页"
+        },
+        {
+          "key": "245612|整夜",
+          "startMs": 245612,
+          "text": "整夜"
+        },
+        {
+          "key": "247677|我的爱溢出就像雨水",
+          "startMs": 247677,
+          "text": "我的爱溢出就像雨水"
+        },
+        {
+          "key": "251769|窗台蝴蝶",
+          "startMs": 251769,
+          "text": "窗台蝴蝶"
+        },
+        {
+          "key": "254386|像诗里纷飞的美丽章节",
+          "startMs": 254386,
+          "text": "像诗里纷飞的美丽章节"
+        },
+        {
+          "key": "258829|我接着写",
+          "startMs": 258829,
+          "text": "我接着写"
+        },
+        {
+          "key": "261053|把永远爱你写进诗的结尾",
+          "startMs": 261053,
+          "text": "把永远爱你写进诗的结尾"
+        },
+        {
+          "key": "266155|你是我唯一想要的了解",
+          "startMs": 266155,
+          "text": "你是我唯一想要的了解"
+        }
+      ]
+    },
+    {
+      "rank": 820,
+      "songKey": "online:kugou:d8151c8696574f30882069d3b0d3556a",
+      "name": "七里香",
+      "artist": "刘瑞琦",
+      "lines": [
+        {
+          "key": "0|刘瑞琦 - 七里香",
+          "startMs": 0,
+          "text": "刘瑞琦 - 七里香"
+        },
+        {
+          "key": "4886|作词：方文山",
+          "startMs": 4886,
+          "text": "作词：方文山"
+        },
+        {
+          "key": "8143|作曲：周杰伦",
+          "startMs": 8143,
+          "text": "作曲：周杰伦"
+        },
+        {
+          "key": "11400|编曲：钟兴民",
+          "startMs": 11400,
+          "text": "编曲：钟兴民"
+        },
+        {
+          "key": "14658|窗外的麻雀在电线杆上多嘴",
+          "startMs": 14658,
+          "text": "窗外的麻雀在电线杆上多嘴"
+        },
+        {
+          "key": "21398|你说这一句很有夏天的感觉",
+          "startMs": 21398,
+          "text": "你说这一句很有夏天的感觉"
+        },
+        {
+          "key": "28168|手中的铅笔在纸上来来回回",
+          "startMs": 28168,
+          "text": "手中的铅笔在纸上来来回回"
+        },
+        {
+          "key": "34508|我用几行字形容你是我的谁",
+          "startMs": 34508,
+          "text": "我用几行字形容你是我的谁"
+        },
+        {
+          "key": "41176|秋刀鱼的滋味猫跟你都想了解",
+          "startMs": 41176,
+          "text": "秋刀鱼的滋味猫跟你都想了解"
+        },
+        {
+          "key": "48426|初恋的香味就这样被我们寻回",
+          "startMs": 48426,
+          "text": "初恋的香味就这样被我们寻回"
+        },
+        {
+          "key": "54706|那温暖的阳光像刚摘的鲜艳草莓",
+          "startMs": 54706,
+          "text": "那温暖的阳光像刚摘的鲜艳草莓"
+        },
+        {
+          "key": "61206|你说你舍不得吃掉这一种感觉",
+          "startMs": 61206,
+          "text": "你说你舍不得吃掉这一种感觉"
+        },
+        {
+          "key": "67966|雨下整夜我的爱溢出就像雨水",
+          "startMs": 67966,
+          "text": "雨下整夜我的爱溢出就像雨水"
+        },
+        {
+          "key": "74726|院子落叶跟我的思念厚厚一叠",
+          "startMs": 74726,
+          "text": "院子落叶跟我的思念厚厚一叠"
+        },
+        {
+          "key": "81456|几句是非也无法将我的热情冷却",
+          "startMs": 81456,
+          "text": "几句是非也无法将我的热情冷却"
+        },
+        {
+          "key": "89056|你出现在我诗的每一页",
+          "startMs": 89056,
+          "text": "你出现在我诗的每一页"
+        },
+        {
+          "key": "95016|雨下整夜我的爱溢出就像雨水",
+          "startMs": 95016,
+          "text": "雨下整夜我的爱溢出就像雨水"
+        },
+        {
+          "key": "101736|窗台蝴蝶像诗里纷飞的美丽章节",
+          "startMs": 101736,
+          "text": "窗台蝴蝶像诗里纷飞的美丽章节"
+        },
+        {
+          "key": "108526|我接着写",
+          "startMs": 108526,
+          "text": "我接着写"
+        },
+        {
+          "key": "111016|把永远爱你写进诗的结尾",
+          "startMs": 111016,
+          "text": "把永远爱你写进诗的结尾"
+        },
+        {
+          "key": "116096|你是我唯一想要的了解",
+          "startMs": 116096,
+          "text": "你是我唯一想要的了解"
+        },
+        {
+          "key": "149098|雨下整夜我的爱溢出就像雨水",
+          "startMs": 149098,
+          "text": "雨下整夜我的爱溢出就像雨水"
+        },
+        {
+          "key": "155828|院子落叶跟我的思念厚厚一叠",
+          "startMs": 155828,
+          "text": "院子落叶跟我的思念厚厚一叠"
+        },
+        {
+          "key": "162588|几句是非也无法将我的热情冷却",
+          "startMs": 162588,
+          "text": "几句是非也无法将我的热情冷却"
+        },
+        {
+          "key": "170168|你出现在我诗的每一页",
+          "startMs": 170168,
+          "text": "你出现在我诗的每一页"
+        },
+        {
+          "key": "176398|那饱满的稻穗幸福了这个季节",
+          "startMs": 176398,
+          "text": "那饱满的稻穗幸福了这个季节"
+        },
+        {
+          "key": "183748|而你的脸颊像田里熟透的番茄",
+          "startMs": 183748,
+          "text": "而你的脸颊像田里熟透的番茄"
+        },
+        {
+          "key": "189938|你突然对我说七里香的名字很美",
+          "startMs": 189938,
+          "text": "你突然对我说七里香的名字很美"
+        },
+        {
+          "key": "196348|我此刻却只想亲吻你倔强的嘴",
+          "startMs": 196348,
+          "text": "我此刻却只想亲吻你倔强的嘴"
+        },
+        {
+          "key": "203188|雨下整夜我的爱溢出就像雨水",
+          "startMs": 203188,
+          "text": "雨下整夜我的爱溢出就像雨水"
+        },
+        {
+          "key": "209948|院子落叶跟我的思念厚厚一叠",
+          "startMs": 209948,
+          "text": "院子落叶跟我的思念厚厚一叠"
+        },
+        {
+          "key": "216668|几句是非也无法将我的热情冷却",
+          "startMs": 216668,
+          "text": "几句是非也无法将我的热情冷却"
+        },
+        {
+          "key": "224278|你出现在我诗的每一页",
+          "startMs": 224278,
+          "text": "你出现在我诗的每一页"
+        },
+        {
+          "key": "230516|整夜我的爱溢出就像雨水",
+          "startMs": 230516,
+          "text": "整夜我的爱溢出就像雨水"
+        },
+        {
+          "key": "236936|窗台蝴蝶像诗里纷飞的美丽章节",
+          "startMs": 236936,
+          "text": "窗台蝴蝶像诗里纷飞的美丽章节"
+        },
+        {
+          "key": "243726|我接着写",
+          "startMs": 243726,
+          "text": "我接着写"
+        },
+        {
+          "key": "246236|把永远爱你写进诗的结尾",
+          "startMs": 246236,
+          "text": "把永远爱你写进诗的结尾"
+        },
+        {
+          "key": "251336|你是我唯一想要的了解",
+          "startMs": 251336,
+          "text": "你是我唯一想要的了解"
+        }
+      ]
+    }
+  ]
+}

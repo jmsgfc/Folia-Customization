@@ -1,0 +1,732 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:49e94bb2825d85b5ed3c65ece23e0dff",
+      "lines": [
+        {
+          "key": "0|Taylor Swift - Mine",
+          "text": "Taylor Swift - Mine",
+          "segments": [
+            "Taylor Swift",
+            " - ",
+            "Mine"
+          ]
+        },
+        {
+          "key": "505|Written by：Taylor Swift、Nathan Chapman",
+          "text": "Written by：Taylor Swift、Nathan Chapman",
+          "segments": [
+            "Written by：",
+            "Taylor Swift、",
+            "Nathan Chapman"
+          ]
+        },
+        {
+          "key": "17731|You were in college working part-time waiting tables",
+          "text": "You were in college working part-time waiting tables",
+          "segments": [
+            "You ",
+            "were ",
+            "in ",
+            "college ",
+            "working ",
+            "part-time ",
+            "waiting ",
+            "tables"
+          ]
+        },
+        {
+          "key": "21572|Left a small town and never looked back",
+          "text": "Left a small town and never looked back",
+          "segments": [
+            "Left ",
+            "a ",
+            "small ",
+            "town ",
+            "and ",
+            "never ",
+            "looked ",
+            "back"
+          ]
+        },
+        {
+          "key": "25486|I was a flight risk with a fear of falling",
+          "text": "I was a flight risk with a fear of falling",
+          "segments": [
+            "I ",
+            "was ",
+            "a ",
+            "flight ",
+            "risk ",
+            "with ",
+            "a ",
+            "fear ",
+            "of ",
+            "falling"
+          ]
+        },
+        {
+          "key": "29533|Wondering why we bother with love if it never lasts",
+          "text": "Wondering why we bother with love if it never lasts",
+          "segments": [
+            "Wondering ",
+            "why ",
+            "we ",
+            "bother ",
+            "with ",
+            "love ",
+            "if ",
+            "it ",
+            "never ",
+            "lasts"
+          ]
+        },
+        {
+          "key": "34516|I say can you believe it",
+          "text": "I say can you believe it",
+          "segments": [
+            "I ",
+            "say ",
+            "can ",
+            "you ",
+            "believe ",
+            "it"
+          ]
+        },
+        {
+          "key": "39805|As we're lying on the couch",
+          "text": "As we're lying on the couch",
+          "segments": [
+            "As ",
+            "we're ",
+            "lying ",
+            "on ",
+            "the ",
+            "couch"
+          ]
+        },
+        {
+          "key": "42791|The moment I could see it",
+          "text": "The moment I could see it",
+          "segments": [
+            "The ",
+            "moment ",
+            "I ",
+            "could ",
+            "see ",
+            "it"
+          ]
+        },
+        {
+          "key": "45274|Yes yes I can see it now",
+          "text": "Yes yes I can see it now",
+          "segments": [
+            "Yes ",
+            "yes ",
+            "I ",
+            "can ",
+            "see ",
+            "it ",
+            "now"
+          ]
+        },
+        {
+          "key": "49560|Do you remember we were sitting there by the water",
+          "text": "Do you remember we were sitting there by the water",
+          "segments": [
+            "Do ",
+            "you ",
+            "remember ",
+            "we ",
+            "were ",
+            "sitting ",
+            "there ",
+            "by ",
+            "the ",
+            "water"
+          ]
+        },
+        {
+          "key": "53458|You put your arm around me for the first time",
+          "text": "You put your arm around me for the first time",
+          "segments": [
+            "You ",
+            "put ",
+            "your ",
+            "arm ",
+            "around ",
+            "me ",
+            "for ",
+            "the ",
+            "first ",
+            "time"
+          ]
+        },
+        {
+          "key": "57296|You made a rebel of a careless man's careful daughter",
+          "text": "You made a rebel of a careless man's careful daughter",
+          "segments": [
+            "You ",
+            "made ",
+            "a ",
+            "rebel ",
+            "of ",
+            "a ",
+            "careless ",
+            "man's ",
+            "careful ",
+            "daughter"
+          ]
+        },
+        {
+          "key": "61340|You are the best thing that's ever been mine",
+          "text": "You are the best thing that's ever been mine",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "best ",
+            "thing ",
+            "that's ",
+            "ever ",
+            "been ",
+            "mine"
+          ]
+        },
+        {
+          "key": "69423|Flash forward and we're taking on the world together",
+          "text": "Flash forward and we're taking on the world together",
+          "segments": [
+            "Flash ",
+            "forward ",
+            "and ",
+            "we're ",
+            "taking ",
+            "on ",
+            "the ",
+            "world ",
+            "together"
+          ]
+        },
+        {
+          "key": "73317|And there's a drawer of my things at your place",
+          "text": "And there's a drawer of my things at your place",
+          "segments": [
+            "And ",
+            "there's ",
+            "a ",
+            "drawer ",
+            "of ",
+            "my ",
+            "things ",
+            "at ",
+            "your ",
+            "place"
+          ]
+        },
+        {
+          "key": "77267|You learn my secrets and figure out why I'm guarded",
+          "text": "You learn my secrets and figure out why I'm guarded",
+          "segments": [
+            "You ",
+            "learn ",
+            "my ",
+            "secrets ",
+            "and ",
+            "figure ",
+            "out ",
+            "why ",
+            "I'm ",
+            "guarded"
+          ]
+        },
+        {
+          "key": "81366|You say we'll never make my parents' mistakes",
+          "text": "You say we'll never make my parents' mistakes",
+          "segments": [
+            "You ",
+            "say ",
+            "we'll ",
+            "never ",
+            "make ",
+            "my ",
+            "parents' ",
+            "mistakes"
+          ]
+        },
+        {
+          "key": "87307|But we got bills to pay",
+          "text": "But we got bills to pay",
+          "segments": [
+            "But ",
+            "we ",
+            "got ",
+            "bills ",
+            "to ",
+            "pay"
+          ]
+        },
+        {
+          "key": "91206|We got nothing figured out",
+          "text": "We got nothing figured out",
+          "segments": [
+            "We ",
+            "got ",
+            "nothing ",
+            "figured ",
+            "out"
+          ]
+        },
+        {
+          "key": "95303|When it was hard to take",
+          "text": "When it was hard to take",
+          "segments": [
+            "When ",
+            "it ",
+            "was ",
+            "hard ",
+            "to ",
+            "take"
+          ]
+        },
+        {
+          "key": "97021|Yes yes",
+          "text": "Yes yes",
+          "segments": [
+            "Yes ",
+            "yes"
+          ]
+        },
+        {
+          "key": "98794|This is what I thought about",
+          "text": "This is what I thought about",
+          "segments": [
+            "This ",
+            "is ",
+            "what ",
+            "I ",
+            "thought ",
+            "about"
+          ]
+        },
+        {
+          "key": "101325|Do you remember we were sitting there by the water",
+          "text": "Do you remember we were sitting there by the water",
+          "segments": [
+            "Do ",
+            "you ",
+            "remember ",
+            "we ",
+            "were ",
+            "sitting ",
+            "there ",
+            "by ",
+            "the ",
+            "water"
+          ]
+        },
+        {
+          "key": "105027|You put your arm around me for the first time",
+          "text": "You put your arm around me for the first time",
+          "segments": [
+            "You ",
+            "put ",
+            "your ",
+            "arm ",
+            "around ",
+            "me ",
+            "for ",
+            "the ",
+            "first ",
+            "time"
+          ]
+        },
+        {
+          "key": "109073|You made a rebel of a careless man's careful daughter",
+          "text": "You made a rebel of a careless man's careful daughter",
+          "segments": [
+            "You ",
+            "made ",
+            "a ",
+            "rebel ",
+            "of ",
+            "a ",
+            "careless ",
+            "man's ",
+            "careful ",
+            "daughter"
+          ]
+        },
+        {
+          "key": "113019|You are the best thing that's ever been mine",
+          "text": "You are the best thing that's ever been mine",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "best ",
+            "thing ",
+            "that's ",
+            "ever ",
+            "been ",
+            "mine"
+          ]
+        },
+        {
+          "key": "117047|Do you remember all the city lights on the water",
+          "text": "Do you remember all the city lights on the water",
+          "segments": [
+            "Do ",
+            "you ",
+            "remember ",
+            "all ",
+            "the ",
+            "city ",
+            "lights ",
+            "on ",
+            "the ",
+            "water"
+          ]
+        },
+        {
+          "key": "120941|You saw me start to believe for the first time",
+          "text": "You saw me start to believe for the first time",
+          "segments": [
+            "You ",
+            "saw ",
+            "me ",
+            "start ",
+            "to ",
+            "believe ",
+            "for ",
+            "the ",
+            "first ",
+            "time"
+          ]
+        },
+        {
+          "key": "124871|You made a rebel of a careless man's careful daughter",
+          "text": "You made a rebel of a careless man's careful daughter",
+          "segments": [
+            "You ",
+            "made ",
+            "a ",
+            "rebel ",
+            "of ",
+            "a ",
+            "careless ",
+            "man's ",
+            "careful ",
+            "daughter"
+          ]
+        },
+        {
+          "key": "128860|You are the best thing that's ever been mine",
+          "text": "You are the best thing that's ever been mine",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "best ",
+            "thing ",
+            "that's ",
+            "ever ",
+            "been ",
+            "mine"
+          ]
+        },
+        {
+          "key": "140181|And I remember that fight 2：30 AM",
+          "text": "And I remember that fight 2：30 AM",
+          "segments": [
+            "And ",
+            "I ",
+            "remember ",
+            "that ",
+            "fight ",
+            "2：30 ",
+            "AM"
+          ]
+        },
+        {
+          "key": "144337|As everything was slipping right out of our hands",
+          "text": "As everything was slipping right out of our hands",
+          "segments": [
+            "As ",
+            "everything ",
+            "was ",
+            "slipping ",
+            "right ",
+            "out ",
+            "of ",
+            "our ",
+            "hands"
+          ]
+        },
+        {
+          "key": "148641|I ran out crying and you followed me out into the street",
+          "text": "I ran out crying and you followed me out into the street",
+          "segments": [
+            "I ",
+            "ran ",
+            "out ",
+            "crying ",
+            "and ",
+            "you ",
+            "followed ",
+            "me ",
+            "out ",
+            "into ",
+            "the ",
+            "street"
+          ]
+        },
+        {
+          "key": "157991|Braced myself for the goodbye",
+          "text": "Braced myself for the goodbye",
+          "segments": [
+            "Braced ",
+            "myself ",
+            "for ",
+            "the ",
+            "goodbye"
+          ]
+        },
+        {
+          "key": "161960|Cause that's all I've ever known",
+          "text": "Cause that's all I've ever known",
+          "segments": [
+            "Cause ",
+            "that's ",
+            "all ",
+            "I've ",
+            "ever ",
+            "known"
+          ]
+        },
+        {
+          "key": "165908|Then you took me by surprise",
+          "text": "Then you took me by surprise",
+          "segments": [
+            "Then ",
+            "you ",
+            "took ",
+            "me ",
+            "by ",
+            "surprise"
+          ]
+        },
+        {
+          "key": "169552|You said I'll never leave you alone",
+          "text": "You said I'll never leave you alone",
+          "segments": [
+            "You ",
+            "said ",
+            "I'll ",
+            "never ",
+            "leave ",
+            "you ",
+            "alone"
+          ]
+        },
+        {
+          "key": "175686|You said I remember how we felt sitting by the water",
+          "text": "You said I remember how we felt sitting by the water",
+          "segments": [
+            "You ",
+            "said ",
+            "I ",
+            "remember ",
+            "how ",
+            "we ",
+            "felt ",
+            "sitting ",
+            "by ",
+            "the ",
+            "water"
+          ]
+        },
+        {
+          "key": "180699|And every time I look at you it's like the first time",
+          "text": "And every time I look at you it's like the first time",
+          "segments": [
+            "And ",
+            "every ",
+            "time ",
+            "I ",
+            "look ",
+            "at ",
+            "you ",
+            "it's ",
+            "like ",
+            "the ",
+            "first ",
+            "time"
+          ]
+        },
+        {
+          "key": "184596|I fell in love with a careless man's careful daughter",
+          "text": "I fell in love with a careless man's careful daughter",
+          "segments": [
+            "I ",
+            "fell ",
+            "in ",
+            "love ",
+            "with ",
+            "a ",
+            "careless ",
+            "man's ",
+            "careful ",
+            "daughter"
+          ]
+        },
+        {
+          "key": "188540|She is the best thing that's ever been mine",
+          "text": "She is the best thing that's ever been mine",
+          "segments": [
+            "She ",
+            "is ",
+            "the ",
+            "best ",
+            "thing ",
+            "that's ",
+            "ever ",
+            "been ",
+            "mine"
+          ]
+        },
+        {
+          "key": "192703|Hold on make it last",
+          "text": "Hold on make it last",
+          "segments": [
+            "Hold ",
+            "on ",
+            "make ",
+            "it ",
+            "last"
+          ]
+        },
+        {
+          "key": "196142|Hold on never turn back",
+          "text": "Hold on never turn back",
+          "segments": [
+            "Hold ",
+            "on ",
+            "never ",
+            "turn ",
+            "back"
+          ]
+        },
+        {
+          "key": "200514|You made a rebel of a careless man's careful daughter",
+          "text": "You made a rebel of a careless man's careful daughter",
+          "segments": [
+            "You ",
+            "made ",
+            "a ",
+            "rebel ",
+            "of ",
+            "a ",
+            "careless ",
+            "man's ",
+            "careful ",
+            "daughter"
+          ]
+        },
+        {
+          "key": "204508|You are the best thing that's ever been mine",
+          "text": "You are the best thing that's ever been mine",
+          "segments": [
+            "You ",
+            "are ",
+            "the ",
+            "best ",
+            "thing ",
+            "that's ",
+            "ever ",
+            "been ",
+            "mine"
+          ]
+        },
+        {
+          "key": "208469|Yeah yeah",
+          "text": "Yeah yeah",
+          "segments": [
+            "Yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "210438|Do you believe it",
+          "text": "Do you believe it",
+          "segments": [
+            "Do ",
+            "you ",
+            "believe ",
+            "it"
+          ]
+        },
+        {
+          "key": "212529|Hold on",
+          "text": "Hold on",
+          "segments": [
+            "Hold ",
+            "on"
+          ]
+        },
+        {
+          "key": "215122|We're gonna make it now",
+          "text": "We're gonna make it now",
+          "segments": [
+            "We're ",
+            "gonna ",
+            "make ",
+            "it ",
+            "now"
+          ]
+        },
+        {
+          "key": "216688|Hold on",
+          "text": "Hold on",
+          "segments": [
+            "Hold ",
+            "on"
+          ]
+        },
+        {
+          "key": "218490|And I can see it",
+          "text": "And I can see it",
+          "segments": [
+            "And ",
+            "I ",
+            "can ",
+            "see ",
+            "it"
+          ]
+        },
+        {
+          "key": "220414|Yeah yeah",
+          "text": "Yeah yeah",
+          "segments": [
+            "Yeah ",
+            "yeah"
+          ]
+        },
+        {
+          "key": "222824|I can see it now see it now",
+          "text": "I can see it now see it now",
+          "segments": [
+            "I ",
+            "can ",
+            "see ",
+            "it ",
+            "now ",
+            "see ",
+            "it ",
+            "now"
+          ]
+        }
+      ]
+    }
+  ]
+}

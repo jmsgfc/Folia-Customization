@@ -1,0 +1,1295 @@
+{
+  "batchNumber": 176,
+  "songs": [
+    {
+      "rank": 876,
+      "songKey": "online:kugou:68d4fa3aeb13ac3eee9aa8b8cb2f32ce",
+      "name": "你若成风",
+      "artist": "许嵩",
+      "lines": [
+        {
+          "key": "1446|许嵩 - 你若成风",
+          "startMs": 1446,
+          "text": "许嵩 - 你若成风"
+        },
+        {
+          "key": "2510|作词：许嵩",
+          "startMs": 2510,
+          "text": "作词：许嵩"
+        },
+        {
+          "key": "3421|作曲：许嵩",
+          "startMs": 3421,
+          "text": "作曲：许嵩"
+        },
+        {
+          "key": "5596|你若化成风",
+          "startMs": 5596,
+          "text": "你若化成风"
+        },
+        {
+          "key": "8172|我幻化成雨",
+          "startMs": 8172,
+          "text": "我幻化成雨"
+        },
+        {
+          "key": "10697|守护你身边",
+          "startMs": 10697,
+          "text": "守护你身边"
+        },
+        {
+          "key": "13277|一笑为红颜",
+          "startMs": 13277,
+          "text": "一笑为红颜"
+        },
+        {
+          "key": "15862|你若化成风",
+          "startMs": 15862,
+          "text": "你若化成风"
+        },
+        {
+          "key": "18442|我幻化成雨",
+          "startMs": 18442,
+          "text": "我幻化成雨"
+        },
+        {
+          "key": "21018|爱锁在眉间",
+          "startMs": 21018,
+          "text": "爱锁在眉间"
+        },
+        {
+          "key": "23642|似水往昔浮流年",
+          "startMs": 23642,
+          "text": "似水往昔浮流年"
+        },
+        {
+          "key": "26168|乖乖 我的小乖乖",
+          "startMs": 26168,
+          "text": "乖乖 我的小乖乖"
+        },
+        {
+          "key": "28447|你的样子太可爱",
+          "startMs": 28447,
+          "text": "你的样子太可爱"
+        },
+        {
+          "key": "30065|追你的男生",
+          "startMs": 30065,
+          "text": "追你的男生"
+        },
+        {
+          "key": "30923|每个都超级厉害",
+          "startMs": 30923,
+          "text": "每个都超级厉害"
+        },
+        {
+          "key": "32288|我却在考虑怎么say hi",
+          "startMs": 32288,
+          "text": "我却在考虑怎么say hi"
+        },
+        {
+          "key": "33913|害羞的我这样下去",
+          "startMs": 33913,
+          "text": "害羞的我这样下去"
+        },
+        {
+          "key": "35580|要怎么办",
+          "startMs": 35580,
+          "text": "要怎么办"
+        },
+        {
+          "key": "36488|怎么办 爱情甜又酸",
+          "startMs": 36488,
+          "text": "怎么办 爱情甜又酸"
+        },
+        {
+          "key": "38962|我不是boss",
+          "startMs": 38962,
+          "text": "我不是boss"
+        },
+        {
+          "key": "40143|没有超大的house",
+          "startMs": 40143,
+          "text": "没有超大的house"
+        },
+        {
+          "key": "41407|如果送你rose",
+          "startMs": 41407,
+          "text": "如果送你rose"
+        },
+        {
+          "key": "42719|可不可以给我chance",
+          "startMs": 42719,
+          "text": "可不可以给我chance"
+        },
+        {
+          "key": "44331|不想看时间",
+          "startMs": 44331,
+          "text": "不想看时间"
+        },
+        {
+          "key": "45343|这么一点一滴飞逝",
+          "startMs": 45343,
+          "text": "这么一点一滴飞逝"
+        },
+        {
+          "key": "46924|老夫子带着假发",
+          "startMs": 46924,
+          "text": "老夫子带着假发"
+        },
+        {
+          "key": "49399|我不要三寸金莲胡话",
+          "startMs": 49399,
+          "text": "我不要三寸金莲胡话"
+        },
+        {
+          "key": "51982|想和你跳超短裙的恰恰",
+          "startMs": 51982,
+          "text": "想和你跳超短裙的恰恰"
+        },
+        {
+          "key": "54612|想带你回家见妈妈",
+          "startMs": 54612,
+          "text": "想带你回家见妈妈"
+        },
+        {
+          "key": "57186|你若化成风",
+          "startMs": 57186,
+          "text": "你若化成风"
+        },
+        {
+          "key": "59667|我幻化成雨",
+          "startMs": 59667,
+          "text": "我幻化成雨"
+        },
+        {
+          "key": "62297|守护你身边",
+          "startMs": 62297,
+          "text": "守护你身边"
+        },
+        {
+          "key": "64874|一笑为红颜",
+          "startMs": 64874,
+          "text": "一笑为红颜"
+        },
+        {
+          "key": "67456|你若化成风",
+          "startMs": 67456,
+          "text": "你若化成风"
+        },
+        {
+          "key": "70085|我幻化成雨",
+          "startMs": 70085,
+          "text": "我幻化成雨"
+        },
+        {
+          "key": "72614|爱锁在眉间",
+          "startMs": 72614,
+          "text": "爱锁在眉间"
+        },
+        {
+          "key": "75169|似水往昔浮流年",
+          "startMs": 75169,
+          "text": "似水往昔浮流年"
+        },
+        {
+          "key": "77749|周末找个借口和你泛舟",
+          "startMs": 77749,
+          "text": "周末找个借口和你泛舟"
+        },
+        {
+          "key": "80582|一壶清酒 江水悠悠",
+          "startMs": 80582,
+          "text": "一壶清酒 江水悠悠"
+        },
+        {
+          "key": "82701|我心悠悠",
+          "startMs": 82701,
+          "text": "我心悠悠"
+        },
+        {
+          "key": "83609|这感情just for you",
+          "startMs": 83609,
+          "text": "这感情just for you"
+        },
+        {
+          "key": "85237|表面平静其实内心",
+          "startMs": 85237,
+          "text": "表面平静其实内心"
+        },
+        {
+          "key": "86551|早已风起云涌",
+          "startMs": 86551,
+          "text": "早已风起云涌"
+        },
+        {
+          "key": "88112|缘字诀 几番轮回",
+          "startMs": 88112,
+          "text": "缘字诀 几番轮回"
+        },
+        {
+          "key": "90690|你锁眉",
+          "startMs": 90690,
+          "text": "你锁眉"
+        },
+        {
+          "key": "91681|哎哟你的心情左右",
+          "startMs": 91681,
+          "text": "哎哟你的心情左右"
+        },
+        {
+          "key": "93401|我的情绪",
+          "startMs": 93401,
+          "text": "我的情绪"
+        },
+        {
+          "key": "94261|虽然有些问题真的",
+          "startMs": 94261,
+          "text": "虽然有些问题真的"
+        },
+        {
+          "key": "95830|很难搞定",
+          "startMs": 95830,
+          "text": "很难搞定"
+        },
+        {
+          "key": "96842|我还是充满信心",
+          "startMs": 96842,
+          "text": "我还是充满信心"
+        },
+        {
+          "key": "98564|老夫子带着假发",
+          "startMs": 98564,
+          "text": "老夫子带着假发"
+        },
+        {
+          "key": "100989|我不要三寸金莲胡话",
+          "startMs": 100989,
+          "text": "我不要三寸金莲胡话"
+        },
+        {
+          "key": "103517|想和你跳超短裙的恰恰",
+          "startMs": 103517,
+          "text": "想和你跳超短裙的恰恰"
+        },
+        {
+          "key": "106150|想带你回家见妈妈",
+          "startMs": 106150,
+          "text": "想带你回家见妈妈"
+        },
+        {
+          "key": "108730|你若化成风",
+          "startMs": 108730,
+          "text": "你若化成风"
+        },
+        {
+          "key": "111306|我幻化成雨",
+          "startMs": 111306,
+          "text": "我幻化成雨"
+        },
+        {
+          "key": "113940|守护你身边",
+          "startMs": 113940,
+          "text": "守护你身边"
+        },
+        {
+          "key": "116467|一笑为红颜",
+          "startMs": 116467,
+          "text": "一笑为红颜"
+        },
+        {
+          "key": "119045|你若化成风",
+          "startMs": 119045,
+          "text": "你若化成风"
+        },
+        {
+          "key": "121624|我幻化成雨",
+          "startMs": 121624,
+          "text": "我幻化成雨"
+        },
+        {
+          "key": "124208|爱锁在眉间",
+          "startMs": 124208,
+          "text": "爱锁在眉间"
+        },
+        {
+          "key": "126805|似水往昔浮流年",
+          "startMs": 126805,
+          "text": "似水往昔浮流年"
+        },
+        {
+          "key": "129328|你若化成风",
+          "startMs": 129328,
+          "text": "你若化成风"
+        },
+        {
+          "key": "132006|我幻化成雨",
+          "startMs": 132006,
+          "text": "我幻化成雨"
+        },
+        {
+          "key": "134580|守护你身边",
+          "startMs": 134580,
+          "text": "守护你身边"
+        },
+        {
+          "key": "137160|一笑为红颜",
+          "startMs": 137160,
+          "text": "一笑为红颜"
+        },
+        {
+          "key": "139737|你若化成风",
+          "startMs": 139737,
+          "text": "你若化成风"
+        },
+        {
+          "key": "142268|我幻化成雨",
+          "startMs": 142268,
+          "text": "我幻化成雨"
+        },
+        {
+          "key": "144901|爱锁在眉间",
+          "startMs": 144901,
+          "text": "爱锁在眉间"
+        },
+        {
+          "key": "147533|似水往昔浮流年",
+          "startMs": 147533,
+          "text": "似水往昔浮流年"
+        }
+      ]
+    },
+    {
+      "rank": 877,
+      "songKey": "online:kugou:c693df2dde6cfc3e765214bfea56a0c0",
+      "name": "Stay Here Forever",
+      "artist": "Jewel",
+      "lines": [
+        {
+          "key": "40|Jewel - Stay Here Forever",
+          "startMs": 40,
+          "text": "Jewel - Stay Here Forever"
+        },
+        {
+          "key": "1870|Lyrics by：Jewel King/Bobby Pinson/Dallas Davidson",
+          "startMs": 1870,
+          "text": "Lyrics by：Jewel King/Bobby Pinson/Dallas Davidson"
+        },
+        {
+          "key": "3740|Composed by：Jewel King/Bobby Pinson/Dallas Davidson",
+          "startMs": 3740,
+          "text": "Composed by：Jewel King/Bobby Pinson/Dallas Davidson"
+        },
+        {
+          "key": "5620|Oh oh oh oh oh oh",
+          "startMs": 5620,
+          "text": "Oh oh oh oh oh oh"
+        },
+        {
+          "key": "11249|I'm laying here dreaming staring at the ceiling",
+          "startMs": 11249,
+          "text": "I'm laying here dreaming staring at the ceiling"
+        },
+        {
+          "key": "13909|Wasting the day away",
+          "startMs": 13909,
+          "text": "Wasting the day away"
+        },
+        {
+          "key": "16589|The world's flying by our window outside",
+          "startMs": 16589,
+          "text": "The world's flying by our window outside"
+        },
+        {
+          "key": "19029|But hey baby that's ok",
+          "startMs": 19029,
+          "text": "But hey baby that's ok"
+        },
+        {
+          "key": "22628|This feels so right it can't be wrong",
+          "startMs": 22628,
+          "text": "This feels so right it can't be wrong"
+        },
+        {
+          "key": "25238|So far as I can see",
+          "startMs": 25238,
+          "text": "So far as I can see"
+        },
+        {
+          "key": "27547|Where you wanna go baby",
+          "startMs": 27547,
+          "text": "Where you wanna go baby"
+        },
+        {
+          "key": "28945|I'll do anything",
+          "startMs": 28945,
+          "text": "I'll do anything"
+        },
+        {
+          "key": "32423|Cause if you wanna go baby let's go",
+          "startMs": 32423,
+          "text": "Cause if you wanna go baby let's go"
+        },
+        {
+          "key": "35093|If you wanna rock I'm ready to roll",
+          "startMs": 35093,
+          "text": "If you wanna rock I'm ready to roll"
+        },
+        {
+          "key": "37733|And if you wanna slow down",
+          "startMs": 37733,
+          "text": "And if you wanna slow down"
+        },
+        {
+          "key": "42401|We can slow down together",
+          "startMs": 42401,
+          "text": "We can slow down together"
+        },
+        {
+          "key": "44951|If you wanna walk baby let's walk",
+          "startMs": 44951,
+          "text": "If you wanna walk baby let's walk"
+        },
+        {
+          "key": "47331|Have a little kiss have a little talk",
+          "startMs": 47331,
+          "text": "Have a little kiss have a little talk"
+        },
+        {
+          "key": "50011|We don't gotta leave at all",
+          "startMs": 50011,
+          "text": "We don't gotta leave at all"
+        },
+        {
+          "key": "54580|We can lay here forever",
+          "startMs": 54580,
+          "text": "We can lay here forever"
+        },
+        {
+          "key": "57670|Stay here forever",
+          "startMs": 57670,
+          "text": "Stay here forever"
+        },
+        {
+          "key": "60270|Oh oh oh oh",
+          "startMs": 60270,
+          "text": "Oh oh oh oh"
+        },
+        {
+          "key": "65809|If you wanna see that Italian tower leaning",
+          "startMs": 65809,
+          "text": "If you wanna see that Italian tower leaning"
+        },
+        {
+          "key": "68458|Baby we can leave right now",
+          "startMs": 68458,
+          "text": "Baby we can leave right now"
+        },
+        {
+          "key": "71187|If that's too far",
+          "startMs": 71187,
+          "text": "If that's too far"
+        },
+        {
+          "key": "72217|We can jump in the car and take a little trip around town",
+          "startMs": 72217,
+          "text": "We can jump in the car and take a little trip around town"
+        },
+        {
+          "key": "77046|They say that California is nice and warm this time of year",
+          "startMs": 77046,
+          "text": "They say that California is nice and warm this time of year"
+        },
+        {
+          "key": "82114|Baby say the word and we'll just disappear",
+          "startMs": 82114,
+          "text": "Baby say the word and we'll just disappear"
+        },
+        {
+          "key": "86933|Cause if you wanna go baby let's go",
+          "startMs": 86933,
+          "text": "Cause if you wanna go baby let's go"
+        },
+        {
+          "key": "89562|If you wanna rock I'm ready to roll",
+          "startMs": 89562,
+          "text": "If you wanna rock I'm ready to roll"
+        },
+        {
+          "key": "92252|And if you wanna slow down",
+          "startMs": 92252,
+          "text": "And if you wanna slow down"
+        },
+        {
+          "key": "96871|We can slow down together",
+          "startMs": 96871,
+          "text": "We can slow down together"
+        },
+        {
+          "key": "99241|If you wanna walk baby let's walk",
+          "startMs": 99241,
+          "text": "If you wanna walk baby let's walk"
+        },
+        {
+          "key": "101791|Have a little kiss have a little talk",
+          "startMs": 101791,
+          "text": "Have a little kiss have a little talk"
+        },
+        {
+          "key": "104560|We don't gotta leave at all",
+          "startMs": 104560,
+          "text": "We don't gotta leave at all"
+        },
+        {
+          "key": "109250|We can lay here forever",
+          "startMs": 109250,
+          "text": "We can lay here forever"
+        },
+        {
+          "key": "112160|Stay here forever",
+          "startMs": 112160,
+          "text": "Stay here forever"
+        },
+        {
+          "key": "114370|Oh it's a big world for a boy and a girl",
+          "startMs": 114370,
+          "text": "Oh it's a big world for a boy and a girl"
+        },
+        {
+          "key": "117200|Letting go of it all",
+          "startMs": 117200,
+          "text": "Letting go of it all"
+        },
+        {
+          "key": "118559|Holding on to one another",
+          "startMs": 118559,
+          "text": "Holding on to one another"
+        },
+        {
+          "key": "120008|Oh there's a whole lot of world to discover",
+          "startMs": 120008,
+          "text": "Oh there's a whole lot of world to discover"
+        },
+        {
+          "key": "123526|Under the covers",
+          "startMs": 123526,
+          "text": "Under the covers"
+        },
+        {
+          "key": "126426|So if you wanna go baby let's go",
+          "startMs": 126426,
+          "text": "So if you wanna go baby let's go"
+        },
+        {
+          "key": "129115|If you wanna rock I'm ready to roll",
+          "startMs": 129115,
+          "text": "If you wanna rock I'm ready to roll"
+        },
+        {
+          "key": "131955|If you wanna slow down",
+          "startMs": 131955,
+          "text": "If you wanna slow down"
+        },
+        {
+          "key": "136505|We can slow down together",
+          "startMs": 136505,
+          "text": "We can slow down together"
+        },
+        {
+          "key": "138874|If you wanna walk baby let's walk",
+          "startMs": 138874,
+          "text": "If you wanna walk baby let's walk"
+        },
+        {
+          "key": "141334|Have a little kiss have a little talk",
+          "startMs": 141334,
+          "text": "Have a little kiss have a little talk"
+        },
+        {
+          "key": "144124|We don't gotta leave at all",
+          "startMs": 144124,
+          "text": "We don't gotta leave at all"
+        },
+        {
+          "key": "148794|We can lay here forever",
+          "startMs": 148794,
+          "text": "We can lay here forever"
+        },
+        {
+          "key": "151694|Stay here forever",
+          "startMs": 151694,
+          "text": "Stay here forever"
+        },
+        {
+          "key": "153663|Let's just lay here forever",
+          "startMs": 153663,
+          "text": "Let's just lay here forever"
+        },
+        {
+          "key": "157122|Stay here forever",
+          "startMs": 157122,
+          "text": "Stay here forever"
+        },
+        {
+          "key": "159731|Oh oh oh oh oh oh oh",
+          "startMs": 159731,
+          "text": "Oh oh oh oh oh oh oh"
+        }
+      ]
+    },
+    {
+      "rank": 878,
+      "songKey": "online:kugou:e044bf5bd8b4849a755d2127ceecf31a",
+      "name": "Electric Romeo",
+      "artist": "Immediate Music",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 879,
+      "songKey": "online:kugou:0e33a89920e3782e21dc2b9530aa7829",
+      "name": "恋愛サーキュレーション (恋爱循环)",
+      "artist": "MONOGATARI Series",
+      "lines": [
+        {
+          "key": "0|花澤香菜 - 恋愛サーキュレーション",
+          "startMs": 0,
+          "text": "花澤香菜 - 恋愛サーキュレーション"
+        },
+        {
+          "key": "486|作词：meg rock",
+          "startMs": 486,
+          "text": "作词：meg rock"
+        },
+        {
+          "key": "486|作曲：神前暁",
+          "startMs": 486,
+          "text": "作曲：神前暁"
+        },
+        {
+          "key": "486|编曲：神前暁",
+          "startMs": 486,
+          "text": "编曲：神前暁"
+        },
+        {
+          "key": "486|せーの",
+          "startMs": 486,
+          "text": "せーの"
+        },
+        {
+          "key": "1347|でもそんなんじゃだめ",
+          "startMs": 1347,
+          "text": "でもそんなんじゃだめ"
+        },
+        {
+          "key": "3559|もうそんなんじゃほら",
+          "startMs": 3559,
+          "text": "もうそんなんじゃほら"
+        },
+        {
+          "key": "5437|心は進化するよ",
+          "startMs": 5437,
+          "text": "心は進化するよ"
+        },
+        {
+          "key": "7618|もっともっと",
+          "startMs": 7618,
+          "text": "もっともっと"
+        },
+        {
+          "key": "25418|言葉にすれば",
+          "startMs": 25418,
+          "text": "言葉にすれば"
+        },
+        {
+          "key": "26379|消えちゃう関係なら",
+          "startMs": 26379,
+          "text": "消えちゃう関係なら"
+        },
+        {
+          "key": "27900|言葉を消せばいいやって",
+          "startMs": 27900,
+          "text": "言葉を消せばいいやって"
+        },
+        {
+          "key": "29673|思ってた恐れてた",
+          "startMs": 29673,
+          "text": "思ってた恐れてた"
+        },
+        {
+          "key": "31342|だけどあれ",
+          "startMs": 31342,
+          "text": "だけどあれ"
+        },
+        {
+          "key": "32264|なんかちがうかも",
+          "startMs": 32264,
+          "text": "なんかちがうかも"
+        },
+        {
+          "key": "33596|せんりのみちもいっぽから",
+          "startMs": 33596,
+          "text": "せんりのみちもいっぽから"
+        },
+        {
+          "key": "35553|石のようにかたい",
+          "startMs": 35553,
+          "text": "石のようにかたい"
+        },
+        {
+          "key": "36720|そんな意志で",
+          "startMs": 36720,
+          "text": "そんな意志で"
+        },
+        {
+          "key": "37680|ちりもつもればやまとなでしこ",
+          "startMs": 37680,
+          "text": "ちりもつもればやまとなでしこ"
+        },
+        {
+          "key": "39833|し抜きでいや死ぬ気で",
+          "startMs": 39833,
+          "text": "し抜きでいや死ぬ気で"
+        },
+        {
+          "key": "41601|ふわふわりふわふわる",
+          "startMs": 41601,
+          "text": "ふわふわりふわふわる"
+        },
+        {
+          "key": "44635|あなたが名前を呼ぶ",
+          "startMs": 44635,
+          "text": "あなたが名前を呼ぶ"
+        },
+        {
+          "key": "46760|それだけで",
+          "startMs": 46760,
+          "text": "それだけで"
+        },
+        {
+          "key": "47724|宙へ浮かぶ",
+          "startMs": 47724,
+          "text": "宙へ浮かぶ"
+        },
+        {
+          "key": "49646|ふわふわるふわふわり",
+          "startMs": 49646,
+          "text": "ふわふわるふわふわり"
+        },
+        {
+          "key": "52772|あなたが笑っている",
+          "startMs": 52772,
+          "text": "あなたが笑っている"
+        },
+        {
+          "key": "54728|それだけで",
+          "startMs": 54728,
+          "text": "それだけで"
+        },
+        {
+          "key": "55770|笑顔になる",
+          "startMs": 55770,
+          "text": "笑顔になる"
+        },
+        {
+          "key": "57590|神様ありがとう",
+          "startMs": 57590,
+          "text": "神様ありがとう"
+        },
+        {
+          "key": "61292|運命のいたずらでも",
+          "startMs": 61292,
+          "text": "運命のいたずらでも"
+        },
+        {
+          "key": "65591|めぐり逢えたことが",
+          "startMs": 65591,
+          "text": "めぐり逢えたことが"
+        },
+        {
+          "key": "69289|しあわせなの",
+          "startMs": 69289,
+          "text": "しあわせなの"
+        },
+        {
+          "key": "73288|でもそんなんじゃだめ",
+          "startMs": 73288,
+          "text": "でもそんなんじゃだめ"
+        },
+        {
+          "key": "75314|もうそんなんじゃほら",
+          "startMs": 75314,
+          "text": "もうそんなんじゃほら"
+        },
+        {
+          "key": "77339|心は進化するよ",
+          "startMs": 77339,
+          "text": "心は進化するよ"
+        },
+        {
+          "key": "79615|もっともっと",
+          "startMs": 79615,
+          "text": "もっともっと"
+        },
+        {
+          "key": "81284|そうそんなんじゃやだ",
+          "startMs": 81284,
+          "text": "そうそんなんじゃやだ"
+        },
+        {
+          "key": "83313|ねぇそんなんじゃまだ",
+          "startMs": 83313,
+          "text": "ねぇそんなんじゃまだ"
+        },
+        {
+          "key": "85390|私のこと見ててね",
+          "startMs": 85390,
+          "text": "私のこと見ててね"
+        },
+        {
+          "key": "87784|ずっとずっと",
+          "startMs": 87784,
+          "text": "ずっとずっと"
+        },
+        {
+          "key": "105366|私の中のあなたほど",
+          "startMs": 105366,
+          "text": "私の中のあなたほど"
+        },
+        {
+          "key": "107142|あなたの中の私の存在は",
+          "startMs": 107142,
+          "text": "あなたの中の私の存在は"
+        },
+        {
+          "key": "109571|まだまだ大きくないことも",
+          "startMs": 109571,
+          "text": "まだまだ大きくないことも"
+        },
+        {
+          "key": "112193|わかってるけれど",
+          "startMs": 112193,
+          "text": "わかってるけれど"
+        },
+        {
+          "key": "113569|今この同じ瞬間",
+          "startMs": 113569,
+          "text": "今この同じ瞬間"
+        },
+        {
+          "key": "115342|共有してる実感",
+          "startMs": 115342,
+          "text": "共有してる実感"
+        },
+        {
+          "key": "117566|ちりもつもればやまとなでしこ",
+          "startMs": 117566,
+          "text": "ちりもつもればやまとなでしこ"
+        },
+        {
+          "key": "119796|略して ちりつもやまとなでこ",
+          "startMs": 119796,
+          "text": "略して ちりつもやまとなでこ"
+        },
+        {
+          "key": "121720|くらくらりくらくらる",
+          "startMs": 121720,
+          "text": "くらくらりくらくらる"
+        },
+        {
+          "key": "124656|あなたを見上げたら",
+          "startMs": 124656,
+          "text": "あなたを見上げたら"
+        },
+        {
+          "key": "126638|それだけで",
+          "startMs": 126638,
+          "text": "それだけで"
+        },
+        {
+          "key": "127794|まぶしすぎて",
+          "startMs": 127794,
+          "text": "まぶしすぎて"
+        },
+        {
+          "key": "129666|くらくらるくらくらり",
+          "startMs": 129666,
+          "text": "くらくらるくらくらり"
+        },
+        {
+          "key": "132655|あなたを想っている",
+          "startMs": 132655,
+          "text": "あなたを想っている"
+        },
+        {
+          "key": "134799|それだけで",
+          "startMs": 134799,
+          "text": "それだけで"
+        },
+        {
+          "key": "135657|とけてしまう",
+          "startMs": 135657,
+          "text": "とけてしまう"
+        },
+        {
+          "key": "137630|神様ありがとう",
+          "startMs": 137630,
+          "text": "神様ありがとう"
+        },
+        {
+          "key": "141321|運命のいたずらでも",
+          "startMs": 141321,
+          "text": "運命のいたずらでも"
+        },
+        {
+          "key": "145566|めぐり逢えたことが",
+          "startMs": 145566,
+          "text": "めぐり逢えたことが"
+        },
+        {
+          "key": "149259|しあわせなの",
+          "startMs": 149259,
+          "text": "しあわせなの"
+        },
+        {
+          "key": "153606|コイスルキセツハ",
+          "startMs": 153606,
+          "text": "コイスルキセツハ"
+        },
+        {
+          "key": "157547|ヨクバリ circulation",
+          "startMs": 157547,
+          "text": "ヨクバリ circulation"
+        },
+        {
+          "key": "161599|コイスルキモチハ",
+          "startMs": 161599,
+          "text": "コイスルキモチハ"
+        },
+        {
+          "key": "165591|ヨクバリ circulation",
+          "startMs": 165591,
+          "text": "ヨクバリ circulation"
+        },
+        {
+          "key": "169594|コイスルヒトミハ",
+          "startMs": 169594,
+          "text": "コイスルヒトミハ"
+        },
+        {
+          "key": "173588|ヨクバリ circulation",
+          "startMs": 173588,
+          "text": "ヨクバリ circulation"
+        },
+        {
+          "key": "177537|コイスルオトメハ",
+          "startMs": 177537,
+          "text": "コイスルオトメハ"
+        },
+        {
+          "key": "181584|ヨクバリ circulation",
+          "startMs": 181584,
+          "text": "ヨクバリ circulation"
+        },
+        {
+          "key": "187652|ふわふわりふわふわる",
+          "startMs": 187652,
+          "text": "ふわふわりふわふわる"
+        },
+        {
+          "key": "190735|あなたが名前を呼ぶ",
+          "startMs": 190735,
+          "text": "あなたが名前を呼ぶ"
+        },
+        {
+          "key": "192654|それだけで",
+          "startMs": 192654,
+          "text": "それだけで"
+        },
+        {
+          "key": "193666|宙へ浮かぶ",
+          "startMs": 193666,
+          "text": "宙へ浮かぶ"
+        },
+        {
+          "key": "195637|ふわふわるふわふわり",
+          "startMs": 195637,
+          "text": "ふわふわるふわふわり"
+        },
+        {
+          "key": "198619|あなたが笑っている",
+          "startMs": 198619,
+          "text": "あなたが笑っている"
+        },
+        {
+          "key": "200642|それだけで",
+          "startMs": 200642,
+          "text": "それだけで"
+        },
+        {
+          "key": "201653|笑顔になる",
+          "startMs": 201653,
+          "text": "笑顔になる"
+        },
+        {
+          "key": "203629|神様ありがとう",
+          "startMs": 203629,
+          "text": "神様ありがとう"
+        },
+        {
+          "key": "207328|運命のいたずらでも",
+          "startMs": 207328,
+          "text": "運命のいたずらでも"
+        },
+        {
+          "key": "211731|めぐり逢えたことが",
+          "startMs": 211731,
+          "text": "めぐり逢えたことが"
+        },
+        {
+          "key": "215518|しあわせなの",
+          "startMs": 215518,
+          "text": "しあわせなの"
+        },
+        {
+          "key": "235357|でもそんなんじゃだめ",
+          "startMs": 235357,
+          "text": "でもそんなんじゃだめ"
+        },
+        {
+          "key": "237378|もうそんなんじゃほら",
+          "startMs": 237378,
+          "text": "もうそんなんじゃほら"
+        },
+        {
+          "key": "239404|心は進化するよ",
+          "startMs": 239404,
+          "text": "心は進化するよ"
+        },
+        {
+          "key": "241632|もっともっと",
+          "startMs": 241632,
+          "text": "もっともっと"
+        },
+        {
+          "key": "243299|そうそんなんじゃやだ",
+          "startMs": 243299,
+          "text": "そうそんなんじゃやだ"
+        },
+        {
+          "key": "245377|ねぇそんなんじゃまだ",
+          "startMs": 245377,
+          "text": "ねぇそんなんじゃまだ"
+        },
+        {
+          "key": "247398|私のこと見ててね",
+          "startMs": 247398,
+          "text": "私のこと見ててね"
+        },
+        {
+          "key": "249725|ずっとずっと",
+          "startMs": 249725,
+          "text": "ずっとずっと"
+        }
+      ]
+    },
+    {
+      "rank": 880,
+      "songKey": "online:kugou:34a3007b3a279d78372ca182171a32ce",
+      "name": "Seve (Radio Edit)",
+      "artist": "Tez Cadey",
+      "lines": [
+        {
+          "key": "8|Seve (Radio Edit) - Tez Cadey",
+          "startMs": 8,
+          "text": "Seve (Radio Edit) - Tez Cadey"
+        },
+        {
+          "key": "259|Written by：Malo Brisout",
+          "startMs": 259,
+          "text": "Written by：Malo Brisout"
+        },
+        {
+          "key": "439|Producer：Malo Brisout",
+          "startMs": 439,
+          "text": "Producer：Malo Brisout"
+        },
+        {
+          "key": "16347|Viumbe vyote vya mungu wetu na mfalme wetu",
+          "startMs": 16347,
+          "text": "Viumbe vyote vya mungu wetu na mfalme wetu"
+        },
+        {
+          "key": "19712|Pazeni sauti ili nasi mwimbe",
+          "startMs": 19712,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "23711|Pazeni sauti ili nasi mwimbe",
+          "startMs": 23711,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "27602|Pazeni sauti",
+          "startMs": 27602,
+          "text": "Pazeni sauti"
+        },
+        {
+          "key": "30104|Pazeni sauti",
+          "startMs": 30104,
+          "text": "Pazeni sauti"
+        },
+        {
+          "key": "79769|Viumbe vyote vya mungu wetu na mfalme wetu",
+          "startMs": 79769,
+          "text": "Viumbe vyote vya mungu wetu na mfalme wetu"
+        },
+        {
+          "key": "83131|Pazeni sauti ili nasi 心甜mwimbe",
+          "startMs": 83131,
+          "text": "Pazeni sauti ili nasi 心甜mwimbe"
+        },
+        {
+          "key": "87275|Pazeni sauti ili nasi mwimbe",
+          "startMs": 87275,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "91375|Pazeni sauti na mfalme wetu",
+          "startMs": 91375,
+          "text": "Pazeni sauti na mfalme wetu"
+        },
+        {
+          "key": "95685|Viumbe vyote vya mungu wetu na mfalme wetu",
+          "startMs": 95685,
+          "text": "Viumbe vyote vya mungu wetu na mfalme wetu"
+        },
+        {
+          "key": "99158|Pazeni sauti ili nasi mwimbe",
+          "startMs": 99158,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "102935|Pazeni sauti ili nasi mwimbe",
+          "startMs": 102935,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "106894|Pazeni sauti ili nasi mwimbe",
+          "startMs": 106894,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "111140|Pazeni sauti",
+          "startMs": 111140,
+          "text": "Pazeni sauti"
+        },
+        {
+          "key": "113517|Pazeni sauti",
+          "startMs": 113517,
+          "text": "Pazeni sauti"
+        },
+        {
+          "key": "115216|Pazeni sauti ili nasi mwimbe",
+          "startMs": 115216,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "119092|Pazeni",
+          "startMs": 119092,
+          "text": "Pazeni"
+        },
+        {
+          "key": "120271|Pazeni",
+          "startMs": 120271,
+          "text": "Pazeni"
+        },
+        {
+          "key": "121010|Pazeni",
+          "startMs": 121010,
+          "text": "Pazeni"
+        },
+        {
+          "key": "121896|Pazeni",
+          "startMs": 121896,
+          "text": "Pazeni"
+        },
+        {
+          "key": "122906|Pazeni",
+          "startMs": 122906,
+          "text": "Pazeni"
+        },
+        {
+          "key": "123947|Pazeni",
+          "startMs": 123947,
+          "text": "Pazeni"
+        },
+        {
+          "key": "124924|Pazeni",
+          "startMs": 124924,
+          "text": "Pazeni"
+        },
+        {
+          "key": "159376|Viumbe vyote vya mungu wetu na mfalme wetu",
+          "startMs": 159376,
+          "text": "Viumbe vyote vya mungu wetu na mfalme wetu"
+        },
+        {
+          "key": "162388|Pazeni sauti ili nasi mwimbe",
+          "startMs": 162388,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "166481|Pazeni sauti ili nasi mwimbe",
+          "startMs": 166481,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "170433|Pazeni sauti ili nasi mwimbe",
+          "startMs": 170433,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "174237|Pazeni sauti",
+          "startMs": 174237,
+          "text": "Pazeni sauti"
+        },
+        {
+          "key": "176754|Pazeni sauti",
+          "startMs": 176754,
+          "text": "Pazeni sauti"
+        },
+        {
+          "key": "178605|Pazeni sauti ili nasi mwimbe",
+          "startMs": 178605,
+          "text": "Pazeni sauti ili nasi mwimbe"
+        },
+        {
+          "key": "182253|Pazeni sauti",
+          "startMs": 182253,
+          "text": "Pazeni sauti"
+        },
+        {
+          "key": "184642|Pazeni sauti",
+          "startMs": 184642,
+          "text": "Pazeni sauti"
+        },
+        {
+          "key": "186494|Pazeni sauti",
+          "startMs": 186494,
+          "text": "Pazeni sauti"
+        },
+        {
+          "key": "188600|Pazeni sauti",
+          "startMs": 188600,
+          "text": "Pazeni sauti"
+        }
+      ]
+    }
+  ]
+}

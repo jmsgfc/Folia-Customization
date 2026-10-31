@@ -87,6 +87,7 @@ const existingSegmentationKeys = async () => await evaluate(`(async()=>{\n`
   + `})()`);
 
 const songKeyOf = song => `online:kugou:${song.id}`;
+const normalizedSongId = song => String(song?.id ?? '').trim().toLowerCase();
 
 // Read the liked collection through Folia's existing provider bridge.
 const getLikedSongs = async () => {
@@ -155,21 +156,36 @@ const readHistory = async () => {
     const manifest = await readJsonIfExists(file);
     if (!manifest?.songs?.length) continue;
     const startRank = Number(manifest.startRank || manifest.songs[0]?.rank || 1);
+    const targetCount = Number(manifest.targetCount);
+    const validTargetCount = Number.isInteger(targetCount)
+      && targetCount >= 1
+      && targetCount <= 100
+      && targetCount === manifest.songs.length;
     const finalStatuses = manifest.songs.every(song => ['done', 'no-lyrics'].includes(song.status));
     const contiguous = manifest.songs.every((song, index) => song.rank === startRank + index);
-    if (manifest.targetCount !== 100 || manifest.songs.length !== 100 || !finalStatuses || !contiguous) {
+    if (!validTargetCount || !finalStatuses || !contiguous) {
       throw new Error(`History manifest is incomplete or invalid: ${file}`);
     }
     manifests.push(manifest);
   }
+  manifests.sort((left, right) => Number(left.startRank || left.songs[0]?.rank || 1)
+    - Number(right.startRank || right.songs[0]?.rank || 1));
+  const prematurePartial = manifests.slice(0, -1).find(manifest => manifest.targetCount < 100);
+  if (prematurePartial) {
+    throw new Error('A partial history manifest may only be the final continuation');
+  }
   const songsByRank = new Map();
+  const rankBySongId = new Map();
   for (const manifest of manifests) {
     for (const song of manifest.songs) {
-      const existing = songsByRank.get(song.rank);
-      if (existing && String(existing.id).toLowerCase() !== String(song.id).toLowerCase()) {
-        throw new Error(`Conflicting history at rank ${song.rank}`);
+      if (songsByRank.has(song.rank)) throw new Error(`Overlapping history at rank ${song.rank}`);
+      const songId = normalizedSongId(song);
+      if (!songId) throw new Error(`History song at rank ${song.rank} has no stable ID`);
+      if (rankBySongId.has(songId)) {
+        throw new Error(`Duplicate history song ID at ranks ${rankBySongId.get(songId)} and ${song.rank}`);
       }
       songsByRank.set(song.rank, song);
+      rankBySongId.set(songId, song.rank);
     }
   }
   const songs = Array.from(songsByRank.values()).sort((left, right) => left.rank - right.rank);
@@ -184,20 +200,51 @@ const nextSnapshot = async () => {
   const anchor = history.at(-1);
   if (!anchor) throw new Error('Segmentation history is empty');
   const rawSongs = await getLikedSongs();
-  const newestFirst = rawSongs.slice().reverse();
-  const anchorIndex = newestFirst.findIndex(song => String(song.id).toLowerCase() === String(anchor.id).toLowerCase());
+  const newestFirstRaw = rawSongs.slice().reverse();
+  const newestFirst = [];
+  const firstRawPositionById = new Map();
+  const duplicateEntries = [];
+  for (const [index, song] of newestFirstRaw.entries()) {
+    const songId = normalizedSongId(song);
+    if (!songId) throw new Error(`Liked playlist song at raw position ${index + 1} has no stable ID`);
+    const keptRawPosition = firstRawPositionById.get(songId);
+    if (keptRawPosition) {
+      duplicateEntries.push({
+        id: song.id,
+        name: song.name || '',
+        artist: song.artist || '',
+        keptRawPosition,
+        skippedRawPosition: index + 1,
+      });
+      continue;
+    }
+    firstRawPositionById.set(songId, index + 1);
+    newestFirst.push(song);
+  }
+  const anchorId = normalizedSongId(anchor);
+  const anchorIndex = newestFirst.findIndex(song => normalizedSongId(song) === anchorId);
   if (anchorIndex < 0) throw new Error(`Previous rank-${anchor.rank} anchor is no longer in the liked playlist`);
   const next = newestFirst.slice(anchorIndex + 1, anchorIndex + 101);
-  if (next.length !== 100) throw new Error(`Only ${next.length} songs remain after the rank-${anchor.rank} anchor`);
-  const previousIds = new Set(history.map(song => String(song.id).toLowerCase()));
-  const duplicates = next.filter(song => previousIds.has(String(song.id).toLowerCase()));
-  if (duplicates.length) throw new Error(`${duplicates.length} songs after the anchor overlap the saved history`);
+  if (next.length === 0) throw new Error(`No unprocessed unique songs remain after the rank-${anchor.rank} anchor`);
+  const previousIds = new Set(history.map(song => normalizedSongId(song)));
+  const duplicates = next.filter(song => previousIds.has(normalizedSongId(song)));
+  if (duplicates.length) throw new Error(`${duplicates.length} unique songs after the anchor overlap the saved history`);
   const beforeAnchor = newestFirst.slice(0, anchorIndex + 1)
-    .filter(song => previousIds.has(String(song.id).toLowerCase()))
-    .map(song => String(song.id).toLowerCase());
-  const previousOrder = history.map(song => String(song.id).toLowerCase());
+    .filter(song => previousIds.has(normalizedSongId(song)))
+    .map(song => normalizedSongId(song));
+  const previousOrder = history.map(song => normalizedSongId(song));
   const orderUnchanged = JSON.stringify(beforeAnchor) === JSON.stringify(previousOrder);
-  return { rawSongs, next, anchor, anchorIndex, orderUnchanged, historyCount: history.length };
+  return {
+    rawSongs,
+    uniqueSongs: newestFirst,
+    next,
+    anchor,
+    anchorIndex,
+    anchorRawPosition: firstRawPositionById.get(anchorId),
+    orderUnchanged,
+    historyCount: history.length,
+    duplicateEntries,
+  };
 };
 
 const initNext = async ({ preview = false } = {}) => {
@@ -207,11 +254,17 @@ const initNext = async ({ preview = false } = {}) => {
   const snapshot = await nextSnapshot();
   const summary = {
     currentPlaylistCount: snapshot.rawSongs.length,
+    uniquePlaylistCount: snapshot.uniqueSongs.length,
+    duplicateEntriesSkipped: snapshot.duplicateEntries.length,
+    skippedDuplicates: snapshot.duplicateEntries,
     savedHistoryCount: snapshot.historyCount,
     previousAnchorRank: snapshot.anchor.rank,
     previousAnchorName: snapshot.anchor.name,
     currentAnchorPosition: snapshot.anchorIndex + 1,
+    currentAnchorRawPosition: snapshot.anchorRawPosition,
     savedHistoryOrderUnchanged: snapshot.orderUnchanged,
+    remainingUniqueSongs: snapshot.uniqueSongs.length - snapshot.anchorIndex - 1,
+    nextCount: snapshot.next.length,
     nextFirst: snapshot.next[0]?.name,
     nextLast: snapshot.next.at(-1)?.name,
   };
@@ -242,7 +295,9 @@ const initNext = async ({ preview = false } = {}) => {
     version: 1,
     createdAt: new Date().toISOString(),
     playlistCountAtStart: snapshot.rawSongs.length,
-    order: `kugou-provider-client-order-newest-first-after-rank-${snapshot.anchor.rank}-anchor`,
+    uniquePlaylistCountAtStart: snapshot.uniqueSongs.length,
+    duplicateEntriesSkippedAtStart: snapshot.duplicateEntries,
+    order: `kugou-provider-client-order-newest-first-deduplicated-by-song-id-after-rank-${snapshot.anchor.rank}-anchor`,
     startRank,
     targetCount: songs.length,
     batchSize: 5,
@@ -629,7 +684,11 @@ const audit = async ({ requireComplete = true } = {}) => {
     noLyricsSongs: noLyrics.map(song => ({ rank: song.rank, name: song.name })),
   };
   console.log(JSON.stringify(summary, null, 2));
-  if (manifest.targetCount !== 100 || done.length + noLyrics.length + unfinished.length !== manifest.targetCount
+  const validTargetCount = Number.isInteger(manifest.targetCount)
+    && manifest.targetCount >= 1
+    && manifest.targetCount <= 100
+    && manifest.targetCount === manifest.songs.length;
+  if (!validTargetCount || done.length + noLyrics.length + unfinished.length !== manifest.targetCount
     || (requireComplete && unfinished.length) || missing.length || mismatched.length || invalidOutputs.length
     || missingAliases.length || mismatchedAliases.length) {
     throw new Error('Segmentation audit failed');

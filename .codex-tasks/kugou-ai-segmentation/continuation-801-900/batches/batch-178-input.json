@@ -1,0 +1,910 @@
+{
+  "batchNumber": 178,
+  "songs": [
+    {
+      "rank": 886,
+      "songKey": "online:kugou:3ff373f5af5f5a1c9d9fe37750d806fd",
+      "name": "Horizon (地平线)",
+      "artist": "Janji",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 887,
+      "songKey": "online:kugou:5aa1b2668f3c40a36d03601da7d715ab",
+      "name": "Up All Night",
+      "artist": "Hinder",
+      "lines": [
+        {
+          "key": "9740|Hinder - Up All Night",
+          "startMs": 9740,
+          "text": "Hinder - Up All Night"
+        },
+        {
+          "key": "19720|Saw a waitress  couldn't waste it",
+          "startMs": 19720,
+          "text": "Saw a waitress  couldn't waste it"
+        },
+        {
+          "key": "22570|Opportunity knocks and you take it",
+          "startMs": 22570,
+          "text": "Opportunity knocks and you take it"
+        },
+        {
+          "key": "25010|Went to my place  got to get a taste",
+          "startMs": 25010,
+          "text": "Went to my place  got to get a taste"
+        },
+        {
+          "key": "27860|A couple shots at the bar we were wasted",
+          "startMs": 27860,
+          "text": "A couple shots at the bar we were wasted"
+        },
+        {
+          "key": "29950|You know she's all in  the room is spinning",
+          "startMs": 29950,
+          "text": "You know she's all in  the room is spinning"
+        },
+        {
+          "key": "31800|Probably shouldn't have shot that Jameson",
+          "startMs": 31800,
+          "text": "Probably shouldn't have shot that Jameson"
+        },
+        {
+          "key": "34760|Here we go away  she's a perfect ten",
+          "startMs": 34760,
+          "text": "Here we go away  she's a perfect ten"
+        },
+        {
+          "key": "37270|Just tell me how it was in the morning",
+          "startMs": 37270,
+          "text": "Just tell me how it was in the morning"
+        },
+        {
+          "key": "40803|The night's far from over and I'm far from sober",
+          "startMs": 40803,
+          "text": "The night's far from over and I'm far from sober"
+        },
+        {
+          "key": "45813|But she's looking fine",
+          "startMs": 45813,
+          "text": "But she's looking fine"
+        },
+        {
+          "key": "49673|We going to be up all night",
+          "startMs": 49673,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "52142|Going to take you for a ride  yeah",
+          "startMs": 52142,
+          "text": "Going to take you for a ride  yeah"
+        },
+        {
+          "key": "54442|We going to be up all night",
+          "startMs": 54442,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "57132|Get it on till the morning light  yeah",
+          "startMs": 57132,
+          "text": "Get it on till the morning light  yeah"
+        },
+        {
+          "key": "59382|We going to be up all night",
+          "startMs": 59382,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "62082|Doing things a devil might",
+          "startMs": 62082,
+          "text": "Doing things a devil might"
+        },
+        {
+          "key": "64702|So far from sober that",
+          "startMs": 64702,
+          "text": "So far from sober that"
+        },
+        {
+          "key": "66642|I'll have to see through my hangover",
+          "startMs": 66642,
+          "text": "I'll have to see through my hangover"
+        },
+        {
+          "key": "73270|We Going all night",
+          "startMs": 73270,
+          "text": "We Going all night"
+        },
+        {
+          "key": "79550|My attention  when she walked in",
+          "startMs": 79550,
+          "text": "My attention  when she walked in"
+        },
+        {
+          "key": "81820|Turning heads with a tiny skirt and sexy grin",
+          "startMs": 81820,
+          "text": "Turning heads with a tiny skirt and sexy grin"
+        },
+        {
+          "key": "84330|She's a proud one  still a lot of fun",
+          "startMs": 84330,
+          "text": "She's a proud one  still a lot of fun"
+        },
+        {
+          "key": "86790|I'll let you know when the sexy dirty deed is done",
+          "startMs": 86790,
+          "text": "I'll let you know when the sexy dirty deed is done"
+        },
+        {
+          "key": "90069|The night's far from over  that far from sober",
+          "startMs": 90069,
+          "text": "The night's far from over  that far from sober"
+        },
+        {
+          "key": "95189|But she's looking fine",
+          "startMs": 95189,
+          "text": "But she's looking fine"
+        },
+        {
+          "key": "98949|We going to be up all night",
+          "startMs": 98949,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "101699|Going to take you for a ride  yeah",
+          "startMs": 101699,
+          "text": "Going to take you for a ride  yeah"
+        },
+        {
+          "key": "103899|We going to be up all night",
+          "startMs": 103899,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "106679|Get it on till the morning light  yeah",
+          "startMs": 106679,
+          "text": "Get it on till the morning light  yeah"
+        },
+        {
+          "key": "108799|We going to be up all night",
+          "startMs": 108799,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "111629|Doing things a devil might",
+          "startMs": 111629,
+          "text": "Doing things a devil might"
+        },
+        {
+          "key": "113889|So far from sober that",
+          "startMs": 113889,
+          "text": "So far from sober that"
+        },
+        {
+          "key": "116709|I'll have to see through my hangover",
+          "startMs": 116709,
+          "text": "I'll have to see through my hangover"
+        },
+        {
+          "key": "148631|We going to be up all night",
+          "startMs": 148631,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "151351|Going to take you for a ride  yeah",
+          "startMs": 151351,
+          "text": "Going to take you for a ride  yeah"
+        },
+        {
+          "key": "153531|We going to be up all night",
+          "startMs": 153531,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "156181|Get it on till the morning light  yeah",
+          "startMs": 156181,
+          "text": "Get it on till the morning light  yeah"
+        },
+        {
+          "key": "158321|We going to be up all night",
+          "startMs": 158321,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "161141|Doing things a devil might",
+          "startMs": 161141,
+          "text": "Doing things a devil might"
+        },
+        {
+          "key": "163581|So far from sober that",
+          "startMs": 163581,
+          "text": "So far from sober that"
+        },
+        {
+          "key": "165771|I'll have to see through my hangover",
+          "startMs": 165771,
+          "text": "I'll have to see through my hangover"
+        },
+        {
+          "key": "168241|We going to be up all night",
+          "startMs": 168241,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "170881|Going to take you for a ride  yeah",
+          "startMs": 170881,
+          "text": "Going to take you for a ride  yeah"
+        },
+        {
+          "key": "173131|We going to be up all night",
+          "startMs": 173131,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "175891|Get it on till the morning light  yeah",
+          "startMs": 175891,
+          "text": "Get it on till the morning light  yeah"
+        },
+        {
+          "key": "178071|We going to be up all night",
+          "startMs": 178071,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "180811|Doing things a devil might",
+          "startMs": 180811,
+          "text": "Doing things a devil might"
+        },
+        {
+          "key": "183241|We going to be up all night",
+          "startMs": 183241,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "188171|We going to be up all night",
+          "startMs": 188171,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "193051|We going to be up all night",
+          "startMs": 193051,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "197921|We going to be up all night",
+          "startMs": 197921,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "202851|We going to be up all night",
+          "startMs": 202851,
+          "text": "We going to be up all night"
+        },
+        {
+          "key": "206241|All night",
+          "startMs": 206241,
+          "text": "All night"
+        },
+        {
+          "key": "206731|All night",
+          "startMs": 206731,
+          "text": "All night"
+        }
+      ]
+    },
+    {
+      "rank": 888,
+      "songKey": "online:kugou:874b06a21ae9cc0b86a381e0c10fc5e2",
+      "name": "Hall of Fame",
+      "artist": "The Script / will.i.am",
+      "lines": [
+        {
+          "key": "616|will.i.am、The Script - Hall of Fame",
+          "startMs": 616,
+          "text": "will.i.am、The Script - Hall of Fame"
+        },
+        {
+          "key": "1690|Written by：The Script",
+          "startMs": 1690,
+          "text": "Written by：The Script"
+        },
+        {
+          "key": "22223|Yeah you could be the greatest you can be the best",
+          "startMs": 22223,
+          "text": "Yeah you could be the greatest you can be the best"
+        },
+        {
+          "key": "25302|You can be the King Kong banging on your chest",
+          "startMs": 25302,
+          "text": "You can be the King Kong banging on your chest"
+        },
+        {
+          "key": "28142|You could beat the world you could beat the war",
+          "startMs": 28142,
+          "text": "You could beat the world you could beat the war"
+        },
+        {
+          "key": "30911|You could talk to god go banging on his door",
+          "startMs": 30911,
+          "text": "You could talk to god go banging on his door"
+        },
+        {
+          "key": "33861|You can throw your hands up you can beat the clock",
+          "startMs": 33861,
+          "text": "You can throw your hands up you can beat the clock"
+        },
+        {
+          "key": "36510|You can move a mountain you can break rocks",
+          "startMs": 36510,
+          "text": "You can move a mountain you can break rocks"
+        },
+        {
+          "key": "39280|You could be a master don't wait for luck",
+          "startMs": 39280,
+          "text": "You could be a master don't wait for luck"
+        },
+        {
+          "key": "42270|Dedicate yourself and you can find yourself",
+          "startMs": 42270,
+          "text": "Dedicate yourself and you can find yourself"
+        },
+        {
+          "key": "44339|Standing in the hall of fame",
+          "startMs": 44339,
+          "text": "Standing in the hall of fame"
+        },
+        {
+          "key": "49608|And the world's gonna know your name",
+          "startMs": 49608,
+          "text": "And the world's gonna know your name"
+        },
+        {
+          "key": "55208|'Cause you burn with the brightest flame",
+          "startMs": 55208,
+          "text": "'Cause you burn with the brightest flame"
+        },
+        {
+          "key": "60878|And the world's gonna know your name",
+          "startMs": 60878,
+          "text": "And the world's gonna know your name"
+        },
+        {
+          "key": "65528|And you'll be on the walls of the hall of fame",
+          "startMs": 65528,
+          "text": "And you'll be on the walls of the hall of fame"
+        },
+        {
+          "key": "67827|You could go the distance you can run the mile",
+          "startMs": 67827,
+          "text": "You could go the distance you can run the mile"
+        },
+        {
+          "key": "70406|You can walk straight through hell with a smile",
+          "startMs": 70406,
+          "text": "You can walk straight through hell with a smile"
+        },
+        {
+          "key": "73255|You could be the hero you could get the gold",
+          "startMs": 73255,
+          "text": "You could be the hero you could get the gold"
+        },
+        {
+          "key": "76124|Breaking all the records they thought",
+          "startMs": 76124,
+          "text": "Breaking all the records they thought"
+        },
+        {
+          "key": "77364|Never could be broke",
+          "startMs": 77364,
+          "text": "Never could be broke"
+        },
+        {
+          "key": "78852|Do it for your people do it for your pride",
+          "startMs": 78852,
+          "text": "Do it for your people do it for your pride"
+        },
+        {
+          "key": "81852|Never gonna know if you never even try",
+          "startMs": 81852,
+          "text": "Never gonna know if you never even try"
+        },
+        {
+          "key": "84482|Do it for your country do it for your name",
+          "startMs": 84482,
+          "text": "Do it for your country do it for your name"
+        },
+        {
+          "key": "87472|'Cause there gonna be a day",
+          "startMs": 87472,
+          "text": "'Cause there gonna be a day"
+        },
+        {
+          "key": "89150|When you're standing in the hall of fame",
+          "startMs": 89150,
+          "text": "When you're standing in the hall of fame"
+        },
+        {
+          "key": "94748|And the world's gonna know your name",
+          "startMs": 94748,
+          "text": "And the world's gonna know your name"
+        },
+        {
+          "key": "100388|'Cause you burn with the brightest flame",
+          "startMs": 100388,
+          "text": "'Cause you burn with the brightest flame"
+        },
+        {
+          "key": "106097|And the world's gonna know your name",
+          "startMs": 106097,
+          "text": "And the world's gonna know your name"
+        },
+        {
+          "key": "110687|And you'll be on the walls of the hall of fame",
+          "startMs": 110687,
+          "text": "And you'll be on the walls of the hall of fame"
+        },
+        {
+          "key": "113375|Be a champion",
+          "startMs": 113375,
+          "text": "Be a champion"
+        },
+        {
+          "key": "116165|Be a champion",
+          "startMs": 116165,
+          "text": "Be a champion"
+        },
+        {
+          "key": "118845|Be a champion",
+          "startMs": 118845,
+          "text": "Be a champion"
+        },
+        {
+          "key": "121535|Be a champion",
+          "startMs": 121535,
+          "text": "Be a champion"
+        },
+        {
+          "key": "122774|On the walls of the hall of fame",
+          "startMs": 122774,
+          "text": "On the walls of the hall of fame"
+        },
+        {
+          "key": "125303|Be students",
+          "startMs": 125303,
+          "text": "Be students"
+        },
+        {
+          "key": "125903|Be teachers",
+          "startMs": 125903,
+          "text": "Be teachers"
+        },
+        {
+          "key": "126763|Be politicians",
+          "startMs": 126763,
+          "text": "Be politicians"
+        },
+        {
+          "key": "127843|Be preachers",
+          "startMs": 127843,
+          "text": "Be preachers"
+        },
+        {
+          "key": "130923|Be believers",
+          "startMs": 130923,
+          "text": "Be believers"
+        },
+        {
+          "key": "131623|Be leaders",
+          "startMs": 131623,
+          "text": "Be leaders"
+        },
+        {
+          "key": "132483|Be astronauts",
+          "startMs": 132483,
+          "text": "Be astronauts"
+        },
+        {
+          "key": "133583|Be champions",
+          "startMs": 133583,
+          "text": "Be champions"
+        },
+        {
+          "key": "134713|Be truth seekers",
+          "startMs": 134713,
+          "text": "Be truth seekers"
+        },
+        {
+          "key": "136553|Be students",
+          "startMs": 136553,
+          "text": "Be students"
+        },
+        {
+          "key": "137193|Be teachers",
+          "startMs": 137193,
+          "text": "Be teachers"
+        },
+        {
+          "key": "138123|Be politicians",
+          "startMs": 138123,
+          "text": "Be politicians"
+        },
+        {
+          "key": "139183|Be preachers",
+          "startMs": 139183,
+          "text": "Be preachers"
+        },
+        {
+          "key": "142203|Be believers",
+          "startMs": 142203,
+          "text": "Be believers"
+        },
+        {
+          "key": "142893|Be leaders",
+          "startMs": 142893,
+          "text": "Be leaders"
+        },
+        {
+          "key": "143803|Be astronauts",
+          "startMs": 143803,
+          "text": "Be astronauts"
+        },
+        {
+          "key": "144813|Be champions",
+          "startMs": 144813,
+          "text": "Be champions"
+        },
+        {
+          "key": "146213|Standing in the hall of fame",
+          "startMs": 146213,
+          "text": "Standing in the hall of fame"
+        },
+        {
+          "key": "151203|And the world's gonna know your name",
+          "startMs": 151203,
+          "text": "And the world's gonna know your name"
+        },
+        {
+          "key": "156903|'Cause you burn with the brightest flame",
+          "startMs": 156903,
+          "text": "'Cause you burn with the brightest flame"
+        },
+        {
+          "key": "162511|And the world's gonna know your name",
+          "startMs": 162511,
+          "text": "And the world's gonna know your name"
+        },
+        {
+          "key": "166701|And you'll be on the walls of the hall of fame",
+          "startMs": 166701,
+          "text": "And you'll be on the walls of the hall of fame"
+        },
+        {
+          "key": "169800|You could be the greatest you can be the best",
+          "startMs": 169800,
+          "text": "You could be the greatest you can be the best"
+        },
+        {
+          "key": "171880|You can be the King Kong banging on your chest",
+          "startMs": 171880,
+          "text": "You can be the King Kong banging on your chest"
+        },
+        {
+          "key": "175399|You could beat the world you could beat the war",
+          "startMs": 175399,
+          "text": "You could beat the world you could beat the war"
+        },
+        {
+          "key": "178059|You could talk to god go banging on his door",
+          "startMs": 178059,
+          "text": "You could talk to god go banging on his door"
+        },
+        {
+          "key": "180649|You can throw your hands up you can beat the clock",
+          "startMs": 180649,
+          "text": "You can throw your hands up you can beat the clock"
+        },
+        {
+          "key": "183479|You can move a mountain you can break rocks",
+          "startMs": 183479,
+          "text": "You can move a mountain you can break rocks"
+        },
+        {
+          "key": "186289|You could be a master don't wait for luck",
+          "startMs": 186289,
+          "text": "You could be a master don't wait for luck"
+        },
+        {
+          "key": "189279|Dedicate yourself and you can find yourself",
+          "startMs": 189279,
+          "text": "Dedicate yourself and you can find yourself"
+        },
+        {
+          "key": "191097|Standing in the hall of fame",
+          "startMs": 191097,
+          "text": "Standing in the hall of fame"
+        }
+      ]
+    },
+    {
+      "rank": 889,
+      "songKey": "online:kugou:7a4d861fe921ab7bae06f3e9ab4bc612",
+      "name": "All Time Low",
+      "artist": "Kurt Hugo Schneider / Sam Tsui / Casey Breves",
+      "lines": [
+        {
+          "key": "48|Sam Tsui、Casey Breves、Kurt Schneider - All Time Low",
+          "startMs": 48,
+          "text": "Sam Tsui、Casey Breves、Kurt Schneider - All Time Low"
+        },
+        {
+          "key": "11680|I was the knight in shining armor in your movie",
+          "startMs": 11680,
+          "text": "I was the knight in shining armor in your movie"
+        },
+        {
+          "key": "18882|Would put your lips on mine and love the aftertaste",
+          "startMs": 18882,
+          "text": "Would put your lips on mine and love the aftertaste"
+        },
+        {
+          "key": "22555|Lost I'm a ghost I call your name you look right through me",
+          "startMs": 22555,
+          "text": "Lost I'm a ghost I call your name you look right through me"
+        },
+        {
+          "key": "29689|You're the reason that I just can't concentrate",
+          "startMs": 29689,
+          "text": "You're the reason that I just can't concentrate"
+        },
+        {
+          "key": "33289|I I've been trying to fix my pride",
+          "startMs": 33289,
+          "text": "I I've been trying to fix my pride"
+        },
+        {
+          "key": "37470|But that ****'s broken that ****'s broken",
+          "startMs": 37470,
+          "text": "But that ****'s broken that ****'s broken"
+        },
+        {
+          "key": "43667|Lie lie lie lie l lie I try to hide",
+          "startMs": 43667,
+          "text": "Lie lie lie lie l lie I try to hide"
+        },
+        {
+          "key": "48066|But now you know it",
+          "startMs": 48066,
+          "text": "But now you know it"
+        },
+        {
+          "key": "51264|That I'm at an all time",
+          "startMs": 51264,
+          "text": "That I'm at an all time"
+        },
+        {
+          "key": "54234|Low low low low low low low low low",
+          "startMs": 54234,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "56756|Low low low low low low low low low",
+          "startMs": 56756,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "59378|Low low low low low low low low low",
+          "startMs": 59378,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "62026|Low low low low low low low low low",
+          "startMs": 62026,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "64682|Low low low low low low low low low",
+          "startMs": 64682,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "67344|Low low low low low low low low low",
+          "startMs": 67344,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "70034|Low low low low low low low low low",
+          "startMs": 70034,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "72696|Low low low low low low low low low",
+          "startMs": 72696,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "75746|I was the prototype like 3 stacks on that CD",
+          "startMs": 75746,
+          "text": "I was the prototype like 3 stacks on that CD"
+        },
+        {
+          "key": "82954|An example of the perfect candidate",
+          "startMs": 82954,
+          "text": "An example of the perfect candidate"
+        },
+        {
+          "key": "86382|Now all your girlfriends say that you don't want to see me",
+          "startMs": 86382,
+          "text": "Now all your girlfriends say that you don't want to see me"
+        },
+        {
+          "key": "93609|You're the reason that I just can't concentrate",
+          "startMs": 93609,
+          "text": "You're the reason that I just can't concentrate"
+        },
+        {
+          "key": "97180|I I've been trying to fix my pride",
+          "startMs": 97180,
+          "text": "I I've been trying to fix my pride"
+        },
+        {
+          "key": "101262|But that ****'s broken that ****'s broken",
+          "startMs": 101262,
+          "text": "But that ****'s broken that ****'s broken"
+        },
+        {
+          "key": "104155|That ****'s broken that ****'s broken",
+          "startMs": 104155,
+          "text": "That ****'s broken that ****'s broken"
+        },
+        {
+          "key": "107224|Lie lie lie lie l lie I try to hide",
+          "startMs": 107224,
+          "text": "Lie lie lie lie l lie I try to hide"
+        },
+        {
+          "key": "111974|But now you know it",
+          "startMs": 111974,
+          "text": "But now you know it"
+        },
+        {
+          "key": "115392|That I'm at an all time",
+          "startMs": 115392,
+          "text": "That I'm at an all time"
+        },
+        {
+          "key": "118348|Low low low low low low low low low",
+          "startMs": 118348,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "120744|Low low low low low low low low low",
+          "startMs": 120744,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "123408|Low low low low low low low low low",
+          "startMs": 123408,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "126064|Low low low low low low low low low",
+          "startMs": 126064,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "128745|Low low low low low low low low low",
+          "startMs": 128745,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "131377|Low low low low low low low low low",
+          "startMs": 131377,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "134049|Low low low low low low low low low",
+          "startMs": 134049,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "136720|Low low low low low low low low low",
+          "startMs": 136720,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "139638|I I've been trying to fix my pride",
+          "startMs": 139638,
+          "text": "I I've been trying to fix my pride"
+        },
+        {
+          "key": "143796|But that ****'s broken that ****'s broken",
+          "startMs": 143796,
+          "text": "But that ****'s broken that ****'s broken"
+        },
+        {
+          "key": "150289|Lie lie lie lie l lie I try to hide",
+          "startMs": 150289,
+          "text": "Lie lie lie lie l lie I try to hide"
+        },
+        {
+          "key": "154807|But now you know it",
+          "startMs": 154807,
+          "text": "But now you know it"
+        },
+        {
+          "key": "158011|That I'm at an all time",
+          "startMs": 158011,
+          "text": "That I'm at an all time"
+        },
+        {
+          "key": "160830|Low low low low low low low low",
+          "startMs": 160830,
+          "text": "Low low low low low low low low"
+        },
+        {
+          "key": "162955|Low low low low low low low low low",
+          "startMs": 162955,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "165483|Low low low low",
+          "startMs": 165483,
+          "text": "Low low low low"
+        },
+        {
+          "key": "166767|Low low low low low low low",
+          "startMs": 166767,
+          "text": "Low low low low low low low"
+        },
+        {
+          "key": "168834|That I'm at an all time",
+          "startMs": 168834,
+          "text": "That I'm at an all time"
+        },
+        {
+          "key": "182384|I'm at an all time",
+          "startMs": 182384,
+          "text": "I'm at an all time"
+        },
+        {
+          "key": "184882|Low low low low low low low low low",
+          "startMs": 184882,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "187394|Low low low low low low low low low",
+          "startMs": 187394,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "190063|Low low low low low low low low low",
+          "startMs": 190063,
+          "text": "Low low low low low low low low low"
+        },
+        {
+          "key": "192735|I'm at an all time",
+          "startMs": 192735,
+          "text": "I'm at an all time"
+        }
+      ]
+    },
+    {
+      "rank": 890,
+      "songKey": "online:kugou:fa58e246609ffb55646ca62ebff98648",
+      "name": "大气紧张音乐",
+      "artist": "纯音乐",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

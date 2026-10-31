@@ -1,0 +1,577 @@
+{
+  "batchNumber": 172,
+  "songs": [
+    {
+      "rank": 856,
+      "songKey": "online:kugou:7775fbccf9e20887ab01cbb41e87162d",
+      "name": "See You Again",
+      "artist": "Wiz Khalifa / Charlie Puth",
+      "lines": [
+        {
+          "key": "44|Wiz Khalifa、Charlie Puth - See You Again",
+          "startMs": 44,
+          "text": "Wiz Khalifa、Charlie Puth - See You Again"
+        },
+        {
+          "key": "200|Written by：Justin Franks/Charlie Puth/Cameron Thomaz/Sage The Gemini",
+          "startMs": 200,
+          "text": "Written by：Justin Franks/Charlie Puth/Cameron Thomaz/Sage The Gemini"
+        },
+        {
+          "key": "10743|Charlie Puth：It's been a long day without you my friend",
+          "startMs": 10743,
+          "text": "Charlie Puth：It's been a long day without you my friend"
+        },
+        {
+          "key": "17703|And I'll tell you all about it when I see you again",
+          "startMs": 17703,
+          "text": "And I'll tell you all about it when I see you again"
+        },
+        {
+          "key": "23502|We've come a long way from where we began",
+          "startMs": 23502,
+          "text": "We've come a long way from where we began"
+        },
+        {
+          "key": "29382|Oh I'll tell you all about it when I see you again",
+          "startMs": 29382,
+          "text": "Oh I'll tell you all about it when I see you again"
+        },
+        {
+          "key": "35401|When I see you again",
+          "startMs": 35401,
+          "text": "When I see you again"
+        },
+        {
+          "key": "40220|Wiz Khalifa：Damn who knew all the planes we flew",
+          "startMs": 40220,
+          "text": "Wiz Khalifa：Damn who knew all the planes we flew"
+        },
+        {
+          "key": "43207|Good things we've been through",
+          "startMs": 43207,
+          "text": "Good things we've been through"
+        },
+        {
+          "key": "44917|That I'll be standing right here",
+          "startMs": 44917,
+          "text": "That I'll be standing right here"
+        },
+        {
+          "key": "46636|Talking to you about another path",
+          "startMs": 46636,
+          "text": "Talking to you about another path"
+        },
+        {
+          "key": "49055|I know we loved to hit the road and laugh",
+          "startMs": 49055,
+          "text": "I know we loved to hit the road and laugh"
+        },
+        {
+          "key": "51324|But something told me that it wouldn't last",
+          "startMs": 51324,
+          "text": "But something told me that it wouldn't last"
+        },
+        {
+          "key": "53693|Had to switch up look at things different see the bigger picture",
+          "startMs": 53693,
+          "text": "Had to switch up look at things different see the bigger picture"
+        },
+        {
+          "key": "57402|Those were the days hard work forever pays",
+          "startMs": 57402,
+          "text": "Those were the days hard work forever pays"
+        },
+        {
+          "key": "60590|Now I see you when a better place",
+          "startMs": 60590,
+          "text": "Now I see you when a better place"
+        },
+        {
+          "key": "65328|Wiz Khalifa：How could we not talk about family when family's all that we got ",
+          "startMs": 65328,
+          "text": "Wiz Khalifa：How could we not talk about family when family's all that we got "
+        },
+        {
+          "key": "68966|Everything I went through you were standing there by my side",
+          "startMs": 68966,
+          "text": "Everything I went through you were standing there by my side"
+        },
+        {
+          "key": "71866|And now you gonna be with me for the last ride",
+          "startMs": 71866,
+          "text": "And now you gonna be with me for the last ride"
+        },
+        {
+          "key": "74063|Charlie Puth：It's been a long day without you my friend",
+          "startMs": 74063,
+          "text": "Charlie Puth：It's been a long day without you my friend"
+        },
+        {
+          "key": "80631|And I'll tell you all about it when I see you again",
+          "startMs": 80631,
+          "text": "And I'll tell you all about it when I see you again"
+        },
+        {
+          "key": "86509|We've come a long way from where we began",
+          "startMs": 86509,
+          "text": "We've come a long way from where we began"
+        },
+        {
+          "key": "92456|Oh I'll tell you all about it when I see you again",
+          "startMs": 92456,
+          "text": "Oh I'll tell you all about it when I see you again"
+        },
+        {
+          "key": "98475|When I see you again",
+          "startMs": 98475,
+          "text": "When I see you again"
+        },
+        {
+          "key": "116538|Wiz Khalifa：First you both go out your way",
+          "startMs": 116538,
+          "text": "Wiz Khalifa：First you both go out your way"
+        },
+        {
+          "key": "118056|And the vibe is feeling strong and what's",
+          "startMs": 118056,
+          "text": "And the vibe is feeling strong and what's"
+        },
+        {
+          "key": "119966|Small turn to a friendship a friendship",
+          "startMs": 119966,
+          "text": "Small turn to a friendship a friendship"
+        },
+        {
+          "key": "121845|Turn into a bond and that bond will never",
+          "startMs": 121845,
+          "text": "Turn into a bond and that bond will never"
+        },
+        {
+          "key": "123693|Be broken and the love will never get lost",
+          "startMs": 123693,
+          "text": "Be broken and the love will never get lost"
+        },
+        {
+          "key": "128533|And when brotherhood come first then the line",
+          "startMs": 128533,
+          "text": "And when brotherhood come first then the line"
+        },
+        {
+          "key": "130612|Will never be crossed established it on our own",
+          "startMs": 130612,
+          "text": "Will never be crossed established it on our own"
+        },
+        {
+          "key": "133038|When that line had to be drawn and that line is what",
+          "startMs": 133038,
+          "text": "When that line had to be drawn and that line is what"
+        },
+        {
+          "key": "135636|We reach so remember me when I'm gone",
+          "startMs": 135636,
+          "text": "We reach so remember me when I'm gone"
+        },
+        {
+          "key": "140263|Wiz Khalifa：How could we not talk about family when family's all that we got ",
+          "startMs": 140263,
+          "text": "Wiz Khalifa：How could we not talk about family when family's all that we got "
+        },
+        {
+          "key": "143902|Everything I went through you were standing there by my side",
+          "startMs": 143902,
+          "text": "Everything I went through you were standing there by my side"
+        },
+        {
+          "key": "146851|And now you gonna be with me for the last ride",
+          "startMs": 146851,
+          "text": "And now you gonna be with me for the last ride"
+        },
+        {
+          "key": "149380|Charlie Puth：Let the light guide your way hold every memory",
+          "startMs": 149380,
+          "text": "Charlie Puth：Let the light guide your way hold every memory"
+        },
+        {
+          "key": "158348|As you go and every road you take will always lead you home",
+          "startMs": 158348,
+          "text": "As you go and every road you take will always lead you home"
+        },
+        {
+          "key": "169494|Hoo",
+          "startMs": 169494,
+          "text": "Hoo"
+        },
+        {
+          "key": "172954|Charlie Puth：It's been a long day without you my friend",
+          "startMs": 172954,
+          "text": "Charlie Puth：It's been a long day without you my friend"
+        },
+        {
+          "key": "179623|And I'll tell you all about it when I see you again",
+          "startMs": 179623,
+          "text": "And I'll tell you all about it when I see you again"
+        },
+        {
+          "key": "185522|We've come a long way from where we began",
+          "startMs": 185522,
+          "text": "We've come a long way from where we began"
+        },
+        {
+          "key": "191432|Oh I'll tell you all about it when I see you again",
+          "startMs": 191432,
+          "text": "Oh I'll tell you all about it when I see you again"
+        },
+        {
+          "key": "197281|When I see you again",
+          "startMs": 197281,
+          "text": "When I see you again"
+        },
+        {
+          "key": "202961|Again",
+          "startMs": 202961,
+          "text": "Again"
+        },
+        {
+          "key": "209355|When I see you again see you again",
+          "startMs": 209355,
+          "text": "When I see you again see you again"
+        },
+        {
+          "key": "221324|When I see you again",
+          "startMs": 221324,
+          "text": "When I see you again"
+        }
+      ]
+    },
+    {
+      "rank": 857,
+      "songKey": "online:kugou:8390d58ad5ac66fb1a3cff44a7067b87",
+      "name": "王者冰刃",
+      "artist": "王者荣耀",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 859,
+      "songKey": "online:kugou:14e0768dc102e1b97faa0fdf424d8942",
+      "name": "年少有为",
+      "artist": "李荣浩",
+      "lines": [
+        {
+          "key": "362|李荣浩 - 年少有为",
+          "startMs": 362,
+          "text": "李荣浩 - 年少有为"
+        },
+        {
+          "key": "1677|作词：李荣浩",
+          "startMs": 1677,
+          "text": "作词：李荣浩"
+        },
+        {
+          "key": "2588|作曲：李荣浩",
+          "startMs": 2588,
+          "text": "作曲：李荣浩"
+        },
+        {
+          "key": "30144|电视一直闪",
+          "startMs": 30144,
+          "text": "电视一直闪"
+        },
+        {
+          "key": "33857|联络方式都还没删",
+          "startMs": 33857,
+          "text": "联络方式都还没删"
+        },
+        {
+          "key": "37503|你待我的好",
+          "startMs": 37503,
+          "text": "你待我的好"
+        },
+        {
+          "key": "41010|我却错手毁掉",
+          "startMs": 41010,
+          "text": "我却错手毁掉"
+        },
+        {
+          "key": "44783|也曾一起想",
+          "startMs": 44783,
+          "text": "也曾一起想"
+        },
+        {
+          "key": "48418|有个地方睡觉吃饭",
+          "startMs": 48418,
+          "text": "有个地方睡觉吃饭"
+        },
+        {
+          "key": "51966|可怎么去熬日夜颠倒",
+          "startMs": 51966,
+          "text": "可怎么去熬日夜颠倒"
+        },
+        {
+          "key": "55415|连头款也凑不到",
+          "startMs": 55415,
+          "text": "连头款也凑不到"
+        },
+        {
+          "key": "59548|墙板被我砸烂",
+          "startMs": 59548,
+          "text": "墙板被我砸烂"
+        },
+        {
+          "key": "62973|到现在还没修",
+          "startMs": 62973,
+          "text": "到现在还没修"
+        },
+        {
+          "key": "66267|一碗热的粥",
+          "startMs": 66267,
+          "text": "一碗热的粥"
+        },
+        {
+          "key": "68394|你怕我没够",
+          "startMs": 68394,
+          "text": "你怕我没够"
+        },
+        {
+          "key": "70215|都留一半带走",
+          "startMs": 70215,
+          "text": "都留一半带走"
+        },
+        {
+          "key": "73096|给你形容美好",
+          "startMs": 73096,
+          "text": "给你形容美好"
+        },
+        {
+          "key": "76366|今后你常常眼睛会红",
+          "startMs": 76366,
+          "text": "今后你常常眼睛会红"
+        },
+        {
+          "key": "80728|原来心疼我",
+          "startMs": 80728,
+          "text": "原来心疼我"
+        },
+        {
+          "key": "82956|我那时候不懂",
+          "startMs": 82956,
+          "text": "我那时候不懂"
+        },
+        {
+          "key": "87721|假如我年少有为不自卑",
+          "startMs": 87721,
+          "text": "假如我年少有为不自卑"
+        },
+        {
+          "key": "92042|懂得什么是珍贵",
+          "startMs": 92042,
+          "text": "懂得什么是珍贵"
+        },
+        {
+          "key": "94574|那些美梦没给你",
+          "startMs": 94574,
+          "text": "那些美梦没给你"
+        },
+        {
+          "key": "99600|我一生有愧",
+          "startMs": 99600,
+          "text": "我一生有愧"
+        },
+        {
+          "key": "102170|假如我年少有为知进退",
+          "startMs": 102170,
+          "text": "假如我年少有为知进退"
+        },
+        {
+          "key": "106559|才不会让你替我受罪",
+          "startMs": 106559,
+          "text": "才不会让你替我受罪"
+        },
+        {
+          "key": "110422|婚礼上多喝几杯",
+          "startMs": 110422,
+          "text": "婚礼上多喝几杯"
+        },
+        {
+          "key": "113709|和你现在那位",
+          "startMs": 113709,
+          "text": "和你现在那位"
+        },
+        {
+          "key": "146688|也曾一起想",
+          "startMs": 146688,
+          "text": "也曾一起想"
+        },
+        {
+          "key": "150077|有个地方睡觉吃饭",
+          "startMs": 150077,
+          "text": "有个地方睡觉吃饭"
+        },
+        {
+          "key": "153771|可怎么去熬日夜颠倒",
+          "startMs": 153771,
+          "text": "可怎么去熬日夜颠倒"
+        },
+        {
+          "key": "157182|连头款也凑不到",
+          "startMs": 157182,
+          "text": "连头款也凑不到"
+        },
+        {
+          "key": "161382|墙板被我砸烂",
+          "startMs": 161382,
+          "text": "墙板被我砸烂"
+        },
+        {
+          "key": "164817|到现在还没修",
+          "startMs": 164817,
+          "text": "到现在还没修"
+        },
+        {
+          "key": "168121|一碗热的粥",
+          "startMs": 168121,
+          "text": "一碗热的粥"
+        },
+        {
+          "key": "170079|你怕我没够",
+          "startMs": 170079,
+          "text": "你怕我没够"
+        },
+        {
+          "key": "171950|都留一半带走",
+          "startMs": 171950,
+          "text": "都留一半带走"
+        },
+        {
+          "key": "174863|给你形容美好",
+          "startMs": 174863,
+          "text": "给你形容美好"
+        },
+        {
+          "key": "178053|今后你常常眼睛会红",
+          "startMs": 178053,
+          "text": "今后你常常眼睛会红"
+        },
+        {
+          "key": "182696|原来心疼我",
+          "startMs": 182696,
+          "text": "原来心疼我"
+        },
+        {
+          "key": "184701|我那时候不懂",
+          "startMs": 184701,
+          "text": "我那时候不懂"
+        },
+        {
+          "key": "189658|假如我年少有为不自卑",
+          "startMs": 189658,
+          "text": "假如我年少有为不自卑"
+        },
+        {
+          "key": "193803|懂得什么是珍贵",
+          "startMs": 193803,
+          "text": "懂得什么是珍贵"
+        },
+        {
+          "key": "196339|那些美梦没给你",
+          "startMs": 196339,
+          "text": "那些美梦没给你"
+        },
+        {
+          "key": "201343|我一生有愧",
+          "startMs": 201343,
+          "text": "我一生有愧"
+        },
+        {
+          "key": "203921|假如我年少有为知进退",
+          "startMs": 203921,
+          "text": "假如我年少有为知进退"
+        },
+        {
+          "key": "208403|才不会让你替我受罪",
+          "startMs": 208403,
+          "text": "才不会让你替我受罪"
+        },
+        {
+          "key": "212201|婚礼上多喝几杯",
+          "startMs": 212201,
+          "text": "婚礼上多喝几杯"
+        },
+        {
+          "key": "215440|和你现在那位",
+          "startMs": 215440,
+          "text": "和你现在那位"
+        },
+        {
+          "key": "222388|假如我年少有为不自卑",
+          "startMs": 222388,
+          "text": "假如我年少有为不自卑"
+        },
+        {
+          "key": "226492|尝过后悔的滋味",
+          "startMs": 226492,
+          "text": "尝过后悔的滋味"
+        },
+        {
+          "key": "229134|金钱地位搏到了",
+          "startMs": 229134,
+          "text": "金钱地位搏到了"
+        },
+        {
+          "key": "234048|却好想退回",
+          "startMs": 234048,
+          "text": "却好想退回"
+        },
+        {
+          "key": "236579|假如我年少有为知进退",
+          "startMs": 236579,
+          "text": "假如我年少有为知进退"
+        },
+        {
+          "key": "241082|才不会让你替我受罪",
+          "startMs": 241082,
+          "text": "才不会让你替我受罪"
+        },
+        {
+          "key": "244980|婚礼上多喝几杯",
+          "startMs": 244980,
+          "text": "婚礼上多喝几杯"
+        },
+        {
+          "key": "248147|和你现在那位",
+          "startMs": 248147,
+          "text": "和你现在那位"
+        },
+        {
+          "key": "255687|在婚礼上多喝几杯",
+          "startMs": 255687,
+          "text": "在婚礼上多喝几杯"
+        },
+        {
+          "key": "259083|祝我年少有为",
+          "startMs": 259083,
+          "text": "祝我年少有为"
+        }
+      ]
+    },
+    {
+      "rank": 860,
+      "songKey": "online:kugou:79d450ebe45f32473ff7b02c9a845ad1",
+      "name": "China-6",
+      "artist": "Sand",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

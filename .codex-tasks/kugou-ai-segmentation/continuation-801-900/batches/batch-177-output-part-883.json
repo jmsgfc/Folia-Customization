@@ -1,0 +1,959 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:3ebf9bc403b6ff23f9aa8bd01d66c483",
+      "lines": [
+        {
+          "key": "0|Kelly Clarkson - Stronger (What Doesn't Kill You)",
+          "text": "Kelly Clarkson - Stronger (What Doesn't Kill You)",
+          "segments": [
+            "Kelly Clarkson",
+            " - ",
+            "Stronger (What Doesn't Kill You)"
+          ]
+        },
+        {
+          "key": "2420|Written by：Gregory Kurstin、David Gamson、Greg Kurstin、Ali Tamposi、Alexandra Leah Tamposi、Elofsson Jorgen Kjell、H. Gamson David",
+          "text": "Written by：Gregory Kurstin、David Gamson、Greg Kurstin、Ali Tamposi、Alexandra Leah Tamposi、Elofsson Jorgen Kjell、H. Gamson David",
+          "segments": [
+            "Written by：",
+            "Gregory Kurstin、",
+            "David Gamson、",
+            "Greg Kurstin、",
+            "Ali Tamposi、",
+            "Alexandra Leah Tamposi、",
+            "Elofsson Jorgen Kjell、",
+            "H. Gamson David"
+          ]
+        },
+        {
+          "key": "8596|You know the bed feels warmer",
+          "text": "You know the bed feels warmer",
+          "segments": [
+            "You ",
+            "know ",
+            "the ",
+            "bed ",
+            "feels ",
+            "warmer"
+          ]
+        },
+        {
+          "key": "12346|Sleeping here alone",
+          "text": "Sleeping here alone",
+          "segments": [
+            "Sleeping ",
+            "here ",
+            "alone"
+          ]
+        },
+        {
+          "key": "16876|You know I dream in color",
+          "text": "You know I dream in color",
+          "segments": [
+            "You ",
+            "know ",
+            "I ",
+            "dream ",
+            "in ",
+            "color"
+          ]
+        },
+        {
+          "key": "20516|And do the things I want",
+          "text": "And do the things I want",
+          "segments": [
+            "And ",
+            "do ",
+            "the ",
+            "things ",
+            "I ",
+            "want"
+          ]
+        },
+        {
+          "key": "25036|You think you got the best of me",
+          "text": "You think you got the best of me",
+          "segments": [
+            "You ",
+            "think ",
+            "you ",
+            "got ",
+            "the ",
+            "best ",
+            "of ",
+            "me"
+          ]
+        },
+        {
+          "key": "27256|Think you've had the last laugh",
+          "text": "Think you've had the last laugh",
+          "segments": [
+            "Think ",
+            "you've ",
+            "had ",
+            "the ",
+            "last ",
+            "laugh"
+          ]
+        },
+        {
+          "key": "29316|Bet you think",
+          "text": "Bet you think",
+          "segments": [
+            "Bet ",
+            "you ",
+            "think"
+          ]
+        },
+        {
+          "key": "29836|That everything good is gone",
+          "text": "That everything good is gone",
+          "segments": [
+            "That ",
+            "everything ",
+            "good ",
+            "is ",
+            "gone"
+          ]
+        },
+        {
+          "key": "33476|Think you left me broken down",
+          "text": "Think you left me broken down",
+          "segments": [
+            "Think ",
+            "you ",
+            "left ",
+            "me ",
+            "broken ",
+            "down"
+          ]
+        },
+        {
+          "key": "35546|Think that I'd come running back",
+          "text": "Think that I'd come running back",
+          "segments": [
+            "Think ",
+            "that ",
+            "I'd ",
+            "come ",
+            "running ",
+            "back"
+          ]
+        },
+        {
+          "key": "37616|Baby you don't know me",
+          "text": "Baby you don't know me",
+          "segments": [
+            "Baby ",
+            "you ",
+            "don't ",
+            "know ",
+            "me"
+          ]
+        },
+        {
+          "key": "38876|Cause you're dead wrong",
+          "text": "Cause you're dead wrong",
+          "segments": [
+            "Cause ",
+            "you're ",
+            "dead ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "41696|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "42816|You makes you stronger",
+          "text": "You makes you stronger",
+          "segments": [
+            "You ",
+            "makes ",
+            "you ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "44566|Stand a little taller",
+          "text": "Stand a little taller",
+          "segments": [
+            "Stand ",
+            "a ",
+            "little ",
+            "taller"
+          ]
+        },
+        {
+          "key": "46646|Doesn't mean",
+          "text": "Doesn't mean",
+          "segments": [
+            "Doesn't ",
+            "mean"
+          ]
+        },
+        {
+          "key": "47496|I'm lonely when I'm alone",
+          "text": "I'm lonely when I'm alone",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "when ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "50036|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "51106|You makes a fighter",
+          "text": "You makes a fighter",
+          "segments": [
+            "You ",
+            "makes ",
+            "a ",
+            "fighter"
+          ]
+        },
+        {
+          "key": "52866|Footsteps even lighter",
+          "text": "Footsteps even lighter",
+          "segments": [
+            "Footsteps ",
+            "even ",
+            "lighter"
+          ]
+        },
+        {
+          "key": "54936|Doesn't mean",
+          "text": "Doesn't mean",
+          "segments": [
+            "Doesn't ",
+            "mean"
+          ]
+        },
+        {
+          "key": "55806|I'm over 'cause you're gone",
+          "text": "I'm over 'cause you're gone",
+          "segments": [
+            "I'm ",
+            "over ",
+            "'cause ",
+            "you're ",
+            "gone"
+          ]
+        },
+        {
+          "key": "58296|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "59376|You makes you stronger stronger",
+          "text": "You makes you stronger stronger",
+          "segments": [
+            "You ",
+            "makes ",
+            "you ",
+            "stronger ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "63696|Just me myself and I",
+          "text": "Just me myself and I",
+          "segments": [
+            "Just ",
+            "me ",
+            "myself ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "66616|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "67676|You makes you stronger",
+          "text": "You makes you stronger",
+          "segments": [
+            "You ",
+            "makes ",
+            "you ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "69216|Stand a little taller",
+          "text": "Stand a little taller",
+          "segments": [
+            "Stand ",
+            "a ",
+            "little ",
+            "taller"
+          ]
+        },
+        {
+          "key": "71496|Doesn't mean",
+          "text": "Doesn't mean",
+          "segments": [
+            "Doesn't ",
+            "mean"
+          ]
+        },
+        {
+          "key": "72326|I'm lonely when I'm alone",
+          "text": "I'm lonely when I'm alone",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "when ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "76836|You heard that I was starting",
+          "text": "You heard that I was starting",
+          "segments": [
+            "You ",
+            "heard ",
+            "that ",
+            "I ",
+            "was ",
+            "starting"
+          ]
+        },
+        {
+          "key": "79556|Over with someone new",
+          "text": "Over with someone new",
+          "segments": [
+            "Over ",
+            "with ",
+            "someone ",
+            "new"
+          ]
+        },
+        {
+          "key": "85086|They told you",
+          "text": "They told you",
+          "segments": [
+            "They ",
+            "told ",
+            "you"
+          ]
+        },
+        {
+          "key": "86036|I was moving on over you",
+          "text": "I was moving on over you",
+          "segments": [
+            "I ",
+            "was ",
+            "moving ",
+            "on ",
+            "over ",
+            "you"
+          ]
+        },
+        {
+          "key": "93346|You didn't think that I'd come back",
+          "text": "You didn't think that I'd come back",
+          "segments": [
+            "You ",
+            "didn't ",
+            "think ",
+            "that ",
+            "I'd ",
+            "come ",
+            "back"
+          ]
+        },
+        {
+          "key": "95486|I'd come back swinging",
+          "text": "I'd come back swinging",
+          "segments": [
+            "I'd ",
+            "come ",
+            "back ",
+            "swinging"
+          ]
+        },
+        {
+          "key": "97606|You try to break me",
+          "text": "You try to break me",
+          "segments": [
+            "You ",
+            "try ",
+            "to ",
+            "break ",
+            "me"
+          ]
+        },
+        {
+          "key": "98886|But you see",
+          "text": "But you see",
+          "segments": [
+            "But ",
+            "you ",
+            "see"
+          ]
+        },
+        {
+          "key": "99686|What doesn't kill you",
+          "text": "What doesn't kill you",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill ",
+            "you"
+          ]
+        },
+        {
+          "key": "100926|Makes you stronger",
+          "text": "Makes you stronger",
+          "segments": [
+            "Makes ",
+            "you ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "102496|Stand a little taller",
+          "text": "Stand a little taller",
+          "segments": [
+            "Stand ",
+            "a ",
+            "little ",
+            "taller"
+          ]
+        },
+        {
+          "key": "104576|Doesn't mean",
+          "text": "Doesn't mean",
+          "segments": [
+            "Doesn't ",
+            "mean"
+          ]
+        },
+        {
+          "key": "105426|I'm lonely when I'm alone",
+          "text": "I'm lonely when I'm alone",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "when ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "107986|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "109046|You makes a fighter",
+          "text": "You makes a fighter",
+          "segments": [
+            "You ",
+            "makes ",
+            "a ",
+            "fighter"
+          ]
+        },
+        {
+          "key": "110786|Footsteps even lighter",
+          "text": "Footsteps even lighter",
+          "segments": [
+            "Footsteps ",
+            "even ",
+            "lighter"
+          ]
+        },
+        {
+          "key": "112866|Doesn't mean I'm over",
+          "text": "Doesn't mean I'm over",
+          "segments": [
+            "Doesn't ",
+            "mean ",
+            "I'm ",
+            "over"
+          ]
+        },
+        {
+          "key": "114896|'Cause you're gone",
+          "text": "'Cause you're gone",
+          "segments": [
+            "'Cause ",
+            "you're ",
+            "gone"
+          ]
+        },
+        {
+          "key": "116306|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "117306|You makes you stronger stronger",
+          "text": "You makes you stronger stronger",
+          "segments": [
+            "You ",
+            "makes ",
+            "you ",
+            "stronger ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "121626|Just me myself and I",
+          "text": "Just me myself and I",
+          "segments": [
+            "Just ",
+            "me ",
+            "myself ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "124556|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "125616|You makes you stronger",
+          "text": "You makes you stronger",
+          "segments": [
+            "You ",
+            "makes ",
+            "you ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "127126|Stand a little taller",
+          "text": "Stand a little taller",
+          "segments": [
+            "Stand ",
+            "a ",
+            "little ",
+            "taller"
+          ]
+        },
+        {
+          "key": "129416|Doesn't mean",
+          "text": "Doesn't mean",
+          "segments": [
+            "Doesn't ",
+            "mean"
+          ]
+        },
+        {
+          "key": "130256|I'm lonely when I'm alone",
+          "text": "I'm lonely when I'm alone",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "when ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "135096|Thanks to you",
+          "text": "Thanks to you",
+          "segments": [
+            "Thanks ",
+            "to ",
+            "you"
+          ]
+        },
+        {
+          "key": "135986|I got a new thing started",
+          "text": "I got a new thing started",
+          "segments": [
+            "I ",
+            "got ",
+            "a ",
+            "new ",
+            "thing ",
+            "started"
+          ]
+        },
+        {
+          "key": "139206|Thanks to you",
+          "text": "Thanks to you",
+          "segments": [
+            "Thanks ",
+            "to ",
+            "you"
+          ]
+        },
+        {
+          "key": "140076|I'm not the broken hearted",
+          "text": "I'm not the broken hearted",
+          "segments": [
+            "I'm ",
+            "not ",
+            "the ",
+            "broken ",
+            "hearted"
+          ]
+        },
+        {
+          "key": "143336|Thanks to you",
+          "text": "Thanks to you",
+          "segments": [
+            "Thanks ",
+            "to ",
+            "you"
+          ]
+        },
+        {
+          "key": "144226|I'm finally thinking about me",
+          "text": "I'm finally thinking about me",
+          "segments": [
+            "I'm ",
+            "finally ",
+            "thinking ",
+            "about ",
+            "me"
+          ]
+        },
+        {
+          "key": "146746|You know in the end the day",
+          "text": "You know in the end the day",
+          "segments": [
+            "You ",
+            "know ",
+            "in ",
+            "the ",
+            "end ",
+            "the ",
+            "day"
+          ]
+        },
+        {
+          "key": "148956|You left was just my beginning",
+          "text": "You left was just my beginning",
+          "segments": [
+            "You ",
+            "left ",
+            "was ",
+            "just ",
+            "my ",
+            "beginning"
+          ]
+        },
+        {
+          "key": "154156|In the end",
+          "text": "In the end",
+          "segments": [
+            "In ",
+            "the ",
+            "end"
+          ]
+        },
+        {
+          "key": "157576|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "158666|You makes you stronger",
+          "text": "You makes you stronger",
+          "segments": [
+            "You ",
+            "makes ",
+            "you ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "160436|Stand a little taller",
+          "text": "Stand a little taller",
+          "segments": [
+            "Stand ",
+            "a ",
+            "little ",
+            "taller"
+          ]
+        },
+        {
+          "key": "162556|Doesn't mean",
+          "text": "Doesn't mean",
+          "segments": [
+            "Doesn't ",
+            "mean"
+          ]
+        },
+        {
+          "key": "163366|I'm lonely when I'm alone",
+          "text": "I'm lonely when I'm alone",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "when ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "165906|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "166966|You makes a fighter",
+          "text": "You makes a fighter",
+          "segments": [
+            "You ",
+            "makes ",
+            "a ",
+            "fighter"
+          ]
+        },
+        {
+          "key": "168706|Footsteps even lighter",
+          "text": "Footsteps even lighter",
+          "segments": [
+            "Footsteps ",
+            "even ",
+            "lighter"
+          ]
+        },
+        {
+          "key": "170806|Doesn't mean I'm over",
+          "text": "Doesn't mean I'm over",
+          "segments": [
+            "Doesn't ",
+            "mean ",
+            "I'm ",
+            "over"
+          ]
+        },
+        {
+          "key": "172836|'Cause you're gone",
+          "text": "'Cause you're gone",
+          "segments": [
+            "'Cause ",
+            "you're ",
+            "gone"
+          ]
+        },
+        {
+          "key": "174426|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "175236|You makes you stronger stronger",
+          "text": "You makes you stronger stronger",
+          "segments": [
+            "You ",
+            "makes ",
+            "you ",
+            "stronger ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "179556|Just me myself and I",
+          "text": "Just me myself and I",
+          "segments": [
+            "Just ",
+            "me ",
+            "myself ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "182486|What doesn't kill",
+          "text": "What doesn't kill",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill"
+          ]
+        },
+        {
+          "key": "183536|You makes you stronger",
+          "text": "You makes you stronger",
+          "segments": [
+            "You ",
+            "makes ",
+            "you ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "185066|Stand a little taller",
+          "text": "Stand a little taller",
+          "segments": [
+            "Stand ",
+            "a ",
+            "little ",
+            "taller"
+          ]
+        },
+        {
+          "key": "187336|Doesn't mean",
+          "text": "Doesn't mean",
+          "segments": [
+            "Doesn't ",
+            "mean"
+          ]
+        },
+        {
+          "key": "188186|I'm lonely when I'm alone",
+          "text": "I'm lonely when I'm alone",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "when ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "191466|What doesn't kill you",
+          "text": "What doesn't kill you",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill ",
+            "you"
+          ]
+        },
+        {
+          "key": "191976|Makes you stronger stronger",
+          "text": "Makes you stronger stronger",
+          "segments": [
+            "Makes ",
+            "you ",
+            "stronger ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "196116|Just me myself and I",
+          "text": "Just me myself and I",
+          "segments": [
+            "Just ",
+            "me ",
+            "myself ",
+            "and ",
+            "I"
+          ]
+        },
+        {
+          "key": "199016|What doesn't kill you",
+          "text": "What doesn't kill you",
+          "segments": [
+            "What ",
+            "doesn't ",
+            "kill ",
+            "you"
+          ]
+        },
+        {
+          "key": "200256|Makes you stronger",
+          "text": "Makes you stronger",
+          "segments": [
+            "Makes ",
+            "you ",
+            "stronger"
+          ]
+        },
+        {
+          "key": "201826|Stand a little taller",
+          "text": "Stand a little taller",
+          "segments": [
+            "Stand ",
+            "a ",
+            "little ",
+            "taller"
+          ]
+        },
+        {
+          "key": "203916|Doesn't mean",
+          "text": "Doesn't mean",
+          "segments": [
+            "Doesn't ",
+            "mean"
+          ]
+        },
+        {
+          "key": "204726|I'm lonely when I'm alone",
+          "text": "I'm lonely when I'm alone",
+          "segments": [
+            "I'm ",
+            "lonely ",
+            "when ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "208386|When I'm alone",
+          "text": "When I'm alone",
+          "segments": [
+            "When ",
+            "I'm ",
+            "alone"
+          ]
+        }
+      ]
+    }
+  ]
+}

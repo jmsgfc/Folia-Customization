@@ -1,0 +1,535 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:23dbc2010ea75d0e8284d914ac224d4e",
+      "lines": [
+        {
+          "key": "134|Greyson Chance - Summertrain",
+          "text": "Greyson Chance - Summertrain",
+          "segments": [
+            "Greyson Chance",
+            " - ",
+            "Summertrain"
+          ]
+        },
+        {
+          "key": "942|Written by：David Jost/Alexander Zuckowski",
+          "text": "Written by：David Jost/Alexander Zuckowski",
+          "segments": [
+            "Written by：",
+            "David Jost/",
+            "Alexander Zuckowski"
+          ]
+        },
+        {
+          "key": "17500|Come with me for a little ride see the shadows passing by",
+          "text": "Come with me for a little ride see the shadows passing by",
+          "segments": [
+            "Come ",
+            "with ",
+            "me ",
+            "for ",
+            "a ",
+            "little ",
+            "ride ",
+            "see ",
+            "the ",
+            "shadows ",
+            "passing ",
+            "by"
+          ]
+        },
+        {
+          "key": "26056|Look at the sun and see the clouds turn to faces in the sky",
+          "text": "Look at the sun and see the clouds turn to faces in the sky",
+          "segments": [
+            "Look ",
+            "at ",
+            "the ",
+            "sun ",
+            "and ",
+            "see ",
+            "the ",
+            "clouds ",
+            "turn ",
+            "to ",
+            "faces ",
+            "in ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "34145|We've been awake all night shattered dreams all around",
+          "text": "We've been awake all night shattered dreams all around",
+          "segments": [
+            "We've ",
+            "been ",
+            "awake ",
+            "all ",
+            "night ",
+            "shattered ",
+            "dreams ",
+            "all ",
+            "around"
+          ]
+        },
+        {
+          "key": "42629|Close your sad sad eyes we will be safe and sound",
+          "text": "Close your sad sad eyes we will be safe and sound",
+          "segments": [
+            "Close ",
+            "your ",
+            "sad ",
+            "sad ",
+            "eyes ",
+            "we ",
+            "will ",
+            "be ",
+            "safe ",
+            "and ",
+            "sound"
+          ]
+        },
+        {
+          "key": "51805|Come with me for a little ride see the shadows passing by",
+          "text": "Come with me for a little ride see the shadows passing by",
+          "segments": [
+            "Come ",
+            "with ",
+            "me ",
+            "for ",
+            "a ",
+            "little ",
+            "ride ",
+            "see ",
+            "the ",
+            "shadows ",
+            "passing ",
+            "by"
+          ]
+        },
+        {
+          "key": "60417|Look at the sun and see the clouds turn to faces in the sky",
+          "text": "Look at the sun and see the clouds turn to faces in the sky",
+          "segments": [
+            "Look ",
+            "at ",
+            "the ",
+            "sun ",
+            "and ",
+            "see ",
+            "the ",
+            "clouds ",
+            "turn ",
+            "to ",
+            "faces ",
+            "in ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "69013|Daydreaming lightly through the rain",
+          "text": "Daydreaming lightly through the rain",
+          "segments": [
+            "Daydreaming ",
+            "lightly ",
+            "through ",
+            "the ",
+            "rain"
+          ]
+        },
+        {
+          "key": "73376|All's forgiven on a summer train",
+          "text": "All's forgiven on a summer train",
+          "segments": [
+            "All's ",
+            "forgiven ",
+            "on ",
+            "a ",
+            "summer ",
+            "train"
+          ]
+        },
+        {
+          "key": "77639|Come with me for a little ride see the shadows passing by",
+          "text": "Come with me for a little ride see the shadows passing by",
+          "segments": [
+            "Come ",
+            "with ",
+            "me ",
+            "for ",
+            "a ",
+            "little ",
+            "ride ",
+            "see ",
+            "the ",
+            "shadows ",
+            "passing ",
+            "by"
+          ]
+        },
+        {
+          "key": "85517|Seems we are a thousand miles away from last night",
+          "text": "Seems we are a thousand miles away from last night",
+          "segments": [
+            "Seems ",
+            "we ",
+            "are ",
+            "a ",
+            "thousand ",
+            "miles ",
+            "away ",
+            "from ",
+            "last ",
+            "night"
+          ]
+        },
+        {
+          "key": "94135|As you sigh in my ear kiss the rain goodbye",
+          "text": "As you sigh in my ear kiss the rain goodbye",
+          "segments": [
+            "As ",
+            "you ",
+            "sigh ",
+            "in ",
+            "my ",
+            "ear ",
+            "kiss ",
+            "the ",
+            "rain ",
+            "goodbye"
+          ]
+        },
+        {
+          "key": "103421|Come with me for a little ride see the shadows passing by",
+          "text": "Come with me for a little ride see the shadows passing by",
+          "segments": [
+            "Come ",
+            "with ",
+            "me ",
+            "for ",
+            "a ",
+            "little ",
+            "ride ",
+            "see ",
+            "the ",
+            "shadows ",
+            "passing ",
+            "by"
+          ]
+        },
+        {
+          "key": "112010|Look at the sun and see the clouds turn to faces in the sky",
+          "text": "Look at the sun and see the clouds turn to faces in the sky",
+          "segments": [
+            "Look ",
+            "at ",
+            "the ",
+            "sun ",
+            "and ",
+            "see ",
+            "the ",
+            "clouds ",
+            "turn ",
+            "to ",
+            "faces ",
+            "in ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "120581|Daydreaming lightly through the rain",
+          "text": "Daydreaming lightly through the rain",
+          "segments": [
+            "Daydreaming ",
+            "lightly ",
+            "through ",
+            "the ",
+            "rain"
+          ]
+        },
+        {
+          "key": "124984|All's forgiven on a summer train",
+          "text": "All's forgiven on a summer train",
+          "segments": [
+            "All's ",
+            "forgiven ",
+            "on ",
+            "a ",
+            "summer ",
+            "train"
+          ]
+        },
+        {
+          "key": "129209|Come with me for a little ride see the shadows passing by",
+          "text": "Come with me for a little ride see the shadows passing by",
+          "segments": [
+            "Come ",
+            "with ",
+            "me ",
+            "for ",
+            "a ",
+            "little ",
+            "ride ",
+            "see ",
+            "the ",
+            "shadows ",
+            "passing ",
+            "by"
+          ]
+        },
+        {
+          "key": "136162|Come away with me it's gonna be all right just breathe",
+          "text": "Come away with me it's gonna be all right just breathe",
+          "segments": [
+            "Come ",
+            "away ",
+            "with ",
+            "me ",
+            "it's ",
+            "gonna ",
+            "be ",
+            "all ",
+            "right ",
+            "just ",
+            "breathe"
+          ]
+        },
+        {
+          "key": "144945|Come away with me it's gonna be all right you'll see",
+          "text": "Come away with me it's gonna be all right you'll see",
+          "segments": [
+            "Come ",
+            "away ",
+            "with ",
+            "me ",
+            "it's ",
+            "gonna ",
+            "be ",
+            "all ",
+            "right ",
+            "you'll ",
+            "see"
+          ]
+        },
+        {
+          "key": "154251|And the windows are crying",
+          "text": "And the windows are crying",
+          "segments": [
+            "And ",
+            "the ",
+            "windows ",
+            "are ",
+            "crying"
+          ]
+        },
+        {
+          "key": "156922|But this train is flying us all through the rain I fear",
+          "text": "But this train is flying us all through the rain I fear",
+          "segments": [
+            "But ",
+            "this ",
+            "train ",
+            "is ",
+            "flying ",
+            "us ",
+            "all ",
+            "through ",
+            "the ",
+            "rain ",
+            "I ",
+            "fear"
+          ]
+        },
+        {
+          "key": "162879|And the sky is getting brighter with every mile",
+          "text": "And the sky is getting brighter with every mile",
+          "segments": [
+            "And ",
+            "the ",
+            "sky ",
+            "is ",
+            "getting ",
+            "brighter ",
+            "with ",
+            "every ",
+            "mile"
+          ]
+        },
+        {
+          "key": "167146|And it all seems clear",
+          "text": "And it all seems clear",
+          "segments": [
+            "And ",
+            "it ",
+            "all ",
+            "seems ",
+            "clear"
+          ]
+        },
+        {
+          "key": "180901|Come with me for a little ride see the shadows passing by",
+          "text": "Come with me for a little ride see the shadows passing by",
+          "segments": [
+            "Come ",
+            "with ",
+            "me ",
+            "for ",
+            "a ",
+            "little ",
+            "ride ",
+            "see ",
+            "the ",
+            "shadows ",
+            "passing ",
+            "by"
+          ]
+        },
+        {
+          "key": "189408|Look at the sun and see the clouds turn to faces in the sky",
+          "text": "Look at the sun and see the clouds turn to faces in the sky",
+          "segments": [
+            "Look ",
+            "at ",
+            "the ",
+            "sun ",
+            "and ",
+            "see ",
+            "the ",
+            "clouds ",
+            "turn ",
+            "to ",
+            "faces ",
+            "in ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "198001|Daydreaming lightly through the rain",
+          "text": "Daydreaming lightly through the rain",
+          "segments": [
+            "Daydreaming ",
+            "lightly ",
+            "through ",
+            "the ",
+            "rain"
+          ]
+        },
+        {
+          "key": "202291|All's forgiven on a summer train",
+          "text": "All's forgiven on a summer train",
+          "segments": [
+            "All's ",
+            "forgiven ",
+            "on ",
+            "a ",
+            "summer ",
+            "train"
+          ]
+        },
+        {
+          "key": "206608|Come with me for a little ride see the shadows passing by",
+          "text": "Come with me for a little ride see the shadows passing by",
+          "segments": [
+            "Come ",
+            "with ",
+            "me ",
+            "for ",
+            "a ",
+            "little ",
+            "ride ",
+            "see ",
+            "the ",
+            "shadows ",
+            "passing ",
+            "by"
+          ]
+        },
+        {
+          "key": "213574|Come away with me it's gonna be all right just breathe",
+          "text": "Come away with me it's gonna be all right just breathe",
+          "segments": [
+            "Come ",
+            "away ",
+            "with ",
+            "me ",
+            "it's ",
+            "gonna ",
+            "be ",
+            "all ",
+            "right ",
+            "just ",
+            "breathe"
+          ]
+        },
+        {
+          "key": "222845|Come away with me it's gonna be all right you'll see",
+          "text": "Come away with me it's gonna be all right you'll see",
+          "segments": [
+            "Come ",
+            "away ",
+            "with ",
+            "me ",
+            "it's ",
+            "gonna ",
+            "be ",
+            "all ",
+            "right ",
+            "you'll ",
+            "see"
+          ]
+        },
+        {
+          "key": "230996|Come away with me it's gonna be all right just breathe",
+          "text": "Come away with me it's gonna be all right just breathe",
+          "segments": [
+            "Come ",
+            "away ",
+            "with ",
+            "me ",
+            "it's ",
+            "gonna ",
+            "be ",
+            "all ",
+            "right ",
+            "just ",
+            "breathe"
+          ]
+        },
+        {
+          "key": "240895|Come away with me it's gonna be all right you'll see you'll see",
+          "text": "Come away with me it's gonna be all right you'll see you'll see",
+          "segments": [
+            "Come ",
+            "away ",
+            "with ",
+            "me ",
+            "it's ",
+            "gonna ",
+            "be ",
+            "all ",
+            "right ",
+            "you'll ",
+            "see ",
+            "you'll ",
+            "see"
+          ]
+        },
+        {
+          "key": "264712|Come away with me",
+          "text": "Come away with me",
+          "segments": [
+            "Come ",
+            "away ",
+            "with ",
+            "me"
+          ]
+        }
+      ]
+    }
+  ]
+}

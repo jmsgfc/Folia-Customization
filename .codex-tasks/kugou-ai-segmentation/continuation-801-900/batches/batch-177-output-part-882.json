@@ -1,0 +1,697 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:704398e2cc9dfd45e0d745f1e2d8239a",
+      "lines": [
+        {
+          "key": "108|Fitz & The Tantrums - HandClap",
+          "text": "Fitz & The Tantrums - HandClap",
+          "segments": [
+            "Fitz & The Tantrums",
+            " - ",
+            "HandClap"
+          ]
+        },
+        {
+          "key": "2280|Lyrics by：Sam Hollander、Eric Frederic、Fitz and The Tantrums",
+          "text": "Lyrics by：Sam Hollander、Eric Frederic、Fitz and The Tantrums",
+          "segments": [
+            "Lyrics by：",
+            "Sam Hollander、",
+            "Eric Frederic、",
+            "Fitz and The Tantrums"
+          ]
+        },
+        {
+          "key": "4120|Produced by：Ricky Reed",
+          "text": "Produced by：Ricky Reed",
+          "segments": [
+            "Produced by：",
+            "Ricky Reed"
+          ]
+        },
+        {
+          "key": "6181|Turn it up",
+          "text": "Turn it up",
+          "segments": [
+            "Turn ",
+            "it ",
+            "up"
+          ]
+        },
+        {
+          "key": "13620|Somebody save your soul cause you've been sinning in the city I know",
+          "text": "Somebody save your soul cause you've been sinning in the city I know",
+          "segments": [
+            "Somebody ",
+            "save ",
+            "your ",
+            "soul ",
+            "cause ",
+            "you've ",
+            "been ",
+            "sinning ",
+            "in ",
+            "the ",
+            "city ",
+            "I ",
+            "know"
+          ]
+        },
+        {
+          "key": "17449|Too many troubles all these lovers got you losin' control",
+          "text": "Too many troubles all these lovers got you losin' control",
+          "segments": [
+            "Too ",
+            "many ",
+            "troubles ",
+            "all ",
+            "these ",
+            "lovers ",
+            "got ",
+            "you ",
+            "losin' ",
+            "control"
+          ]
+        },
+        {
+          "key": "20838|You're like a drug to me a luxury my sugar and gold",
+          "text": "You're like a drug to me a luxury my sugar and gold",
+          "segments": [
+            "You're ",
+            "like ",
+            "a ",
+            "drug ",
+            "to ",
+            "me ",
+            "a ",
+            "luxury ",
+            "my ",
+            "sugar ",
+            "and ",
+            "gold"
+          ]
+        },
+        {
+          "key": "24308|I want the good life",
+          "text": "I want the good life",
+          "segments": [
+            "I ",
+            "want ",
+            "the ",
+            "good ",
+            "life"
+          ]
+        },
+        {
+          "key": "25508|Every good night you're a hot one to hold",
+          "text": "Every good night you're a hot one to hold",
+          "segments": [
+            "Every ",
+            "good ",
+            "night ",
+            "you're ",
+            "a ",
+            "hot ",
+            "one ",
+            "to ",
+            "hold"
+          ]
+        },
+        {
+          "key": "29128|Cause you don't even know",
+          "text": "Cause you don't even know",
+          "segments": [
+            "Cause ",
+            "you ",
+            "don't ",
+            "even ",
+            "know"
+          ]
+        },
+        {
+          "key": "30748|I can make your hands clap",
+          "text": "I can make your hands clap",
+          "segments": [
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "33988|Said I can make your hands clap",
+          "text": "Said I can make your hands clap",
+          "segments": [
+            "Said ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "37617|Somebody save your soul cause you've been sinning in the city I know",
+          "text": "Somebody save your soul cause you've been sinning in the city I know",
+          "segments": [
+            "Somebody ",
+            "save ",
+            "your ",
+            "soul ",
+            "cause ",
+            "you've ",
+            "been ",
+            "sinning ",
+            "in ",
+            "the ",
+            "city ",
+            "I ",
+            "know"
+          ]
+        },
+        {
+          "key": "41537|Too many troubles all these lovers got you losin' control",
+          "text": "Too many troubles all these lovers got you losin' control",
+          "segments": [
+            "Too ",
+            "many ",
+            "troubles ",
+            "all ",
+            "these ",
+            "lovers ",
+            "got ",
+            "you ",
+            "losin' ",
+            "control"
+          ]
+        },
+        {
+          "key": "44864|You're like a drug to me a luxury my sugar and gold",
+          "text": "You're like a drug to me a luxury my sugar and gold",
+          "segments": [
+            "You're ",
+            "like ",
+            "a ",
+            "drug ",
+            "to ",
+            "me ",
+            "a ",
+            "luxury ",
+            "my ",
+            "sugar ",
+            "and ",
+            "gold"
+          ]
+        },
+        {
+          "key": "48293|I want your sex and your affection when I'm holding you close",
+          "text": "I want your sex and your affection when I'm holding you close",
+          "segments": [
+            "I ",
+            "want ",
+            "your ",
+            "sex ",
+            "and ",
+            "your ",
+            "affection ",
+            "when ",
+            "I'm ",
+            "holding ",
+            "you ",
+            "close"
+          ]
+        },
+        {
+          "key": "53262|Cause you don't even know",
+          "text": "Cause you don't even know",
+          "segments": [
+            "Cause ",
+            "you ",
+            "don't ",
+            "even ",
+            "know"
+          ]
+        },
+        {
+          "key": "54972|I can make your hands clap",
+          "text": "I can make your hands clap",
+          "segments": [
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "57882|Said I can make your hands clap",
+          "text": "Said I can make your hands clap",
+          "segments": [
+            "Said ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "60811|Every night when the stars come out",
+          "text": "Every night when the stars come out",
+          "segments": [
+            "Every ",
+            "night ",
+            "when ",
+            "the ",
+            "stars ",
+            "come ",
+            "out"
+          ]
+        },
+        {
+          "key": "64501|Am I the only living soul around",
+          "text": "Am I the only living soul around",
+          "segments": [
+            "Am ",
+            "I ",
+            "the ",
+            "only ",
+            "living ",
+            "soul ",
+            "around"
+          ]
+        },
+        {
+          "key": "67931|Need to believe you could hold me down",
+          "text": "Need to believe you could hold me down",
+          "segments": [
+            "Need ",
+            "to ",
+            "believe ",
+            "you ",
+            "could ",
+            "hold ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "71401|Cause I'm in need of something good right now",
+          "text": "Cause I'm in need of something good right now",
+          "segments": [
+            "Cause ",
+            "I'm ",
+            "in ",
+            "need ",
+            "of ",
+            "something ",
+            "good ",
+            "right ",
+            "now"
+          ]
+        },
+        {
+          "key": "75200|We could be screaming till the sun comes out",
+          "text": "We could be screaming till the sun comes out",
+          "segments": [
+            "We ",
+            "could ",
+            "be ",
+            "screaming ",
+            "till ",
+            "the ",
+            "sun ",
+            "comes ",
+            "out"
+          ]
+        },
+        {
+          "key": "78450|And when we wake we be the only sound",
+          "text": "And when we wake we be the only sound",
+          "segments": [
+            "And ",
+            "when ",
+            "we ",
+            "wake ",
+            "we ",
+            "be ",
+            "the ",
+            "only ",
+            "sound"
+          ]
+        },
+        {
+          "key": "82010|Get off my knees and say a prayer to change vows",
+          "text": "Get off my knees and say a prayer to change vows",
+          "segments": [
+            "Get ",
+            "off ",
+            "my ",
+            "knees ",
+            "and ",
+            "say ",
+            "a ",
+            "prayer ",
+            "to ",
+            "change ",
+            "vows"
+          ]
+        },
+        {
+          "key": "86358|Bet I can make your hands clap",
+          "text": "Bet I can make your hands clap",
+          "segments": [
+            "Bet ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "95098|Bet I can make your hands clap",
+          "text": "Bet I can make your hands clap",
+          "segments": [
+            "Bet ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "99488|Turn it up",
+          "text": "Turn it up",
+          "segments": [
+            "Turn ",
+            "it ",
+            "up"
+          ]
+        },
+        {
+          "key": "101817|Bet I can make your hands clap",
+          "text": "Bet I can make your hands clap",
+          "segments": [
+            "Bet ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "103837|My fresh is searching for your worst and rest don't ever deny",
+          "text": "My fresh is searching for your worst and rest don't ever deny",
+          "segments": [
+            "My ",
+            "fresh ",
+            "is ",
+            "searching ",
+            "for ",
+            "your ",
+            "worst ",
+            "and ",
+            "rest ",
+            "don't ",
+            "ever ",
+            "deny"
+          ]
+        },
+        {
+          "key": "107247|I'm like a stranger give me danger",
+          "text": "I'm like a stranger give me danger",
+          "segments": [
+            "I'm ",
+            "like ",
+            "a ",
+            "stranger ",
+            "give ",
+            "me ",
+            "danger"
+          ]
+        },
+        {
+          "key": "109026|All your wrongs and your rights",
+          "text": "All your wrongs and your rights",
+          "segments": [
+            "All ",
+            "your ",
+            "wrongs ",
+            "and ",
+            "your ",
+            "rights"
+          ]
+        },
+        {
+          "key": "110706|Secrets on broadway to the freeway you're a keeper of crimes",
+          "text": "Secrets on broadway to the freeway you're a keeper of crimes",
+          "segments": [
+            "Secrets ",
+            "on ",
+            "broadway ",
+            "to ",
+            "the ",
+            "freeway ",
+            "you're ",
+            "a ",
+            "keeper ",
+            "of ",
+            "crimes"
+          ]
+        },
+        {
+          "key": "114135|Feel no conviction grapes of wrath can only sweeten your wine",
+          "text": "Feel no conviction grapes of wrath can only sweeten your wine",
+          "segments": [
+            "Feel ",
+            "no ",
+            "conviction ",
+            "grapes ",
+            "of ",
+            "wrath ",
+            "can ",
+            "only ",
+            "sweeten ",
+            "your ",
+            "wine"
+          ]
+        },
+        {
+          "key": "119195|But you don't even know",
+          "text": "But you don't even know",
+          "segments": [
+            "But ",
+            "you ",
+            "don't ",
+            "even ",
+            "know"
+          ]
+        },
+        {
+          "key": "120745|I can make your hands clap",
+          "text": "I can make your hands clap",
+          "segments": [
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "123984|Said I can make your hands clap",
+          "text": "Said I can make your hands clap",
+          "segments": [
+            "Said ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "126904|Every night when the stars come out",
+          "text": "Every night when the stars come out",
+          "segments": [
+            "Every ",
+            "night ",
+            "when ",
+            "the ",
+            "stars ",
+            "come ",
+            "out"
+          ]
+        },
+        {
+          "key": "130183|Am I the only living soul around",
+          "text": "Am I the only living soul around",
+          "segments": [
+            "Am ",
+            "I ",
+            "the ",
+            "only ",
+            "living ",
+            "soul ",
+            "around"
+          ]
+        },
+        {
+          "key": "133723|Need to believe you could hold me down",
+          "text": "Need to believe you could hold me down",
+          "segments": [
+            "Need ",
+            "to ",
+            "believe ",
+            "you ",
+            "could ",
+            "hold ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "137203|Cause I'm in need of something good right now",
+          "text": "Cause I'm in need of something good right now",
+          "segments": [
+            "Cause ",
+            "I'm ",
+            "in ",
+            "need ",
+            "of ",
+            "something ",
+            "good ",
+            "right ",
+            "now"
+          ]
+        },
+        {
+          "key": "140993|We could be screaming till the sun comes out",
+          "text": "We could be screaming till the sun comes out",
+          "segments": [
+            "We ",
+            "could ",
+            "be ",
+            "screaming ",
+            "till ",
+            "the ",
+            "sun ",
+            "comes ",
+            "out"
+          ]
+        },
+        {
+          "key": "144253|And when we wake we be the only sound",
+          "text": "And when we wake we be the only sound",
+          "segments": [
+            "And ",
+            "when ",
+            "we ",
+            "wake ",
+            "we ",
+            "be ",
+            "the ",
+            "only ",
+            "sound"
+          ]
+        },
+        {
+          "key": "147873|Get off my knees and say a prayer to change vows",
+          "text": "Get off my knees and say a prayer to change vows",
+          "segments": [
+            "Get ",
+            "off ",
+            "my ",
+            "knees ",
+            "and ",
+            "say ",
+            "a ",
+            "prayer ",
+            "to ",
+            "change ",
+            "vows"
+          ]
+        },
+        {
+          "key": "152182|Bet I can make your hands clap",
+          "text": "Bet I can make your hands clap",
+          "segments": [
+            "Bet ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "160922|Bet I can make your hands clap",
+          "text": "Bet I can make your hands clap",
+          "segments": [
+            "Bet ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "167702|Bet I can make your hands clap",
+          "text": "Bet I can make your hands clap",
+          "segments": [
+            "Bet ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "174582|Bet I can make your hands clap",
+          "text": "Bet I can make your hands clap",
+          "segments": [
+            "Bet ",
+            "I ",
+            "can ",
+            "make ",
+            "your ",
+            "hands ",
+            "clap"
+          ]
+        },
+        {
+          "key": "181311|So can I get a hand clap",
+          "text": "So can I get a hand clap",
+          "segments": [
+            "So ",
+            "can ",
+            "I ",
+            "get ",
+            "a ",
+            "hand ",
+            "clap"
+          ]
+        }
+      ]
+    }
+  ]
+}

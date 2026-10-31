@@ -1,0 +1,805 @@
+{
+  "batchNumber": 167,
+  "songs": [
+    {
+      "rank": 831,
+      "songKey": "online:kugou:4f1d3c54f16eb7f66dc75b82e2a652b1",
+      "name": "Please Don't Go",
+      "artist": "Joel Adams",
+      "lines": [
+        {
+          "key": "30|Joel Adams - Please Don't Go",
+          "startMs": 30,
+          "text": "Joel Adams - Please Don't Go"
+        },
+        {
+          "key": "24440|Nobody ever knows",
+          "startMs": 24440,
+          "text": "Nobody ever knows"
+        },
+        {
+          "key": "27230|Nobody ever sees",
+          "startMs": 27230,
+          "text": "Nobody ever sees"
+        },
+        {
+          "key": "30020|I left my soul",
+          "startMs": 30020,
+          "text": "I left my soul"
+        },
+        {
+          "key": "32760|Back then no I'm too weak",
+          "startMs": 32760,
+          "text": "Back then no I'm too weak"
+        },
+        {
+          "key": "35580|Most nights I pray for you to come home",
+          "startMs": 35580,
+          "text": "Most nights I pray for you to come home"
+        },
+        {
+          "key": "41540|Praying to the lord",
+          "startMs": 41540,
+          "text": "Praying to the lord"
+        },
+        {
+          "key": "44350|Praying for my soul",
+          "startMs": 44350,
+          "text": "Praying for my soul"
+        },
+        {
+          "key": "46310|Now please don't go",
+          "startMs": 46310,
+          "text": "Now please don't go"
+        },
+        {
+          "key": "52030|Most nights I hardly sleep when I'm alone",
+          "startMs": 52030,
+          "text": "Most nights I hardly sleep when I'm alone"
+        },
+        {
+          "key": "57650|Now please don't go oh no",
+          "startMs": 57650,
+          "text": "Now please don't go oh no"
+        },
+        {
+          "key": "63630|I think of you whenever I'm alone",
+          "startMs": 63630,
+          "text": "I think of you whenever I'm alone"
+        },
+        {
+          "key": "67910|So please don't go",
+          "startMs": 67910,
+          "text": "So please don't go"
+        },
+        {
+          "key": "81330|Cause I don't ever wanna know",
+          "startMs": 81330,
+          "text": "Cause I don't ever wanna know"
+        },
+        {
+          "key": "84330|Don't ever want to see things change",
+          "startMs": 84330,
+          "text": "Don't ever want to see things change"
+        },
+        {
+          "key": "87020|Cause when I'm living on my own",
+          "startMs": 87020,
+          "text": "Cause when I'm living on my own"
+        },
+        {
+          "key": "89730|I wanna take it back and start again",
+          "startMs": 89730,
+          "text": "I wanna take it back and start again"
+        },
+        {
+          "key": "92620|Most nights I pray for you to come home",
+          "startMs": 92620,
+          "text": "Most nights I pray for you to come home"
+        },
+        {
+          "key": "98759|I'm praying to the lord",
+          "startMs": 98759,
+          "text": "I'm praying to the lord"
+        },
+        {
+          "key": "101609|I'm praying for my soul",
+          "startMs": 101609,
+          "text": "I'm praying for my soul"
+        },
+        {
+          "key": "104759|Now please don't go",
+          "startMs": 104759,
+          "text": "Now please don't go"
+        },
+        {
+          "key": "111479|Most nights I hardly sleep",
+          "startMs": 111479,
+          "text": "Most nights I hardly sleep"
+        },
+        {
+          "key": "113719|When I'm alone",
+          "startMs": 113719,
+          "text": "When I'm alone"
+        },
+        {
+          "key": "116239|Now please don't go oh no",
+          "startMs": 116239,
+          "text": "Now please don't go oh no"
+        },
+        {
+          "key": "122379|I think of you whenever I'm alone",
+          "startMs": 122379,
+          "text": "I think of you whenever I'm alone"
+        },
+        {
+          "key": "126189|So please don't go",
+          "startMs": 126189,
+          "text": "So please don't go"
+        },
+        {
+          "key": "130089|I sent so many messages",
+          "startMs": 130089,
+          "text": "I sent so many messages"
+        },
+        {
+          "key": "132449|You don't reply",
+          "startMs": 132449,
+          "text": "You don't reply"
+        },
+        {
+          "key": "135669|Gotta feel around what am I missing babe",
+          "startMs": 135669,
+          "text": "Gotta feel around what am I missing babe"
+        },
+        {
+          "key": "138809|Singing now oh oh oh",
+          "startMs": 138809,
+          "text": "Singing now oh oh oh"
+        },
+        {
+          "key": "141969|I need you now I need your love oh",
+          "startMs": 141969,
+          "text": "I need you now I need your love oh"
+        },
+        {
+          "key": "152008|Now please don't go",
+          "startMs": 152008,
+          "text": "Now please don't go"
+        },
+        {
+          "key": "157648|I said most nights I hardly sleep",
+          "startMs": 157648,
+          "text": "I said most nights I hardly sleep"
+        },
+        {
+          "key": "160858|When I'm alone",
+          "startMs": 160858,
+          "text": "When I'm alone"
+        },
+        {
+          "key": "163308|Now please don't go oh no",
+          "startMs": 163308,
+          "text": "Now please don't go oh no"
+        },
+        {
+          "key": "169018|I think of you whenever I'm alone",
+          "startMs": 169018,
+          "text": "I think of you whenever I'm alone"
+        },
+        {
+          "key": "175448|So please don't go",
+          "startMs": 175448,
+          "text": "So please don't go"
+        },
+        {
+          "key": "179218|So please don't go",
+          "startMs": 179218,
+          "text": "So please don't go"
+        },
+        {
+          "key": "186898|So please don't go",
+          "startMs": 186898,
+          "text": "So please don't go"
+        },
+        {
+          "key": "190117|Oh no",
+          "startMs": 190117,
+          "text": "Oh no"
+        },
+        {
+          "key": "192137|I think of you whenever I'm alone",
+          "startMs": 192137,
+          "text": "I think of you whenever I'm alone"
+        },
+        {
+          "key": "196597|So please don't go",
+          "startMs": 196597,
+          "text": "So please don't go"
+        }
+      ]
+    },
+    {
+      "rank": 832,
+      "songKey": "online:kugou:2dfce1d026cf4acaf82dc33719ae4c64",
+      "name": "K歌之王 (粤语版)",
+      "artist": "陈奕迅",
+      "lines": [
+        {
+          "key": "864|陈奕迅 - K歌之王",
+          "startMs": 864,
+          "text": "陈奕迅 - K歌之王"
+        },
+        {
+          "key": "6167|作词：林夕",
+          "startMs": 6167,
+          "text": "作词：林夕"
+        },
+        {
+          "key": "7167|作曲：陈辉阳",
+          "startMs": 7167,
+          "text": "作曲：陈辉阳"
+        },
+        {
+          "key": "13232|我唱得不够动人",
+          "startMs": 13232,
+          "text": "我唱得不够动人"
+        },
+        {
+          "key": "16693|你别皱眉",
+          "startMs": 16693,
+          "text": "你别皱眉"
+        },
+        {
+          "key": "19750|我愿意和你约定至死",
+          "startMs": 19750,
+          "text": "我愿意和你约定至死"
+        },
+        {
+          "key": "25413|我只想嬉戏唱游",
+          "startMs": 25413,
+          "text": "我只想嬉戏唱游"
+        },
+        {
+          "key": "29173|到下世纪",
+          "startMs": 29173,
+          "text": "到下世纪"
+        },
+        {
+          "key": "31876|请你别嫌我",
+          "startMs": 31876,
+          "text": "请你别嫌我"
+        },
+        {
+          "key": "33832|将这煽情奉献给你",
+          "startMs": 33832,
+          "text": "将这煽情奉献给你"
+        },
+        {
+          "key": "39201|还能凭什么",
+          "startMs": 39201,
+          "text": "还能凭什么"
+        },
+        {
+          "key": "42257|拥抱若未令你兴奋",
+          "startMs": 42257,
+          "text": "拥抱若未令你兴奋"
+        },
+        {
+          "key": "45240|便宜地唱出",
+          "startMs": 45240,
+          "text": "便宜地唱出"
+        },
+        {
+          "key": "48218|写在情歌的性感",
+          "startMs": 48218,
+          "text": "写在情歌的性感"
+        },
+        {
+          "key": "51372|还能凭什么",
+          "startMs": 51372,
+          "text": "还能凭什么"
+        },
+        {
+          "key": "54284|要是爱不可感动人",
+          "startMs": 54284,
+          "text": "要是爱不可感动人"
+        },
+        {
+          "key": "57545|俗套的歌词",
+          "startMs": 57545,
+          "text": "俗套的歌词"
+        },
+        {
+          "key": "60101|煽动你恻忍",
+          "startMs": 60101,
+          "text": "煽动你恻忍"
+        },
+        {
+          "key": "63605|谁人又相信",
+          "startMs": 63605,
+          "text": "谁人又相信"
+        },
+        {
+          "key": "66260|一世一生这肤浅对白",
+          "startMs": 66260,
+          "text": "一世一生这肤浅对白"
+        },
+        {
+          "key": "69961|来吧送给你",
+          "startMs": 69961,
+          "text": "来吧送给你"
+        },
+        {
+          "key": "72085|叫几百万人流泪过的歌",
+          "startMs": 72085,
+          "text": "叫几百万人流泪过的歌"
+        },
+        {
+          "key": "75641|如从未听过誓言",
+          "startMs": 75641,
+          "text": "如从未听过誓言"
+        },
+        {
+          "key": "78798|如幸福摩天轮",
+          "startMs": 78798,
+          "text": "如幸福摩天轮"
+        },
+        {
+          "key": "81351|才令我因你要呼天叫地",
+          "startMs": 81351,
+          "text": "才令我因你要呼天叫地"
+        },
+        {
+          "key": "85357|爱爱爱爱那么多",
+          "startMs": 85357,
+          "text": "爱爱爱爱那么多"
+        },
+        {
+          "key": "87198|将我漫天心血",
+          "startMs": 87198,
+          "text": "将我漫天心血"
+        },
+        {
+          "key": "91307|一一抛到银河",
+          "startMs": 91307,
+          "text": "一一抛到银河"
+        },
+        {
+          "key": "95212|谁是垃圾谁不舍",
+          "startMs": 95212,
+          "text": "谁是垃圾谁不舍"
+        },
+        {
+          "key": "98666|我难过分一丁目赠我",
+          "startMs": 98666,
+          "text": "我难过分一丁目赠我"
+        },
+        {
+          "key": "115309|我唱出心里话时眼泪会流",
+          "startMs": 115309,
+          "text": "我唱出心里话时眼泪会流"
+        },
+        {
+          "key": "121873|要是怕难过抱住我手",
+          "startMs": 121873,
+          "text": "要是怕难过抱住我手"
+        },
+        {
+          "key": "127282|我只得千语万言放在你心",
+          "startMs": 127282,
+          "text": "我只得千语万言放在你心"
+        },
+        {
+          "key": "133939|比渴望地老天荒",
+          "startMs": 133939,
+          "text": "比渴望地老天荒"
+        },
+        {
+          "key": "136692|更简单未算罕有",
+          "startMs": 136692,
+          "text": "更简单未算罕有"
+        },
+        {
+          "key": "139396|谁人又相信",
+          "startMs": 139396,
+          "text": "谁人又相信"
+        },
+        {
+          "key": "141950|一世一生这肤浅对白",
+          "startMs": 141950,
+          "text": "一世一生这肤浅对白"
+        },
+        {
+          "key": "145357|来吧送给你",
+          "startMs": 145357,
+          "text": "来吧送给你"
+        },
+        {
+          "key": "147810|叫几百万人流泪过的歌",
+          "startMs": 147810,
+          "text": "叫几百万人流泪过的歌"
+        },
+        {
+          "key": "151419|如从未听过誓言",
+          "startMs": 151419,
+          "text": "如从未听过誓言"
+        },
+        {
+          "key": "154572|如幸福摩天轮",
+          "startMs": 154572,
+          "text": "如幸福摩天轮"
+        },
+        {
+          "key": "157276|才令我因你要呼天叫地",
+          "startMs": 157276,
+          "text": "才令我因你要呼天叫地"
+        },
+        {
+          "key": "161285|爱爱爱爱那么多",
+          "startMs": 161285,
+          "text": "爱爱爱爱那么多"
+        },
+        {
+          "key": "163542|给你用力作二十首不舍不弃",
+          "startMs": 163542,
+          "text": "给你用力作二十首不舍不弃"
+        },
+        {
+          "key": "167002|还附送你爱得过火",
+          "startMs": 167002,
+          "text": "还附送你爱得过火"
+        },
+        {
+          "key": "169359|给你卖力唱",
+          "startMs": 169359,
+          "text": "给你卖力唱"
+        },
+        {
+          "key": "170960|二十首真心真意",
+          "startMs": 170960,
+          "text": "二十首真心真意"
+        },
+        {
+          "key": "173012|米高峰都因我动容",
+          "startMs": 173012,
+          "text": "米高峰都因我动容"
+        },
+        {
+          "key": "175720|无人及我",
+          "startMs": 175720,
+          "text": "无人及我"
+        },
+        {
+          "key": "177174|你怎么竟然说",
+          "startMs": 177174,
+          "text": "你怎么竟然说"
+        },
+        {
+          "key": "180534|k歌之王是我",
+          "startMs": 180534,
+          "text": "k歌之王是我"
+        },
+        {
+          "key": "187769|我只想跟你",
+          "startMs": 187769,
+          "text": "我只想跟你"
+        },
+        {
+          "key": "190121|未来浸在爱河",
+          "startMs": 190121,
+          "text": "未来浸在爱河"
+        },
+        {
+          "key": "194979|而你那呵欠绝得不能绝",
+          "startMs": 194979,
+          "text": "而你那呵欠绝得不能绝"
+        },
+        {
+          "key": "199534|绝到溶掉我",
+          "startMs": 199534,
+          "text": "绝到溶掉我"
+        }
+      ]
+    },
+    {
+      "rank": 833,
+      "songKey": "online:kugou:0a62227caab66f54d43ec084b4bdd81f",
+      "name": "稻香",
+      "artist": "周杰伦",
+      "lines": [
+        {
+          "key": "506|周杰伦 - 稻香",
+          "startMs": 506,
+          "text": "周杰伦 - 稻香"
+        },
+        {
+          "key": "1466|作词：周杰伦",
+          "startMs": 1466,
+          "text": "作词：周杰伦"
+        },
+        {
+          "key": "2379|作曲：周杰伦",
+          "startMs": 2379,
+          "text": "作曲：周杰伦"
+        },
+        {
+          "key": "3491|编曲：黄雨勋",
+          "startMs": 3491,
+          "text": "编曲：黄雨勋"
+        },
+        {
+          "key": "31088|对这个世界如果",
+          "startMs": 31088,
+          "text": "对这个世界如果"
+        },
+        {
+          "key": "32792|你有太多的抱怨 ",
+          "startMs": 32792,
+          "text": "你有太多的抱怨 "
+        },
+        {
+          "key": "34409|跌倒了就不敢继续往前走",
+          "startMs": 34409,
+          "text": "跌倒了就不敢继续往前走"
+        },
+        {
+          "key": "37345|为什么人要这么的脆弱",
+          "startMs": 37345,
+          "text": "为什么人要这么的脆弱"
+        },
+        {
+          "key": "39928|堕落",
+          "startMs": 39928,
+          "text": "堕落"
+        },
+        {
+          "key": "41548|请你打开电视看看 ",
+          "startMs": 41548,
+          "text": "请你打开电视看看 "
+        },
+        {
+          "key": "43166|多少人为生命在努力",
+          "startMs": 43166,
+          "text": "多少人为生命在努力"
+        },
+        {
+          "key": "45444|勇敢的走下去",
+          "startMs": 45444,
+          "text": "勇敢的走下去"
+        },
+        {
+          "key": "47265|我们是不是该知足",
+          "startMs": 47265,
+          "text": "我们是不是该知足"
+        },
+        {
+          "key": "49746|珍惜一切",
+          "startMs": 49746,
+          "text": "珍惜一切"
+        },
+        {
+          "key": "50752|就算没有拥有",
+          "startMs": 50752,
+          "text": "就算没有拥有"
+        },
+        {
+          "key": "54196|还记得你说家是唯一的城堡 ",
+          "startMs": 54196,
+          "text": "还记得你说家是唯一的城堡 "
+        },
+        {
+          "key": "57787|随着稻香河流继续奔跑",
+          "startMs": 57787,
+          "text": "随着稻香河流继续奔跑"
+        },
+        {
+          "key": "60771|微微笑小时候的梦我知道",
+          "startMs": 60771,
+          "text": "微微笑小时候的梦我知道"
+        },
+        {
+          "key": "65886|不要哭让萤火虫带着你逃跑 ",
+          "startMs": 65886,
+          "text": "不要哭让萤火虫带着你逃跑 "
+        },
+        {
+          "key": "69722|乡间的歌谣永远的依靠",
+          "startMs": 69722,
+          "text": "乡间的歌谣永远的依靠"
+        },
+        {
+          "key": "72457|回家吧回到最初的美好",
+          "startMs": 72457,
+          "text": "回家吧回到最初的美好"
+        },
+        {
+          "key": "101353|不要这么容易就想放弃",
+          "startMs": 101353,
+          "text": "不要这么容易就想放弃"
+        },
+        {
+          "key": "103481|就像我说的",
+          "startMs": 103481,
+          "text": "就像我说的"
+        },
+        {
+          "key": "104947|追不到的梦想",
+          "startMs": 104947,
+          "text": "追不到的梦想"
+        },
+        {
+          "key": "106060|换个梦不就得了",
+          "startMs": 106060,
+          "text": "换个梦不就得了"
+        },
+        {
+          "key": "107937|为自己的人生鲜艳上色 ",
+          "startMs": 107937,
+          "text": "为自己的人生鲜艳上色 "
+        },
+        {
+          "key": "109963|先把爱涂上喜欢的颜色",
+          "startMs": 109963,
+          "text": "先把爱涂上喜欢的颜色"
+        },
+        {
+          "key": "113085|笑一个吧功成名就不是目的",
+          "startMs": 113085,
+          "text": "笑一个吧功成名就不是目的"
+        },
+        {
+          "key": "115901|让自己快乐快乐",
+          "startMs": 115901,
+          "text": "让自己快乐快乐"
+        },
+        {
+          "key": "117112|这才叫做意义",
+          "startMs": 117112,
+          "text": "这才叫做意义"
+        },
+        {
+          "key": "118882|童年的纸飞机",
+          "startMs": 118882,
+          "text": "童年的纸飞机"
+        },
+        {
+          "key": "120248|现在终于飞回我手里",
+          "startMs": 120248,
+          "text": "现在终于飞回我手里"
+        },
+        {
+          "key": "124196|所谓的那快乐",
+          "startMs": 124196,
+          "text": "所谓的那快乐"
+        },
+        {
+          "key": "125916|赤脚在田里追蜻蜓追到累了",
+          "startMs": 125916,
+          "text": "赤脚在田里追蜻蜓追到累了"
+        },
+        {
+          "key": "128899|偷摘水果被蜜蜂给叮到怕了",
+          "startMs": 128899,
+          "text": "偷摘水果被蜜蜂给叮到怕了"
+        },
+        {
+          "key": "131986|谁在偷笑呢",
+          "startMs": 131986,
+          "text": "谁在偷笑呢"
+        },
+        {
+          "key": "133455|我靠着稻草人吹着风",
+          "startMs": 133455,
+          "text": "我靠着稻草人吹着风"
+        },
+        {
+          "key": "135426|唱着歌睡着了",
+          "startMs": 135426,
+          "text": "唱着歌睡着了"
+        },
+        {
+          "key": "137561|午后吉他在虫鸣中更清脆",
+          "startMs": 137561,
+          "text": "午后吉他在虫鸣中更清脆"
+        },
+        {
+          "key": "140444|阳光洒在路上就不怕心碎",
+          "startMs": 140444,
+          "text": "阳光洒在路上就不怕心碎"
+        },
+        {
+          "key": "143379|珍惜一切就算没有拥有",
+          "startMs": 143379,
+          "text": "珍惜一切就算没有拥有"
+        },
+        {
+          "key": "148033|还记得你说家是唯一的城堡 ",
+          "startMs": 148033,
+          "text": "还记得你说家是唯一的城堡 "
+        },
+        {
+          "key": "151521|随着稻香河流继续奔跑",
+          "startMs": 151521,
+          "text": "随着稻香河流继续奔跑"
+        },
+        {
+          "key": "154410|微微笑小时候的梦我知道",
+          "startMs": 154410,
+          "text": "微微笑小时候的梦我知道"
+        },
+        {
+          "key": "159527|不要哭让萤火虫带着你逃跑 ",
+          "startMs": 159527,
+          "text": "不要哭让萤火虫带着你逃跑 "
+        },
+        {
+          "key": "163225|乡间的歌谣永远的依靠",
+          "startMs": 163225,
+          "text": "乡间的歌谣永远的依靠"
+        },
+        {
+          "key": "166163|回家吧回到最初的美好",
+          "startMs": 166163,
+          "text": "回家吧回到最初的美好"
+        },
+        {
+          "key": "171283|还记得你说家是唯一的城堡 ",
+          "startMs": 171283,
+          "text": "还记得你说家是唯一的城堡 "
+        },
+        {
+          "key": "174925|随着稻香河流继续奔跑",
+          "startMs": 174925,
+          "text": "随着稻香河流继续奔跑"
+        },
+        {
+          "key": "177811|微微笑小时候的梦我知道",
+          "startMs": 177811,
+          "text": "微微笑小时候的梦我知道"
+        },
+        {
+          "key": "182879|不要哭让萤火虫带着你逃跑 ",
+          "startMs": 182879,
+          "text": "不要哭让萤火虫带着你逃跑 "
+        },
+        {
+          "key": "186733|乡间的歌谣永远的依靠",
+          "startMs": 186733,
+          "text": "乡间的歌谣永远的依靠"
+        },
+        {
+          "key": "189566|回家吧回到最初的美好",
+          "startMs": 189566,
+          "text": "回家吧回到最初的美好"
+        }
+      ]
+    },
+    {
+      "rank": 834,
+      "songKey": "online:kugou:cc729162c688100f9926ab0cf963da34",
+      "name": "Glow",
+      "artist": "千坂",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 835,
+      "songKey": "online:kugou:453c33d381cf6c2431a0fcb5ee861b04",
+      "name": "Fantasy World (梦幻的世界)",
+      "artist": "千坂",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

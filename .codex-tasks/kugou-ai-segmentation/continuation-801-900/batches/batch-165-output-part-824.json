@@ -1,0 +1,646 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:2901d578b074fd5bdd63d8c52a0d2226",
+      "lines": [
+        {
+          "key": "213|Era - The Mass",
+          "text": "Era - The Mass",
+          "segments": [
+            "Era",
+            " - ",
+            "The Mass"
+          ]
+        },
+        {
+          "key": "3449|Lyrics by：Cassar Yvan Eric(AR)、Levisalles Eric J.、Orff Carl",
+          "text": "Lyrics by：Cassar Yvan Eric(AR)、Levisalles Eric J.、Orff Carl",
+          "segments": [
+            "Lyrics by：",
+            "Cassar Yvan Eric(AR)、",
+            "Levisalles Eric J.、",
+            "Orff Carl"
+          ]
+        },
+        {
+          "key": "4246|Composed by：Yvan Eric Cassar、Eric J. Levisalles、Carl Orff",
+          "text": "Composed by：Yvan Eric Cassar、Eric J. Levisalles、Carl Orff",
+          "segments": [
+            "Composed by：",
+            "Yvan Eric Cassar、",
+            "Eric J. Levisalles、",
+            "Carl Orff"
+          ]
+        },
+        {
+          "key": "10355|Semper crescis",
+          "text": "Semper crescis",
+          "segments": [
+            "Semper ",
+            "crescis"
+          ]
+        },
+        {
+          "key": "12618|Aut decrescis",
+          "text": "Aut decrescis",
+          "segments": [
+            "Aut ",
+            "decrescis"
+          ]
+        },
+        {
+          "key": "14796|Vita detestabilis",
+          "text": "Vita detestabilis",
+          "segments": [
+            "Vita ",
+            "detestabilis"
+          ]
+        },
+        {
+          "key": "18118|Nunc obdurat",
+          "text": "Nunc obdurat",
+          "segments": [
+            "Nunc ",
+            "obdurat"
+          ]
+        },
+        {
+          "key": "20278|Et tunc curat",
+          "text": "Et tunc curat",
+          "segments": [
+            "Et ",
+            "tunc ",
+            "curat"
+          ]
+        },
+        {
+          "key": "22480|Ludo mentis aciem",
+          "text": "Ludo mentis aciem",
+          "segments": [
+            "Ludo ",
+            "mentis ",
+            "aciem"
+          ]
+        },
+        {
+          "key": "33555|Nunc obdurat",
+          "text": "Nunc obdurat",
+          "segments": [
+            "Nunc ",
+            "obdurat"
+          ]
+        },
+        {
+          "key": "35611|Et tunc curat",
+          "text": "Et tunc curat",
+          "segments": [
+            "Et ",
+            "tunc ",
+            "curat"
+          ]
+        },
+        {
+          "key": "37811|Ludo mentis aciem",
+          "text": "Ludo mentis aciem",
+          "segments": [
+            "Ludo ",
+            "mentis ",
+            "aciem"
+          ]
+        },
+        {
+          "key": "41049|Egestatem",
+          "text": "Egestatem",
+          "segments": [
+            "Egestatem"
+          ]
+        },
+        {
+          "key": "43209|Potestatem",
+          "text": "Potestatem",
+          "segments": [
+            "Potestatem"
+          ]
+        },
+        {
+          "key": "45505|Dissolvit ut glaciem",
+          "text": "Dissolvit ut glaciem",
+          "segments": [
+            "Dissolvit ",
+            "ut ",
+            "glaciem"
+          ]
+        },
+        {
+          "key": "50061|Divano",
+          "text": "Divano",
+          "segments": [
+            "Divano"
+          ]
+        },
+        {
+          "key": "51958|Divano me",
+          "text": "Divano me",
+          "segments": [
+            "Divano ",
+            "me"
+          ]
+        },
+        {
+          "key": "54105|Divano messi",
+          "text": "Divano messi",
+          "segments": [
+            "Divano ",
+            "messi"
+          ]
+        },
+        {
+          "key": "56300|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "59669|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "63180|Divano",
+          "text": "Divano",
+          "segments": [
+            "Divano"
+          ]
+        },
+        {
+          "key": "65111|Divano me",
+          "text": "Divano me",
+          "segments": [
+            "Divano ",
+            "me"
+          ]
+        },
+        {
+          "key": "67287|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "69487|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "81412|Sors salutis",
+          "text": "Sors salutis",
+          "segments": [
+            "Sors ",
+            "salutis"
+          ]
+        },
+        {
+          "key": "83668|Et virtutis",
+          "text": "Et virtutis",
+          "segments": [
+            "Et ",
+            "virtutis"
+          ]
+        },
+        {
+          "key": "85868|Michi nunc contraria",
+          "text": "Michi nunc contraria",
+          "segments": [
+            "Michi ",
+            "nunc ",
+            "contraria"
+          ]
+        },
+        {
+          "key": "89170|Est affectus",
+          "text": "Est affectus",
+          "segments": [
+            "Est ",
+            "affectus"
+          ]
+        },
+        {
+          "key": "91298|Et defectus",
+          "text": "Et defectus",
+          "segments": [
+            "Et ",
+            "defectus"
+          ]
+        },
+        {
+          "key": "93490|Semper in angaria",
+          "text": "Semper in angaria",
+          "segments": [
+            "Semper ",
+            "in ",
+            "angaria"
+          ]
+        },
+        {
+          "key": "96795|Hac in hora",
+          "text": "Hac in hora",
+          "segments": [
+            "Hac ",
+            "in ",
+            "hora"
+          ]
+        },
+        {
+          "key": "98939|Sine mora",
+          "text": "Sine mora",
+          "segments": [
+            "Sine ",
+            "mora"
+          ]
+        },
+        {
+          "key": "101203|Corde pulsum tangite",
+          "text": "Corde pulsum tangite",
+          "segments": [
+            "Corde ",
+            "pulsum ",
+            "tangite"
+          ]
+        },
+        {
+          "key": "105812|Divano",
+          "text": "Divano",
+          "segments": [
+            "Divano"
+          ]
+        },
+        {
+          "key": "107772|Divano me",
+          "text": "Divano me",
+          "segments": [
+            "Divano ",
+            "me"
+          ]
+        },
+        {
+          "key": "109948|Divano messi",
+          "text": "Divano messi",
+          "segments": [
+            "Divano ",
+            "messi"
+          ]
+        },
+        {
+          "key": "112140|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "115428|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "118972|Divano",
+          "text": "Divano",
+          "segments": [
+            "Divano"
+          ]
+        },
+        {
+          "key": "120858|Divano me",
+          "text": "Divano me",
+          "segments": [
+            "Divano ",
+            "me"
+          ]
+        },
+        {
+          "key": "123066|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "125266|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "126970|Messia",
+          "text": "Messia",
+          "segments": [
+            "Messia"
+          ]
+        },
+        {
+          "key": "128053|Messia",
+          "text": "Messia",
+          "segments": [
+            "Messia"
+          ]
+        },
+        {
+          "key": "129170|Messia",
+          "text": "Messia",
+          "segments": [
+            "Messia"
+          ]
+        },
+        {
+          "key": "130291|Messia",
+          "text": "Messia",
+          "segments": [
+            "Messia"
+          ]
+        },
+        {
+          "key": "132076|Divano",
+          "text": "Divano",
+          "segments": [
+            "Divano"
+          ]
+        },
+        {
+          "key": "133980|Divano me",
+          "text": "Divano me",
+          "segments": [
+            "Divano ",
+            "me"
+          ]
+        },
+        {
+          "key": "136132|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "138382|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "140134|Messia",
+          "text": "Messia",
+          "segments": [
+            "Messia"
+          ]
+        },
+        {
+          "key": "141207|Messia",
+          "text": "Messia",
+          "segments": [
+            "Messia"
+          ]
+        },
+        {
+          "key": "142326|Messia",
+          "text": "Messia",
+          "segments": [
+            "Messia"
+          ]
+        },
+        {
+          "key": "143422|Messia",
+          "text": "Messia",
+          "segments": [
+            "Messia"
+          ]
+        },
+        {
+          "key": "144668|In divano",
+          "text": "In divano",
+          "segments": [
+            "In ",
+            "divano"
+          ]
+        },
+        {
+          "key": "151404|Sors salutis",
+          "text": "Sors salutis",
+          "segments": [
+            "Sors ",
+            "salutis"
+          ]
+        },
+        {
+          "key": "153582|Et virtutis",
+          "text": "Et virtutis",
+          "segments": [
+            "Et ",
+            "virtutis"
+          ]
+        },
+        {
+          "key": "155852|Michi nunc contraria",
+          "text": "Michi nunc contraria",
+          "segments": [
+            "Michi ",
+            "nunc ",
+            "contraria"
+          ]
+        },
+        {
+          "key": "159124|Est affectus",
+          "text": "Est affectus",
+          "segments": [
+            "Est ",
+            "affectus"
+          ]
+        },
+        {
+          "key": "161244|Et defectus",
+          "text": "Et defectus",
+          "segments": [
+            "Et ",
+            "defectus"
+          ]
+        },
+        {
+          "key": "163426|Semper in angaria",
+          "text": "Semper in angaria",
+          "segments": [
+            "Semper ",
+            "in ",
+            "angaria"
+          ]
+        },
+        {
+          "key": "166761|Hac in hora",
+          "text": "Hac in hora",
+          "segments": [
+            "Hac ",
+            "in ",
+            "hora"
+          ]
+        },
+        {
+          "key": "168832|Sine mora",
+          "text": "Sine mora",
+          "segments": [
+            "Sine ",
+            "mora"
+          ]
+        },
+        {
+          "key": "171143|Corde pulsum tangite",
+          "text": "Corde pulsum tangite",
+          "segments": [
+            "Corde ",
+            "pulsum ",
+            "tangite"
+          ]
+        },
+        {
+          "key": "175743|Divano",
+          "text": "Divano",
+          "segments": [
+            "Divano"
+          ]
+        },
+        {
+          "key": "177680|Divano me",
+          "text": "Divano me",
+          "segments": [
+            "Divano ",
+            "me"
+          ]
+        },
+        {
+          "key": "179863|Divano messi",
+          "text": "Divano messi",
+          "segments": [
+            "Divano ",
+            "messi"
+          ]
+        },
+        {
+          "key": "182023|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "185359|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "188887|Divano",
+          "text": "Divano",
+          "segments": [
+            "Divano"
+          ]
+        },
+        {
+          "key": "190831|Divano me",
+          "text": "Divano me",
+          "segments": [
+            "Divano ",
+            "me"
+          ]
+        },
+        {
+          "key": "192983|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "195223|Divano messia",
+          "text": "Divano messia",
+          "segments": [
+            "Divano ",
+            "messia"
+          ]
+        },
+        {
+          "key": "199663|Hac in hora",
+          "text": "Hac in hora",
+          "segments": [
+            "Hac ",
+            "in ",
+            "hora"
+          ]
+        },
+        {
+          "key": "201712|Sine mora",
+          "text": "Sine mora",
+          "segments": [
+            "Sine ",
+            "mora"
+          ]
+        },
+        {
+          "key": "203927|Corde pulsum tangite",
+          "text": "Corde pulsum tangite",
+          "segments": [
+            "Corde ",
+            "pulsum ",
+            "tangite"
+          ]
+        },
+        {
+          "key": "207241|Quod per sortem",
+          "text": "Quod per sortem",
+          "segments": [
+            "Quod ",
+            "per ",
+            "sortem"
+          ]
+        },
+        {
+          "key": "209425|Sternit fortem",
+          "text": "Sternit fortem",
+          "segments": [
+            "Sternit ",
+            "fortem"
+          ]
+        },
+        {
+          "key": "211596|Mecum omnes plangite",
+          "text": "Mecum omnes plangite",
+          "segments": [
+            "Mecum ",
+            "omnes ",
+            "plangite"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:d641a15f4db9a5fea4fcbc705b3ada12",
+      "lines": [
+        {
+          "key": "0|Fall Out Boy - Immortals (End Credit Version)",
+          "text": "Fall Out Boy - Immortals (End Credit Version)",
+          "segments": [
+            "Fall Out Boy",
+            " - ",
+            "Immortals (End Credit Version)"
+          ]
+        },
+        {
+          "key": "200|Written by：Patrick Stump/Pete Wentz/Joe Trohman/Andy Hurley",
+          "text": "Written by：Patrick Stump/Pete Wentz/Joe Trohman/Andy Hurley",
+          "segments": [
+            "Written by：",
+            "Patrick Stump/",
+            "Pete Wentz/",
+            "Joe Trohman/",
+            "Andy Hurley"
+          ]
+        },
+        {
+          "key": "10091|They say we are what we are",
+          "text": "They say we are what we are",
+          "segments": [
+            "They ",
+            "say ",
+            "we ",
+            "are ",
+            "what ",
+            "we ",
+            "are"
+          ]
+        },
+        {
+          "key": "12041|But we don't have to be",
+          "text": "But we don't have to be",
+          "segments": [
+            "But ",
+            "we ",
+            "don't ",
+            "have ",
+            "to ",
+            "be"
+          ]
+        },
+        {
+          "key": "14271|I'm bad behavior",
+          "text": "I'm bad behavior",
+          "segments": [
+            "I'm ",
+            "bad ",
+            "behavior"
+          ]
+        },
+        {
+          "key": "15910|But I do it in the best way",
+          "text": "But I do it in the best way",
+          "segments": [
+            "But ",
+            "I ",
+            "do ",
+            "it ",
+            "in ",
+            "the ",
+            "best ",
+            "way"
+          ]
+        },
+        {
+          "key": "18740|I'll be the watcher watcher",
+          "text": "I'll be the watcher watcher",
+          "segments": [
+            "I'll ",
+            "be ",
+            "the ",
+            "watcher ",
+            "watcher"
+          ]
+        },
+        {
+          "key": "21280|Of the eternal flame",
+          "text": "Of the eternal flame",
+          "segments": [
+            "Of ",
+            "the ",
+            "eternal ",
+            "flame"
+          ]
+        },
+        {
+          "key": "23200|I'll be the guard dog",
+          "text": "I'll be the guard dog",
+          "segments": [
+            "I'll ",
+            "be ",
+            "the ",
+            "guard ",
+            "dog"
+          ]
+        },
+        {
+          "key": "25390|Of all your fever dreams",
+          "text": "Of all your fever dreams",
+          "segments": [
+            "Of ",
+            "all ",
+            "your ",
+            "fever ",
+            "dreams"
+          ]
+        },
+        {
+          "key": "27460|Oooooooh",
+          "text": "Oooooooh",
+          "segments": [
+            "Oooooooh"
+          ]
+        },
+        {
+          "key": "31160|I am the sand in the bottom half",
+          "text": "I am the sand in the bottom half",
+          "segments": [
+            "I ",
+            "am ",
+            "the ",
+            "sand ",
+            "in ",
+            "the ",
+            "bottom ",
+            "half"
+          ]
+        },
+        {
+          "key": "33520|Of the hourglass glass glass",
+          "text": "Of the hourglass glass glass",
+          "segments": [
+            "Of ",
+            "the ",
+            "hourglass ",
+            "glass ",
+            "glass"
+          ]
+        },
+        {
+          "key": "36590|Oooooooh",
+          "text": "Oooooooh",
+          "segments": [
+            "Oooooooh"
+          ]
+        },
+        {
+          "key": "39830|I try to picture me",
+          "text": "I try to picture me",
+          "segments": [
+            "I ",
+            "try ",
+            "to ",
+            "picture ",
+            "me"
+          ]
+        },
+        {
+          "key": "41570|Without you but I can't",
+          "text": "Without you but I can't",
+          "segments": [
+            "Without ",
+            "you ",
+            "but ",
+            "I ",
+            "can't"
+          ]
+        },
+        {
+          "key": "43880|'Cause we could be immortals immortals",
+          "text": "'Cause we could be immortals immortals",
+          "segments": [
+            "'Cause ",
+            "we ",
+            "could ",
+            "be ",
+            "immortals ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "48880|Just not for long for long",
+          "text": "Just not for long for long",
+          "segments": [
+            "Just ",
+            "not ",
+            "for ",
+            "long ",
+            "for ",
+            "long"
+          ]
+        },
+        {
+          "key": "52449|And live with me forever now",
+          "text": "And live with me forever now",
+          "segments": [
+            "And ",
+            "live ",
+            "with ",
+            "me ",
+            "forever ",
+            "now"
+          ]
+        },
+        {
+          "key": "54709|Pull the blackout curtains down",
+          "text": "Pull the blackout curtains down",
+          "segments": [
+            "Pull ",
+            "the ",
+            "blackout ",
+            "curtains ",
+            "down"
+          ]
+        },
+        {
+          "key": "57729|Just not for long for long",
+          "text": "Just not for long for long",
+          "segments": [
+            "Just ",
+            "not ",
+            "for ",
+            "long ",
+            "for ",
+            "long"
+          ]
+        },
+        {
+          "key": "62129|Because we could be",
+          "text": "Because we could be",
+          "segments": [
+            "Because ",
+            "we ",
+            "could ",
+            "be"
+          ]
+        },
+        {
+          "key": "62859|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "67239|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "71639|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "76239|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "85843|Sometimes the only pay off",
+          "text": "Sometimes the only pay off",
+          "segments": [
+            "Sometimes ",
+            "the ",
+            "only ",
+            "pay ",
+            "off"
+          ]
+        },
+        {
+          "key": "87773|For having any faith",
+          "text": "For having any faith",
+          "segments": [
+            "For ",
+            "having ",
+            "any ",
+            "faith"
+          ]
+        },
+        {
+          "key": "89773|Is when it's tested again and again",
+          "text": "Is when it's tested again and again",
+          "segments": [
+            "Is ",
+            "when ",
+            "it's ",
+            "tested ",
+            "again ",
+            "and ",
+            "again"
+          ]
+        },
+        {
+          "key": "93023|Everyday",
+          "text": "Everyday",
+          "segments": [
+            "Everyday"
+          ]
+        },
+        {
+          "key": "94253|I'm still comparing your past",
+          "text": "I'm still comparing your past",
+          "segments": [
+            "I'm ",
+            "still ",
+            "comparing ",
+            "your ",
+            "past"
+          ]
+        },
+        {
+          "key": "96453|To my future",
+          "text": "To my future",
+          "segments": [
+            "To ",
+            "my ",
+            "future"
+          ]
+        },
+        {
+          "key": "98633|It might be your wound",
+          "text": "It might be your wound",
+          "segments": [
+            "It ",
+            "might ",
+            "be ",
+            "your ",
+            "wound"
+          ]
+        },
+        {
+          "key": "100583|But they're my sutures",
+          "text": "But they're my sutures",
+          "segments": [
+            "But ",
+            "they're ",
+            "my ",
+            "sutures"
+          ]
+        },
+        {
+          "key": "102923|Oooooooh",
+          "text": "Oooooooh",
+          "segments": [
+            "Oooooooh"
+          ]
+        },
+        {
+          "key": "106553|I am the sand in the bottom half",
+          "text": "I am the sand in the bottom half",
+          "segments": [
+            "I ",
+            "am ",
+            "the ",
+            "sand ",
+            "in ",
+            "the ",
+            "bottom ",
+            "half"
+          ]
+        },
+        {
+          "key": "109063|Of the hourglass glass glass",
+          "text": "Of the hourglass glass glass",
+          "segments": [
+            "Of ",
+            "the ",
+            "hourglass ",
+            "glass ",
+            "glass"
+          ]
+        },
+        {
+          "key": "112003|Oooooooh",
+          "text": "Oooooooh",
+          "segments": [
+            "Oooooooh"
+          ]
+        },
+        {
+          "key": "115393|I try to picture me without you but I can't",
+          "text": "I try to picture me without you but I can't",
+          "segments": [
+            "I ",
+            "try ",
+            "to ",
+            "picture ",
+            "me ",
+            "without ",
+            "you ",
+            "but ",
+            "I ",
+            "can't"
+          ]
+        },
+        {
+          "key": "119473|'Cause we could be immortals immortals",
+          "text": "'Cause we could be immortals immortals",
+          "segments": [
+            "'Cause ",
+            "we ",
+            "could ",
+            "be ",
+            "immortals ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "124413|Just not for long for long",
+          "text": "Just not for long for long",
+          "segments": [
+            "Just ",
+            "not ",
+            "for ",
+            "long ",
+            "for ",
+            "long"
+          ]
+        },
+        {
+          "key": "127913|And live with me forever now",
+          "text": "And live with me forever now",
+          "segments": [
+            "And ",
+            "live ",
+            "with ",
+            "me ",
+            "forever ",
+            "now"
+          ]
+        },
+        {
+          "key": "130333|Pull the blackout curtains down",
+          "text": "Pull the blackout curtains down",
+          "segments": [
+            "Pull ",
+            "the ",
+            "blackout ",
+            "curtains ",
+            "down"
+          ]
+        },
+        {
+          "key": "133073|Just not for long for long",
+          "text": "Just not for long for long",
+          "segments": [
+            "Just ",
+            "not ",
+            "for ",
+            "long ",
+            "for ",
+            "long"
+          ]
+        },
+        {
+          "key": "137353|Because we could be",
+          "text": "Because we could be",
+          "segments": [
+            "Because ",
+            "we ",
+            "could ",
+            "be"
+          ]
+        },
+        {
+          "key": "138133|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "142633|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "148583|Immortals",
+          "text": "Immortals",
+          "segments": [
+            "Immortals"
+          ]
+        },
+        {
+          "key": "150113|And live with me forever now",
+          "text": "And live with me forever now",
+          "segments": [
+            "And ",
+            "live ",
+            "with ",
+            "me ",
+            "forever ",
+            "now"
+          ]
+        },
+        {
+          "key": "154552|Pull the blackout curtains down",
+          "text": "Pull the blackout curtains down",
+          "segments": [
+            "Pull ",
+            "the ",
+            "blackout ",
+            "curtains ",
+            "down"
+          ]
+        },
+        {
+          "key": "159761|Because we could be",
+          "text": "Because we could be",
+          "segments": [
+            "Because ",
+            "we ",
+            "could ",
+            "be"
+          ]
+        },
+        {
+          "key": "160861|Immortals immortals",
+          "text": "Immortals immortals",
+          "segments": [
+            "Immortals ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "164470|Just not for long for long",
+          "text": "Just not for long for long",
+          "segments": [
+            "Just ",
+            "not ",
+            "for ",
+            "long ",
+            "for ",
+            "long"
+          ]
+        },
+        {
+          "key": "168310|We could be",
+          "text": "We could be",
+          "segments": [
+            "We ",
+            "could ",
+            "be"
+          ]
+        },
+        {
+          "key": "169170|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "173900|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "178320|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "182650|Immooooooo immortals",
+          "text": "Immooooooo immortals",
+          "segments": [
+            "Immooooooo ",
+            "immortals"
+          ]
+        },
+        {
+          "key": "188530|ImmorTals",
+          "text": "ImmorTals",
+          "segments": [
+            "ImmorTals"
+          ]
+        }
+      ]
+    }
+  ]
+}

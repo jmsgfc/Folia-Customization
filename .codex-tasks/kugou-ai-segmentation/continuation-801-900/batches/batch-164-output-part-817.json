@@ -1,0 +1,555 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:f4342c5d0c3bc132a2791fac0c4b6b7f",
+      "lines": [
+        {
+          "key": "44|Calvin Harris、Ellie Goulding - Outside",
+          "text": "Calvin Harris、Ellie Goulding - Outside",
+          "segments": [
+            "Calvin Harris、",
+            "Ellie Goulding",
+            " - ",
+            "Outside"
+          ]
+        },
+        {
+          "key": "3320|Lyrics by：Calvin Harris",
+          "text": "Lyrics by：Calvin Harris",
+          "segments": [
+            "Lyrics by：",
+            "Calvin Harris"
+          ]
+        },
+        {
+          "key": "6650|Composed by：Calvin Harris",
+          "text": "Composed by：Calvin Harris",
+          "segments": [
+            "Composed by：",
+            "Calvin Harris"
+          ]
+        },
+        {
+          "key": "9984|Look at what you've done",
+          "text": "Look at what you've done",
+          "segments": [
+            "Look ",
+            "at ",
+            "what ",
+            "you've ",
+            "done"
+          ]
+        },
+        {
+          "key": "13695|Stand still falling away from me",
+          "text": "Stand still falling away from me",
+          "segments": [
+            "Stand ",
+            "still ",
+            "falling ",
+            "away ",
+            "from ",
+            "me"
+          ]
+        },
+        {
+          "key": "17480|When it takes so long",
+          "text": "When it takes so long",
+          "segments": [
+            "When ",
+            "it ",
+            "takes ",
+            "so ",
+            "long"
+          ]
+        },
+        {
+          "key": "21179|Fire's out what do you want to be",
+          "text": "Fire's out what do you want to be",
+          "segments": [
+            "Fire's ",
+            "out ",
+            "what ",
+            "do ",
+            "you ",
+            "want ",
+            "to ",
+            "be"
+          ]
+        },
+        {
+          "key": "24959|Now I'm holding on",
+          "text": "Now I'm holding on",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "holding ",
+            "on"
+          ]
+        },
+        {
+          "key": "28714|Myself was never enough for me",
+          "text": "Myself was never enough for me",
+          "segments": [
+            "Myself ",
+            "was ",
+            "never ",
+            "enough ",
+            "for ",
+            "me"
+          ]
+        },
+        {
+          "key": "32460|Gotta be so strong",
+          "text": "Gotta be so strong",
+          "segments": [
+            "Gotta ",
+            "be ",
+            "so ",
+            "strong"
+          ]
+        },
+        {
+          "key": "35350|There's a power in what you do",
+          "text": "There's a power in what you do",
+          "segments": [
+            "There's ",
+            "a ",
+            "power ",
+            "in ",
+            "what ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "37368|Now every other day",
+          "text": "Now every other day",
+          "segments": [
+            "Now ",
+            "every ",
+            "other ",
+            "day"
+          ]
+        },
+        {
+          "key": "38255|I'll be watching you",
+          "text": "I'll be watching you",
+          "segments": [
+            "I'll ",
+            "be ",
+            "watching ",
+            "you"
+          ]
+        },
+        {
+          "key": "43035|I'll show you what it feels like",
+          "text": "I'll show you what it feels like",
+          "segments": [
+            "I'll ",
+            "show ",
+            "you ",
+            "what ",
+            "it ",
+            "feels ",
+            "like"
+          ]
+        },
+        {
+          "key": "45100|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "50734|We did everything right",
+          "text": "We did everything right",
+          "segments": [
+            "We ",
+            "did ",
+            "everything ",
+            "right"
+          ]
+        },
+        {
+          "key": "52645|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "58028|I'll show you what it feels like",
+          "text": "I'll show you what it feels like",
+          "segments": [
+            "I'll ",
+            "show ",
+            "you ",
+            "what ",
+            "it ",
+            "feels ",
+            "like"
+          ]
+        },
+        {
+          "key": "60133|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "65716|We did everything right",
+          "text": "We did everything right",
+          "segments": [
+            "We ",
+            "did ",
+            "everything ",
+            "right"
+          ]
+        },
+        {
+          "key": "67649|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "84970|So you give me no reason",
+          "text": "So you give me no reason",
+          "segments": [
+            "So ",
+            "you ",
+            "give ",
+            "me ",
+            "no ",
+            "reason"
+          ]
+        },
+        {
+          "key": "87977|For me to stay close to you",
+          "text": "For me to stay close to you",
+          "segments": [
+            "For ",
+            "me ",
+            "to ",
+            "stay ",
+            "close ",
+            "to ",
+            "you"
+          ]
+        },
+        {
+          "key": "90107|Tell me what lovers do",
+          "text": "Tell me what lovers do",
+          "segments": [
+            "Tell ",
+            "me ",
+            "what ",
+            "lovers ",
+            "do"
+          ]
+        },
+        {
+          "key": "92428|How are we still breathing",
+          "text": "How are we still breathing",
+          "segments": [
+            "How ",
+            "are ",
+            "we ",
+            "still ",
+            "breathing"
+          ]
+        },
+        {
+          "key": "95442|It's never for us to choose",
+          "text": "It's never for us to choose",
+          "segments": [
+            "It's ",
+            "never ",
+            "for ",
+            "us ",
+            "to ",
+            "choose"
+          ]
+        },
+        {
+          "key": "97578|I'll be the strength in you",
+          "text": "I'll be the strength in you",
+          "segments": [
+            "I'll ",
+            "be ",
+            "the ",
+            "strength ",
+            "in ",
+            "you"
+          ]
+        },
+        {
+          "key": "100011|Now I'm holding on",
+          "text": "Now I'm holding on",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "holding ",
+            "on"
+          ]
+        },
+        {
+          "key": "101838|I'm holding on",
+          "text": "I'm holding on",
+          "segments": [
+            "I'm ",
+            "holding ",
+            "on"
+          ]
+        },
+        {
+          "key": "103730|Myself was never enough for me",
+          "text": "Myself was never enough for me",
+          "segments": [
+            "Myself ",
+            "was ",
+            "never ",
+            "enough ",
+            "for ",
+            "me"
+          ]
+        },
+        {
+          "key": "107451|Gotta be so strong",
+          "text": "Gotta be so strong",
+          "segments": [
+            "Gotta ",
+            "be ",
+            "so ",
+            "strong"
+          ]
+        },
+        {
+          "key": "110276|There's a power in what you do",
+          "text": "There's a power in what you do",
+          "segments": [
+            "There's ",
+            "a ",
+            "power ",
+            "in ",
+            "what ",
+            "you ",
+            "do"
+          ]
+        },
+        {
+          "key": "112311|Now every other day",
+          "text": "Now every other day",
+          "segments": [
+            "Now ",
+            "every ",
+            "other ",
+            "day"
+          ]
+        },
+        {
+          "key": "113274|I'll be watching you",
+          "text": "I'll be watching you",
+          "segments": [
+            "I'll ",
+            "be ",
+            "watching ",
+            "you"
+          ]
+        },
+        {
+          "key": "117972|I'll show you what it feels like",
+          "text": "I'll show you what it feels like",
+          "segments": [
+            "I'll ",
+            "show ",
+            "you ",
+            "what ",
+            "it ",
+            "feels ",
+            "like"
+          ]
+        },
+        {
+          "key": "120108|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "125719|We did everything right",
+          "text": "We did everything right",
+          "segments": [
+            "We ",
+            "did ",
+            "everything ",
+            "right"
+          ]
+        },
+        {
+          "key": "127623|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "132997|I'll show you what it feels like",
+          "text": "I'll show you what it feels like",
+          "segments": [
+            "I'll ",
+            "show ",
+            "you ",
+            "what ",
+            "it ",
+            "feels ",
+            "like"
+          ]
+        },
+        {
+          "key": "135146|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "140703|We did everything right",
+          "text": "We did everything right",
+          "segments": [
+            "We ",
+            "did ",
+            "everything ",
+            "right"
+          ]
+        },
+        {
+          "key": "142603|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "163005|I'll show you what it feels like",
+          "text": "I'll show you what it feels like",
+          "segments": [
+            "I'll ",
+            "show ",
+            "you ",
+            "what ",
+            "it ",
+            "feels ",
+            "like"
+          ]
+        },
+        {
+          "key": "165121|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "170525|I'll show you what it feels like",
+          "text": "I'll show you what it feels like",
+          "segments": [
+            "I'll ",
+            "show ",
+            "you ",
+            "what ",
+            "it ",
+            "feels ",
+            "like"
+          ]
+        },
+        {
+          "key": "178010|I'll show you what it feels like",
+          "text": "I'll show you what it feels like",
+          "segments": [
+            "I'll ",
+            "show ",
+            "you ",
+            "what ",
+            "it ",
+            "feels ",
+            "like"
+          ]
+        },
+        {
+          "key": "180081|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        },
+        {
+          "key": "185713|We did everything right",
+          "text": "We did everything right",
+          "segments": [
+            "We ",
+            "did ",
+            "everything ",
+            "right"
+          ]
+        },
+        {
+          "key": "187586|Now I'm on the outside",
+          "text": "Now I'm on the outside",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "on ",
+            "the ",
+            "outside"
+          ]
+        }
+      ]
+    }
+  ]
+}

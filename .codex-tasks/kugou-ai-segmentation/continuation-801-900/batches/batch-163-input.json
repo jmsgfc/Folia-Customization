@@ -1,0 +1,1165 @@
+{
+  "batchNumber": 163,
+  "songs": [
+    {
+      "rank": 811,
+      "songKey": "online:kugou:cb7ee97f4cc11c4ea7a1fa4b516a5d97",
+      "name": "刚好遇见你",
+      "artist": "李玉刚",
+      "lines": [
+        {
+          "key": "0|李玉刚 - 刚好遇见你",
+          "startMs": 0,
+          "text": "李玉刚 - 刚好遇见你"
+        },
+        {
+          "key": "0|作词：高进",
+          "startMs": 0,
+          "text": "作词：高进"
+        },
+        {
+          "key": "2347|作曲：高进",
+          "startMs": 2347,
+          "text": "作曲：高进"
+        },
+        {
+          "key": "12600|我们哭了",
+          "startMs": 12600,
+          "text": "我们哭了"
+        },
+        {
+          "key": "15620|我们笑着",
+          "startMs": 15620,
+          "text": "我们笑着"
+        },
+        {
+          "key": "18680|我们抬头望天空",
+          "startMs": 18680,
+          "text": "我们抬头望天空"
+        },
+        {
+          "key": "21800|星星还亮着几颗",
+          "startMs": 21800,
+          "text": "星星还亮着几颗"
+        },
+        {
+          "key": "24810|我们唱着",
+          "startMs": 24810,
+          "text": "我们唱着"
+        },
+        {
+          "key": "27930|时间的歌",
+          "startMs": 27930,
+          "text": "时间的歌"
+        },
+        {
+          "key": "31030|才懂得相互拥抱",
+          "startMs": 31030,
+          "text": "才懂得相互拥抱"
+        },
+        {
+          "key": "34150|到底是为了什么",
+          "startMs": 34150,
+          "text": "到底是为了什么"
+        },
+        {
+          "key": "37240|因为我刚好遇见你",
+          "startMs": 37240,
+          "text": "因为我刚好遇见你"
+        },
+        {
+          "key": "40700|留下足迹才美丽",
+          "startMs": 40700,
+          "text": "留下足迹才美丽"
+        },
+        {
+          "key": "43780|风吹花落泪如雨",
+          "startMs": 43780,
+          "text": "风吹花落泪如雨"
+        },
+        {
+          "key": "47760|因为不想分离",
+          "startMs": 47760,
+          "text": "因为不想分离"
+        },
+        {
+          "key": "49930|因为刚好遇见你",
+          "startMs": 49930,
+          "text": "因为刚好遇见你"
+        },
+        {
+          "key": "53030|留下十年的期许",
+          "startMs": 53030,
+          "text": "留下十年的期许"
+        },
+        {
+          "key": "56170|如果再相遇",
+          "startMs": 56170,
+          "text": "如果再相遇"
+        },
+        {
+          "key": "59170|我想我会记得你",
+          "startMs": 59170,
+          "text": "我想我会记得你"
+        },
+        {
+          "key": "74870|我们哭了",
+          "startMs": 74870,
+          "text": "我们哭了"
+        },
+        {
+          "key": "77100|我们笑着",
+          "startMs": 77100,
+          "text": "我们笑着"
+        },
+        {
+          "key": "80110|我们抬头望天空",
+          "startMs": 80110,
+          "text": "我们抬头望天空"
+        },
+        {
+          "key": "83330|星星还亮着几颗",
+          "startMs": 83330,
+          "text": "星星还亮着几颗"
+        },
+        {
+          "key": "86370|我们唱着",
+          "startMs": 86370,
+          "text": "我们唱着"
+        },
+        {
+          "key": "89460|时间的歌",
+          "startMs": 89460,
+          "text": "时间的歌"
+        },
+        {
+          "key": "92590|才懂得相互拥抱",
+          "startMs": 92590,
+          "text": "才懂得相互拥抱"
+        },
+        {
+          "key": "95700|到底是为了什么",
+          "startMs": 95700,
+          "text": "到底是为了什么"
+        },
+        {
+          "key": "98780|因为我刚好遇见你",
+          "startMs": 98780,
+          "text": "因为我刚好遇见你"
+        },
+        {
+          "key": "102230|留下足迹才美丽",
+          "startMs": 102230,
+          "text": "留下足迹才美丽"
+        },
+        {
+          "key": "105280|风吹花落泪如雨",
+          "startMs": 105280,
+          "text": "风吹花落泪如雨"
+        },
+        {
+          "key": "108380|因为不想分离",
+          "startMs": 108380,
+          "text": "因为不想分离"
+        },
+        {
+          "key": "111440|因为刚好遇见你",
+          "startMs": 111440,
+          "text": "因为刚好遇见你"
+        },
+        {
+          "key": "114600|留下十年的期许",
+          "startMs": 114600,
+          "text": "留下十年的期许"
+        },
+        {
+          "key": "117760|如果再相遇",
+          "startMs": 117760,
+          "text": "如果再相遇"
+        },
+        {
+          "key": "120590|我想我会记得你",
+          "startMs": 120590,
+          "text": "我想我会记得你"
+        },
+        {
+          "key": "123740|因为刚好遇见你",
+          "startMs": 123740,
+          "text": "因为刚好遇见你"
+        },
+        {
+          "key": "126870|留下足迹才美丽",
+          "startMs": 126870,
+          "text": "留下足迹才美丽"
+        },
+        {
+          "key": "129919|风吹花落泪如雨",
+          "startMs": 129919,
+          "text": "风吹花落泪如雨"
+        },
+        {
+          "key": "132990|因为不想分离",
+          "startMs": 132990,
+          "text": "因为不想分离"
+        },
+        {
+          "key": "136060|因为刚好遇见你",
+          "startMs": 136060,
+          "text": "因为刚好遇见你"
+        },
+        {
+          "key": "139180|留下十年的期许",
+          "startMs": 139180,
+          "text": "留下十年的期许"
+        },
+        {
+          "key": "142260|如果再相遇",
+          "startMs": 142260,
+          "text": "如果再相遇"
+        },
+        {
+          "key": "145310|我想我会记得你",
+          "startMs": 145310,
+          "text": "我想我会记得你"
+        },
+        {
+          "key": "151080|因为我刚好遇见你",
+          "startMs": 151080,
+          "text": "因为我刚好遇见你"
+        },
+        {
+          "key": "154640|留下足迹才美丽",
+          "startMs": 154640,
+          "text": "留下足迹才美丽"
+        },
+        {
+          "key": "157620|风吹花落泪如雨",
+          "startMs": 157620,
+          "text": "风吹花落泪如雨"
+        },
+        {
+          "key": "160650|因为不想分离",
+          "startMs": 160650,
+          "text": "因为不想分离"
+        },
+        {
+          "key": "162940|因为刚好遇见你",
+          "startMs": 162940,
+          "text": "因为刚好遇见你"
+        },
+        {
+          "key": "167000|留下十年的期许",
+          "startMs": 167000,
+          "text": "留下十年的期许"
+        },
+        {
+          "key": "170020|如果再相遇",
+          "startMs": 170020,
+          "text": "如果再相遇"
+        },
+        {
+          "key": "173000|我想我会记得你",
+          "startMs": 173000,
+          "text": "我想我会记得你"
+        }
+      ]
+    },
+    {
+      "rank": 812,
+      "songKey": "online:kugou:f3a8c10ab898cf77c0fa08832d0f9018",
+      "name": "你走以后",
+      "artist": "王恩信Est / 二胖u",
+      "lines": [
+        {
+          "key": "0|王恩信Est、二胖u - 你走以后",
+          "startMs": 0,
+          "text": "王恩信Est、二胖u - 你走以后"
+        },
+        {
+          "key": "526|作词：王恩信Est、二胖u",
+          "startMs": 526,
+          "text": "作词：王恩信Est、二胖u"
+        },
+        {
+          "key": "881|作曲：王恩信Est、二胖u",
+          "startMs": 881,
+          "text": "作曲：王恩信Est、二胖u"
+        },
+        {
+          "key": "1338|王恩信Est：",
+          "startMs": 1338,
+          "text": "王恩信Est："
+        },
+        {
+          "key": "15269|在每个失眠夜晚",
+          "startMs": 15269,
+          "text": "在每个失眠夜晚"
+        },
+        {
+          "key": "16331|都会不由自主想起你",
+          "startMs": 16331,
+          "text": "都会不由自主想起你"
+        },
+        {
+          "key": "17883|我还想再见你一面",
+          "startMs": 17883,
+          "text": "我还想再见你一面"
+        },
+        {
+          "key": "19107|可以再次抱你在怀里",
+          "startMs": 19107,
+          "text": "可以再次抱你在怀里"
+        },
+        {
+          "key": "20586|和我的每段回忆",
+          "startMs": 20586,
+          "text": "和我的每段回忆"
+        },
+        {
+          "key": "21850|都在心里怎么忘记",
+          "startMs": 21850,
+          "text": "都在心里怎么忘记"
+        },
+        {
+          "key": "23315|最难过的时候你都在身边",
+          "startMs": 23315,
+          "text": "最难过的时候你都在身边"
+        },
+        {
+          "key": "25255|劝我不要放弃",
+          "startMs": 25255,
+          "text": "劝我不要放弃"
+        },
+        {
+          "key": "26426|现在只有一个人",
+          "startMs": 26426,
+          "text": "现在只有一个人"
+        },
+        {
+          "key": "27700|躺在空荡的房间里",
+          "startMs": 27700,
+          "text": "躺在空荡的房间里"
+        },
+        {
+          "key": "29078|努力克制自己的身体",
+          "startMs": 29078,
+          "text": "努力克制自己的身体"
+        },
+        {
+          "key": "30559|尽量不去想起你",
+          "startMs": 30559,
+          "text": "尽量不去想起你"
+        },
+        {
+          "key": "32004|临走之前告诉我",
+          "startMs": 32004,
+          "text": "临走之前告诉我"
+        },
+        {
+          "key": "33127|别只会活在过去",
+          "startMs": 33127,
+          "text": "别只会活在过去"
+        },
+        {
+          "key": "34506|像个男人一样清楚自己",
+          "startMs": 34506,
+          "text": "像个男人一样清楚自己"
+        },
+        {
+          "key": "36142|要到达的目的地",
+          "startMs": 36142,
+          "text": "要到达的目的地"
+        },
+        {
+          "key": "37423|我记得你走那天",
+          "startMs": 37423,
+          "text": "我记得你走那天"
+        },
+        {
+          "key": "38645|下了一整天的雨",
+          "startMs": 38645,
+          "text": "下了一整天的雨"
+        },
+        {
+          "key": "39870|回到家中麻木清洗",
+          "startMs": 39870,
+          "text": "回到家中麻木清洗"
+        },
+        {
+          "key": "41300|被雨淋湿的身体",
+          "startMs": 41300,
+          "text": "被雨淋湿的身体"
+        },
+        {
+          "key": "42673|无能为力的感觉",
+          "startMs": 42673,
+          "text": "无能为力的感觉"
+        },
+        {
+          "key": "43945|像匕首插进在心里",
+          "startMs": 43945,
+          "text": "像匕首插进在心里"
+        },
+        {
+          "key": "45424|最后带上耳机播放",
+          "startMs": 45424,
+          "text": "最后带上耳机播放"
+        },
+        {
+          "key": "46908|曾为你写过的歌曲",
+          "startMs": 46908,
+          "text": "曾为你写过的歌曲"
+        },
+        {
+          "key": "48334|你过得还好吗",
+          "startMs": 48334,
+          "text": "你过得还好吗"
+        },
+        {
+          "key": "49325|我总想这样一系列的问题",
+          "startMs": 49325,
+          "text": "我总想这样一系列的问题"
+        },
+        {
+          "key": "51063|点上一根烟",
+          "startMs": 51063,
+          "text": "点上一根烟"
+        },
+        {
+          "key": "51840|和你有关的话题",
+          "startMs": 51840,
+          "text": "和你有关的话题"
+        },
+        {
+          "key": "52884|尽量不再提及",
+          "startMs": 52884,
+          "text": "尽量不再提及"
+        },
+        {
+          "key": "53852|从此独自一个人",
+          "startMs": 53852,
+          "text": "从此独自一个人"
+        },
+        {
+          "key": "55128|抗拒和你周围人再联系",
+          "startMs": 55128,
+          "text": "抗拒和你周围人再联系"
+        },
+        {
+          "key": "57017|漫无目的用酒精麻痹自己",
+          "startMs": 57017,
+          "text": "漫无目的用酒精麻痹自己"
+        },
+        {
+          "key": "59081|假装忘记",
+          "startMs": 59081,
+          "text": "假装忘记"
+        },
+        {
+          "key": "60020|二胖u：",
+          "startMs": 60020,
+          "text": "二胖u："
+        },
+        {
+          "key": "60113|如果季节更替",
+          "startMs": 60113,
+          "text": "如果季节更替"
+        },
+        {
+          "key": "62084|树叶落地银色满际",
+          "startMs": 62084,
+          "text": "树叶落地银色满际"
+        },
+        {
+          "key": "65701|没能走回原地",
+          "startMs": 65701,
+          "text": "没能走回原地"
+        },
+        {
+          "key": "67637|我再做个梦给你",
+          "startMs": 67637,
+          "text": "我再做个梦给你"
+        },
+        {
+          "key": "70946|梦见我们相遇",
+          "startMs": 70946,
+          "text": "梦见我们相遇"
+        },
+        {
+          "key": "73084|没有话题满眼笑意",
+          "startMs": 73084,
+          "text": "没有话题满眼笑意"
+        },
+        {
+          "key": "76546|真的再见到你",
+          "startMs": 76546,
+          "text": "真的再见到你"
+        },
+        {
+          "key": "78786|再次拥抱你在怀里",
+          "startMs": 78786,
+          "text": "再次拥抱你在怀里"
+        },
+        {
+          "key": "81940|王恩信Est：",
+          "startMs": 81940,
+          "text": "王恩信Est："
+        },
+        {
+          "key": "93502|不知道从什么时候开始",
+          "startMs": 93502,
+          "text": "不知道从什么时候开始"
+        },
+        {
+          "key": "94728|我们之间存在各种问题",
+          "startMs": 94728,
+          "text": "我们之间存在各种问题"
+        },
+        {
+          "key": "96156|不再打电话一起出门",
+          "startMs": 96156,
+          "text": "不再打电话一起出门"
+        },
+        {
+          "key": "97788|牵手你都在抗拒",
+          "startMs": 97788,
+          "text": "牵手你都在抗拒"
+        },
+        {
+          "key": "99065|从每天空闲都在聊天",
+          "startMs": 99065,
+          "text": "从每天空闲都在聊天"
+        },
+        {
+          "key": "100540|到现在的三言两语",
+          "startMs": 100540,
+          "text": "到现在的三言两语"
+        },
+        {
+          "key": "101817|从无话不谈到现在根本",
+          "startMs": 101817,
+          "text": "从无话不谈到现在根本"
+        },
+        {
+          "key": "103397|不知道从何说起",
+          "startMs": 103397,
+          "text": "不知道从何说起"
+        },
+        {
+          "key": "104487|我们都变得越来越暴躁",
+          "startMs": 104487,
+          "text": "我们都变得越来越暴躁"
+        },
+        {
+          "key": "106269|开始不停的争吵",
+          "startMs": 106269,
+          "text": "开始不停的争吵"
+        },
+        {
+          "key": "107337|寻找各种各样的借口",
+          "startMs": 107337,
+          "text": "寻找各种各样的借口"
+        },
+        {
+          "key": "108660|见面的次数越来越少",
+          "startMs": 108660,
+          "text": "见面的次数越来越少"
+        },
+        {
+          "key": "110141|从深夜送你回家",
+          "startMs": 110141,
+          "text": "从深夜送你回家"
+        },
+        {
+          "key": "111414|你不停的看这手表",
+          "startMs": 111414,
+          "text": "你不停的看这手表"
+        },
+        {
+          "key": "112688|变成现在的样子其实",
+          "startMs": 112688,
+          "text": "变成现在的样子其实"
+        },
+        {
+          "key": "113809|很早以前就有预兆",
+          "startMs": 113809,
+          "text": "很早以前就有预兆"
+        },
+        {
+          "key": "115442|我总是想你会不会开口",
+          "startMs": 115442,
+          "text": "我总是想你会不会开口"
+        },
+        {
+          "key": "117127|让这段关系停止",
+          "startMs": 117127,
+          "text": "让这段关系停止"
+        },
+        {
+          "key": "118249|是否我们的感情",
+          "startMs": 118249,
+          "text": "是否我们的感情"
+        },
+        {
+          "key": "119267|也会成为生命中的历史",
+          "startMs": 119267,
+          "text": "也会成为生命中的历史"
+        },
+        {
+          "key": "120952|如果有可能多想回到",
+          "startMs": 120952,
+          "text": "如果有可能多想回到"
+        },
+        {
+          "key": "122481|最初重新开始",
+          "startMs": 122481,
+          "text": "最初重新开始"
+        },
+        {
+          "key": "123767|让时间永远停留在",
+          "startMs": 123767,
+          "text": "让时间永远停留在"
+        },
+        {
+          "key": "125040|最好的那段时光静止",
+          "startMs": 125040,
+          "text": "最好的那段时光静止"
+        },
+        {
+          "key": "126795|好吧现在的我都开始习惯",
+          "startMs": 126795,
+          "text": "好吧现在的我都开始习惯"
+        },
+        {
+          "key": "128376|没有你的生活",
+          "startMs": 128376,
+          "text": "没有你的生活"
+        },
+        {
+          "key": "129597|哪怕偶尔再次想起",
+          "startMs": 129597,
+          "text": "哪怕偶尔再次想起"
+        },
+        {
+          "key": "130815|只当那段感情经过",
+          "startMs": 130815,
+          "text": "只当那段感情经过"
+        },
+        {
+          "key": "132395|不再打听你的消息",
+          "startMs": 132395,
+          "text": "不再打听你的消息"
+        },
+        {
+          "key": "133718|都是朋友嘴里听说",
+          "startMs": 133718,
+          "text": "都是朋友嘴里听说"
+        },
+        {
+          "key": "135192|就算听到你有新的开始",
+          "startMs": 135192,
+          "text": "就算听到你有新的开始"
+        },
+        {
+          "key": "136875|心里难免难过",
+          "startMs": 136875,
+          "text": "心里难免难过"
+        },
+        {
+          "key": "137743|二胖u：",
+          "startMs": 137743,
+          "text": "二胖u："
+        },
+        {
+          "key": "138306|如果季节更替",
+          "startMs": 138306,
+          "text": "如果季节更替"
+        },
+        {
+          "key": "140140|树叶落地银色满际",
+          "startMs": 140140,
+          "text": "树叶落地银色满际"
+        },
+        {
+          "key": "143335|没能走回原地",
+          "startMs": 143335,
+          "text": "没能走回原地"
+        },
+        {
+          "key": "145683|我再做个梦给你",
+          "startMs": 145683,
+          "text": "我再做个梦给你"
+        },
+        {
+          "key": "149041|梦见我们相遇",
+          "startMs": 149041,
+          "text": "梦见我们相遇"
+        },
+        {
+          "key": "151129|没有话题满眼笑意",
+          "startMs": 151129,
+          "text": "没有话题满眼笑意"
+        },
+        {
+          "key": "154491|真的再见到你",
+          "startMs": 154491,
+          "text": "真的再见到你"
+        },
+        {
+          "key": "156838|再次拥抱你在怀里",
+          "startMs": 156838,
+          "text": "再次拥抱你在怀里"
+        },
+        {
+          "key": "160096|王恩信Est：",
+          "startMs": 160096,
+          "text": "王恩信Est："
+        },
+        {
+          "key": "171715|直到现在都还保留着",
+          "startMs": 171715,
+          "text": "直到现在都还保留着"
+        },
+        {
+          "key": "173038|你留下的习惯",
+          "startMs": 173038,
+          "text": "你留下的习惯"
+        },
+        {
+          "key": "173891|每次和你一起出门",
+          "startMs": 173891,
+          "text": "每次和你一起出门"
+        },
+        {
+          "key": "175214|花费从来都不计算",
+          "startMs": 175214,
+          "text": "花费从来都不计算"
+        },
+        {
+          "key": "176795|送你所有贵的礼物",
+          "startMs": 176795,
+          "text": "送你所有贵的礼物"
+        },
+        {
+          "key": "178024|只要是你喜欢",
+          "startMs": 178024,
+          "text": "只要是你喜欢"
+        },
+        {
+          "key": "179502|不想让我们之间",
+          "startMs": 179502,
+          "text": "不想让我们之间"
+        },
+        {
+          "key": "180777|存在任何遗憾",
+          "startMs": 180777,
+          "text": "存在任何遗憾"
+        },
+        {
+          "key": "182405|你送我所有的东西",
+          "startMs": 182405,
+          "text": "你送我所有的东西"
+        },
+        {
+          "key": "183639|都放在了柜子下面",
+          "startMs": 183639,
+          "text": "都放在了柜子下面"
+        },
+        {
+          "key": "185166|包括过生日那年",
+          "startMs": 185166,
+          "text": "包括过生日那年"
+        },
+        {
+          "key": "186342|你亲手送我的那条项链",
+          "startMs": 186342,
+          "text": "你亲手送我的那条项链"
+        },
+        {
+          "key": "187959|无数次喝醉脑海",
+          "startMs": 187959,
+          "text": "无数次喝醉脑海"
+        },
+        {
+          "key": "189079|都是你离开的画面",
+          "startMs": 189079,
+          "text": "都是你离开的画面"
+        },
+        {
+          "key": "190712|既然都过去了",
+          "startMs": 190712,
+          "text": "既然都过去了"
+        },
+        {
+          "key": "191510|只能心里对你说声再见",
+          "startMs": 191510,
+          "text": "只能心里对你说声再见"
+        },
+        {
+          "key": "194682|Say goodbye",
+          "startMs": 194682,
+          "text": "Say goodbye"
+        },
+        {
+          "key": "195140|二胖u：",
+          "startMs": 195140,
+          "text": "二胖u："
+        },
+        {
+          "key": "196721|如果季节更替",
+          "startMs": 196721,
+          "text": "如果季节更替"
+        },
+        {
+          "key": "198756|树叶落地银色满际",
+          "startMs": 198756,
+          "text": "树叶落地银色满际"
+        },
+        {
+          "key": "202071|没能走回原地",
+          "startMs": 202071,
+          "text": "没能走回原地"
+        },
+        {
+          "key": "204260|我再做个梦给你",
+          "startMs": 204260,
+          "text": "我再做个梦给你"
+        },
+        {
+          "key": "207624|梦见我们相遇",
+          "startMs": 207624,
+          "text": "梦见我们相遇"
+        },
+        {
+          "key": "209713|没有话题满眼笑意",
+          "startMs": 209713,
+          "text": "没有话题满眼笑意"
+        },
+        {
+          "key": "213124|真的再见到你",
+          "startMs": 213124,
+          "text": "真的再见到你"
+        },
+        {
+          "key": "215465|再次拥抱你在怀里",
+          "startMs": 215465,
+          "text": "再次拥抱你在怀里"
+        }
+      ]
+    },
+    {
+      "rank": 813,
+      "songKey": "online:kugou:3772a69e18763e17cd58f96ae0dc87fb",
+      "name": "Main Theme (出埃及记)(Arr. Bateman)",
+      "artist": "Maksim / jeff wayne",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 814,
+      "songKey": "online:kugou:8a7a3cbf1891ee00e8e9a886616d99e0",
+      "name": "Desert Skies",
+      "artist": "Maksim",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 815,
+      "songKey": "online:kugou:58bc0a5649c730607305b6cda759b73e",
+      "name": "Shots (remix：Broiler)",
+      "artist": "Imagine Dragons / Broiler",
+      "lines": [
+        {
+          "key": "349|Imagine Dragons、Broiler - Shots",
+          "startMs": 349,
+          "text": "Imagine Dragons、Broiler - Shots"
+        },
+        {
+          "key": "8350|Am I out of touch",
+          "startMs": 8350,
+          "text": "Am I out of touch"
+        },
+        {
+          "key": "10355|Am I out of my place",
+          "startMs": 10355,
+          "text": "Am I out of my place"
+        },
+        {
+          "key": "12394|When I keep saying that I'm looking for an",
+          "startMs": 12394,
+          "text": "When I keep saying that I'm looking for an"
+        },
+        {
+          "key": "15164|Empty space",
+          "startMs": 15164,
+          "text": "Empty space"
+        },
+        {
+          "key": "16262|Oh I'm wishing you're here",
+          "startMs": 16262,
+          "text": "Oh I'm wishing you're here"
+        },
+        {
+          "key": "18348|But I'm wishing you're gone",
+          "startMs": 18348,
+          "text": "But I'm wishing you're gone"
+        },
+        {
+          "key": "20544|I can't have you and I'm only gonna do you",
+          "startMs": 20544,
+          "text": "I can't have you and I'm only gonna do you"
+        },
+        {
+          "key": "23883|Wrong",
+          "startMs": 23883,
+          "text": "Wrong"
+        },
+        {
+          "key": "24416|Oh I'm going to mess this up",
+          "startMs": 24416,
+          "text": "Oh I'm going to mess this up"
+        },
+        {
+          "key": "26194|Oh this is just my luck",
+          "startMs": 26194,
+          "text": "Oh this is just my luck"
+        },
+        {
+          "key": "28189|Over and over and over again",
+          "startMs": 28189,
+          "text": "Over and over and over again"
+        },
+        {
+          "key": "32276|In the meantime can we let it go",
+          "startMs": 32276,
+          "text": "In the meantime can we let it go"
+        },
+        {
+          "key": "33957|At the roadside that",
+          "startMs": 33957,
+          "text": "At the roadside that"
+        },
+        {
+          "key": "34944|We used to know",
+          "startMs": 34944,
+          "text": "We used to know"
+        },
+        {
+          "key": "36053|We can let this drift away",
+          "startMs": 36053,
+          "text": "We can let this drift away"
+        },
+        {
+          "key": "37888|Oh we let this drift away",
+          "startMs": 37888,
+          "text": "Oh we let this drift away"
+        },
+        {
+          "key": "39839|And there's always time to change your mind",
+          "startMs": 39839,
+          "text": "And there's always time to change your mind"
+        },
+        {
+          "key": "42083|And there's always time to change your mind",
+          "startMs": 42083,
+          "text": "And there's always time to change your mind"
+        },
+        {
+          "key": "43863|Oh there's always time to change your mind",
+          "startMs": 43863,
+          "text": "Oh there's always time to change your mind"
+        },
+        {
+          "key": "46062|Oh love can you hear me",
+          "startMs": 46062,
+          "text": "Oh love can you hear me"
+        },
+        {
+          "key": "64349|I'm sorry for everything",
+          "startMs": 64349,
+          "text": "I'm sorry for everything"
+        },
+        {
+          "key": "65837|Oh everything I've done",
+          "startMs": 65837,
+          "text": "Oh everything I've done"
+        },
+        {
+          "key": "67788|From the second day that I was born",
+          "startMs": 67788,
+          "text": "From the second day that I was born"
+        },
+        {
+          "key": "69726|I think I had a loaded gun",
+          "startMs": 69726,
+          "text": "I think I had a loaded gun"
+        },
+        {
+          "key": "71539|And then I shot shot shot a hole through",
+          "startMs": 71539,
+          "text": "And then I shot shot shot a hole through"
+        },
+        {
+          "key": "74303|Everything I loved",
+          "startMs": 74303,
+          "text": "Everything I loved"
+        },
+        {
+          "key": "75729|Oh I shot shot shot a hole through every single",
+          "startMs": 75729,
+          "text": "Oh I shot shot shot a hole through every single"
+        },
+        {
+          "key": "78958|Thing that I loved",
+          "startMs": 78958,
+          "text": "Thing that I loved"
+        },
+        {
+          "key": "96308|Am I out of luck",
+          "startMs": 96308,
+          "text": "Am I out of luck"
+        },
+        {
+          "key": "98339|Am I waiting to break",
+          "startMs": 98339,
+          "text": "Am I waiting to break"
+        },
+        {
+          "key": "100282|When I keep saying that I'm looking for a",
+          "startMs": 100282,
+          "text": "When I keep saying that I'm looking for a"
+        },
+        {
+          "key": "103193|Way to escape",
+          "startMs": 103193,
+          "text": "Way to escape"
+        },
+        {
+          "key": "104413|Oh I'm wishing I had what I'd taken for granted",
+          "startMs": 104413,
+          "text": "Oh I'm wishing I had what I'd taken for granted"
+        },
+        {
+          "key": "108479|I can't help you when I'm only gonna do",
+          "startMs": 108479,
+          "text": "I can't help you when I'm only gonna do"
+        },
+        {
+          "key": "111502|You wrong",
+          "startMs": 111502,
+          "text": "You wrong"
+        },
+        {
+          "key": "112496|Oh I'm going to mess this up",
+          "startMs": 112496,
+          "text": "Oh I'm going to mess this up"
+        },
+        {
+          "key": "114307|Oh this is just my luck",
+          "startMs": 114307,
+          "text": "Oh this is just my luck"
+        },
+        {
+          "key": "116312|Over and over and over again",
+          "startMs": 116312,
+          "text": "Over and over and over again"
+        },
+        {
+          "key": "120014|In the meantime can we let it go",
+          "startMs": 120014,
+          "text": "In the meantime can we let it go"
+        },
+        {
+          "key": "121905|At the roadside that",
+          "startMs": 121905,
+          "text": "At the roadside that"
+        },
+        {
+          "key": "122839|We used to know",
+          "startMs": 122839,
+          "text": "We used to know"
+        },
+        {
+          "key": "123838|We can let this drift away",
+          "startMs": 123838,
+          "text": "We can let this drift away"
+        },
+        {
+          "key": "125902|Oh we let this drift away",
+          "startMs": 125902,
+          "text": "Oh we let this drift away"
+        },
+        {
+          "key": "127949|And there's always time to change your mind",
+          "startMs": 127949,
+          "text": "And there's always time to change your mind"
+        },
+        {
+          "key": "129984|And there's always time to change your mind",
+          "startMs": 129984,
+          "text": "And there's always time to change your mind"
+        },
+        {
+          "key": "131815|Oh there's always time to change your mind",
+          "startMs": 131815,
+          "text": "Oh there's always time to change your mind"
+        },
+        {
+          "key": "134094|Oh love can you hear me",
+          "startMs": 134094,
+          "text": "Oh love can you hear me"
+        },
+        {
+          "key": "152310|I'm sorry for everything",
+          "startMs": 152310,
+          "text": "I'm sorry for everything"
+        },
+        {
+          "key": "153924|Oh everything I've done",
+          "startMs": 153924,
+          "text": "Oh everything I've done"
+        },
+        {
+          "key": "155786|From the second day that I was born",
+          "startMs": 155786,
+          "text": "From the second day that I was born"
+        },
+        {
+          "key": "157542|I think I had a loaded gun",
+          "startMs": 157542,
+          "text": "I think I had a loaded gun"
+        },
+        {
+          "key": "159408|And then I shot shot shot a hole through",
+          "startMs": 159408,
+          "text": "And then I shot shot shot a hole through"
+        },
+        {
+          "key": "162220|Everything I loved",
+          "startMs": 162220,
+          "text": "Everything I loved"
+        },
+        {
+          "key": "163848|Oh I shot shot shot a hole through every single",
+          "startMs": 163848,
+          "text": "Oh I shot shot shot a hole through every single"
+        },
+        {
+          "key": "166917|Thing that I loved",
+          "startMs": 166917,
+          "text": "Thing that I loved"
+        }
+      ]
+    }
+  ]
+}

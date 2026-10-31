@@ -1,0 +1,1210 @@
+{
+  "batchNumber": 162,
+  "songs": [
+    {
+      "rank": 806,
+      "songKey": "online:kugou:dec9b3888042ae0d74a2832eedaf6a3c",
+      "name": "为你写诗",
+      "artist": "汪苏泷 / 周洁琼",
+      "lines": [
+        {
+          "key": "0|汪苏泷、周洁琼 - 为你写诗(电影《为你写诗》同名曲)",
+          "startMs": 0,
+          "text": "汪苏泷、周洁琼 - 为你写诗(电影《为你写诗》同名曲)"
+        },
+        {
+          "key": "1158|作词：吴克群",
+          "startMs": 1158,
+          "text": "作词：吴克群"
+        },
+        {
+          "key": "1361|作曲：吴克群",
+          "startMs": 1361,
+          "text": "作曲：吴克群"
+        },
+        {
+          "key": "1561|制作人：任寒冰",
+          "startMs": 1561,
+          "text": "制作人：任寒冰"
+        },
+        {
+          "key": "1815|编曲：邹頔",
+          "startMs": 1815,
+          "text": "编曲：邹頔"
+        },
+        {
+          "key": "1967|和音编写：刘颜嘉",
+          "startMs": 1967,
+          "text": "和音编写：刘颜嘉"
+        },
+        {
+          "key": "2219|配唱：刘颜嘉",
+          "startMs": 2219,
+          "text": "配唱：刘颜嘉"
+        },
+        {
+          "key": "2420|弦乐编写：邹頔",
+          "startMs": 2420,
+          "text": "弦乐编写：邹頔"
+        },
+        {
+          "key": "2673|贝斯：王瀚一",
+          "startMs": 2673,
+          "text": "贝斯：王瀚一"
+        },
+        {
+          "key": "2875|鼓：陈柏州",
+          "startMs": 2875,
+          "text": "鼓：陈柏州"
+        },
+        {
+          "key": "3026|吉他：胡晨",
+          "startMs": 3026,
+          "text": "吉他：胡晨"
+        },
+        {
+          "key": "3177|小提琴：张琴",
+          "startMs": 3177,
+          "text": "小提琴：张琴"
+        },
+        {
+          "key": "3379|大提琴：张平",
+          "startMs": 3379,
+          "text": "大提琴：张平"
+        },
+        {
+          "key": "3582|弦乐：国际首席爱乐乐团",
+          "startMs": 3582,
+          "text": "弦乐：国际首席爱乐乐团"
+        },
+        {
+          "key": "3938|和音：刘雪莲",
+          "startMs": 3938,
+          "text": "和音：刘雪莲"
+        },
+        {
+          "key": "4140|录音：任寒冰@行人Studio",
+          "startMs": 4140,
+          "text": "录音：任寒冰@行人Studio"
+        },
+        {
+          "key": "4494|混音：郑昊杰@2496Studio",
+          "startMs": 4494,
+          "text": "混音：郑昊杰@2496Studio"
+        },
+        {
+          "key": "4696|母带：Leonard Fong@新加坡Horus Studio",
+          "startMs": 4696,
+          "text": "母带：Leonard Fong@新加坡Horus Studio"
+        },
+        {
+          "key": "5051|企划制作统筹：何磊@MusicPlus",
+          "startMs": 5051,
+          "text": "企划制作统筹：何磊@MusicPlus"
+        },
+        {
+          "key": "5444|音乐制作发行：MusicPlus乐加音乐",
+          "startMs": 5444,
+          "text": "音乐制作发行：MusicPlus乐加音乐"
+        },
+        {
+          "key": "17385|爱情是一种怪事",
+          "startMs": 17385,
+          "text": "爱情是一种怪事"
+        },
+        {
+          "key": "20322|我开始全身不受控制",
+          "startMs": 20322,
+          "text": "我开始全身不受控制"
+        },
+        {
+          "key": "24624|爱情是一种本事",
+          "startMs": 24624,
+          "text": "爱情是一种本事"
+        },
+        {
+          "key": "27565|我开始连自己都不是",
+          "startMs": 27565,
+          "text": "我开始连自己都不是"
+        },
+        {
+          "key": "31966|为你我做了太多的傻事",
+          "startMs": 31966,
+          "text": "为你我做了太多的傻事"
+        },
+        {
+          "key": "37667|第一件就是为你写诗",
+          "startMs": 37667,
+          "text": "第一件就是为你写诗"
+        },
+        {
+          "key": "44641|为你写诗为你静止",
+          "startMs": 44641,
+          "text": "为你写诗为你静止"
+        },
+        {
+          "key": "48489|为你做不可能的事",
+          "startMs": 48489,
+          "text": "为你做不可能的事"
+        },
+        {
+          "key": "52091|为你我学会弹琴写词",
+          "startMs": 52091,
+          "text": "为你我学会弹琴写词"
+        },
+        {
+          "key": "56591|为你失去理智",
+          "startMs": 56591,
+          "text": "为你失去理智"
+        },
+        {
+          "key": "59223|为你写诗为你静止",
+          "startMs": 59223,
+          "text": "为你写诗为你静止"
+        },
+        {
+          "key": "63025|为你做不可能的事",
+          "startMs": 63025,
+          "text": "为你做不可能的事"
+        },
+        {
+          "key": "66818|为你弹奏",
+          "startMs": 66818,
+          "text": "为你弹奏"
+        },
+        {
+          "key": "68854|所有情歌的句子",
+          "startMs": 68854,
+          "text": "所有情歌的句子"
+        },
+        {
+          "key": "74066|我忘了说",
+          "startMs": 74066,
+          "text": "我忘了说"
+        },
+        {
+          "key": "75987|最美的是你的名字",
+          "startMs": 75987,
+          "text": "最美的是你的名字"
+        },
+        {
+          "key": "93799|爱情是一种怪事",
+          "startMs": 93799,
+          "text": "爱情是一种怪事"
+        },
+        {
+          "key": "96631|你的笑容是唯一宗旨",
+          "startMs": 96631,
+          "text": "你的笑容是唯一宗旨"
+        },
+        {
+          "key": "100933|爱情是一种本事",
+          "startMs": 100933,
+          "text": "爱情是一种本事"
+        },
+        {
+          "key": "103979|我在你心里什么位置",
+          "startMs": 103979,
+          "text": "我在你心里什么位置"
+        },
+        {
+          "key": "108229|为你我做了太多的傻事",
+          "startMs": 108229,
+          "text": "为你我做了太多的傻事"
+        },
+        {
+          "key": "114155|第一件就是为你写诗",
+          "startMs": 114155,
+          "text": "第一件就是为你写诗"
+        },
+        {
+          "key": "121140|为你写诗为你静止",
+          "startMs": 121140,
+          "text": "为你写诗为你静止"
+        },
+        {
+          "key": "124897|为你做不可能的事",
+          "startMs": 124897,
+          "text": "为你做不可能的事"
+        },
+        {
+          "key": "128544|为你我学会弹琴写词",
+          "startMs": 128544,
+          "text": "为你我学会弹琴写词"
+        },
+        {
+          "key": "132929|为你失去理智",
+          "startMs": 132929,
+          "text": "为你失去理智"
+        },
+        {
+          "key": "135609|为你写诗为你静止",
+          "startMs": 135609,
+          "text": "为你写诗为你静止"
+        },
+        {
+          "key": "139400|为你做不可能的事",
+          "startMs": 139400,
+          "text": "为你做不可能的事"
+        },
+        {
+          "key": "143241|为你弹奏",
+          "startMs": 143241,
+          "text": "为你弹奏"
+        },
+        {
+          "key": "144967|所有情歌的句子",
+          "startMs": 144967,
+          "text": "所有情歌的句子"
+        },
+        {
+          "key": "150531|我忘了说",
+          "startMs": 150531,
+          "text": "我忘了说"
+        },
+        {
+          "key": "152301|最美的是你的名字",
+          "startMs": 152301,
+          "text": "最美的是你的名字"
+        },
+        {
+          "key": "157312|为你写诗为你静止",
+          "startMs": 157312,
+          "text": "为你写诗为你静止"
+        },
+        {
+          "key": "161308|为你做不可能的事",
+          "startMs": 161308,
+          "text": "为你做不可能的事"
+        },
+        {
+          "key": "164901|为你我",
+          "startMs": 164901,
+          "text": "为你我"
+        },
+        {
+          "key": "165970|学会弹琴写词",
+          "startMs": 165970,
+          "text": "学会弹琴写词"
+        },
+        {
+          "key": "169261|为你失去理智",
+          "startMs": 169261,
+          "text": "为你失去理智"
+        },
+        {
+          "key": "171939|为你写诗为你静止",
+          "startMs": 171939,
+          "text": "为你写诗为你静止"
+        },
+        {
+          "key": "175746|为你做不可能的事",
+          "startMs": 175746,
+          "text": "为你做不可能的事"
+        },
+        {
+          "key": "179592|为你弹奏所有情歌的句子",
+          "startMs": 179592,
+          "text": "为你弹奏所有情歌的句子"
+        },
+        {
+          "key": "186970|我忘了说最美的是你的名字",
+          "startMs": 186970,
+          "text": "我忘了说最美的是你的名字"
+        },
+        {
+          "key": "192095|我什么都能忘记",
+          "startMs": 192095,
+          "text": "我什么都能忘记"
+        },
+        {
+          "key": "194671|但唯一不忘是你的名字",
+          "startMs": 194671,
+          "text": "但唯一不忘是你的名字"
+        },
+        {
+          "key": "199127|我什么都能忘记",
+          "startMs": 199127,
+          "text": "我什么都能忘记"
+        },
+        {
+          "key": "201995|但唯一不忘是你的样子",
+          "startMs": 201995,
+          "text": "但唯一不忘是你的样子"
+        },
+        {
+          "key": "206445|我什么都能忘记",
+          "startMs": 206445,
+          "text": "我什么都能忘记"
+        },
+        {
+          "key": "209243|但唯一不忘是你的名字",
+          "startMs": 209243,
+          "text": "但唯一不忘是你的名字"
+        },
+        {
+          "key": "213698|我什么都能忘记",
+          "startMs": 213698,
+          "text": "我什么都能忘记"
+        },
+        {
+          "key": "216526|但唯一不忘是你的样子",
+          "startMs": 216526,
+          "text": "但唯一不忘是你的样子"
+        }
+      ]
+    },
+    {
+      "rank": 807,
+      "songKey": "online:kugou:3dac5534dfe5ea07ca96c7b26e82c127",
+      "name": "Reality",
+      "artist": "Lost Frequencies / Janieck",
+      "lines": [
+        {
+          "key": "0|Lost Frequencies、Janieck Devy - Reality",
+          "startMs": 0,
+          "text": "Lost Frequencies、Janieck Devy - Reality"
+        },
+        {
+          "key": "161|Written by：Roxanne Cher、Evans Franchesqua、Felix Safra",
+          "startMs": 161,
+          "text": "Written by：Roxanne Cher、Evans Franchesqua、Felix Safra"
+        },
+        {
+          "key": "14496|Decisions as I go to anywhere I flow",
+          "startMs": 14496,
+          "text": "Decisions as I go to anywhere I flow"
+        },
+        {
+          "key": "18666|Sometimes I believe at times I'm rational",
+          "startMs": 18666,
+          "text": "Sometimes I believe at times I'm rational"
+        },
+        {
+          "key": "22516|I can fly high I can go low",
+          "startMs": 22516,
+          "text": "I can fly high I can go low"
+        },
+        {
+          "key": "26313|Today I got a million",
+          "startMs": 26313,
+          "text": "Today I got a million"
+        },
+        {
+          "key": "28237|Tomorrow I don't know",
+          "startMs": 28237,
+          "text": "Tomorrow I don't know"
+        },
+        {
+          "key": "30262|Decisions as I go to anywhere I flow",
+          "startMs": 30262,
+          "text": "Decisions as I go to anywhere I flow"
+        },
+        {
+          "key": "34158|Sometimes I believe at times I'm rational",
+          "startMs": 34158,
+          "text": "Sometimes I believe at times I'm rational"
+        },
+        {
+          "key": "38203|I can fly high I can go low",
+          "startMs": 38203,
+          "text": "I can fly high I can go low"
+        },
+        {
+          "key": "42048|Today I got a million",
+          "startMs": 42048,
+          "text": "Today I got a million"
+        },
+        {
+          "key": "43973|Tomorrow I don't know",
+          "startMs": 43973,
+          "text": "Tomorrow I don't know"
+        },
+        {
+          "key": "61672|Stop claiming what you own don't think about the show",
+          "startMs": 61672,
+          "text": "Stop claiming what you own don't think about the show"
+        },
+        {
+          "key": "65673|We're all playing the same game waiting on our loan",
+          "startMs": 65673,
+          "text": "We're all playing the same game waiting on our loan"
+        },
+        {
+          "key": "69667|We're unknown and known special and a clone",
+          "startMs": 69667,
+          "text": "We're unknown and known special and a clone"
+        },
+        {
+          "key": "73519|Hate will make you cautious love will make you glow",
+          "startMs": 73519,
+          "text": "Hate will make you cautious love will make you glow"
+        },
+        {
+          "key": "77564|Make me feel the warmth make me feel the cold",
+          "startMs": 77564,
+          "text": "Make me feel the warmth make me feel the cold"
+        },
+        {
+          "key": "81402|It's written in our stories it's written on the walls",
+          "startMs": 81402,
+          "text": "It's written in our stories it's written on the walls"
+        },
+        {
+          "key": "85296|This is our call we rise and we fall",
+          "startMs": 85296,
+          "text": "This is our call we rise and we fall"
+        },
+        {
+          "key": "89238|Dancing in the moonlight don't we have it all",
+          "startMs": 89238,
+          "text": "Dancing in the moonlight don't we have it all"
+        },
+        {
+          "key": "117018|Decisions as I go to anywhere I flow",
+          "startMs": 117018,
+          "text": "Decisions as I go to anywhere I flow"
+        },
+        {
+          "key": "120809|Sometimes I believe at times I'm rational",
+          "startMs": 120809,
+          "text": "Sometimes I believe at times I'm rational"
+        },
+        {
+          "key": "124749|I can fly high I can go low",
+          "startMs": 124749,
+          "text": "I can fly high I can go low"
+        },
+        {
+          "key": "128643|Today I got a million",
+          "startMs": 128643,
+          "text": "Today I got a million"
+        },
+        {
+          "key": "130517|Tomorrow I don't know",
+          "startMs": 130517,
+          "text": "Tomorrow I don't know"
+        },
+        {
+          "key": "132794|Make me feel the warmth make me feel the cold",
+          "startMs": 132794,
+          "text": "Make me feel the warmth make me feel the cold"
+        },
+        {
+          "key": "136438|It's written in our stories it's written on the walls",
+          "startMs": 136438,
+          "text": "It's written in our stories it's written on the walls"
+        },
+        {
+          "key": "140531|This is our call we rise and we fall",
+          "startMs": 140531,
+          "text": "This is our call we rise and we fall"
+        },
+        {
+          "key": "144427|Dancing in the moonlight don't we have it all",
+          "startMs": 144427,
+          "text": "Dancing in the moonlight don't we have it all"
+        }
+      ]
+    },
+    {
+      "rank": 808,
+      "songKey": "online:kugou:73e789f43c5490afc21cdaf048f697c7",
+      "name": "琵琶语",
+      "artist": "林海",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 809,
+      "songKey": "online:kugou:5b7f8dcfb2cb2240d5ee8e917a0b1aef",
+      "name": "少年",
+      "artist": "梦然",
+      "lines": [
+        {
+          "key": "587|梦然 - 少年",
+          "startMs": 587,
+          "text": "梦然 - 少年"
+        },
+        {
+          "key": "1194|作词：梦然",
+          "startMs": 1194,
+          "text": "作词：梦然"
+        },
+        {
+          "key": "1346|作曲：梦然",
+          "startMs": 1346,
+          "text": "作曲：梦然"
+        },
+        {
+          "key": "1446|编曲：张亮",
+          "startMs": 1446,
+          "text": "编曲：张亮"
+        },
+        {
+          "key": "1598|制作人：张亮、徐阁",
+          "startMs": 1598,
+          "text": "制作人：张亮、徐阁"
+        },
+        {
+          "key": "1851|和声编写：海青、梦然",
+          "startMs": 1851,
+          "text": "和声编写：海青、梦然"
+        },
+        {
+          "key": "2102|和声演唱：海青、梦然",
+          "startMs": 2102,
+          "text": "和声演唱：海青、梦然"
+        },
+        {
+          "key": "2357|rap：梦然",
+          "startMs": 2357,
+          "text": "rap：梦然"
+        },
+        {
+          "key": "2458|混音工程师：赵靖",
+          "startMs": 2458,
+          "text": "混音工程师：赵靖"
+        },
+        {
+          "key": "2712|母带工程师：赵靖",
+          "startMs": 2712,
+          "text": "母带工程师：赵靖"
+        },
+        {
+          "key": "2965|监制：梦然",
+          "startMs": 2965,
+          "text": "监制：梦然"
+        },
+        {
+          "key": "22285|换种生活",
+          "startMs": 22285,
+          "text": "换种生活"
+        },
+        {
+          "key": "23147|让自己变得快乐",
+          "startMs": 23147,
+          "text": "让自己变得快乐"
+        },
+        {
+          "key": "24920|放弃执着",
+          "startMs": 24920,
+          "text": "放弃执着"
+        },
+        {
+          "key": "25730|天气就会变得不错",
+          "startMs": 25730,
+          "text": "天气就会变得不错"
+        },
+        {
+          "key": "27450|每次走过",
+          "startMs": 27450,
+          "text": "每次走过"
+        },
+        {
+          "key": "28460|都是一次收获",
+          "startMs": 28460,
+          "text": "都是一次收获"
+        },
+        {
+          "key": "30182|还等什么 做对的选择",
+          "startMs": 30182,
+          "text": "还等什么 做对的选择"
+        },
+        {
+          "key": "32711|过去的",
+          "startMs": 32711,
+          "text": "过去的"
+        },
+        {
+          "key": "33421|就让它过去吧",
+          "startMs": 33421,
+          "text": "就让它过去吧"
+        },
+        {
+          "key": "35447|别管那是一个玩笑还是谎话",
+          "startMs": 35447,
+          "text": "别管那是一个玩笑还是谎话"
+        },
+        {
+          "key": "38026|路在脚下",
+          "startMs": 38026,
+          "text": "路在脚下"
+        },
+        {
+          "key": "39191|其实并不复杂",
+          "startMs": 39191,
+          "text": "其实并不复杂"
+        },
+        {
+          "key": "40709|只要记得你是你呀",
+          "startMs": 40709,
+          "text": "只要记得你是你呀"
+        },
+        {
+          "key": "43750|Wu oh oh",
+          "startMs": 43750,
+          "text": "Wu oh oh"
+        },
+        {
+          "key": "53778|Wu oh oh",
+          "startMs": 53778,
+          "text": "Wu oh oh"
+        },
+        {
+          "key": "63492|我还是从前那个少年",
+          "startMs": 63492,
+          "text": "我还是从前那个少年"
+        },
+        {
+          "key": "66377|没有一丝丝改变",
+          "startMs": 66377,
+          "text": "没有一丝丝改变"
+        },
+        {
+          "key": "69111|时间只不过是考验",
+          "startMs": 69111,
+          "text": "时间只不过是考验"
+        },
+        {
+          "key": "71693|种在心中信念丝毫未减",
+          "startMs": 71693,
+          "text": "种在心中信念丝毫未减"
+        },
+        {
+          "key": "74986|眼前这个少年",
+          "startMs": 74986,
+          "text": "眼前这个少年"
+        },
+        {
+          "key": "77017|还是最初那张脸",
+          "startMs": 77017,
+          "text": "还是最初那张脸"
+        },
+        {
+          "key": "79902|面前再多艰险不退却",
+          "startMs": 79902,
+          "text": "面前再多艰险不退却"
+        },
+        {
+          "key": "83085|Say never never give up",
+          "startMs": 83085,
+          "text": "Say never never give up"
+        },
+        {
+          "key": "85109|Like a fire",
+          "startMs": 85109,
+          "text": "Like a fire"
+        },
+        {
+          "key": "86262|Wu oh oh",
+          "startMs": 86262,
+          "text": "Wu oh oh"
+        },
+        {
+          "key": "96877|换种生活",
+          "startMs": 96877,
+          "text": "换种生活"
+        },
+        {
+          "key": "97736|让自己变得快乐",
+          "startMs": 97736,
+          "text": "让自己变得快乐"
+        },
+        {
+          "key": "99460|放弃执着",
+          "startMs": 99460,
+          "text": "放弃执着"
+        },
+        {
+          "key": "100271|天气就会变得不错",
+          "startMs": 100271,
+          "text": "天气就会变得不错"
+        },
+        {
+          "key": "101994|每次走过",
+          "startMs": 101994,
+          "text": "每次走过"
+        },
+        {
+          "key": "103058|都是一次收获",
+          "startMs": 103058,
+          "text": "都是一次收获"
+        },
+        {
+          "key": "104729|还等什么 做对的选择",
+          "startMs": 104729,
+          "text": "还等什么 做对的选择"
+        },
+        {
+          "key": "107362|过去的",
+          "startMs": 107362,
+          "text": "过去的"
+        },
+        {
+          "key": "108022|就让它过去吧",
+          "startMs": 108022,
+          "text": "就让它过去吧"
+        },
+        {
+          "key": "110190|别管那是一个玩笑还是谎话",
+          "startMs": 110190,
+          "text": "别管那是一个玩笑还是谎话"
+        },
+        {
+          "key": "112788|路在脚下",
+          "startMs": 112788,
+          "text": "路在脚下"
+        },
+        {
+          "key": "113696|其实并不复杂",
+          "startMs": 113696,
+          "text": "其实并不复杂"
+        },
+        {
+          "key": "115379|只要记得你是你呀",
+          "startMs": 115379,
+          "text": "只要记得你是你呀"
+        },
+        {
+          "key": "128621|Miya miya miya miya miya",
+          "startMs": 128621,
+          "text": "Miya miya miya miya miya"
+        },
+        {
+          "key": "133229|Call me",
+          "startMs": 133229,
+          "text": "Call me"
+        },
+        {
+          "key": "133786|Miya miya miya miya miya",
+          "startMs": 133786,
+          "text": "Miya miya miya miya miya"
+        },
+        {
+          "key": "138191|我还是从前那个少年",
+          "startMs": 138191,
+          "text": "我还是从前那个少年"
+        },
+        {
+          "key": "141023|没有一丝丝改变",
+          "startMs": 141023,
+          "text": "没有一丝丝改变"
+        },
+        {
+          "key": "143753|时间只不过是考验",
+          "startMs": 143753,
+          "text": "时间只不过是考验"
+        },
+        {
+          "key": "146384|种在心中信念丝毫未减",
+          "startMs": 146384,
+          "text": "种在心中信念丝毫未减"
+        },
+        {
+          "key": "149721|眼前这个少年",
+          "startMs": 149721,
+          "text": "眼前这个少年"
+        },
+        {
+          "key": "151749|还是最初那张脸",
+          "startMs": 151749,
+          "text": "还是最初那张脸"
+        },
+        {
+          "key": "154384|面前再多艰险不退却",
+          "startMs": 154384,
+          "text": "面前再多艰险不退却"
+        },
+        {
+          "key": "157565|Say never never give up",
+          "startMs": 157565,
+          "text": "Say never never give up"
+        },
+        {
+          "key": "159591|Like a fire",
+          "startMs": 159591,
+          "text": "Like a fire"
+        },
+        {
+          "key": "160836|追逐生命里",
+          "startMs": 160836,
+          "text": "追逐生命里"
+        },
+        {
+          "key": "161795|光临身边的每道光",
+          "startMs": 161795,
+          "text": "光临身边的每道光"
+        },
+        {
+          "key": "163260|让世界因为你的存在",
+          "startMs": 163260,
+          "text": "让世界因为你的存在"
+        },
+        {
+          "key": "164900|变的闪亮",
+          "startMs": 164900,
+          "text": "变的闪亮"
+        },
+        {
+          "key": "166159|其实你我他并没有什么不同",
+          "startMs": 166159,
+          "text": "其实你我他并没有什么不同"
+        },
+        {
+          "key": "168640|只要你愿为希望",
+          "startMs": 168640,
+          "text": "只要你愿为希望"
+        },
+        {
+          "key": "169903|画出一道想象",
+          "startMs": 169903,
+          "text": "画出一道想象"
+        },
+        {
+          "key": "171215|成长的路上",
+          "startMs": 171215,
+          "text": "成长的路上"
+        },
+        {
+          "key": "172173|必然经历很多风雨",
+          "startMs": 172173,
+          "text": "必然经历很多风雨"
+        },
+        {
+          "key": "174144|相信自己终有属于你的盛举",
+          "startMs": 174144,
+          "text": "相信自己终有属于你的盛举"
+        },
+        {
+          "key": "176676|别因为磨难 停住你的脚步",
+          "startMs": 176676,
+          "text": "别因为磨难 停住你的脚步"
+        },
+        {
+          "key": "179491|坚持住",
+          "startMs": 179491,
+          "text": "坚持住"
+        },
+        {
+          "key": "180045|就会拥有属于你的蓝图",
+          "startMs": 180045,
+          "text": "就会拥有属于你的蓝图"
+        },
+        {
+          "key": "181866|Wu oh oh",
+          "startMs": 181866,
+          "text": "Wu oh oh"
+        },
+        {
+          "key": "191434|我还是从前那个少年",
+          "startMs": 191434,
+          "text": "我还是从前那个少年"
+        },
+        {
+          "key": "194369|没有一丝丝改变",
+          "startMs": 194369,
+          "text": "没有一丝丝改变"
+        },
+        {
+          "key": "197001|时间只不过是考验",
+          "startMs": 197001,
+          "text": "时间只不过是考验"
+        },
+        {
+          "key": "199686|种在心中信念丝毫未减",
+          "startMs": 199686,
+          "text": "种在心中信念丝毫未减"
+        },
+        {
+          "key": "203037|眼前这个少年",
+          "startMs": 203037,
+          "text": "眼前这个少年"
+        },
+        {
+          "key": "205009|还是最初那张脸",
+          "startMs": 205009,
+          "text": "还是最初那张脸"
+        },
+        {
+          "key": "207794|面前再多艰险不退却",
+          "startMs": 207794,
+          "text": "面前再多艰险不退却"
+        },
+        {
+          "key": "210967|Say never never give up",
+          "startMs": 210967,
+          "text": "Say never never give up"
+        },
+        {
+          "key": "212938|Like a fire",
+          "startMs": 212938,
+          "text": "Like a fire"
+        },
+        {
+          "key": "213492|我还是从前那个少年 miya",
+          "startMs": 213492,
+          "text": "我还是从前那个少年 miya"
+        },
+        {
+          "key": "218059|我还是从前那个少年 miya",
+          "startMs": 218059,
+          "text": "我还是从前那个少年 miya"
+        },
+        {
+          "key": "223478|我还是眼前这个少年 miya",
+          "startMs": 223478,
+          "text": "我还是眼前这个少年 miya"
+        },
+        {
+          "key": "228845|我还是从前那个少年 miya",
+          "startMs": 228845,
+          "text": "我还是从前那个少年 miya"
+        }
+      ]
+    },
+    {
+      "rank": 810,
+      "songKey": "online:kugou:0680441990060c5eb11c29bc59b53799",
+      "name": "PLANET",
+      "artist": "ラムジ",
+      "lines": [
+        {
+          "key": "379|ラムジ - PLANET",
+          "startMs": 379,
+          "text": "ラムジ - PLANET"
+        },
+        {
+          "key": "1287|作词：ラムジ",
+          "startMs": 1287,
+          "text": "作词：ラムジ"
+        },
+        {
+          "key": "2147|作曲：ラムジ",
+          "startMs": 2147,
+          "text": "作曲：ラムジ"
+        },
+        {
+          "key": "2956|编曲：ラムジ",
+          "startMs": 2956,
+          "text": "编曲：ラムジ"
+        },
+        {
+          "key": "10218|どうやってこうやって",
+          "startMs": 10218,
+          "text": "どうやってこうやって"
+        },
+        {
+          "key": "13909|またほら君と話そうか",
+          "startMs": 13909,
+          "text": "またほら君と話そうか"
+        },
+        {
+          "key": "19214|あれだってこれだって",
+          "startMs": 19214,
+          "text": "あれだってこれだって"
+        },
+        {
+          "key": "23048|今すぐ気付いてくれ",
+          "startMs": 23048,
+          "text": "今すぐ気付いてくれ"
+        },
+        {
+          "key": "28358|僕は君の惑星",
+          "startMs": 28358,
+          "text": "僕は君の惑星"
+        },
+        {
+          "key": "32860|回り続けて",
+          "startMs": 32860,
+          "text": "回り続けて"
+        },
+        {
+          "key": "37361|いつも君のそばで",
+          "startMs": 37361,
+          "text": "いつも君のそばで"
+        },
+        {
+          "key": "41888|黒点数えてたけれど",
+          "startMs": 41888,
+          "text": "黒点数えてたけれど"
+        },
+        {
+          "key": "46998|サヨナラなんてないよ",
+          "startMs": 46998,
+          "text": "サヨナラなんてないよ"
+        },
+        {
+          "key": "51551|今日から軌道を外れんだ",
+          "startMs": 51551,
+          "text": "今日から軌道を外れんだ"
+        },
+        {
+          "key": "56044|最後まで見送ってよ",
+          "startMs": 56044,
+          "text": "最後まで見送ってよ"
+        },
+        {
+          "key": "60586|永遠に離れてくんだ",
+          "startMs": 60586,
+          "text": "永遠に離れてくんだ"
+        },
+        {
+          "key": "65081|ラララ ララララララ",
+          "startMs": 65081,
+          "text": "ラララ ララララララ"
+        },
+        {
+          "key": "69683|ラララ ラララララ",
+          "startMs": 69683,
+          "text": "ラララ ラララララ"
+        },
+        {
+          "key": "74128|ラララ ララララララ",
+          "startMs": 74128,
+          "text": "ラララ ララララララ"
+        },
+        {
+          "key": "78770|ラララ ラララララ",
+          "startMs": 78770,
+          "text": "ラララ ラララララ"
+        },
+        {
+          "key": "92858|どうなってこうなって",
+          "startMs": 92858,
+          "text": "どうなってこうなって"
+        },
+        {
+          "key": "96604|結局独り佇んで",
+          "startMs": 96604,
+          "text": "結局独り佇んで"
+        },
+        {
+          "key": "101958|失って勘づいて",
+          "startMs": 101958,
+          "text": "失って勘づいて"
+        },
+        {
+          "key": "105750|今さら戻れやしない",
+          "startMs": 105750,
+          "text": "今さら戻れやしない"
+        },
+        {
+          "key": "110957|君のいない場所で",
+          "startMs": 110957,
+          "text": "君のいない場所で"
+        },
+        {
+          "key": "115457|途方に暮れて",
+          "startMs": 115457,
+          "text": "途方に暮れて"
+        },
+        {
+          "key": "120052|もう一度引力を",
+          "startMs": 120052,
+          "text": "もう一度引力を"
+        },
+        {
+          "key": "124536|感じたかったんだけれど",
+          "startMs": 124536,
+          "text": "感じたかったんだけれど"
+        },
+        {
+          "key": "128674|神様なんていないよ",
+          "startMs": 128674,
+          "text": "神様なんていないよ"
+        },
+        {
+          "key": "133120|いつまで待っても巡回中",
+          "startMs": 133120,
+          "text": "いつまで待っても巡回中"
+        },
+        {
+          "key": "137570|選ばれない悲しみを",
+          "startMs": 137570,
+          "text": "選ばれない悲しみを"
+        },
+        {
+          "key": "142119|何度でも噛みしめるんだ",
+          "startMs": 142119,
+          "text": "何度でも噛みしめるんだ"
+        },
+        {
+          "key": "164200|君は僕の太陽",
+          "startMs": 164200,
+          "text": "君は僕の太陽"
+        },
+        {
+          "key": "168696|全てを燃やしたけれど",
+          "startMs": 168696,
+          "text": "全てを燃やしたけれど"
+        },
+        {
+          "key": "173852|サヨナラなんてないよ",
+          "startMs": 173852,
+          "text": "サヨナラなんてないよ"
+        },
+        {
+          "key": "178405|今日から軌道を外れんだ",
+          "startMs": 178405,
+          "text": "今日から軌道を外れんだ"
+        },
+        {
+          "key": "182852|最後まで見送ってよ",
+          "startMs": 182852,
+          "text": "最後まで見送ってよ"
+        },
+        {
+          "key": "187404|永遠に離れてくんだ",
+          "startMs": 187404,
+          "text": "永遠に離れてくんだ"
+        },
+        {
+          "key": "191950|ラララ ララララララ",
+          "startMs": 191950,
+          "text": "ラララ ララララララ"
+        },
+        {
+          "key": "196501|ラララ ラララララ",
+          "startMs": 196501,
+          "text": "ラララ ラララララ"
+        },
+        {
+          "key": "200940|ラララ ララララララ",
+          "startMs": 200940,
+          "text": "ラララ ララララララ"
+        },
+        {
+          "key": "205541|ラララ ラララララ",
+          "startMs": 205541,
+          "text": "ラララ ラララララ"
+        },
+        {
+          "key": "210035|ラララ ララララララ",
+          "startMs": 210035,
+          "text": "ラララ ララララララ"
+        },
+        {
+          "key": "214577|ラララ ラララララ",
+          "startMs": 214577,
+          "text": "ラララ ラララララ"
+        },
+        {
+          "key": "219072|ラララ ララララララ",
+          "startMs": 219072,
+          "text": "ラララ ララララララ"
+        },
+        {
+          "key": "223618|ラララ ラララララ",
+          "startMs": 223618,
+          "text": "ラララ ラララララ"
+        }
+      ]
+    }
+  ]
+}

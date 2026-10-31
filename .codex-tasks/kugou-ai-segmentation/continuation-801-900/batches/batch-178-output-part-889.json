@@ -1,0 +1,726 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:7a4d861fe921ab7bae06f3e9ab4bc612",
+      "lines": [
+        {
+          "key": "48|Sam Tsui、Casey Breves、Kurt Schneider - All Time Low",
+          "text": "Sam Tsui、Casey Breves、Kurt Schneider - All Time Low",
+          "segments": [
+            "Sam Tsui、",
+            "Casey Breves、",
+            "Kurt Schneider",
+            " - ",
+            "All Time Low"
+          ]
+        },
+        {
+          "key": "11680|I was the knight in shining armor in your movie",
+          "text": "I was the knight in shining armor in your movie",
+          "segments": [
+            "I ",
+            "was ",
+            "the ",
+            "knight ",
+            "in ",
+            "shining ",
+            "armor ",
+            "in ",
+            "your ",
+            "movie"
+          ]
+        },
+        {
+          "key": "18882|Would put your lips on mine and love the aftertaste",
+          "text": "Would put your lips on mine and love the aftertaste",
+          "segments": [
+            "Would ",
+            "put ",
+            "your ",
+            "lips ",
+            "on ",
+            "mine ",
+            "and ",
+            "love ",
+            "the ",
+            "aftertaste"
+          ]
+        },
+        {
+          "key": "22555|Lost I'm a ghost I call your name you look right through me",
+          "text": "Lost I'm a ghost I call your name you look right through me",
+          "segments": [
+            "Lost ",
+            "I'm ",
+            "a ",
+            "ghost ",
+            "I ",
+            "call ",
+            "your ",
+            "name ",
+            "you ",
+            "look ",
+            "right ",
+            "through ",
+            "me"
+          ]
+        },
+        {
+          "key": "29689|You're the reason that I just can't concentrate",
+          "text": "You're the reason that I just can't concentrate",
+          "segments": [
+            "You're ",
+            "the ",
+            "reason ",
+            "that ",
+            "I ",
+            "just ",
+            "can't ",
+            "concentrate"
+          ]
+        },
+        {
+          "key": "33289|I I've been trying to fix my pride",
+          "text": "I I've been trying to fix my pride",
+          "segments": [
+            "I ",
+            "I've ",
+            "been ",
+            "trying ",
+            "to ",
+            "fix ",
+            "my ",
+            "pride"
+          ]
+        },
+        {
+          "key": "37470|But that ****'s broken that ****'s broken",
+          "text": "But that ****'s broken that ****'s broken",
+          "segments": [
+            "But ",
+            "that ",
+            "****'s ",
+            "broken ",
+            "that ",
+            "****'s ",
+            "broken"
+          ]
+        },
+        {
+          "key": "43667|Lie lie lie lie l lie I try to hide",
+          "text": "Lie lie lie lie l lie I try to hide",
+          "segments": [
+            "Lie ",
+            "lie ",
+            "lie ",
+            "lie ",
+            "l ",
+            "lie ",
+            "I ",
+            "try ",
+            "to ",
+            "hide"
+          ]
+        },
+        {
+          "key": "48066|But now you know it",
+          "text": "But now you know it",
+          "segments": [
+            "But ",
+            "now ",
+            "you ",
+            "know ",
+            "it"
+          ]
+        },
+        {
+          "key": "51264|That I'm at an all time",
+          "text": "That I'm at an all time",
+          "segments": [
+            "That ",
+            "I'm ",
+            "at ",
+            "an ",
+            "all ",
+            "time"
+          ]
+        },
+        {
+          "key": "54234|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "56756|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "59378|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "62026|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "64682|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "67344|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "70034|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "72696|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "75746|I was the prototype like 3 stacks on that CD",
+          "text": "I was the prototype like 3 stacks on that CD",
+          "segments": [
+            "I ",
+            "was ",
+            "the ",
+            "prototype ",
+            "like ",
+            "3 ",
+            "stacks ",
+            "on ",
+            "that ",
+            "CD"
+          ]
+        },
+        {
+          "key": "82954|An example of the perfect candidate",
+          "text": "An example of the perfect candidate",
+          "segments": [
+            "An ",
+            "example ",
+            "of ",
+            "the ",
+            "perfect ",
+            "candidate"
+          ]
+        },
+        {
+          "key": "86382|Now all your girlfriends say that you don't want to see me",
+          "text": "Now all your girlfriends say that you don't want to see me",
+          "segments": [
+            "Now ",
+            "all ",
+            "your ",
+            "girlfriends ",
+            "say ",
+            "that ",
+            "you ",
+            "don't ",
+            "want ",
+            "to ",
+            "see ",
+            "me"
+          ]
+        },
+        {
+          "key": "93609|You're the reason that I just can't concentrate",
+          "text": "You're the reason that I just can't concentrate",
+          "segments": [
+            "You're ",
+            "the ",
+            "reason ",
+            "that ",
+            "I ",
+            "just ",
+            "can't ",
+            "concentrate"
+          ]
+        },
+        {
+          "key": "97180|I I've been trying to fix my pride",
+          "text": "I I've been trying to fix my pride",
+          "segments": [
+            "I ",
+            "I've ",
+            "been ",
+            "trying ",
+            "to ",
+            "fix ",
+            "my ",
+            "pride"
+          ]
+        },
+        {
+          "key": "101262|But that ****'s broken that ****'s broken",
+          "text": "But that ****'s broken that ****'s broken",
+          "segments": [
+            "But ",
+            "that ",
+            "****'s ",
+            "broken ",
+            "that ",
+            "****'s ",
+            "broken"
+          ]
+        },
+        {
+          "key": "104155|That ****'s broken that ****'s broken",
+          "text": "That ****'s broken that ****'s broken",
+          "segments": [
+            "That ",
+            "****'s ",
+            "broken ",
+            "that ",
+            "****'s ",
+            "broken"
+          ]
+        },
+        {
+          "key": "107224|Lie lie lie lie l lie I try to hide",
+          "text": "Lie lie lie lie l lie I try to hide",
+          "segments": [
+            "Lie ",
+            "lie ",
+            "lie ",
+            "lie ",
+            "l ",
+            "lie ",
+            "I ",
+            "try ",
+            "to ",
+            "hide"
+          ]
+        },
+        {
+          "key": "111974|But now you know it",
+          "text": "But now you know it",
+          "segments": [
+            "But ",
+            "now ",
+            "you ",
+            "know ",
+            "it"
+          ]
+        },
+        {
+          "key": "115392|That I'm at an all time",
+          "text": "That I'm at an all time",
+          "segments": [
+            "That ",
+            "I'm ",
+            "at ",
+            "an ",
+            "all ",
+            "time"
+          ]
+        },
+        {
+          "key": "118348|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "120744|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "123408|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "126064|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "128745|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "131377|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "134049|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "136720|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "139638|I I've been trying to fix my pride",
+          "text": "I I've been trying to fix my pride",
+          "segments": [
+            "I ",
+            "I've ",
+            "been ",
+            "trying ",
+            "to ",
+            "fix ",
+            "my ",
+            "pride"
+          ]
+        },
+        {
+          "key": "143796|But that ****'s broken that ****'s broken",
+          "text": "But that ****'s broken that ****'s broken",
+          "segments": [
+            "But ",
+            "that ",
+            "****'s ",
+            "broken ",
+            "that ",
+            "****'s ",
+            "broken"
+          ]
+        },
+        {
+          "key": "150289|Lie lie lie lie l lie I try to hide",
+          "text": "Lie lie lie lie l lie I try to hide",
+          "segments": [
+            "Lie ",
+            "lie ",
+            "lie ",
+            "lie ",
+            "l ",
+            "lie ",
+            "I ",
+            "try ",
+            "to ",
+            "hide"
+          ]
+        },
+        {
+          "key": "154807|But now you know it",
+          "text": "But now you know it",
+          "segments": [
+            "But ",
+            "now ",
+            "you ",
+            "know ",
+            "it"
+          ]
+        },
+        {
+          "key": "158011|That I'm at an all time",
+          "text": "That I'm at an all time",
+          "segments": [
+            "That ",
+            "I'm ",
+            "at ",
+            "an ",
+            "all ",
+            "time"
+          ]
+        },
+        {
+          "key": "160830|Low low low low low low low low",
+          "text": "Low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "162955|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "165483|Low low low low",
+          "text": "Low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "166767|Low low low low low low low",
+          "text": "Low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "168834|That I'm at an all time",
+          "text": "That I'm at an all time",
+          "segments": [
+            "That ",
+            "I'm ",
+            "at ",
+            "an ",
+            "all ",
+            "time"
+          ]
+        },
+        {
+          "key": "182384|I'm at an all time",
+          "text": "I'm at an all time",
+          "segments": [
+            "I'm ",
+            "at ",
+            "an ",
+            "all ",
+            "time"
+          ]
+        },
+        {
+          "key": "184882|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "187394|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "190063|Low low low low low low low low low",
+          "text": "Low low low low low low low low low",
+          "segments": [
+            "Low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low ",
+            "low"
+          ]
+        },
+        {
+          "key": "192735|I'm at an all time",
+          "text": "I'm at an all time",
+          "segments": [
+            "I'm ",
+            "at ",
+            "an ",
+            "all ",
+            "time"
+          ]
+        }
+      ]
+    }
+  ]
+}

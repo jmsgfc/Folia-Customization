@@ -1,0 +1,410 @@
+{
+  "batchNumber": 173,
+  "songs": [
+    {
+      "rank": 861,
+      "songKey": "online:kugou:6ff2e7cf52af6dc435e517601b55d761",
+      "name": "CHINA-2",
+      "artist": "Sand",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 862,
+      "songKey": "online:kugou:1fdb3731226ec3a874412fceeba34b34",
+      "name": "存亡之战 (派崔克·史坦普混音)",
+      "artist": "Ramin Djawadi",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 863,
+      "songKey": "online:kugou:69aee79ad15041d8c6e74037f8c408cc",
+      "name": "旋律之森",
+      "artist": "Thunse",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    },
+    {
+      "rank": 864,
+      "songKey": "online:kugou:175513acb0ea076d44ffcbd890de9ce8",
+      "name": "王者同行 (动漫版)",
+      "artist": "陈牧耶",
+      "lines": [
+        {
+          "key": "5|陈牧耶 - 王者同行",
+          "startMs": 5,
+          "text": "陈牧耶 - 王者同行"
+        },
+        {
+          "key": "674|作词：黄洋",
+          "startMs": 674,
+          "text": "作词：黄洋"
+        },
+        {
+          "key": "877|作曲：早川晓雄",
+          "startMs": 877,
+          "text": "作曲：早川晓雄"
+        },
+        {
+          "key": "1078|编曲：早川晓雄",
+          "startMs": 1078,
+          "text": "编曲：早川晓雄"
+        },
+        {
+          "key": "1332|制作人：黄洋",
+          "startMs": 1332,
+          "text": "制作人：黄洋"
+        },
+        {
+          "key": "1538|配唱制作人：黄洋",
+          "startMs": 1538,
+          "text": "配唱制作人：黄洋"
+        },
+        {
+          "key": "1790|吉他：早川暁雄、早川晓雄、AKIO HAYAKAWA",
+          "startMs": 1790,
+          "text": "吉他：早川暁雄、早川晓雄、AKIO HAYAKAWA"
+        },
+        {
+          "key": "2299|混音：郑昊杰",
+          "startMs": 2299,
+          "text": "混音：郑昊杰"
+        },
+        {
+          "key": "2501|母带处理：BD studio mastering",
+          "startMs": 2501,
+          "text": "母带处理：BD studio mastering"
+        },
+        {
+          "key": "2752|音乐监制：赵鸿飞",
+          "startMs": 2752,
+          "text": "音乐监制：赵鸿飞"
+        },
+        {
+          "key": "3007|出品：天美音频中心 天美L1工作室",
+          "startMs": 3007,
+          "text": "出品：天美音频中心 天美L1工作室"
+        },
+        {
+          "key": "8869|啦......",
+          "startMs": 8869,
+          "text": "啦......"
+        },
+        {
+          "key": "13293|啦......",
+          "startMs": 13293,
+          "text": "啦......"
+        },
+        {
+          "key": "17714|啦......",
+          "startMs": 17714,
+          "text": "啦......"
+        },
+        {
+          "key": "21812|啦......",
+          "startMs": 21812,
+          "text": "啦......"
+        },
+        {
+          "key": "34920|Happy happy birthday",
+          "startMs": 34920,
+          "text": "Happy happy birthday"
+        },
+        {
+          "key": "36800|哼着愉快的歌曲",
+          "startMs": 36800,
+          "text": "哼着愉快的歌曲"
+        },
+        {
+          "key": "39252|Happy happy birthday",
+          "startMs": 39252,
+          "text": "Happy happy birthday"
+        },
+        {
+          "key": "41195|暖暖并肩的回忆",
+          "startMs": 41195,
+          "text": "暖暖并肩的回忆"
+        },
+        {
+          "key": "43576|Happy day for everything",
+          "startMs": 43576,
+          "text": "Happy day for everything"
+        },
+        {
+          "key": "45403|开开黑 别怕风雨",
+          "startMs": 45403,
+          "text": "开开黑 别怕风雨"
+        },
+        {
+          "key": "47935|最浪漫的剧情",
+          "startMs": 47935,
+          "text": "最浪漫的剧情"
+        },
+        {
+          "key": "49876|王者陪伴着你",
+          "startMs": 49876,
+          "text": "王者陪伴着你"
+        },
+        {
+          "key": "52253|最浪漫的结局",
+          "startMs": 52253,
+          "text": "最浪漫的结局"
+        },
+        {
+          "key": "54109|我们结伴同行",
+          "startMs": 54109,
+          "text": "我们结伴同行"
+        },
+        {
+          "key": "61559|穿过峡谷乘着风的旅行",
+          "startMs": 61559,
+          "text": "穿过峡谷乘着风的旅行"
+        },
+        {
+          "key": "65864|心怀不惧 翱翔天际",
+          "startMs": 65864,
+          "text": "心怀不惧 翱翔天际"
+        },
+        {
+          "key": "70191|在同样的世界里",
+          "startMs": 70191,
+          "text": "在同样的世界里"
+        },
+        {
+          "key": "72775|我们都是王者荣耀无比",
+          "startMs": 72775,
+          "text": "我们都是王者荣耀无比"
+        },
+        {
+          "key": "78738|闪现后放出魔法",
+          "startMs": 78738,
+          "text": "闪现后放出魔法"
+        },
+        {
+          "key": "80820|再躲进草丛",
+          "startMs": 80820,
+          "text": "再躲进草丛"
+        },
+        {
+          "key": "83192|守护水晶的快乐别停",
+          "startMs": 83192,
+          "text": "守护水晶的快乐别停"
+        },
+        {
+          "key": "87645|只要你我在一路随行",
+          "startMs": 87645,
+          "text": "只要你我在一路随行"
+        },
+        {
+          "key": "91991|带你飞的小任性",
+          "startMs": 91991,
+          "text": "带你飞的小任性"
+        },
+        {
+          "key": "96483|嘟 嘟 嘟 嘟",
+          "startMs": 96483,
+          "text": "嘟 嘟 嘟 嘟"
+        },
+        {
+          "key": "98053|Happy happy birthday",
+          "startMs": 98053,
+          "text": "Happy happy birthday"
+        },
+        {
+          "key": "99904|哼着愉快的歌曲",
+          "startMs": 99904,
+          "text": "哼着愉快的歌曲"
+        },
+        {
+          "key": "102332|Happy happy birthday",
+          "startMs": 102332,
+          "text": "Happy happy birthday"
+        },
+        {
+          "key": "104194|暖暖并肩的回忆",
+          "startMs": 104194,
+          "text": "暖暖并肩的回忆"
+        },
+        {
+          "key": "106667|Happy day for everything",
+          "startMs": 106667,
+          "text": "Happy day for everything"
+        },
+        {
+          "key": "108630|开开黑 别怕风雨",
+          "startMs": 108630,
+          "text": "开开黑 别怕风雨"
+        },
+        {
+          "key": "111010|最浪漫的剧情",
+          "startMs": 111010,
+          "text": "最浪漫的剧情"
+        },
+        {
+          "key": "112849|王者陪伴着你",
+          "startMs": 112849,
+          "text": "王者陪伴着你"
+        },
+        {
+          "key": "122394|穿过峡谷乘着风的旅行",
+          "startMs": 122394,
+          "text": "穿过峡谷乘着风的旅行"
+        },
+        {
+          "key": "126804|心怀不惧 翱翔天际",
+          "startMs": 126804,
+          "text": "心怀不惧 翱翔天际"
+        },
+        {
+          "key": "131119|在同样的世界里",
+          "startMs": 131119,
+          "text": "在同样的世界里"
+        },
+        {
+          "key": "133656|我们都是王者荣耀无比",
+          "startMs": 133656,
+          "text": "我们都是王者荣耀无比"
+        },
+        {
+          "key": "139685|闪现后放出魔法",
+          "startMs": 139685,
+          "text": "闪现后放出魔法"
+        },
+        {
+          "key": "141702|再躲进草丛",
+          "startMs": 141702,
+          "text": "再躲进草丛"
+        },
+        {
+          "key": "144086|守护水晶的快乐别停",
+          "startMs": 144086,
+          "text": "守护水晶的快乐别停"
+        },
+        {
+          "key": "148536|只要你我在一路随行",
+          "startMs": 148536,
+          "text": "只要你我在一路随行"
+        },
+        {
+          "key": "152891|带你飞的小任性",
+          "startMs": 152891,
+          "text": "带你飞的小任性"
+        },
+        {
+          "key": "157340|嘟 嘟 嘟 嘟",
+          "startMs": 157340,
+          "text": "嘟 嘟 嘟 嘟"
+        },
+        {
+          "key": "159985|Happy happy birthday",
+          "startMs": 159985,
+          "text": "Happy happy birthday"
+        },
+        {
+          "key": "161894|哼着愉快的歌曲",
+          "startMs": 161894,
+          "text": "哼着愉快的歌曲"
+        },
+        {
+          "key": "164434|Happy happy birthday",
+          "startMs": 164434,
+          "text": "Happy happy birthday"
+        },
+        {
+          "key": "166274|暖暖并肩的回忆",
+          "startMs": 166274,
+          "text": "暖暖并肩的回忆"
+        },
+        {
+          "key": "168702|Happy day for everything",
+          "startMs": 168702,
+          "text": "Happy day for everything"
+        },
+        {
+          "key": "170577|开开黑 别怕风雨",
+          "startMs": 170577,
+          "text": "开开黑 别怕风雨"
+        },
+        {
+          "key": "173058|最浪漫的剧情",
+          "startMs": 173058,
+          "text": "最浪漫的剧情"
+        },
+        {
+          "key": "174946|王者陪伴着你",
+          "startMs": 174946,
+          "text": "王者陪伴着你"
+        },
+        {
+          "key": "177380|最浪漫的结局",
+          "startMs": 177380,
+          "text": "最浪漫的结局"
+        },
+        {
+          "key": "179267|我们结伴同行",
+          "startMs": 179267,
+          "text": "我们结伴同行"
+        },
+        {
+          "key": "181957|啦......",
+          "startMs": 181957,
+          "text": "啦......"
+        },
+        {
+          "key": "186107|啦......",
+          "startMs": 186107,
+          "text": "啦......"
+        },
+        {
+          "key": "190510|啦......",
+          "startMs": 190510,
+          "text": "啦......"
+        },
+        {
+          "key": "194762|啦......",
+          "startMs": 194762,
+          "text": "啦......"
+        },
+        {
+          "key": "199669|最浪漫的结局",
+          "startMs": 199669,
+          "text": "最浪漫的结局"
+        },
+        {
+          "key": "204884|我们结伴同行",
+          "startMs": 204884,
+          "text": "我们结伴同行"
+        }
+      ]
+    },
+    {
+      "rank": 865,
+      "songKey": "online:kugou:a0f641f2cb130b98bab12b6d39ac5c20",
+      "name": "China-P",
+      "artist": "徐梦圆",
+      "lines": [
+        {
+          "key": "1589|纯音乐，请欣赏",
+          "startMs": 1589,
+          "text": "纯音乐，请欣赏"
+        }
+      ]
+    }
+  ]
+}

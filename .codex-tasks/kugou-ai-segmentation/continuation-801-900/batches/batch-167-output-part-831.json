@@ -1,0 +1,484 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:4f1d3c54f16eb7f66dc75b82e2a652b1",
+      "lines": [
+        {
+          "key": "30|Joel Adams - Please Don't Go",
+          "text": "Joel Adams - Please Don't Go",
+          "segments": [
+            "Joel Adams",
+            " - ",
+            "Please Don't Go"
+          ]
+        },
+        {
+          "key": "24440|Nobody ever knows",
+          "text": "Nobody ever knows",
+          "segments": [
+            "Nobody ",
+            "ever ",
+            "knows"
+          ]
+        },
+        {
+          "key": "27230|Nobody ever sees",
+          "text": "Nobody ever sees",
+          "segments": [
+            "Nobody ",
+            "ever ",
+            "sees"
+          ]
+        },
+        {
+          "key": "30020|I left my soul",
+          "text": "I left my soul",
+          "segments": [
+            "I ",
+            "left ",
+            "my ",
+            "soul"
+          ]
+        },
+        {
+          "key": "32760|Back then no I'm too weak",
+          "text": "Back then no I'm too weak",
+          "segments": [
+            "Back ",
+            "then ",
+            "no ",
+            "I'm ",
+            "too ",
+            "weak"
+          ]
+        },
+        {
+          "key": "35580|Most nights I pray for you to come home",
+          "text": "Most nights I pray for you to come home",
+          "segments": [
+            "Most ",
+            "nights ",
+            "I ",
+            "pray ",
+            "for ",
+            "you ",
+            "to ",
+            "come ",
+            "home"
+          ]
+        },
+        {
+          "key": "41540|Praying to the lord",
+          "text": "Praying to the lord",
+          "segments": [
+            "Praying ",
+            "to ",
+            "the ",
+            "lord"
+          ]
+        },
+        {
+          "key": "44350|Praying for my soul",
+          "text": "Praying for my soul",
+          "segments": [
+            "Praying ",
+            "for ",
+            "my ",
+            "soul"
+          ]
+        },
+        {
+          "key": "46310|Now please don't go",
+          "text": "Now please don't go",
+          "segments": [
+            "Now ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "52030|Most nights I hardly sleep when I'm alone",
+          "text": "Most nights I hardly sleep when I'm alone",
+          "segments": [
+            "Most ",
+            "nights ",
+            "I ",
+            "hardly ",
+            "sleep ",
+            "when ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "57650|Now please don't go oh no",
+          "text": "Now please don't go oh no",
+          "segments": [
+            "Now ",
+            "please ",
+            "don't ",
+            "go ",
+            "oh ",
+            "no"
+          ]
+        },
+        {
+          "key": "63630|I think of you whenever I'm alone",
+          "text": "I think of you whenever I'm alone",
+          "segments": [
+            "I ",
+            "think ",
+            "of ",
+            "you ",
+            "whenever ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "67910|So please don't go",
+          "text": "So please don't go",
+          "segments": [
+            "So ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "81330|Cause I don't ever wanna know",
+          "text": "Cause I don't ever wanna know",
+          "segments": [
+            "Cause ",
+            "I ",
+            "don't ",
+            "ever ",
+            "wanna ",
+            "know"
+          ]
+        },
+        {
+          "key": "84330|Don't ever want to see things change",
+          "text": "Don't ever want to see things change",
+          "segments": [
+            "Don't ",
+            "ever ",
+            "want ",
+            "to ",
+            "see ",
+            "things ",
+            "change"
+          ]
+        },
+        {
+          "key": "87020|Cause when I'm living on my own",
+          "text": "Cause when I'm living on my own",
+          "segments": [
+            "Cause ",
+            "when ",
+            "I'm ",
+            "living ",
+            "on ",
+            "my ",
+            "own"
+          ]
+        },
+        {
+          "key": "89730|I wanna take it back and start again",
+          "text": "I wanna take it back and start again",
+          "segments": [
+            "I ",
+            "wanna ",
+            "take ",
+            "it ",
+            "back ",
+            "and ",
+            "start ",
+            "again"
+          ]
+        },
+        {
+          "key": "92620|Most nights I pray for you to come home",
+          "text": "Most nights I pray for you to come home",
+          "segments": [
+            "Most ",
+            "nights ",
+            "I ",
+            "pray ",
+            "for ",
+            "you ",
+            "to ",
+            "come ",
+            "home"
+          ]
+        },
+        {
+          "key": "98759|I'm praying to the lord",
+          "text": "I'm praying to the lord",
+          "segments": [
+            "I'm ",
+            "praying ",
+            "to ",
+            "the ",
+            "lord"
+          ]
+        },
+        {
+          "key": "101609|I'm praying for my soul",
+          "text": "I'm praying for my soul",
+          "segments": [
+            "I'm ",
+            "praying ",
+            "for ",
+            "my ",
+            "soul"
+          ]
+        },
+        {
+          "key": "104759|Now please don't go",
+          "text": "Now please don't go",
+          "segments": [
+            "Now ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "111479|Most nights I hardly sleep",
+          "text": "Most nights I hardly sleep",
+          "segments": [
+            "Most ",
+            "nights ",
+            "I ",
+            "hardly ",
+            "sleep"
+          ]
+        },
+        {
+          "key": "113719|When I'm alone",
+          "text": "When I'm alone",
+          "segments": [
+            "When ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "116239|Now please don't go oh no",
+          "text": "Now please don't go oh no",
+          "segments": [
+            "Now ",
+            "please ",
+            "don't ",
+            "go ",
+            "oh ",
+            "no"
+          ]
+        },
+        {
+          "key": "122379|I think of you whenever I'm alone",
+          "text": "I think of you whenever I'm alone",
+          "segments": [
+            "I ",
+            "think ",
+            "of ",
+            "you ",
+            "whenever ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "126189|So please don't go",
+          "text": "So please don't go",
+          "segments": [
+            "So ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "130089|I sent so many messages",
+          "text": "I sent so many messages",
+          "segments": [
+            "I ",
+            "sent ",
+            "so ",
+            "many ",
+            "messages"
+          ]
+        },
+        {
+          "key": "132449|You don't reply",
+          "text": "You don't reply",
+          "segments": [
+            "You ",
+            "don't ",
+            "reply"
+          ]
+        },
+        {
+          "key": "135669|Gotta feel around what am I missing babe",
+          "text": "Gotta feel around what am I missing babe",
+          "segments": [
+            "Gotta ",
+            "feel ",
+            "around ",
+            "what ",
+            "am ",
+            "I ",
+            "missing ",
+            "babe"
+          ]
+        },
+        {
+          "key": "138809|Singing now oh oh oh",
+          "text": "Singing now oh oh oh",
+          "segments": [
+            "Singing ",
+            "now ",
+            "oh ",
+            "oh ",
+            "oh"
+          ]
+        },
+        {
+          "key": "141969|I need you now I need your love oh",
+          "text": "I need you now I need your love oh",
+          "segments": [
+            "I ",
+            "need ",
+            "you ",
+            "now ",
+            "I ",
+            "need ",
+            "your ",
+            "love ",
+            "oh"
+          ]
+        },
+        {
+          "key": "152008|Now please don't go",
+          "text": "Now please don't go",
+          "segments": [
+            "Now ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "157648|I said most nights I hardly sleep",
+          "text": "I said most nights I hardly sleep",
+          "segments": [
+            "I ",
+            "said ",
+            "most ",
+            "nights ",
+            "I ",
+            "hardly ",
+            "sleep"
+          ]
+        },
+        {
+          "key": "160858|When I'm alone",
+          "text": "When I'm alone",
+          "segments": [
+            "When ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "163308|Now please don't go oh no",
+          "text": "Now please don't go oh no",
+          "segments": [
+            "Now ",
+            "please ",
+            "don't ",
+            "go ",
+            "oh ",
+            "no"
+          ]
+        },
+        {
+          "key": "169018|I think of you whenever I'm alone",
+          "text": "I think of you whenever I'm alone",
+          "segments": [
+            "I ",
+            "think ",
+            "of ",
+            "you ",
+            "whenever ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "175448|So please don't go",
+          "text": "So please don't go",
+          "segments": [
+            "So ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "179218|So please don't go",
+          "text": "So please don't go",
+          "segments": [
+            "So ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "186898|So please don't go",
+          "text": "So please don't go",
+          "segments": [
+            "So ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        },
+        {
+          "key": "190117|Oh no",
+          "text": "Oh no",
+          "segments": [
+            "Oh ",
+            "no"
+          ]
+        },
+        {
+          "key": "192137|I think of you whenever I'm alone",
+          "text": "I think of you whenever I'm alone",
+          "segments": [
+            "I ",
+            "think ",
+            "of ",
+            "you ",
+            "whenever ",
+            "I'm ",
+            "alone"
+          ]
+        },
+        {
+          "key": "196597|So please don't go",
+          "text": "So please don't go",
+          "segments": [
+            "So ",
+            "please ",
+            "don't ",
+            "go"
+          ]
+        }
+      ]
+    }
+  ]
+}

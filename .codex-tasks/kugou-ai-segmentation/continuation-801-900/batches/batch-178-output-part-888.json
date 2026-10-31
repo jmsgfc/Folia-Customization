@@ -1,0 +1,806 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:874b06a21ae9cc0b86a381e0c10fc5e2",
+      "lines": [
+        {
+          "key": "616|will.i.am、The Script - Hall of Fame",
+          "text": "will.i.am、The Script - Hall of Fame",
+          "segments": [
+            "will.i.am、",
+            "The Script",
+            " - ",
+            "Hall of Fame"
+          ]
+        },
+        {
+          "key": "1690|Written by：The Script",
+          "text": "Written by：The Script",
+          "segments": [
+            "Written by：",
+            "The Script"
+          ]
+        },
+        {
+          "key": "22223|Yeah you could be the greatest you can be the best",
+          "text": "Yeah you could be the greatest you can be the best",
+          "segments": [
+            "Yeah ",
+            "you ",
+            "could ",
+            "be ",
+            "the ",
+            "greatest ",
+            "you ",
+            "can ",
+            "be ",
+            "the ",
+            "best"
+          ]
+        },
+        {
+          "key": "25302|You can be the King Kong banging on your chest",
+          "text": "You can be the King Kong banging on your chest",
+          "segments": [
+            "You ",
+            "can ",
+            "be ",
+            "the ",
+            "King Kong ",
+            "banging ",
+            "on ",
+            "your ",
+            "chest"
+          ]
+        },
+        {
+          "key": "28142|You could beat the world you could beat the war",
+          "text": "You could beat the world you could beat the war",
+          "segments": [
+            "You ",
+            "could ",
+            "beat ",
+            "the ",
+            "world ",
+            "you ",
+            "could ",
+            "beat ",
+            "the ",
+            "war"
+          ]
+        },
+        {
+          "key": "30911|You could talk to god go banging on his door",
+          "text": "You could talk to god go banging on his door",
+          "segments": [
+            "You ",
+            "could ",
+            "talk ",
+            "to ",
+            "god ",
+            "go ",
+            "banging ",
+            "on ",
+            "his ",
+            "door"
+          ]
+        },
+        {
+          "key": "33861|You can throw your hands up you can beat the clock",
+          "text": "You can throw your hands up you can beat the clock",
+          "segments": [
+            "You ",
+            "can ",
+            "throw ",
+            "your ",
+            "hands ",
+            "up ",
+            "you ",
+            "can ",
+            "beat ",
+            "the ",
+            "clock"
+          ]
+        },
+        {
+          "key": "36510|You can move a mountain you can break rocks",
+          "text": "You can move a mountain you can break rocks",
+          "segments": [
+            "You ",
+            "can ",
+            "move ",
+            "a ",
+            "mountain ",
+            "you ",
+            "can ",
+            "break ",
+            "rocks"
+          ]
+        },
+        {
+          "key": "39280|You could be a master don't wait for luck",
+          "text": "You could be a master don't wait for luck",
+          "segments": [
+            "You ",
+            "could ",
+            "be ",
+            "a ",
+            "master ",
+            "don't ",
+            "wait ",
+            "for ",
+            "luck"
+          ]
+        },
+        {
+          "key": "42270|Dedicate yourself and you can find yourself",
+          "text": "Dedicate yourself and you can find yourself",
+          "segments": [
+            "Dedicate ",
+            "yourself ",
+            "and ",
+            "you ",
+            "can ",
+            "find ",
+            "yourself"
+          ]
+        },
+        {
+          "key": "44339|Standing in the hall of fame",
+          "text": "Standing in the hall of fame",
+          "segments": [
+            "Standing ",
+            "in ",
+            "the ",
+            "hall ",
+            "of ",
+            "fame"
+          ]
+        },
+        {
+          "key": "49608|And the world's gonna know your name",
+          "text": "And the world's gonna know your name",
+          "segments": [
+            "And ",
+            "the ",
+            "world's ",
+            "gonna ",
+            "know ",
+            "your ",
+            "name"
+          ]
+        },
+        {
+          "key": "55208|'Cause you burn with the brightest flame",
+          "text": "'Cause you burn with the brightest flame",
+          "segments": [
+            "'Cause ",
+            "you ",
+            "burn ",
+            "with ",
+            "the ",
+            "brightest ",
+            "flame"
+          ]
+        },
+        {
+          "key": "60878|And the world's gonna know your name",
+          "text": "And the world's gonna know your name",
+          "segments": [
+            "And ",
+            "the ",
+            "world's ",
+            "gonna ",
+            "know ",
+            "your ",
+            "name"
+          ]
+        },
+        {
+          "key": "65528|And you'll be on the walls of the hall of fame",
+          "text": "And you'll be on the walls of the hall of fame",
+          "segments": [
+            "And ",
+            "you'll ",
+            "be ",
+            "on ",
+            "the ",
+            "walls ",
+            "of ",
+            "the ",
+            "hall ",
+            "of ",
+            "fame"
+          ]
+        },
+        {
+          "key": "67827|You could go the distance you can run the mile",
+          "text": "You could go the distance you can run the mile",
+          "segments": [
+            "You ",
+            "could ",
+            "go ",
+            "the ",
+            "distance ",
+            "you ",
+            "can ",
+            "run ",
+            "the ",
+            "mile"
+          ]
+        },
+        {
+          "key": "70406|You can walk straight through hell with a smile",
+          "text": "You can walk straight through hell with a smile",
+          "segments": [
+            "You ",
+            "can ",
+            "walk ",
+            "straight ",
+            "through ",
+            "hell ",
+            "with ",
+            "a ",
+            "smile"
+          ]
+        },
+        {
+          "key": "73255|You could be the hero you could get the gold",
+          "text": "You could be the hero you could get the gold",
+          "segments": [
+            "You ",
+            "could ",
+            "be ",
+            "the ",
+            "hero ",
+            "you ",
+            "could ",
+            "get ",
+            "the ",
+            "gold"
+          ]
+        },
+        {
+          "key": "76124|Breaking all the records they thought",
+          "text": "Breaking all the records they thought",
+          "segments": [
+            "Breaking ",
+            "all ",
+            "the ",
+            "records ",
+            "they ",
+            "thought"
+          ]
+        },
+        {
+          "key": "77364|Never could be broke",
+          "text": "Never could be broke",
+          "segments": [
+            "Never ",
+            "could ",
+            "be ",
+            "broke"
+          ]
+        },
+        {
+          "key": "78852|Do it for your people do it for your pride",
+          "text": "Do it for your people do it for your pride",
+          "segments": [
+            "Do ",
+            "it ",
+            "for ",
+            "your ",
+            "people ",
+            "do ",
+            "it ",
+            "for ",
+            "your ",
+            "pride"
+          ]
+        },
+        {
+          "key": "81852|Never gonna know if you never even try",
+          "text": "Never gonna know if you never even try",
+          "segments": [
+            "Never ",
+            "gonna ",
+            "know ",
+            "if ",
+            "you ",
+            "never ",
+            "even ",
+            "try"
+          ]
+        },
+        {
+          "key": "84482|Do it for your country do it for your name",
+          "text": "Do it for your country do it for your name",
+          "segments": [
+            "Do ",
+            "it ",
+            "for ",
+            "your ",
+            "country ",
+            "do ",
+            "it ",
+            "for ",
+            "your ",
+            "name"
+          ]
+        },
+        {
+          "key": "87472|'Cause there gonna be a day",
+          "text": "'Cause there gonna be a day",
+          "segments": [
+            "'Cause ",
+            "there ",
+            "gonna ",
+            "be ",
+            "a ",
+            "day"
+          ]
+        },
+        {
+          "key": "89150|When you're standing in the hall of fame",
+          "text": "When you're standing in the hall of fame",
+          "segments": [
+            "When ",
+            "you're ",
+            "standing ",
+            "in ",
+            "the ",
+            "hall ",
+            "of ",
+            "fame"
+          ]
+        },
+        {
+          "key": "94748|And the world's gonna know your name",
+          "text": "And the world's gonna know your name",
+          "segments": [
+            "And ",
+            "the ",
+            "world's ",
+            "gonna ",
+            "know ",
+            "your ",
+            "name"
+          ]
+        },
+        {
+          "key": "100388|'Cause you burn with the brightest flame",
+          "text": "'Cause you burn with the brightest flame",
+          "segments": [
+            "'Cause ",
+            "you ",
+            "burn ",
+            "with ",
+            "the ",
+            "brightest ",
+            "flame"
+          ]
+        },
+        {
+          "key": "106097|And the world's gonna know your name",
+          "text": "And the world's gonna know your name",
+          "segments": [
+            "And ",
+            "the ",
+            "world's ",
+            "gonna ",
+            "know ",
+            "your ",
+            "name"
+          ]
+        },
+        {
+          "key": "110687|And you'll be on the walls of the hall of fame",
+          "text": "And you'll be on the walls of the hall of fame",
+          "segments": [
+            "And ",
+            "you'll ",
+            "be ",
+            "on ",
+            "the ",
+            "walls ",
+            "of ",
+            "the ",
+            "hall ",
+            "of ",
+            "fame"
+          ]
+        },
+        {
+          "key": "113375|Be a champion",
+          "text": "Be a champion",
+          "segments": [
+            "Be ",
+            "a ",
+            "champion"
+          ]
+        },
+        {
+          "key": "116165|Be a champion",
+          "text": "Be a champion",
+          "segments": [
+            "Be ",
+            "a ",
+            "champion"
+          ]
+        },
+        {
+          "key": "118845|Be a champion",
+          "text": "Be a champion",
+          "segments": [
+            "Be ",
+            "a ",
+            "champion"
+          ]
+        },
+        {
+          "key": "121535|Be a champion",
+          "text": "Be a champion",
+          "segments": [
+            "Be ",
+            "a ",
+            "champion"
+          ]
+        },
+        {
+          "key": "122774|On the walls of the hall of fame",
+          "text": "On the walls of the hall of fame",
+          "segments": [
+            "On ",
+            "the ",
+            "walls ",
+            "of ",
+            "the ",
+            "hall ",
+            "of ",
+            "fame"
+          ]
+        },
+        {
+          "key": "125303|Be students",
+          "text": "Be students",
+          "segments": [
+            "Be ",
+            "students"
+          ]
+        },
+        {
+          "key": "125903|Be teachers",
+          "text": "Be teachers",
+          "segments": [
+            "Be ",
+            "teachers"
+          ]
+        },
+        {
+          "key": "126763|Be politicians",
+          "text": "Be politicians",
+          "segments": [
+            "Be ",
+            "politicians"
+          ]
+        },
+        {
+          "key": "127843|Be preachers",
+          "text": "Be preachers",
+          "segments": [
+            "Be ",
+            "preachers"
+          ]
+        },
+        {
+          "key": "130923|Be believers",
+          "text": "Be believers",
+          "segments": [
+            "Be ",
+            "believers"
+          ]
+        },
+        {
+          "key": "131623|Be leaders",
+          "text": "Be leaders",
+          "segments": [
+            "Be ",
+            "leaders"
+          ]
+        },
+        {
+          "key": "132483|Be astronauts",
+          "text": "Be astronauts",
+          "segments": [
+            "Be ",
+            "astronauts"
+          ]
+        },
+        {
+          "key": "133583|Be champions",
+          "text": "Be champions",
+          "segments": [
+            "Be ",
+            "champions"
+          ]
+        },
+        {
+          "key": "134713|Be truth seekers",
+          "text": "Be truth seekers",
+          "segments": [
+            "Be ",
+            "truth ",
+            "seekers"
+          ]
+        },
+        {
+          "key": "136553|Be students",
+          "text": "Be students",
+          "segments": [
+            "Be ",
+            "students"
+          ]
+        },
+        {
+          "key": "137193|Be teachers",
+          "text": "Be teachers",
+          "segments": [
+            "Be ",
+            "teachers"
+          ]
+        },
+        {
+          "key": "138123|Be politicians",
+          "text": "Be politicians",
+          "segments": [
+            "Be ",
+            "politicians"
+          ]
+        },
+        {
+          "key": "139183|Be preachers",
+          "text": "Be preachers",
+          "segments": [
+            "Be ",
+            "preachers"
+          ]
+        },
+        {
+          "key": "142203|Be believers",
+          "text": "Be believers",
+          "segments": [
+            "Be ",
+            "believers"
+          ]
+        },
+        {
+          "key": "142893|Be leaders",
+          "text": "Be leaders",
+          "segments": [
+            "Be ",
+            "leaders"
+          ]
+        },
+        {
+          "key": "143803|Be astronauts",
+          "text": "Be astronauts",
+          "segments": [
+            "Be ",
+            "astronauts"
+          ]
+        },
+        {
+          "key": "144813|Be champions",
+          "text": "Be champions",
+          "segments": [
+            "Be ",
+            "champions"
+          ]
+        },
+        {
+          "key": "146213|Standing in the hall of fame",
+          "text": "Standing in the hall of fame",
+          "segments": [
+            "Standing ",
+            "in ",
+            "the ",
+            "hall ",
+            "of ",
+            "fame"
+          ]
+        },
+        {
+          "key": "151203|And the world's gonna know your name",
+          "text": "And the world's gonna know your name",
+          "segments": [
+            "And ",
+            "the ",
+            "world's ",
+            "gonna ",
+            "know ",
+            "your ",
+            "name"
+          ]
+        },
+        {
+          "key": "156903|'Cause you burn with the brightest flame",
+          "text": "'Cause you burn with the brightest flame",
+          "segments": [
+            "'Cause ",
+            "you ",
+            "burn ",
+            "with ",
+            "the ",
+            "brightest ",
+            "flame"
+          ]
+        },
+        {
+          "key": "162511|And the world's gonna know your name",
+          "text": "And the world's gonna know your name",
+          "segments": [
+            "And ",
+            "the ",
+            "world's ",
+            "gonna ",
+            "know ",
+            "your ",
+            "name"
+          ]
+        },
+        {
+          "key": "166701|And you'll be on the walls of the hall of fame",
+          "text": "And you'll be on the walls of the hall of fame",
+          "segments": [
+            "And ",
+            "you'll ",
+            "be ",
+            "on ",
+            "the ",
+            "walls ",
+            "of ",
+            "the ",
+            "hall ",
+            "of ",
+            "fame"
+          ]
+        },
+        {
+          "key": "169800|You could be the greatest you can be the best",
+          "text": "You could be the greatest you can be the best",
+          "segments": [
+            "You ",
+            "could ",
+            "be ",
+            "the ",
+            "greatest ",
+            "you ",
+            "can ",
+            "be ",
+            "the ",
+            "best"
+          ]
+        },
+        {
+          "key": "171880|You can be the King Kong banging on your chest",
+          "text": "You can be the King Kong banging on your chest",
+          "segments": [
+            "You ",
+            "can ",
+            "be ",
+            "the ",
+            "King Kong ",
+            "banging ",
+            "on ",
+            "your ",
+            "chest"
+          ]
+        },
+        {
+          "key": "175399|You could beat the world you could beat the war",
+          "text": "You could beat the world you could beat the war",
+          "segments": [
+            "You ",
+            "could ",
+            "beat ",
+            "the ",
+            "world ",
+            "you ",
+            "could ",
+            "beat ",
+            "the ",
+            "war"
+          ]
+        },
+        {
+          "key": "178059|You could talk to god go banging on his door",
+          "text": "You could talk to god go banging on his door",
+          "segments": [
+            "You ",
+            "could ",
+            "talk ",
+            "to ",
+            "god ",
+            "go ",
+            "banging ",
+            "on ",
+            "his ",
+            "door"
+          ]
+        },
+        {
+          "key": "180649|You can throw your hands up you can beat the clock",
+          "text": "You can throw your hands up you can beat the clock",
+          "segments": [
+            "You ",
+            "can ",
+            "throw ",
+            "your ",
+            "hands ",
+            "up ",
+            "you ",
+            "can ",
+            "beat ",
+            "the ",
+            "clock"
+          ]
+        },
+        {
+          "key": "183479|You can move a mountain you can break rocks",
+          "text": "You can move a mountain you can break rocks",
+          "segments": [
+            "You ",
+            "can ",
+            "move ",
+            "a ",
+            "mountain ",
+            "you ",
+            "can ",
+            "break ",
+            "rocks"
+          ]
+        },
+        {
+          "key": "186289|You could be a master don't wait for luck",
+          "text": "You could be a master don't wait for luck",
+          "segments": [
+            "You ",
+            "could ",
+            "be ",
+            "a ",
+            "master ",
+            "don't ",
+            "wait ",
+            "for ",
+            "luck"
+          ]
+        },
+        {
+          "key": "189279|Dedicate yourself and you can find yourself",
+          "text": "Dedicate yourself and you can find yourself",
+          "segments": [
+            "Dedicate ",
+            "yourself ",
+            "and ",
+            "you ",
+            "can ",
+            "find ",
+            "yourself"
+          ]
+        },
+        {
+          "key": "191097|Standing in the hall of fame",
+          "text": "Standing in the hall of fame",
+          "segments": [
+            "Standing ",
+            "in ",
+            "the ",
+            "hall ",
+            "of ",
+            "fame"
+          ]
+        }
+      ]
+    }
+  ]
+}

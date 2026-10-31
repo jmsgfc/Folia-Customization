@@ -1,0 +1,953 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:c5fdf4564d33fc695175acab5757e353",
+      "lines": [
+        {
+          "key": "2483|The Phoenix - Fall Out Boy",
+          "text": "The Phoenix - Fall Out Boy",
+          "segments": [
+            "The Phoenix",
+            " - ",
+            "Fall Out Boy"
+          ]
+        },
+        {
+          "key": "3718|Written by：Patrick Stump/Pete Wentz/Joe Trohman/Andy Hurley",
+          "text": "Written by：Patrick Stump/Pete Wentz/Joe Trohman/Andy Hurley",
+          "segments": [
+            "Written by：",
+            "Patrick Stump/",
+            "Pete Wentz/",
+            "Joe Trohman/",
+            "Andy Hurley"
+          ]
+        },
+        {
+          "key": "9025|Put on your war paint",
+          "text": "Put on your war paint",
+          "segments": [
+            "Put ",
+            "on ",
+            "your ",
+            "war ",
+            "paint"
+          ]
+        },
+        {
+          "key": "15871|You are a brick tied to me that's dragging me down",
+          "text": "You are a brick tied to me that's dragging me down",
+          "segments": [
+            "You ",
+            "are ",
+            "a ",
+            "brick ",
+            "tied ",
+            "to ",
+            "me ",
+            "that's ",
+            "dragging ",
+            "me ",
+            "down"
+          ]
+        },
+        {
+          "key": "19257|Strike a match and I'll burn you to the ground",
+          "text": "Strike a match and I'll burn you to the ground",
+          "segments": [
+            "Strike ",
+            "a ",
+            "match ",
+            "and ",
+            "I'll ",
+            "burn ",
+            "you ",
+            "to ",
+            "the ",
+            "ground"
+          ]
+        },
+        {
+          "key": "22774|We are the jack oh lanterns in July",
+          "text": "We are the jack oh lanterns in July",
+          "segments": [
+            "We ",
+            "are ",
+            "the ",
+            "jack ",
+            "oh ",
+            "lanterns ",
+            "in ",
+            "July"
+          ]
+        },
+        {
+          "key": "25076|Setting fire to the sky",
+          "text": "Setting fire to the sky",
+          "segments": [
+            "Setting ",
+            "fire ",
+            "to ",
+            "the ",
+            "sky"
+          ]
+        },
+        {
+          "key": "26866|Here here comes this rising tide",
+          "text": "Here here comes this rising tide",
+          "segments": [
+            "Here ",
+            "here ",
+            "comes ",
+            "this ",
+            "rising ",
+            "tide"
+          ]
+        },
+        {
+          "key": "29819|So come on",
+          "text": "So come on",
+          "segments": [
+            "So ",
+            "come ",
+            "on"
+          ]
+        },
+        {
+          "key": "33359|Put on your war paint",
+          "text": "Put on your war paint",
+          "segments": [
+            "Put ",
+            "on ",
+            "your ",
+            "war ",
+            "paint"
+          ]
+        },
+        {
+          "key": "37304|Cross walks and crossed hearts",
+          "text": "Cross walks and crossed hearts",
+          "segments": [
+            "Cross ",
+            "walks ",
+            "and ",
+            "crossed ",
+            "hearts"
+          ]
+        },
+        {
+          "key": "39336|And hope to dies",
+          "text": "And hope to dies",
+          "segments": [
+            "And ",
+            "hope ",
+            "to ",
+            "dies"
+          ]
+        },
+        {
+          "key": "40625|Silver clouds with grey linings",
+          "text": "Silver clouds with grey linings",
+          "segments": [
+            "Silver ",
+            "clouds ",
+            "with ",
+            "grey ",
+            "linings"
+          ]
+        },
+        {
+          "key": "43644|So we can take the world back",
+          "text": "So we can take the world back",
+          "segments": [
+            "So ",
+            "we ",
+            "can ",
+            "take ",
+            "the ",
+            "world ",
+            "back"
+          ]
+        },
+        {
+          "key": "45736|From the heart attacked",
+          "text": "From the heart attacked",
+          "segments": [
+            "From ",
+            "the ",
+            "heart ",
+            "attacked"
+          ]
+        },
+        {
+          "key": "47226|One maniac at a time we will take it back",
+          "text": "One maniac at a time we will take it back",
+          "segments": [
+            "One ",
+            "maniac ",
+            "at ",
+            "a ",
+            "time ",
+            "we ",
+            "will ",
+            "take ",
+            "it ",
+            "back"
+          ]
+        },
+        {
+          "key": "50639|You know time crawls on when you're",
+          "text": "You know time crawls on when you're",
+          "segments": [
+            "You ",
+            "know ",
+            "time ",
+            "crawls ",
+            "on ",
+            "when ",
+            "you're"
+          ]
+        },
+        {
+          "key": "52887|Waiting for the song to start",
+          "text": "Waiting for the song to start",
+          "segments": [
+            "Waiting ",
+            "for ",
+            "the ",
+            "song ",
+            "to ",
+            "start"
+          ]
+        },
+        {
+          "key": "55083|So dance along to the beat of your heart",
+          "text": "So dance along to the beat of your heart",
+          "segments": [
+            "So ",
+            "dance ",
+            "along ",
+            "to ",
+            "the ",
+            "beat ",
+            "of ",
+            "your ",
+            "heart"
+          ]
+        },
+        {
+          "key": "58992|Hey young blood",
+          "text": "Hey young blood",
+          "segments": [
+            "Hey ",
+            "young ",
+            "blood"
+          ]
+        },
+        {
+          "key": "60694|Doesn't it feel",
+          "text": "Doesn't it feel",
+          "segments": [
+            "Doesn't ",
+            "it ",
+            "feel"
+          ]
+        },
+        {
+          "key": "62371|Like our time is running out",
+          "text": "Like our time is running out",
+          "segments": [
+            "Like ",
+            "our ",
+            "time ",
+            "is ",
+            "running ",
+            "out"
+          ]
+        },
+        {
+          "key": "65798|I'm gonna change you like a remix",
+          "text": "I'm gonna change you like a remix",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "change ",
+            "you ",
+            "like ",
+            "a ",
+            "remix"
+          ]
+        },
+        {
+          "key": "69795|Then I'll raise you like a phoenix",
+          "text": "Then I'll raise you like a phoenix",
+          "segments": [
+            "Then ",
+            "I'll ",
+            "raise ",
+            "you ",
+            "like ",
+            "a ",
+            "phoenix"
+          ]
+        },
+        {
+          "key": "73114|You're wearing our vintage misery",
+          "text": "You're wearing our vintage misery",
+          "segments": [
+            "You're ",
+            "wearing ",
+            "our ",
+            "vintage ",
+            "misery"
+          ]
+        },
+        {
+          "key": "76347|No I think it looked a little better on me",
+          "text": "No I think it looked a little better on me",
+          "segments": [
+            "No ",
+            "I ",
+            "think ",
+            "it ",
+            "looked ",
+            "a ",
+            "little ",
+            "better ",
+            "on ",
+            "me"
+          ]
+        },
+        {
+          "key": "79749|I'm gonna change you like a remix",
+          "text": "I'm gonna change you like a remix",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "change ",
+            "you ",
+            "like ",
+            "a ",
+            "remix"
+          ]
+        },
+        {
+          "key": "83676|Then I'll raise you like a phoenix",
+          "text": "Then I'll raise you like a phoenix",
+          "segments": [
+            "Then ",
+            "I'll ",
+            "raise ",
+            "you ",
+            "like ",
+            "a ",
+            "phoenix"
+          ]
+        },
+        {
+          "key": "90614|Bring home the boys and",
+          "text": "Bring home the boys and",
+          "segments": [
+            "Bring ",
+            "home ",
+            "the ",
+            "boys ",
+            "and"
+          ]
+        },
+        {
+          "key": "92049|Scrap scrap metal the tanks",
+          "text": "Scrap scrap metal the tanks",
+          "segments": [
+            "Scrap ",
+            "scrap ",
+            "metal ",
+            "the ",
+            "tanks"
+          ]
+        },
+        {
+          "key": "94051|Get hitched and make a career out of",
+          "text": "Get hitched and make a career out of",
+          "segments": [
+            "Get ",
+            "hitched ",
+            "and ",
+            "make ",
+            "a ",
+            "career ",
+            "out ",
+            "of"
+          ]
+        },
+        {
+          "key": "96423|Robbing banks",
+          "text": "Robbing banks",
+          "segments": [
+            "Robbing ",
+            "banks"
+          ]
+        },
+        {
+          "key": "97615|Because the world is just a teller and",
+          "text": "Because the world is just a teller and",
+          "segments": [
+            "Because ",
+            "the ",
+            "world ",
+            "is ",
+            "just ",
+            "a ",
+            "teller ",
+            "and"
+          ]
+        },
+        {
+          "key": "99902|We are wearing black masks",
+          "text": "We are wearing black masks",
+          "segments": [
+            "We ",
+            "are ",
+            "wearing ",
+            "black ",
+            "masks"
+          ]
+        },
+        {
+          "key": "101581|You broke our spirit says the note we pass",
+          "text": "You broke our spirit says the note we pass",
+          "segments": [
+            "You ",
+            "broke ",
+            "our ",
+            "spirit ",
+            "says ",
+            "the ",
+            "note ",
+            "we ",
+            "pass"
+          ]
+        },
+        {
+          "key": "104403|So we can take the world back",
+          "text": "So we can take the world back",
+          "segments": [
+            "So ",
+            "we ",
+            "can ",
+            "take ",
+            "the ",
+            "world ",
+            "back"
+          ]
+        },
+        {
+          "key": "106537|From the heart attacked",
+          "text": "From the heart attacked",
+          "segments": [
+            "From ",
+            "the ",
+            "heart ",
+            "attacked"
+          ]
+        },
+        {
+          "key": "108096|One maniac at a time we will take it back",
+          "text": "One maniac at a time we will take it back",
+          "segments": [
+            "One ",
+            "maniac ",
+            "at ",
+            "a ",
+            "time ",
+            "we ",
+            "will ",
+            "take ",
+            "it ",
+            "back"
+          ]
+        },
+        {
+          "key": "111521|You know time crawls on when you're",
+          "text": "You know time crawls on when you're",
+          "segments": [
+            "You ",
+            "know ",
+            "time ",
+            "crawls ",
+            "on ",
+            "when ",
+            "you're"
+          ]
+        },
+        {
+          "key": "113785|Waiting for the song to start",
+          "text": "Waiting for the song to start",
+          "segments": [
+            "Waiting ",
+            "for ",
+            "the ",
+            "song ",
+            "to ",
+            "start"
+          ]
+        },
+        {
+          "key": "115964|So dance along to the beat of your heart",
+          "text": "So dance along to the beat of your heart",
+          "segments": [
+            "So ",
+            "dance ",
+            "along ",
+            "to ",
+            "the ",
+            "beat ",
+            "of ",
+            "your ",
+            "heart"
+          ]
+        },
+        {
+          "key": "119897|Hey young blood",
+          "text": "Hey young blood",
+          "segments": [
+            "Hey ",
+            "young ",
+            "blood"
+          ]
+        },
+        {
+          "key": "121530|Doesn't it feel",
+          "text": "Doesn't it feel",
+          "segments": [
+            "Doesn't ",
+            "it ",
+            "feel"
+          ]
+        },
+        {
+          "key": "123211|Like our time is running out",
+          "text": "Like our time is running out",
+          "segments": [
+            "Like ",
+            "our ",
+            "time ",
+            "is ",
+            "running ",
+            "out"
+          ]
+        },
+        {
+          "key": "126741|I'm gonna change you like a remix",
+          "text": "I'm gonna change you like a remix",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "change ",
+            "you ",
+            "like ",
+            "a ",
+            "remix"
+          ]
+        },
+        {
+          "key": "130688|Then I'll raise you like a phoenix",
+          "text": "Then I'll raise you like a phoenix",
+          "segments": [
+            "Then ",
+            "I'll ",
+            "raise ",
+            "you ",
+            "like ",
+            "a ",
+            "phoenix"
+          ]
+        },
+        {
+          "key": "133905|You're wearing our vintage misery",
+          "text": "You're wearing our vintage misery",
+          "segments": [
+            "You're ",
+            "wearing ",
+            "our ",
+            "vintage ",
+            "misery"
+          ]
+        },
+        {
+          "key": "137184|No I think it looked a little better on me",
+          "text": "No I think it looked a little better on me",
+          "segments": [
+            "No ",
+            "I ",
+            "think ",
+            "it ",
+            "looked ",
+            "a ",
+            "little ",
+            "better ",
+            "on ",
+            "me"
+          ]
+        },
+        {
+          "key": "140570|I'm gonna change you like a remix",
+          "text": "I'm gonna change you like a remix",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "change ",
+            "you ",
+            "like ",
+            "a ",
+            "remix"
+          ]
+        },
+        {
+          "key": "144552|Then I'll raise you like a phoenix",
+          "text": "Then I'll raise you like a phoenix",
+          "segments": [
+            "Then ",
+            "I'll ",
+            "raise ",
+            "you ",
+            "like ",
+            "a ",
+            "phoenix"
+          ]
+        },
+        {
+          "key": "151656|Put on your war paint",
+          "text": "Put on your war paint",
+          "segments": [
+            "Put ",
+            "on ",
+            "your ",
+            "war ",
+            "paint"
+          ]
+        },
+        {
+          "key": "163150|The war is won",
+          "text": "The war is won",
+          "segments": [
+            "The ",
+            "war ",
+            "is ",
+            "won"
+          ]
+        },
+        {
+          "key": "164869|Before it's begun",
+          "text": "Before it's begun",
+          "segments": [
+            "Before ",
+            "it's ",
+            "begun"
+          ]
+        },
+        {
+          "key": "166563|Release the doves",
+          "text": "Release the doves",
+          "segments": [
+            "Release ",
+            "the ",
+            "doves"
+          ]
+        },
+        {
+          "key": "168162|Surrender love",
+          "text": "Surrender love",
+          "segments": [
+            "Surrender ",
+            "love"
+          ]
+        },
+        {
+          "key": "170131|The war is won",
+          "text": "The war is won",
+          "segments": [
+            "The ",
+            "war ",
+            "is ",
+            "won"
+          ]
+        },
+        {
+          "key": "171617|Before it's begun",
+          "text": "Before it's begun",
+          "segments": [
+            "Before ",
+            "it's ",
+            "begun"
+          ]
+        },
+        {
+          "key": "173412|Release the doves",
+          "text": "Release the doves",
+          "segments": [
+            "Release ",
+            "the ",
+            "doves"
+          ]
+        },
+        {
+          "key": "175072|Surrender love",
+          "text": "Surrender love",
+          "segments": [
+            "Surrender ",
+            "love"
+          ]
+        },
+        {
+          "key": "177213|The war is won",
+          "text": "The war is won",
+          "segments": [
+            "The ",
+            "war ",
+            "is ",
+            "won"
+          ]
+        },
+        {
+          "key": "178556|Before it's begun",
+          "text": "Before it's begun",
+          "segments": [
+            "Before ",
+            "it's ",
+            "begun"
+          ]
+        },
+        {
+          "key": "180411|Release the doves",
+          "text": "Release the doves",
+          "segments": [
+            "Release ",
+            "the ",
+            "doves"
+          ]
+        },
+        {
+          "key": "182048|Surrender love",
+          "text": "Surrender love",
+          "segments": [
+            "Surrender ",
+            "love"
+          ]
+        },
+        {
+          "key": "184022|The war is won",
+          "text": "The war is won",
+          "segments": [
+            "The ",
+            "war ",
+            "is ",
+            "won"
+          ]
+        },
+        {
+          "key": "185573|Before it's begun",
+          "text": "Before it's begun",
+          "segments": [
+            "Before ",
+            "it's ",
+            "begun"
+          ]
+        },
+        {
+          "key": "187241|Release the doves",
+          "text": "Release the doves",
+          "segments": [
+            "Release ",
+            "the ",
+            "doves"
+          ]
+        },
+        {
+          "key": "189002|Surrender love",
+          "text": "Surrender love",
+          "segments": [
+            "Surrender ",
+            "love"
+          ]
+        },
+        {
+          "key": "191216|Hey young blood",
+          "text": "Hey young blood",
+          "segments": [
+            "Hey ",
+            "young ",
+            "blood"
+          ]
+        },
+        {
+          "key": "194634|Doesn't it feel",
+          "text": "Doesn't it feel",
+          "segments": [
+            "Doesn't ",
+            "it ",
+            "feel"
+          ]
+        },
+        {
+          "key": "196243|Like our time is running out",
+          "text": "Like our time is running out",
+          "segments": [
+            "Like ",
+            "our ",
+            "time ",
+            "is ",
+            "running ",
+            "out"
+          ]
+        },
+        {
+          "key": "199738|I'm gonna change you like a remix",
+          "text": "I'm gonna change you like a remix",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "change ",
+            "you ",
+            "like ",
+            "a ",
+            "remix"
+          ]
+        },
+        {
+          "key": "203692|Then I'll raise you like a phoenix",
+          "text": "Then I'll raise you like a phoenix",
+          "segments": [
+            "Then ",
+            "I'll ",
+            "raise ",
+            "you ",
+            "like ",
+            "a ",
+            "phoenix"
+          ]
+        },
+        {
+          "key": "206797|You're wearing our vintage misery",
+          "text": "You're wearing our vintage misery",
+          "segments": [
+            "You're ",
+            "wearing ",
+            "our ",
+            "vintage ",
+            "misery"
+          ]
+        },
+        {
+          "key": "210251|No I think it looked a little better on me",
+          "text": "No I think it looked a little better on me",
+          "segments": [
+            "No ",
+            "I ",
+            "think ",
+            "it ",
+            "looked ",
+            "a ",
+            "little ",
+            "better ",
+            "on ",
+            "me"
+          ]
+        },
+        {
+          "key": "213611|I'm gonna change you like a remix",
+          "text": "I'm gonna change you like a remix",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "change ",
+            "you ",
+            "like ",
+            "a ",
+            "remix"
+          ]
+        },
+        {
+          "key": "217579|Then I'll raise you like a phoenix",
+          "text": "Then I'll raise you like a phoenix",
+          "segments": [
+            "Then ",
+            "I'll ",
+            "raise ",
+            "you ",
+            "like ",
+            "a ",
+            "phoenix"
+          ]
+        },
+        {
+          "key": "220800|Hey young blood",
+          "text": "Hey young blood",
+          "segments": [
+            "Hey ",
+            "young ",
+            "blood"
+          ]
+        },
+        {
+          "key": "222376|Doesn't it feel",
+          "text": "Doesn't it feel",
+          "segments": [
+            "Doesn't ",
+            "it ",
+            "feel"
+          ]
+        },
+        {
+          "key": "224062|Like our time is running out",
+          "text": "Like our time is running out",
+          "segments": [
+            "Like ",
+            "our ",
+            "time ",
+            "is ",
+            "running ",
+            "out"
+          ]
+        },
+        {
+          "key": "227394|I'm gonna change you like a remix",
+          "text": "I'm gonna change you like a remix",
+          "segments": [
+            "I'm ",
+            "gonna ",
+            "change ",
+            "you ",
+            "like ",
+            "a ",
+            "remix"
+          ]
+        },
+        {
+          "key": "231410|Then I'll raise you like a phoenix",
+          "text": "Then I'll raise you like a phoenix",
+          "segments": [
+            "Then ",
+            "I'll ",
+            "raise ",
+            "you ",
+            "like ",
+            "a ",
+            "phoenix"
+          ]
+        },
+        {
+          "key": "238609|Put on your war paint",
+          "text": "Put on your war paint",
+          "segments": [
+            "Put ",
+            "on ",
+            "your ",
+            "war ",
+            "paint"
+          ]
+        }
+      ]
+    }
+  ]
+}
