@@ -1,0 +1,840 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:56cb9742642e621080afe4f66c6cc4c7",
+      "lines": [
+        {
+          "key": "315|Tonia、the beat - Shots",
+          "text": "Tonia、the beat - Shots",
+          "segments": [
+            "Tonia、",
+            "the ",
+            "beat",
+            " - ",
+            "Shots"
+          ]
+        },
+        {
+          "key": "2151|Lyrics by：Imagine Dragons",
+          "text": "Lyrics by：Imagine Dragons",
+          "segments": [
+            "Lyrics by：",
+            "Imagine Dragons"
+          ]
+        },
+        {
+          "key": "3553|Composed by：Imagine Dragons",
+          "text": "Composed by：Imagine Dragons",
+          "segments": [
+            "Composed by：",
+            "Imagine Dragons"
+          ]
+        },
+        {
+          "key": "7359|I'm sorry for everything oh everything I've done",
+          "text": "I'm sorry for everything oh everything I've done",
+          "segments": [
+            "I'm ",
+            "sorry ",
+            "for ",
+            "everything ",
+            "oh ",
+            "everything ",
+            "I've ",
+            "done"
+          ]
+        },
+        {
+          "key": "30356|Am I out of touch",
+          "text": "Am I out of touch",
+          "segments": [
+            "Am ",
+            "I ",
+            "out ",
+            "of ",
+            "touch"
+          ]
+        },
+        {
+          "key": "32302|Am I out of my place",
+          "text": "Am I out of my place",
+          "segments": [
+            "Am ",
+            "I ",
+            "out ",
+            "of ",
+            "my ",
+            "place"
+          ]
+        },
+        {
+          "key": "34730|When I keep saying that I'm looking for an empty space",
+          "text": "When I keep saying that I'm looking for an empty space",
+          "segments": [
+            "When ",
+            "I ",
+            "keep ",
+            "saying ",
+            "that ",
+            "I'm ",
+            "looking ",
+            "for ",
+            "an ",
+            "empty ",
+            "space"
+          ]
+        },
+        {
+          "key": "39224|Oh I'm wishing you're here",
+          "text": "Oh I'm wishing you're here",
+          "segments": [
+            "Oh ",
+            "I'm ",
+            "wishing ",
+            "you're ",
+            "here"
+          ]
+        },
+        {
+          "key": "41472|But I'm wishing you're gone",
+          "text": "But I'm wishing you're gone",
+          "segments": [
+            "But ",
+            "I'm ",
+            "wishing ",
+            "you're ",
+            "gone"
+          ]
+        },
+        {
+          "key": "44142|I can't have you and I'm only gonna do you wrong",
+          "text": "I can't have you and I'm only gonna do you wrong",
+          "segments": [
+            "I ",
+            "can't ",
+            "have ",
+            "you ",
+            "and ",
+            "I'm ",
+            "only ",
+            "gonna ",
+            "do ",
+            "you ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "48572|Oh I'm gonna mess this up",
+          "text": "Oh I'm gonna mess this up",
+          "segments": [
+            "Oh ",
+            "I'm ",
+            "gonna ",
+            "mess ",
+            "this ",
+            "up"
+          ]
+        },
+        {
+          "key": "50698|Oh this is just my luck",
+          "text": "Oh this is just my luck",
+          "segments": [
+            "Oh ",
+            "this ",
+            "is ",
+            "just ",
+            "my ",
+            "luck"
+          ]
+        },
+        {
+          "key": "53064|Over and over and over again",
+          "text": "Over and over and over again",
+          "segments": [
+            "Over ",
+            "and ",
+            "over ",
+            "and ",
+            "over ",
+            "again"
+          ]
+        },
+        {
+          "key": "57798|I'm sorry for everything oh everything I've done",
+          "text": "I'm sorry for everything oh everything I've done",
+          "segments": [
+            "I'm ",
+            "sorry ",
+            "for ",
+            "everything ",
+            "oh ",
+            "everything ",
+            "I've ",
+            "done"
+          ]
+        },
+        {
+          "key": "61443|From the second that I was born it seems I had a loaded gun",
+          "text": "From the second that I was born it seems I had a loaded gun",
+          "segments": [
+            "From ",
+            "the ",
+            "second ",
+            "that ",
+            "I ",
+            "was ",
+            "born ",
+            "it ",
+            "seems ",
+            "I ",
+            "had ",
+            "a ",
+            "loaded ",
+            "gun"
+          ]
+        },
+        {
+          "key": "65816|And then I shot shot shot a hole",
+          "text": "And then I shot shot shot a hole",
+          "segments": [
+            "And ",
+            "then ",
+            "I ",
+            "shot ",
+            "shot ",
+            "shot ",
+            "a ",
+            "hole"
+          ]
+        },
+        {
+          "key": "68419|Through everything I loved",
+          "text": "Through everything I loved",
+          "segments": [
+            "Through ",
+            "everything ",
+            "I ",
+            "loved"
+          ]
+        },
+        {
+          "key": "70540|Oh I shot shot shot a hole",
+          "text": "Oh I shot shot shot a hole",
+          "segments": [
+            "Oh ",
+            "I ",
+            "shot ",
+            "shot ",
+            "shot ",
+            "a ",
+            "hole"
+          ]
+        },
+        {
+          "key": "72905|Through every single thing that I loved",
+          "text": "Through every single thing that I loved",
+          "segments": [
+            "Through ",
+            "every ",
+            "single ",
+            "thing ",
+            "that ",
+            "I ",
+            "loved"
+          ]
+        },
+        {
+          "key": "85244|Am I out of luck",
+          "text": "Am I out of luck",
+          "segments": [
+            "Am ",
+            "I ",
+            "out ",
+            "of ",
+            "luck"
+          ]
+        },
+        {
+          "key": "87251|Am I waiting to break",
+          "text": "Am I waiting to break",
+          "segments": [
+            "Am ",
+            "I ",
+            "waiting ",
+            "to ",
+            "break"
+          ]
+        },
+        {
+          "key": "89737|When I keep saying that I'm looking for a way to escape",
+          "text": "When I keep saying that I'm looking for a way to escape",
+          "segments": [
+            "When ",
+            "I ",
+            "keep ",
+            "saying ",
+            "that ",
+            "I'm ",
+            "looking ",
+            "for ",
+            "a ",
+            "way ",
+            "to ",
+            "escape"
+          ]
+        },
+        {
+          "key": "94106|Oh I'm wishing I had",
+          "text": "Oh I'm wishing I had",
+          "segments": [
+            "Oh ",
+            "I'm ",
+            "wishing ",
+            "I ",
+            "had"
+          ]
+        },
+        {
+          "key": "96287|What I'd taken for granted",
+          "text": "What I'd taken for granted",
+          "segments": [
+            "What ",
+            "I'd ",
+            "taken ",
+            "for ",
+            "granted"
+          ]
+        },
+        {
+          "key": "98897|I can't help you when I'm only gonna do you wrong",
+          "text": "I can't help you when I'm only gonna do you wrong",
+          "segments": [
+            "I ",
+            "can't ",
+            "help ",
+            "you ",
+            "when ",
+            "I'm ",
+            "only ",
+            "gonna ",
+            "do ",
+            "you ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "103205|Oh I'm gonna mess this up",
+          "text": "Oh I'm gonna mess this up",
+          "segments": [
+            "Oh ",
+            "I'm ",
+            "gonna ",
+            "mess ",
+            "this ",
+            "up"
+          ]
+        },
+        {
+          "key": "105452|Oh this is just my luck",
+          "text": "Oh this is just my luck",
+          "segments": [
+            "Oh ",
+            "this ",
+            "is ",
+            "just ",
+            "my ",
+            "luck"
+          ]
+        },
+        {
+          "key": "107698|Over and over and over again",
+          "text": "Over and over and over again",
+          "segments": [
+            "Over ",
+            "and ",
+            "over ",
+            "and ",
+            "over ",
+            "again"
+          ]
+        },
+        {
+          "key": "112613|I'm sorry for everything oh everything I've done",
+          "text": "I'm sorry for everything oh everything I've done",
+          "segments": [
+            "I'm ",
+            "sorry ",
+            "for ",
+            "everything ",
+            "oh ",
+            "everything ",
+            "I've ",
+            "done"
+          ]
+        },
+        {
+          "key": "116257|From the second that I was born it seems I had a loaded gun",
+          "text": "From the second that I was born it seems I had a loaded gun",
+          "segments": [
+            "From ",
+            "the ",
+            "second ",
+            "that ",
+            "I ",
+            "was ",
+            "born ",
+            "it ",
+            "seems ",
+            "I ",
+            "had ",
+            "a ",
+            "loaded ",
+            "gun"
+          ]
+        },
+        {
+          "key": "120637|And then I shot shot shot a hole",
+          "text": "And then I shot shot shot a hole",
+          "segments": [
+            "And ",
+            "then ",
+            "I ",
+            "shot ",
+            "shot ",
+            "shot ",
+            "a ",
+            "hole"
+          ]
+        },
+        {
+          "key": "123245|Through everything I loved",
+          "text": "Through everything I loved",
+          "segments": [
+            "Through ",
+            "everything ",
+            "I ",
+            "loved"
+          ]
+        },
+        {
+          "key": "125247|Oh I shot shot shot a hole",
+          "text": "Oh I shot shot shot a hole",
+          "segments": [
+            "Oh ",
+            "I ",
+            "shot ",
+            "shot ",
+            "shot ",
+            "a ",
+            "hole"
+          ]
+        },
+        {
+          "key": "127799|Through every single thing that I loved",
+          "text": "Through every single thing that I loved",
+          "segments": [
+            "Through ",
+            "every ",
+            "single ",
+            "thing ",
+            "that ",
+            "I ",
+            "loved"
+          ]
+        },
+        {
+          "key": "134959|In the meantime we let it go",
+          "text": "In the meantime we let it go",
+          "segments": [
+            "In ",
+            "the ",
+            "meantime ",
+            "we ",
+            "let ",
+            "it ",
+            "go"
+          ]
+        },
+        {
+          "key": "137085|At the roadside we used to know",
+          "text": "At the roadside we used to know",
+          "segments": [
+            "At ",
+            "the ",
+            "roadside ",
+            "we ",
+            "used ",
+            "to ",
+            "know"
+          ]
+        },
+        {
+          "key": "139267|We can let this drift away",
+          "text": "We can let this drift away",
+          "segments": [
+            "We ",
+            "can ",
+            "let ",
+            "this ",
+            "drift ",
+            "away"
+          ]
+        },
+        {
+          "key": "141452|Oh we let this drift away",
+          "text": "Oh we let this drift away",
+          "segments": [
+            "Oh ",
+            "we ",
+            "let ",
+            "this ",
+            "drift ",
+            "away"
+          ]
+        },
+        {
+          "key": "143693|At the bay side where you used to show",
+          "text": "At the bay side where you used to show",
+          "segments": [
+            "At ",
+            "the ",
+            "bay ",
+            "side ",
+            "where ",
+            "you ",
+            "used ",
+            "to ",
+            "show"
+          ]
+        },
+        {
+          "key": "146244|In the moonlight where we let it go",
+          "text": "In the moonlight where we let it go",
+          "segments": [
+            "In ",
+            "the ",
+            "moonlight ",
+            "where ",
+            "we ",
+            "let ",
+            "it ",
+            "go"
+          ]
+        },
+        {
+          "key": "148431|We can let this drift away",
+          "text": "We can let this drift away",
+          "segments": [
+            "We ",
+            "can ",
+            "let ",
+            "this ",
+            "drift ",
+            "away"
+          ]
+        },
+        {
+          "key": "150614|Oh we let this drift away",
+          "text": "Oh we let this drift away",
+          "segments": [
+            "Oh ",
+            "we ",
+            "let ",
+            "this ",
+            "drift ",
+            "away"
+          ]
+        },
+        {
+          "key": "152857|And there's always time to change your mind",
+          "text": "And there's always time to change your mind",
+          "segments": [
+            "And ",
+            "there's ",
+            "always ",
+            "time ",
+            "to ",
+            "change ",
+            "your ",
+            "mind"
+          ]
+        },
+        {
+          "key": "155224|Oh there's always time to change your mind",
+          "text": "Oh there's always time to change your mind",
+          "segments": [
+            "Oh ",
+            "there's ",
+            "always ",
+            "time ",
+            "to ",
+            "change ",
+            "your ",
+            "mind"
+          ]
+        },
+        {
+          "key": "157469|Oh love can you hear me",
+          "text": "Oh love can you hear me",
+          "segments": [
+            "Oh ",
+            "love ",
+            "can ",
+            "you ",
+            "hear ",
+            "me"
+          ]
+        },
+        {
+          "key": "160869|Oh let it drift away",
+          "text": "Oh let it drift away",
+          "segments": [
+            "Oh ",
+            "let ",
+            "it ",
+            "drift ",
+            "away"
+          ]
+        },
+        {
+          "key": "162988|I'm sorry for everything oh everything I've done",
+          "text": "I'm sorry for everything oh everything I've done",
+          "segments": [
+            "I'm ",
+            "sorry ",
+            "for ",
+            "everything ",
+            "oh ",
+            "everything ",
+            "I've ",
+            "done"
+          ]
+        },
+        {
+          "key": "166508|From the second that I was born it seems I had a loaded gun",
+          "text": "From the second that I was born it seems I had a loaded gun",
+          "segments": [
+            "From ",
+            "the ",
+            "second ",
+            "that ",
+            "I ",
+            "was ",
+            "born ",
+            "it ",
+            "seems ",
+            "I ",
+            "had ",
+            "a ",
+            "loaded ",
+            "gun"
+          ]
+        },
+        {
+          "key": "170876|And then I shot shot shot a hole",
+          "text": "And then I shot shot shot a hole",
+          "segments": [
+            "And ",
+            "then ",
+            "I ",
+            "shot ",
+            "shot ",
+            "shot ",
+            "a ",
+            "hole"
+          ]
+        },
+        {
+          "key": "173485|Through everything I loved",
+          "text": "Through everything I loved",
+          "segments": [
+            "Through ",
+            "everything ",
+            "I ",
+            "loved"
+          ]
+        },
+        {
+          "key": "175732|Oh I shot shot shot a hole",
+          "text": "Oh I shot shot shot a hole",
+          "segments": [
+            "Oh ",
+            "I ",
+            "shot ",
+            "shot ",
+            "shot ",
+            "a ",
+            "hole"
+          ]
+        },
+        {
+          "key": "178410|Through every single thing that I loved",
+          "text": "Through every single thing that I loved",
+          "segments": [
+            "Through ",
+            "every ",
+            "single ",
+            "thing ",
+            "that ",
+            "I ",
+            "loved"
+          ]
+        },
+        {
+          "key": "180537|In the meantime we let it go",
+          "text": "In the meantime we let it go",
+          "segments": [
+            "In ",
+            "the ",
+            "meantime ",
+            "we ",
+            "let ",
+            "it ",
+            "go"
+          ]
+        },
+        {
+          "key": "182601|At the roadside we used to know",
+          "text": "At the roadside we used to know",
+          "segments": [
+            "At ",
+            "the ",
+            "roadside ",
+            "we ",
+            "used ",
+            "to ",
+            "know"
+          ]
+        },
+        {
+          "key": "184845|We can let this drift away",
+          "text": "We can let this drift away",
+          "segments": [
+            "We ",
+            "can ",
+            "let ",
+            "this ",
+            "drift ",
+            "away"
+          ]
+        },
+        {
+          "key": "187033|Oh we let this drift away",
+          "text": "Oh we let this drift away",
+          "segments": [
+            "Oh ",
+            "we ",
+            "let ",
+            "this ",
+            "drift ",
+            "away"
+          ]
+        },
+        {
+          "key": "189337|At the bay side where you used to show",
+          "text": "At the bay side where you used to show",
+          "segments": [
+            "At ",
+            "the ",
+            "bay ",
+            "side ",
+            "where ",
+            "you ",
+            "used ",
+            "to ",
+            "show"
+          ]
+        },
+        {
+          "key": "191828|In the moonlight where we let it go",
+          "text": "In the moonlight where we let it go",
+          "segments": [
+            "In ",
+            "the ",
+            "moonlight ",
+            "where ",
+            "we ",
+            "let ",
+            "it ",
+            "go"
+          ]
+        },
+        {
+          "key": "194132|We can let this drift away",
+          "text": "We can let this drift away",
+          "segments": [
+            "We ",
+            "can ",
+            "let ",
+            "this ",
+            "drift ",
+            "away"
+          ]
+        },
+        {
+          "key": "196199|Oh we let this drift away",
+          "text": "Oh we let this drift away",
+          "segments": [
+            "Oh ",
+            "we ",
+            "let ",
+            "this ",
+            "drift ",
+            "away"
+          ]
+        },
+        {
+          "key": "198559|And there's always time to change your mind",
+          "text": "And there's always time to change your mind",
+          "segments": [
+            "And ",
+            "there's ",
+            "always ",
+            "time ",
+            "to ",
+            "change ",
+            "your ",
+            "mind"
+          ]
+        },
+        {
+          "key": "200867|Oh there's always time to change your mind",
+          "text": "Oh there's always time to change your mind",
+          "segments": [
+            "Oh ",
+            "there's ",
+            "always ",
+            "time ",
+            "to ",
+            "change ",
+            "your ",
+            "mind"
+          ]
+        },
+        {
+          "key": "203113|Oh love can you hear me",
+          "text": "Oh love can you hear me",
+          "segments": [
+            "Oh ",
+            "love ",
+            "can ",
+            "you ",
+            "hear ",
+            "me"
+          ]
+        },
+        {
+          "key": "206449|Oh let it drift away",
+          "text": "Oh let it drift away",
+          "segments": [
+            "Oh ",
+            "let ",
+            "it ",
+            "drift ",
+            "away"
+          ]
+        }
+      ]
+    }
+  ]
+}

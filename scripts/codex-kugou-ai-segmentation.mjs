@@ -1,7 +1,9 @@
-import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
-const root = path.resolve('.codex-tasks/kugou-ai-segmentation');
+const originalRoot = path.resolve('.codex-tasks/kugou-ai-segmentation');
+const rootOptionIndex = process.argv.indexOf('--root');
+const root = rootOptionIndex < 0 ? originalRoot : path.resolve(process.argv[rootOptionIndex + 1]);
 const manifestPath = path.join(root, 'manifest.json');
 const cdpPort = Number(process.env.FOLIA_CDP_PORT || 9222);
 
@@ -86,7 +88,8 @@ const existingSegmentationKeys = async () => await evaluate(`(async()=>{\n`
 
 const songKeyOf = song => `online:kugou:${song.id}`;
 
-const init = async () => {
+// Read the liked collection through Folia's existing provider bridge.
+const getLikedSongs = async () => {
   const playlists = await requestFolia({ provider: 'kugou', operation: 'user_playlist', params: { pagesize: 100 } });
   const lists = playlists?.data?.lists || [];
   const liked = lists.find(item => String(item.listid ?? item.list_id) === '2')
@@ -99,7 +102,12 @@ const init = async () => {
     operation: 'playlist_track_all',
     params: { id: listId, global_collection_id: listId },
   });
-  const rawSongs = response?.data?.songs || [];
+  return response?.data?.songs || [];
+};
+
+const init = async () => {
+  if (await readJsonIfExists(manifestPath)) throw new Error(`Manifest already exists: ${manifestPath}`);
+  const rawSongs = await getLikedSongs();
   if (rawSongs.length < 100) throw new Error(`Liked playlist returned only ${rawSongs.length} songs`);
 
   // Keep the same client order as kugouProvider.getKugouPlaylistTrackSongs().
@@ -135,6 +143,74 @@ const init = async () => {
   console.log(`Saved ${songs.length} songs to ${manifestPath}`);
 };
 
+const nextSnapshot = async () => {
+  const previous = await readJson(path.join(originalRoot, 'manifest.json'));
+  const anchor = previous.songs.at(-1);
+  if (!anchor || previous.songs.length !== 100) throw new Error('Original 100-song manifest is incomplete');
+  const rawSongs = await getLikedSongs();
+  const newestFirst = rawSongs.slice().reverse();
+  const anchorIndex = newestFirst.findIndex(song => String(song.id).toLowerCase() === String(anchor.id).toLowerCase());
+  if (anchorIndex < 0) throw new Error('Previous rank-100 anchor is no longer in the liked playlist');
+  const next = newestFirst.slice(anchorIndex + 1, anchorIndex + 101);
+  if (next.length !== 100) throw new Error(`Only ${next.length} songs remain after the rank-100 anchor`);
+  const previousIds = new Set(previous.songs.map(song => String(song.id).toLowerCase()));
+  const duplicates = next.filter(song => previousIds.has(String(song.id).toLowerCase()));
+  if (duplicates.length) throw new Error(`${duplicates.length} songs after the anchor overlap the original 100`);
+  const beforeAnchor = newestFirst.slice(0, anchorIndex + 1)
+    .filter(song => previousIds.has(String(song.id).toLowerCase()))
+    .map(song => String(song.id).toLowerCase());
+  const previousOrder = previous.songs.map(song => String(song.id).toLowerCase());
+  const orderUnchanged = JSON.stringify(beforeAnchor) === JSON.stringify(previousOrder);
+  return { rawSongs, next, anchor, anchorIndex, orderUnchanged };
+};
+
+const initNext = async ({ preview = false } = {}) => {
+  if (root === originalRoot) throw new Error('Use --root with a new continuation directory');
+  const snapshot = await nextSnapshot();
+  const summary = {
+    currentPlaylistCount: snapshot.rawSongs.length,
+    originalRank100: snapshot.anchor.name,
+    currentAnchorPosition: snapshot.anchorIndex + 1,
+    originalFirst100OrderUnchanged: snapshot.orderUnchanged,
+    nextFirst: snapshot.next[0]?.name,
+    nextLast: snapshot.next.at(-1)?.name,
+  };
+  console.log(JSON.stringify(summary, null, 2));
+  if (preview) return;
+  if (!snapshot.orderUnchanged) throw new Error('Original first-100 order changed; review the continuation boundary');
+  if (await readJsonIfExists(manifestPath)) throw new Error(`Manifest already exists: ${manifestPath}`);
+  const completed = new Set(await existingSegmentationKeys());
+  const songs = snapshot.next.map((song, index) => {
+    const songKey = songKeyOf(song);
+    return {
+      rank: 101 + index,
+      songKey,
+      id: song.id,
+      hash: song.hash || song.id,
+      albumId: song.albumId ?? '',
+      albumAudioId: song.albumAudioId ?? '',
+      name: song.name || '',
+      artist: song.artist || '',
+      album: song.album || '',
+      durationMs: Number(song.duration || 0),
+      status: completed.has(`lyricSeg_${songKey}`) ? 'done-existing' : 'pending',
+      attempts: 0,
+    };
+  });
+  const manifest = {
+    version: 1,
+    createdAt: new Date().toISOString(),
+    playlistCountAtStart: snapshot.rawSongs.length,
+    order: 'kugou-provider-client-order-newest-first-after-original-rank-100-anchor',
+    startRank: 101,
+    targetCount: songs.length,
+    batchSize: 5,
+    songs,
+  };
+  await writeJson(manifestPath, manifest);
+  console.log(`Saved ${songs.length} songs to ${manifestPath}`);
+};
+
 const parseKrcLines = content => {
   const lines = [];
   for (const rawLine of String(content || '').replace(/^\uFEFF/, '').split(/\r?\n/)) {
@@ -153,14 +229,15 @@ const parseKrcLines = content => {
   return lines;
 };
 
-const fetchBatch = async batchNumber => {
+const fetchBatch = async (batchNumber, { retryNoLyrics = false } = {}) => {
   const manifest = await readJson(manifestPath);
   const start = (batchNumber - 1) * manifest.batchSize;
   const batchPath = path.join(root, 'batches', `batch-${String(batchNumber).padStart(2, '0')}-input.json`);
   const existingBatch = await readJsonIfExists(batchPath);
   const outputBySongKey = new Map((existingBatch?.songs || []).map(song => [song.songKey, song]));
-  const selected = manifest.songs.slice(start, start + manifest.batchSize)
-    .filter(song => song.status === 'pending' || song.status === 'fetch-failed');
+  const selected = manifest.songs.filter(song => song.rank > start && song.rank <= start + manifest.batchSize)
+    .filter(song => song.status === 'pending' || song.status === 'fetch-failed'
+      || (retryNoLyrics && song.status === 'no-lyrics'));
   if (selected.length === 0) {
     console.log(`Batch ${batchNumber} has no songs that need lyric fetching`);
     return;
@@ -178,7 +255,20 @@ const fetchBatch = async batchNumber => {
           keyword: `${song.artist} - ${song.name}`,
         },
       });
-      const candidate = search?.candidates?.[0];
+      let candidate = search?.candidates?.[0];
+      if (!candidate && retryNoLyrics) {
+        const fallback = await requestFolia({
+          provider: 'kugou',
+          operation: 'search_lyric',
+          params: {
+            hash: String(song.hash).toUpperCase(),
+            duration: song.durationMs,
+            man: 'no',
+            ...(song.albumAudioId ? { album_audio_id: String(song.albumAudioId) } : {}),
+          },
+        });
+        candidate = fallback?.candidates?.[0];
+      }
       if (!candidate) {
         song.status = 'no-lyrics';
         await writeJson(manifestPath, manifest);
@@ -332,13 +422,12 @@ const restoreAll = async () => {
 const exportLrc = async () => {
   const manifest = await readJson(manifestPath);
   const lrcRoot = path.join(root, 'lrc');
-  await rm(lrcRoot, { recursive: true, force: true });
   await mkdir(lrcRoot, { recursive: true });
   let exported = 0;
   let lyricLines = 0;
 
   for (const song of manifest.songs) {
-    if (song.status !== 'done') continue;
+    if (song.status !== 'done' && song.status !== 'lyrics-ready') continue;
     const batchNumber = Math.floor((song.rank - 1) / manifest.batchSize) + 1;
     const input = await readJson(path.join(
       root,
@@ -385,13 +474,13 @@ const exportLrc = async () => {
     '- 时间戳精度：毫秒（`[mm:ss.mmm]`）',
     `- 无歌词：${missing.map(song => `${song.rank}. ${song.name}`).join('；') || '无'}`,
     '',
-    '这些文件由已保存的酷狗逐行歌词生成，不包含 AI 分词边界；对应分词位于同级 `batches/*-output-part-*.json`。',
+    '这些文件由已保存的酷狗逐行歌词生成，导出时去掉行尾空白以便通用播放器读取。原文和 AI 分词边界完整保存在同级 `batches/` 的输入及输出 JSON 中。',
     '',
   ].join('\n'), 'utf8');
   console.log(`Exported ${exported} LRC files with ${lyricLines} lyric lines`);
 };
 
-const audit = async () => {
+const audit = async ({ requireComplete = true } = {}) => {
   const manifest = await readJson(manifestPath);
   const deviceEntries = await evaluate(`(async()=>{\n`
     + `const db=await new Promise((resolve,reject)=>{const request=indexedDB.open("KineticPlayerDB");request.onsuccess=()=>resolve(request.result);request.onerror=()=>reject(request.error)});\n`
@@ -487,8 +576,8 @@ const audit = async () => {
     noLyricsSongs: noLyrics.map(song => ({ rank: song.rank, name: song.name })),
   };
   console.log(JSON.stringify(summary, null, 2));
-  if (manifest.targetCount !== 100 || done.length + noLyrics.length !== manifest.targetCount
-    || unfinished.length || missing.length || mismatched.length || invalidOutputs.length
+  if (manifest.targetCount !== 100 || done.length + noLyrics.length + unfinished.length !== manifest.targetCount
+    || (requireComplete && unfinished.length) || missing.length || mismatched.length || invalidOutputs.length
     || missingAliases.length || mismatchedAliases.length) {
     throw new Error('Segmentation audit failed');
   }
@@ -496,10 +585,20 @@ const audit = async () => {
 
 const command = process.argv[2];
 if (command === 'init') await init();
+else if (command === 'preview-next') await initNext({ preview: true });
+else if (command === 'init-next') await initNext();
 else if (command === 'fetch-batch') await fetchBatch(Number(process.argv[3] || 1));
+else if (command === 'retry-no-lyrics') {
+  const manifest = await readJson(manifestPath);
+  const batches = new Set(manifest.songs.filter(song => song.status === 'no-lyrics')
+    .map(song => Math.floor((song.rank - 1) / manifest.batchSize) + 1));
+  for (const batch of batches) await fetchBatch(batch, { retryNoLyrics: true });
+}
 else if (command === 'apply') await applyOutput(process.argv[3]);
+else if (command === 'reapply') await applyOutput(process.argv[3], { allowCompleted: true });
 else if (command === 'restore-all') await restoreAll();
 else if (command === 'export-lrc') await exportLrc();
 else if (command === 'write-kugou-case-aliases') await writeKugouCaseAliases();
 else if (command === 'audit') await audit();
-else throw new Error('Usage: node scripts/codex-kugou-ai-segmentation.mjs <init|fetch-batch N|apply FILE|restore-all|export-lrc|write-kugou-case-aliases|audit>');
+else if (command === 'audit-partial') await audit({ requireComplete: false });
+else throw new Error('Usage: node scripts/codex-kugou-ai-segmentation.mjs <init|preview-next|init-next|fetch-batch N|retry-no-lyrics|apply FILE|reapply FILE|restore-all|export-lrc|write-kugou-case-aliases|audit|audit-partial> [--root DIRECTORY]');

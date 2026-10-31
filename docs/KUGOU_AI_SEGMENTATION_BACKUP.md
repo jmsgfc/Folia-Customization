@@ -1,8 +1,8 @@
 # 酷狗“我喜欢”AI 分词备份
 
-此目录记录 2026-10-31 对酷狗“我喜欢”中最新 100 首歌曲执行的 AI 分词任务，供个人设备恢复和后续增量处理。
+此目录记录 2026-10-31 对酷狗“我喜欢”中第 1–200 首歌曲执行的分词任务，供设备恢复和后续增量处理。前 100 首与续批 101–200 首分别保存，互不覆盖。
 
-## 处理结果
+## 首批：第 1–100 首
 
 - 目标：100 首
 - 已完成并写回 Folia：99 首
@@ -24,6 +24,24 @@
 ```powershell
 node scripts\codex-kugou-ai-segmentation.mjs export-lrc
 ```
+
+## 续批：第 101–200 首
+
+此批以首批第 100 首《我们的明天 (Live)》为锚点；重新读取收藏时总数仍为 915，锚点仍在第 100 位，前 100 首顺序未变。
+
+- 目标：100 首；已写回 Folia 并读回验证：97 首。
+- 无可用歌词：3 首（第 162 首《当你的天空突然下起了大雨 (Remix)》、第 163 首《循环重演》、第 186 首《炽热的爱意 (History)》）。
+- 原始歌词与分词：各 5,450 行；分词片段：24,085 个。
+- 标准 LRC：97 个，5,450 行，毫秒级时间戳。
+- 设备审计：未完成、缺失、内容错配、无效输出及大小写别名问题均为 0。
+
+续批文件在 `.codex-tasks/kugou-ai-segmentation/continuation-101-200/`：`manifest.json` 是固定清单，`batches/` 保存 20 个输入批次和 97 个逐曲分词输出，`lrc/` 保存对应歌词文件。LRC 导出时规范化了行尾空白；输入与分词 JSON 保留原文。恢复续批时在仓库根目录执行：
+
+```powershell
+node scripts\codex-kugou-ai-segmentation.mjs restore-all --root .codex-tasks\kugou-ai-segmentation\continuation-101-200
+```
+
+审计通过时应得到：`done=97`、`noLyrics=3`、`unfinished=0`、`missing=0`、`mismatched=0`、`invalidOutputs=0`、`missingAliases=0`、`mismatchedAliases=0`。
 
 ## 恢复到 Android 设备
 

@@ -1,0 +1,1575 @@
+{
+  "batchNumber": 22,
+  "songs": [
+    {
+      "rank": 106,
+      "songKey": "online:kugou:53ada1c7959c77eaa08d272b7917df58",
+      "name": "红色高跟鞋 (Live)",
+      "artist": "蔡健雅 / 刘维 / 丁当 / 弦子 / 汪小敏",
+      "lines": [
+        {
+          "key": "0|蔡健雅、刘维、丁当、弦子、汪小敏 - 红色高跟鞋(Live)",
+          "startMs": 0,
+          "text": "蔡健雅、刘维、丁当、弦子、汪小敏 - 红色高跟鞋(Live)"
+        },
+        {
+          "key": "1174|作词：蔡健雅",
+          "startMs": 1174,
+          "text": "作词：蔡健雅"
+        },
+        {
+          "key": "1378|作曲：蔡健雅",
+          "startMs": 1378,
+          "text": "作曲：蔡健雅"
+        },
+        {
+          "key": "1580|原唱：蔡健雅",
+          "startMs": 1580,
+          "text": "原唱：蔡健雅"
+        },
+        {
+          "key": "1781|音乐总监：赵兆",
+          "startMs": 1781,
+          "text": "音乐总监：赵兆"
+        },
+        {
+          "key": "1983|编曲：宋涛",
+          "startMs": 1983,
+          "text": "编曲：宋涛"
+        },
+        {
+          "key": "2189|吉他：王传统、劳国贤",
+          "startMs": 2189,
+          "text": "吉他：王传统、劳国贤"
+        },
+        {
+          "key": "2493|贝斯：王聪",
+          "startMs": 2493,
+          "text": "贝斯：王聪"
+        },
+        {
+          "key": "2644|钢琴：白羽翔",
+          "startMs": 2644,
+          "text": "钢琴：白羽翔"
+        },
+        {
+          "key": "2850|键盘：宋涛",
+          "startMs": 2850,
+          "text": "键盘：宋涛"
+        },
+        {
+          "key": "3015|鼓：李彦超",
+          "startMs": 3015,
+          "text": "鼓：李彦超"
+        },
+        {
+          "key": "3217|打击乐：王宏涛",
+          "startMs": 3217,
+          "text": "打击乐：王宏涛"
+        },
+        {
+          "key": "3419|PGM：尹岳洋",
+          "startMs": 3419,
+          "text": "PGM：尹岳洋"
+        },
+        {
+          "key": "3571|和音：爱之音合唱团",
+          "startMs": 3571,
+          "text": "和音：爱之音合唱团"
+        },
+        {
+          "key": "3876|弦乐：靳海音®弦乐团",
+          "startMs": 3876,
+          "text": "弦乐：靳海音®弦乐团"
+        },
+        {
+          "key": "18475|弦子：该怎么去形容你最贴切",
+          "startMs": 18475,
+          "text": "弦子：该怎么去形容你最贴切"
+        },
+        {
+          "key": "25044|拿什么跟你作比较才算特别",
+          "startMs": 25044,
+          "text": "拿什么跟你作比较才算特别"
+        },
+        {
+          "key": "29188|丁当：对你的感觉 强烈",
+          "startMs": 29188,
+          "text": "丁当：对你的感觉 强烈"
+        },
+        {
+          "key": "32019|却又不太了解 只信直觉",
+          "startMs": 32019,
+          "text": "却又不太了解 只信直觉"
+        },
+        {
+          "key": "36882|刘维：你像窝在被子里的舒服",
+          "startMs": 36882,
+          "text": "刘维：你像窝在被子里的舒服"
+        },
+        {
+          "key": "41953|却又像风 捉摸不住",
+          "startMs": 41953,
+          "text": "却又像风 捉摸不住"
+        },
+        {
+          "key": "45746|汪小敏：像手腕上散发的香水味",
+          "startMs": 45746,
+          "text": "汪小敏：像手腕上散发的香水味"
+        },
+        {
+          "key": "51102|像爱不释手的",
+          "startMs": 51102,
+          "text": "像爱不释手的"
+        },
+        {
+          "key": "54845|合：红色高跟鞋",
+          "startMs": 54845,
+          "text": "合：红色高跟鞋"
+        },
+        {
+          "key": "57969|Don dao don dao don dao don dao",
+          "startMs": 57969,
+          "text": "Don dao don dao don dao don dao"
+        },
+        {
+          "key": "74796|蔡健雅：该怎么去形容你最贴切",
+          "startMs": 74796,
+          "text": "蔡健雅：该怎么去形容你最贴切"
+        },
+        {
+          "key": "80928|拿什么跟你作比较才算特别",
+          "startMs": 80928,
+          "text": "拿什么跟你作比较才算特别"
+        },
+        {
+          "key": "85577|对你的感觉 强烈",
+          "startMs": 85577,
+          "text": "对你的感觉 强烈"
+        },
+        {
+          "key": "87908|却又不太了解 只凭直觉",
+          "startMs": 87908,
+          "text": "却又不太了解 只凭直觉"
+        },
+        {
+          "key": "93277|你像窝在被子里的舒服",
+          "startMs": 93277,
+          "text": "你像窝在被子里的舒服"
+        },
+        {
+          "key": "97831|却又像风 捉摸不住",
+          "startMs": 97831,
+          "text": "却又像风 捉摸不住"
+        },
+        {
+          "key": "102241|像手腕上散发的香水味",
+          "startMs": 102241,
+          "text": "像手腕上散发的香水味"
+        },
+        {
+          "key": "107268|像爱不释手的 红色高跟鞋 ye",
+          "startMs": 107268,
+          "text": "像爱不释手的 红色高跟鞋 ye"
+        },
+        {
+          "key": "113190|合：don dao don dao don dao don dao",
+          "startMs": 113190,
+          "text": "合：don dao don dao don dao don dao"
+        },
+        {
+          "key": "130059|蔡健雅：你像窝在被子里的舒服",
+          "startMs": 130059,
+          "text": "蔡健雅：你像窝在被子里的舒服"
+        },
+        {
+          "key": "135163|却又像风捉摸不住",
+          "startMs": 135163,
+          "text": "却又像风捉摸不住"
+        },
+        {
+          "key": "139528|像手腕上散发的香水味",
+          "startMs": 139528,
+          "text": "像手腕上散发的香水味"
+        },
+        {
+          "key": "144276|像爱不释手的",
+          "startMs": 144276,
+          "text": "像爱不释手的"
+        },
+        {
+          "key": "148367|合：我爱你有种左灯右行的冲突",
+          "startMs": 148367,
+          "text": "合：我爱你有种左灯右行的冲突"
+        },
+        {
+          "key": "153817|疯狂却怕没有退路",
+          "startMs": 153817,
+          "text": "疯狂却怕没有退路"
+        },
+        {
+          "key": "158161|你能否让我停止这种追逐",
+          "startMs": 158161,
+          "text": "你能否让我停止这种追逐"
+        },
+        {
+          "key": "162629|蔡健雅：找到那双最后唯一的",
+          "startMs": 162629,
+          "text": "蔡健雅：找到那双最后唯一的"
+        },
+        {
+          "key": "167679|红色高跟鞋",
+          "startMs": 167679,
+          "text": "红色高跟鞋"
+        },
+        {
+          "key": "168792|合：don dao",
+          "startMs": 168792,
+          "text": "合：don dao"
+        },
+        {
+          "key": "171718|蔡健雅：红色高跟鞋",
+          "startMs": 171718,
+          "text": "蔡健雅：红色高跟鞋"
+        },
+        {
+          "key": "173620|合：don dao",
+          "startMs": 173620,
+          "text": "合：don dao"
+        },
+        {
+          "key": "176598|蔡健雅：红色高跟鞋",
+          "startMs": 176598,
+          "text": "蔡健雅：红色高跟鞋"
+        },
+        {
+          "key": "178214|合：don dao",
+          "startMs": 178214,
+          "text": "合：don dao"
+        },
+        {
+          "key": "181137|蔡健雅：红色高跟鞋",
+          "startMs": 181137,
+          "text": "蔡健雅：红色高跟鞋"
+        },
+        {
+          "key": "183091|合：don dao don dao",
+          "startMs": 183091,
+          "text": "合：don dao don dao"
+        }
+      ]
+    },
+    {
+      "rank": 107,
+      "songKey": "online:kugou:479e6ec46c7ef5a0fc72eafedf459e9e",
+      "name": "Exile (降调)",
+      "artist": "Double.7",
+      "lines": [
+        {
+          "key": "0|Exile (降调) - Double.7",
+          "startMs": 0,
+          "text": "Exile (降调) - Double.7"
+        },
+        {
+          "key": "598|I think I've seen this film before",
+          "startMs": 598,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "4839|And I didn't like the ending",
+          "startMs": 4839,
+          "text": "And I didn't like the ending"
+        },
+        {
+          "key": "7298|I'm not your problem anymore",
+          "startMs": 7298,
+          "text": "I'm not your problem anymore"
+        },
+        {
+          "key": "11838|So who am I offending now",
+          "startMs": 11838,
+          "text": "So who am I offending now"
+        },
+        {
+          "key": "14627|You were my crown",
+          "startMs": 14627,
+          "text": "You were my crown"
+        },
+        {
+          "key": "16354|Now I'm in exile seeing you out",
+          "startMs": 16354,
+          "text": "Now I'm in exile seeing you out"
+        },
+        {
+          "key": "21830|I think I've seen this film before",
+          "startMs": 21830,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "39087|I can see you standing honey",
+          "startMs": 39087,
+          "text": "I can see you standing honey"
+        },
+        {
+          "key": "42313|Like he's just your understudy",
+          "startMs": 42313,
+          "text": "Like he's just your understudy"
+        },
+        {
+          "key": "45472|Like you'd get your knuckles bloody for me",
+          "startMs": 45472,
+          "text": "Like you'd get your knuckles bloody for me"
+        },
+        {
+          "key": "51792|Second third and hundredth chances",
+          "startMs": 51792,
+          "text": "Second third and hundredth chances"
+        },
+        {
+          "key": "54945|Balancing on breaking branches",
+          "startMs": 54945,
+          "text": "Balancing on breaking branches"
+        },
+        {
+          "key": "58066|Those eyes add insult to injury",
+          "startMs": 58066,
+          "text": "Those eyes add insult to injury"
+        },
+        {
+          "key": "64529|I think I've seen this film before",
+          "startMs": 64529,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "68345|And I didn't like the ending",
+          "startMs": 68345,
+          "text": "And I didn't like the ending"
+        },
+        {
+          "key": "70740|I'm not your problem anymore",
+          "startMs": 70740,
+          "text": "I'm not your problem anymore"
+        },
+        {
+          "key": "74917|So who am I offending now",
+          "startMs": 74917,
+          "text": "So who am I offending now"
+        },
+        {
+          "key": "77368|You were my crown",
+          "startMs": 77368,
+          "text": "You were my crown"
+        },
+        {
+          "key": "79031|Now I'm in exile seeing you out",
+          "startMs": 79031,
+          "text": "Now I'm in exile seeing you out"
+        },
+        {
+          "key": "84068|I think I've seen this film before",
+          "startMs": 84068,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "87299|So I'm leaving out the side door",
+          "startMs": 87299,
+          "text": "So I'm leaving out the side door"
+        },
+        {
+          "key": "91438|So step right out",
+          "startMs": 91438,
+          "text": "So step right out"
+        },
+        {
+          "key": "94312|There is no amount",
+          "startMs": 94312,
+          "text": "There is no amount"
+        },
+        {
+          "key": "97045|Of crying I can do for you",
+          "startMs": 97045,
+          "text": "Of crying I can do for you"
+        },
+        {
+          "key": "101241|All this time",
+          "startMs": 101241,
+          "text": "All this time"
+        },
+        {
+          "key": "103375|We always walked a very thin line",
+          "startMs": 103375,
+          "text": "We always walked a very thin line"
+        },
+        {
+          "key": "106489|You didn't even hear me out",
+          "startMs": 106489,
+          "text": "You didn't even hear me out"
+        },
+        {
+          "key": "108501|Didn't even hear me out",
+          "startMs": 108501,
+          "text": "Didn't even hear me out"
+        },
+        {
+          "key": "109810|You never gave a warning sign",
+          "startMs": 109810,
+          "text": "You never gave a warning sign"
+        },
+        {
+          "key": "111685|I gave so many signs",
+          "startMs": 111685,
+          "text": "I gave so many signs"
+        },
+        {
+          "key": "114312|All this time",
+          "startMs": 114312,
+          "text": "All this time"
+        },
+        {
+          "key": "115904|I never learned to read your mind",
+          "startMs": 115904,
+          "text": "I never learned to read your mind"
+        },
+        {
+          "key": "118040|Never learned to read my mind",
+          "startMs": 118040,
+          "text": "Never learned to read my mind"
+        },
+        {
+          "key": "119385|I couldn't turn things around",
+          "startMs": 119385,
+          "text": "I couldn't turn things around"
+        },
+        {
+          "key": "121105|You never turned things around",
+          "startMs": 121105,
+          "text": "You never turned things around"
+        },
+        {
+          "key": "122390|Cause you never gave a warning sign",
+          "startMs": 122390,
+          "text": "Cause you never gave a warning sign"
+        },
+        {
+          "key": "124360|I gave so many signs",
+          "startMs": 124360,
+          "text": "I gave so many signs"
+        },
+        {
+          "key": "127929|So many signs",
+          "startMs": 127929,
+          "text": "So many signs"
+        },
+        {
+          "key": "131056|So many signs",
+          "startMs": 131056,
+          "text": "So many signs"
+        },
+        {
+          "key": "135321|You didn't even see the signs",
+          "startMs": 135321,
+          "text": "You didn't even see the signs"
+        },
+        {
+          "key": "140248|I think I've seen this film before",
+          "startMs": 140248,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "144124|And I didn't like the ending",
+          "startMs": 144124,
+          "text": "And I didn't like the ending"
+        },
+        {
+          "key": "146601|You're not my homeland anymore",
+          "startMs": 146601,
+          "text": "You're not my homeland anymore"
+        },
+        {
+          "key": "150698|So what am I defending now",
+          "startMs": 150698,
+          "text": "So what am I defending now"
+        },
+        {
+          "key": "153166|You were my town",
+          "startMs": 153166,
+          "text": "You were my town"
+        },
+        {
+          "key": "154759|Now I'm in exile seeing you out",
+          "startMs": 154759,
+          "text": "Now I'm in exile seeing you out"
+        },
+        {
+          "key": "159181|I think I've seen this film before",
+          "startMs": 159181,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "163045|So I'm leaving out the side door",
+          "startMs": 163045,
+          "text": "So I'm leaving out the side door"
+        },
+        {
+          "key": "167338|So step right out",
+          "startMs": 167338,
+          "text": "So step right out"
+        },
+        {
+          "key": "170153|There is no amount",
+          "startMs": 170153,
+          "text": "There is no amount"
+        },
+        {
+          "key": "172825|Of crying I can do for you",
+          "startMs": 172825,
+          "text": "Of crying I can do for you"
+        },
+        {
+          "key": "176862|All this time",
+          "startMs": 176862,
+          "text": "All this time"
+        },
+        {
+          "key": "179242|We always walked a very thin line",
+          "startMs": 179242,
+          "text": "We always walked a very thin line"
+        },
+        {
+          "key": "182356|You didn't even hear me out",
+          "startMs": 182356,
+          "text": "You didn't even hear me out"
+        },
+        {
+          "key": "184363|Didn't even hear me out",
+          "startMs": 184363,
+          "text": "Didn't even hear me out"
+        },
+        {
+          "key": "185625|You never gave a warning sign",
+          "startMs": 185625,
+          "text": "You never gave a warning sign"
+        },
+        {
+          "key": "187258|I gave so many signs",
+          "startMs": 187258,
+          "text": "I gave so many signs"
+        },
+        {
+          "key": "189961|All this time",
+          "startMs": 189961,
+          "text": "All this time"
+        },
+        {
+          "key": "191750|I never learned to read your mind",
+          "startMs": 191750,
+          "text": "I never learned to read your mind"
+        },
+        {
+          "key": "193768|Never learned to read my mind",
+          "startMs": 193768,
+          "text": "Never learned to read my mind"
+        },
+        {
+          "key": "195132|I couldn't turn things around",
+          "startMs": 195132,
+          "text": "I couldn't turn things around"
+        },
+        {
+          "key": "196763|You never turned things around",
+          "startMs": 196763,
+          "text": "You never turned things around"
+        },
+        {
+          "key": "198103|Cause you never gave a warning sign",
+          "startMs": 198103,
+          "text": "Cause you never gave a warning sign"
+        },
+        {
+          "key": "200113|I gave so many signs",
+          "startMs": 200113,
+          "text": "I gave so many signs"
+        },
+        {
+          "key": "203659|So many signs",
+          "startMs": 203659,
+          "text": "So many signs"
+        },
+        {
+          "key": "206875|So many signs",
+          "startMs": 206875,
+          "text": "So many signs"
+        },
+        {
+          "key": "210712|Cause you never gave a warning sign",
+          "startMs": 210712,
+          "text": "Cause you never gave a warning sign"
+        },
+        {
+          "key": "212812|You never gave a warning sign",
+          "startMs": 212812,
+          "text": "You never gave a warning sign"
+        },
+        {
+          "key": "214429|You never gave a warning sign",
+          "startMs": 214429,
+          "text": "You never gave a warning sign"
+        },
+        {
+          "key": "221311|Ah ah",
+          "startMs": 221311,
+          "text": "Ah ah"
+        }
+      ]
+    },
+    {
+      "rank": 108,
+      "songKey": "online:kugou:d94459c71cb42c71771816e18baa9296",
+      "name": "Something Just Like This",
+      "artist": "Alex Goot / MADILYN",
+      "lines": [
+        {
+          "key": "0|Something Just Like This - Alex Goot/Madilyn Bailey",
+          "startMs": 0,
+          "text": "Something Just Like This - Alex Goot/Madilyn Bailey"
+        },
+        {
+          "key": "4050|Written by：Andrew Taggart/Christopher Martin/Guy Berryman/Jonny Buckland/Will Champion",
+          "startMs": 4050,
+          "text": "Written by：Andrew Taggart/Christopher Martin/Guy Berryman/Jonny Buckland/Will Champion"
+        },
+        {
+          "key": "8119|I've been reading books of old",
+          "startMs": 8119,
+          "text": "I've been reading books of old"
+        },
+        {
+          "key": "10541|The legends and the myths",
+          "startMs": 10541,
+          "text": "The legends and the myths"
+        },
+        {
+          "key": "12885|Achilles and his gold",
+          "startMs": 12885,
+          "text": "Achilles and his gold"
+        },
+        {
+          "key": "15147|Hercules and his gifts",
+          "startMs": 15147,
+          "text": "Hercules and his gifts"
+        },
+        {
+          "key": "17587|Spiderman's control",
+          "startMs": 17587,
+          "text": "Spiderman's control"
+        },
+        {
+          "key": "19779|And Batman with his fists",
+          "startMs": 19779,
+          "text": "And Batman with his fists"
+        },
+        {
+          "key": "22579|And clearly I don't see myself upon that list",
+          "startMs": 22579,
+          "text": "And clearly I don't see myself upon that list"
+        },
+        {
+          "key": "26440|She said where'd you wanna go",
+          "startMs": 26440,
+          "text": "She said where'd you wanna go"
+        },
+        {
+          "key": "29201|How much you wanna risk",
+          "startMs": 29201,
+          "text": "How much you wanna risk"
+        },
+        {
+          "key": "31216|I'm not looking for somebody",
+          "startMs": 31216,
+          "text": "I'm not looking for somebody"
+        },
+        {
+          "key": "33435|With some Superhuman gifts",
+          "startMs": 33435,
+          "text": "With some Superhuman gifts"
+        },
+        {
+          "key": "36099|Some Superhero",
+          "startMs": 36099,
+          "text": "Some Superhero"
+        },
+        {
+          "key": "38355|Some fairytale bliss",
+          "startMs": 38355,
+          "text": "Some fairytale bliss"
+        },
+        {
+          "key": "40778|Just something I can turn to",
+          "startMs": 40778,
+          "text": "Just something I can turn to"
+        },
+        {
+          "key": "42967|Somebody I can kiss",
+          "startMs": 42967,
+          "text": "Somebody I can kiss"
+        },
+        {
+          "key": "45134|I want something just like this",
+          "startMs": 45134,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "54543|I want something just like this",
+          "startMs": 54543,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "63491|I want something just like this",
+          "startMs": 63491,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "72754|I want something just like this",
+          "startMs": 72754,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "82669|I've been reading books of old",
+          "startMs": 82669,
+          "text": "I've been reading books of old"
+        },
+        {
+          "key": "84989|The legends and the myths",
+          "startMs": 84989,
+          "text": "The legends and the myths"
+        },
+        {
+          "key": "87293|The testaments they told",
+          "startMs": 87293,
+          "text": "The testaments they told"
+        },
+        {
+          "key": "89613|The moon and its eclipse",
+          "startMs": 89613,
+          "text": "The moon and its eclipse"
+        },
+        {
+          "key": "91917|And Superman unrolls",
+          "startMs": 91917,
+          "text": "And Superman unrolls"
+        },
+        {
+          "key": "94453|A suit before he lifts",
+          "startMs": 94453,
+          "text": "A suit before he lifts"
+        },
+        {
+          "key": "97304|But I'm not the kind of person that it fits",
+          "startMs": 97304,
+          "text": "But I'm not the kind of person that it fits"
+        },
+        {
+          "key": "100998|She said where'd you wanna go",
+          "startMs": 100998,
+          "text": "She said where'd you wanna go"
+        },
+        {
+          "key": "103769|How much you wanna risk",
+          "startMs": 103769,
+          "text": "How much you wanna risk"
+        },
+        {
+          "key": "105793|I'm not looking for somebody",
+          "startMs": 105793,
+          "text": "I'm not looking for somebody"
+        },
+        {
+          "key": "107903|With some Superhuman gifts",
+          "startMs": 107903,
+          "text": "With some Superhuman gifts"
+        },
+        {
+          "key": "110611|Some Superhero",
+          "startMs": 110611,
+          "text": "Some Superhero"
+        },
+        {
+          "key": "112867|Some fairytale bliss",
+          "startMs": 112867,
+          "text": "Some fairytale bliss"
+        },
+        {
+          "key": "115259|Just something I can turn to",
+          "startMs": 115259,
+          "text": "Just something I can turn to"
+        },
+        {
+          "key": "117505|Somebody I can miss",
+          "startMs": 117505,
+          "text": "Somebody I can miss"
+        },
+        {
+          "key": "119667|I want something just like this",
+          "startMs": 119667,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "129051|I want something just like this",
+          "startMs": 129051,
+          "text": "I want something just like this"
+        },
+        {
+          "key": "141001|Doo doo doo doo doo doo",
+          "startMs": 141001,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "143310|Doo doo doo doo doo",
+          "startMs": 143310,
+          "text": "Doo doo doo doo doo"
+        },
+        {
+          "key": "145630|Doo doo doo doo doo doo",
+          "startMs": 145630,
+          "text": "Doo doo doo doo doo doo"
+        },
+        {
+          "key": "147742|She said where'd you wanna go",
+          "startMs": 147742,
+          "text": "She said where'd you wanna go"
+        },
+        {
+          "key": "150239|How much you wanna risk",
+          "startMs": 150239,
+          "text": "How much you wanna risk"
+        },
+        {
+          "key": "152311|I'm not looking for somebody",
+          "startMs": 152311,
+          "text": "I'm not looking for somebody"
+        },
+        {
+          "key": "154467|With some Superhuman gifts",
+          "startMs": 154467,
+          "text": "With some Superhuman gifts"
+        },
+        {
+          "key": "157227|Some Superhero",
+          "startMs": 157227,
+          "text": "Some Superhero"
+        },
+        {
+          "key": "159531|Some fairytale bliss",
+          "startMs": 159531,
+          "text": "Some fairytale bliss"
+        },
+        {
+          "key": "161939|Just something I can turn to",
+          "startMs": 161939,
+          "text": "Just something I can turn to"
+        },
+        {
+          "key": "164206|Somebody I can kiss",
+          "startMs": 164206,
+          "text": "Somebody I can kiss"
+        },
+        {
+          "key": "166384|I want something just like this",
+          "startMs": 166384,
+          "text": "I want something just like this"
+        }
+      ]
+    },
+    {
+      "rank": 109,
+      "songKey": "online:kugou:56cb9742642e621080afe4f66c6cc4c7",
+      "name": "Shots",
+      "artist": "Tonia / The Beat",
+      "lines": [
+        {
+          "key": "315|Tonia、the beat - Shots",
+          "startMs": 315,
+          "text": "Tonia、the beat - Shots"
+        },
+        {
+          "key": "2151|Lyrics by：Imagine Dragons",
+          "startMs": 2151,
+          "text": "Lyrics by：Imagine Dragons"
+        },
+        {
+          "key": "3553|Composed by：Imagine Dragons",
+          "startMs": 3553,
+          "text": "Composed by：Imagine Dragons"
+        },
+        {
+          "key": "7359|I'm sorry for everything oh everything I've done",
+          "startMs": 7359,
+          "text": "I'm sorry for everything oh everything I've done"
+        },
+        {
+          "key": "30356|Am I out of touch",
+          "startMs": 30356,
+          "text": "Am I out of touch"
+        },
+        {
+          "key": "32302|Am I out of my place",
+          "startMs": 32302,
+          "text": "Am I out of my place"
+        },
+        {
+          "key": "34730|When I keep saying that I'm looking for an empty space",
+          "startMs": 34730,
+          "text": "When I keep saying that I'm looking for an empty space"
+        },
+        {
+          "key": "39224|Oh I'm wishing you're here",
+          "startMs": 39224,
+          "text": "Oh I'm wishing you're here"
+        },
+        {
+          "key": "41472|But I'm wishing you're gone",
+          "startMs": 41472,
+          "text": "But I'm wishing you're gone"
+        },
+        {
+          "key": "44142|I can't have you and I'm only gonna do you wrong",
+          "startMs": 44142,
+          "text": "I can't have you and I'm only gonna do you wrong"
+        },
+        {
+          "key": "48572|Oh I'm gonna mess this up",
+          "startMs": 48572,
+          "text": "Oh I'm gonna mess this up"
+        },
+        {
+          "key": "50698|Oh this is just my luck",
+          "startMs": 50698,
+          "text": "Oh this is just my luck"
+        },
+        {
+          "key": "53064|Over and over and over again",
+          "startMs": 53064,
+          "text": "Over and over and over again"
+        },
+        {
+          "key": "57798|I'm sorry for everything oh everything I've done",
+          "startMs": 57798,
+          "text": "I'm sorry for everything oh everything I've done"
+        },
+        {
+          "key": "61443|From the second that I was born it seems I had a loaded gun",
+          "startMs": 61443,
+          "text": "From the second that I was born it seems I had a loaded gun"
+        },
+        {
+          "key": "65816|And then I shot shot shot a hole",
+          "startMs": 65816,
+          "text": "And then I shot shot shot a hole"
+        },
+        {
+          "key": "68419|Through everything I loved",
+          "startMs": 68419,
+          "text": "Through everything I loved"
+        },
+        {
+          "key": "70540|Oh I shot shot shot a hole",
+          "startMs": 70540,
+          "text": "Oh I shot shot shot a hole"
+        },
+        {
+          "key": "72905|Through every single thing that I loved",
+          "startMs": 72905,
+          "text": "Through every single thing that I loved"
+        },
+        {
+          "key": "85244|Am I out of luck",
+          "startMs": 85244,
+          "text": "Am I out of luck"
+        },
+        {
+          "key": "87251|Am I waiting to break",
+          "startMs": 87251,
+          "text": "Am I waiting to break"
+        },
+        {
+          "key": "89737|When I keep saying that I'm looking for a way to escape",
+          "startMs": 89737,
+          "text": "When I keep saying that I'm looking for a way to escape"
+        },
+        {
+          "key": "94106|Oh I'm wishing I had",
+          "startMs": 94106,
+          "text": "Oh I'm wishing I had"
+        },
+        {
+          "key": "96287|What I'd taken for granted",
+          "startMs": 96287,
+          "text": "What I'd taken for granted"
+        },
+        {
+          "key": "98897|I can't help you when I'm only gonna do you wrong",
+          "startMs": 98897,
+          "text": "I can't help you when I'm only gonna do you wrong"
+        },
+        {
+          "key": "103205|Oh I'm gonna mess this up",
+          "startMs": 103205,
+          "text": "Oh I'm gonna mess this up"
+        },
+        {
+          "key": "105452|Oh this is just my luck",
+          "startMs": 105452,
+          "text": "Oh this is just my luck"
+        },
+        {
+          "key": "107698|Over and over and over again",
+          "startMs": 107698,
+          "text": "Over and over and over again"
+        },
+        {
+          "key": "112613|I'm sorry for everything oh everything I've done",
+          "startMs": 112613,
+          "text": "I'm sorry for everything oh everything I've done"
+        },
+        {
+          "key": "116257|From the second that I was born it seems I had a loaded gun",
+          "startMs": 116257,
+          "text": "From the second that I was born it seems I had a loaded gun"
+        },
+        {
+          "key": "120637|And then I shot shot shot a hole",
+          "startMs": 120637,
+          "text": "And then I shot shot shot a hole"
+        },
+        {
+          "key": "123245|Through everything I loved",
+          "startMs": 123245,
+          "text": "Through everything I loved"
+        },
+        {
+          "key": "125247|Oh I shot shot shot a hole",
+          "startMs": 125247,
+          "text": "Oh I shot shot shot a hole"
+        },
+        {
+          "key": "127799|Through every single thing that I loved",
+          "startMs": 127799,
+          "text": "Through every single thing that I loved"
+        },
+        {
+          "key": "134959|In the meantime we let it go",
+          "startMs": 134959,
+          "text": "In the meantime we let it go"
+        },
+        {
+          "key": "137085|At the roadside we used to know",
+          "startMs": 137085,
+          "text": "At the roadside we used to know"
+        },
+        {
+          "key": "139267|We can let this drift away",
+          "startMs": 139267,
+          "text": "We can let this drift away"
+        },
+        {
+          "key": "141452|Oh we let this drift away",
+          "startMs": 141452,
+          "text": "Oh we let this drift away"
+        },
+        {
+          "key": "143693|At the bay side where you used to show",
+          "startMs": 143693,
+          "text": "At the bay side where you used to show"
+        },
+        {
+          "key": "146244|In the moonlight where we let it go",
+          "startMs": 146244,
+          "text": "In the moonlight where we let it go"
+        },
+        {
+          "key": "148431|We can let this drift away",
+          "startMs": 148431,
+          "text": "We can let this drift away"
+        },
+        {
+          "key": "150614|Oh we let this drift away",
+          "startMs": 150614,
+          "text": "Oh we let this drift away"
+        },
+        {
+          "key": "152857|And there's always time to change your mind",
+          "startMs": 152857,
+          "text": "And there's always time to change your mind"
+        },
+        {
+          "key": "155224|Oh there's always time to change your mind",
+          "startMs": 155224,
+          "text": "Oh there's always time to change your mind"
+        },
+        {
+          "key": "157469|Oh love can you hear me",
+          "startMs": 157469,
+          "text": "Oh love can you hear me"
+        },
+        {
+          "key": "160869|Oh let it drift away",
+          "startMs": 160869,
+          "text": "Oh let it drift away"
+        },
+        {
+          "key": "162988|I'm sorry for everything oh everything I've done",
+          "startMs": 162988,
+          "text": "I'm sorry for everything oh everything I've done"
+        },
+        {
+          "key": "166508|From the second that I was born it seems I had a loaded gun",
+          "startMs": 166508,
+          "text": "From the second that I was born it seems I had a loaded gun"
+        },
+        {
+          "key": "170876|And then I shot shot shot a hole",
+          "startMs": 170876,
+          "text": "And then I shot shot shot a hole"
+        },
+        {
+          "key": "173485|Through everything I loved",
+          "startMs": 173485,
+          "text": "Through everything I loved"
+        },
+        {
+          "key": "175732|Oh I shot shot shot a hole",
+          "startMs": 175732,
+          "text": "Oh I shot shot shot a hole"
+        },
+        {
+          "key": "178410|Through every single thing that I loved",
+          "startMs": 178410,
+          "text": "Through every single thing that I loved"
+        },
+        {
+          "key": "180537|In the meantime we let it go",
+          "startMs": 180537,
+          "text": "In the meantime we let it go"
+        },
+        {
+          "key": "182601|At the roadside we used to know",
+          "startMs": 182601,
+          "text": "At the roadside we used to know"
+        },
+        {
+          "key": "184845|We can let this drift away",
+          "startMs": 184845,
+          "text": "We can let this drift away"
+        },
+        {
+          "key": "187033|Oh we let this drift away",
+          "startMs": 187033,
+          "text": "Oh we let this drift away"
+        },
+        {
+          "key": "189337|At the bay side where you used to show",
+          "startMs": 189337,
+          "text": "At the bay side where you used to show"
+        },
+        {
+          "key": "191828|In the moonlight where we let it go",
+          "startMs": 191828,
+          "text": "In the moonlight where we let it go"
+        },
+        {
+          "key": "194132|We can let this drift away",
+          "startMs": 194132,
+          "text": "We can let this drift away"
+        },
+        {
+          "key": "196199|Oh we let this drift away",
+          "startMs": 196199,
+          "text": "Oh we let this drift away"
+        },
+        {
+          "key": "198559|And there's always time to change your mind",
+          "startMs": 198559,
+          "text": "And there's always time to change your mind"
+        },
+        {
+          "key": "200867|Oh there's always time to change your mind",
+          "startMs": 200867,
+          "text": "Oh there's always time to change your mind"
+        },
+        {
+          "key": "203113|Oh love can you hear me",
+          "startMs": 203113,
+          "text": "Oh love can you hear me"
+        },
+        {
+          "key": "206449|Oh let it drift away",
+          "startMs": 206449,
+          "text": "Oh let it drift away"
+        }
+      ]
+    },
+    {
+      "rank": 110,
+      "songKey": "online:kugou:88aa68291c1697047077cf8b21904b55",
+      "name": "But U",
+      "artist": "Xyisx",
+      "lines": [
+        {
+          "key": "214|But U - Xyisx",
+          "startMs": 214,
+          "text": "But U - Xyisx"
+        },
+        {
+          "key": "824|词：NINEONE",
+          "startMs": 824,
+          "text": "词：NINEONE"
+        },
+        {
+          "key": "925|曲：NINEONE",
+          "startMs": 925,
+          "text": "曲：NINEONE"
+        },
+        {
+          "key": "976|编曲：HYPER MUSIC",
+          "startMs": 976,
+          "text": "编曲：HYPER MUSIC"
+        },
+        {
+          "key": "11748|Whenever I take U into my life",
+          "startMs": 11748,
+          "text": "Whenever I take U into my life"
+        },
+        {
+          "key": "16602|It's never too late to give U all my passion",
+          "startMs": 16602,
+          "text": "It's never too late to give U all my passion"
+        },
+        {
+          "key": "21527|We call it something different something wrong and something right",
+          "startMs": 21527,
+          "text": "We call it something different something wrong and something right"
+        },
+        {
+          "key": "27549|Something right woo",
+          "startMs": 27549,
+          "text": "Something right woo"
+        },
+        {
+          "key": "32171|你不惧以前",
+          "startMs": 32171,
+          "text": "你不惧以前"
+        },
+        {
+          "key": "34147|意外难料难避免",
+          "startMs": 34147,
+          "text": "意外难料难避免"
+        },
+        {
+          "key": "36746|我许不了你承诺但许你做我底线",
+          "startMs": 36746,
+          "text": "我许不了你承诺但许你做我底线"
+        },
+        {
+          "key": "41936|傍晚落日的泛红柔焦在",
+          "startMs": 41936,
+          "text": "傍晚落日的泛红柔焦在"
+        },
+        {
+          "key": "45184|瞳孔躺的陶白",
+          "startMs": 45184,
+          "text": "瞳孔躺的陶白"
+        },
+        {
+          "key": "47367|一切都靠你眼神猜",
+          "startMs": 47367,
+          "text": "一切都靠你眼神猜"
+        },
+        {
+          "key": "50042|Loewe Paula's Ibiza 的味道like",
+          "startMs": 50042,
+          "text": "Loewe Paula's Ibiza 的味道like"
+        },
+        {
+          "key": "53498|I see nobody but U",
+          "startMs": 53498,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "56349|I call it something right",
+          "startMs": 56349,
+          "text": "I call it something right"
+        },
+        {
+          "key": "58834|I feel nobody but U",
+          "startMs": 58834,
+          "text": "I feel nobody but U"
+        },
+        {
+          "key": "61599|Around the coastline and we run",
+          "startMs": 61599,
+          "text": "Around the coastline and we run"
+        },
+        {
+          "key": "63885|I see nobody but U",
+          "startMs": 63885,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "66731|I call it something wrong",
+          "startMs": 66731,
+          "text": "I call it something wrong"
+        },
+        {
+          "key": "69262|I feel nobody but U but U but U wooo",
+          "startMs": 69262,
+          "text": "I feel nobody but U but U but U wooo"
+        },
+        {
+          "key": "78353|Things may be bad",
+          "startMs": 78353,
+          "text": "Things may be bad"
+        },
+        {
+          "key": "81540|可我记得你的笑容",
+          "startMs": 81540,
+          "text": "可我记得你的笑容"
+        },
+        {
+          "key": "86958|曝光过度的胶片",
+          "startMs": 86958,
+          "text": "曝光过度的胶片"
+        },
+        {
+          "key": "89398|有你也不用挑选",
+          "startMs": 89398,
+          "text": "有你也不用挑选"
+        },
+        {
+          "key": "91890|只想把时光都和你消遣呐",
+          "startMs": 91890,
+          "text": "只想把时光都和你消遣呐"
+        },
+        {
+          "key": "96047|I can't sleep all night",
+          "startMs": 96047,
+          "text": "I can't sleep all night"
+        },
+        {
+          "key": "97823|Argue with U只为了交代",
+          "startMs": 97823,
+          "text": "Argue with U只为了交代"
+        },
+        {
+          "key": "100359|真实想法",
+          "startMs": 100359,
+          "text": "真实想法"
+        },
+        {
+          "key": "101520|U know I want ya",
+          "startMs": 101520,
+          "text": "U know I want ya"
+        },
+        {
+          "key": "102642|距离只是当下最烂的谎话",
+          "startMs": 102642,
+          "text": "距离只是当下最烂的谎话"
+        },
+        {
+          "key": "105743|夏日限定般的告白",
+          "startMs": 105743,
+          "text": "夏日限定般的告白"
+        },
+        {
+          "key": "107820|你总怀疑我的心里是不是会超载",
+          "startMs": 107820,
+          "text": "你总怀疑我的心里是不是会超载"
+        },
+        {
+          "key": "110357|脱口而出油腻的话",
+          "startMs": 110357,
+          "text": "脱口而出油腻的话"
+        },
+        {
+          "key": "111785|不知道是被谁教坏",
+          "startMs": 111785,
+          "text": "不知道是被谁教坏"
+        },
+        {
+          "key": "113259|在我身边你可以放心做一个小孩",
+          "startMs": 113259,
+          "text": "在我身边你可以放心做一个小孩"
+        },
+        {
+          "key": "116560|I see nobody but U",
+          "startMs": 116560,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "119605|I call it something right",
+          "startMs": 119605,
+          "text": "I call it something right"
+        },
+        {
+          "key": "122036|I feel nobody but U",
+          "startMs": 122036,
+          "text": "I feel nobody but U"
+        },
+        {
+          "key": "124726|Around the coastline and we run",
+          "startMs": 124726,
+          "text": "Around the coastline and we run"
+        },
+        {
+          "key": "127211|I see nobody but U",
+          "startMs": 127211,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "129904|I call it something wrong",
+          "startMs": 129904,
+          "text": "I call it something wrong"
+        },
+        {
+          "key": "132392|I feel nobody but U but U but U wooo",
+          "startMs": 132392,
+          "text": "I feel nobody but U but U but U wooo"
+        },
+        {
+          "key": "137577|I see nobody but U",
+          "startMs": 137577,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "140518|I call it something right",
+          "startMs": 140518,
+          "text": "I call it something right"
+        },
+        {
+          "key": "142805|I feel nobody but U",
+          "startMs": 142805,
+          "text": "I feel nobody but U"
+        },
+        {
+          "key": "145703|Around the coastline and we run",
+          "startMs": 145703,
+          "text": "Around the coastline and we run"
+        },
+        {
+          "key": "148042|I see nobody but U",
+          "startMs": 148042,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "150928|I call it something wrong",
+          "startMs": 150928,
+          "text": "I call it something wrong"
+        },
+        {
+          "key": "153419|I feel nobody but U but U but U wooo",
+          "startMs": 153419,
+          "text": "I feel nobody but U but U but U wooo"
+        },
+        {
+          "key": "158922|Don't U realize that",
+          "startMs": 158922,
+          "text": "Don't U realize that"
+        },
+        {
+          "key": "161259|Don't U realize that",
+          "startMs": 161259,
+          "text": "Don't U realize that"
+        },
+        {
+          "key": "163546|Don't U realize that",
+          "startMs": 163546,
+          "text": "Don't U realize that"
+        },
+        {
+          "key": "166445|Don't U realize",
+          "startMs": 166445,
+          "text": "Don't U realize"
+        },
+        {
+          "key": "169144|Don't U realize that",
+          "startMs": 169144,
+          "text": "Don't U realize that"
+        },
+        {
+          "key": "171685|Don't U realize that",
+          "startMs": 171685,
+          "text": "Don't U realize that"
+        },
+        {
+          "key": "174321|Don't U realize that",
+          "startMs": 174321,
+          "text": "Don't U realize that"
+        },
+        {
+          "key": "176962|Don't U realize",
+          "startMs": 176962,
+          "text": "Don't U realize"
+        },
+        {
+          "key": "180037|I see nobody but U",
+          "startMs": 180037,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "182786|I call it something right",
+          "startMs": 182786,
+          "text": "I call it something right"
+        },
+        {
+          "key": "185277|I feel nobody but U",
+          "startMs": 185277,
+          "text": "I feel nobody but U"
+        },
+        {
+          "key": "187862|Around the coastline and we run",
+          "startMs": 187862,
+          "text": "Around the coastline and we run"
+        },
+        {
+          "key": "190294|I see nobody but U",
+          "startMs": 190294,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "193133|I call it something wrong",
+          "startMs": 193133,
+          "text": "I call it something wrong"
+        },
+        {
+          "key": "195411|I feel nobody but U but U but U wooo",
+          "startMs": 195411,
+          "text": "I feel nobody but U but U but U wooo"
+        },
+        {
+          "key": "200949|I see nobody but U",
+          "startMs": 200949,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "209255|I call it something right",
+          "startMs": 209255,
+          "text": "I call it something right"
+        },
+        {
+          "key": "211646|I see nobody but U",
+          "startMs": 211646,
+          "text": "I see nobody but U"
+        },
+        {
+          "key": "214195|I call it something wrong",
+          "startMs": 214195,
+          "text": "I call it something wrong"
+        },
+        {
+          "key": "216880|I feel nobody but U but U but U",
+          "startMs": 216880,
+          "text": "I feel nobody but U but U but U"
+        }
+      ]
+    }
+  ]
+}

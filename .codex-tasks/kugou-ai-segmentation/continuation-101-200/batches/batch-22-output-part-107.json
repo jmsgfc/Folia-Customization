@@ -1,0 +1,822 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:479e6ec46c7ef5a0fc72eafedf459e9e",
+      "lines": [
+        {
+          "key": "0|Exile (降调) - Double.7",
+          "text": "Exile (降调) - Double.7",
+          "segments": [
+            "Exile ",
+            "(降调)",
+            " - ",
+            "Double.7"
+          ]
+        },
+        {
+          "key": "598|I think I've seen this film before",
+          "text": "I think I've seen this film before",
+          "segments": [
+            "I ",
+            "think ",
+            "I've ",
+            "seen ",
+            "this ",
+            "film ",
+            "before"
+          ]
+        },
+        {
+          "key": "4839|And I didn't like the ending",
+          "text": "And I didn't like the ending",
+          "segments": [
+            "And ",
+            "I ",
+            "didn't ",
+            "like ",
+            "the ",
+            "ending"
+          ]
+        },
+        {
+          "key": "7298|I'm not your problem anymore",
+          "text": "I'm not your problem anymore",
+          "segments": [
+            "I'm ",
+            "not ",
+            "your ",
+            "problem ",
+            "anymore"
+          ]
+        },
+        {
+          "key": "11838|So who am I offending now",
+          "text": "So who am I offending now",
+          "segments": [
+            "So ",
+            "who ",
+            "am ",
+            "I ",
+            "offending ",
+            "now"
+          ]
+        },
+        {
+          "key": "14627|You were my crown",
+          "text": "You were my crown",
+          "segments": [
+            "You ",
+            "were ",
+            "my ",
+            "crown"
+          ]
+        },
+        {
+          "key": "16354|Now I'm in exile seeing you out",
+          "text": "Now I'm in exile seeing you out",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "in ",
+            "exile ",
+            "seeing ",
+            "you ",
+            "out"
+          ]
+        },
+        {
+          "key": "21830|I think I've seen this film before",
+          "text": "I think I've seen this film before",
+          "segments": [
+            "I ",
+            "think ",
+            "I've ",
+            "seen ",
+            "this ",
+            "film ",
+            "before"
+          ]
+        },
+        {
+          "key": "39087|I can see you standing honey",
+          "text": "I can see you standing honey",
+          "segments": [
+            "I ",
+            "can ",
+            "see ",
+            "you ",
+            "standing ",
+            "honey"
+          ]
+        },
+        {
+          "key": "42313|Like he's just your understudy",
+          "text": "Like he's just your understudy",
+          "segments": [
+            "Like ",
+            "he's ",
+            "just ",
+            "your ",
+            "understudy"
+          ]
+        },
+        {
+          "key": "45472|Like you'd get your knuckles bloody for me",
+          "text": "Like you'd get your knuckles bloody for me",
+          "segments": [
+            "Like ",
+            "you'd ",
+            "get ",
+            "your ",
+            "knuckles ",
+            "bloody ",
+            "for ",
+            "me"
+          ]
+        },
+        {
+          "key": "51792|Second third and hundredth chances",
+          "text": "Second third and hundredth chances",
+          "segments": [
+            "Second ",
+            "third ",
+            "and ",
+            "hundredth ",
+            "chances"
+          ]
+        },
+        {
+          "key": "54945|Balancing on breaking branches",
+          "text": "Balancing on breaking branches",
+          "segments": [
+            "Balancing ",
+            "on ",
+            "breaking ",
+            "branches"
+          ]
+        },
+        {
+          "key": "58066|Those eyes add insult to injury",
+          "text": "Those eyes add insult to injury",
+          "segments": [
+            "Those ",
+            "eyes ",
+            "add ",
+            "insult ",
+            "to ",
+            "injury"
+          ]
+        },
+        {
+          "key": "64529|I think I've seen this film before",
+          "text": "I think I've seen this film before",
+          "segments": [
+            "I ",
+            "think ",
+            "I've ",
+            "seen ",
+            "this ",
+            "film ",
+            "before"
+          ]
+        },
+        {
+          "key": "68345|And I didn't like the ending",
+          "text": "And I didn't like the ending",
+          "segments": [
+            "And ",
+            "I ",
+            "didn't ",
+            "like ",
+            "the ",
+            "ending"
+          ]
+        },
+        {
+          "key": "70740|I'm not your problem anymore",
+          "text": "I'm not your problem anymore",
+          "segments": [
+            "I'm ",
+            "not ",
+            "your ",
+            "problem ",
+            "anymore"
+          ]
+        },
+        {
+          "key": "74917|So who am I offending now",
+          "text": "So who am I offending now",
+          "segments": [
+            "So ",
+            "who ",
+            "am ",
+            "I ",
+            "offending ",
+            "now"
+          ]
+        },
+        {
+          "key": "77368|You were my crown",
+          "text": "You were my crown",
+          "segments": [
+            "You ",
+            "were ",
+            "my ",
+            "crown"
+          ]
+        },
+        {
+          "key": "79031|Now I'm in exile seeing you out",
+          "text": "Now I'm in exile seeing you out",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "in ",
+            "exile ",
+            "seeing ",
+            "you ",
+            "out"
+          ]
+        },
+        {
+          "key": "84068|I think I've seen this film before",
+          "text": "I think I've seen this film before",
+          "segments": [
+            "I ",
+            "think ",
+            "I've ",
+            "seen ",
+            "this ",
+            "film ",
+            "before"
+          ]
+        },
+        {
+          "key": "87299|So I'm leaving out the side door",
+          "text": "So I'm leaving out the side door",
+          "segments": [
+            "So ",
+            "I'm ",
+            "leaving ",
+            "out ",
+            "the ",
+            "side ",
+            "door"
+          ]
+        },
+        {
+          "key": "91438|So step right out",
+          "text": "So step right out",
+          "segments": [
+            "So ",
+            "step ",
+            "right ",
+            "out"
+          ]
+        },
+        {
+          "key": "94312|There is no amount",
+          "text": "There is no amount",
+          "segments": [
+            "There ",
+            "is ",
+            "no ",
+            "amount"
+          ]
+        },
+        {
+          "key": "97045|Of crying I can do for you",
+          "text": "Of crying I can do for you",
+          "segments": [
+            "Of ",
+            "crying ",
+            "I ",
+            "can ",
+            "do ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "101241|All this time",
+          "text": "All this time",
+          "segments": [
+            "All ",
+            "this ",
+            "time"
+          ]
+        },
+        {
+          "key": "103375|We always walked a very thin line",
+          "text": "We always walked a very thin line",
+          "segments": [
+            "We ",
+            "always ",
+            "walked ",
+            "a ",
+            "very ",
+            "thin ",
+            "line"
+          ]
+        },
+        {
+          "key": "106489|You didn't even hear me out",
+          "text": "You didn't even hear me out",
+          "segments": [
+            "You ",
+            "didn't ",
+            "even ",
+            "hear ",
+            "me ",
+            "out"
+          ]
+        },
+        {
+          "key": "108501|Didn't even hear me out",
+          "text": "Didn't even hear me out",
+          "segments": [
+            "Didn't ",
+            "even ",
+            "hear ",
+            "me ",
+            "out"
+          ]
+        },
+        {
+          "key": "109810|You never gave a warning sign",
+          "text": "You never gave a warning sign",
+          "segments": [
+            "You ",
+            "never ",
+            "gave ",
+            "a ",
+            "warning ",
+            "sign"
+          ]
+        },
+        {
+          "key": "111685|I gave so many signs",
+          "text": "I gave so many signs",
+          "segments": [
+            "I ",
+            "gave ",
+            "so ",
+            "many ",
+            "signs"
+          ]
+        },
+        {
+          "key": "114312|All this time",
+          "text": "All this time",
+          "segments": [
+            "All ",
+            "this ",
+            "time"
+          ]
+        },
+        {
+          "key": "115904|I never learned to read your mind",
+          "text": "I never learned to read your mind",
+          "segments": [
+            "I ",
+            "never ",
+            "learned ",
+            "to ",
+            "read ",
+            "your ",
+            "mind"
+          ]
+        },
+        {
+          "key": "118040|Never learned to read my mind",
+          "text": "Never learned to read my mind",
+          "segments": [
+            "Never ",
+            "learned ",
+            "to ",
+            "read ",
+            "my ",
+            "mind"
+          ]
+        },
+        {
+          "key": "119385|I couldn't turn things around",
+          "text": "I couldn't turn things around",
+          "segments": [
+            "I ",
+            "couldn't ",
+            "turn ",
+            "things ",
+            "around"
+          ]
+        },
+        {
+          "key": "121105|You never turned things around",
+          "text": "You never turned things around",
+          "segments": [
+            "You ",
+            "never ",
+            "turned ",
+            "things ",
+            "around"
+          ]
+        },
+        {
+          "key": "122390|Cause you never gave a warning sign",
+          "text": "Cause you never gave a warning sign",
+          "segments": [
+            "Cause ",
+            "you ",
+            "never ",
+            "gave ",
+            "a ",
+            "warning ",
+            "sign"
+          ]
+        },
+        {
+          "key": "124360|I gave so many signs",
+          "text": "I gave so many signs",
+          "segments": [
+            "I ",
+            "gave ",
+            "so ",
+            "many ",
+            "signs"
+          ]
+        },
+        {
+          "key": "127929|So many signs",
+          "text": "So many signs",
+          "segments": [
+            "So ",
+            "many ",
+            "signs"
+          ]
+        },
+        {
+          "key": "131056|So many signs",
+          "text": "So many signs",
+          "segments": [
+            "So ",
+            "many ",
+            "signs"
+          ]
+        },
+        {
+          "key": "135321|You didn't even see the signs",
+          "text": "You didn't even see the signs",
+          "segments": [
+            "You ",
+            "didn't ",
+            "even ",
+            "see ",
+            "the ",
+            "signs"
+          ]
+        },
+        {
+          "key": "140248|I think I've seen this film before",
+          "text": "I think I've seen this film before",
+          "segments": [
+            "I ",
+            "think ",
+            "I've ",
+            "seen ",
+            "this ",
+            "film ",
+            "before"
+          ]
+        },
+        {
+          "key": "144124|And I didn't like the ending",
+          "text": "And I didn't like the ending",
+          "segments": [
+            "And ",
+            "I ",
+            "didn't ",
+            "like ",
+            "the ",
+            "ending"
+          ]
+        },
+        {
+          "key": "146601|You're not my homeland anymore",
+          "text": "You're not my homeland anymore",
+          "segments": [
+            "You're ",
+            "not ",
+            "my ",
+            "homeland ",
+            "anymore"
+          ]
+        },
+        {
+          "key": "150698|So what am I defending now",
+          "text": "So what am I defending now",
+          "segments": [
+            "So ",
+            "what ",
+            "am ",
+            "I ",
+            "defending ",
+            "now"
+          ]
+        },
+        {
+          "key": "153166|You were my town",
+          "text": "You were my town",
+          "segments": [
+            "You ",
+            "were ",
+            "my ",
+            "town"
+          ]
+        },
+        {
+          "key": "154759|Now I'm in exile seeing you out",
+          "text": "Now I'm in exile seeing you out",
+          "segments": [
+            "Now ",
+            "I'm ",
+            "in ",
+            "exile ",
+            "seeing ",
+            "you ",
+            "out"
+          ]
+        },
+        {
+          "key": "159181|I think I've seen this film before",
+          "text": "I think I've seen this film before",
+          "segments": [
+            "I ",
+            "think ",
+            "I've ",
+            "seen ",
+            "this ",
+            "film ",
+            "before"
+          ]
+        },
+        {
+          "key": "163045|So I'm leaving out the side door",
+          "text": "So I'm leaving out the side door",
+          "segments": [
+            "So ",
+            "I'm ",
+            "leaving ",
+            "out ",
+            "the ",
+            "side ",
+            "door"
+          ]
+        },
+        {
+          "key": "167338|So step right out",
+          "text": "So step right out",
+          "segments": [
+            "So ",
+            "step ",
+            "right ",
+            "out"
+          ]
+        },
+        {
+          "key": "170153|There is no amount",
+          "text": "There is no amount",
+          "segments": [
+            "There ",
+            "is ",
+            "no ",
+            "amount"
+          ]
+        },
+        {
+          "key": "172825|Of crying I can do for you",
+          "text": "Of crying I can do for you",
+          "segments": [
+            "Of ",
+            "crying ",
+            "I ",
+            "can ",
+            "do ",
+            "for ",
+            "you"
+          ]
+        },
+        {
+          "key": "176862|All this time",
+          "text": "All this time",
+          "segments": [
+            "All ",
+            "this ",
+            "time"
+          ]
+        },
+        {
+          "key": "179242|We always walked a very thin line",
+          "text": "We always walked a very thin line",
+          "segments": [
+            "We ",
+            "always ",
+            "walked ",
+            "a ",
+            "very ",
+            "thin ",
+            "line"
+          ]
+        },
+        {
+          "key": "182356|You didn't even hear me out",
+          "text": "You didn't even hear me out",
+          "segments": [
+            "You ",
+            "didn't ",
+            "even ",
+            "hear ",
+            "me ",
+            "out"
+          ]
+        },
+        {
+          "key": "184363|Didn't even hear me out",
+          "text": "Didn't even hear me out",
+          "segments": [
+            "Didn't ",
+            "even ",
+            "hear ",
+            "me ",
+            "out"
+          ]
+        },
+        {
+          "key": "185625|You never gave a warning sign",
+          "text": "You never gave a warning sign",
+          "segments": [
+            "You ",
+            "never ",
+            "gave ",
+            "a ",
+            "warning ",
+            "sign"
+          ]
+        },
+        {
+          "key": "187258|I gave so many signs",
+          "text": "I gave so many signs",
+          "segments": [
+            "I ",
+            "gave ",
+            "so ",
+            "many ",
+            "signs"
+          ]
+        },
+        {
+          "key": "189961|All this time",
+          "text": "All this time",
+          "segments": [
+            "All ",
+            "this ",
+            "time"
+          ]
+        },
+        {
+          "key": "191750|I never learned to read your mind",
+          "text": "I never learned to read your mind",
+          "segments": [
+            "I ",
+            "never ",
+            "learned ",
+            "to ",
+            "read ",
+            "your ",
+            "mind"
+          ]
+        },
+        {
+          "key": "193768|Never learned to read my mind",
+          "text": "Never learned to read my mind",
+          "segments": [
+            "Never ",
+            "learned ",
+            "to ",
+            "read ",
+            "my ",
+            "mind"
+          ]
+        },
+        {
+          "key": "195132|I couldn't turn things around",
+          "text": "I couldn't turn things around",
+          "segments": [
+            "I ",
+            "couldn't ",
+            "turn ",
+            "things ",
+            "around"
+          ]
+        },
+        {
+          "key": "196763|You never turned things around",
+          "text": "You never turned things around",
+          "segments": [
+            "You ",
+            "never ",
+            "turned ",
+            "things ",
+            "around"
+          ]
+        },
+        {
+          "key": "198103|Cause you never gave a warning sign",
+          "text": "Cause you never gave a warning sign",
+          "segments": [
+            "Cause ",
+            "you ",
+            "never ",
+            "gave ",
+            "a ",
+            "warning ",
+            "sign"
+          ]
+        },
+        {
+          "key": "200113|I gave so many signs",
+          "text": "I gave so many signs",
+          "segments": [
+            "I ",
+            "gave ",
+            "so ",
+            "many ",
+            "signs"
+          ]
+        },
+        {
+          "key": "203659|So many signs",
+          "text": "So many signs",
+          "segments": [
+            "So ",
+            "many ",
+            "signs"
+          ]
+        },
+        {
+          "key": "206875|So many signs",
+          "text": "So many signs",
+          "segments": [
+            "So ",
+            "many ",
+            "signs"
+          ]
+        },
+        {
+          "key": "210712|Cause you never gave a warning sign",
+          "text": "Cause you never gave a warning sign",
+          "segments": [
+            "Cause ",
+            "you ",
+            "never ",
+            "gave ",
+            "a ",
+            "warning ",
+            "sign"
+          ]
+        },
+        {
+          "key": "212812|You never gave a warning sign",
+          "text": "You never gave a warning sign",
+          "segments": [
+            "You ",
+            "never ",
+            "gave ",
+            "a ",
+            "warning ",
+            "sign"
+          ]
+        },
+        {
+          "key": "214429|You never gave a warning sign",
+          "text": "You never gave a warning sign",
+          "segments": [
+            "You ",
+            "never ",
+            "gave ",
+            "a ",
+            "warning ",
+            "sign"
+          ]
+        },
+        {
+          "key": "221311|Ah ah",
+          "text": "Ah ah",
+          "segments": [
+            "Ah ",
+            "ah"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:d94459c71cb42c71771816e18baa9296",
+      "lines": [
+        {
+          "key": "0|Something Just Like This - Alex Goot/Madilyn Bailey",
+          "text": "Something Just Like This - Alex Goot/Madilyn Bailey",
+          "segments": [
+            "Something ",
+            "Just ",
+            "Like ",
+            "This",
+            " - ",
+            "Alex ",
+            "Goot",
+            "/",
+            "Madilyn ",
+            "Bailey"
+          ]
+        },
+        {
+          "key": "4050|Written by：Andrew Taggart/Christopher Martin/Guy Berryman/Jonny Buckland/Will Champion",
+          "text": "Written by：Andrew Taggart/Christopher Martin/Guy Berryman/Jonny Buckland/Will Champion",
+          "segments": [
+            "Written by：",
+            "Andrew Taggart",
+            "/",
+            "Christopher Martin",
+            "/",
+            "Guy Berryman",
+            "/",
+            "Jonny Buckland",
+            "/",
+            "Will Champion"
+          ]
+        },
+        {
+          "key": "8119|I've been reading books of old",
+          "text": "I've been reading books of old",
+          "segments": [
+            "I've ",
+            "been ",
+            "reading ",
+            "books ",
+            "of ",
+            "old"
+          ]
+        },
+        {
+          "key": "10541|The legends and the myths",
+          "text": "The legends and the myths",
+          "segments": [
+            "The ",
+            "legends ",
+            "and ",
+            "the ",
+            "myths"
+          ]
+        },
+        {
+          "key": "12885|Achilles and his gold",
+          "text": "Achilles and his gold",
+          "segments": [
+            "Achilles ",
+            "and ",
+            "his ",
+            "gold"
+          ]
+        },
+        {
+          "key": "15147|Hercules and his gifts",
+          "text": "Hercules and his gifts",
+          "segments": [
+            "Hercules ",
+            "and ",
+            "his ",
+            "gifts"
+          ]
+        },
+        {
+          "key": "17587|Spiderman's control",
+          "text": "Spiderman's control",
+          "segments": [
+            "Spiderman's ",
+            "control"
+          ]
+        },
+        {
+          "key": "19779|And Batman with his fists",
+          "text": "And Batman with his fists",
+          "segments": [
+            "And ",
+            "Batman ",
+            "with ",
+            "his ",
+            "fists"
+          ]
+        },
+        {
+          "key": "22579|And clearly I don't see myself upon that list",
+          "text": "And clearly I don't see myself upon that list",
+          "segments": [
+            "And ",
+            "clearly ",
+            "I ",
+            "don't ",
+            "see ",
+            "myself ",
+            "upon ",
+            "that ",
+            "list"
+          ]
+        },
+        {
+          "key": "26440|She said where'd you wanna go",
+          "text": "She said where'd you wanna go",
+          "segments": [
+            "She ",
+            "said ",
+            "where'd ",
+            "you ",
+            "wanna ",
+            "go"
+          ]
+        },
+        {
+          "key": "29201|How much you wanna risk",
+          "text": "How much you wanna risk",
+          "segments": [
+            "How ",
+            "much ",
+            "you ",
+            "wanna ",
+            "risk"
+          ]
+        },
+        {
+          "key": "31216|I'm not looking for somebody",
+          "text": "I'm not looking for somebody",
+          "segments": [
+            "I'm ",
+            "not ",
+            "looking ",
+            "for ",
+            "somebody"
+          ]
+        },
+        {
+          "key": "33435|With some Superhuman gifts",
+          "text": "With some Superhuman gifts",
+          "segments": [
+            "With ",
+            "some ",
+            "Superhuman ",
+            "gifts"
+          ]
+        },
+        {
+          "key": "36099|Some Superhero",
+          "text": "Some Superhero",
+          "segments": [
+            "Some ",
+            "Superhero"
+          ]
+        },
+        {
+          "key": "38355|Some fairytale bliss",
+          "text": "Some fairytale bliss",
+          "segments": [
+            "Some ",
+            "fairytale ",
+            "bliss"
+          ]
+        },
+        {
+          "key": "40778|Just something I can turn to",
+          "text": "Just something I can turn to",
+          "segments": [
+            "Just ",
+            "something ",
+            "I ",
+            "can ",
+            "turn ",
+            "to"
+          ]
+        },
+        {
+          "key": "42967|Somebody I can kiss",
+          "text": "Somebody I can kiss",
+          "segments": [
+            "Somebody ",
+            "I ",
+            "can ",
+            "kiss"
+          ]
+        },
+        {
+          "key": "45134|I want something just like this",
+          "text": "I want something just like this",
+          "segments": [
+            "I ",
+            "want ",
+            "something ",
+            "just ",
+            "like ",
+            "this"
+          ]
+        },
+        {
+          "key": "54543|I want something just like this",
+          "text": "I want something just like this",
+          "segments": [
+            "I ",
+            "want ",
+            "something ",
+            "just ",
+            "like ",
+            "this"
+          ]
+        },
+        {
+          "key": "63491|I want something just like this",
+          "text": "I want something just like this",
+          "segments": [
+            "I ",
+            "want ",
+            "something ",
+            "just ",
+            "like ",
+            "this"
+          ]
+        },
+        {
+          "key": "72754|I want something just like this",
+          "text": "I want something just like this",
+          "segments": [
+            "I ",
+            "want ",
+            "something ",
+            "just ",
+            "like ",
+            "this"
+          ]
+        },
+        {
+          "key": "82669|I've been reading books of old",
+          "text": "I've been reading books of old",
+          "segments": [
+            "I've ",
+            "been ",
+            "reading ",
+            "books ",
+            "of ",
+            "old"
+          ]
+        },
+        {
+          "key": "84989|The legends and the myths",
+          "text": "The legends and the myths",
+          "segments": [
+            "The ",
+            "legends ",
+            "and ",
+            "the ",
+            "myths"
+          ]
+        },
+        {
+          "key": "87293|The testaments they told",
+          "text": "The testaments they told",
+          "segments": [
+            "The ",
+            "testaments ",
+            "they ",
+            "told"
+          ]
+        },
+        {
+          "key": "89613|The moon and its eclipse",
+          "text": "The moon and its eclipse",
+          "segments": [
+            "The ",
+            "moon ",
+            "and ",
+            "its ",
+            "eclipse"
+          ]
+        },
+        {
+          "key": "91917|And Superman unrolls",
+          "text": "And Superman unrolls",
+          "segments": [
+            "And ",
+            "Superman ",
+            "unrolls"
+          ]
+        },
+        {
+          "key": "94453|A suit before he lifts",
+          "text": "A suit before he lifts",
+          "segments": [
+            "A ",
+            "suit ",
+            "before ",
+            "he ",
+            "lifts"
+          ]
+        },
+        {
+          "key": "97304|But I'm not the kind of person that it fits",
+          "text": "But I'm not the kind of person that it fits",
+          "segments": [
+            "But ",
+            "I'm ",
+            "not ",
+            "the ",
+            "kind ",
+            "of ",
+            "person ",
+            "that ",
+            "it ",
+            "fits"
+          ]
+        },
+        {
+          "key": "100998|She said where'd you wanna go",
+          "text": "She said where'd you wanna go",
+          "segments": [
+            "She ",
+            "said ",
+            "where'd ",
+            "you ",
+            "wanna ",
+            "go"
+          ]
+        },
+        {
+          "key": "103769|How much you wanna risk",
+          "text": "How much you wanna risk",
+          "segments": [
+            "How ",
+            "much ",
+            "you ",
+            "wanna ",
+            "risk"
+          ]
+        },
+        {
+          "key": "105793|I'm not looking for somebody",
+          "text": "I'm not looking for somebody",
+          "segments": [
+            "I'm ",
+            "not ",
+            "looking ",
+            "for ",
+            "somebody"
+          ]
+        },
+        {
+          "key": "107903|With some Superhuman gifts",
+          "text": "With some Superhuman gifts",
+          "segments": [
+            "With ",
+            "some ",
+            "Superhuman ",
+            "gifts"
+          ]
+        },
+        {
+          "key": "110611|Some Superhero",
+          "text": "Some Superhero",
+          "segments": [
+            "Some ",
+            "Superhero"
+          ]
+        },
+        {
+          "key": "112867|Some fairytale bliss",
+          "text": "Some fairytale bliss",
+          "segments": [
+            "Some ",
+            "fairytale ",
+            "bliss"
+          ]
+        },
+        {
+          "key": "115259|Just something I can turn to",
+          "text": "Just something I can turn to",
+          "segments": [
+            "Just ",
+            "something ",
+            "I ",
+            "can ",
+            "turn ",
+            "to"
+          ]
+        },
+        {
+          "key": "117505|Somebody I can miss",
+          "text": "Somebody I can miss",
+          "segments": [
+            "Somebody ",
+            "I ",
+            "can ",
+            "miss"
+          ]
+        },
+        {
+          "key": "119667|I want something just like this",
+          "text": "I want something just like this",
+          "segments": [
+            "I ",
+            "want ",
+            "something ",
+            "just ",
+            "like ",
+            "this"
+          ]
+        },
+        {
+          "key": "129051|I want something just like this",
+          "text": "I want something just like this",
+          "segments": [
+            "I ",
+            "want ",
+            "something ",
+            "just ",
+            "like ",
+            "this"
+          ]
+        },
+        {
+          "key": "141001|Doo doo doo doo doo doo",
+          "text": "Doo doo doo doo doo doo",
+          "segments": [
+            "Doo ",
+            "doo ",
+            "doo ",
+            "doo ",
+            "doo ",
+            "doo"
+          ]
+        },
+        {
+          "key": "143310|Doo doo doo doo doo",
+          "text": "Doo doo doo doo doo",
+          "segments": [
+            "Doo ",
+            "doo ",
+            "doo ",
+            "doo ",
+            "doo"
+          ]
+        },
+        {
+          "key": "145630|Doo doo doo doo doo doo",
+          "text": "Doo doo doo doo doo doo",
+          "segments": [
+            "Doo ",
+            "doo ",
+            "doo ",
+            "doo ",
+            "doo ",
+            "doo"
+          ]
+        },
+        {
+          "key": "147742|She said where'd you wanna go",
+          "text": "She said where'd you wanna go",
+          "segments": [
+            "She ",
+            "said ",
+            "where'd ",
+            "you ",
+            "wanna ",
+            "go"
+          ]
+        },
+        {
+          "key": "150239|How much you wanna risk",
+          "text": "How much you wanna risk",
+          "segments": [
+            "How ",
+            "much ",
+            "you ",
+            "wanna ",
+            "risk"
+          ]
+        },
+        {
+          "key": "152311|I'm not looking for somebody",
+          "text": "I'm not looking for somebody",
+          "segments": [
+            "I'm ",
+            "not ",
+            "looking ",
+            "for ",
+            "somebody"
+          ]
+        },
+        {
+          "key": "154467|With some Superhuman gifts",
+          "text": "With some Superhuman gifts",
+          "segments": [
+            "With ",
+            "some ",
+            "Superhuman ",
+            "gifts"
+          ]
+        },
+        {
+          "key": "157227|Some Superhero",
+          "text": "Some Superhero",
+          "segments": [
+            "Some ",
+            "Superhero"
+          ]
+        },
+        {
+          "key": "159531|Some fairytale bliss",
+          "text": "Some fairytale bliss",
+          "segments": [
+            "Some ",
+            "fairytale ",
+            "bliss"
+          ]
+        },
+        {
+          "key": "161939|Just something I can turn to",
+          "text": "Just something I can turn to",
+          "segments": [
+            "Just ",
+            "something ",
+            "I ",
+            "can ",
+            "turn ",
+            "to"
+          ]
+        },
+        {
+          "key": "164206|Somebody I can kiss",
+          "text": "Somebody I can kiss",
+          "segments": [
+            "Somebody ",
+            "I ",
+            "can ",
+            "kiss"
+          ]
+        },
+        {
+          "key": "166384|I want something just like this",
+          "text": "I want something just like this",
+          "segments": [
+            "I ",
+            "want ",
+            "something ",
+            "just ",
+            "like ",
+            "this"
+          ]
+        }
+      ]
+    }
+  ]
+}

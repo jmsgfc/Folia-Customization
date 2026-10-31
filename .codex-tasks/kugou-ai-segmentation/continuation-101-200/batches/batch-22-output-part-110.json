@@ -1,0 +1,809 @@
+{
+  "songs": [
+    {
+      "songKey": "online:kugou:88aa68291c1697047077cf8b21904b55",
+      "lines": [
+        {
+          "key": "214|But U - Xyisx",
+          "text": "But U - Xyisx",
+          "segments": [
+            "But ",
+            "U",
+            " - ",
+            "Xyisx"
+          ]
+        },
+        {
+          "key": "824|词：NINEONE",
+          "text": "词：NINEONE",
+          "segments": [
+            "词：",
+            "NINEONE"
+          ]
+        },
+        {
+          "key": "925|曲：NINEONE",
+          "text": "曲：NINEONE",
+          "segments": [
+            "曲：",
+            "NINEONE"
+          ]
+        },
+        {
+          "key": "976|编曲：HYPER MUSIC",
+          "text": "编曲：HYPER MUSIC",
+          "segments": [
+            "编曲：",
+            "HYPER MUSIC"
+          ]
+        },
+        {
+          "key": "11748|Whenever I take U into my life",
+          "text": "Whenever I take U into my life",
+          "segments": [
+            "Whenever ",
+            "I ",
+            "take ",
+            "U ",
+            "into ",
+            "my ",
+            "life"
+          ]
+        },
+        {
+          "key": "16602|It's never too late to give U all my passion",
+          "text": "It's never too late to give U all my passion",
+          "segments": [
+            "It's ",
+            "never ",
+            "too ",
+            "late ",
+            "to ",
+            "give ",
+            "U ",
+            "all ",
+            "my ",
+            "passion"
+          ]
+        },
+        {
+          "key": "21527|We call it something different something wrong and something right",
+          "text": "We call it something different something wrong and something right",
+          "segments": [
+            "We ",
+            "call ",
+            "it ",
+            "something ",
+            "different ",
+            "something ",
+            "wrong ",
+            "and ",
+            "something ",
+            "right"
+          ]
+        },
+        {
+          "key": "27549|Something right woo",
+          "text": "Something right woo",
+          "segments": [
+            "Something ",
+            "right ",
+            "woo"
+          ]
+        },
+        {
+          "key": "32171|你不惧以前",
+          "text": "你不惧以前",
+          "segments": [
+            "你",
+            "不惧",
+            "以前"
+          ]
+        },
+        {
+          "key": "34147|意外难料难避免",
+          "text": "意外难料难避免",
+          "segments": [
+            "意外",
+            "难料",
+            "难",
+            "避免"
+          ]
+        },
+        {
+          "key": "36746|我许不了你承诺但许你做我底线",
+          "text": "我许不了你承诺但许你做我底线",
+          "segments": [
+            "我",
+            "许不了",
+            "你",
+            "承诺",
+            "但",
+            "许",
+            "你",
+            "做",
+            "我",
+            "底线"
+          ]
+        },
+        {
+          "key": "41936|傍晚落日的泛红柔焦在",
+          "text": "傍晚落日的泛红柔焦在",
+          "segments": [
+            "傍晚",
+            "落日的",
+            "泛红",
+            "柔焦在"
+          ]
+        },
+        {
+          "key": "45184|瞳孔躺的陶白",
+          "text": "瞳孔躺的陶白",
+          "segments": [
+            "瞳孔",
+            "躺的",
+            "陶白"
+          ]
+        },
+        {
+          "key": "47367|一切都靠你眼神猜",
+          "text": "一切都靠你眼神猜",
+          "segments": [
+            "一切",
+            "都",
+            "靠",
+            "你",
+            "眼神",
+            "猜"
+          ]
+        },
+        {
+          "key": "50042|Loewe Paula's Ibiza 的味道like",
+          "text": "Loewe Paula's Ibiza 的味道like",
+          "segments": [
+            "Loewe ",
+            "Paula's ",
+            "Ibiza ",
+            "的",
+            "味道",
+            "like"
+          ]
+        },
+        {
+          "key": "53498|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "56349|I call it something right",
+          "text": "I call it something right",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "right"
+          ]
+        },
+        {
+          "key": "58834|I feel nobody but U",
+          "text": "I feel nobody but U",
+          "segments": [
+            "I ",
+            "feel ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "61599|Around the coastline and we run",
+          "text": "Around the coastline and we run",
+          "segments": [
+            "Around ",
+            "the ",
+            "coastline ",
+            "and ",
+            "we ",
+            "run"
+          ]
+        },
+        {
+          "key": "63885|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "66731|I call it something wrong",
+          "text": "I call it something wrong",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "69262|I feel nobody but U but U but U wooo",
+          "text": "I feel nobody but U but U but U wooo",
+          "segments": [
+            "I ",
+            "feel ",
+            "nobody ",
+            "but ",
+            "U ",
+            "but ",
+            "U ",
+            "but ",
+            "U ",
+            "wooo"
+          ]
+        },
+        {
+          "key": "78353|Things may be bad",
+          "text": "Things may be bad",
+          "segments": [
+            "Things ",
+            "may ",
+            "be ",
+            "bad"
+          ]
+        },
+        {
+          "key": "81540|可我记得你的笑容",
+          "text": "可我记得你的笑容",
+          "segments": [
+            "可",
+            "我",
+            "记得",
+            "你的",
+            "笑容"
+          ]
+        },
+        {
+          "key": "86958|曝光过度的胶片",
+          "text": "曝光过度的胶片",
+          "segments": [
+            "曝光",
+            "过度的",
+            "胶片"
+          ]
+        },
+        {
+          "key": "89398|有你也不用挑选",
+          "text": "有你也不用挑选",
+          "segments": [
+            "有",
+            "你",
+            "也",
+            "不用",
+            "挑选"
+          ]
+        },
+        {
+          "key": "91890|只想把时光都和你消遣呐",
+          "text": "只想把时光都和你消遣呐",
+          "segments": [
+            "只想",
+            "把",
+            "时光",
+            "都",
+            "和",
+            "你",
+            "消遣呐"
+          ]
+        },
+        {
+          "key": "96047|I can't sleep all night",
+          "text": "I can't sleep all night",
+          "segments": [
+            "I ",
+            "can't ",
+            "sleep ",
+            "all ",
+            "night"
+          ]
+        },
+        {
+          "key": "97823|Argue with U只为了交代",
+          "text": "Argue with U只为了交代",
+          "segments": [
+            "Argue ",
+            "with ",
+            "U",
+            "只",
+            "为了",
+            "交代"
+          ]
+        },
+        {
+          "key": "100359|真实想法",
+          "text": "真实想法",
+          "segments": [
+            "真实",
+            "想法"
+          ]
+        },
+        {
+          "key": "101520|U know I want ya",
+          "text": "U know I want ya",
+          "segments": [
+            "U ",
+            "know ",
+            "I ",
+            "want ",
+            "ya"
+          ]
+        },
+        {
+          "key": "102642|距离只是当下最烂的谎话",
+          "text": "距离只是当下最烂的谎话",
+          "segments": [
+            "距离",
+            "只是",
+            "当下",
+            "最烂的",
+            "谎话"
+          ]
+        },
+        {
+          "key": "105743|夏日限定般的告白",
+          "text": "夏日限定般的告白",
+          "segments": [
+            "夏日",
+            "限定般的",
+            "告白"
+          ]
+        },
+        {
+          "key": "107820|你总怀疑我的心里是不是会超载",
+          "text": "你总怀疑我的心里是不是会超载",
+          "segments": [
+            "你",
+            "总",
+            "怀疑",
+            "我的",
+            "心里",
+            "是不是",
+            "会",
+            "超载"
+          ]
+        },
+        {
+          "key": "110357|脱口而出油腻的话",
+          "text": "脱口而出油腻的话",
+          "segments": [
+            "脱口而出",
+            "油腻的",
+            "话"
+          ]
+        },
+        {
+          "key": "111785|不知道是被谁教坏",
+          "text": "不知道是被谁教坏",
+          "segments": [
+            "不知道",
+            "是",
+            "被",
+            "谁",
+            "教坏"
+          ]
+        },
+        {
+          "key": "113259|在我身边你可以放心做一个小孩",
+          "text": "在我身边你可以放心做一个小孩",
+          "segments": [
+            "在",
+            "我",
+            "身边",
+            "你",
+            "可以",
+            "放心",
+            "做",
+            "一个",
+            "小孩"
+          ]
+        },
+        {
+          "key": "116560|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "119605|I call it something right",
+          "text": "I call it something right",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "right"
+          ]
+        },
+        {
+          "key": "122036|I feel nobody but U",
+          "text": "I feel nobody but U",
+          "segments": [
+            "I ",
+            "feel ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "124726|Around the coastline and we run",
+          "text": "Around the coastline and we run",
+          "segments": [
+            "Around ",
+            "the ",
+            "coastline ",
+            "and ",
+            "we ",
+            "run"
+          ]
+        },
+        {
+          "key": "127211|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "129904|I call it something wrong",
+          "text": "I call it something wrong",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "132392|I feel nobody but U but U but U wooo",
+          "text": "I feel nobody but U but U but U wooo",
+          "segments": [
+            "I ",
+            "feel ",
+            "nobody ",
+            "but ",
+            "U ",
+            "but ",
+            "U ",
+            "but ",
+            "U ",
+            "wooo"
+          ]
+        },
+        {
+          "key": "137577|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "140518|I call it something right",
+          "text": "I call it something right",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "right"
+          ]
+        },
+        {
+          "key": "142805|I feel nobody but U",
+          "text": "I feel nobody but U",
+          "segments": [
+            "I ",
+            "feel ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "145703|Around the coastline and we run",
+          "text": "Around the coastline and we run",
+          "segments": [
+            "Around ",
+            "the ",
+            "coastline ",
+            "and ",
+            "we ",
+            "run"
+          ]
+        },
+        {
+          "key": "148042|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "150928|I call it something wrong",
+          "text": "I call it something wrong",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "153419|I feel nobody but U but U but U wooo",
+          "text": "I feel nobody but U but U but U wooo",
+          "segments": [
+            "I ",
+            "feel ",
+            "nobody ",
+            "but ",
+            "U ",
+            "but ",
+            "U ",
+            "but ",
+            "U ",
+            "wooo"
+          ]
+        },
+        {
+          "key": "158922|Don't U realize that",
+          "text": "Don't U realize that",
+          "segments": [
+            "Don't ",
+            "U ",
+            "realize ",
+            "that"
+          ]
+        },
+        {
+          "key": "161259|Don't U realize that",
+          "text": "Don't U realize that",
+          "segments": [
+            "Don't ",
+            "U ",
+            "realize ",
+            "that"
+          ]
+        },
+        {
+          "key": "163546|Don't U realize that",
+          "text": "Don't U realize that",
+          "segments": [
+            "Don't ",
+            "U ",
+            "realize ",
+            "that"
+          ]
+        },
+        {
+          "key": "166445|Don't U realize",
+          "text": "Don't U realize",
+          "segments": [
+            "Don't ",
+            "U ",
+            "realize"
+          ]
+        },
+        {
+          "key": "169144|Don't U realize that",
+          "text": "Don't U realize that",
+          "segments": [
+            "Don't ",
+            "U ",
+            "realize ",
+            "that"
+          ]
+        },
+        {
+          "key": "171685|Don't U realize that",
+          "text": "Don't U realize that",
+          "segments": [
+            "Don't ",
+            "U ",
+            "realize ",
+            "that"
+          ]
+        },
+        {
+          "key": "174321|Don't U realize that",
+          "text": "Don't U realize that",
+          "segments": [
+            "Don't ",
+            "U ",
+            "realize ",
+            "that"
+          ]
+        },
+        {
+          "key": "176962|Don't U realize",
+          "text": "Don't U realize",
+          "segments": [
+            "Don't ",
+            "U ",
+            "realize"
+          ]
+        },
+        {
+          "key": "180037|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "182786|I call it something right",
+          "text": "I call it something right",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "right"
+          ]
+        },
+        {
+          "key": "185277|I feel nobody but U",
+          "text": "I feel nobody but U",
+          "segments": [
+            "I ",
+            "feel ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "187862|Around the coastline and we run",
+          "text": "Around the coastline and we run",
+          "segments": [
+            "Around ",
+            "the ",
+            "coastline ",
+            "and ",
+            "we ",
+            "run"
+          ]
+        },
+        {
+          "key": "190294|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "193133|I call it something wrong",
+          "text": "I call it something wrong",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "195411|I feel nobody but U but U but U wooo",
+          "text": "I feel nobody but U but U but U wooo",
+          "segments": [
+            "I ",
+            "feel ",
+            "nobody ",
+            "but ",
+            "U ",
+            "but ",
+            "U ",
+            "but ",
+            "U ",
+            "wooo"
+          ]
+        },
+        {
+          "key": "200949|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "209255|I call it something right",
+          "text": "I call it something right",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "right"
+          ]
+        },
+        {
+          "key": "211646|I see nobody but U",
+          "text": "I see nobody but U",
+          "segments": [
+            "I ",
+            "see ",
+            "nobody ",
+            "but ",
+            "U"
+          ]
+        },
+        {
+          "key": "214195|I call it something wrong",
+          "text": "I call it something wrong",
+          "segments": [
+            "I ",
+            "call ",
+            "it ",
+            "something ",
+            "wrong"
+          ]
+        },
+        {
+          "key": "216880|I feel nobody but U but U but U",
+          "text": "I feel nobody but U but U but U",
+          "segments": [
+            "I ",
+            "feel ",
+            "nobody ",
+            "but ",
+            "U ",
+            "but ",
+            "U ",
+            "but ",
+            "U"
+          ]
+        }
+      ]
+    }
+  ]
+}

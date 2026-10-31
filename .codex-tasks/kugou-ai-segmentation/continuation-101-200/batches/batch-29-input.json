@@ -1,0 +1,1945 @@
+{
+  "batchNumber": 29,
+  "songs": [
+    {
+      "rank": 141,
+      "songKey": "online:kugou:cd93ac7c2758b2942af8a5e79ee7dbe3",
+      "name": "清空 (Live)",
+      "artist": "赵泳鑫 / Lambert凌杰",
+      "lines": [
+        {
+          "key": "0|赵泳鑫、lambert - 清空 (Live)",
+          "startMs": 0,
+          "text": "赵泳鑫、lambert - 清空 (Live)"
+        },
+        {
+          "key": "94|作词：安苏羽",
+          "startMs": 94,
+          "text": "作词：安苏羽"
+        },
+        {
+          "key": "119|作曲：安苏羽",
+          "startMs": 119,
+          "text": "作曲：安苏羽"
+        },
+        {
+          "key": "143|编曲：周家騵",
+          "startMs": 143,
+          "text": "编曲：周家騵"
+        },
+        {
+          "key": "168|原唱：王忻辰、苏星婕",
+          "startMs": 168,
+          "text": "原唱：王忻辰、苏星婕"
+        },
+        {
+          "key": "209|Rap词：lambert",
+          "startMs": 209,
+          "text": "Rap词：lambert"
+        },
+        {
+          "key": "258|制作人：彭程、汤佩弦",
+          "startMs": 258,
+          "text": "制作人：彭程、汤佩弦"
+        },
+        {
+          "key": "299|音乐总监：彭程@金牛studio",
+          "startMs": 299,
+          "text": "音乐总监：彭程@金牛studio"
+        },
+        {
+          "key": "365|音响总监：何飚",
+          "startMs": 365,
+          "text": "音响总监：何飚"
+        },
+        {
+          "key": "394|乐队队长：倪方来@牛班NEWBAND",
+          "startMs": 394,
+          "text": "乐队队长：倪方来@牛班NEWBAND"
+        },
+        {
+          "key": "468|吉他：倪方来@牛班NEWBAND、倪伟恩",
+          "startMs": 468,
+          "text": "吉他：倪方来@牛班NEWBAND、倪伟恩"
+        },
+        {
+          "key": "550|键盘：董音@牛班NEWBAND、洪信杰",
+          "startMs": 550,
+          "text": "键盘：董音@牛班NEWBAND、洪信杰"
+        },
+        {
+          "key": "628|贝斯：邱培荣@牛班NEWBAND",
+          "startMs": 628,
+          "text": "贝斯：邱培荣@牛班NEWBAND"
+        },
+        {
+          "key": "693|鼓：Chris Trzcinski@牛班NEWBAND",
+          "startMs": 693,
+          "text": "鼓：Chris Trzcinski@牛班NEWBAND"
+        },
+        {
+          "key": "804|和音：鱼椒盐、张恋歌、张嫚宸、宋豪",
+          "startMs": 804,
+          "text": "和音：鱼椒盐、张恋歌、张嫚宸、宋豪"
+        },
+        {
+          "key": "874|PGM：章谋杰",
+          "startMs": 874,
+          "text": "PGM：章谋杰"
+        },
+        {
+          "key": "903|音乐混音：林梦洋",
+          "startMs": 903,
+          "text": "音乐混音：林梦洋"
+        },
+        {
+          "key": "936|Live in the past live in the crush",
+          "startMs": 936,
+          "text": "Live in the past live in the crush"
+        },
+        {
+          "key": "2646|That I don't wanna see",
+          "startMs": 2646,
+          "text": "That I don't wanna see"
+        },
+        {
+          "key": "4386|I tryna bless wanna confess",
+          "startMs": 4386,
+          "text": "I tryna bless wanna confess"
+        },
+        {
+          "key": "6246|It be like tragedy",
+          "startMs": 6246,
+          "text": "It be like tragedy"
+        },
+        {
+          "key": "7896|Feeling betrayed I play the game",
+          "startMs": 7896,
+          "text": "Feeling betrayed I play the game"
+        },
+        {
+          "key": "9656|Memories never end",
+          "startMs": 9656,
+          "text": "Memories never end"
+        },
+        {
+          "key": "11486|Tears and smile we made them",
+          "startMs": 11486,
+          "text": "Tears and smile we made them"
+        },
+        {
+          "key": "13346|We need to face them",
+          "startMs": 13346,
+          "text": "We need to face them"
+        },
+        {
+          "key": "14306|在爱的世界你好像还没弄懂",
+          "startMs": 14306,
+          "text": "在爱的世界你好像还没弄懂"
+        },
+        {
+          "key": "17406|所以在花花世界应该把真心清空",
+          "startMs": 17406,
+          "text": "所以在花花世界应该把真心清空"
+        },
+        {
+          "key": "20966|游走于谎言之中构建起来的朦胧",
+          "startMs": 20966,
+          "text": "游走于谎言之中构建起来的朦胧"
+        },
+        {
+          "key": "24476|却像是美得不可方物 还略带风度",
+          "startMs": 24476,
+          "text": "却像是美得不可方物 还略带风度"
+        },
+        {
+          "key": "28376|当眼神开始放逐 冷漠略显无辜",
+          "startMs": 28376,
+          "text": "当眼神开始放逐 冷漠略显无辜"
+        },
+        {
+          "key": "32166|言不由衷在乎 伤的体无完肤",
+          "startMs": 32166,
+          "text": "言不由衷在乎 伤的体无完肤"
+        },
+        {
+          "key": "35696|选择放下全部 走不出的迷雾",
+          "startMs": 35696,
+          "text": "选择放下全部 走不出的迷雾"
+        },
+        {
+          "key": "39896|对不起 是我作茧自缚",
+          "startMs": 39896,
+          "text": "对不起 是我作茧自缚"
+        },
+        {
+          "key": "43916|为何要一直僵持到现在",
+          "startMs": 43916,
+          "text": "为何要一直僵持到现在"
+        },
+        {
+          "key": "45896|留恋被撕碎的梦",
+          "startMs": 45896,
+          "text": "留恋被撕碎的梦"
+        },
+        {
+          "key": "47486|为何在本该失联的夜晚",
+          "startMs": 47486,
+          "text": "为何在本该失联的夜晚"
+        },
+        {
+          "key": "49426|带我回味纯粹的痛",
+          "startMs": 49426,
+          "text": "带我回味纯粹的痛"
+        },
+        {
+          "key": "51046|What can I do 才能清空",
+          "startMs": 51046,
+          "text": "What can I do 才能清空"
+        },
+        {
+          "key": "52716|扎根 位置 在你心中",
+          "startMs": 52716,
+          "text": "扎根 位置 在你心中"
+        },
+        {
+          "key": "54706|And I'm sorry",
+          "startMs": 54706,
+          "text": "And I'm sorry"
+        },
+        {
+          "key": "55606|只想让你放下得轻松",
+          "startMs": 55606,
+          "text": "只想让你放下得轻松"
+        },
+        {
+          "key": "58056|多希望 你心无旁骛地",
+          "startMs": 58056,
+          "text": "多希望 你心无旁骛地"
+        },
+        {
+          "key": "59996|去牵着他的手",
+          "startMs": 59996,
+          "text": "去牵着他的手"
+        },
+        {
+          "key": "61816|我们无法逃避总要被现实拖着走",
+          "startMs": 61816,
+          "text": "我们无法逃避总要被现实拖着走"
+        },
+        {
+          "key": "65346|你曾是我的全部 爱得义无反顾",
+          "startMs": 65346,
+          "text": "你曾是我的全部 爱得义无反顾"
+        },
+        {
+          "key": "70366|却变成 你讨厌的面目",
+          "startMs": 70366,
+          "text": "却变成 你讨厌的面目"
+        },
+        {
+          "key": "72796|是我爱的太蠢太过天真",
+          "startMs": 72796,
+          "text": "是我爱的太蠢太过天真"
+        },
+        {
+          "key": "75706|才会把你的寂寞当作契合的灵魂",
+          "startMs": 75706,
+          "text": "才会把你的寂寞当作契合的灵魂"
+        },
+        {
+          "key": "79056|I don't have a reason",
+          "startMs": 79056,
+          "text": "I don't have a reason"
+        },
+        {
+          "key": "79746|也是我自作自受竟然那么认真 let it go",
+          "startMs": 79746,
+          "text": "也是我自作自受竟然那么认真 let it go"
+        },
+        {
+          "key": "83126|相信你 多轻浮的吻",
+          "startMs": 83126,
+          "text": "相信你 多轻浮的吻"
+        },
+        {
+          "key": "101306|你觉得累 你总是不停在挽回",
+          "startMs": 101306,
+          "text": "你觉得累 你总是不停在挽回"
+        },
+        {
+          "key": "104816|可能不般配 已错过无数次机会",
+          "startMs": 104816,
+          "text": "可能不般配 已错过无数次机会"
+        },
+        {
+          "key": "108326|把孤独灌醉 忧愁爬上眉",
+          "startMs": 108326,
+          "text": "把孤独灌醉 忧愁爬上眉"
+        },
+        {
+          "key": "110976|我走得头也不回 谁又能将你体会",
+          "startMs": 110976,
+          "text": "我走得头也不回 谁又能将你体会"
+        },
+        {
+          "key": "115406|美好都被摧毁 残存的是你的卑微",
+          "startMs": 115406,
+          "text": "美好都被摧毁 残存的是你的卑微"
+        },
+        {
+          "key": "118206|泪水掩盖不了",
+          "startMs": 118206,
+          "text": "泪水掩盖不了"
+        },
+        {
+          "key": "119536|追悔莫及 被固执操纵的傀儡",
+          "startMs": 119536,
+          "text": "追悔莫及 被固执操纵的傀儡"
+        },
+        {
+          "key": "123982|生活不能继续颓废",
+          "startMs": 123982,
+          "text": "生活不能继续颓废"
+        },
+        {
+          "key": "127581|感情就别再浪费",
+          "startMs": 127581,
+          "text": "感情就别再浪费"
+        },
+        {
+          "key": "129336|是我爱的太蠢太过天真",
+          "startMs": 129336,
+          "text": "是我爱的太蠢太过天真"
+        },
+        {
+          "key": "132176|才会把你的寂寞当作契合的灵魂",
+          "startMs": 132176,
+          "text": "才会把你的寂寞当作契合的灵魂"
+        },
+        {
+          "key": "135366|I don't have a reason",
+          "startMs": 135366,
+          "text": "I don't have a reason"
+        },
+        {
+          "key": "136236|也是我自作自受竟然那么认真 let it go",
+          "startMs": 136236,
+          "text": "也是我自作自受竟然那么认真 let it go"
+        },
+        {
+          "key": "139646|相信你",
+          "startMs": 139646,
+          "text": "相信你"
+        },
+        {
+          "key": "144746|You don't know the reason that I kiss you",
+          "startMs": 144746,
+          "text": "You don't know the reason that I kiss you"
+        },
+        {
+          "key": "146876|是我爱的太蠢太过天真",
+          "startMs": 146876,
+          "text": "是我爱的太蠢太过天真"
+        },
+        {
+          "key": "147476|Live in the past live in the crush that I don't wanna see",
+          "startMs": 147476,
+          "text": "Live in the past live in the crush that I don't wanna see"
+        },
+        {
+          "key": "149976|才会把你的寂寞当作契合的灵魂",
+          "startMs": 149976,
+          "text": "才会把你的寂寞当作契合的灵魂"
+        },
+        {
+          "key": "151766|I tryna bless wanna confess it be like tragedy",
+          "startMs": 151766,
+          "text": "I tryna bless wanna confess it be like tragedy"
+        },
+        {
+          "key": "153626|也是我自作自受竟然那么认真",
+          "startMs": 153626,
+          "text": "也是我自作自受竟然那么认真"
+        },
+        {
+          "key": "154446|Feeling betrayed I play the game memories never end",
+          "startMs": 154446,
+          "text": "Feeling betrayed I play the game memories never end"
+        },
+        {
+          "key": "156886|相信你 多轻浮的吻",
+          "startMs": 156886,
+          "text": "相信你 多轻浮的吻"
+        },
+        {
+          "key": "159756|Tears and smile we made them we need to face them",
+          "startMs": 159756,
+          "text": "Tears and smile we made them we need to face them"
+        },
+        {
+          "key": "161456|Live in the past live in the crush that I don't wanna see",
+          "startMs": 161456,
+          "text": "Live in the past live in the crush that I don't wanna see"
+        },
+        {
+          "key": "164846|太过天真",
+          "startMs": 164846,
+          "text": "太过天真"
+        },
+        {
+          "key": "165026|I tryna bless wanna confess it be like tragedy",
+          "startMs": 165026,
+          "text": "I tryna bless wanna confess it be like tragedy"
+        },
+        {
+          "key": "167656|契合的灵魂",
+          "startMs": 167656,
+          "text": "契合的灵魂"
+        },
+        {
+          "key": "168536|Feeling betrayed I play the game memories never end",
+          "startMs": 168536,
+          "text": "Feeling betrayed I play the game memories never end"
+        },
+        {
+          "key": "170566|Tears and smile we made them",
+          "startMs": 170566,
+          "text": "Tears and smile we made them"
+        },
+        {
+          "key": "171646|那么认真 相信你",
+          "startMs": 171646,
+          "text": "那么认真 相信你"
+        },
+        {
+          "key": "172306|So we need to face them",
+          "startMs": 172306,
+          "text": "So we need to face them"
+        },
+        {
+          "key": "173376|多轻浮的吻",
+          "startMs": 173376,
+          "text": "多轻浮的吻"
+        },
+        {
+          "key": "178666|你 多轻浮的吻",
+          "startMs": 178666,
+          "text": "你 多轻浮的吻"
+        }
+      ]
+    },
+    {
+      "rank": 142,
+      "songKey": "online:kugou:08d265bc88c577a08b1b6c33f4e2e963",
+      "name": "反方向的钟 (2019年少有为巡回演唱会大连站)",
+      "artist": "李荣浩",
+      "lines": [
+        {
+          "key": "5500|李荣浩 -  反方向的钟 (2019年少有为巡回演唱会大连站)",
+          "startMs": 5500,
+          "text": "李荣浩 -  反方向的钟 (2019年少有为巡回演唱会大连站)"
+        },
+        {
+          "key": "5687|作词：方文山",
+          "startMs": 5687,
+          "text": "作词：方文山"
+        },
+        {
+          "key": "5891|作曲：周杰伦",
+          "startMs": 5891,
+          "text": "作曲：周杰伦"
+        },
+        {
+          "key": "6042|编曲：周杰伦",
+          "startMs": 6042,
+          "text": "编曲：周杰伦"
+        },
+        {
+          "key": "24929|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏ",
+          "startMs": 24929,
+          "text": "ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏ"
+        },
+        {
+          "key": "29761|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐ",
+          "startMs": 29761,
+          "text": "ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐ"
+        },
+        {
+          "key": "34875|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏ",
+          "startMs": 34875,
+          "text": "ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏ"
+        },
+        {
+          "key": "39822|ㄅㄆㄇㄈㄉㄊㄋㄌ",
+          "startMs": 39822,
+          "text": "ㄅㄆㄇㄈㄉㄊㄋㄌ"
+        },
+        {
+          "key": "44714|迷迷蒙蒙 你给的梦",
+          "startMs": 44714,
+          "text": "迷迷蒙蒙 你给的梦"
+        },
+        {
+          "key": "47201|出现裂缝 隐隐作痛",
+          "startMs": 47201,
+          "text": "出现裂缝 隐隐作痛"
+        },
+        {
+          "key": "49646|怎么沟通你都没空",
+          "startMs": 49646,
+          "text": "怎么沟通你都没空"
+        },
+        {
+          "key": "52196|说我不懂 说了没用",
+          "startMs": 52196,
+          "text": "说我不懂 说了没用"
+        },
+        {
+          "key": "54739|他的笑容 有何不同",
+          "startMs": 54739,
+          "text": "他的笑容 有何不同"
+        },
+        {
+          "key": "57383|在你心中 我不再受宠",
+          "startMs": 57383,
+          "text": "在你心中 我不再受宠"
+        },
+        {
+          "key": "59875|我的天空 是雨是风",
+          "startMs": 59875,
+          "text": "我的天空 是雨是风"
+        },
+        {
+          "key": "62367|还是彩虹 你在操纵",
+          "startMs": 62367,
+          "text": "还是彩虹 你在操纵"
+        },
+        {
+          "key": "65722|恨自己真的没用情绪激动",
+          "startMs": 65722,
+          "text": "恨自己真的没用情绪激动"
+        },
+        {
+          "key": "70605|一颗心到现在还在抽痛",
+          "startMs": 70605,
+          "text": "一颗心到现在还在抽痛"
+        },
+        {
+          "key": "75669|还为分手前那句抱歉在感动",
+          "startMs": 75669,
+          "text": "还为分手前那句抱歉在感动"
+        },
+        {
+          "key": "85660|穿梭时间的画面的钟",
+          "startMs": 85660,
+          "text": "穿梭时间的画面的钟"
+        },
+        {
+          "key": "90547|从反方向 开始移动",
+          "startMs": 90547,
+          "text": "从反方向 开始移动"
+        },
+        {
+          "key": "95635|回到当初爱你的时空",
+          "startMs": 95635,
+          "text": "回到当初爱你的时空"
+        },
+        {
+          "key": "100668|停格内容 不忠",
+          "startMs": 100668,
+          "text": "停格内容 不忠"
+        },
+        {
+          "key": "105957|所有回忆对着我进攻",
+          "startMs": 105957,
+          "text": "所有回忆对着我进攻"
+        },
+        {
+          "key": "110994|我的伤口 被你拆封",
+          "startMs": 110994,
+          "text": "我的伤口 被你拆封"
+        },
+        {
+          "key": "115978|誓言太沉重泪被纵容",
+          "startMs": 115978,
+          "text": "誓言太沉重泪被纵容"
+        },
+        {
+          "key": "120965|脸上汹涌 失控",
+          "startMs": 120965,
+          "text": "脸上汹涌 失控"
+        },
+        {
+          "key": "136437|城市霓虹 不安跳动",
+          "startMs": 136437,
+          "text": "城市霓虹 不安跳动"
+        },
+        {
+          "key": "137710|染红夜空 过去种种",
+          "startMs": 137710,
+          "text": "染红夜空 过去种种"
+        },
+        {
+          "key": "139082|像一场梦 不敢去碰",
+          "startMs": 139082,
+          "text": "像一场梦 不敢去碰"
+        },
+        {
+          "key": "140656|一想就痛 心碎内容",
+          "startMs": 140656,
+          "text": "一想就痛 心碎内容"
+        },
+        {
+          "key": "141930|每一秒钟 都有不同",
+          "startMs": 141930,
+          "text": "每一秒钟 都有不同"
+        },
+        {
+          "key": "143152|你不懂 连一句珍重",
+          "startMs": 143152,
+          "text": "你不懂 连一句珍重"
+        },
+        {
+          "key": "144524|也有苦衷 也不想送",
+          "startMs": 144524,
+          "text": "也有苦衷 也不想送"
+        },
+        {
+          "key": "146049|寒风中 废墟烟囱",
+          "startMs": 146049,
+          "text": "寒风中 废墟烟囱"
+        },
+        {
+          "key": "147117|停止转动 一切落空",
+          "startMs": 147117,
+          "text": "停止转动 一切落空"
+        },
+        {
+          "key": "148439|在人海中盲目跟从",
+          "startMs": 148439,
+          "text": "在人海中盲目跟从"
+        },
+        {
+          "key": "149811|别人的梦 全面放纵",
+          "startMs": 149811,
+          "text": "别人的梦 全面放纵"
+        },
+        {
+          "key": "151234|恨没有用 疗伤止痛",
+          "startMs": 151234,
+          "text": "恨没有用 疗伤止痛"
+        },
+        {
+          "key": "152454|不再感动 没有梦",
+          "startMs": 152454,
+          "text": "不再感动 没有梦"
+        },
+        {
+          "key": "153908|痛不知轻重",
+          "startMs": 153908,
+          "text": "痛不知轻重"
+        },
+        {
+          "key": "154671|泪水鲜红 全面放纵",
+          "startMs": 154671,
+          "text": "泪水鲜红 全面放纵"
+        },
+        {
+          "key": "167144|恨自己真的没用情绪激动",
+          "startMs": 167144,
+          "text": "恨自己真的没用情绪激动"
+        },
+        {
+          "key": "172088|一颗心到现在还在抽痛",
+          "startMs": 172088,
+          "text": "一颗心到现在还在抽痛"
+        },
+        {
+          "key": "177219|还为分手前那句抱歉在感动",
+          "startMs": 177219,
+          "text": "还为分手前那句抱歉在感动"
+        },
+        {
+          "key": "187075|穿梭时间的画面的钟",
+          "startMs": 187075,
+          "text": "穿梭时间的画面的钟"
+        },
+        {
+          "key": "192008|从反方向 开始移动",
+          "startMs": 192008,
+          "text": "从反方向 开始移动"
+        },
+        {
+          "key": "197092|回到当初爱你的时空",
+          "startMs": 197092,
+          "text": "回到当初爱你的时空"
+        },
+        {
+          "key": "202122|停格内容 不忠",
+          "startMs": 202122,
+          "text": "停格内容 不忠"
+        },
+        {
+          "key": "207209|所有回忆对着我进攻",
+          "startMs": 207209,
+          "text": "所有回忆对着我进攻"
+        },
+        {
+          "key": "212250|我的伤口 被你拆封",
+          "startMs": 212250,
+          "text": "我的伤口 被你拆封"
+        },
+        {
+          "key": "217389|誓言太沉重泪被纵容",
+          "startMs": 217389,
+          "text": "誓言太沉重泪被纵容"
+        },
+        {
+          "key": "222470|脸上汹涌 失控",
+          "startMs": 222470,
+          "text": "脸上汹涌 失控"
+        },
+        {
+          "key": "227708|穿梭时间的画面的钟",
+          "startMs": 227708,
+          "text": "穿梭时间的画面的钟"
+        },
+        {
+          "key": "232536|从反方向 开始移动",
+          "startMs": 232536,
+          "text": "从反方向 开始移动"
+        },
+        {
+          "key": "237678|回到当初爱你的时空",
+          "startMs": 237678,
+          "text": "回到当初爱你的时空"
+        },
+        {
+          "key": "242713|停格内容 不忠",
+          "startMs": 242713,
+          "text": "停格内容 不忠"
+        },
+        {
+          "key": "247947|所有回忆对着我进攻",
+          "startMs": 247947,
+          "text": "所有回忆对着我进攻"
+        },
+        {
+          "key": "253038|我的伤口 被你拆封",
+          "startMs": 253038,
+          "text": "我的伤口 被你拆封"
+        },
+        {
+          "key": "258023|誓言太沉重泪被纵容",
+          "startMs": 258023,
+          "text": "誓言太沉重泪被纵容"
+        },
+        {
+          "key": "263009|脸上汹涌 失控",
+          "startMs": 263009,
+          "text": "脸上汹涌 失控"
+        }
+      ]
+    },
+    {
+      "rank": 143,
+      "songKey": "online:kugou:072b00565d6906f74680b87e75d5f3e2",
+      "name": "Cruel Summer (Live from TS|The Eras Tour)",
+      "artist": "Taylor Swift",
+      "lines": [
+        {
+          "key": "0|Cruel Summer (Live from TS|The Eras Tour) - Taylor Swift",
+          "startMs": 0,
+          "text": "Cruel Summer (Live from TS|The Eras Tour) - Taylor Swift"
+        },
+        {
+          "key": "2162|Lyrics by：Taylor Swift/Jack Antonoff/Annie Clark",
+          "startMs": 2162,
+          "text": "Lyrics by：Taylor Swift/Jack Antonoff/Annie Clark"
+        },
+        {
+          "key": "3734|Composed by：Taylor Swift/Jack Antonoff/Annie Clark",
+          "startMs": 3734,
+          "text": "Composed by：Taylor Swift/Jack Antonoff/Annie Clark"
+        },
+        {
+          "key": "5306|Produced by：Taylor Swift",
+          "startMs": 5306,
+          "text": "Produced by：Taylor Swift"
+        },
+        {
+          "key": "6092|Oh hi",
+          "startMs": 6092,
+          "text": "Oh hi"
+        },
+        {
+          "key": "11765|Fever dream high in the quiet of the night",
+          "startMs": 11765,
+          "text": "Fever dream high in the quiet of the night"
+        },
+        {
+          "key": "14192|You know that I caught it",
+          "startMs": 14192,
+          "text": "You know that I caught it"
+        },
+        {
+          "key": "15707|Oh yeah you're right I want it",
+          "startMs": 15707,
+          "text": "Oh yeah you're right I want it"
+        },
+        {
+          "key": "17357|Bad bad boy shiny toy with a price",
+          "startMs": 17357,
+          "text": "Bad bad boy shiny toy with a price"
+        },
+        {
+          "key": "19768|You know that I bought it",
+          "startMs": 19768,
+          "text": "You know that I bought it"
+        },
+        {
+          "key": "21240|Oh yeah you're right I want it",
+          "startMs": 21240,
+          "text": "Oh yeah you're right I want it"
+        },
+        {
+          "key": "22559|Killing me slow out the window",
+          "startMs": 22559,
+          "text": "Killing me slow out the window"
+        },
+        {
+          "key": "25016|I'm always waiting for you to be waiting below",
+          "startMs": 25016,
+          "text": "I'm always waiting for you to be waiting below"
+        },
+        {
+          "key": "27896|Devils roll the dice angels roll their eyes",
+          "startMs": 27896,
+          "text": "Devils roll the dice angels roll their eyes"
+        },
+        {
+          "key": "30679|What doesn't kill me makes me want you more",
+          "startMs": 30679,
+          "text": "What doesn't kill me makes me want you more"
+        },
+        {
+          "key": "33658|And it's new the shape of your body",
+          "startMs": 33658,
+          "text": "And it's new the shape of your body"
+        },
+        {
+          "key": "36696|It's blue the feeling I've got",
+          "startMs": 36696,
+          "text": "It's blue the feeling I've got"
+        },
+        {
+          "key": "39449|And it's ooh woah-oh",
+          "startMs": 39449,
+          "text": "And it's ooh woah-oh"
+        },
+        {
+          "key": "42457|It's a cruel summer",
+          "startMs": 42457,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "45216|It's cool that's what I tell 'em",
+          "startMs": 45216,
+          "text": "It's cool that's what I tell 'em"
+        },
+        {
+          "key": "48062|No rules in breakable heaven",
+          "startMs": 48062,
+          "text": "No rules in breakable heaven"
+        },
+        {
+          "key": "50830|But ooh woah-oh",
+          "startMs": 50830,
+          "text": "But ooh woah-oh"
+        },
+        {
+          "key": "53711|It's a cruel summer with you",
+          "startMs": 53711,
+          "text": "It's a cruel summer with you"
+        },
+        {
+          "key": "59614|Hang your head low in the glow of the vending machine",
+          "startMs": 59614,
+          "text": "Hang your head low in the glow of the vending machine"
+        },
+        {
+          "key": "62652|I'm not dying",
+          "startMs": 62652,
+          "text": "I'm not dying"
+        },
+        {
+          "key": "63732|Oh yeah you're right I want it",
+          "startMs": 63732,
+          "text": "Oh yeah you're right I want it"
+        },
+        {
+          "key": "65088|We say that we'll just screw it up in these trying times",
+          "startMs": 65088,
+          "text": "We say that we'll just screw it up in these trying times"
+        },
+        {
+          "key": "68353|We're not trying",
+          "startMs": 68353,
+          "text": "We're not trying"
+        },
+        {
+          "key": "69177|Oh yeah you're right I want it",
+          "startMs": 69177,
+          "text": "Oh yeah you're right I want it"
+        },
+        {
+          "key": "70583|So cut the headlights summer's a knife",
+          "startMs": 70583,
+          "text": "So cut the headlights summer's a knife"
+        },
+        {
+          "key": "72952|I'm always waiting for you just to cut to the bone",
+          "startMs": 72952,
+          "text": "I'm always waiting for you just to cut to the bone"
+        },
+        {
+          "key": "75880|Devils roll the dice angels roll their eyes",
+          "startMs": 75880,
+          "text": "Devils roll the dice angels roll their eyes"
+        },
+        {
+          "key": "78620|And if I bleed you'll be the last to know oh",
+          "startMs": 78620,
+          "text": "And if I bleed you'll be the last to know oh"
+        },
+        {
+          "key": "82148|It's new the shape of your body",
+          "startMs": 82148,
+          "text": "It's new the shape of your body"
+        },
+        {
+          "key": "84704|It's blue the feeling I've got",
+          "startMs": 84704,
+          "text": "It's blue the feeling I've got"
+        },
+        {
+          "key": "87421|And it's ooh woah-oh",
+          "startMs": 87421,
+          "text": "And it's ooh woah-oh"
+        },
+        {
+          "key": "90572|It's a cruel summer",
+          "startMs": 90572,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "93180|It's cool that's what I tell 'em",
+          "startMs": 93180,
+          "text": "It's cool that's what I tell 'em"
+        },
+        {
+          "key": "96035|No rules in breakable heaven",
+          "startMs": 96035,
+          "text": "No rules in breakable heaven"
+        },
+        {
+          "key": "98828|But ooh woah-oh",
+          "startMs": 98828,
+          "text": "But ooh woah-oh"
+        },
+        {
+          "key": "101761|It's a cruel summer with you",
+          "startMs": 101761,
+          "text": "It's a cruel summer with you"
+        },
+        {
+          "key": "106009|Alright Los Angeles we have arrived",
+          "startMs": 106009,
+          "text": "Alright Los Angeles we have arrived"
+        },
+        {
+          "key": "110455|At the very first bridge of the evening",
+          "startMs": 110455,
+          "text": "At the very first bridge of the evening"
+        },
+        {
+          "key": "112997|Now I have a question",
+          "startMs": 112997,
+          "text": "Now I have a question"
+        },
+        {
+          "key": "116461|Does anyone here know the lyrics to this bridge",
+          "startMs": 116461,
+          "text": "Does anyone here know the lyrics to this bridge"
+        },
+        {
+          "key": "121286|Prove it",
+          "startMs": 121286,
+          "text": "Prove it"
+        },
+        {
+          "key": "122332|I'm drunk in the back of the car",
+          "startMs": 122332,
+          "text": "I'm drunk in the back of the car"
+        },
+        {
+          "key": "124356|And I cried like a baby comin' home from the bar",
+          "startMs": 124356,
+          "text": "And I cried like a baby comin' home from the bar"
+        },
+        {
+          "key": "127099|Oh",
+          "startMs": 127099,
+          "text": "Oh"
+        },
+        {
+          "key": "127622|Said \"I'm fine\" but it wasn't true",
+          "startMs": 127622,
+          "text": "Said \"I'm fine\" but it wasn't true"
+        },
+        {
+          "key": "129935|I don't wanna keep secrets just to keep you",
+          "startMs": 129935,
+          "text": "I don't wanna keep secrets just to keep you"
+        },
+        {
+          "key": "132674|And I snuck in through the garden gate",
+          "startMs": 132674,
+          "text": "And I snuck in through the garden gate"
+        },
+        {
+          "key": "135545|Every night that summer just to seal my fate",
+          "startMs": 135545,
+          "text": "Every night that summer just to seal my fate"
+        },
+        {
+          "key": "138374|Oh",
+          "startMs": 138374,
+          "text": "Oh"
+        },
+        {
+          "key": "138971|And I scream \"For whatever it's worth",
+          "startMs": 138971,
+          "text": "And I scream \"For whatever it's worth"
+        },
+        {
+          "key": "141338|I love you ain't that the worst thing you ever heard\"",
+          "startMs": 141338,
+          "text": "I love you ain't that the worst thing you ever heard\""
+        },
+        {
+          "key": "144792|He looks up grinnin' like a devil",
+          "startMs": 144792,
+          "text": "He looks up grinnin' like a devil"
+        },
+        {
+          "key": "147024|It's new the shape of your body",
+          "startMs": 147024,
+          "text": "It's new the shape of your body"
+        },
+        {
+          "key": "149657|It's blue the feeling I've got",
+          "startMs": 149657,
+          "text": "It's blue the feeling I've got"
+        },
+        {
+          "key": "152339|And it's ooh woah-oh",
+          "startMs": 152339,
+          "text": "And it's ooh woah-oh"
+        },
+        {
+          "key": "155266|It's a cruel summer",
+          "startMs": 155266,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "158142|It's cool that's what I tell 'em",
+          "startMs": 158142,
+          "text": "It's cool that's what I tell 'em"
+        },
+        {
+          "key": "160953|No rules in breakable heaven",
+          "startMs": 160953,
+          "text": "No rules in breakable heaven"
+        },
+        {
+          "key": "163741|But ooh woah-oh",
+          "startMs": 163741,
+          "text": "But ooh woah-oh"
+        },
+        {
+          "key": "166631|It's a cruel summer",
+          "startMs": 166631,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "170265|I'm drunk in the back of the car",
+          "startMs": 170265,
+          "text": "I'm drunk in the back of the car"
+        },
+        {
+          "key": "172342|And I cried like a baby comin' home from the bar",
+          "startMs": 172342,
+          "text": "And I cried like a baby comin' home from the bar"
+        },
+        {
+          "key": "175037|Oh",
+          "startMs": 175037,
+          "text": "Oh"
+        },
+        {
+          "key": "175701|Said \"I'm fine\" but it wasn't true",
+          "startMs": 175701,
+          "text": "Said \"I'm fine\" but it wasn't true"
+        },
+        {
+          "key": "177877|I don't wanna keep secrets just to keep you",
+          "startMs": 177877,
+          "text": "I don't wanna keep secrets just to keep you"
+        },
+        {
+          "key": "180726|And I snuck in through the garden gate",
+          "startMs": 180726,
+          "text": "And I snuck in through the garden gate"
+        },
+        {
+          "key": "183623|Every night that summer just to seal my fate",
+          "startMs": 183623,
+          "text": "Every night that summer just to seal my fate"
+        },
+        {
+          "key": "186353|Oh",
+          "startMs": 186353,
+          "text": "Oh"
+        },
+        {
+          "key": "187057|And I scream \"For whatever it's worth",
+          "startMs": 187057,
+          "text": "And I scream \"For whatever it's worth"
+        },
+        {
+          "key": "189407|I love you ain't that the worst thing you ever heard\"",
+          "startMs": 189407,
+          "text": "I love you ain't that the worst thing you ever heard\""
+        },
+        {
+          "key": "196427|Cruel summer with you",
+          "startMs": 196427,
+          "text": "Cruel summer with you"
+        },
+        {
+          "key": "198474|With you with you with you with you",
+          "startMs": 198474,
+          "text": "With you with you with you with you"
+        },
+        {
+          "key": "200945|With you",
+          "startMs": 200945,
+          "text": "With you"
+        },
+        {
+          "key": "201286|With you with you with you with you",
+          "startMs": 201286,
+          "text": "With you with you with you with you"
+        },
+        {
+          "key": "203573|With you",
+          "startMs": 203573,
+          "text": "With you"
+        },
+        {
+          "key": "204117|With you with you with you with you",
+          "startMs": 204117,
+          "text": "With you with you with you with you"
+        },
+        {
+          "key": "206446|It's a cruel summer with you",
+          "startMs": 206446,
+          "text": "It's a cruel summer with you"
+        },
+        {
+          "key": "209573|With you with you with you with you",
+          "startMs": 209573,
+          "text": "With you with you with you with you"
+        },
+        {
+          "key": "212093|With you",
+          "startMs": 212093,
+          "text": "With you"
+        },
+        {
+          "key": "212500|With you with you with you with you",
+          "startMs": 212500,
+          "text": "With you with you with you with you"
+        },
+        {
+          "key": "214990|With you",
+          "startMs": 214990,
+          "text": "With you"
+        },
+        {
+          "key": "215479|With you with you with you with you",
+          "startMs": 215479,
+          "text": "With you with you with you with you"
+        },
+        {
+          "key": "217797|It's a cruel summer",
+          "startMs": 217797,
+          "text": "It's a cruel summer"
+        }
+      ]
+    },
+    {
+      "rank": 144,
+      "songKey": "online:kugou:fb564140548415a114e329d20c44e157",
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "lines": [
+        {
+          "key": "63|Cruel Summer - Taylor Swift",
+          "startMs": 63,
+          "text": "Cruel Summer - Taylor Swift"
+        },
+        {
+          "key": "266|Lyrics by：Taylor Swift、Jack Antonoff、Annie Clark",
+          "startMs": 266,
+          "text": "Lyrics by：Taylor Swift、Jack Antonoff、Annie Clark"
+        },
+        {
+          "key": "550|Composed by：Taylor Swift、Jack Antonoff、Annie Clark",
+          "startMs": 550,
+          "text": "Composed by：Taylor Swift、Jack Antonoff、Annie Clark"
+        },
+        {
+          "key": "971|Yeah yeah yeah yeah",
+          "startMs": 971,
+          "text": "Yeah yeah yeah yeah"
+        },
+        {
+          "key": "5917|Fever dream high in the quiet of the night",
+          "startMs": 5917,
+          "text": "Fever dream high in the quiet of the night"
+        },
+        {
+          "key": "8390|You know that I caught it",
+          "startMs": 8390,
+          "text": "You know that I caught it"
+        },
+        {
+          "key": "10152|Oh yeah you're right I want it",
+          "startMs": 10152,
+          "text": "Oh yeah you're right I want it"
+        },
+        {
+          "key": "11627|Bad bad boy shiny toy with a price",
+          "startMs": 11627,
+          "text": "Bad bad boy shiny toy with a price"
+        },
+        {
+          "key": "14179|You know that I bought it",
+          "startMs": 14179,
+          "text": "You know that I bought it"
+        },
+        {
+          "key": "15556|Oh yeah you're right I want it",
+          "startMs": 15556,
+          "text": "Oh yeah you're right I want it"
+        },
+        {
+          "key": "16842|Killing me slow out the window",
+          "startMs": 16842,
+          "text": "Killing me slow out the window"
+        },
+        {
+          "key": "19344|I'm always waiting for you to be waiting below",
+          "startMs": 19344,
+          "text": "I'm always waiting for you to be waiting below"
+        },
+        {
+          "key": "22319|Devils roll the dice angels roll their eyes",
+          "startMs": 22319,
+          "text": "Devils roll the dice angels roll their eyes"
+        },
+        {
+          "key": "24961|What doesn't kill me makes me want you more",
+          "startMs": 24961,
+          "text": "What doesn't kill me makes me want you more"
+        },
+        {
+          "key": "28051|And it's new the shape of your body",
+          "startMs": 28051,
+          "text": "And it's new the shape of your body"
+        },
+        {
+          "key": "31111|It's blue the feeling I got",
+          "startMs": 31111,
+          "text": "It's blue the feeling I got"
+        },
+        {
+          "key": "33783|And it's ooh whoa oh",
+          "startMs": 33783,
+          "text": "And it's ooh whoa oh"
+        },
+        {
+          "key": "36867|It's a cruel summer",
+          "startMs": 36867,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "39714|It's cool that's what I tell 'em",
+          "startMs": 39714,
+          "text": "It's cool that's what I tell 'em"
+        },
+        {
+          "key": "42617|No rules in breakable heaven",
+          "startMs": 42617,
+          "text": "No rules in breakable heaven"
+        },
+        {
+          "key": "45167|But ooh whoa oh",
+          "startMs": 45167,
+          "text": "But ooh whoa oh"
+        },
+        {
+          "key": "48032|It's a cruel summer",
+          "startMs": 48032,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "50937|With you",
+          "startMs": 50937,
+          "text": "With you"
+        },
+        {
+          "key": "53996|Hang your head low in the glow of the vending machine",
+          "startMs": 53996,
+          "text": "Hang your head low in the glow of the vending machine"
+        },
+        {
+          "key": "57126|I'm not dying",
+          "startMs": 57126,
+          "text": "I'm not dying"
+        },
+        {
+          "key": "57818|Oh yeah you're right I want it",
+          "startMs": 57818,
+          "text": "Oh yeah you're right I want it"
+        },
+        {
+          "key": "59428|We say that we'll just screw it up in these trying times",
+          "startMs": 59428,
+          "text": "We say that we'll just screw it up in these trying times"
+        },
+        {
+          "key": "62603|We're not trying",
+          "startMs": 62603,
+          "text": "We're not trying"
+        },
+        {
+          "key": "63557|Oh yeah you're right I want it",
+          "startMs": 63557,
+          "text": "Oh yeah you're right I want it"
+        },
+        {
+          "key": "64938|So cut the headlights summer's a knife",
+          "startMs": 64938,
+          "text": "So cut the headlights summer's a knife"
+        },
+        {
+          "key": "67231|I'm always waiting for you just to cut to the bone",
+          "startMs": 67231,
+          "text": "I'm always waiting for you just to cut to the bone"
+        },
+        {
+          "key": "70273|Devils roll the dice angels roll their eyes",
+          "startMs": 70273,
+          "text": "Devils roll the dice angels roll their eyes"
+        },
+        {
+          "key": "73028|And if I bleed you'll be the last to know",
+          "startMs": 73028,
+          "text": "And if I bleed you'll be the last to know"
+        },
+        {
+          "key": "75788|Oh it's new the shape of your body",
+          "startMs": 75788,
+          "text": "Oh it's new the shape of your body"
+        },
+        {
+          "key": "79063|It's blue the feeling I got",
+          "startMs": 79063,
+          "text": "It's blue the feeling I got"
+        },
+        {
+          "key": "81722|And it's ooh whoa oh",
+          "startMs": 81722,
+          "text": "And it's ooh whoa oh"
+        },
+        {
+          "key": "84940|It's a cruel summer",
+          "startMs": 84940,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "87706|It's cool that's what I tell 'em",
+          "startMs": 87706,
+          "text": "It's cool that's what I tell 'em"
+        },
+        {
+          "key": "90459|No rules in breakable heaven",
+          "startMs": 90459,
+          "text": "No rules in breakable heaven"
+        },
+        {
+          "key": "93197|But ooh whoa oh",
+          "startMs": 93197,
+          "text": "But ooh whoa oh"
+        },
+        {
+          "key": "96197|It's a cruel summer",
+          "startMs": 96197,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "98813|With you",
+          "startMs": 98813,
+          "text": "With you"
+        },
+        {
+          "key": "99519|I'm drunk in the back of the car",
+          "startMs": 99519,
+          "text": "I'm drunk in the back of the car"
+        },
+        {
+          "key": "101770|And I cried like a baby coming home from the bar",
+          "startMs": 101770,
+          "text": "And I cried like a baby coming home from the bar"
+        },
+        {
+          "key": "104599|Oh",
+          "startMs": 104599,
+          "text": "Oh"
+        },
+        {
+          "key": "105031|Said I'm fine but it wasn't true",
+          "startMs": 105031,
+          "text": "Said I'm fine but it wasn't true"
+        },
+        {
+          "key": "107272|I don't want to keep secrets just to keep you",
+          "startMs": 107272,
+          "text": "I don't want to keep secrets just to keep you"
+        },
+        {
+          "key": "110190|And I snuck in through the garden gate",
+          "startMs": 110190,
+          "text": "And I snuck in through the garden gate"
+        },
+        {
+          "key": "112855|Every night that summer just to seal my fate",
+          "startMs": 112855,
+          "text": "Every night that summer just to seal my fate"
+        },
+        {
+          "key": "115679|Oh",
+          "startMs": 115679,
+          "text": "Oh"
+        },
+        {
+          "key": "116166|And I scream for whatever it's worth",
+          "startMs": 116166,
+          "text": "And I scream for whatever it's worth"
+        },
+        {
+          "key": "118781|\"I love you\" ain't that the worst thing you ever heard",
+          "startMs": 118781,
+          "text": "\"I love you\" ain't that the worst thing you ever heard"
+        },
+        {
+          "key": "122253|He looks up grinning like a devil",
+          "startMs": 122253,
+          "text": "He looks up grinning like a devil"
+        },
+        {
+          "key": "124220|It's new the shape of your body",
+          "startMs": 124220,
+          "text": "It's new the shape of your body"
+        },
+        {
+          "key": "126987|It's blue the feeling I got",
+          "startMs": 126987,
+          "text": "It's blue the feeling I got"
+        },
+        {
+          "key": "129708|And it's ooh whoa oh",
+          "startMs": 129708,
+          "text": "And it's ooh whoa oh"
+        },
+        {
+          "key": "132844|It's a cruel summer",
+          "startMs": 132844,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "135676|It's cool that's what I tell 'em",
+          "startMs": 135676,
+          "text": "It's cool that's what I tell 'em"
+        },
+        {
+          "key": "138437|No rules in breakable heaven",
+          "startMs": 138437,
+          "text": "No rules in breakable heaven"
+        },
+        {
+          "key": "141197|But ooh whoa oh",
+          "startMs": 141197,
+          "text": "But ooh whoa oh"
+        },
+        {
+          "key": "144055|It's a cruel summer",
+          "startMs": 144055,
+          "text": "It's a cruel summer"
+        },
+        {
+          "key": "147029|With you",
+          "startMs": 147029,
+          "text": "With you"
+        },
+        {
+          "key": "147772|I'm drunk in the back of the car",
+          "startMs": 147772,
+          "text": "I'm drunk in the back of the car"
+        },
+        {
+          "key": "149639|And I cried like a baby coming home from the bar",
+          "startMs": 149639,
+          "text": "And I cried like a baby coming home from the bar"
+        },
+        {
+          "key": "152395|Oh",
+          "startMs": 152395,
+          "text": "Oh"
+        },
+        {
+          "key": "153008|Said I'm fine but it wasn't true",
+          "startMs": 153008,
+          "text": "Said I'm fine but it wasn't true"
+        },
+        {
+          "key": "155289|I don't wanna keep secrets just to keep you",
+          "startMs": 155289,
+          "text": "I don't wanna keep secrets just to keep you"
+        },
+        {
+          "key": "158097|And I snuck in through the garden gate",
+          "startMs": 158097,
+          "text": "And I snuck in through the garden gate"
+        },
+        {
+          "key": "160809|Every night that summer just to seal my fate",
+          "startMs": 160809,
+          "text": "Every night that summer just to seal my fate"
+        },
+        {
+          "key": "163649|Oh",
+          "startMs": 163649,
+          "text": "Oh"
+        },
+        {
+          "key": "164249|And I scream for whatever it's worth",
+          "startMs": 164249,
+          "text": "And I scream for whatever it's worth"
+        },
+        {
+          "key": "166796|\"I love you\" ain't that the worst thing you ever heard",
+          "startMs": 166796,
+          "text": "\"I love you\" ain't that the worst thing you ever heard"
+        },
+        {
+          "key": "170689|Yeah yeah yeah yeah",
+          "startMs": 170689,
+          "text": "Yeah yeah yeah yeah"
+        }
+      ]
+    },
+    {
+      "rank": 145,
+      "songKey": "online:kugou:9f913c10e4e416af5bb5a989be6d3020",
+      "name": "能不能回到小时候",
+      "artist": "庄东茹",
+      "lines": [
+        {
+          "key": "45|能不能回到小时候 - 庄东茹",
+          "startMs": 45,
+          "text": "能不能回到小时候 - 庄东茹"
+        },
+        {
+          "key": "600|作词：乐火能量\\电力金刚西柚",
+          "startMs": 600,
+          "text": "作词：乐火能量\\电力金刚西柚"
+        },
+        {
+          "key": "1200|作曲：乐火能量\\李雪萌",
+          "startMs": 1200,
+          "text": "作曲：乐火能量\\李雪萌"
+        },
+        {
+          "key": "1800|编曲：乐火能量\\why to start ",
+          "startMs": 1800,
+          "text": "编曲：乐火能量\\why to start "
+        },
+        {
+          "key": "2400|OP：三喜音乐",
+          "startMs": 2400,
+          "text": "OP：三喜音乐"
+        },
+        {
+          "key": "3000|制作人：庄侃\\苏彬",
+          "startMs": 3000,
+          "text": "制作人：庄侃\\苏彬"
+        },
+        {
+          "key": "3600|出品、监制：苏彬",
+          "startMs": 3600,
+          "text": "出品、监制：苏彬"
+        },
+        {
+          "key": "4200|录音：乐火能量\\擂茶",
+          "startMs": 4200,
+          "text": "录音：乐火能量\\擂茶"
+        },
+        {
+          "key": "4800|混音：乐火能量\\奥特",
+          "startMs": 4800,
+          "text": "混音：乐火能量\\奥特"
+        },
+        {
+          "key": "5400|策划：苏彬\\Vox\\朱晓铮",
+          "startMs": 5400,
+          "text": "策划：苏彬\\Vox\\朱晓铮"
+        },
+        {
+          "key": "6000|推广：苏彬\\朱晓铮@三喜音乐",
+          "startMs": 6000,
+          "text": "推广：苏彬\\朱晓铮@三喜音乐"
+        },
+        {
+          "key": "6600|发行统筹：照明\\赵天雪@三喜音乐",
+          "startMs": 6600,
+          "text": "发行统筹：照明\\赵天雪@三喜音乐"
+        },
+        {
+          "key": "7200|门前大桥下",
+          "startMs": 7200,
+          "text": "门前大桥下"
+        },
+        {
+          "key": "9660|游过一群鸭",
+          "startMs": 9660,
+          "text": "游过一群鸭"
+        },
+        {
+          "key": "12360|太阳晒到泊油路都熟透",
+          "startMs": 12360,
+          "text": "太阳晒到泊油路都熟透"
+        },
+        {
+          "key": "14250|不敢抬头看刺眼的高楼",
+          "startMs": 14250,
+          "text": "不敢抬头看刺眼的高楼"
+        },
+        {
+          "key": "16470|没有蒲扇的风飘进了我心口",
+          "startMs": 16470,
+          "text": "没有蒲扇的风飘进了我心口"
+        },
+        {
+          "key": "18930|只剩下影子跟在我身后",
+          "startMs": 18930,
+          "text": "只剩下影子跟在我身后"
+        },
+        {
+          "key": "21330|也没那么期待着星期六",
+          "startMs": 21330,
+          "text": "也没那么期待着星期六"
+        },
+        {
+          "key": "23760|没有你唱的歌谣一首首",
+          "startMs": 23760,
+          "text": "没有你唱的歌谣一首首"
+        },
+        {
+          "key": "26160|想念你递过的西瓜放在手",
+          "startMs": 26160,
+          "text": "想念你递过的西瓜放在手"
+        },
+        {
+          "key": "28530|还有你带着笑意的眼眸",
+          "startMs": 28530,
+          "text": "还有你带着笑意的眼眸"
+        },
+        {
+          "key": "31440|风来风走",
+          "startMs": 31440,
+          "text": "风来风走"
+        },
+        {
+          "key": "33930|日历只能吹到以后",
+          "startMs": 33930,
+          "text": "日历只能吹到以后"
+        },
+        {
+          "key": "36270|慢慢悠悠",
+          "startMs": 36270,
+          "text": "慢慢悠悠"
+        },
+        {
+          "key": "38670|树叶都跟着晃动吹奏",
+          "startMs": 38670,
+          "text": "树叶都跟着晃动吹奏"
+        },
+        {
+          "key": "41100|风来风走",
+          "startMs": 41100,
+          "text": "风来风走"
+        },
+        {
+          "key": "43500|时间仿佛拉长镜头",
+          "startMs": 43500,
+          "text": "时间仿佛拉长镜头"
+        },
+        {
+          "key": "45990|慢慢慢慢慢慢悠悠",
+          "startMs": 45990,
+          "text": "慢慢慢慢慢慢悠悠"
+        },
+        {
+          "key": "48150|踏不回同条河流",
+          "startMs": 48150,
+          "text": "踏不回同条河流"
+        },
+        {
+          "key": "50250|能不能能不能",
+          "startMs": 50250,
+          "text": "能不能能不能"
+        },
+        {
+          "key": "53040|让我回到小时候",
+          "startMs": 53040,
+          "text": "让我回到小时候"
+        },
+        {
+          "key": "55410|能不能像鱼儿一样",
+          "startMs": 55410,
+          "text": "能不能像鱼儿一样"
+        },
+        {
+          "key": "57990|在记忆的夏天游",
+          "startMs": 57990,
+          "text": "在记忆的夏天游"
+        },
+        {
+          "key": "60180|随着溪流跨过石头",
+          "startMs": 60180,
+          "text": "随着溪流跨过石头"
+        },
+        {
+          "key": "62670|我还能够牵着你的袖口",
+          "startMs": 62670,
+          "text": "我还能够牵着你的袖口"
+        },
+        {
+          "key": "64800|能不能能不能",
+          "startMs": 64800,
+          "text": "能不能能不能"
+        },
+        {
+          "key": "67560|让我回到小时候",
+          "startMs": 67560,
+          "text": "让我回到小时候"
+        },
+        {
+          "key": "69630|路过小店手拿冰棒回头",
+          "startMs": 69630,
+          "text": "路过小店手拿冰棒回头"
+        },
+        {
+          "key": "72390|你还站在那熟悉的街口",
+          "startMs": 72390,
+          "text": "你还站在那熟悉的街口"
+        },
+        {
+          "key": "74730|随着溪流一步步跨过石头",
+          "startMs": 74730,
+          "text": "随着溪流一步步跨过石头"
+        },
+        {
+          "key": "77220|我还能够牵着你的袖口",
+          "startMs": 77220,
+          "text": "我还能够牵着你的袖口"
+        },
+        {
+          "key": "80520|门前大桥下",
+          "startMs": 80520,
+          "text": "门前大桥下"
+        },
+        {
+          "key": "82380|游过一群鸭",
+          "startMs": 82380,
+          "text": "游过一群鸭"
+        },
+        {
+          "key": "84780|快来快来数一数",
+          "startMs": 84780,
+          "text": "快来快来数一数"
+        },
+        {
+          "key": "87210|二四六七八",
+          "startMs": 87210,
+          "text": "二四六七八"
+        },
+        {
+          "key": "89610|风来风走",
+          "startMs": 89610,
+          "text": "风来风走"
+        },
+        {
+          "key": "92100|日历只能吹到以后",
+          "startMs": 92100,
+          "text": "日历只能吹到以后"
+        },
+        {
+          "key": "94470|慢慢悠悠",
+          "startMs": 94470,
+          "text": "慢慢悠悠"
+        },
+        {
+          "key": "96840|树叶都跟着晃动吹奏",
+          "startMs": 96840,
+          "text": "树叶都跟着晃动吹奏"
+        },
+        {
+          "key": "99300|风来风走",
+          "startMs": 99300,
+          "text": "风来风走"
+        },
+        {
+          "key": "101700|时间仿佛拉长镜头",
+          "startMs": 101700,
+          "text": "时间仿佛拉长镜头"
+        },
+        {
+          "key": "104190|慢慢慢慢慢慢悠悠",
+          "startMs": 104190,
+          "text": "慢慢慢慢慢慢悠悠"
+        },
+        {
+          "key": "106350|踏不回同条河流",
+          "startMs": 106350,
+          "text": "踏不回同条河流"
+        },
+        {
+          "key": "108420|能不能能不能",
+          "startMs": 108420,
+          "text": "能不能能不能"
+        },
+        {
+          "key": "111240|让我回到小时候",
+          "startMs": 111240,
+          "text": "让我回到小时候"
+        },
+        {
+          "key": "113580|能不能像鱼儿一样",
+          "startMs": 113580,
+          "text": "能不能像鱼儿一样"
+        },
+        {
+          "key": "116160|在记忆的夏天游",
+          "startMs": 116160,
+          "text": "在记忆的夏天游"
+        },
+        {
+          "key": "118350|随着溪流跨过石头",
+          "startMs": 118350,
+          "text": "随着溪流跨过石头"
+        },
+        {
+          "key": "120870|我还能够牵着你的袖口",
+          "startMs": 120870,
+          "text": "我还能够牵着你的袖口"
+        },
+        {
+          "key": "122970|能不能能不能",
+          "startMs": 122970,
+          "text": "能不能能不能"
+        },
+        {
+          "key": "125760|让我回到小时候",
+          "startMs": 125760,
+          "text": "让我回到小时候"
+        },
+        {
+          "key": "127890|能不能能不能",
+          "startMs": 127890,
+          "text": "能不能能不能"
+        },
+        {
+          "key": "130620|让我回到小时候",
+          "startMs": 130620,
+          "text": "让我回到小时候"
+        },
+        {
+          "key": "132990|能不能像鱼儿一样",
+          "startMs": 132990,
+          "text": "能不能像鱼儿一样"
+        },
+        {
+          "key": "135570|在记忆的夏天游",
+          "startMs": 135570,
+          "text": "在记忆的夏天游"
+        },
+        {
+          "key": "137730|随着溪流跨过石头",
+          "startMs": 137730,
+          "text": "随着溪流跨过石头"
+        },
+        {
+          "key": "140280|我还能够牵着你的袖口",
+          "startMs": 140280,
+          "text": "我还能够牵着你的袖口"
+        },
+        {
+          "key": "142380|能不能能不能",
+          "startMs": 142380,
+          "text": "能不能能不能"
+        },
+        {
+          "key": "145140|让我回到小时候",
+          "startMs": 145140,
+          "text": "让我回到小时候"
+        },
+        {
+          "key": "147570|路过小店手拿冰棒回头",
+          "startMs": 147570,
+          "text": "路过小店手拿冰棒回头"
+        },
+        {
+          "key": "150000|你还站在那熟悉的街口",
+          "startMs": 150000,
+          "text": "你还站在那熟悉的街口"
+        },
+        {
+          "key": "152310|随着溪流一步步跨过石头",
+          "startMs": 152310,
+          "text": "随着溪流一步步跨过石头"
+        },
+        {
+          "key": "154800|我还能够牵着你的袖口",
+          "startMs": 154800,
+          "text": "我还能够牵着你的袖口"
+        }
+      ]
+    }
+  ]
+}

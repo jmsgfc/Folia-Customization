@@ -1,0 +1,1775 @@
+{
+  "batchNumber": 23,
+  "songs": [
+    {
+      "rank": 111,
+      "songKey": "online:kugou:88f8b6351641c3f0c96741fad21d331c",
+      "name": "Revive",
+      "artist": "Sture Zetterberg / Sigrid Spångberg",
+      "lines": [
+        {
+          "key": "0|作曲 : Sture Zetterberg",
+          "startMs": 0,
+          "text": "作曲 : Sture Zetterberg"
+        },
+        {
+          "key": "9148|Don't tell me that's it's over",
+          "startMs": 9148,
+          "text": "Don't tell me that's it's over"
+        },
+        {
+          "key": "12808|Never say that I can't relate",
+          "startMs": 12808,
+          "text": "Never say that I can't relate"
+        },
+        {
+          "key": "18384|I still wanna come over",
+          "startMs": 18384,
+          "text": "I still wanna come over"
+        },
+        {
+          "key": "21864|'Cause I know that it's not too late",
+          "startMs": 21864,
+          "text": "'Cause I know that it's not too late"
+        },
+        {
+          "key": "26919|Too late  too late",
+          "startMs": 26919,
+          "text": "Too late  too late"
+        },
+        {
+          "key": "31678|Too late  too late",
+          "startMs": 31678,
+          "text": "Too late  too late"
+        },
+        {
+          "key": "35766|I know I made mistakes",
+          "startMs": 35766,
+          "text": "I know I made mistakes"
+        },
+        {
+          "key": "37596|I know I lied",
+          "startMs": 37596,
+          "text": "I know I lied"
+        },
+        {
+          "key": "40356|I should've noticed",
+          "startMs": 40356,
+          "text": "I should've noticed"
+        },
+        {
+          "key": "41916|Yeah I should've tried",
+          "startMs": 41916,
+          "text": "Yeah I should've tried"
+        },
+        {
+          "key": "44916|And all the loving that I just ignored",
+          "startMs": 44916,
+          "text": "And all the loving that I just ignored"
+        },
+        {
+          "key": "48906|I'm gonna revive it",
+          "startMs": 48906,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "51216|I'm gonna revive it",
+          "startMs": 51216,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "73098|Come now",
+          "startMs": 73098,
+          "text": "Come now"
+        },
+        {
+          "key": "74298|Give me a moment",
+          "startMs": 74298,
+          "text": "Give me a moment"
+        },
+        {
+          "key": "76728|'Cause you know about the place I'm from",
+          "startMs": 76728,
+          "text": "'Cause you know about the place I'm from"
+        },
+        {
+          "key": "82172|Let me in",
+          "startMs": 82172,
+          "text": "Let me in"
+        },
+        {
+          "key": "83822|Let me show it",
+          "startMs": 83822,
+          "text": "Let me show it"
+        },
+        {
+          "key": "85952|All the things that we can become",
+          "startMs": 85952,
+          "text": "All the things that we can become"
+        },
+        {
+          "key": "91334|Become  become",
+          "startMs": 91334,
+          "text": "Become  become"
+        },
+        {
+          "key": "95790|Become  become",
+          "startMs": 95790,
+          "text": "Become  become"
+        },
+        {
+          "key": "98810|I know I made mistakes",
+          "startMs": 98810,
+          "text": "I know I made mistakes"
+        },
+        {
+          "key": "101738|I know I lied",
+          "startMs": 101738,
+          "text": "I know I lied"
+        },
+        {
+          "key": "103268|I should've noticed",
+          "startMs": 103268,
+          "text": "I should've noticed"
+        },
+        {
+          "key": "106028|Yeah I should've tried",
+          "startMs": 106028,
+          "text": "Yeah I should've tried"
+        },
+        {
+          "key": "108930|And all the loving that I just ignored",
+          "startMs": 108930,
+          "text": "And all the loving that I just ignored"
+        },
+        {
+          "key": "112950|I'm gonna revive it",
+          "startMs": 112950,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "115200|I'm gonna revive it",
+          "startMs": 115200,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "154670|I know I made mistakes",
+          "startMs": 154670,
+          "text": "I know I made mistakes"
+        },
+        {
+          "key": "156470|I know I lied",
+          "startMs": 156470,
+          "text": "I know I lied"
+        },
+        {
+          "key": "159200|I should've noticed",
+          "startMs": 159200,
+          "text": "I should've noticed"
+        },
+        {
+          "key": "160730|Yeah I should've tried",
+          "startMs": 160730,
+          "text": "Yeah I should've tried"
+        },
+        {
+          "key": "163820|And all the loving that I just ignored",
+          "startMs": 163820,
+          "text": "And all the loving that I just ignored"
+        },
+        {
+          "key": "167750|I'm gonna revive it",
+          "startMs": 167750,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "170240|I'm gonna revive it",
+          "startMs": 170240,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "172880|I know I made mistakes",
+          "startMs": 172880,
+          "text": "I know I made mistakes"
+        },
+        {
+          "key": "174740|I know I lied",
+          "startMs": 174740,
+          "text": "I know I lied"
+        },
+        {
+          "key": "177530|I should've noticed",
+          "startMs": 177530,
+          "text": "I should've noticed"
+        },
+        {
+          "key": "179030|Yeah I should've tried",
+          "startMs": 179030,
+          "text": "Yeah I should've tried"
+        },
+        {
+          "key": "182090|And all the loving that I just ignored",
+          "startMs": 182090,
+          "text": "And all the loving that I just ignored"
+        },
+        {
+          "key": "186080|I'm gonna revive it",
+          "startMs": 186080,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "188120|I'm gonna revive it",
+          "startMs": 188120,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "190610|I'm gonna revive it",
+          "startMs": 190610,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "195260|I'm gonna revive it",
+          "startMs": 195260,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "199820|I'm gonna revive it",
+          "startMs": 199820,
+          "text": "I'm gonna revive it"
+        },
+        {
+          "key": "204350|I'm gonna revive it",
+          "startMs": 204350,
+          "text": "I'm gonna revive it"
+        }
+      ]
+    },
+    {
+      "rank": 112,
+      "songKey": "online:kugou:91b7d075d9fa94111811bdcca667ff36",
+      "name": "Closer",
+      "artist": "Alex Goot / A Touch Of Class",
+      "lines": [
+        {
+          "key": "58|Alex Goot、Against The Current - Closer - MV版",
+          "startMs": 58,
+          "text": "Alex Goot、Against The Current - Closer - MV版"
+        },
+        {
+          "key": "11015|Hey I was doing just fine before I met you",
+          "startMs": 11015,
+          "text": "Hey I was doing just fine before I met you"
+        },
+        {
+          "key": "15346|I drink too much",
+          "startMs": 15346,
+          "text": "I drink too much"
+        },
+        {
+          "key": "16642|And that's an issue but I'm okay",
+          "startMs": 16642,
+          "text": "And that's an issue but I'm okay"
+        },
+        {
+          "key": "21068|Hey you tell your friends",
+          "startMs": 21068,
+          "text": "Hey you tell your friends"
+        },
+        {
+          "key": "24012|It was nice to meet them",
+          "startMs": 24012,
+          "text": "It was nice to meet them"
+        },
+        {
+          "key": "25840|But I hope I never see them again",
+          "startMs": 25840,
+          "text": "But I hope I never see them again"
+        },
+        {
+          "key": "32082|I know it breaks your heart",
+          "startMs": 32082,
+          "text": "I know it breaks your heart"
+        },
+        {
+          "key": "33601|Moved to the city in a broke down car",
+          "startMs": 33601,
+          "text": "Moved to the city in a broke down car"
+        },
+        {
+          "key": "36023|And four years no calls",
+          "startMs": 36023,
+          "text": "And four years no calls"
+        },
+        {
+          "key": "38674|Now you're looking pretty in a hotel bar",
+          "startMs": 38674,
+          "text": "Now you're looking pretty in a hotel bar"
+        },
+        {
+          "key": "41343|And I I I can't stop",
+          "startMs": 41343,
+          "text": "And I I I can't stop"
+        },
+        {
+          "key": "46043|No I I I can't stop",
+          "startMs": 46043,
+          "text": "No I I I can't stop"
+        },
+        {
+          "key": "51077|So baby pull me closer",
+          "startMs": 51077,
+          "text": "So baby pull me closer"
+        },
+        {
+          "key": "53039|In the backseat of your Rover",
+          "startMs": 53039,
+          "text": "In the backseat of your Rover"
+        },
+        {
+          "key": "55739|That I know you can't afford",
+          "startMs": 55739,
+          "text": "That I know you can't afford"
+        },
+        {
+          "key": "58136|Bite that tattoo on your shoulder",
+          "startMs": 58136,
+          "text": "Bite that tattoo on your shoulder"
+        },
+        {
+          "key": "60871|Pull the sheets right off the corner",
+          "startMs": 60871,
+          "text": "Pull the sheets right off the corner"
+        },
+        {
+          "key": "63315|Of the mattress that you stole",
+          "startMs": 63315,
+          "text": "Of the mattress that you stole"
+        },
+        {
+          "key": "65864|From your roommate back in Boulder",
+          "startMs": 65864,
+          "text": "From your roommate back in Boulder"
+        },
+        {
+          "key": "68341|We ain't ever getting older",
+          "startMs": 68341,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "78807|We ain't ever getting older",
+          "startMs": 78807,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "88760|We ain't ever getting older",
+          "startMs": 88760,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "91950|You look as good as the day I met you",
+          "startMs": 91950,
+          "text": "You look as good as the day I met you"
+        },
+        {
+          "key": "96394|I forget just why I left you I was insane",
+          "startMs": 96394,
+          "text": "I forget just why I left you I was insane"
+        },
+        {
+          "key": "101882|Stay and play that Blink182 song",
+          "startMs": 101882,
+          "text": "Stay and play that Blink182 song"
+        },
+        {
+          "key": "106454|That we beat to death in Tucson okay",
+          "startMs": 106454,
+          "text": "That we beat to death in Tucson okay"
+        },
+        {
+          "key": "112863|I know it breaks your heart",
+          "startMs": 112863,
+          "text": "I know it breaks your heart"
+        },
+        {
+          "key": "114413|Moved to the city in a broke down car",
+          "startMs": 114413,
+          "text": "Moved to the city in a broke down car"
+        },
+        {
+          "key": "116915|And four years no calls",
+          "startMs": 116915,
+          "text": "And four years no calls"
+        },
+        {
+          "key": "119435|Now I'm looking pretty in a hotel bar",
+          "startMs": 119435,
+          "text": "Now I'm looking pretty in a hotel bar"
+        },
+        {
+          "key": "121917|And I I I can't stop",
+          "startMs": 121917,
+          "text": "And I I I can't stop"
+        },
+        {
+          "key": "126876|No I I I can't stop",
+          "startMs": 126876,
+          "text": "No I I I can't stop"
+        },
+        {
+          "key": "131921|So baby pull me closer",
+          "startMs": 131921,
+          "text": "So baby pull me closer"
+        },
+        {
+          "key": "133952|In the backseat of your Rover",
+          "startMs": 133952,
+          "text": "In the backseat of your Rover"
+        },
+        {
+          "key": "136687|That I know you can't afford",
+          "startMs": 136687,
+          "text": "That I know you can't afford"
+        },
+        {
+          "key": "139054|Bite that tattoo on your shoulder",
+          "startMs": 139054,
+          "text": "Bite that tattoo on your shoulder"
+        },
+        {
+          "key": "141829|Pull the sheets right off the corner",
+          "startMs": 141829,
+          "text": "Pull the sheets right off the corner"
+        },
+        {
+          "key": "144325|Of the mattress that you stole",
+          "startMs": 144325,
+          "text": "Of the mattress that you stole"
+        },
+        {
+          "key": "146686|From your roommate back in Boulder",
+          "startMs": 146686,
+          "text": "From your roommate back in Boulder"
+        },
+        {
+          "key": "149100|We ain't ever getting older",
+          "startMs": 149100,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "159422|We ain't ever getting older",
+          "startMs": 159422,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "169691|We ain't ever getting older",
+          "startMs": 169691,
+          "text": "We ain't ever getting older"
+        },
+        {
+          "key": "172399|So baby pull me closer",
+          "startMs": 172399,
+          "text": "So baby pull me closer"
+        },
+        {
+          "key": "174376|In the backseat of your Rover",
+          "startMs": 174376,
+          "text": "In the backseat of your Rover"
+        },
+        {
+          "key": "177024|That I know you can't afford",
+          "startMs": 177024,
+          "text": "That I know you can't afford"
+        },
+        {
+          "key": "179355|Bite that tattoo on your shoulder",
+          "startMs": 179355,
+          "text": "Bite that tattoo on your shoulder"
+        },
+        {
+          "key": "182003|Pull the sheets right off the corner",
+          "startMs": 182003,
+          "text": "Pull the sheets right off the corner"
+        },
+        {
+          "key": "184467|Of the mattress that you stole",
+          "startMs": 184467,
+          "text": "Of the mattress that you stole"
+        },
+        {
+          "key": "187075|From your roommate back in Boulder",
+          "startMs": 187075,
+          "text": "From your roommate back in Boulder"
+        },
+        {
+          "key": "189513|We ain't ever getting older",
+          "startMs": 189513,
+          "text": "We ain't ever getting older"
+        }
+      ]
+    },
+    {
+      "rank": 113,
+      "songKey": "online:kugou:0c97a1edb859f5f715cfd23c09953d41",
+      "name": "Stay Here Forever",
+      "artist": "Jewel",
+      "lines": [
+        {
+          "key": "0|Jewel - Stay Here Forever",
+          "startMs": 0,
+          "text": "Jewel - Stay Here Forever"
+        },
+        {
+          "key": "1033|Lyrics by：Jewel King/Bobby Pinson/Dallas Davidson",
+          "startMs": 1033,
+          "text": "Lyrics by：Jewel King/Bobby Pinson/Dallas Davidson"
+        },
+        {
+          "key": "3058|Composed by：Jewel King/Bobby Pinson/Dallas Davidson",
+          "startMs": 3058,
+          "text": "Composed by：Jewel King/Bobby Pinson/Dallas Davidson"
+        },
+        {
+          "key": "5166|Oh oh",
+          "startMs": 5166,
+          "text": "Oh oh"
+        },
+        {
+          "key": "6306|Oh oh",
+          "startMs": 6306,
+          "text": "Oh oh"
+        },
+        {
+          "key": "6556|Oh oh",
+          "startMs": 6556,
+          "text": "Oh oh"
+        },
+        {
+          "key": "6596|Oh oh",
+          "startMs": 6596,
+          "text": "Oh oh"
+        },
+        {
+          "key": "7276|Oh oh",
+          "startMs": 7276,
+          "text": "Oh oh"
+        },
+        {
+          "key": "8646|Oh oh",
+          "startMs": 8646,
+          "text": "Oh oh"
+        },
+        {
+          "key": "9996|I'm laying here dreaming staring at the ceiling",
+          "startMs": 9996,
+          "text": "I'm laying here dreaming staring at the ceiling"
+        },
+        {
+          "key": "13696|Wasting the day away",
+          "startMs": 13696,
+          "text": "Wasting the day away"
+        },
+        {
+          "key": "15896|The world's flying by our window outside",
+          "startMs": 15896,
+          "text": "The world's flying by our window outside"
+        },
+        {
+          "key": "18856|But hey baby that's okay",
+          "startMs": 18856,
+          "text": "But hey baby that's okay"
+        },
+        {
+          "key": "22226|This feels so right it can't be wrong",
+          "startMs": 22226,
+          "text": "This feels so right it can't be wrong"
+        },
+        {
+          "key": "24886|So far as I can see",
+          "startMs": 24886,
+          "text": "So far as I can see"
+        },
+        {
+          "key": "27316|Where you wanna go",
+          "startMs": 27316,
+          "text": "Where you wanna go"
+        },
+        {
+          "key": "28356|Baby I'll do anything",
+          "startMs": 28356,
+          "text": "Baby I'll do anything"
+        },
+        {
+          "key": "32076|'Cause if you wanna go",
+          "startMs": 32076,
+          "text": "'Cause if you wanna go"
+        },
+        {
+          "key": "33466|Baby let's go",
+          "startMs": 33466,
+          "text": "Baby let's go"
+        },
+        {
+          "key": "34866|If you wanna rock",
+          "startMs": 34866,
+          "text": "If you wanna rock"
+        },
+        {
+          "key": "35866|I'm ready to roll",
+          "startMs": 35866,
+          "text": "I'm ready to roll"
+        },
+        {
+          "key": "37476|And if you wanna slow",
+          "startMs": 37476,
+          "text": "And if you wanna slow"
+        },
+        {
+          "key": "40616|Down",
+          "startMs": 40616,
+          "text": "Down"
+        },
+        {
+          "key": "42026|We can slow down together",
+          "startMs": 42026,
+          "text": "We can slow down together"
+        },
+        {
+          "key": "44376|If you wanna walk",
+          "startMs": 44376,
+          "text": "If you wanna walk"
+        },
+        {
+          "key": "45756|Baby let's walk",
+          "startMs": 45756,
+          "text": "Baby let's walk"
+        },
+        {
+          "key": "47126|Have a little kiss",
+          "startMs": 47126,
+          "text": "Have a little kiss"
+        },
+        {
+          "key": "48516|Have a little talk",
+          "startMs": 48516,
+          "text": "Have a little talk"
+        },
+        {
+          "key": "49756|We don't gotta leave",
+          "startMs": 49756,
+          "text": "We don't gotta leave"
+        },
+        {
+          "key": "52636|At all",
+          "startMs": 52636,
+          "text": "At all"
+        },
+        {
+          "key": "54316|We can lay here forever",
+          "startMs": 54316,
+          "text": "We can lay here forever"
+        },
+        {
+          "key": "57236|Stay here forever",
+          "startMs": 57236,
+          "text": "Stay here forever"
+        },
+        {
+          "key": "59636|Oh oh oh oh oh oh oh oh",
+          "startMs": 59636,
+          "text": "Oh oh oh oh oh oh oh oh"
+        },
+        {
+          "key": "65526|If you wanna see that Italian tower leaning",
+          "startMs": 65526,
+          "text": "If you wanna see that Italian tower leaning"
+        },
+        {
+          "key": "68246|Baby we can leave right now right now",
+          "startMs": 68246,
+          "text": "Baby we can leave right now right now"
+        },
+        {
+          "key": "70946|If that's too far we can jump in the car",
+          "startMs": 70946,
+          "text": "If that's too far we can jump in the car"
+        },
+        {
+          "key": "73406|And take a little trip around town",
+          "startMs": 73406,
+          "text": "And take a little trip around town"
+        },
+        {
+          "key": "76766|They say that California is nice and warm this time of year",
+          "startMs": 76766,
+          "text": "They say that California is nice and warm this time of year"
+        },
+        {
+          "key": "81836|Baby say the word and we'll just disappear",
+          "startMs": 81836,
+          "text": "Baby say the word and we'll just disappear"
+        },
+        {
+          "key": "86536|'Cause if you wanna go",
+          "startMs": 86536,
+          "text": "'Cause if you wanna go"
+        },
+        {
+          "key": "88006|Baby let's go",
+          "startMs": 88006,
+          "text": "Baby let's go"
+        },
+        {
+          "key": "89376|If you wanna rock",
+          "startMs": 89376,
+          "text": "If you wanna rock"
+        },
+        {
+          "key": "90546|I'm ready to roll",
+          "startMs": 90546,
+          "text": "I'm ready to roll"
+        },
+        {
+          "key": "92066|And if you wanna slow",
+          "startMs": 92066,
+          "text": "And if you wanna slow"
+        },
+        {
+          "key": "95176|Down",
+          "startMs": 95176,
+          "text": "Down"
+        },
+        {
+          "key": "96586|We can slow down together",
+          "startMs": 96586,
+          "text": "We can slow down together"
+        },
+        {
+          "key": "98996|If you wanna walk",
+          "startMs": 98996,
+          "text": "If you wanna walk"
+        },
+        {
+          "key": "100286|Baby let's walk",
+          "startMs": 100286,
+          "text": "Baby let's walk"
+        },
+        {
+          "key": "101666|Have a little kiss",
+          "startMs": 101666,
+          "text": "Have a little kiss"
+        },
+        {
+          "key": "103066|Have a little talk",
+          "startMs": 103066,
+          "text": "Have a little talk"
+        },
+        {
+          "key": "104286|We don't gotta leave at all",
+          "startMs": 104286,
+          "text": "We don't gotta leave at all"
+        },
+        {
+          "key": "108776|We can lay here forever",
+          "startMs": 108776,
+          "text": "We can lay here forever"
+        },
+        {
+          "key": "111766|Stay here forever oh",
+          "startMs": 111766,
+          "text": "Stay here forever oh"
+        },
+        {
+          "key": "114686|It's a big world",
+          "startMs": 114686,
+          "text": "It's a big world"
+        },
+        {
+          "key": "115646|For a boy and a girl",
+          "startMs": 115646,
+          "text": "For a boy and a girl"
+        },
+        {
+          "key": "117046|Letting go of it all",
+          "startMs": 117046,
+          "text": "Letting go of it all"
+        },
+        {
+          "key": "118316|Holding on to one another",
+          "startMs": 118316,
+          "text": "Holding on to one another"
+        },
+        {
+          "key": "119726|Oh there's a hole other world to discover",
+          "startMs": 119726,
+          "text": "Oh there's a hole other world to discover"
+        },
+        {
+          "key": "123176|Under the covers",
+          "startMs": 123176,
+          "text": "Under the covers"
+        },
+        {
+          "key": "126096|So if you wanna go",
+          "startMs": 126096,
+          "text": "So if you wanna go"
+        },
+        {
+          "key": "127526|Baby let's go",
+          "startMs": 127526,
+          "text": "Baby let's go"
+        },
+        {
+          "key": "128936|If you wanna rock",
+          "startMs": 128936,
+          "text": "If you wanna rock"
+        },
+        {
+          "key": "130156|I'm ready to roll",
+          "startMs": 130156,
+          "text": "I'm ready to roll"
+        },
+        {
+          "key": "131666|If you wanna slow",
+          "startMs": 131666,
+          "text": "If you wanna slow"
+        },
+        {
+          "key": "134746|Down",
+          "startMs": 134746,
+          "text": "Down"
+        },
+        {
+          "key": "136176|We can slow down together",
+          "startMs": 136176,
+          "text": "We can slow down together"
+        },
+        {
+          "key": "138546|If you wanna walk",
+          "startMs": 138546,
+          "text": "If you wanna walk"
+        },
+        {
+          "key": "139816|Baby let's walk",
+          "startMs": 139816,
+          "text": "Baby let's walk"
+        },
+        {
+          "key": "141216|Have a little kiss",
+          "startMs": 141216,
+          "text": "Have a little kiss"
+        },
+        {
+          "key": "142656|Have a little talk",
+          "startMs": 142656,
+          "text": "Have a little talk"
+        },
+        {
+          "key": "143886|We don't gotta leave at all",
+          "startMs": 143886,
+          "text": "We don't gotta leave at all"
+        },
+        {
+          "key": "148396|We can lay here forever",
+          "startMs": 148396,
+          "text": "We can lay here forever"
+        },
+        {
+          "key": "151346|Stay here forever",
+          "startMs": 151346,
+          "text": "Stay here forever"
+        },
+        {
+          "key": "153416|Let's just lay here forever",
+          "startMs": 153416,
+          "text": "Let's just lay here forever"
+        },
+        {
+          "key": "156776|Stay here forever oh oh",
+          "startMs": 156776,
+          "text": "Stay here forever oh oh"
+        },
+        {
+          "key": "160646|Oh oh",
+          "startMs": 160646,
+          "text": "Oh oh"
+        },
+        {
+          "key": "161406|Oh oh",
+          "startMs": 161406,
+          "text": "Oh oh"
+        },
+        {
+          "key": "162796|Oh oh",
+          "startMs": 162796,
+          "text": "Oh oh"
+        },
+        {
+          "key": "163396|Oh oh",
+          "startMs": 163396,
+          "text": "Oh oh"
+        },
+        {
+          "key": "164596|Oh oh",
+          "startMs": 164596,
+          "text": "Oh oh"
+        },
+        {
+          "key": "166396|Oh oh",
+          "startMs": 166396,
+          "text": "Oh oh"
+        },
+        {
+          "key": "166856|Oh oh oh",
+          "startMs": 166856,
+          "text": "Oh oh oh"
+        },
+        {
+          "key": "167336|Oh oh",
+          "startMs": 167336,
+          "text": "Oh oh"
+        },
+        {
+          "key": "169126|Oh oh",
+          "startMs": 169126,
+          "text": "Oh oh"
+        }
+      ]
+    },
+    {
+      "rank": 114,
+      "songKey": "online:kugou:33592938027bdc76195a4acbc3d53d8c",
+      "name": "Exile",
+      "artist": "Alyssa Caroline / Josh Napert",
+      "lines": [
+        {
+          "key": "1872|Exile - Alyssa Caroline/Josh Napert",
+          "startMs": 1872,
+          "text": "Exile - Alyssa Caroline/Josh Napert"
+        },
+        {
+          "key": "3528|Lyrics by：Taylor Swift/Justin Vernon/William Bowery",
+          "startMs": 3528,
+          "text": "Lyrics by：Taylor Swift/Justin Vernon/William Bowery"
+        },
+        {
+          "key": "5760|Composed by：Taylor Swift/Justin Vernon/William Bowery",
+          "startMs": 5760,
+          "text": "Composed by：Taylor Swift/Justin Vernon/William Bowery"
+        },
+        {
+          "key": "13609|I can see you standin' honey",
+          "startMs": 13609,
+          "text": "I can see you standin' honey"
+        },
+        {
+          "key": "16578|With his arms around your body",
+          "startMs": 16578,
+          "text": "With his arms around your body"
+        },
+        {
+          "key": "19784|Laughin' but the joke's not funny at all",
+          "startMs": 19784,
+          "text": "Laughin' but the joke's not funny at all"
+        },
+        {
+          "key": "25956|And it took you five whole minutes",
+          "startMs": 25956,
+          "text": "And it took you five whole minutes"
+        },
+        {
+          "key": "28952|To pack us up and leave me with it",
+          "startMs": 28952,
+          "text": "To pack us up and leave me with it"
+        },
+        {
+          "key": "32440|Holdin' all this love out here in the hall",
+          "startMs": 32440,
+          "text": "Holdin' all this love out here in the hall"
+        },
+        {
+          "key": "38698|I think I've seen this film before",
+          "startMs": 38698,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "42580|And I didn't like the ending",
+          "startMs": 42580,
+          "text": "And I didn't like the ending"
+        },
+        {
+          "key": "45117|You're not my homeland anymore",
+          "startMs": 45117,
+          "text": "You're not my homeland anymore"
+        },
+        {
+          "key": "49135|So what am I defendin' now",
+          "startMs": 49135,
+          "text": "So what am I defendin' now"
+        },
+        {
+          "key": "51746|You my town",
+          "startMs": 51746,
+          "text": "You my town"
+        },
+        {
+          "key": "53442|Now I'm in exile seein' you out",
+          "startMs": 53442,
+          "text": "Now I'm in exile seein' you out"
+        },
+        {
+          "key": "58473|I think I've seen this film before",
+          "startMs": 58473,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "64430|Hoo hoo ooh",
+          "startMs": 64430,
+          "text": "Hoo hoo ooh"
+        },
+        {
+          "key": "67591|Hoo hoo ooh",
+          "startMs": 67591,
+          "text": "Hoo hoo ooh"
+        },
+        {
+          "key": "70639|Hoo hoo ooh",
+          "startMs": 70639,
+          "text": "Hoo hoo ooh"
+        },
+        {
+          "key": "76634|I can see you starin' honey",
+          "startMs": 76634,
+          "text": "I can see you starin' honey"
+        },
+        {
+          "key": "79852|Like he's just your understudy",
+          "startMs": 79852,
+          "text": "Like he's just your understudy"
+        },
+        {
+          "key": "82905|Like you'd get your knuckles bloody for me",
+          "startMs": 82905,
+          "text": "Like you'd get your knuckles bloody for me"
+        },
+        {
+          "key": "89309|Second third and hundredth chances",
+          "startMs": 89309,
+          "text": "Second third and hundredth chances"
+        },
+        {
+          "key": "92461|Balancin' on breaking branches",
+          "startMs": 92461,
+          "text": "Balancin' on breaking branches"
+        },
+        {
+          "key": "95644|Those eyes add insult to injury",
+          "startMs": 95644,
+          "text": "Those eyes add insult to injury"
+        },
+        {
+          "key": "102125|I think I've seen this film before",
+          "startMs": 102125,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "105916|And I didn't like the ending",
+          "startMs": 105916,
+          "text": "And I didn't like the ending"
+        },
+        {
+          "key": "108236|I'm not your problem anymore",
+          "startMs": 108236,
+          "text": "I'm not your problem anymore"
+        },
+        {
+          "key": "112500|So who am I offending now",
+          "startMs": 112500,
+          "text": "So who am I offending now"
+        },
+        {
+          "key": "114894|You were my crown",
+          "startMs": 114894,
+          "text": "You were my crown"
+        },
+        {
+          "key": "116455|Now I'm in exile seein' you out",
+          "startMs": 116455,
+          "text": "Now I'm in exile seein' you out"
+        },
+        {
+          "key": "121434|I think I've seen this film before",
+          "startMs": 121434,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "124866|So I'm leavin' out the side door",
+          "startMs": 124866,
+          "text": "So I'm leavin' out the side door"
+        },
+        {
+          "key": "128916|So step right out",
+          "startMs": 128916,
+          "text": "So step right out"
+        },
+        {
+          "key": "131754|There is no amount",
+          "startMs": 131754,
+          "text": "There is no amount"
+        },
+        {
+          "key": "134573|Of cryin' I can do for",
+          "startMs": 134573,
+          "text": "Of cryin' I can do for"
+        },
+        {
+          "key": "138244|All this time",
+          "startMs": 138244,
+          "text": "All this time"
+        },
+        {
+          "key": "140793|We always walked a very thin line",
+          "startMs": 140793,
+          "text": "We always walked a very thin line"
+        },
+        {
+          "key": "143782|You didn't even hear me out you didn't even hear me out",
+          "startMs": 143782,
+          "text": "You didn't even hear me out you didn't even hear me out"
+        },
+        {
+          "key": "147458|You never gave a warning sign I gave so many signs",
+          "startMs": 147458,
+          "text": "You never gave a warning sign I gave so many signs"
+        },
+        {
+          "key": "151236|All this time",
+          "startMs": 151236,
+          "text": "All this time"
+        },
+        {
+          "key": "153410|I never learned to read your mind",
+          "startMs": 153410,
+          "text": "I never learned to read your mind"
+        },
+        {
+          "key": "155859|Never learned to read my mind",
+          "startMs": 155859,
+          "text": "Never learned to read my mind"
+        },
+        {
+          "key": "156971|I couldn't turn things around you never turned things around",
+          "startMs": 156971,
+          "text": "I couldn't turn things around you never turned things around"
+        },
+        {
+          "key": "159829|'Cause you never gave a warning sign I gave so many signs",
+          "startMs": 159829,
+          "text": "'Cause you never gave a warning sign I gave so many signs"
+        },
+        {
+          "key": "165443|So many signs",
+          "startMs": 165443,
+          "text": "So many signs"
+        },
+        {
+          "key": "168580|So many signs you didn't even see the signs",
+          "startMs": 168580,
+          "text": "So many signs you didn't even see the signs"
+        },
+        {
+          "key": "177653|I think I've seen this film before",
+          "startMs": 177653,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "181608|And I didn't like the ending",
+          "startMs": 181608,
+          "text": "And I didn't like the ending"
+        },
+        {
+          "key": "184168|You're not my homeland anymore",
+          "startMs": 184168,
+          "text": "You're not my homeland anymore"
+        },
+        {
+          "key": "188304|So what am I defending now",
+          "startMs": 188304,
+          "text": "So what am I defending now"
+        },
+        {
+          "key": "190648|You were my town",
+          "startMs": 190648,
+          "text": "You were my town"
+        },
+        {
+          "key": "192290|Now I'm in exile seein' you out",
+          "startMs": 192290,
+          "text": "Now I'm in exile seein' you out"
+        },
+        {
+          "key": "196670|I think I've seen this film before",
+          "startMs": 196670,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "200661|So I'm leaving out the side door",
+          "startMs": 200661,
+          "text": "So I'm leaving out the side door"
+        },
+        {
+          "key": "204673|So step right out",
+          "startMs": 204673,
+          "text": "So step right out"
+        },
+        {
+          "key": "207546|There is no amount",
+          "startMs": 207546,
+          "text": "There is no amount"
+        },
+        {
+          "key": "210147|Of cryin' I can do for you",
+          "startMs": 210147,
+          "text": "Of cryin' I can do for you"
+        },
+        {
+          "key": "214343|All this time",
+          "startMs": 214343,
+          "text": "All this time"
+        },
+        {
+          "key": "216658|We always walked a very thin line",
+          "startMs": 216658,
+          "text": "We always walked a very thin line"
+        },
+        {
+          "key": "219407|You didn't even hear me out you didn't even hear me out",
+          "startMs": 219407,
+          "text": "You didn't even hear me out you didn't even hear me out"
+        },
+        {
+          "key": "223489|You never gave a warning sign I gave so many signs",
+          "startMs": 223489,
+          "text": "You never gave a warning sign I gave so many signs"
+        },
+        {
+          "key": "227360|All this time",
+          "startMs": 227360,
+          "text": "All this time"
+        },
+        {
+          "key": "229217|I never learned to read your mind",
+          "startMs": 229217,
+          "text": "I never learned to read your mind"
+        },
+        {
+          "key": "231433|Never learned to read my mind",
+          "startMs": 231433,
+          "text": "Never learned to read my mind"
+        },
+        {
+          "key": "232865|I couldn't turn things around you never turned things around",
+          "startMs": 232865,
+          "text": "I couldn't turn things around you never turned things around"
+        },
+        {
+          "key": "235690|'Cause you never gave a warning sign I gave so many signs",
+          "startMs": 235690,
+          "text": "'Cause you never gave a warning sign I gave so many signs"
+        },
+        {
+          "key": "239112|All this time so many signs",
+          "startMs": 239112,
+          "text": "All this time so many signs"
+        },
+        {
+          "key": "242064|I never learned to read your mind so many signs",
+          "startMs": 242064,
+          "text": "I never learned to read your mind so many signs"
+        },
+        {
+          "key": "244998|I couldn't turn things around so many signs",
+          "startMs": 244998,
+          "text": "I couldn't turn things around so many signs"
+        },
+        {
+          "key": "248159|'Cause you never gave a warning sign never gave a warning sign",
+          "startMs": 248159,
+          "text": "'Cause you never gave a warning sign never gave a warning sign"
+        }
+      ]
+    },
+    {
+      "rank": 115,
+      "songKey": "online:kugou:48a73328ace085dfc6b03bddbfcf07bd",
+      "name": "exile",
+      "artist": "Taylor Swift / Bon Iver",
+      "lines": [
+        {
+          "key": "0|exile - Taylor Swift、Bon Iver",
+          "startMs": 0,
+          "text": "exile - Taylor Swift、Bon Iver"
+        },
+        {
+          "key": "1155|Written by：Taylor Swift/William Bowery/Justin Vernon",
+          "startMs": 1155,
+          "text": "Written by：Taylor Swift/William Bowery/Justin Vernon"
+        },
+        {
+          "key": "3228|© ２０２０ TASRM Publishing, administered by：Songs Of Universal, Inc. (BMI), William Bowery Music",
+          "startMs": 3228,
+          "text": "© ２０２０ TASRM Publishing, administered by：Songs Of Universal, Inc. (BMI), William Bowery Music"
+        },
+        {
+          "key": "6935|Publishing, administered by：Songs Of Universal, Inc. (BMI), April Base",
+          "startMs": 6935,
+          "text": "Publishing, administered by：Songs Of Universal, Inc. (BMI), April Base"
+        },
+        {
+          "key": "9725|Publishing, administered by：Kobalt Songs Music Publishing (ASCAP), Justin Deyarmond Edison Vernon (ASCAP).",
+          "startMs": 9725,
+          "text": "Publishing, administered by：Kobalt Songs Music Publishing (ASCAP), Justin Deyarmond Edison Vernon (ASCAP)."
+        },
+        {
+          "key": "13950|All Rights Reserved. Used by Permission.",
+          "startMs": 13950,
+          "text": "All Rights Reserved. Used by Permission."
+        },
+        {
+          "key": "14200|Produced by：Aaron Dessner",
+          "startMs": 14200,
+          "text": "Produced by：Aaron Dessner"
+        },
+        {
+          "key": "14201|Recorded by：Aaron Dessner and Jonathan Low at Long Pond (Hudson Valley, NY)",
+          "startMs": 14201,
+          "text": "Recorded by：Aaron Dessner and Jonathan Low at Long Pond (Hudson Valley, NY)"
+        },
+        {
+          "key": "14204|Taylor Swift vocals recorded by：Laura Sisk at the Kitty Committee Studio (Los Angeles, CA)",
+          "startMs": 14204,
+          "text": "Taylor Swift vocals recorded by：Laura Sisk at the Kitty Committee Studio (Los Angeles, CA)"
+        },
+        {
+          "key": "14208|Bon Iver vocals recorded by：Justin Vernon at April Base (Fall Creek, WI)",
+          "startMs": 14208,
+          "text": "Bon Iver vocals recorded by：Justin Vernon at April Base (Fall Creek, WI)"
+        },
+        {
+          "key": "14211|Recorded by：Aaron Dessner and Jonathan Low at Long Pond (Hudson Valley, NY)",
+          "startMs": 14211,
+          "text": "Recorded by：Aaron Dessner and Jonathan Low at Long Pond (Hudson Valley, NY)"
+        },
+        {
+          "key": "14215|Mixed by：Jonathan Low at Long Pond (Hudson Valley, NY)",
+          "startMs": 14215,
+          "text": "Mixed by：Jonathan Low at Long Pond (Hudson Valley, NY)"
+        },
+        {
+          "key": "14217|Mastered by：Randy Merrill at Sterling Sound (New York, NY)",
+          "startMs": 14217,
+          "text": "Mastered by：Randy Merrill at Sterling Sound (New York, NY)"
+        },
+        {
+          "key": "14220|Piano, Electric Guitar, Synthesizer, OP１, Drum Programming, Percussion by：Aaron Dessner (Hudson Valley, NY)",
+          "startMs": 14220,
+          "text": "Piano, Electric Guitar, Synthesizer, OP１, Drum Programming, Percussion by：Aaron Dessner (Hudson Valley, NY)"
+        },
+        {
+          "key": "14225|Orchestration by：Bryce Dessner (Biarritz, FR)",
+          "startMs": 14225,
+          "text": "Orchestration by：Bryce Dessner (Biarritz, FR)"
+        },
+        {
+          "key": "14227|Violin and Viola by：Rob Moose (Brooklyn, NY) recorded by Rob Moose",
+          "startMs": 14227,
+          "text": "Violin and Viola by：Rob Moose (Brooklyn, NY) recorded by Rob Moose"
+        },
+        {
+          "key": "14230|Bon Iver appears courtesy of：Jagjaguwar",
+          "startMs": 14230,
+          "text": "Bon Iver appears courtesy of：Jagjaguwar"
+        },
+        {
+          "key": "14250|I can see you standing honey",
+          "startMs": 14250,
+          "text": "I can see you standing honey"
+        },
+        {
+          "key": "17310|With his arms around your body",
+          "startMs": 17310,
+          "text": "With his arms around your body"
+        },
+        {
+          "key": "20630|Laughing but the joke's not funny at all",
+          "startMs": 20630,
+          "text": "Laughing but the joke's not funny at all"
+        },
+        {
+          "key": "27404|And it took you five whole minutes",
+          "startMs": 27404,
+          "text": "And it took you five whole minutes"
+        },
+        {
+          "key": "30654|To pack us up and leave me with it",
+          "startMs": 30654,
+          "text": "To pack us up and leave me with it"
+        },
+        {
+          "key": "34084|Holding all this love out here in the hall",
+          "startMs": 34084,
+          "text": "Holding all this love out here in the hall"
+        },
+        {
+          "key": "40804|I think I've seen this film before",
+          "startMs": 40804,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "44924|And I didn't like the ending",
+          "startMs": 44924,
+          "text": "And I didn't like the ending"
+        },
+        {
+          "key": "47304|You're not my homeland anymore",
+          "startMs": 47304,
+          "text": "You're not my homeland anymore"
+        },
+        {
+          "key": "51564|So what am I defending now",
+          "startMs": 51564,
+          "text": "So what am I defending now"
+        },
+        {
+          "key": "54254|You were my town",
+          "startMs": 54254,
+          "text": "You were my town"
+        },
+        {
+          "key": "55874|Now I'm in exile seeing you out",
+          "startMs": 55874,
+          "text": "Now I'm in exile seeing you out"
+        },
+        {
+          "key": "61050|I think I've seen this film before",
+          "startMs": 61050,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "80288|I can see you staring honey",
+          "startMs": 80288,
+          "text": "I can see you staring honey"
+        },
+        {
+          "key": "83568|Like he's just your understudy",
+          "startMs": 83568,
+          "text": "Like he's just your understudy"
+        },
+        {
+          "key": "86898|Like you'd get your knuckles bloody for me",
+          "startMs": 86898,
+          "text": "Like you'd get your knuckles bloody for me"
+        },
+        {
+          "key": "93536|Second third and hundredth chances",
+          "startMs": 93536,
+          "text": "Second third and hundredth chances"
+        },
+        {
+          "key": "96916|Balancing on breaking branches",
+          "startMs": 96916,
+          "text": "Balancing on breaking branches"
+        },
+        {
+          "key": "100096|Those eyes add insult to injury",
+          "startMs": 100096,
+          "text": "Those eyes add insult to injury"
+        },
+        {
+          "key": "106910|I think I've seen this film before",
+          "startMs": 106910,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "111010|And I didn't like the ending",
+          "startMs": 111010,
+          "text": "And I didn't like the ending"
+        },
+        {
+          "key": "113450|I'm not your problem anymore",
+          "startMs": 113450,
+          "text": "I'm not your problem anymore"
+        },
+        {
+          "key": "117690|So who am I offending now",
+          "startMs": 117690,
+          "text": "So who am I offending now"
+        },
+        {
+          "key": "120410|You were my crown",
+          "startMs": 120410,
+          "text": "You were my crown"
+        },
+        {
+          "key": "122080|Now I'm in exile seeing you out",
+          "startMs": 122080,
+          "text": "Now I'm in exile seeing you out"
+        },
+        {
+          "key": "127164|I think I've seen this film before",
+          "startMs": 127164,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "130514|So I'm leaving out the side door",
+          "startMs": 130514,
+          "text": "So I'm leaving out the side door"
+        },
+        {
+          "key": "134744|So step right out",
+          "startMs": 134744,
+          "text": "So step right out"
+        },
+        {
+          "key": "137734|There is no amount",
+          "startMs": 137734,
+          "text": "There is no amount"
+        },
+        {
+          "key": "140254|Of crying I can do for you",
+          "startMs": 140254,
+          "text": "Of crying I can do for you"
+        },
+        {
+          "key": "144014|All this time",
+          "startMs": 144014,
+          "text": "All this time"
+        },
+        {
+          "key": "146504|We always walked a very thin line",
+          "startMs": 146504,
+          "text": "We always walked a very thin line"
+        },
+        {
+          "key": "149634|You didn't even hear me out",
+          "startMs": 149634,
+          "text": "You didn't even hear me out"
+        },
+        {
+          "key": "151714|Didn't even hear me out",
+          "startMs": 151714,
+          "text": "Didn't even hear me out"
+        },
+        {
+          "key": "152734|You never gave a warning sign",
+          "startMs": 152734,
+          "text": "You never gave a warning sign"
+        },
+        {
+          "key": "154164|I gave so many signs",
+          "startMs": 154164,
+          "text": "I gave so many signs"
+        },
+        {
+          "key": "156534|All this time",
+          "startMs": 156534,
+          "text": "All this time"
+        },
+        {
+          "key": "158944|I never learned to read your mind",
+          "startMs": 158944,
+          "text": "I never learned to read your mind"
+        },
+        {
+          "key": "160674|Never learned to read my mind",
+          "startMs": 160674,
+          "text": "Never learned to read my mind"
+        },
+        {
+          "key": "162154|I couldn't turn things around",
+          "startMs": 162154,
+          "text": "I couldn't turn things around"
+        },
+        {
+          "key": "164224|You never turned things around",
+          "startMs": 164224,
+          "text": "You never turned things around"
+        },
+        {
+          "key": "165104|Cause you never gave a warning sign",
+          "startMs": 165104,
+          "text": "Cause you never gave a warning sign"
+        },
+        {
+          "key": "166624|I gave so many signs",
+          "startMs": 166624,
+          "text": "I gave so many signs"
+        },
+        {
+          "key": "170644|So many signs",
+          "startMs": 170644,
+          "text": "So many signs"
+        },
+        {
+          "key": "173844|So many signs",
+          "startMs": 173844,
+          "text": "So many signs"
+        },
+        {
+          "key": "177674|You didn't even see the signs",
+          "startMs": 177674,
+          "text": "You didn't even see the signs"
+        },
+        {
+          "key": "182914|I think I've seen this film before",
+          "startMs": 182914,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "186844|And I didn't like the ending",
+          "startMs": 186844,
+          "text": "And I didn't like the ending"
+        },
+        {
+          "key": "189194|You're not my homeland anymore",
+          "startMs": 189194,
+          "text": "You're not my homeland anymore"
+        },
+        {
+          "key": "193324|So what am I defending now",
+          "startMs": 193324,
+          "text": "So what am I defending now"
+        },
+        {
+          "key": "195934|You were my town",
+          "startMs": 195934,
+          "text": "You were my town"
+        },
+        {
+          "key": "197564|Now I'm in exile seeing you out",
+          "startMs": 197564,
+          "text": "Now I'm in exile seeing you out"
+        },
+        {
+          "key": "201854|I think I've seen this film before",
+          "startMs": 201854,
+          "text": "I think I've seen this film before"
+        },
+        {
+          "key": "205714|So I'm leaving out the side door",
+          "startMs": 205714,
+          "text": "So I'm leaving out the side door"
+        },
+        {
+          "key": "209974|So step right out",
+          "startMs": 209974,
+          "text": "So step right out"
+        },
+        {
+          "key": "212944|There is no amount",
+          "startMs": 212944,
+          "text": "There is no amount"
+        },
+        {
+          "key": "216015|Of crying I can do for you",
+          "startMs": 216015,
+          "text": "Of crying I can do for you"
+        },
+        {
+          "key": "219284|All this time",
+          "startMs": 219284,
+          "text": "All this time"
+        },
+        {
+          "key": "221844|We always walked a very thin line",
+          "startMs": 221844,
+          "text": "We always walked a very thin line"
+        },
+        {
+          "key": "225024|You didn't even hear me out",
+          "startMs": 225024,
+          "text": "You didn't even hear me out"
+        },
+        {
+          "key": "227124|Didn't even hear me out",
+          "startMs": 227124,
+          "text": "Didn't even hear me out"
+        },
+        {
+          "key": "228424|You never gave a warning sign",
+          "startMs": 228424,
+          "text": "You never gave a warning sign"
+        },
+        {
+          "key": "229584|I gave so many signs",
+          "startMs": 229584,
+          "text": "I gave so many signs"
+        },
+        {
+          "key": "232354|All this time",
+          "startMs": 232354,
+          "text": "All this time"
+        },
+        {
+          "key": "234454|I never learned to read your mind",
+          "startMs": 234454,
+          "text": "I never learned to read your mind"
+        },
+        {
+          "key": "236654|Never learned to read my mind",
+          "startMs": 236654,
+          "text": "Never learned to read my mind"
+        },
+        {
+          "key": "237794|I couldn't turn things around",
+          "startMs": 237794,
+          "text": "I couldn't turn things around"
+        },
+        {
+          "key": "239434|You never turned things around",
+          "startMs": 239434,
+          "text": "You never turned things around"
+        },
+        {
+          "key": "240754|Cause you never gave a warning sign",
+          "startMs": 240754,
+          "text": "Cause you never gave a warning sign"
+        },
+        {
+          "key": "242224|I gave so many signs",
+          "startMs": 242224,
+          "text": "I gave so many signs"
+        },
+        {
+          "key": "246484|So many signs",
+          "startMs": 246484,
+          "text": "So many signs"
+        },
+        {
+          "key": "249534|So many signs",
+          "startMs": 249534,
+          "text": "So many signs"
+        },
+        {
+          "key": "253174|Cause you never gave a warning sign",
+          "startMs": 253174,
+          "text": "Cause you never gave a warning sign"
+        },
+        {
+          "key": "255886|You never gave a warning sign",
+          "startMs": 255886,
+          "text": "You never gave a warning sign"
+        },
+        {
+          "key": "257023|You never gave a warning sign",
+          "startMs": 257023,
+          "text": "You never gave a warning sign"
+        },
+        {
+          "key": "267084|Ah ah",
+          "startMs": 267084,
+          "text": "Ah ah"
+        }
+      ]
+    }
+  ]
+}
