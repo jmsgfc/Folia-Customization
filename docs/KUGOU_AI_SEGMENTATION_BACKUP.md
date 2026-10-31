@@ -15,8 +15,15 @@
 
 - `.codex-tasks/kugou-ai-segmentation/manifest.json`：固定歌曲清单和处理状态。
 - `.codex-tasks/kugou-ai-segmentation/batches/`：20 个输入批次及 99 个逐曲分词输出。
+- `.codex-tasks/kugou-ai-segmentation/lrc/`：由输入批次导出的 99 个标准 LRC 歌词文件，共 5,358 行，时间戳精确到毫秒。
 - `scripts/codex-kugou-ai-segmentation.mjs`：获取、校验、写回和审计工具。
 - `task_plan.md`、`findings.md`、`progress.md`：任务计划、技术发现和执行记录。
+
+标准 LRC 只保存逐行歌词和时间轴，不定义 AI 分词字段；AI 分词边界仍以 `batches/*-output-part-*.json` 为准。需要重新生成 LRC 时执行：
+
+```powershell
+node scripts\codex-kugou-ai-segmentation.mjs export-lrc
+```
 
 ## 恢复到 Android 设备
 

@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 const root = path.resolve('.codex-tasks/kugou-ai-segmentation');
@@ -18,6 +18,19 @@ const writeJson = async (file, value) => {
   await mkdir(path.dirname(file), { recursive: true });
   await writeFile(file, `${JSON.stringify(value, null, 2)}\n`, 'utf8');
 };
+
+const formatLrcTimestamp = milliseconds => {
+  const safeMs = Math.max(0, Math.round(Number(milliseconds) || 0));
+  const minutes = Math.floor(safeMs / 60_000);
+  const seconds = Math.floor((safeMs % 60_000) / 1000);
+  const millis = safeMs % 1000;
+  return `[${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}.${String(millis).padStart(3, '0')}]`;
+};
+
+const safeFilenamePart = value => String(value || '')
+  .replace(/[<>:"/\\|?*\u0000-\u001f]/gu, '_')
+  .replace(/[. ]+$/gu, '')
+  .trim();
 
 const findFoliaTarget = async () => {
   const targets = await fetch(`http://127.0.0.1:${cdpPort}/json`).then(response => response.json());
@@ -316,6 +329,68 @@ const restoreAll = async () => {
   await audit();
 };
 
+const exportLrc = async () => {
+  const manifest = await readJson(manifestPath);
+  const lrcRoot = path.join(root, 'lrc');
+  await rm(lrcRoot, { recursive: true, force: true });
+  await mkdir(lrcRoot, { recursive: true });
+  let exported = 0;
+  let lyricLines = 0;
+
+  for (const song of manifest.songs) {
+    if (song.status !== 'done') continue;
+    const batchNumber = Math.floor((song.rank - 1) / manifest.batchSize) + 1;
+    const input = await readJson(path.join(
+      root,
+      'batches',
+      `batch-${String(batchNumber).padStart(2, '0')}-input.json`,
+    ));
+    const inputSong = input.songs.find(item => item.songKey === song.songKey);
+    if (!inputSong?.lines?.length) throw new Error(`Lyrics missing for rank ${song.rank}`);
+
+    let previousStart = -1;
+    for (const line of inputSong.lines) {
+      if (!Number.isFinite(Number(line.startMs)) || Number(line.startMs) < previousStart) {
+        throw new Error(`Lyric timestamps are not ordered for rank ${song.rank}`);
+      }
+      previousStart = Number(line.startMs);
+    }
+
+    const header = [
+      `[ti:${song.name}]`,
+      `[ar:${song.artist || ''}]`,
+      '[by:Folia Codex AI segmentation backup]',
+      '',
+    ];
+    const body = inputSong.lines.map(line => `${formatLrcTimestamp(line.startMs)}${String(line.text || '').trimEnd()}`);
+    const hashSuffix = String(song.id || '').slice(0, 8);
+    const baseName = [
+      String(song.rank).padStart(3, '0'),
+      safeFilenamePart(song.name),
+      safeFilenamePart(song.artist),
+      hashSuffix ? `[${hashSuffix}]` : '',
+    ].filter(Boolean).join(' - ').slice(0, 140).replace(/[. ]+$/gu, '');
+    await writeFile(path.join(lrcRoot, `${baseName}.lrc`), `${[...header, ...body].join('\n')}\n`, 'utf8');
+    exported += 1;
+    lyricLines += body.length;
+  }
+
+  const missing = manifest.songs.filter(song => song.status === 'no-lyrics');
+  await writeFile(path.join(lrcRoot, 'README.md'), [
+    '# LRC 歌词导出',
+    '',
+    `- 导出日期：${new Date().toISOString().slice(0, 10)}`,
+    `- LRC 文件：${exported} 个`,
+    `- 歌词行：${lyricLines} 行`,
+    '- 时间戳精度：毫秒（`[mm:ss.mmm]`）',
+    `- 无歌词：${missing.map(song => `${song.rank}. ${song.name}`).join('；') || '无'}`,
+    '',
+    '这些文件由已保存的酷狗逐行歌词生成，不包含 AI 分词边界；对应分词位于同级 `batches/*-output-part-*.json`。',
+    '',
+  ].join('\n'), 'utf8');
+  console.log(`Exported ${exported} LRC files with ${lyricLines} lyric lines`);
+};
+
 const audit = async () => {
   const manifest = await readJson(manifestPath);
   const deviceEntries = await evaluate(`(async()=>{\n`
@@ -424,6 +499,7 @@ if (command === 'init') await init();
 else if (command === 'fetch-batch') await fetchBatch(Number(process.argv[3] || 1));
 else if (command === 'apply') await applyOutput(process.argv[3]);
 else if (command === 'restore-all') await restoreAll();
+else if (command === 'export-lrc') await exportLrc();
 else if (command === 'write-kugou-case-aliases') await writeKugouCaseAliases();
 else if (command === 'audit') await audit();
-else throw new Error('Usage: node scripts/codex-kugou-ai-segmentation.mjs <init|fetch-batch N|apply FILE|restore-all|write-kugou-case-aliases|audit>');
+else throw new Error('Usage: node scripts/codex-kugou-ai-segmentation.mjs <init|fetch-batch N|apply FILE|restore-all|export-lrc|write-kugou-case-aliases|audit>');
