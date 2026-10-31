@@ -1,7 +1,7 @@
 # 第三方组件与许可说明
 
 本仓库是 [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) 的非官方 Android 移植 fork，
-整体以 **AGPL-3.0** 发布，完整许可原文见 [LICENSE](LICENSE)。
+整体以 **AGPL-3.0** 发布，完整许可原文见 [LICENSE](../../LICENSE)。
 
 下面列出本仓库直接包含、或随构建产物（APK / Web 包）一起分发的第三方组件。
 这些许可（MIT / BSD / ISC / Apache-2.0 / AGPL-3.0）都与 AGPL-3.0 兼容，

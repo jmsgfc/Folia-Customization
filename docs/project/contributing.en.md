@@ -1,6 +1,6 @@
 # Contributing to Folia
 
-[简体中文](CONTRIBUTING.md) | [English](CONTRIBUTING.en.md)
+[简体中文](contributing.md) | [English](contributing.en.md)
 
 Thank you for contributing to Folia. You can help by reporting issues, providing reproduction steps, verifying fixes, improving documentation, or submitting code. This guide sets out the requirements for contributions to the mainline. Please read it before making changes or submitting a pull request (PR).
 
@@ -70,4 +70,4 @@ Maintainers may request a different approach, ask you to narrow the scope, or cl
 
 ## License
 
-By submitting a contribution, you confirm that you have the right to provide its contents and agree to release it under this repository's [license](LICENSE). When introducing third-party code, assets, or dependencies, confirm license compatibility and retain any required attribution and license notices.
+By submitting a contribution, you confirm that you have the right to provide its contents and agree to release it under this repository's [license](../../LICENSE). When introducing third-party code, assets, or dependencies, confirm license compatibility and retain any required attribution and license notices.

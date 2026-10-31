@@ -63,7 +63,7 @@ React / Vite
   → Android CookieManager / OkHttp / MediaStore / MediaSession
 ```
 
-更完整的移植说明见 [ANDROID_PORT.md](ANDROID_PORT.md)。
+更完整的移植说明见 [Android 移植说明](docs/project/android-port.md)。
 
 ## 环境要求
 
@@ -117,6 +117,7 @@ adb install -r android/app/build/outputs/apk/debug/app-debug.apk
 
 ```text
 android/                         Capacitor Android 工程与原生插件
+docs/project/                    项目说明、贡献指南与第三方声明
 src/components/visualizer/      歌词动画与背景渲染
 src/nativeBridge/               音乐平台和 Android 兼容桥
 src/services/                   播放、缓存、歌词与平台服务
@@ -124,36 +125,13 @@ src/utils/lyrics/               歌词解析、分词和时间轴工具
 test/                            单元、组件和端到端测试
 ```
 
-## 版本
-
-当前版本为 `1.0.1`。APK 发布文件按以下格式命名：
-
-```text
-Folia-1.0.0.apk
-Folia-1.0.1.apk
-Folia-1.0.2.apk
-```
-
-版本号同时显示在应用的帮助页面中。
-
-## 贡献与反馈
-
-提交 Issue 时请附上：
-
-- Folia 版本和 Android 版本
-- 设备型号与屏幕刷新率
-- 使用的歌词动画、背景模式和帧率设置
-- 可复现步骤；性能问题建议同时附实时 FPS 或开发者悬浮层信息
-
-开发约定和贡献流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。
-
 ## 致谢
 
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)：Folia 原始项目
 - [whycfawa/folia-android](https://github.com/whycfawa/folia-android)：Android 移植基础
 - [yearzen1/bilibili-pure-apk](https://github.com/yearzen1/bilibili-pure-apk)：本 README 的信息组织风格参考
 
-第三方组件与许可证见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
+项目文档统一收录在 [docs/project](docs/project/README.md)，第三方组件与许可证见其中的[第三方声明](docs/project/third-party-notices.md)。
 
 ## 许可证
 
